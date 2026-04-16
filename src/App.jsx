@@ -15,6 +15,7 @@ const chineseCollator = new Intl.Collator("zh-Hans-CN", { numeric: true, sensiti
 const PAGE_SIZE = 96;
 const DETAIL_GALLERY_PAGE_SIZE = 10;
 const SEARCH_ALL_VALUE = "__all__";
+const DEV_EDITOR_ENABLED = import.meta.env.DEV;
 const DESCRIPTION_NOISE_MARKERS = [
   /pointer-events-auto/i,
   /request-WEB:/i,
@@ -575,7 +576,7 @@ function getCoverSourceLabel(sourceKey, locale = "zh") {
 }
 
 function loadCatalog() {
-  return fetch("/data/catalog.json").then((response) => {
+  return fetch("/data/catalog.json", { cache: "no-store" }).then((response) => {
     if (!response.ok) {
       throw new Error("无法加载 catalog.json");
     }
@@ -584,12 +585,116 @@ function loadCatalog() {
 }
 
 function loadCultivar(id) {
-  return fetch(`/data/details/${id}.json`).then((response) => {
+  return fetch(`/data/details/${id}.json`, { cache: "no-store" }).then((response) => {
     if (!response.ok) {
       throw new Error("无法加载该品种详情");
     }
     return response.json().then((record) => localizeRecord(record));
   });
+}
+
+function loadDevRecord(id) {
+  return fetch(`/__dev/record/${id}`, { cache: "no-store" }).then(async (response) => {
+    const payload = await response.json().catch(() => ({}));
+    if (!response.ok) {
+      throw new Error(payload.error || "无法加载开发编辑数据");
+    }
+    return payload.record;
+  });
+}
+
+function saveDevRecord(id, record) {
+  return fetch(`/__dev/record/${id}`, {
+    method: "POST",
+    headers: {
+      "content-type": "application/json",
+    },
+    body: JSON.stringify({ record }),
+  }).then(async (response) => {
+    const payload = await response.json().catch(() => ({}));
+    if (!response.ok) {
+      throw new Error(payload.error || "保存失败");
+    }
+    return payload.record;
+  });
+}
+
+function pickEditableRecord(record) {
+  return {
+    canonical_name: record.canonical_name ?? "",
+    display_name: record.display_name ?? "",
+    chinese_name: record.chinese_name ?? "",
+    scientific_name: record.scientific_name ?? "",
+    species: record.species ?? "",
+    top_category: record.top_category ?? "",
+    web_group: record.web_group ?? "",
+    book_groups: record.book_groups || [],
+    color_groups: record.color_groups || [],
+    aliases: record.aliases || [],
+    search_terms: record.search_terms || [],
+    descriptions: record.descriptions || {},
+    descriptions_zh: record.descriptions_zh || {},
+    sources: record.sources || [],
+  };
+}
+
+function assertEditableRecordShape(record) {
+  if (!record || typeof record !== "object" || Array.isArray(record)) {
+    throw new Error("编辑内容必须是 JSON 对象");
+  }
+
+  ["book_groups", "color_groups", "aliases", "search_terms", "sources"].forEach((key) => {
+    if (Object.prototype.hasOwnProperty.call(record, key) && !Array.isArray(record[key])) {
+      throw new Error(`${key} 必须是数组`);
+    }
+  });
+
+  ["descriptions", "descriptions_zh"].forEach((key) => {
+    if (
+      Object.prototype.hasOwnProperty.call(record, key)
+      && (
+        !record[key]
+        || typeof record[key] !== "object"
+        || Array.isArray(record[key])
+      )
+    ) {
+      throw new Error(`${key} 必须是对象`);
+    }
+  });
+}
+
+function mergeEditableRecord(baseRecord, editedRecord) {
+  const nextRecord = { ...baseRecord };
+
+  [
+    "canonical_name",
+    "display_name",
+    "chinese_name",
+    "scientific_name",
+    "species",
+    "top_category",
+    "web_group",
+  ].forEach((key) => {
+    if (Object.prototype.hasOwnProperty.call(editedRecord, key)) {
+      nextRecord[key] = editedRecord[key];
+    }
+  });
+
+  [
+    "book_groups",
+    "color_groups",
+    "aliases",
+    "search_terms",
+    "sources",
+    "descriptions",
+    "descriptions_zh",
+  ].forEach((key) => {
+    if (Object.prototype.hasOwnProperty.call(editedRecord, key)) {
+      nextRecord[key] = editedRecord[key];
+    }
+  });
+
+  return nextRecord;
 }
 
 function summarizeText(text, locale = "zh", limit) {
@@ -1226,16 +1331,55 @@ function DetailPage({ locale, strings }) {
   const [error, setError] = useState("");
   const [previewIndex, setPreviewIndex] = useState(null);
   const [visibleImageCount, setVisibleImageCount] = useState(DETAIL_GALLERY_PAGE_SIZE);
+  const [editorOpen, setEditorOpen] = useState(false);
+  const [editorBaseRecord, setEditorBaseRecord] = useState(null);
+  const [editorDraft, setEditorDraft] = useState("");
+  const [editorState, setEditorState] = useState("idle");
+  const [editorMessage, setEditorMessage] = useState("");
   const previewImages = item ? uniqueValues([getVisibleCover(item), ...getVisibleImagePaths(item)]) : [];
   const galleryImages = item ? getVisibleImagePaths(item) : [];
   const visibleGalleryImages = galleryImages.slice(0, visibleImageCount);
   const hasMoreGalleryImages = visibleGalleryImages.length < galleryImages.length;
+  const devEditorText = locale === "en"
+    ? {
+        title: "Dev Editor",
+        subtitle: "Edit key JSON fields for the current cultivar. Hidden in production builds.",
+        closedHint: "Open the editor to modify the raw record and regenerate public data immediately.",
+        note: "Only key fields are exposed here. Images, RHS, Mr Maple, Herter, and NCSU download metadata are preserved from the raw record.",
+        open: "Edit",
+        close: "Close",
+        reset: "Reset",
+        save: "Save",
+        loading: "Loading editable JSON…",
+        saving: "Saving…",
+        saved: "Saved. Raw data updated and public data regenerated.",
+        jsonLabel: "Editable JSON",
+      }
+    : {
+        title: "开发编辑",
+        subtitle: "直接编辑当前品种的关键 JSON 字段。生产构建中会自动隐藏。",
+        closedHint: "打开编辑器后可修改 raw 记录，并立即重新生成前端数据。",
+        note: "这里只暴露关键字段。图片、RHS、Mr Maple、Herter、NCSU 的下载元数据会保留，不会被这块编辑器覆盖。",
+        open: "编辑",
+        close: "关闭",
+        reset: "重置",
+        save: "保存",
+        loading: "正在加载可编辑 JSON…",
+        saving: "正在保存…",
+        saved: "保存完成，raw 数据与前端生成数据都已更新。",
+        jsonLabel: "可编辑 JSON",
+      };
 
   useEffect(() => {
     setStatus("loading");
     setError("");
     setPreviewIndex(null);
     setVisibleImageCount(DETAIL_GALLERY_PAGE_SIZE);
+    setEditorOpen(false);
+    setEditorBaseRecord(null);
+    setEditorDraft("");
+    setEditorState("idle");
+    setEditorMessage("");
 
     loadCultivar(id)
       .then((data) => {
@@ -1366,6 +1510,63 @@ function DetailPage({ locale, strings }) {
     });
   }
 
+  async function handleEditorToggle() {
+    if (editorOpen) {
+      setEditorOpen(false);
+      return;
+    }
+
+    setEditorOpen(true);
+    setEditorState("loading");
+    setEditorMessage("");
+
+    try {
+      const record = await loadDevRecord(id);
+      setEditorBaseRecord(record);
+      setEditorDraft(JSON.stringify(pickEditableRecord(record), null, 2));
+      setEditorState("idle");
+    } catch (err) {
+      setEditorState("error");
+      setEditorMessage(err.message);
+    }
+  }
+
+  function handleEditorReset() {
+    if (!editorBaseRecord) {
+      return;
+    }
+
+    setEditorDraft(JSON.stringify(pickEditableRecord(editorBaseRecord), null, 2));
+    setEditorState("idle");
+    setEditorMessage("");
+  }
+
+  async function handleEditorSave() {
+    if (!editorBaseRecord) {
+      return;
+    }
+
+    setEditorState("saving");
+    setEditorMessage("");
+
+    try {
+      const parsed = JSON.parse(editorDraft);
+      assertEditableRecordShape(parsed);
+      const nextRecord = mergeEditableRecord(editorBaseRecord, parsed);
+      const savedRecord = await saveDevRecord(id, nextRecord);
+      const nextItem = await loadCultivar(id);
+
+      setEditorBaseRecord(savedRecord);
+      setEditorDraft(JSON.stringify(pickEditableRecord(savedRecord), null, 2));
+      setItem(nextItem);
+      setEditorState("saved");
+      setEditorMessage(devEditorText.saved);
+    } catch (err) {
+      setEditorState("error");
+      setEditorMessage(err.message);
+    }
+  }
+
   return (
     <>
       <div className="page-shell detail-shell">
@@ -1452,6 +1653,72 @@ function DetailPage({ locale, strings }) {
             </div>
           </article>
         </section>
+
+        {DEV_EDITOR_ENABLED ? (
+          <section className="section-block dev-editor-section">
+            <div className="section-head">
+              <div>
+                <h2>{devEditorText.title}</h2>
+                <p>{devEditorText.subtitle}</p>
+              </div>
+              <div className="dev-editor-toolbar">
+                <button
+                  type="button"
+                  className="detail-toggle"
+                  onClick={handleEditorToggle}
+                >
+                  {editorOpen ? devEditorText.close : devEditorText.open}
+                </button>
+                {editorOpen ? (
+                  <button
+                    type="button"
+                    className="detail-toggle"
+                    onClick={handleEditorReset}
+                    disabled={!editorBaseRecord || editorState === "saving"}
+                  >
+                    {devEditorText.reset}
+                  </button>
+                ) : null}
+                {editorOpen ? (
+                  <button
+                    type="button"
+                    className="load-more-button dev-editor-save"
+                    onClick={handleEditorSave}
+                    disabled={!editorBaseRecord || editorState === "loading" || editorState === "saving"}
+                  >
+                    {editorState === "saving" ? devEditorText.saving : devEditorText.save}
+                  </button>
+                ) : null}
+              </div>
+            </div>
+
+            {!editorOpen ? (
+              <p className="detail-note">{devEditorText.closedHint}</p>
+            ) : null}
+            {editorOpen && editorState === "loading" ? (
+              <p className="detail-note">{devEditorText.loading}</p>
+            ) : null}
+            {editorOpen && editorState !== "loading" ? (
+              <>
+                <p className="detail-note">{devEditorText.note}</p>
+                {editorMessage ? (
+                  <p className={`dev-editor-status ${editorState === "error" ? "error" : "success"}`}>
+                    {editorMessage}
+                  </p>
+                ) : null}
+                <label className="field dev-editor-field">
+                  <span>{devEditorText.jsonLabel}</span>
+                  <textarea
+                    value={editorDraft}
+                    onChange={(event) => setEditorDraft(event.target.value)}
+                    rows={24}
+                    spellCheck="false"
+                  />
+                </label>
+              </>
+            ) : null}
+          </section>
+        ) : null}
 
         {rhs ? (
           <section className="detail-grid">

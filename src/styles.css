@@ -49,7 +49,8 @@ img {
 
 button,
 input,
-select {
+select,
+textarea {
   font: inherit;
 }
 
@@ -477,7 +478,8 @@ select {
 }
 
 .field input,
-.field select {
+.field select,
+.field textarea {
   width: 100%;
   padding: 14px 16px;
   border: 1px solid var(--line);
@@ -488,9 +490,17 @@ select {
 }
 
 .field input:focus,
-.field select:focus {
+.field select:focus,
+.field textarea:focus {
   border-color: rgba(152, 55, 38, 0.36);
   box-shadow: 0 0 0 4px rgba(152, 55, 38, 0.08);
+}
+
+.field textarea {
+  min-height: 360px;
+  resize: vertical;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  line-height: 1.5;
 }
 
 .detail-shell {
@@ -599,6 +609,42 @@ select {
 .detail-toggle:focus-visible {
   outline: 3px solid rgba(152, 55, 38, 0.18);
   outline-offset: 2px;
+}
+
+.detail-toggle:disabled,
+.load-more-button:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.dev-editor-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.dev-editor-save {
+  min-width: 132px;
+}
+
+.dev-editor-field {
+  margin-top: 14px;
+}
+
+.dev-editor-status {
+  margin: 0;
+  padding: 12px 14px;
+  border-radius: 16px;
+  background: rgba(85, 104, 68, 0.12);
+  color: var(--forest);
+}
+
+.dev-editor-status.error {
+  background: rgba(152, 55, 38, 0.12);
+  color: var(--accent);
 }
 
 .detail-cover {
