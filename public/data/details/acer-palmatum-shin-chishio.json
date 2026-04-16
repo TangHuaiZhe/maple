@@ -1,0 +1,149 @@
+{
+  "id": "acer-palmatum-shin-chishio",
+  "canonical_key": "shin chishio",
+  "canonical_name": "Shin chishio",
+  "display_name": "Shin chishio",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Shin chishio'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The extremely brilliant spring foliage turns a good green in the summer. The small leaves have five to seven moderately deeply divided ovate lobes tapering to well-defined tips. The margins are coarsely and sharply toothed. This multibranched, vigorous shrub grows up to 16 ft. (5 m) tall. It is among the best of the cultivars with bright pink-red spring color. It adapts well to container growing for patio display and for bonsai culture. It is known and sold mainly under the name"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Shin chishio",
+      "page_range": "153",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 307360,
+      "detail_url": "https://www.rhs.org.uk/plants/307360/acer-palmatum-shin-chishio-(p)/details",
+      "botanical_name": "Acer palmatum 'Shin-chishio' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Shin-chishio' (P)",
+    "Japanese maple 'Shin-chishio'",
+    "Shin chishio",
+    "Shin-chishio"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Shin chishio'",
+    "Acer palmatum 'Shin-chishio' (P)",
+    "Japanese maple 'Shin-chishio'",
+    "Shin chishio",
+    "Shin-chishio"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 307360,
+    "rhs_url": "https://www.rhs.org.uk/plants/307360/acer-palmatum-shin-chishio-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Shin-chishio' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Shin-chishio'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Shin-chishio"
+    ],
+    "description": "Deciduous, multi-branched, shrubby tree about 5m tall, bearing red young shoots, and small, 5-7 lobed leaves 3-6cm long, with coarsely-toothed margins. Young leaves are bright pinkish-red, the colour lasting into summer when they mature to green, then orange-red tones of varying intensity in autumn.",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree, Shrub",
+      "habit": "Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米",
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市或庭院花园、乡村风或自然式花园",
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪第 1 组：仅限在晚秋至仲冬期间进行。",
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
+    },
+    "description": "落叶性、多分枝灌木状小乔木，高约 5 米；嫩枝红色，叶片较小，5-7 裂，长 3-6 厘米，叶缘具粗齿。新叶鲜亮粉红红色，颜色可持续到夏季，成熟后转绿，秋季则呈不同深浅的橙红色调。"
+  },
+  "descriptions_zh": {
+    "preferred": "春季叶色极为鲜艳，入夏后转为优美的绿色。叶片较小，具 5 至 7 枚中度深裂的卵形裂片，裂片渐尖，先端清晰。叶缘具粗而锐利的锯齿。该品种为多分枝、长势旺盛的灌木，高可达 16 英尺（5 米）。在春季呈亮粉红至红色的品种中，它属于表现最佳者之一。很适合容器栽培，用于露台陈设，也适于盆景培养。它主要以 'Chishio Improved' 这一名称被认知和销售，但依据国际栽培品种命名法规，该名称并不合法，不应使用。其名称意为“新的 Chishio”，表明其与先前命名的一个品种存在关联。"
+  },
+  "has_mrmaple": false
+}

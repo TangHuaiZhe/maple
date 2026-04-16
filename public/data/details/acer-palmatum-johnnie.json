@@ -1,0 +1,125 @@
+{
+  "id": "acer-palmatum-johnnie",
+  "canonical_key": "johnnie",
+  "canonical_name": "Johnnie",
+  "display_name": "Johnnie",
+  "chinese_name": "粉色约翰尼",
+  "scientific_name": "Acer Palmatum 'Johnnie'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "红叶",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": ""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "165",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/165.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=26",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "红叶",
+      "title": "粉色约翰尼Acer Palmatum 'Johnnie's Pink'",
+      "description": "",
+      "image_count": 0
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 367168,
+      "detail_url": "https://www.rhs.org.uk/plants/367168/acer-palmatum-johnnies-pink-(p)/details",
+      "botanical_name": "Acer palmatum 'Johnnie's Pink' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Johnnie's Pink' (P)",
+    "Johnnie",
+    "粉色约翰尼",
+    "粉色约翰尼Acer Palmatum 'Johnnie's Pink'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Johnnie'",
+    "Acer palmatum",
+    "Acer palmatum 'Johnnie's Pink' (P)",
+    "Johnnie",
+    "粉色约翰尼",
+    "粉色约翰尼Acer Palmatum 'Johnnie's Pink'",
+    "红叶",
+    "鸡爪槭"
+  ],
+  "source_count": 2,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 367168,
+    "rhs_url": "https://www.rhs.org.uk/plants/367168/acer-palmatum-johnnies-pink-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Johnnie's Pink' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Johnnie"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "has_mrmaple": false,
+  "descriptions_zh": {
+    "preferred": "即 Johnnie's Pink。春季新叶呈鲜亮的粉红至粉红红色，随后转为带黄色底调的橙红色，入夏后逐渐转绿，秋季再现黄橙色。叶片较小且裂刻较深，季相变化鲜明。"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "acer-palmatum-ruby-star",
+  "canonical_key": "ruby star",
+  "canonical_name": "Ruby Star",
+  "display_name": "Ruby Star",
+  "chinese_name": "红宝石之星",
+  "scientific_name": "Acer Palmatum 'Ruby Star'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "矮生",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "与'Beni Hoshi' 为异名同株， 起源于 1979 年， 1992 年由 Del Loucks 引入日本枫树苗圃，并在 1996 年推出，通常以 'Beni Hoshi' 出售，翻译为 \"红宝石之星\"。 春叶为亮红色， 带有一层油膜感，后续转为深栗色， 夏季变为 桃橙色，遮阴情况下，变成绿色，新稍为红色，秋天为亮黄色到橙色。成熟叶子圆润，像一个胖乎乎的星星，叶形略扭曲，一般为 7 裂叶。 直立性矮生品种，生长速度较慢，成年株可达1.5 m 。"
+  },
+  "images": {
+    "count": 8,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/136_红宝石之星 Acer Palmatum 'Ruby Star'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/136_红宝石之星 Acer Palmatum 'Ruby Star'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/136_红宝石之星 Acer Palmatum 'Ruby Star'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/136_红宝石之星 Acer Palmatum 'Ruby Star'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/136_红宝石之星 Acer Palmatum 'Ruby Star'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/136_红宝石之星 Acer Palmatum 'Ruby Star'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/136_红宝石之星 Acer Palmatum 'Ruby Star'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/136_红宝石之星 Acer Palmatum 'Ruby Star'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/136_红宝石之星 Acer Palmatum 'Ruby Star'/08.png"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/08.png"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/136_%E7%BA%A2%E5%AE%9D%E7%9F%B3%E4%B9%8B%E6%98%9F%20Acer%20Palmatum%20'Ruby%20Star'/08.png"
+    ],
+    "public_count": 8
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "136",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/136.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=25",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "矮生",
+      "title": "红宝石之星 Acer Palmatum 'Ruby Star'",
+      "description": "与'Beni Hoshi' 为异名同株， 起源于 1979 年， 1992 年由 Del Loucks 引入日本枫树苗圃，并在 1996 年推出，通常以 'Beni Hoshi' 出售，翻译为 \"红宝石之星\"。 春叶为亮红色， 带有一层油膜感，后续转为深栗色， 夏季变为 桃橙色，遮阴情况下，变成绿色，新稍为红色，秋天为亮黄色到橙色。成熟叶子圆润，像一个胖乎乎的星星，叶形略扭曲，一般为 7 裂叶。 直立性矮生品种，生长速度较慢，成年株可达1.5 m 。",
+      "image_count": 8
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 222264,
+      "detail_url": "https://www.rhs.org.uk/plants/222264/acer-palmatum-ruby-star/details",
+      "botanical_name": "Acer palmatum 'Ruby Star'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Ruby Star'",
+    "Ruby Star",
+    "红宝石之星",
+    "红宝石之星 Acer Palmatum 'Ruby Star'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Ruby Star'",
+    "Acer palmatum",
+    "Acer palmatum 'Ruby Star'",
+    "Ruby Star",
+    "矮生",
+    "红宝石之星",
+    "红宝石之星 Acer Palmatum 'Ruby Star'",
+    "鸡爪槭"
+  ],
+  "source_count": 2,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 222264,
+    "rhs_url": "https://www.rhs.org.uk/plants/222264/acer-palmatum-ruby-star/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Ruby Star'",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Ruby Star"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "与'Beni Hoshi' 为异名同株， 起源于 1979 年， 1992 年由 Del Loucks 引入日本枫树苗圃，并在 1996 年推出，通常以 'Beni Hoshi' 出售，翻译为 \"红宝石之星\"。 春叶为亮红色， 带有一层油膜感，后续转为深栗色， 夏季变为 桃橙色，遮阴情况下，变成绿色，新稍为红色，秋天为亮黄色到橙色。成熟叶子圆润，像一个胖乎乎的星星，叶形略扭曲，一般为 7 裂叶。 直立性矮生品种，生长速度较慢，成年株可达1.5 m 。"
+  },
+  "has_mrmaple": false
+}

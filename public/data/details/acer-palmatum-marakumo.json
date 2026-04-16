@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-marakumo",
+  "canonical_key": "marakumo",
+  "canonical_name": "Marakumo",
+  "display_name": "Marakumo",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Marakumo'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "The new leaves on this cultivar show a bright pinkish or light orange coloration, shading from the margins toward the center of the lobes. The basic leaf color is pale green. It is made even lighter by the great profusion of extremely fine dots of white or cream which are sometimes so thick that they merge, forming almost a solid area. A translucent effect results from the very dense, fine stippling of the thin leaves. Fall colors range into yellows and light gold. Because it is not very vigorous, 'Marakumo' forms an upright bush of 3 m rather than a tree. It is somewhat tender and needs at least afternoon shade. It is not easily propagated. Although a very desirable variegated form, it is not widely known. The name has also been spelled"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Marakumo",
+      "page_range": "169-170",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 194993,
+      "detail_url": "https://www.rhs.org.uk/plants/194993/acer-palmatum-marakumo-(p)/details",
+      "botanical_name": "Acer palmatum 'Marakumo' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Marakumo' (P)",
+    "Marakumo"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Marakumo'",
+    "Acer palmatum 'Marakumo' (P)",
+    "Marakumo"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 194993,
+    "rhs_url": "https://www.rhs.org.uk/plants/194993/acer-palmatum-marakumo-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Marakumo' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Marakumo"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该品种的新叶呈鲜明的粉红色或浅橙色，自叶缘向裂片中央渐变，叶片底色为淡绿色。其上密布极细的白色或奶油色小点，使叶色显得更浅；这些斑点有时密集到彼此融合，几乎形成整片实色区域。由于薄叶表面具有极为致密细腻的点斑，整体会呈现一种半透明效果。秋色为黄色至浅金色。因生长势不强，‘Marakumo’ 通常形成直立灌木，高约 3 米，而非乔木。其抗性略弱，至少需要下午遮阴。该品种不易繁殖。虽然是非常优良的斑叶类型，但流通并不广。其名称也曾写作 ‘Maragumo’。"
+  },
+  "has_mrmaple": false
+}

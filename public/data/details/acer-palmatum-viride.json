@@ -1,0 +1,113 @@
+{
+  "id": "acer-palmatum-viride",
+  "canonical_key": "viride",
+  "canonical_name": "Viride",
+  "display_name": "Viride",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Viride'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": ""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Viride",
+      "page_range": "180",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 82028,
+      "detail_url": "https://www.rhs.org.uk/plants/82028/acer-japonicum-viride/details",
+      "botanical_name": "Acer japonicum 'Viride'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer japonicum 'Viride'",
+    "Viride"
+  ],
+  "search_terms": [
+    "Acer japonicum 'Viride'",
+    "Acer palmatum",
+    "Acer palmatum 'Viride'",
+    "Viride"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 82028,
+    "rhs_url": "https://www.rhs.org.uk/plants/82028/acer-japonicum-viride/details",
+    "match_method": "cultivar",
+    "botanical_name": "Acer japonicum 'Viride'",
+    "species_name": "Acer japonicum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Viride"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "has_mrmaple": false
+}

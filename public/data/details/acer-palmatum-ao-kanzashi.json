@@ -1,0 +1,97 @@
+{
+  "id": "acer-palmatum-ao-kanzashi",
+  "canonical_key": "ao kanzashi",
+  "canonical_name": "Ao kanzashi",
+  "display_name": "Ao kanzashi",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Ao kanzashi'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "This small to medium-sized tree or shrub has variegated leaves. It is very like 'Tennyo-no-hoshi' in leaf shape, variegation, and habit, and was suspected of being synonymous. However, it originated from Japan and has slightly smaller leaves and more compact growth. The light cream-green variegation around the leaf edges does not turn pink in the sun as readily as does that of"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Ao kanzashi",
+      "page_range": "111",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 192965,
+      "detail_url": "https://www.rhs.org.uk/plants/192965/acer-palmatum-ao-kanzashi-(p-v)/details",
+      "botanical_name": "Acer palmatum 'Ao-kanzashi' (P/v)",
+      "description": ""
+    },
+    {
+      "source": "timber_press",
+      "name": "Ao kanzashi",
+      "page_range": "33",
+      "group": "Palmatum",
+      "color_group": "variegated",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Ao-kanzashi' (P/v)",
+    "Ao kanzashi",
+    "Ao-kanzashi"
+  ],
+  "search_terms": [
+    "Acer palmatum 'Ao-kanzashi' (P/v)",
+    "Ao kanzashi",
+    "Ao-kanzashi",
+    "Acer palmatum",
+    "Acer palmatum 'Ao kanzashi'"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 192965,
+    "rhs_url": "https://www.rhs.org.uk/plants/192965/acer-palmatum-ao-kanzashi-(p-v)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Ao-kanzashi' (P/v)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Ao-kanzashi"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这是一种小型至中型乔木或灌木，具斑叶。其叶形、斑锦特征和株型都与 'Tennyo-no-hoshi' 非常相似，因此一度被怀疑为同物异名。但它起源于日本，叶片略小，生长更为紧凑。叶缘浅奶油绿色的斑锦在日照下不像 'Tennyo-no-hoshi' 那样容易转粉。'Ao kanzashi' 形成分枝密集的直立小乔木，高可达 4 米，树冠顶部开展，形态与 'Butterfly' 相似。'Ao kanzashi' 也曾以 'Oa hanzashi' 之名流传。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

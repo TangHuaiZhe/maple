@@ -1,0 +1,116 @@
+{
+  "id": "acer-carpinifolium-naruto",
+  "canonical_key": "naruto",
+  "canonical_name": "Naruto",
+  "display_name": "Naruto",
+  "chinese_name": null,
+  "scientific_name": "Acer carpinifolium 'Naruto'",
+  "species": "Acer carpinifolium",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "The unusual leaves are divided into small long, narrow, sharply pointed lobes which are held like an upside-down T. The lobes have Acer untoothed rolled margins to almost form tubes. The upper leaf surface is a deep rich green and shallow the lower surface a soft gray-blue, so the rolledtoothed. up margins create a two-tone effect. Fall colors hornbeamlike are a rich gold and red. 'Naruto' forms a tall curious dense sturdy plant up to 13 ft. (4 m) tall. vein"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Naruto",
+      "page_range": "194",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 114937,
+      "detail_url": "https://www.rhs.org.uk/plants/114937/acer-buergerianum-naruto/details",
+      "botanical_name": "Acer buergerianum 'Naruto'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer buergerianum 'Naruto'",
+    "Naruto"
+  ],
+  "search_terms": [
+    "Acer buergerianum 'Naruto'",
+    "Acer carpinifolium",
+    "Acer carpinifolium 'Naruto'",
+    "Naruto"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 114937,
+    "rhs_url": "https://www.rhs.org.uk/plants/114937/acer-buergerianum-naruto/details",
+    "match_method": "cultivar",
+    "botanical_name": "Acer buergerianum 'Naruto'",
+    "species_name": "Acer buergerianum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Naruto"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "其不寻常的叶片分裂成细小而狭长、先端尖锐的裂片，展开姿态如倒置的 T 字。裂片叶缘无齿并向内卷曲，几乎形成管状。叶面上部为深浓绿色，叶背为柔和的灰蓝色，因此卷起的叶缘形成明显的双色效果。秋色为浓金色和红色。'Naruto' 形成高大而奇特、致密且强健的植株，高可达 13 英尺（4 米）。"
+  },
+  "has_mrmaple": false
+}

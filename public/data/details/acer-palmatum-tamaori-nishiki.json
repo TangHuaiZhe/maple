@@ -1,0 +1,61 @@
+{
+  "id": "acer-palmatum-tamaori-nishiki",
+  "canonical_key": "tamaori nishiki",
+  "canonical_name": "Tamaori nishiki",
+  "display_name": "Tamaori nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Tamaori nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "This medium-sized tree has leaves basically of the variegated Palmatum Group with five strong lobes. They radiate outward and are separated to about two-thirds of the way to the leaf base. Each lobe is ovate with a long, tapering point and toothed edges. The leaves vary from 5 to 7 cm long and wide. The basic color is a clear green. When variegation occurs, it is in sectional portions of the lobe or leaf. The white or cream color predominates with occasional pink tones occurring, never very strong. Often the portions of the leaf containing the white sections are curved or sometimes stunted. Not all leaves are variegated, and the balance between variegated and unvariegated leaves varies from year to year. Fall colors produce orange and red tones on the unvariegated foliage, while the variegated sections turn to a pale rose. This maple seems to be a twiggy but not very strong grower. It becomes a medium-sized tree as it matures. Like so many variegated cultivars, it too is affected by overfertilization, which results in too rapid growth and causes an increase in the non-variegated green proportion of the foliage."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Tamaori nishiki",
+      "page_range": "220",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Tamaori nishiki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Tamaori nishiki'",
+    "Tamaori nishiki"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "这是一种中型乔木，叶片基本属于有锦斑的 Palmatum Group 类型，具 5 个明显裂片。裂片向外放射，分裂深度约达叶基的三分之二。每一裂片呈卵形，先端长渐尖，边缘具锯齿。叶片长宽均约 5 至 7 厘米。底色为清绿色。出现锦斑时，通常表现为裂片或整叶上的分区斑块，以白色或乳白色为主，偶带粉色，但粉色通常不强。叶片上具白斑的部位常发生弯曲，有时甚至发育不良。并非所有叶片都有斑，斑叶与绿叶的比例每年也会变化。秋季时，无斑叶会转为橙色和红色调，而斑锦部分则转为淡玫瑰色。该枫树枝条较密，但长势不算很强，成熟后成为中型乔木。与许多锦叶品种一样，它也易受过量施肥影响，导致生长过快，并使叶片中返绿的无斑绿色部分增加。"
+  },
+  "has_mrmaple": false
+}

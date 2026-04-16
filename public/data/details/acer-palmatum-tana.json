@@ -1,0 +1,95 @@
+{
+  "id": "acer-palmatum-tana",
+  "canonical_key": "tana",
+  "canonical_name": "Tana",
+  "display_name": "Tana",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Tana'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Amoenum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The name 'Tana' means \"shelves\" and refers to the layered effect of the branches and foliage characteristic of this cultivar. The beautiful foliage is a light to yellowish green. Each lobe is tipped in a distinct purplish red, similar to that of 'Shigarami' but not as deep a color. This color shades back from the tip and down along the mar- Corvallis scape. Themedium-sizedleaveshavefiveorsevenlobeswhich radiate sharply outward. They measure 4-6 cm long and 6-8 cm wide, but leaves on vigorous juvenile shoots are much larger. The lobes are separated up to halfway to the leaf base, and are broadly ovate, tapering to a sharp point. The margins are very lightly serrated and curl slightly upwards. The stiff petioles are 4 cm long. The leaves and the new shoots are held horizontally, and the branches grow laterally, thus forming the characteristic layered effect of this plant. 'Tana' is a stronggrowing, upright cultivar which reaches 6 m high in only a few years. There is little further upward growth; instead it becomes round-topped with a broad canopy. The similarity of the purple-tipped leaves and growth habit of 'Tana' with"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Tana",
+      "page_range": "165",
+      "group": "Amoenum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 73349,
+      "detail_url": "https://www.rhs.org.uk/plants/73349/acer-palmatum-tana-(a)/details",
+      "botanical_name": "Acer palmatum 'Tana' (A)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Tana",
+      "page_range": "220-221",
+      "group": "amoenum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Tana' (A)",
+    "Tana"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Tana'",
+    "Acer palmatum 'Tana' (A)",
+    "Tana"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 73349,
+    "rhs_url": "https://www.rhs.org.uk/plants/73349/acer-palmatum-tana-(a)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Tana' (A)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Tana"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "'Tana' 这一名称意为“层架”，指的是该品种枝条与叶片所呈现出的层层叠叠效果。其叶色优美，为浅绿至黄绿色。每个裂片顶端都带有明显的紫红色，类似 'Shigarami'，但色泽没有那么深。该颜色会自裂片顶端向后并沿叶缘延伸。中等大小的叶片具 5 或 7 个裂片，明显向外放射。叶长 4-6 厘米，宽 6-8 厘米，但生长旺盛的幼年枝条上的叶片会大得多。裂片裂至叶基约一半，呈宽卵形，渐尖。叶缘仅有极浅的锯齿，并略向上卷。坚挺的叶柄长 4 厘米。叶片和新梢多呈水平展开，枝条横向生长，因此形成该品种特有的层状效果。 'Tana' 生长势强，为直立型品种，几年内即可长到 6 米高。其后向上生长不多，转而形成圆顶状、树冠开展的株形。'Tana' 与"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

@@ -1,0 +1,300 @@
+{
+  "id": "acer-palmatum-shaina",
+  "canonical_key": "shaina",
+  "canonical_name": "Shaina",
+  "display_name": "Shaina",
+  "chinese_name": "赛娜",
+  "scientific_name": "Acer Palmatum 'Shaina'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "矮生",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "在欧美被形容为巫师的扫把，因为赛娜的枝叶非常 繁密，就像巫师的扫把一样密集，赛娜是在 Acer Palmatum 'Bloodgood' - 血红母树上发现的一个局部 突变，由理查德 P 沃尔夫 (Richard P.Wolff) 发现并命 名推广， 三季红色，春季艳红，表面有白色绒毛， 夏季暗红，在缺乏光照的情况下，夏季会局部返绿， 秋季亮红，叶型特异，中间叶裂有明显的内缩短化， 生长速度中等，属于矮生系列，可全日照，成年树可 达 2.5 米高度。"
+  },
+  "images": {
+    "count": 4,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/266_赛娜Acer Palmatum 'Shaina'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/266_赛娜Acer Palmatum 'Shaina'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/266_赛娜Acer Palmatum 'Shaina'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/266_赛娜Acer Palmatum 'Shaina'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/266_赛娜Acer Palmatum 'Shaina'/04.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/266_%E8%B5%9B%E5%A8%9CAcer%20Palmatum%20'Shaina'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/266_%E8%B5%9B%E5%A8%9CAcer%20Palmatum%20'Shaina'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/266_%E8%B5%9B%E5%A8%9CAcer%20Palmatum%20'Shaina'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/266_%E8%B5%9B%E5%A8%9CAcer%20Palmatum%20'Shaina'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/266_%E8%B5%9B%E5%A8%9CAcer%20Palmatum%20'Shaina'/04.jpg"
+    ],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-shaina/01-RHS_PUB0018634_8272.JPG",
+      "/rhs-images/acer-palmatum-shaina/02-visi127442.jpg",
+      "/rhs-images/acer-palmatum-shaina/03-visi50654.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-shaina/01-shaina06.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/266_%E8%B5%9B%E5%A8%9CAcer%20Palmatum%20'Shaina'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/266_%E8%B5%9B%E5%A8%9CAcer%20Palmatum%20'Shaina'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/266_%E8%B5%9B%E5%A8%9CAcer%20Palmatum%20'Shaina'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/266_%E8%B5%9B%E5%A8%9CAcer%20Palmatum%20'Shaina'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%9F%AE%E7%94%9F/266_%E8%B5%9B%E5%A8%9CAcer%20Palmatum%20'Shaina'/04.jpg",
+      "/rhs-images/acer-palmatum-shaina/01-RHS_PUB0018634_8272.JPG",
+      "/rhs-images/acer-palmatum-shaina/02-visi127442.jpg",
+      "/rhs-images/acer-palmatum-shaina/03-visi50654.jpg",
+      "/herter-images/acer-palmatum-shaina/01-shaina06.jpg"
+    ],
+    "public_count": 8
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "266",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/266.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=25",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "矮生",
+      "title": "赛娜Acer Palmatum 'Shaina'",
+      "description": "在欧美被形容为巫师的扫把，因为赛娜的枝叶非常 繁密，就像巫师的扫把一样密集，赛娜是在 Acer Palmatum 'Bloodgood' - 血红母树上发现的一个局部 突变，由理查德 P 沃尔夫 (Richard P.Wolff) 发现并命 名推广， 三季红色，春季艳红，表面有白色绒毛， 夏季暗红，在缺乏光照的情况下，夏季会局部返绿， 秋季亮红，叶型特异，中间叶裂有明显的内缩短化， 生长速度中等，属于矮生系列，可全日照，成年树可 达 2.5 米高度。",
+      "image_count": 4
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 105091,
+      "detail_url": "https://www.rhs.org.uk/plants/105091/acer-palmatum-shaina-(p)/details",
+      "botanical_name": "Acer palmatum 'Shaina' (P)",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Shaina Red Dwarf Japanese Maples",
+      "detail_url": "https://japanesemaple.net/product/shaina-red-dwarf-japanese-maples/",
+      "description": "This compact upright japanese maple concentrates its dark maroon-red leaves in dense clusters at the ends of the short shoots. Its deeply divided leaves emerge a bright red in the spring, become a dark purple red for the summer, and turn bright crimson in the fall!! Prefers some shade.",
+      "group": "All Japanese Maples / Dwarf Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Shaina' (P)",
+    "Japanese maple 'Shaina'",
+    "Shaina",
+    "赛娜",
+    "赛娜Acer Palmatum 'Shaina'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Shaina'",
+    "Acer palmatum",
+    "Acer palmatum 'Shaina' (P)",
+    "Japanese maple 'Shaina'",
+    "Shaina",
+    "矮生",
+    "赛娜",
+    "赛娜Acer Palmatum 'Shaina'",
+    "鸡爪槭"
+  ],
+  "source_count": 3,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 105091,
+    "rhs_url": "https://www.rhs.org.uk/plants/105091/acer-palmatum-shaina-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Shaina' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Shaina'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Shaina"
+    ],
+    "description": "'Shaina' is a compact, dense cultivar growing to a maximum height of 3m. Its bright red spring leaves deepen in colour through the summer before brightening again to a crimson-red in autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "West-facing, South-facing, East-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Patio/Container Plants, Architectural, Cottage/Informal Garden, Low Maintenance, Rock Garden",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 3,
+      "filenames": [
+        "RHS_PUB0018634_8272.JPG",
+        "visi127442.jpg",
+        "visi50654.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-shaina/01-RHS_PUB0018634_8272.JPG",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-shaina/02-visi127442.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-shaina/03-visi50654.jpg"
+      ],
+      "downloaded_count": 3,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "RHS_PUB0018634_8272.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/RHS_PUB0018634_8272.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/105091/acer-palmatum-shaina-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-shaina/01-RHS_PUB0018634_8272.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 138290,
+          "downloaded_at": "2026-04-14T01:47:58+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "visi127442.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi127442.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/105091/acer-palmatum-shaina-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-shaina/02-visi127442.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 224609,
+          "downloaded_at": "2026-04-14T01:47:58+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 3,
+          "filename": "visi50654.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi50654.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/105091/acer-palmatum-shaina-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-shaina/03-visi50654.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 115508,
+          "downloaded_at": "2026-04-14T01:47:58+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "在欧美被形容为巫师的扫把，因为赛娜的枝叶非常 繁密，就像巫师的扫把一样密集，赛娜是在 Acer Palmatum 'Bloodgood' - 血红母树上发现的一个局部 突变，由理查德 P 沃尔夫 (Richard P.Wolff) 发现并命 名推广， 三季红色，春季艳红，表面有白色绒毛， 夏季暗红，在缺乏光照的情况下，夏季会局部返绿， 秋季亮红，叶型特异，中间叶裂有明显的内缩短化， 生长速度中等，属于矮生系列，可全日照，成年树可 达 2.5 米高度。"
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。",
+      "suggested_uses": "城市庭院花园、庭院/容器植物、建筑感种植、乡村/自然式花园、低养护花园、岩石园"
+    },
+    "care": {
+      "cultivation": "宜种植于湿润但排水良好的土壤中。夏季如有需要应浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴露过度都可能导致叶片焦枯。",
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "'Shaina' 是一个紧凑、稠密的品种，最大高度可达 3 米。其春季叶片鲜红，夏季颜色逐渐加深，到了秋季又转为明亮的深红色。"
+  },
+  "has_mrmaple": false,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-shaina/01-shaina06.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-shaina/01-shaina06.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1554,
+        "name": "Shaina Red Dwarf Japanese Maples",
+        "slug": "shaina-red-dwarf-japanese-maples",
+        "product_url": "https://japanesemaple.net/product/shaina-red-dwarf-japanese-maples/",
+        "description_text": "This compact upright japanese maple concentrates its dark maroon-red leaves in dense clusters at the ends of the short shoots. Its deeply divided leaves emerge a bright red in the spring, become a dark purple red for the summer, and turn bright crimson in the fall!! Prefers some shade.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Dwarf Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 70
+        },
+        "review_count": 3137,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "shaina"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/shaina06.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-shaina/01-shaina06.jpg",
+          "bytes": 21476,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:49:38.553Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-shaina/01-shaina06.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

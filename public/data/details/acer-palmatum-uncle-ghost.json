@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-uncle-ghost",
+  "canonical_key": "uncle ghost",
+  "canonical_name": "Uncle Ghost",
+  "display_name": "Uncle Ghost",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Uncle Ghost'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "One of the Oregon Ghost series, this cultivar is similar in leaf shape and size to its parent, the well-known 'Beni shigitatsu sawa', but with a network of green veins on a paler whitish green background. It is especially noteworthy in the spring and early summer when the young leaves are pink-flushed from the outer margins. It is estimated to form a broad shrubby tree up to 10 ft. (3 m) tall and needs some protection from the afternoon sun."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Uncle Ghost",
+      "page_range": "177",
+      "group": "Matsumurae",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 239408,
+      "detail_url": "https://www.rhs.org.uk/plants/239408/acer-palmatum-uncle-ghost-(m)/details",
+      "botanical_name": "Acer palmatum 'Uncle Ghost' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Uncle Ghost' (M)",
+    "Uncle Ghost"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Uncle Ghost'",
+    "Acer palmatum 'Uncle Ghost' (M)",
+    "Uncle Ghost"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 239408,
+    "rhs_url": "https://www.rhs.org.uk/plants/239408/acer-palmatum-uncle-ghost-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Uncle Ghost' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Uncle Ghost"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这是 Oregon Ghost 系列品种之一，叶形和叶片大小与其著名亲本 'Beni shigitatsu sawa' 相似，但叶面为较浅的灰白绿色底，上覆绿色叶脉网络。它在春季和初夏尤为出色，此时嫩叶自外缘带有粉色晕染。据估计可形成开展的灌木状小乔木，高可达 10 英尺（3 米），需要在午后阳光下给予一定遮护。"
+  },
+  "has_mrmaple": false
+}

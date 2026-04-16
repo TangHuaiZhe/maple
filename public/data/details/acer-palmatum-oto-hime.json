@@ -1,0 +1,145 @@
+{
+  "id": "acer-palmatum-oto-hime",
+  "canonical_key": "oto hime",
+  "canonical_name": "Oto hime",
+  "display_name": "Oto hime",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Oto hime'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This strong dwarf cultivar has a vigorous and desirable nature. There is a fable about a queen named Otohime who reigned at the bottom of an ocean kingdom. This plant seems to be a queen of the Dwarf Group. The leaves emerge in the spring as a bright, lively yellow green with narrow reddish edging and tips, a color maintained through the summer. Fall colors are not particularly strong but a pleasant yellow through a range of orange tones. The leaves are of the typical five-lobed palmate type and small, mostly 3-5 cm long and wide. The lobes are separated two-thirds to three-quarters of the way to the leaf base, and radiate out in a star-shaped manner. Each lobe is ovate-triangular, broadest at the bottom, and tapers to a sharp point. The margins are uniformly and finely toothed. The long, thin petioles are about as long as the leaf. Internodes on the stem are fairly close together, making for dense foliage cover. This shrub is not rangy but tight and dense in habit, becoming much broader than high. A 10-year-old plant at Maplewood reached almost 0.7 m tall and 1.3 m wide, without pruning or shaping. It lends itself to bonsai work in an admirable fashion. The growth habit seems denser than that of the bonsai favorite"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Oto hime",
+      "page_range": "191",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 181365,
+      "detail_url": "https://www.rhs.org.uk/plants/181365/acer-palmatum-oto-hime-(dw)/details",
+      "botanical_name": "Acer palmatum 'Oto-hime' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Oto-hime' (Dw)",
+    "Japanese maple 'Oto-hime'",
+    "Oto hime",
+    "Oto-hime"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Oto hime'",
+    "Acer palmatum 'Oto-hime' (Dw)",
+    "Japanese maple 'Oto-hime'",
+    "Oto hime",
+    "Oto-hime"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 181365,
+    "rhs_url": "https://www.rhs.org.uk/plants/181365/acer-palmatum-oto-hime-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Oto-hime' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Oto-hime'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Oto-hime"
+    ],
+    "description": "A vigorous, deciduous dwarf maple, about 1m tall at most, with a dense habit, broader than it is high. Small 5-lobed leaves to 5cm long and wide are a bright yellow-green with a red edging and tips in spring, a colour maintained through summer, then turning tones of yellow-orange in autumn",
+    "dimensions": {
+      "height": "0.5-1 metres",
+      "spread": "1-1.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy, Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds",
+      "hort_group_description": "Acers in this dwarf group are compact and slow-growing, making them ideal for pots and containers"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "这一矮生类群的 Acer 株形紧凑、生长缓慢，因此非常适合盆栽和容器栽培。",
+      "suggested_uses": "适合城市/庭院花园、乡村/自然式花园、花境及花坛。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "生长旺盛的落叶矮生槭树，最高约 1 米，株形致密，宽大于高。小型五裂叶长宽均可达 5 厘米，春季呈鲜亮黄绿色，叶缘和叶尖带红色，夏季可保持此色，秋季转为黄橙色调。"
+  },
+  "descriptions_zh": {
+    "preferred": "这个强健的矮生品种生长势良好，园艺价值很高。传说中有一位名为 Otohime 的女王统治着海底王国，而这株植物似乎就是矮生组中的“女王”。春季新叶萌发时呈鲜亮活泼的黄绿色，叶缘和叶尖带有狭窄的红色镶边，这种颜色可一直保持到夏季。秋色虽不算特别强烈，但会呈现怡人的黄色并过渡到多种橙色调。 叶片为典型的五裂掌状叶，较小，多数长宽均为 3 至 5 厘米。裂片分裂深度约达叶基的 2/3 至 3/4，并呈星状向外放射。每个裂片为卵状三角形，基部最宽，渐尖成锐尖，叶缘均匀且细密具锯齿。细长叶柄长度约与叶片相当。茎节间较短，使叶幕覆盖浓密。该灌木株形不松散，而是紧凑致密，最终宽度远大于高度。Maplewood 的一株 10 年生植株在未修剪整形的情况下已接近 0.7 米高、1.3 米宽。它非常适合制作盆景，株形密度似乎比盆景常用品种"
+  },
+  "has_mrmaple": false
+}

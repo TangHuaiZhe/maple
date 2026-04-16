@@ -1,0 +1,97 @@
+{
+  "id": "acer-palmatum-tsuri-nishiki",
+  "canonical_key": "tsuri nishiki",
+  "canonical_name": "Tsuri nishiki",
+  "display_name": "Tsuri nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Tsuri nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The interesting leaves usually have seven lobes, occasionally five or nine lobes, varying widely in size from 7 to 12 cm long and from 6 to 11 cm wide. The lobes are widely separated more than three-quarters of the way to the leaf base. They spread slightly and are sometimes twisted at various angles. The lobes are narrow, almost Corvallis to a sturdy, medium-sized tree up to 5 m tall. A different transliteration system from Japanese to English gives this cultivar the slightly different name of"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Tsuri nishiki",
+      "page_range": "173",
+      "group": "Matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 150337,
+      "detail_url": "https://www.rhs.org.uk/plants/150337/acer-palmatum-tsuri-nishiki-(m)/details",
+      "botanical_name": "Acer palmatum 'Tsuri-nishiki' (M)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Tsuri nishiki",
+      "page_range": "226-227",
+      "group": "matsumurae",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Tsuri-nishiki' (M)",
+    "Tsuri nishiki",
+    "Tsuri-nishiki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Tsuri nishiki'",
+    "Acer palmatum 'Tsuri-nishiki' (M)",
+    "Tsuri nishiki",
+    "Tsuri-nishiki"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 150337,
+    "rhs_url": "https://www.rhs.org.uk/plants/150337/acer-palmatum-tsuri-nishiki-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Tsuri-nishiki' (M)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Tsuri-nishiki"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "其叶形颇为有趣，通常为 7 裂，偶见 5 裂或 9 裂，叶片大小差异较大，长 7-12 厘米，宽 6-11 厘米。裂片彼此分离明显，裂深超过叶基的四分之三。裂片略向外展开，有时会以不同角度扭曲。裂片狭长，近乎带状。该品种生长后可形成健壮的中型乔木，高可达 5 米。采用另一种日语转写为英语的系统时，该品种名也写作 'Furu nishiki'。该品种还曾以 'Amelopsifolium'、'Ampelopsifolium'、'Laciniatum' 和 'Septemlobum' 等名称流通。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

@@ -1,0 +1,107 @@
+{
+  "id": "acer-palmatum-koshimino",
+  "canonical_key": "koshimino",
+  "canonical_name": "Koshimino",
+  "display_name": "Koshimino",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Koshimino'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Other"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "other The foliage, fall coloration, and bunchy habit of the old twigs, among other features, are very similar to those of 'Hagoromo'. The leaf shape is basically the same (see 'Hagoromo' for a full description). The two cultivars could be synonymous. However, Japanese nurseries list"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Koshimino",
+      "page_range": "96",
+      "group": "Other",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 98513,
+      "detail_url": "https://www.rhs.org.uk/plants/98513/acer-palmatum-koshimino/details",
+      "botanical_name": "Acer palmatum 'Koshimino'",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Koshimino",
+      "page_range": "164",
+      "group": null,
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Koshimino'",
+    "Acer palmatum 'Sessilifolium' tall",
+    "Japanese maple 'Koshimino'",
+    "Koshimino",
+    "Sessilifolium"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Koshimino'",
+    "Acer palmatum 'Sessilifolium' tall",
+    "Japanese maple 'Koshimino'",
+    "Koshimino",
+    "Sessilifolium"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 98513,
+    "rhs_url": "https://www.rhs.org.uk/plants/98513/acer-palmatum-koshimino/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Koshimino'",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Koshimino'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Sessilifolium' tall"
+    ],
+    "cultivar_names": [
+      "Koshimino",
+      "Sessilifolium"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "其叶色、秋季叶色以及老枝簇生的习性等特征，与 'Hagoromo' 非常相似。叶形基本相同（详见 'Hagoromo' 的完整描述）。这两个品种可能是同物异名。然而，日本苗圃将 'Hagoromo' 列为生长缓慢，极少超过 1 米高。我从不同来源获得过材料，'Hagoromo' 的生长势始终不如 'Koshimino'。后者在 Maplewood 的母株很快就长到 5 米高。一株 10 年生植株约 6 米高，树形较纤细；另一株同龄植株仅约 3 米高，但为多主干，且冠幅较宽。Maplewood 的 'Hagoromo' 植株并未表现出如此强的长势。这个差异增强了它们是不同品种这一推测。其他作者认为二者可能为同物异名，但将植株并排比较栽培后，显示它们应是两个独立品种。'Koshimino' 还曾使用过另一个名称，即"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

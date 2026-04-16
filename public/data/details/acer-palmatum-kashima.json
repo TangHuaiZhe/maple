@@ -1,0 +1,148 @@
+{
+  "id": "acer-palmatum-kashima",
+  "canonical_key": "kashima",
+  "canonical_name": "Kashima",
+  "display_name": "Kashima",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Kashima'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This very dwarf form is widely used for bonsai. The tiny rich green leaves are five lobed, with the center lobe the Corvallis Corvallis and 1-2 cm long. As they open, the new leaves are a very light yellow green, with margins a brick or rust color, thus making the new growth very noticeable. Fall colors are mostly in the yellow tones. This plant is a very shrubby grower as are all the maples in the Dwarf Group. The size at maturity depends upon fertility and culture, but can reach up to 2 m tall and spread. It can be forced in the landscape or retarded in container culture or bonsai. I've seen an approximately 20-year-old specimen that was more than 1 m high, but have grown the same cultivar in a container for 10 years and it only reached 40 cm tall and wide. 'Kashima' lends itself very well to rock garden culture. It takes well to shaping and pruning, as do other dwarf forms. It is hardy and sturdy, and tolerates some drought when reduced growth is desired."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Kashima",
+      "page_range": "89",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 91580,
+      "detail_url": "https://www.rhs.org.uk/plants/91580/acer-palmatum-kashima-(dw)/details",
+      "botanical_name": "Acer palmatum 'Kashima' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Kashima",
+      "page_range": "158",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Kashima' (Dw)",
+    "Japanese maple 'Kashima'",
+    "Kashima"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Kashima'",
+    "Acer palmatum 'Kashima' (Dw)",
+    "Japanese maple 'Kashima'",
+    "Kashima"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 91580,
+    "rhs_url": "https://www.rhs.org.uk/plants/91580/acer-palmatum-kashima-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Kashima' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Kashima'"
+    ],
+    "cultivar_names": [
+      "Kashima"
+    ],
+    "description": "A very small, slow-growing deciduous shrub eventually reaching 1m or more in height, with tiny rich green, palmate, 5-lobed leaves 2-3cm long and wide, the new spring leaves yellow green, margined red, turning shades of yellow and orange in autumn; ideal for bonsai training",
+    "dimensions": {
+      "height": "1-1.5 metres",
+      "spread": "0.5-1 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Patio/Container Plants, Flower borders and beds, Rock Garden",
+      "hort_group_description": "Acers in this dwarf group are compact and slow-growing, making them ideal for pots and containers"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. Ideal for container cultivation and bonsai training. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "这一矮生类群的 Acer 株形紧凑、生长缓慢，因此非常适合盆栽和容器栽培。",
+      "suggested_uses": "适用于城市庭院花园、乡村风或自然式花园、露台或容器栽培、花境与花坛、岩石园。"
+    },
+    "care": {
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。",
+      "cultivation": "宜栽培于保湿性好且排水良好的土壤中，并置于避风环境。叶色在半阴条件下表现最佳；如土壤能稳定保持湿润，也可耐全日照。土壤缺水或暴晒过度都可能导致叶片灼伤。非常适合容器栽培和盆景整形。参见 Japanese maples cultivation。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "极小型、缓慢生长的落叶灌木，最终株高可达 1 米或以上。叶片极小，浓绿色，掌状 5 裂，长宽约 2-3 厘米；春季新叶黄绿色，叶缘带红，秋季转为黄色和橙色层次。非常适合制作盆景。"
+  },
+  "descriptions_zh": {
+    "preferred": "这一极矮生类型广泛用于盆景。其叶片极小、浓绿色，通常为 5 裂，长度约 1-2 厘米。新叶展开时呈很浅的黄绿色，叶缘带砖红色或锈色，因此新梢格外显眼。秋色多为黄色调。与所有 Dwarf Group 中的枫树一样，该品种生长成灌木状。成熟株大小受土壤肥力和栽培方式影响较大，但可达约 2 米高，冠幅亦相近。地栽时可促进其生长，而在容器栽培或盆景状态下则可控制其生长。我曾见过一株约 20 年生的植株，高度超过 1 米；但同一品种在容器中栽培 10 年，仅长到约 40 厘米高和宽。'Kashima' 非常适合岩石园栽培，也和其他矮生品种一样，十分适合整形和修剪。其耐寒、健壮，在希望控制生长量时，也能耐受一定程度的干旱。"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

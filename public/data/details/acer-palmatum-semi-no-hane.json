@@ -1,0 +1,124 @@
+{
+  "id": "acer-palmatum-semi-no-hane",
+  "canonical_key": "semi no hane",
+  "canonical_name": "Semi-no-hane",
+  "display_name": "Semi-no-hane",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Semi-no-hane'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This vigorous tree of medium size and spreading habit has large and variable foliage. The leaves on young wood Archives, Corvallis and are long-ovate with a long, tapering tip. Each distinctly separated lobe is double toothed on the margins to give a delicate edging. The leaf color is a strong, light green. New growth has an overblushing of rusty red which is quite variable, depending on the degree of exposure to full sun. In shade, the green takes on a yellowish cast. In midsummer a darker green predominates. Fall colors are strong and vary from yellow to burnt orange. Although it becomes an upright tree, 'Semi-no-hane' has a tendency to spread and become a broad, mediumsized plant. It is a vigorous but not an aggressive tree. The texture is pleasant in the landscape and gives a different effect. The name has been misspelled"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Semi-no-hane",
+      "page_range": "206-208",
+      "group": "matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 299804,
+      "detail_url": "https://www.rhs.org.uk/plants/299804/acer-palmatum-semi-no-hane-(m)/details",
+      "botanical_name": "Acer palmatum 'Semi-no-hane' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Semi-no-hane' (M)",
+    "Japanese maple 'Semi-no-hane'",
+    "Semi-no-hane"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Semi-no-hane'",
+    "Acer palmatum 'Semi-no-hane' (M)",
+    "Japanese maple 'Semi-no-hane'",
+    "Semi-no-hane"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 299804,
+    "rhs_url": "https://www.rhs.org.uk/plants/299804/acer-palmatum-semi-no-hane-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Semi-no-hane' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Semi-no-hane'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Semi-no-hane"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这是一种生长旺盛的中型树，株型开展，叶片大且变化较多。幼枝上的叶片呈长卵形，具细长渐尖的叶先端。各裂片分离明显，叶缘具重锯齿，呈现精致的边饰感。叶色为鲜明的浅绿色。新梢常带锈红色晕染，其程度随全日照暴露强弱而变化；在荫处时，绿色会偏黄。盛夏时则以较深的绿色为主。秋色鲜明，从黄色到焦橙色不等。虽然最终会长成直立小乔木，但 'Semi-no-hane' 也有向外开展的倾向，形成宽幅的中型植株。其生长旺盛但不过分强横，园景中的叶理质感宜人，效果别具一格。该名称曾被误拼为 'Seme-nohane'。 其叶片春季萌发时为鲜红色，夏季转为深紫红色，秋季再转为明亮的深红色。整个夏季至初秋都能较好保持深色。5 裂叶深裂至距叶基约 1 厘米处，裂为狭长卵形裂片，先端尖锐，但许多中央裂片较短且先端圆钝，这是许多源自丛枝变异（witches'-brooms）品种的特征。幼株枝条生长旺盛，但定植后枝条会变短并增粗。侧枝平均长 1-2 厘米，顶枝通常不超过 5-10 厘米。植株最终形成致密的球形灌木，高可达 3 米或以上，非常适合容器栽培和岩石园。"
+  },
+  "has_mrmaple": false
+}

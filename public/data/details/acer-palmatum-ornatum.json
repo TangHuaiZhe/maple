@@ -1,0 +1,206 @@
+{
+  "id": "acer-palmatum-ornatum",
+  "canonical_key": "ornatum",
+  "canonical_name": "Ornatum",
+  "display_name": "Ornatum",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Ornatum'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dissectum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The spring foliage is an interesting red color; it is more of a bronze red when compared with other red dissectums, such as 'Crimson Queen', 'Dissectum Nigrum', or 'Inaba shidare'. The brilliant tone stands out well in the landscape. During late summer it turns greenish and assumes a prominent crimson-red color in the fall. The leaves are the typical dissectum combination of seven very long, thin lobes, each of which is divided into deeply dissected side lobes, and each side lobe is itself deeply toothed. The lobes are 6-7 cm long, but the total leaf spread is only 5-9 cm since many leaves do not spread widely as in"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-ornatum/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG",
+      "/rhs-images/acer-palmatum-ornatum-momiji_kaede/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-ornatum/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-ornatum/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG",
+      "/rhs-images/acer-palmatum-ornatum-momiji_kaede/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Ornatum",
+      "page_range": "128",
+      "group": "Dissectum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 84880,
+      "detail_url": "https://www.rhs.org.uk/plants/84880/acer-palmatum-ornatum-(d)/details",
+      "botanical_name": "Acer palmatum 'Ornatum' (D)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Ornatum",
+      "page_range": "188-191",
+      "group": "dissectum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Dissectum Ornatum'",
+    "Acer palmatum 'Ornatum'",
+    "Acer palmatum 'Ornatum' (D)",
+    "Dissectum Ornatum",
+    "Japanese maple 'Ornatum'",
+    "Ornatum"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Dissectum Ornatum'",
+    "Acer palmatum 'Ornatum'",
+    "Acer palmatum 'Ornatum' (D)",
+    "Dissectum Ornatum",
+    "Japanese maple 'Ornatum'",
+    "Ornatum"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 84880,
+    "rhs_url": "https://www.rhs.org.uk/plants/84880/acer-palmatum-ornatum-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Ornatum' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Ornatum'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Ornatum'",
+      "Acer palmatum 'Dissectum Ornatum'"
+    ],
+    "cultivar_names": [
+      "Dissectum Ornatum",
+      "Ornatum"
+    ],
+    "description": "'Ornatum' has a rounded habit with long, thin, lobed leaves that are bronze-red when young, becoming greenish then crimson red in autumn. May eventually reach a height of 3m",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "1-1.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "North-facing, West-facing, East-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Coastal, Cottage/Informal Garden, Patio/Container Plants",
+      "hort_group_description": "Acers in this dissectum group have fine, feathery, deeply divided leaves with finely serrated edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. Suits container cultivation but attention to watering is needed in dry spells during the growing season",
+      "pruning": "Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-ornatum/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-ornatum-momiji_kaede/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/acer_palmatum_dissectum_Ornatum_%28JW%29_9299.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/84880/acer-palmatum-ornatum-(d)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-ornatum/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 140365,
+          "downloaded_at": "2026-04-14T01:47:53+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 1,
+          "filename": "acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/acer_palmatum_dissectum_Ornatum_%28JW%29_9299.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/84880/acer-palmatum-ornatum-(d)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-ornatum-momiji_kaede/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 140365,
+          "downloaded_at": "2026-04-14T01:47:53+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "care": {
+      "pruning": "修剪第 1 组：仅限在晚秋至仲冬期间进行。",
+      "cultivation": "宜栽植于保水性良好且排水通畅的土壤中，并选择避风位置。叶色在半阴环境下表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴晒过度都可能导致叶片焦边。亦适合盆栽，但在生长季干旱时段需特别注意浇水。",
+      "propagation": "可于冬末采用嫁接繁殖，或以软枝扦插繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "'Ornatum' 株形圆整，叶片细长且具深裂，幼叶为古铜红色，随后渐转带绿色，秋季变为深绯红色。最终高度可达 3 米。",
+    "attributes": {
+      "suggested_uses": "城市/庭院花园，滨海花园，乡村花园/自然式花园，庭院/容器植物",
+      "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "其春叶呈颇具特色的红色；与其他红叶裂叶品种如 'Crimson Queen'、'Dissectum Nigrum' 或 'Inaba shidare' 相比，更偏青铜红。这种明亮色调在园景中十分醒目。至夏末叶色转带绿色调，秋季则呈显著的深绯红色。叶片具典型裂叶型特征，由 7 个极狭长的裂片组成；每个裂片再分裂为深裂的侧裂片，而每个侧裂片本身又具深锯齿。主裂片长 6 至 7 厘米，但叶片总展开幅仅 5 至 9 厘米，因为许多叶片不像 'Inaba shidare' 和 'Palmatifidum' 那样充分开展。绿色叶柄长 3 至 4 厘米。极老植株可高达 3 米以上，但通常形成隆起状树冠，冠幅为 3 至 4 米。这个来自欧洲的古老品种曾因叶色调独特而广受欢迎；不过，随着更深色且保色性更好的选育品种出现，其受欢迎程度有所下降。它仍然能在园景中提供良好的色彩对比，且耐寒。它曾以多个名称流通，如"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

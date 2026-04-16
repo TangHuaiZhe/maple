@@ -1,0 +1,97 @@
+{
+  "id": "acer-palmatum-waka-momiji",
+  "canonical_key": "waka momiji",
+  "canonical_name": "Waka momiji",
+  "display_name": "Waka momiji",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Waka momiji'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "No description of this plant can be found in the old literature. It has a fiveor seven-lobed leaf of the Palmatum Group. The leaves measure 5-6 cm long and 5-7 cm wide, and the lobes are separated to just under threequarters of the way to the leaf base. Each lobe is oblong, terminating in a long, slender prominent tip. The lobes radiate outward, but the 3-cm middle lobes appear longer. The margins are lightly serrated. The red petioles are 4 cm long. The foliage has a yellow-green cast. The white variegation may consist of a few flecks to entire portions of Archives, Corvallis Archives, Corvallis ous, upright, medium-sized tree forms a tall roundtopped plant, probably reaching well over 7 m after 25 years."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Waka momiji",
+      "page_range": "181-182",
+      "group": "Palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 198244,
+      "detail_url": "https://www.rhs.org.uk/plants/198244/acer-palmatum-waka-momiji-(p-v)/details",
+      "botanical_name": "Acer palmatum 'Waka-momiji' (P/v)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Waka momiji",
+      "page_range": "232-233",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Waka-momiji' (P/v)",
+    "Waka momiji",
+    "Waka-momiji"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Waka momiji'",
+    "Acer palmatum 'Waka-momiji' (P/v)",
+    "Waka momiji",
+    "Waka-momiji"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 198244,
+    "rhs_url": "https://www.rhs.org.uk/plants/198244/acer-palmatum-waka-momiji-(p-v)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Waka-momiji' (P/v)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Waka-momiji"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "在早期文献中找不到对此品种的描述。其叶片属于 Palmatum Group，具 5 或 7 裂。叶长 5 至 6 厘米，宽 5 至 7 厘米，裂片分离程度接近叶基的四分之三。每个裂片均为长椭圆形，末端具细长而明显的尖尾。裂片向外辐射展开，其中中间的裂片长约 3 厘米，显得更长。叶缘具浅锯齿。红色叶柄长 4 厘米。叶色带黄绿色调。白色斑纹可能仅为少量斑点，也可能扩展至叶片的大块区域。该品种植株生长直立，为中等大小乔木，树形高大而圆顶，推测栽培 25 年后高度可远超 7 米。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

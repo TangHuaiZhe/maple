@@ -1,0 +1,171 @@
+{
+  "id": "acer-shirasawanum-winter-gold",
+  "canonical_key": "winter gold",
+  "canonical_name": "Winter Gold",
+  "display_name": "Winter Gold",
+  "chinese_name": null,
+  "scientific_name": "Acer shirasawanum 'Winter Gold'",
+  "species": "Acer shirasawanum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "This notable addition to the trees has interesting shoots. In the sumthey are yellow-green. The winter color is a golden-yellow which readily attracts at- The foliage is typical for the species, but fully grown tree is slightly smaller. This cultivar quite striking when planted near the red- Acer palmatum"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-shirasawanum-winter-gold/01-RHS_PUB0006840_12696.JPG"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-shirasawanum-winter-gold/01-RHS_PUB0006840_12696.JPG",
+    "public_paths": [
+      "/rhs-images/acer-shirasawanum-winter-gold/01-RHS_PUB0006840_12696.JPG"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Winter Gold",
+      "page_range": "206-208",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 167916,
+      "detail_url": "https://www.rhs.org.uk/plants/167916/acer-rufinerve-winter-gold/details",
+      "botanical_name": "Acer rufinerve 'Winter Gold'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer rufinerve 'Winter Gold'",
+    "Winter Gold",
+    "grey snake-bark maple 'Winter Gold'"
+  ],
+  "search_terms": [
+    "Acer rufinerve 'Winter Gold'",
+    "Acer shirasawanum",
+    "Acer shirasawanum 'Winter Gold'",
+    "Winter Gold",
+    "grey snake-bark maple 'Winter Gold'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 167916,
+    "rhs_url": "https://www.rhs.org.uk/plants/167916/acer-rufinerve-winter-gold/details",
+    "match_method": "cultivar",
+    "botanical_name": "Acer rufinerve 'Winter Gold'",
+    "species_name": "Acer rufinerve",
+    "common_names": [
+      "grey snake-bark maple 'Winter Gold'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Winter Gold"
+    ],
+    "description": "A snakebark maple making a medium-sized deciduous tree with glaucous young shoots and white-striped branches. It has striking yellow bark in winter. Leaves broadly oval, 3-lobed, yellow and red in autumn. Flowers yellow, in erect racemes",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "wider than 8 metres",
+      "time_to_full_height": "20-50 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H5 (hardy - cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "North-facing, West-facing, East-facing, South-facing",
+      "moisture": "Moist but well-drained, Well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Columnar/Upright",
+      "foliage": "Deciduous",
+      "suggested_uses": "Low Maintenance, Architectural",
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "RHS_PUB0006840_12696.JPG"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-shirasawanum-winter-gold/01-RHS_PUB0006840_12696.JPG"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "RHS_PUB0006840_12696.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/RHS_PUB0006840_12696.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/167916/acer-rufinerve-winter-gold/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-shirasawanum-winter-gold/01-RHS_PUB0006840_12696.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 49757,
+          "downloaded_at": "2026-04-14T01:48:02+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米"
+    },
+    "growing_conditions": {
+      "sunlight": "全日照，半阴"
+    },
+    "care": {
+      "pruning": "修剪第 1 组",
+      "cultivation": "宜栽培于湿润但排水良好的土壤中",
+      "propagation": "采用嫁接繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "一种蛇皮槭，形成中等大小的落叶乔木，幼枝具白粉，枝条具白色条纹。冬季树皮呈醒目的黄色。叶片宽卵形，3 裂，秋季变为黄色和红色。花黄色，成直立总状花序。",
+    "attributes": {
+      "suggested_uses": "低维护；具建筑感。"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一值得关注的树木品种以其有趣的新梢著称。夏季新梢为黄绿色，冬季则转为金黄色，极易吸引视线。叶片总体上仍具该种的典型特征，但成株略偏小。该品种若种植在红枝的 Acer palmatum 'Sango kaku' 附近，观赏效果尤为出色。Acer shirasawanum 作为园林树种颇具价值，其叶片的质感与色彩整体效果使其成为灌木丛植中的理想搭配树种。其叶质不同于近缘种，手感如坚挺、薄而近乎半透明的纸张。尽管外观轻薄，叶片耐日晒性却优于大多数槭树。浅色幼叶表面覆有柔毛，随后变得平滑无毛，呈浅黄绿色。秋色为金黄并夹带深红色调。小型近圆形叶片具 9 至 13 个短卵形裂片，裂深仅达叶基的约三分之一。由于沿多条主脉有轻微“褶皱”，叶片略呈碟状。卵形裂片先端短尖，叶缘具明显锯齿。新梢鲜绿色，有时带灰白色粉被。枝条较纤细，栽培条件下成熟树通常不超过 33 英尺（10 米）。本种原产日本中部和南部，生长于海拔 2310 至 5940 英尺（700 至 1800 米）的湿润、排水良好的山谷坡地。种加词是为纪念日本植物学家 Homi Shirasawa。"
+  },
+  "has_mrmaple": false
+}

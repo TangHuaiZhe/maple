@@ -1,0 +1,61 @@
+{
+  "id": "acer-palmatum-italy-red",
+  "canonical_key": "italy red",
+  "canonical_name": "Italy Red",
+  "display_name": "Italy Red",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Italy Red'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This plant is very similar to 'Bloodgood' in leaf and habit, except that it is slower growing and only reaches half its size. 'Italy Red' is very sturdy, tolerates wind and sun, and eventually forms a small upright tree up to 3 m tall. It is worth considering for gardens in which"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Italy Red",
+      "page_range": "153",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Italy Red"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Italy Red'",
+    "Italy Red"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "该品种在叶形和树姿上与 'Bloodgood' 非常相似，但生长较慢，最终体量仅为后者的一半。'Italy Red' 树势非常健壮，耐风、耐晒，最终形成一株高约 3 米的小型直立乔木。对于 'Bloodgood' 过于高大的花园环境来说，它是一个值得考虑的替代品。原始母株生长于加利福尼亚州 Laytonville 的 Mountain Maples Nursery，该苗圃由 Don 和 Nancy Fiers 经营，他们是从 Maplewood Nursery 获得该品种的。据推测，它最初来自意大利，因此得名。该品种也曾被误拼为 'Haly Red'。"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,116 @@
+{
+  "id": "acer-tataricum-embers",
+  "canonical_key": "embers",
+  "canonical_name": "Embers",
+  "display_name": "Embers",
+  "chinese_name": null,
+  "scientific_name": "Acer tataricum 'Embers'",
+  "species": "Acer tataricum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "This fast-growing broad tree has reaches 19 ft. (6 m) tall and spreads 13 ft. (4 m) gundy-red across. It has clusters of red fruit protruding from or the glossy green leaves, and an eye-catching red container sieboldianum 'Sode-no-uchi', spring color. by J. D. Vertrees. Acer tataricum subsp. ginnala. Gregory. color. 'Embers' makes a fine specimen or tree."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Embers",
+      "page_range": "210",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 239410,
+      "detail_url": "https://www.rhs.org.uk/plants/239410/acer-rubrum-embers/details",
+      "botanical_name": "Acer rubrum 'Embers'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer rubrum 'Embers'",
+    "Embers"
+  ],
+  "search_terms": [
+    "Acer rubrum 'Embers'",
+    "Acer tataricum",
+    "Acer tataricum 'Embers'",
+    "Embers"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 239410,
+    "rhs_url": "https://www.rhs.org.uk/plants/239410/acer-rubrum-embers/details",
+    "match_method": "cultivar",
+    "botanical_name": "Acer rubrum 'Embers'",
+    "species_name": "Acer rubrum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Embers"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这是一种生长较快、树冠开展的乔木，高可达 19 英尺（6 米），冠幅约 13 英尺（4 米）。其春季色彩鲜艳醒目，叶色带勃艮第红调，并可见成串红色果实从有光泽的绿色叶片间伸出。适合作为优良的孤植观赏树或庭园树。"
+  },
+  "has_mrmaple": false
+}

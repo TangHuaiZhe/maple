@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-rufescens",
+  "canonical_key": "rufescens",
+  "canonical_name": "Rufescens",
+  "display_name": "Rufescens",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Rufescens'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The color of 'Rufescens' is rather distinctive when grown near other red cultivars. The unfolding leaves are quite separate at least two-thirds of the way to the leaf base. Each leaf is about 7 cm long and 6-7 cm wide. Each lobe is elongate-elliptic, gradually tapering to a slender, sharp point. The lobes are only 1-1.5 cm wide in the middle. The long center lobes tend to hold closely together. The margins are sharply and distinctly toothed. The slender petioles are up to 5 cm long. This cultivar is not vigorous but makes a tall bush of 4 m after many years. Although described by J. A. Siesmayer in 1888, it is not widely known. Unfortunately, the name 'Rufescens' has been applied to different clones at different times, so there is uncertainty about some specimens in collections."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Rufescens",
+      "page_range": "199-200",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 89937,
+      "detail_url": "https://www.rhs.org.uk/plants/89937/acer-palmatum-rufescens-(p)/details",
+      "botanical_name": "Acer palmatum 'Rufescens' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Rufescens' (P)",
+    "Rufescens"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Rufescens'",
+    "Acer palmatum 'Rufescens' (P)",
+    "Rufescens"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 89937,
+    "rhs_url": "https://www.rhs.org.uk/plants/89937/acer-palmatum-rufescens-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Rufescens' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Rufescens"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "'Rufescens' 在与其他红叶品种并植时，叶色显得相当独特。其展开中的叶片彼此分离明显，至少有三分之二的长度一直分离到接近叶基处。每片叶长约 7 厘米、宽 6-7 厘米。各裂片为狭长椭圆形，逐渐收尖成细长锐尖。裂片中部仅宽 1-1.5 厘米，较长的中央裂片往往彼此靠拢。叶缘具清晰而锐利的锯齿。细长叶柄最长可达 5 厘米。该品种长势不强，但多年后可形成高达 4 米的高大灌木。尽管 J. A. Siesmayer 早在 1888 年即已描述此品种，但其知名度并不高。遗憾的是，名称 'Rufescens' 在不同时期曾被用于不同无性系，因此收藏中的部分材料存在鉴定上的不确定性。"
+  },
+  "has_mrmaple": false
+}

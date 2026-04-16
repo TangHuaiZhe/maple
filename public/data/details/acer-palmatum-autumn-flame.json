@@ -1,0 +1,133 @@
+{
+  "id": "acer-palmatum-autumn-flame",
+  "canonical_key": "autumn flame",
+  "canonical_name": "Autumn Flame",
+  "display_name": "Autumn Flame",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Autumn Flame'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The outstanding feature of this interesting hybrid (A. × palmatum A. circinatum) introduced by Duncan and Davies Nursery of New Zealand is that the deep green summer foliage turns vivid shades of gold, orange, and red in the fall, even in New Zealand's mild climate. The seven- (or nine-) lobed medium-sized leaves of the Palmatum Group are divided halfway to three-quarters of the way to the leaf base and are 5-7.5 cm long and 6.5-9 cm wide. The broad oblong-ovate lobes are 2.5-3.5 cm long and 1.5-2 cm wide at the broadest point, narrowing slightly to 1-1.7 cm at the lobe junctions, which are 1.5-3.5 cm from the leaf base. The margins have large, coarse double teeth. The short pink red petioles are 2-2.5 cm long. This vigorous, upright grower has an estimated mature height of 6-8 m. 'Autumn Flame' was originally named"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Autumn Flame",
+      "page_range": "117",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 278317,
+      "detail_url": "https://www.rhs.org.uk/plants/278317/acer-rubrum-petes-red/details",
+      "botanical_name": "Acer rubrum 'Pete's Red'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Autumn Flame'",
+    "Acer rubrum 'Pete's Red'",
+    "Acer rubrum Autumn Flame",
+    "Autumn Flame",
+    "Pete",
+    "red maple 'Pete's Red'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Autumn Flame'",
+    "Acer rubrum 'Pete's Red'",
+    "Acer rubrum Autumn Flame",
+    "Autumn Flame",
+    "Pete",
+    "red maple 'Pete's Red'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 278317,
+    "rhs_url": "https://www.rhs.org.uk/plants/278317/acer-rubrum-petes-red/details",
+    "match_method": "synonym_full",
+    "botanical_name": "Acer rubrum 'Pete's Red'",
+    "species_name": "Acer rubrum",
+    "common_names": [
+      "red maple 'Pete's Red'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Autumn Flame'",
+      "Acer rubrum Autumn Flame"
+    ],
+    "cultivar_names": [
+      "Autumn Flame",
+      "Pete"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一引人注目的杂交品种（A. × palmatum A. circinatum）由新西兰 Duncan and Davies Nursery 引入，其最突出的特点是：夏季深绿色叶片在秋季即使于新西兰温和气候下，也能转为鲜艳的金色、橙色与红色。其叶为 Palmatum Group 的中等大小叶片，具 7 裂（或 9 裂），分裂深度达叶基的二分之一至四分之三；叶长 5 至 7.5 厘米，宽 6.5 至 9 厘米。裂片宽长圆状卵形，长 2.5 至 3.5 厘米，在最宽处宽 1.5 至 2 厘米，向下略收窄，在裂片结合处宽 1 至 1.7 厘米；该结合处距叶基 1.5 至 3.5 厘米。叶缘具大而粗的重锯齿。叶柄短，粉红红色，长 2 至 2.5 厘米。植株生长势强，株形直立，预计成熟株高 6 至 8 米。‘Autumn Flame’ 最初命名为 ‘Autumn Fire’，但因该名称已被一个绿色 dissectum 品种登记使用，故后改名为 ‘Autumn Flame’。"
+  },
+  "has_mrmaple": false
+}

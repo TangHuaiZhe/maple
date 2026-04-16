@@ -1,0 +1,95 @@
+{
+  "id": "acer-palmatum-takao",
+  "canonical_key": "takao",
+  "canonical_name": "Takao",
+  "display_name": "Takao",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Takao'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This ancient cultivar has references going back to 1690 and 1710. The species Acer palmatum was called takao momiji in Japanese. The plants with especially beautiful leaves were called takao. This cultivar has also been known as 'Oh momiji', 'Takao momiji', and 'Takawo momiji' and has been misspelled"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Takao",
+      "page_range": "164",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 197525,
+      "detail_url": "https://www.rhs.org.uk/plants/197525/acer-palmatum-takao-(p)/details",
+      "botanical_name": "Acer palmatum 'Takao' (P)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Takao",
+      "page_range": "219",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Takao' (P)",
+    "Takao"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Takao'",
+    "Acer palmatum 'Takao' (P)",
+    "Takao"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 197525,
+    "rhs_url": "https://www.rhs.org.uk/plants/197525/acer-palmatum-takao-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Takao' (P)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Takao"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这一古老品种的记载可追溯至 1690 年和 1710 年。Acer palmatum 在日语中曾被称作 takao momiji，而叶形格外优美的植株则被称为 takao。该品种也曾以 'Oh momiji'、'Takao momiji' 和 'Takawo momiji' 之名流传，并曾被误拼为 'Tokao'。早期文献将其描述为绿叶、7 裂型，叶长 6 至 6.5 厘米，宽度略大于长度。自日本引入荷兰的植株则据称为 5 裂。裂片为长圆状披针形，先端渐尖成细长锐尖，叶缘具锯齿。'Takao' 以鲜黄至金黄的秋色闻名。植株长势强健，树形直立、圆头，成熟时可高达 9 米。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

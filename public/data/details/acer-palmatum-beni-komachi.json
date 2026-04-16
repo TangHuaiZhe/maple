@@ -1,0 +1,195 @@
+{
+  "id": "acer-palmatum-beni-komachi",
+  "canonical_key": "beni komachi",
+  "canonical_name": "Beni komachi",
+  "display_name": "Beni komachi",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Beni komachi'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum",
+    "matsumurae"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This semidwarf plant has very unusual leaves of brilliant red. Each leaf is five lobed, separated almost entirely to the leaf base. The lobes extend widely and openly, the basal two extending obliquely backward. Each lobe is long and narrow, lanceolate but not parallel-sided. The outer half gradually narrows to a very sharp terminal. The margins are irregularly but markedly toothed. The lobes curl sideways or down or both. The sides of the lobes bend slightly upward, almost forming a shallow trough at times. The overall leaf measurements vary from 3 to 5 cm long and wide on the smaller foliage to 5 to 7 cm long on the larger leaves. However, even though the lobe may be as much as 7 cm long, it is never wider than 3-5 mm. The new foliage, which is delicate appearing at first, is a bright crimson. The intense color begins to darken as the leaf matures, and older foliage is a greenish red. The margins remain edged in crimson. In the fall, the colors again become a scarlet tone. Corvallis cultivar is not widely known and rather difficult to propagate. Occasional reversions occur when the leaves are very like those of"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-beni-komachi/01-visi46199.jpg",
+      "/rhs-images/acer-palmatum-beni-komachi-momiji_kaede/01-visi46199.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-beni-komachi/01-visi46199.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-beni-komachi/01-visi46199.jpg",
+      "/rhs-images/acer-palmatum-beni-komachi-momiji_kaede/01-visi46199.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Beni komachi",
+      "page_range": "47",
+      "group": "Palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 52826,
+      "detail_url": "https://www.rhs.org.uk/plants/52826/acer-palmatum-beni-komachi-(p)/details",
+      "botanical_name": "Acer palmatum 'Beni-komachi' (P)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Beni komachi",
+      "page_range": "121-122",
+      "group": "matsumurae",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Beni-komachi' (P)",
+    "Beni komachi",
+    "Beni-komachi",
+    "Japanese maple 'Beni-komachi'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Beni komachi'",
+    "Acer palmatum 'Beni-komachi' (P)",
+    "Beni komachi",
+    "Beni-komachi",
+    "Japanese maple 'Beni-komachi'"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 52826,
+    "rhs_url": "https://www.rhs.org.uk/plants/52826/acer-palmatum-beni-komachi-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Beni-komachi' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Beni-komachi'"
+    ],
+    "cultivar_names": [
+      "Beni-komachi"
+    ],
+    "description": "A small, multi-branched, twiggy cultivar growing to about 2.5-3m tall, with leaves very deeply divided into five slender, curved lobes, delicate and vibrant red when young, becoming red-purple, then greenish-red in summer as the leaf matures, before turning scarlet in autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H5 (hardy - cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Patio/Container Plants",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Acer leaf scorch can be caused by lack of soil moisture or excessive exposure. Suits container cultivation but attention to watering is needed in dry spells during the growing season. See Japanese maple cultivation",
+      "pruning": "Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "visi46199.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-beni-komachi/01-visi46199.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-beni-komachi-momiji_kaede/01-visi46199.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "visi46199.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi46199.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/52826/acer-palmatum-beni-komachi-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-beni-komachi/01-visi46199.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 206789,
+          "downloaded_at": "2026-04-14T01:47:40+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 1,
+          "filename": "visi46199.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi46199.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/52826/acer-palmatum-beni-komachi-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-beni-komachi-momiji_kaede/01-visi46199.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 206789,
+          "downloaded_at": "2026-04-14T01:47:40+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "attributes": {
+      "suggested_uses": "城市/庭院花园、乡村/自然式花园、露台/容器栽培",
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。"
+    },
+    "care": {
+      "pruning": "修剪第 1 组：仅限在晚秋至仲冬期间进行。",
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。",
+      "cultivation": "宜栽培于保湿性好且排水良好的土壤中，选择避风环境。叶色在半阴条件下表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致槭树叶灼伤。适合容器栽培，但生长季遇干旱时需特别注意浇水。另见 Japanese maple cultivation。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "一个小型、多分枝、细枝密生的栽培品种，高约 2.5-3 米。叶片深裂，通常为 5 枚细长弯曲的裂片；新叶纤细而呈鲜艳红色，随后转为红紫色，夏季叶片成熟后变为带绿色调的红色，秋季转为猩红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "这是一种半矮生植株，叶色鲜红，极为独特。每片叶有 5 裂，裂片几乎一直分离到叶基部。裂片开展而舒展，基部两裂片斜向后伸。各裂片狭长，呈披针形，但并非两侧平行；外半部渐尖，最终形成极锐的先端。叶缘具不规则但十分明显的锯齿。裂片向侧面或向下卷曲，或两者兼有；裂片两侧略向上弯，某些时候几乎形成浅槽状。整体叶片尺寸变化较大，小叶约 3-5 厘米长宽，大叶约 5-7 厘米长。不过，即使裂片长度可达 7 厘米，其宽度也从不超过 3-5 毫米。新叶初展时质感纤秀，呈鲜亮的深绯红色。随着叶片成熟，浓烈色泽逐渐加深，老叶变为带绿色调的红色，叶缘仍保留深红色镶边。秋季叶色再次转为猩红色。Corvallis 这一品种并不广为人知，且较难繁殖。偶尔会出现返祖现象，叶片非常接近"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

@@ -1,0 +1,193 @@
+{
+  "id": "acer-palmatum-green-trompenburg",
+  "canonical_key": "green trompenburg",
+  "canonical_name": "Green Trompenburg",
+  "display_name": "Green Trompenburg",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Green Trompenburg'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This tall-growing tree has distinctive green foliage. The leaves are almost identical to those of the well-known red-leaved cultivar 'Trompenburg', which was selected at the arboretum of that name in Rotterdam, Netherlands. The difference is in the color, which is a dark, rich green with no lighter undertones. The dark green carries well into the summer and fall, and does not appear to show sunburn. The early spring foliage carries a shading of rusty red on the tips and edges of the new leaves, which disappears as the leaves mature. Fall colors produce orange and yellow tones. The leaves are hardy, of good texture, and measure 7 cm long and 10 cm wide. The seven or nine lobes radiate outward in almost a completely circular manner, and are Archives, Corvallis hold the leaf outward. This interesting, very vigorous tree reaches a full size of about 8 m. As with the red"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-green-trompenburg/01-visi69059.jpg",
+      "/rhs-images/acer-palmatum-green-trompenburg/02-visi69057.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-green-trompenburg/01-visi69059.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-green-trompenburg/01-visi69059.jpg",
+      "/rhs-images/acer-palmatum-green-trompenburg/02-visi69057.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Green Trompenburg",
+      "page_range": "144-145",
+      "group": "matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 81863,
+      "detail_url": "https://www.rhs.org.uk/plants/81863/acer-palmatum-green-trompenburg-(m)/details",
+      "botanical_name": "Acer palmatum 'Green Trompenburg' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Green Trompenburg' (M)",
+    "Green Trompenburg",
+    "Japanese maple 'Green Trompenburg'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Green Trompenburg'",
+    "Acer palmatum 'Green Trompenburg' (M)",
+    "Green Trompenburg",
+    "Japanese maple 'Green Trompenburg'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 81863,
+    "rhs_url": "https://www.rhs.org.uk/plants/81863/acer-palmatum-green-trompenburg-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Green Trompenburg' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Green Trompenburg'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Green Trompenburg"
+    ],
+    "description": "A deciduous tree or shrub, up to 8m high, with large leaves deeply cut into narrow lobes, often with the edges rolled under. Leaves emerge lime green, tinted with red at the margins, and mature to green before turning yellow and orange in autumn",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "20-50 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, South-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree, Shrub",
+      "habit": "Columnar/Upright",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Low Maintenance",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in moisture-retentive, well-drained, ideally slightly acidic soil, in a sheltered position with protection from drying winds. Thrives in part shade, as some sun is needed to develop the leaf colour, but will tolerate full sun if soil is reliably moist. Mulch in spring, especially when grown in containers , to improve moisture retention. See Japanese maples cultivation",
+      "pruning": "Minimal pruning required; see pruning group 1 . Prune from late autumn to mid-winter only",
+      "propagation": "Propagate by layering or grafting"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "visi69059.jpg",
+        "visi69057.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-green-trompenburg/01-visi69059.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-green-trompenburg/02-visi69057.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "visi69059.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi69059.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/81863/acer-palmatum-green-trompenburg-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-green-trompenburg/01-visi69059.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 139018,
+          "downloaded_at": "2026-04-14T01:47:46+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "visi69057.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi69057.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/81863/acer-palmatum-green-trompenburg-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-green-trompenburg/02-visi69057.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 215470,
+          "downloaded_at": "2026-04-14T01:47:46+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。",
+      "suggested_uses": "适合用于建筑景观、城市/庭院花园、乡村/自然式花园、花境与花坛，以及低维护栽培。"
+    },
+    "care": {
+      "cultivation": "宜栽植于保水性好但排水良好的土壤中，最好为微酸性，并选择避风、可防止干燥风侵袭的位置。最适合半阴环境，因为叶色形成需要一定光照；若土壤能持续保持湿润，也可耐全日照。春季覆 mulch，尤其是盆栽时，可提高土壤保湿性。参见 Japanese maples cultivation。",
+      "pruning": "所需修剪极少；参见修剪第 1 组。仅可在晚秋至仲冬期间修剪。",
+      "propagation": "可采用压条或嫁接繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "落叶乔木或灌木，高可达 8 米；叶片较大，深裂成狭长裂片，叶缘常向下反卷。新叶展开时为青柠绿色，叶缘带红晕，后成熟为绿色，秋季转为黄色和橙色。"
+  },
+  "descriptions_zh": {
+    "preferred": "该品种为高大型树木，叶色独特，为绿色。其叶片与著名红叶品种 'Trompenburg' 几乎完全相同；后者选育自荷兰鹿特丹同名树木园。二者差异主要在于叶色，本品种呈浓深的墨绿色，不带浅色底调。深绿色可良好保持至夏季和秋季，且似乎不易发生日灼。早春新叶的叶尖和叶缘带有锈红色晕染，随叶片成熟而消失。秋色表现为橙色和黄色调。叶片质地良好且较耐性，长约 7 厘米、宽约 10 厘米。7 或 9 个裂片几乎呈完整圆形向外辐射展开，叶姿外展。该品种生长势很强，成株约可达 8 米。与红叶的 'Trompenburg' 一样，其叶片质感和树形都很具观赏价值；绿色型为园林应用增加了新的选择。该品种源自一批开放授粉实生苗，种子采自荷兰 Boskoop 的 Firma C. Esveld。后由 Maplewood Nursery 繁殖，并于 1988 年命名登记。其别名为"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,109 @@
+{
+  "id": "acer-palmatum-novum",
+  "canonical_key": "novum",
+  "canonical_name": "Novum",
+  "display_name": "Novum",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Novum'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Amoenum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The medium-sized to large leaves have five to seven ovate lobes which taper to slender, sharp points and are divided at least halfway to the base. The spring and early summer color is a light purple-red, not as dark as in 'Bloodgood' or 'Nuresagi'. The leaves are a bright, almost orange-red in midsummer, becoming green-red in late summer. Fall color is an intense scarlet. This strong, upright-growing maple can reach more than 23 ft. (7 m) high. It forms a round-topped small tree which is hardy and vigorous. The name means \"new.\" Synonym, 'Atropurpureum Novum'."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Novum",
+      "page_range": "117-118",
+      "group": "Amoenum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 370023,
+      "detail_url": "https://www.rhs.org.uk/plants/370023/acer-palmatum-novum-(a)/details",
+      "botanical_name": "Acer palmatum 'Novum' (A)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Novum",
+      "page_range": "180-181",
+      "group": "amoenum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Atropurpureum Novum'",
+    "Acer palmatum 'Novum' (A)",
+    "Acer palmatum 'Roscoe Red'",
+    "Atropurpureum Novum",
+    "Novum",
+    "Roscoe Red"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Atropurpureum Novum'",
+    "Acer palmatum 'Novum'",
+    "Acer palmatum 'Novum' (A)",
+    "Acer palmatum 'Roscoe Red'",
+    "Atropurpureum Novum",
+    "Novum",
+    "Roscoe Red"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 370023,
+    "rhs_url": "https://www.rhs.org.uk/plants/370023/acer-palmatum-novum-(a)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Novum' (A)",
+    "species_name": "Acer palmatum",
+    "synonyms": [
+      "Acer palmatum 'Atropurpureum Novum'",
+      "Acer palmatum 'Roscoe Red'"
+    ],
+    "cultivar_names": [
+      "Atropurpureum Novum",
+      "Novum",
+      "Roscoe Red"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "中大型叶片具 5 至 7 枚卵形裂片，裂片渐收为细长锐尖，分裂深度至少达叶基的一半。春季与初夏叶色为浅紫红色，不如 'Bloodgood' 或 'Nuresagi' 那样深。盛夏时叶片转为鲜亮、近橙红色，晚夏则变为带绿色调的红色。秋色为强烈的猩红色。该品种生长强健、姿态直立，高可超过 23 英尺（7 米），形成圆头状小乔木，耐寒且长势旺盛。其名意为“新的”。异名为 'Atropurpureum Novum'。 'Nuresagi' 属 Matsumurae Group—red。该优良紫叶高大型品种具大型叶片，5 至 7 枚裂片明显向外放射。各裂片长卵形，先端延伸为细长尖尾。裂片分裂较深，因此叶姿显得相当轻巧细致。叶柄坚挺，呈鲜红色。浓郁而深暗的紫红叶色十分少见。春季与初夏时，叶片在特定光线下会呈现一种带乳光感的红色，甚至带有淡蓝色调；至晚夏仍可保持深紫红色，偶尔会混有轻微的深绿色斑驳。嫩枝与枝条为深栗红色，并带灰调，这是由细密的白色纵向条纹造成的，观赏性良好。该品种耐寒、长势旺盛、姿态直立，生长后期需要一定展开空间，可高达 16 至 20 英尺（5 至 6 米）。其名意为“湿鹭”。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

@@ -1,0 +1,98 @@
+{
+  "id": "acer-palmatum-mizu-kuguri",
+  "canonical_key": "mizu kuguri",
+  "canonical_name": "Mizu kuguri",
+  "display_name": "Mizu kuguri",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Mizu kuguri'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Amoenum",
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The spring color of this cultivar is unusual for Acer palmatum forms. The undercolor is light green, but the entire leaf has a pinkish rose to a light brick red overshading. The effect is not harsh but a rather gentle overall brushing of color. Later in the season, the leaf tones beform, reaching 3 m high."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Mizu kuguri",
+      "page_range": "107-109",
+      "group": "Amoenum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 81066,
+      "detail_url": "https://www.rhs.org.uk/plants/81066/acer-palmatum-mizu-kuguri-(a)/details",
+      "botanical_name": "Acer palmatum 'Mizu-kuguri' (A)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Mizu kuguri",
+      "page_range": "174-175",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Mizu-kuguri' (A)",
+    "Mizu kuguri",
+    "Mizu-kuguri"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Mizu kuguri'",
+    "Acer palmatum 'Mizu-kuguri' (A)",
+    "Mizu kuguri",
+    "Mizu-kuguri"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 81066,
+    "rhs_url": "https://www.rhs.org.uk/plants/81066/acer-palmatum-mizu-kuguri-(a)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Mizu-kuguri' (A)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Mizu-kuguri"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "该品种的春季叶色在 Acer palmatum 类型中较为少见。底色为浅绿色，但整片叶面上覆有粉玫瑰色至浅砖红色的晕染。整体效果并不浓烈刺眼，而是一种柔和的通体着色。到生长季后期，叶色会转淡。该品种形成较为直立的株形，高可达 3 米。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

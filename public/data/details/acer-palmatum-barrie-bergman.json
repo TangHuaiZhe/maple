@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-barrie-bergman",
+  "canonical_key": "barrie bergman",
+  "canonical_name": "Barrie Bergman",
+  "display_name": "Barrie Bergman",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Barrie Bergman'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dissectum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "Slow-growing and compact, 'Barrier Bergman' has finely dissected leaves. The bright pink-red new growth makes an attractive contrast to the purple-red to bronze-red older leaves. Bronze-green tones readily appear on plants growing in partial shade. Fall color is orange-red. This cultivar forms a dense moundshaped plant which is surprisingly hardy."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Barrie Bergman",
+      "page_range": "45",
+      "group": "Dissectum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 197153,
+      "detail_url": "https://www.rhs.org.uk/plants/197153/acer-palmatum-barrie-bergman-(d)/details",
+      "botanical_name": "Acer palmatum 'Barrie Bergman' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Barrie Bergman' (D)",
+    "Barrie Bergman"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Barrie Bergman'",
+    "Acer palmatum 'Barrie Bergman' (D)",
+    "Barrie Bergman"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 197153,
+    "rhs_url": "https://www.rhs.org.uk/plants/197153/acer-palmatum-barrie-bergman-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Barrie Bergman' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Barrie Bergman"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "‘Barrier Bergman’ 生长缓慢且株形紧凑，叶片细裂。鲜亮的粉红红色新叶与较老的紫红色至青铜红色叶片形成迷人对比。在半阴环境下栽培时，植株常会显现青铜绿色调。秋色为橙红色。该品种最终形成致密的圆丘状株形，且耐寒性出乎意料地好。"
+  },
+  "has_mrmaple": false
+}

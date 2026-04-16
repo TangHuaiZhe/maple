@@ -1,0 +1,358 @@
+{
+  "id": "acer-palmatum-peve-ollie",
+  "canonical_key": "peve ollie",
+  "canonical_name": "Peve Ollie",
+  "display_name": "Peve Ollie",
+  "chinese_name": "Peve Ollie-",
+  "scientific_name": "Acer palmatum 'Peve Ollie'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "红叶",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "佩夫.奥利由 Piet Vergeld 推出，直立生长，树型紧凑；叶型较大，叶裂较深，5-7叶裂，叶片摸起来厚实；春季深红色，夏季变暗，并长出新芽，秋季橙红色。成年树高2米。"
+  },
+  "images": {
+    "count": 4,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/280_Peve Ollie-Acer palmatum 'Peve Ollie'/01.jpg",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/280_Peve Ollie-Acer palmatum 'Peve Ollie'/01.jpg",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/280_Peve Ollie-Acer palmatum 'Peve Ollie'/02.jpg",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/280_Peve Ollie-Acer palmatum 'Peve Ollie'/03.jpg",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/280_Peve Ollie-Acer palmatum 'Peve Ollie'/04.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/280_Peve%20Ollie-Acer%20palmatum%20'Peve%20Ollie'/01.jpg",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/280_Peve%20Ollie-Acer%20palmatum%20'Peve%20Ollie'/01.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/280_Peve%20Ollie-Acer%20palmatum%20'Peve%20Ollie'/02.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/280_Peve%20Ollie-Acer%20palmatum%20'Peve%20Ollie'/03.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/280_Peve%20Ollie-Acer%20palmatum%20'Peve%20Ollie'/04.jpg"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/01-peveollie3.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/02-peveollie4.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/03-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066610.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/04-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066611.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/05-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066612.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/06-peveollie.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/07-peveollie2.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/08-peveollie5.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/280_Peve%20Ollie-Acer%20palmatum%20'Peve%20Ollie'/01.jpg",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/280_Peve%20Ollie-Acer%20palmatum%20'Peve%20Ollie'/01.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/280_Peve%20Ollie-Acer%20palmatum%20'Peve%20Ollie'/02.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/280_Peve%20Ollie-Acer%20palmatum%20'Peve%20Ollie'/03.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/280_Peve%20Ollie-Acer%20palmatum%20'Peve%20Ollie'/04.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/01-peveollie3.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/02-peveollie4.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/03-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066610.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/04-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066611.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/05-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066612.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/06-peveollie.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/07-peveollie2.jpg",
+      "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/08-peveollie5.jpg"
+    ],
+    "public_count": 12
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "280",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/280.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=26",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "红叶",
+      "title": "Peve Ollie-Acer palmatum 'Peve Ollie'",
+      "description": "佩夫.奥利由 Piet Vergeld 推出，直立生长，树型紧凑；叶型较大，叶裂较深，5-7叶裂，叶片摸起来厚实；春季深红色，夏季变暗，并长出新芽，秋季橙红色。成年树高2米。",
+      "image_count": 4
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 263903,
+      "detail_url": "https://www.rhs.org.uk/plants/263903/acer-palmatum-peve-ollie/details",
+      "botanical_name": "Acer palmatum 'Pévé Ollie'",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "Acer palmatum 'Peve Ollie' Japanese Maple",
+      "handle": "buy-acer-palmatum-peve-ollie-japanese-maple",
+      "product_url": "https://mrmaple.com/products/buy-acer-palmatum-peve-ollie-japanese-maple",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 8,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Pévé Ollie'",
+    "Peve Ollie",
+    "Peve Ollie-",
+    "Peve Ollie-Acer palmatum 'Peve Ollie'",
+    "Pévé Ollie"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Peve Ollie'",
+    "Acer palmatum 'Pévé Ollie'",
+    "Peve Ollie",
+    "Peve Ollie-",
+    "Peve Ollie-Acer palmatum 'Peve Ollie'",
+    "Pévé Ollie",
+    "红叶",
+    "鸡爪槭"
+  ],
+  "source_count": 3,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 263903,
+    "rhs_url": "https://www.rhs.org.uk/plants/263903/acer-palmatum-peve-ollie/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Pévé Ollie'",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Pévé Ollie"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "佩夫.奥利由 Piet Vergeld 推出，直立生长，树型紧凑；叶型较大，叶裂较深，5-7叶裂，叶片摸起来厚实；春季深红色，夏季变暗，并长出新芽，秋季橙红色。成年树高2米。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 1,
+    "local_file_count": 8,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/01-peveollie3.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/01-peveollie3.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/02-peveollie4.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/03-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066610.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/04-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066611.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/05-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066612.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/06-peveollie.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/07-peveollie2.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/08-peveollie5.jpg"
+    ],
+    "products": [
+      {
+        "title": "Acer palmatum 'Peve Ollie' Japanese Maple",
+        "handle": "buy-acer-palmatum-peve-ollie-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-peve-ollie-japanese-maple",
+        "product_type": "",
+        "tags": [
+          "10 @ 10 AM",
+          "blkfriday2025",
+          "Cold Hardiness Zone_Zone 5",
+          "Cold Hardiness Zone_Zone 6",
+          "Cold Hardiness Zone_Zone 7",
+          "Cold Hardiness Zone_Zone 8",
+          "Cold Hardiness Zone_Zone 9",
+          "Colors_Red",
+          "Earlybird",
+          "EARLYBIRD26",
+          "FALLCUSTOMER",
+          "FALLSALE25",
+          "Habit_Upright",
+          "Habitat Conditions_Shady Areas",
+          "Habitat Conditions_Sunlit Areas",
+          "NEWYEARS26",
+          "nov28",
+          "OHDISCOUNT",
+          "Size_Medium",
+          "Species_Acer palmatum",
+          "SPRINGSALE25",
+          "Sun In_Zone 5",
+          "Sun In_Zone 6",
+          "Sun In_Zone 7",
+          "Sun In_Zone 8",
+          "Type_Japanese Maple",
+          "Use_Containers",
+          "VDAYSALE25",
+          "VDAYSALE26"
+        ],
+        "description_text": "Acer palmatum 'Peve Ollie' Rare Peve Ollie Japanese Maple Tree Zones 5-9 Introduced by Piet Vergeld, this maple is truly unique. In fact, \"Peve\" is a combination with his name which Piet uses for many of his introductions. 'Peve Ollie' creates a mid-sized tree reaching 8-10 ft with large twisting maroon red leaves on sturdy limbs and a thick trunk. This gives this tree a unique habit and a firm texture in the landscape and garden. 'Peve Ollie' intensifies to a much brighter red during the fall.",
+        "published_at": "2026-01-02T09:00:07-05:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer palmatum",
+        "matched_title_cultivar": "Peve Ollie",
+        "images": {
+          "count": 8,
+          "downloaded_count": 8,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/01-peveollie3.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/02-peveollie4.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/03-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066610.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/04-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066611.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/05-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066612.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/06-peveollie.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/07-peveollie2.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/08-peveollie5.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "peveollie3.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/peveollie3.jpg?v=1747703900",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-peve-ollie-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/01-peveollie3.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 138380,
+              "downloaded_at": "2026-04-14T02:27:56+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "peveollie4.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/peveollie4.jpg?v=1747703900",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-peve-ollie-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/02-peveollie4.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 180566,
+              "downloaded_at": "2026-04-14T02:27:56+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066610.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066610.jpg?v=1747703900",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-peve-ollie-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/03-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066610.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 325105,
+              "downloaded_at": "2026-04-14T02:27:56+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 4,
+              "filename": "Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066611.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066611.jpg?v=1747703900",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-peve-ollie-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/04-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066611.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 176605,
+              "downloaded_at": "2026-04-14T02:27:57+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 5,
+              "filename": "Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066612.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066612.jpg?v=1747703900",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-peve-ollie-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/05-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066612.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 65862,
+              "downloaded_at": "2026-04-14T02:27:57+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 6,
+              "filename": "peveollie.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/peveollie.jpg?v=1747703900",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-peve-ollie-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/06-peveollie.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 126125,
+              "downloaded_at": "2026-04-14T02:27:57+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 7,
+              "filename": "peveollie2.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/peveollie2.jpg?v=1747703900",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-peve-ollie-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/07-peveollie2.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 66057,
+              "downloaded_at": "2026-04-14T02:27:57+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 8,
+              "filename": "peveollie5.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/peveollie5.jpg?v=1747703900",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-peve-ollie-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/08-peveollie5.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 147634,
+              "downloaded_at": "2026-04-14T02:27:57+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

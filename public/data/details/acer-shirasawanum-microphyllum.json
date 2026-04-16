@@ -1,0 +1,122 @@
+{
+  "id": "acer-shirasawanum-microphyllum",
+  "canonical_key": "microphyllum",
+  "canonical_name": "Microphyllum",
+  "display_name": "Microphyllum",
+  "chinese_name": null,
+  "scientific_name": "Acer shirasawanum 'Microphyllum'",
+  "species": "Acer shirasawanum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "The small rounded leaves are cupped at the attachment to the leaf- The basal lobes overlap and, with the upturn of the leaf, form a shallow cup. The red leafstalks are sturdy. Leaf color is dark green, becoming bright blends of reds and yellows in the fall. The growth seems less vigorous than that of the species, but the plant forms a small tree to 20 ft. (6 m) tall. It appears to be a sturdy and hardy form. The name means \"small-leaved.\""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Microphyllum",
+      "page_range": "208-209",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 72436,
+      "detail_url": "https://www.rhs.org.uk/plants/72436/acer-shirasawanum-microphyllum/details",
+      "botanical_name": "Acer shirasawanum 'Microphyllum'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer japonicum f. microphyllum",
+    "Acer palmatum microphyllum",
+    "Acer shirasawanum 'Microphyllum'",
+    "Microphyllum"
+  ],
+  "search_terms": [
+    "Acer japonicum f. microphyllum",
+    "Acer palmatum microphyllum",
+    "Acer shirasawanum",
+    "Acer shirasawanum 'Microphyllum'",
+    "Microphyllum"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 72436,
+    "rhs_url": "https://www.rhs.org.uk/plants/72436/acer-shirasawanum-microphyllum/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer shirasawanum 'Microphyllum'",
+    "species_name": "Acer shirasawanum",
+    "common_names": [],
+    "synonyms": [
+      "Acer palmatum microphyllum",
+      "Acer japonicum f. microphyllum"
+    ],
+    "cultivar_names": [
+      "Microphyllum"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "小型圆叶在叶柄着生处呈杯状内凹。基部裂片彼此重叠，再加上叶片上翘，形成浅浅的杯状。红色叶柄结实有力。叶色为深绿，秋季转为鲜艳的红黄综合色。其长势似乎不如原种旺盛，但可形成一株高达 20 英尺（6 米）的小乔木。看起来是一个强健且耐寒的类型。其名称意为“小叶的”。"
+  },
+  "has_mrmaple": false
+}

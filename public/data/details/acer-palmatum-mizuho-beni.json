@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-mizuho-beni",
+  "canonical_key": "mizuho beni",
+  "canonical_name": "Mizuho beni",
+  "display_name": "Mizuho beni",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Mizuho beni'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This very attractive addition to the 'Katsura' group of cultivars has colorful orange-yellow spring foliage. The leaves have a dark pink edging which merges into the orange-yellow background. The fiveor seven-lobed medium green leaves are fairly uniform in shape and color. They are characterized by the large coarse, almost sublobulate, triangular-pointed double teeth around the margins. Each leaf is divided up to three-quarters of the way to the leaf base, with the lobes well separated. The leaves measure 4.5-5.5 cm long 'Mizuho beni' is similar to"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Mizuho beni",
+      "page_range": "174",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 134937,
+      "detail_url": "https://www.rhs.org.uk/plants/134937/acer-palmatum-mizuho-beni-(p)/details",
+      "botanical_name": "Acer palmatum 'Mizuho-beni' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Mizuho-beni' (P)",
+    "Mizuho beni",
+    "Mizuho-beni"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Mizuho beni'",
+    "Acer palmatum 'Mizuho-beni' (P)",
+    "Mizuho beni",
+    "Mizuho-beni"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 134937,
+    "rhs_url": "https://www.rhs.org.uk/plants/134937/acer-palmatum-mizuho-beni-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Mizuho-beni' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Mizuho-beni"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这是 ‘Katsura’ 类群中一个非常迷人的品种，春叶呈色彩鲜明的橙黄色。叶缘带深粉色镶边，并逐渐融入橙黄色底色中。五裂或七裂叶为中绿色，叶形与叶色相当整齐一致。其显著特征是叶缘具大型、粗重、近似浅裂状的三角尖头重锯齿。每片叶自叶基向上分裂达约四分之三，裂片彼此分离明显。叶片长 4.5-5.5 厘米。‘Mizuho beni’ 在叶形、大小、色彩以及生长习性和长势方面与 ‘Katsura’ 相似，但锯齿明显得多。不过，更重要的区别在于它萌叶时间正常，比 ‘Katsura’ 晚约两到三周，因此较不易受早春霜冻和寒风损伤。该引种名有时被误拼为 ‘Mitsuho beni’。Mizuho 是日本女性名字。"
+  },
+  "has_mrmaple": false
+}

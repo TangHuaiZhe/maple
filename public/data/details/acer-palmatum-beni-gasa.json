@@ -1,0 +1,198 @@
+{
+  "id": "acer-palmatum-beni-gasa",
+  "canonical_key": "beni gasa",
+  "canonical_name": "Beni gasa",
+  "display_name": "Beni gasa",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Beni gasa'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This American cultivar has medium-sized fiveto seven-lobed fanshaped leaves. The lobes are deeply divided with conspicuous coarse, sharp teeth on the crinkled margins. The new leaves are a bright pink-red, with contrasting lime-green midveins and stalks, becoming dark brown-red to purple-red for the summer. Fall color is an attractive blend of gold and crimson. This slow-growing broad shrubby tree makes a welcome addition to the garden landscape. The name means \"red umbrella.\""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+      "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/02-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044568.jpg",
+      "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/03-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044571.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+      "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/02-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044568.jpg",
+      "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/03-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044571.jpg"
+    ],
+    "public_count": 3
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Beni gasa",
+      "page_range": "45",
+      "group": "Matsumurae",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 178915,
+      "detail_url": "https://www.rhs.org.uk/plants/178915/acer-palmatum-beni-gasa-(m)/details",
+      "botanical_name": "Acer palmatum 'Beni-gasa' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Beni-gasa' (M)",
+    "Beni gasa",
+    "Beni-gasa"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Beni gasa'",
+    "Acer palmatum 'Beni-gasa' (M)",
+    "Beni gasa",
+    "Beni-gasa"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 178915,
+    "rhs_url": "https://www.rhs.org.uk/plants/178915/acer-palmatum-beni-gasa-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Beni-gasa' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Beni-gasa"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一美国品种具中等大小、5 至 7 裂的扇形叶。裂片深裂，皱褶叶缘上具显著、粗大而尖锐的锯齿。新叶呈鲜亮粉红红色，与之形成对比的是中脉和叶柄的青柠绿色；夏季叶色转为深褐红至紫红色。秋季叶色为金黄与深红的迷人混合。该品种生长缓慢，形成开展的灌木状小乔木，是园林景观中的优良补充。其名称意为“红伞”。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 6,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/02-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044568.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/03-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044571.jpg"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+    "products": [
+      {
+        "title": "Acer palmatum 'Beni gasa' Red Japanese Maple",
+        "handle": "buy-acer-palmatum-beni-gasa-red-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-beni-gasa-red-japanese-maple",
+        "description_text": "Acer palmatum 'Beni gasa' Red Japanese Maple Zones 6-9 ‘Beni gasa' leafs out in the spring with large serrated red matsumurae leaves. Chartreuse begins to infuse into the red , giving ‘Beni gasa’ some unique highlights. During the summer ‘Beni gasa’ turns to a dark red green with bronze highlights. New growth on ‘Beni gasa’ during the summer is a bright red. ‘Beni gasa’ is typically a bright orange for fall. ‘Beni gasa’ may reach 8 ft in height in 10 years. ‘Beni gasa’ translates as “Red Umbrella’.",
+        "image_count": 3,
+        "match_method": "search_html",
+        "match_score": 152,
+        "images": {
+          "downloaded_count": 3,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/02-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044568.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/03-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044571.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg?v=1722548359",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-beni-gasa-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+              "content_type": "image/webp",
+              "bytes": 421692,
+              "downloaded_at": "2026-04-16T07:11:27.702Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044568.jpg?v=1722548365",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-beni-gasa-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/02-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044568.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 198180,
+              "downloaded_at": "2026-04-16T07:11:29.836Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044571.jpg?v=1722548370",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-beni-gasa-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/03-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044571.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 494942,
+              "downloaded_at": "2026-04-16T07:11:35.106Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

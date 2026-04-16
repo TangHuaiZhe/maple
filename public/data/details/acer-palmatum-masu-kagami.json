@@ -1,0 +1,145 @@
+{
+  "id": "acer-palmatum-masu-kagami",
+  "canonical_key": "masu kagami",
+  "canonical_name": "Masu kagami",
+  "display_name": "Masu kagami",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Masu kagami'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "One of the most interesting of the subtly variegated maples, 'Masu kagami' has large leaves with five to seven lobes that are separated openly and deeply. Each lobe is elongate-ovate with the tip extended to a very sharp point. The margins are prominently toothed. Early spring foliage is crimson, occasionally showing strong pink tones. These colors lessen, but the reddish shades persist along the margins into late spring. The summer leaves are green but often so heavily marked as to appear almost whitish green. The extremely fine dots of white and yellow often merge to form more solid areas of light color. This cultivar does best with light shade protection. It is a hardy, mediumgrowing plant which eventually makes a tall shrub 13 ft. (4 m) high."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Masu kagami",
+      "page_range": "103-104",
+      "group": "Palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 47342,
+      "detail_url": "https://www.rhs.org.uk/plants/47342/acer-palmatum-masukagami-(p-v)/details",
+      "botanical_name": "Acer palmatum 'Masukagami' (P/v)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Masukagami' (P/v)",
+    "Japanese maple 'Masukagami'",
+    "Masu kagami",
+    "Masukagami"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Masu kagami'",
+    "Acer palmatum 'Masukagami' (P/v)",
+    "Japanese maple 'Masukagami'",
+    "Masu kagami",
+    "Masukagami"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 47342,
+    "rhs_url": "https://www.rhs.org.uk/plants/47342/acer-palmatum-masukagami-(p-v)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Masukagami' (P/v)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Masukagami'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Masukagami"
+    ],
+    "description": "A deciduous maple about 2-3m tall with variegated foliage. The sharply pointed, 5 to 7-lobed leaves, 5 to 7cm long, open crimson or strong pink in spring, maturing to green but heavily marked and stippled with white and yellow, some leaf areas appearing one solid colour, then turning pinkish red in autumn .",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Patio/Container Plants, Flower borders and beds",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市/庭院花园，乡村/自然式花园，露台/容器植物，花境及花坛",
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "落叶槭树，株高约 2-3 米，叶具斑锦。叶片先端锐尖，5 至 7 裂，长 5-7 厘米，春季初展时呈深红色或浓粉色，后转为绿色，但密布白色和黄色斑驳及细点，部分叶面区域看起来近乎整块实色，秋季转为粉红红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "在细腻斑锦类槭树中，'Masu kagami' 是最有趣的品种之一。其叶片较大，具五至七裂，裂片分离开张且较深。每个裂片呈长卵形，先端延伸成极尖的尖头，叶缘具明显锯齿。早春叶色为深红色，偶尔带有明显粉红调。随后这些颜色会减淡，但至晚春叶缘仍保留红色调。夏季叶片转绿，但常因白色与黄色极细密的斑点而显得近乎灰白绿色，这些细点常融合成较完整的浅色斑块。该品种在有轻度遮阴保护的环境下表现最佳。植株耐寒，生长势中等，最终形成高大灌木，高约 13 英尺（4 米）。"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,143 @@
+{
+  "id": "acer-palmatum-akegarasu",
+  "canonical_key": "akegarasu",
+  "canonical_name": "Akegarasu",
+  "display_name": "Akegarasu",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Akegarasu'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Amoenum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The large leaves are very deeply divided into five to seven broadly ovateelliptic lobes, with very sharp tips and toothed margins. The early season color is a very deep purple-red becoming bronze-green in the summer. Like other reds, when grown in shady conditions it has a less intense color. The leafstalks are deep red and the branches green. This strong, uprightgrowing maple reaches at least 16 ft. (5 m) at maturity. It tends to widen into a broad-topped, short tree. It is both hardy and easy to grow. The name means \"the crows at dawn.\""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Akegarasu",
+      "page_range": "31-33",
+      "group": "Amoenum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 74539,
+      "detail_url": "https://www.rhs.org.uk/plants/74539/acer-palmatum-akegarasu-(m)/details",
+      "botanical_name": "Acer palmatum 'Akegarasu' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Akegarasu' (M)",
+    "Akegarasu",
+    "Japanese maple 'Akegarasu'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Akegarasu'",
+    "Acer palmatum 'Akegarasu' (M)",
+    "Akegarasu",
+    "Japanese maple 'Akegarasu'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 74539,
+    "rhs_url": "https://www.rhs.org.uk/plants/74539/acer-palmatum-akegarasu-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Akegarasu' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Akegarasu'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Akegarasu"
+    ],
+    "description": "A deciduous, upright tree about 3-4m tall, the large palmate leaves to 12.5cm long, emerge in early spring red-purple in colour initially, turning bronze as the season progresses, then reddish-bronze in autumn,. Red flowers in pendent racemes produced in early spring",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Patio/Container Plants",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "description": "落叶、直立小乔木，高约 3-4 米；大型掌状叶长可达 12.5 厘米，早春萌发时呈红紫色，随后逐渐转为古铜色，秋季呈红铜色。早春开红色花，成下垂总状花序。",
+    "attributes": {
+      "suggested_uses": "城市/庭院花园、乡村/自然式花园、露台/容器栽培",
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "叶片较大，深裂为 5 至 7 枚宽卵形至椭圆形裂片，先端极尖，边缘具锯齿。生长季早期叶色为极深的紫红色，夏季转为古铜绿色。与其他红叶类型一样，在遮阴条件下栽培时色彩浓度会减弱。叶柄深红，枝条绿色。这一强健、直立生长的枫树成熟时至少可达 16 英尺（5 米）。随着生长常扩展成宽顶、较矮的小乔木。其耐寒且容易栽培。名称意为“黎明时的乌鸦”。 另有一段可辨识内容为 Acer tschonoskii 的描述：这是一种优雅的小型蛇皮槭，原产日本，生于海拔约 4550-8125 英尺（1400-1500 米）的亚高山林地。植株可形成大型灌木或小乔木，高约 16-23 英尺（5-7 米），适合配置于混合景观中。叶片较小，近圆形，浅裂 5 裂，边缘具很粗的锯齿，先端短尖；叶面绿色，叶背带锈褐色毛。秋色为黄色至金黄色，有时略带粉色，但不算特别出众。该种是最容易栽培、最耐寒、适应性也较强的槭树之一，但不喜碱性土壤。 其后原文主要为耐寒分区图、苗圃名录、术语表、参考书目与索引，且 OCR 噪声较重，此处不作臆测性逐项展开。"
+  },
+  "has_mrmaple": false
+}

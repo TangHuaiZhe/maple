@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-red-elf",
+  "canonical_key": "red elf",
+  "canonical_name": "Red Elf",
+  "display_name": "Red Elf",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Red Elf'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "Harold Johnston of Tallassee, Alabama, discovered this interesting red dwarf cultivar as a sport on 'Skeeter's Broom'. It is notable for the irregularity of the lobes, which curve and twist and vary from relatively wide lobes to stringlike lobes similar to those of 'Koto-no-ito'. The deeply divided, mainly narrow lobes, varying in shape fromlong-ovatetostraplike,2-10mmwide,somecupped upwards from the midrib. The leaves themselves are 2.5-4 cm long and 3-5 cm wide, but they can reach up to 8 cm wide. The teeth on the margins increase in coarseness with the size and width of the lobes. The petioles are 1.5-3 cm long. The leaves are red when given adequate light, the color persisting well into the fall. However, they green up readily in shaded situations. This cultivar is a bonsai enthusiast's or collector's plant due to its slow growth, curious leaves, and growth habit. A five-year-old plant has reached only 25 cm high with a spread of 20 cm. Its mature height is estimated at up to 1 m, with a similar spread."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Red Elf",
+      "page_range": "197",
+      "group": "dwarf",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 269438,
+      "detail_url": "https://www.rhs.org.uk/plants/269438/acer-palmatum-red-elf-(dw)/details",
+      "botanical_name": "Acer palmatum 'Red Elf' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Red Elf' (Dw)",
+    "Red Elf"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Red Elf'",
+    "Acer palmatum 'Red Elf' (Dw)",
+    "Red Elf"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 269438,
+    "rhs_url": "https://www.rhs.org.uk/plants/269438/acer-palmatum-red-elf-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Red Elf' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Red Elf"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "阿拉巴马州 Tallassee 的 Harold Johnston 在 ‘Skeeter's Broom’ 上发现了这一有趣的红叶矮生芽变品种。它最显著的特点是裂片形态不规则，常弯曲扭转，宽窄变化较大，从相对较宽的裂片到类似 ‘Koto-no-ito’ 那样的线状裂片均可出现。叶片深裂，裂片多较狭窄，形状从长卵形到带状不等，宽 2–10 mm，部分裂片自中脉处略向上杯状卷起。叶片本身长 2.5–4 cm，宽 3–5 cm，但有时宽度可达 8 cm。随着裂片尺寸和宽度增加，叶缘锯齿也会更为粗大。叶柄长 1.5–3 cm。在光照充足条件下叶色为红色，并能较好保持至秋季；但在遮阴环境中容易返绿。由于其生长缓慢、叶形奇特且株型独特，该品种很适合盆景爱好者或收藏者栽培。5 年生植株仅高 25 cm、幅宽 20 cm。成熟株预计高可达 1 m，冠幅相近。"
+  },
+  "has_mrmaple": false
+}

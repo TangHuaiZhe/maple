@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-green-hornet",
+  "canonical_key": "green hornet",
+  "canonical_name": "Green Hornet",
+  "display_name": "Green Hornet",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Green Hornet'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dissectum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "With finely cut lacy leaves, 'Green Hornet' has the distinction of being the only green dissectum with outstanding red fall color. The spring leaves are green, tinged orange, changing to a fresh green for the summer, before turning a beautiful bright red in the fall. The green summer foliage contrasts attractively with the green flushed-orange new growth appearing throughout the summer. HORNET"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Green Hornet",
+      "page_range": "71-75",
+      "group": "Dissectum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 222270,
+      "detail_url": "https://www.rhs.org.uk/plants/222270/acer-palmatum-green-hornet-(d)/details",
+      "botanical_name": "Acer palmatum 'Green Hornet' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Green Hornet' (D)",
+    "Green Hornet"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Green Hornet'",
+    "Acer palmatum 'Green Hornet' (D)",
+    "Green Hornet"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 222270,
+    "rhs_url": "https://www.rhs.org.uk/plants/222270/acer-palmatum-green-hornet-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Green Hornet' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Green Hornet"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "'Green Hornet' 具细致如蕾丝般的裂叶，其特别之处在于它是少数秋色可呈出色红色的绿色 dissectum 品种。春叶绿色并带橙色晕，夏季转为清新的绿色，秋季则变为亮丽鲜红。夏季绿色叶丛与整个生长季不断抽生的橙晕绿色新梢形成鲜明对比。该品种早期生长势很强，枝条细长、边缘舒展并具下垂感，最终形成宽阔的蘑菇状树冠，高可达约 10 英尺（3 米）。 文段后半部分存在明显 OCR 串页与混排噪声，内容应混入了多个绿色系日本枫品种的描述，包含 'Green Lace'、'Green Mist'、'Green Star' 及绿色型 'Trompenburg' 等名称。可辨识的要点如下："
+  },
+  "has_mrmaple": false
+}

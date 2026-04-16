@@ -1,0 +1,123 @@
+{
+  "id": "acer-crataegifolium-monroe",
+  "canonical_key": "monroe",
+  "canonical_name": "Monroe",
+  "display_name": "Monroe",
+  "chinese_name": null,
+  "scientific_name": "Acer crataegifolium 'Monroe'",
+  "species": "Acer crataegifolium",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "Unlike most cultivars of Acer circift. natum which have shallowly lobed leaves, 'Monroe' has dissected leaves. The five to seven Acer lobes are separated entirely to the base, with Hawthorn the sides of each lobe deeply cut, almost to the An midrib. These sublobes are toothed, forming companion very irregular margins. This sturdy plant forms nials, an upright bush to 13 ft. (4 m) tall, becoming large, broad with age. holds"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Monroe",
+      "page_range": "198",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 72501,
+      "detail_url": "https://www.rhs.org.uk/plants/72501/acer-circinatum-monroe/details",
+      "botanical_name": "Acer circinatum 'Monroe'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer circinatum 'Monroe'",
+    "Monroe",
+    "vine maple",
+    "vine maple 'Monroe'"
+  ],
+  "search_terms": [
+    "Acer circinatum 'Monroe'",
+    "Acer crataegifolium",
+    "Acer crataegifolium 'Monroe'",
+    "Monroe",
+    "vine maple",
+    "vine maple 'Monroe'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 72501,
+    "rhs_url": "https://www.rhs.org.uk/plants/72501/acer-circinatum-monroe/details",
+    "match_method": "cultivar",
+    "botanical_name": "Acer circinatum 'Monroe'",
+    "species_name": "Acer circinatum",
+    "common_names": [
+      "vine maple",
+      "vine maple 'Monroe'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Monroe"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "不同于多数 Acer circinatum 品种仅具浅裂叶片，'Monroe' 的叶片为深裂型。五至七个裂片一直分离至叶基，每个主裂片两侧又深裂，几乎达到中脉。这些次级裂片具锯齿，使叶缘显得极不规则。该品种植株强健，形成直立灌木，高可达 13 英尺（4 米），随着树龄增长，株形会变得更大、更宽展。"
+  },
+  "has_mrmaple": false
+}

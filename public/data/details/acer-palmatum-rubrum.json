@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-rubrum",
+  "canonical_key": "rubrum",
+  "canonical_name": "Rubrum",
+  "display_name": "Rubrum",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Rubrum'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "amoenum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This large-leaved cultivar has seven ovate lobes separated more than halfway to the leaf base. The lobes taper to a sharp point and have slightly serrated margins. The leaves range in size from 9 to 12 cm long and wide. The petioles are about 4 cm long. The leaves are a dark maroon-red. The color is lighter as they first unfold but assumes the very rich tones in late spring and into summer. In late summer the leaves turn green red or bronze. Fall color is a strong crimson. Thisstrong-growing,uprighttreehasabroadlyspreading crown as it matures. The branches are sturdy, and it is a hardy cultivar. It reaches 4 m high and more in width. Some early references equate this cultivar with"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Rubrum",
+      "page_range": "199",
+      "group": "amoenum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 47485,
+      "detail_url": "https://www.rhs.org.uk/plants/47485/acer-palmatum-rubrum-(a)/details",
+      "botanical_name": "Acer palmatum 'Rubrum' (A)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Rubrum' (A)",
+    "Rubrum"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Rubrum'",
+    "Acer palmatum 'Rubrum' (A)",
+    "Rubrum"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 47485,
+    "rhs_url": "https://www.rhs.org.uk/plants/47485/acer-palmatum-rubrum-(a)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Rubrum' (A)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Rubrum"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该大叶品种具 7 个卵形裂片，裂片分离深度超过叶片至叶基距离的一半。裂片先端渐尖，边缘略具锯齿。叶片长宽约 9-12 厘米，叶柄约 4 厘米长。叶色为深栗红色，初展时颜色较浅，到晚春及夏季则转为极为浓郁的色调。夏末叶色转为绿红色或青铜色。秋色为浓烈的深红色。该品种生长强健、树姿直立，成熟后形成宽展树冠。枝条粗壮，耐寒性好。株高可达 4 米，冠幅更宽。早期资料有时将该品种与 ‘Sanguineum’ 视为同物，但 ‘Rubrum’ 的叶色始终更深。该品种也曾以 ‘Septemlobum Rubrum’ 之名流通。"
+  },
+  "has_mrmaple": false
+}

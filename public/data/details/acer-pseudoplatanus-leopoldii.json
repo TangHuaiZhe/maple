@@ -1,0 +1,155 @@
+{
+  "id": "acer-pseudoplatanus-leopoldii",
+  "canonical_key": "leopoldii",
+  "canonical_name": "Leopoldii",
+  "display_name": "Leopoldii",
+  "chinese_name": "莱波尔德",
+  "scientific_name": "Acer Pseudoplatanus 'Leopoldii'",
+  "species": "Acer pseudoplatanus",
+  "top_category": "欧亚槭",
+  "web_group": "莱波尔德",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "'Leopoldii' 是一款属于欧亚槭的锦叶枫树品种，可以耐寒零下30多度。春天的新叶是奶油粉色，随着叶片成熟，会变成绿色带有黄色和粉红色的斑点。后期会变成绿色混着奶油白，它的叶子非常独特，因为没有两片叶子看起来完全相同。秋天的颜色从亮黄色到橙色。成年树高可达8米多。夏季需要及时遮阴。它是以 Leopold 国王的名字命名，属于 RHS 获奖品种，叶色华丽。"
+  },
+  "images": {
+    "count": 8,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/欧亚槭/莱波尔德/64_莱波尔德 Acer Pseudoplatanus 'Leopoldii'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/欧亚槭/莱波尔德/64_莱波尔德 Acer Pseudoplatanus 'Leopoldii'/01.png",
+      "Resource/园艺/枫树品种合集/图片/欧亚槭/莱波尔德/64_莱波尔德 Acer Pseudoplatanus 'Leopoldii'/02.png",
+      "Resource/园艺/枫树品种合集/图片/欧亚槭/莱波尔德/64_莱波尔德 Acer Pseudoplatanus 'Leopoldii'/03.png",
+      "Resource/园艺/枫树品种合集/图片/欧亚槭/莱波尔德/64_莱波尔德 Acer Pseudoplatanus 'Leopoldii'/04.png",
+      "Resource/园艺/枫树品种合集/图片/欧亚槭/莱波尔德/64_莱波尔德 Acer Pseudoplatanus 'Leopoldii'/05.png",
+      "Resource/园艺/枫树品种合集/图片/欧亚槭/莱波尔德/64_莱波尔德 Acer Pseudoplatanus 'Leopoldii'/06.png",
+      "Resource/园艺/枫树品种合集/图片/欧亚槭/莱波尔德/64_莱波尔德 Acer Pseudoplatanus 'Leopoldii'/07.png",
+      "Resource/园艺/枫树品种合集/图片/欧亚槭/莱波尔德/64_莱波尔德 Acer Pseudoplatanus 'Leopoldii'/08.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/01.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/02.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/03.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/04.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/05.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/06.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/07.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/08.jpg"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/01.png",
+    "public_paths": [
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/01.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/02.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/03.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/04.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/05.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/06.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/07.png",
+      "/maple-images/%E6%AC%A7%E4%BA%9A%E6%A7%AD/%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7/64_%E8%8E%B1%E6%B3%A2%E5%B0%94%E5%BE%B7%20Acer%20Pseudoplatanus%20'Leopoldii'/08.jpg"
+    ],
+    "public_count": 8
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "64",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/64.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=55",
+      "top_group_name": "欧亚槭",
+      "second_group_name": "莱波尔德",
+      "title": "莱波尔德 Acer Pseudoplatanus 'Leopoldii'",
+      "description": "'Leopoldii' 是一款属于欧亚槭的锦叶枫树品种，可以耐寒零下30多度。春天的新叶是奶油粉色，随着叶片成熟，会变成绿色带有黄色和粉红色的斑点。后期会变成绿色混着奶油白，它的叶子非常独特，因为没有两片叶子看起来完全相同。秋天的颜色从亮黄色到橙色。成年树高可达8米多。夏季需要及时遮阴。它是以 Leopold 国王的名字命名，属于 RHS 获奖品种，叶色华丽。",
+      "image_count": 8
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 92474,
+      "detail_url": "https://www.rhs.org.uk/plants/92474/acer-pseudoplatanus-f-variegatum-leopoldii-ambig-(v)/details",
+      "botanical_name": "Acer pseudoplatanus f. variegatum 'Leopoldii' ambig. (v)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer pseudoplatanus f. variegatum 'Leopoldii' ambig. (v)",
+    "Leopoldii",
+    "variegated sycamore 'Leopoldii'",
+    "莱波尔德",
+    "莱波尔德 Acer Pseudoplatanus 'Leopoldii'"
+  ],
+  "search_terms": [
+    "Acer Pseudoplatanus 'Leopoldii'",
+    "Acer pseudoplatanus",
+    "Acer pseudoplatanus f. variegatum 'Leopoldii' ambig. (v)",
+    "Leopoldii",
+    "variegated sycamore 'Leopoldii'",
+    "欧亚槭",
+    "莱波尔德",
+    "莱波尔德 Acer Pseudoplatanus 'Leopoldii'"
+  ],
+  "source_count": 2,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 92474,
+    "rhs_url": "https://www.rhs.org.uk/plants/92474/acer-pseudoplatanus-f-variegatum-leopoldii-ambig-(v)/details",
+    "match_method": "manual_override",
+    "botanical_name": "Acer pseudoplatanus f. variegatum 'Leopoldii' ambig. (v)",
+    "species_name": "Acer pseudoplatanus f. variegatum",
+    "common_names": [
+      "variegated sycamore 'Leopoldii'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Leopoldii"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "'Leopoldii' 是一款属于欧亚槭的锦叶枫树品种，可以耐寒零下30多度。春天的新叶是奶油粉色，随着叶片成熟，会变成绿色带有黄色和粉红色的斑点。后期会变成绿色混着奶油白，它的叶子非常独特，因为没有两片叶子看起来完全相同。秋天的颜色从亮黄色到橙色。成年树高可达8米多。夏季需要及时遮阴。它是以 Leopold 国王的名字命名，属于 RHS 获奖品种，叶色华丽。"
+  },
+  "has_mrmaple": false
+}

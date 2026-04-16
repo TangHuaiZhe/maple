@@ -1,0 +1,94 @@
+{
+  "id": "acer-palmatum-ever-autumn",
+  "canonical_key": "ever autumn",
+  "canonical_name": "Ever Autumn",
+  "display_name": "Ever Autumn",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Ever Autumn'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The outstanding feature of this strong upright cultivar is the flush of autumn colors—gold through orange red —in the otherwise rich green leaves throughout the growing season, hence the name. This culminates in quite exceptional fall coloring. The almost rounded sevenor nine-lobed leaves are 8-10 cm long and wide, and are divided over two-thirds of the way to the leaf base. The lower lobes point sideways to form an almost flat leaf base. Each lobe is broad-ovate with a short tail-like pointed tip and has coarsely serrated margins. The petioles are 2-3 cm long. 'Ever Autumn' was selected in the mid-1980s and named by Dan Heims, Terra Nova Nurseries, Canby, Oregon, from a seedling in his garden."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Ever Autumn",
+      "page_range": "66",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 511726,
+      "detail_url": "https://www.rhs.org.uk/plants/511726/acer-palmatum-ever-autumn/details",
+      "botanical_name": "Acer palmatum 'Ever Autumn'",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Ever Autumn",
+      "page_range": "138",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Ever Autumn'",
+    "Ever Autumn"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Ever Autumn'",
+    "Ever Autumn"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 511726,
+    "rhs_url": "https://www.rhs.org.uk/plants/511726/acer-palmatum-ever-autumn/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Ever Autumn'",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Ever Autumn"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这个强健直立品种最突出的特征，是其在整个生长季中原本浓绿色叶片上呈现出的秋色预演，从金黄色到橙红色，因此得名。这种色彩最终在秋季发展为极其出色的叶色。近圆形叶通常具 7 或 9 裂，长宽 8-10 厘米，自叶基向上约三分之二处分裂。下部裂片平展向侧方伸出，使叶基近乎平直。各裂片宽卵形，先端具短尾状尖，边缘具粗锯齿。叶柄长 2-3 厘米。‘Ever Autumn’ 于 20 世纪 80 年代中期由俄勒冈州 Canby 的 Terra Nova Nurseries 的 Dan Heims 从自家庭院中的一株实生苗中选育并命名。其亲本之一可能是 Acer palmatum 栽培品种中的 ‘Omure yama’。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

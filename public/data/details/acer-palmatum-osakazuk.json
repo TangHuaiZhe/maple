@@ -1,0 +1,285 @@
+{
+  "id": "acer-palmatum-osakazuk",
+  "canonical_key": "osakazuk",
+  "canonical_name": "Osakazuk",
+  "display_name": "Osakazuk",
+  "chinese_name": "大盃",
+  "scientific_name": "Acer Palmatum 'Osakazuk'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "红叶",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "Acer palmatum 'Osakazuki'- 红灯笼又名大 盃 。 在春季和夏季有七片绿色的叶子，在秋季变成火红色 的火焰。许多人认为屡获殊荣的 'Osakazuki' 是日本枫 树中秋色拥有最艳丽的猩红色的品种之一。"
+  },
+  "images": {
+    "count": 10,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/231_红灯笼Acer Palmatum 'Osakazuk'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/231_红灯笼Acer Palmatum 'Osakazuk'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/231_红灯笼Acer Palmatum 'Osakazuk'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/231_红灯笼Acer Palmatum 'Osakazuk'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/231_红灯笼Acer Palmatum 'Osakazuk'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/231_红灯笼Acer Palmatum 'Osakazuk'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/231_红灯笼Acer Palmatum 'Osakazuk'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/231_红灯笼Acer Palmatum 'Osakazuk'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/231_红灯笼Acer Palmatum 'Osakazuk'/08.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/231_红灯笼Acer Palmatum 'Osakazuk'/09.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/231_红灯笼Acer Palmatum 'Osakazuk'/10.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/10.jpg"
+    ],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-osakazuk/01-Web_Use-MAR0052800_29.jpg",
+      "/rhs-images/acer-palmatum-osakazuk/02-mebr00222.jpg",
+      "/rhs-images/acer-palmatum-osakazuk/03-mebr00221.jpg",
+      "/rhs-images/acer-palmatum-osakazuk/04-visi69056.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/231_%E7%BA%A2%E7%81%AF%E7%AC%BCAcer%20Palmatum%20'Osakazuk'/10.jpg",
+      "/rhs-images/acer-palmatum-osakazuk/01-Web_Use-MAR0052800_29.jpg",
+      "/rhs-images/acer-palmatum-osakazuk/02-mebr00222.jpg",
+      "/rhs-images/acer-palmatum-osakazuk/03-mebr00221.jpg",
+      "/rhs-images/acer-palmatum-osakazuk/04-visi69056.jpg"
+    ],
+    "public_count": 14
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "231",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/231.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=26",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "红叶",
+      "title": "红灯笼Acer Palmatum 'Osakazuk'",
+      "description": "Acer palmatum 'Osakazuki'- 红灯笼又名大 盃 。 在春季和夏季有七片绿色的叶子，在秋季变成火红色 的火焰。许多人认为屡获殊荣的 'Osakazuki' 是日本枫 树中秋色拥有最艳丽的猩红色的品种之一。",
+      "image_count": 10
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 91703,
+      "detail_url": "https://www.rhs.org.uk/plants/91703/acer-palmatum-osakazuki-(a)/details",
+      "botanical_name": "Acer palmatum 'Ōsakazuki' (A)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Taihai'",
+    "Acer palmatum 'Ōsakazuki' (A)",
+    "Acer palmatum (Elegans Group) 'Osakazuki'",
+    "Acer palmatum (Heptalobum Group) 'Osakazuki'",
+    "Japanese maple 'Ōsakazuki'",
+    "Osakazuk",
+    "Osakazuki",
+    "Taihai",
+    "Ōsakazuki",
+    "大盃",
+    "红灯笼",
+    "红灯笼Acer Palmatum 'Osakazuk'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Osakazuk'",
+    "Acer palmatum",
+    "Acer palmatum 'Taihai'",
+    "Acer palmatum 'Ōsakazuki' (A)",
+    "Acer palmatum (Elegans Group) 'Osakazuki'",
+    "Acer palmatum (Heptalobum Group) 'Osakazuki'",
+    "Japanese maple 'Ōsakazuki'",
+    "Osakazuk",
+    "Osakazuki",
+    "Taihai",
+    "Ōsakazuki",
+    "红叶",
+    "大盃",
+    "红灯笼",
+    "红灯笼Acer Palmatum 'Osakazuk'",
+    "鸡爪槭"
+  ],
+  "source_count": 2,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 91703,
+    "rhs_url": "https://www.rhs.org.uk/plants/91703/acer-palmatum-osakazuki-(a)/details",
+    "match_method": "manual_override",
+    "botanical_name": "Acer palmatum 'Ōsakazuki' (A)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Ōsakazuki'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Taihai'",
+      "Acer palmatum (Heptalobum Group) 'Osakazuki'",
+      "Acer palmatum (Elegans Group) 'Osakazuki'"
+    ],
+    "cultivar_names": [
+      "Osakazuki",
+      "Taihai",
+      "Ōsakazuki"
+    ],
+    "description": "Ōsakazuki' is a large deciduous shrub of rounded habit. Leaves relatively large, 7-lobed, green but turning to brilliant orange-scarlet in autumn. Flowers and fruits small, red",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "South-facing, West-facing, East-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "Cottage/Informal Garden, Low Maintenance, Architectural, City/Courtyard Gardens, Patio/Container Plants, Rock Garden",
+      "hort_group_description": "Acers in this amoenum group have large, palm-shaped leaves with finely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 4,
+      "filenames": [
+        "Web_Use-MAR0052800_29.jpg",
+        "mebr00222.jpg",
+        "mebr00221.jpg",
+        "visi69056.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-osakazuk/01-Web_Use-MAR0052800_29.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-osakazuk/02-mebr00222.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-osakazuk/03-mebr00221.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-osakazuk/04-visi69056.jpg"
+      ],
+      "downloaded_count": 4,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "Web_Use-MAR0052800_29.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/Web_Use-MAR0052800_29.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/91703/acer-palmatum-osakazuki-(a)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-osakazuk/01-Web_Use-MAR0052800_29.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 210375,
+          "downloaded_at": "2026-04-14T01:47:54+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "mebr00222.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/mebr00222.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/91703/acer-palmatum-osakazuki-(a)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-osakazuk/02-mebr00222.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 180311,
+          "downloaded_at": "2026-04-14T01:47:54+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 3,
+          "filename": "mebr00221.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/mebr00221.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/91703/acer-palmatum-osakazuki-(a)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-osakazuk/03-mebr00221.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 139851,
+          "downloaded_at": "2026-04-14T01:47:54+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 4,
+          "filename": "visi69056.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi69056.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/91703/acer-palmatum-osakazuki-(a)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-osakazuk/04-visi69056.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 97006,
+          "downloaded_at": "2026-04-14T01:47:54+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "Acer palmatum 'Osakazuki'- 红灯笼又名大 盃 。 在春季和夏季有七片绿色的叶子，在秋季变成火红色 的火焰。许多人认为屡获殊荣的 'Osakazuki' 是日本枫 树中秋色拥有最艳丽的猩红色的品种之一。"
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "care": {
+      "cultivation": "宜种植于湿润但排水良好的土壤中。夏季如有需要应浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴露过度都可能导致叶片焦枯。",
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "'Ōsakazuki' 为大型落叶灌木，株形圆整。叶片较大，7 裂，平时绿色，秋季转为极鲜艳的橙红猩红色。花和果实较小，呈红色。",
+    "attributes": {
+      "suggested_uses": "适合乡村风或自然式花园、低维护花园、建筑感种植、城市/庭院花园、露台/容器栽培、岩石园",
+      "hort_group_description": "此 amoenum 类群中的 Acer 品种具有大型掌状叶，叶缘具细锯齿。"
+    }
+  },
+  "has_mrmaple": false
+}

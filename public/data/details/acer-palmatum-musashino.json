@@ -1,0 +1,95 @@
+{
+  "id": "acer-palmatum-musashino",
+  "canonical_key": "musashino",
+  "canonical_name": "Musashino",
+  "display_name": "Musashino",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Musashino'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The leaf color is a deep purple-red. As the new leaf develops, the surface is covered with a minute, light pubescence, bringing out the rich purple tones. This pubescence disappears, but the rich color persists all summer. Fall color is a brilliant crimson hue. The large leaves have five to seven very deeply divided lobes, each one elongate-ovate, terminating in a long, narrow, tapering point. The margins are sharply toothed. Fast-growing, this strongly upright cultivar has a rounded crown and matures at 23-26 ft. (7-8 m) tall. It is hardy and suitable for cooler areas. The name is after a suburb of Tokyo. Synonym,"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Musashino",
+      "page_range": "113-114",
+      "group": "Matsumurae",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 132190,
+      "detail_url": "https://www.rhs.org.uk/plants/132190/acer-palmatum-musashino-(m)/details",
+      "botanical_name": "Acer palmatum 'Musashino' (M)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Musashino",
+      "page_range": "177-178",
+      "group": "matsumurae",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Musashino' (M)",
+    "Musashino"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Musashino'",
+    "Acer palmatum 'Musashino' (M)",
+    "Musashino"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 132190,
+    "rhs_url": "https://www.rhs.org.uk/plants/132190/acer-palmatum-musashino-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Musashino' (M)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Musashino"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "叶色为深紫红色。新叶发育时，叶面覆盖一层极细的浅色茸毛，使浓郁的紫色调更加突出。这层茸毛随后会消失，但浓艳的叶色整个夏季都能保持。秋色为鲜亮的深红色。大型叶片具 5 至 7 个深裂裂片，每个裂片均为长卵形，先端延伸成细长渐尖。叶缘具明显锯齿。该品种生长较快，株形强直立，树冠圆整，成熟时高约 7 至 8 米。耐寒，适合较冷凉地区栽培。其名称取自东京的一处郊区。异名为 'Nomura'。后文所附 “'Nanese gawa' crimson Amoenum Group—green...” 一段明显存在 OCR 错乱，无法可靠整合。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

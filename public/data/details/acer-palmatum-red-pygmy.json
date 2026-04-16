@@ -1,0 +1,278 @@
+{
+  "id": "acer-palmatum-red-pygmy",
+  "canonical_key": "red pygmy",
+  "canonical_name": "Red Pygmy",
+  "display_name": "Red Pygmy",
+  "chinese_name": "红色霹雳",
+  "scientific_name": "Acer Palmatum 'Red Pygmy'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "竹叶",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": ""
+  },
+  "images": {
+    "count": 9,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/234_红色霹雳Acer Palmatum 'Red Pygmy'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/234_红色霹雳Acer Palmatum 'Red Pygmy'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/234_红色霹雳Acer Palmatum 'Red Pygmy'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/234_红色霹雳Acer Palmatum 'Red Pygmy'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/234_红色霹雳Acer Palmatum 'Red Pygmy'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/234_红色霹雳Acer Palmatum 'Red Pygmy'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/234_红色霹雳Acer Palmatum 'Red Pygmy'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/234_红色霹雳Acer Palmatum 'Red Pygmy'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/234_红色霹雳Acer Palmatum 'Red Pygmy'/08.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/234_红色霹雳Acer Palmatum 'Red Pygmy'/09.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/09.jpg"
+    ],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-red-pygmy/01-WSY0025539_4561.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-red-pygmy/01-hnredpygmy-1.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%AB%B9%E5%8F%B6/234_%E7%BA%A2%E8%89%B2%E9%9C%B9%E9%9B%B3Acer%20Palmatum%20'Red%20Pygmy'/09.jpg",
+      "/rhs-images/acer-palmatum-red-pygmy/01-WSY0025539_4561.jpg",
+      "/herter-images/acer-palmatum-red-pygmy/01-hnredpygmy-1.jpg"
+    ],
+    "public_count": 11
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "234",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/234.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=22",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "竹叶",
+      "title": "红色霹雳Acer Palmatum 'Red Pygmy'",
+      "description": "",
+      "image_count": 9
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 83779,
+      "detail_url": "https://www.rhs.org.uk/plants/83779/acer-palmatum-red-pygmy-(l)/details",
+      "botanical_name": "Acer palmatum 'Red Pygmy' (L)",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Red Pygmy Fine Laceleaf Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/red-pygmy-fine-laceleaf-japanese-maple/",
+      "description": "In the spring, “red pygmy” has colors of red-maroon. Late summer it deepens into a more purplish tone. Grows up to 2 meters, great for container or landscape.",
+      "group": "All Japanese Maples / Bamboo Leaf Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Red Pygmy' (L)",
+    "Japanese maple 'Red Pygmy'",
+    "Red Pygmy",
+    "红色霹雳",
+    "红色霹雳Acer Palmatum 'Red Pygmy'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Red Pygmy'",
+    "Acer palmatum",
+    "Acer palmatum 'Red Pygmy' (L)",
+    "Japanese maple 'Red Pygmy'",
+    "Red Pygmy",
+    "竹叶",
+    "红色霹雳",
+    "红色霹雳Acer Palmatum 'Red Pygmy'",
+    "鸡爪槭"
+  ],
+  "source_count": 3,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 83779,
+    "rhs_url": "https://www.rhs.org.uk/plants/83779/acer-palmatum-red-pygmy-(l)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Red Pygmy' (L)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Red Pygmy'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Red Pygmy"
+    ],
+    "description": "A slow-growing small deciduous shrub forming a mound of red-purple leaves, divided into seven narrow, almost untoothed lobes, with small purple flowers in spring",
+    "dimensions": {
+      "height": "1-1.5 metres",
+      "spread": "1-1.5 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "South-facing, West-facing, East-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "Cottage/Informal Garden, Rock Garden, Architectural, City/Courtyard Gardens, Low Maintenance, Patio/Container Plants",
+      "hort_group_description": "Acers in this linearilobum group have long, narrow, strap-like lobes, with lightly serrated edges"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "WSY0025539_4561.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-red-pygmy/01-WSY0025539_4561.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "WSY0025539_4561.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/WSY0025539_4561.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/83779/acer-palmatum-red-pygmy-(l)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-red-pygmy/01-WSY0025539_4561.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 179768,
+          "downloaded_at": "2026-04-14T01:47:56+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "此 linearilobum 组的槭树具有细长、带状的裂片，叶缘具浅锯齿。",
+      "suggested_uses": "乡村风或自然式花园，岩石园，建筑感种植，城市庭院，低维护花园，露台或容器植物"
+    },
+    "care": {
+      "cultivation": "宜种植于湿润但排水良好的土壤中。夏季如有需要应浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴露过度都可能导致叶片焦枯。",
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "生长缓慢的小型落叶灌木，形成圆 mound 状株形。叶片红紫色，通常分为七个狭长、近乎无齿的裂片；春季开小型紫色花。"
+  },
+  "has_mrmaple": false,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-red-pygmy/01-hnredpygmy-1.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-red-pygmy/01-hnredpygmy-1.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1325,
+        "name": "Red Pygmy Fine Laceleaf Japanese Maple",
+        "slug": "red-pygmy-fine-laceleaf-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/red-pygmy-fine-laceleaf-japanese-maple/",
+        "description_text": "In the spring, “red pygmy” has colors of red-maroon. Late summer it deepens into a more purplish tone. Grows up to 2 meters, great for container or landscape.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Bamboo Leaf Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 70
+        },
+        "review_count": 794,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "red pygmy"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/hnredpygmy-1.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-red-pygmy/01-hnredpygmy-1.jpg",
+          "bytes": 39686,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:50:18.734Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-red-pygmy/01-hnredpygmy-1.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

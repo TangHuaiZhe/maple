@@ -1,0 +1,216 @@
+{
+  "id": "acer-palmatum-nuresagi",
+  "canonical_key": "nuresagi",
+  "canonical_name": "Nuresagi",
+  "display_name": "Nuresagi",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Nuresagi'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This excellent purple cultivar, whose name means \"wet heron,\" has leaves with five or seven lobes which radiate strongly outward. The leaves look like widely spreading fingers and measure 8-9 cm long and 9-12 cm wide. Each lobe is oblong-ovate, terminating in a long, slender tip. The lobes separate to within 1 cm of the leaf base. The foliage appears quite lacy. The bright red petioles are stiff and 2-3 cm long. The deep, rich black-purple-red tones are unusual. In spring and early summer they appear to have an opalescence, even a bluish overtone, in certain light. The leaves retain the dark purple-red tones into late summer, but occasionally become suffused with a slight, deep green mottling. The veins are a strong red at this time and a noticeable feature. The bark of the twigs and branches is a deep maroon color, but quite overshadowed with a grayish tone. There are fine whitish vertical striations Corvallis"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-nuresagi/01-nuresagi.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/herter-images/acer-palmatum-nuresagi/01-nuresagi.jpg",
+    "public_paths": [
+      "/herter-images/acer-palmatum-nuresagi/01-nuresagi.jpg"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Nuresagi",
+      "page_range": "181",
+      "group": "matsumurae",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 66647,
+      "detail_url": "https://www.rhs.org.uk/plants/66647/acer-palmatum-nuresagi-(m)/details",
+      "botanical_name": "Acer palmatum 'Nuresagi' (M)",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Nuresagi Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/nuresagi-japanese-maple/",
+      "description": "This grafted japanese has beautiful purple leaves that radiate strongly outward. Rich black-purple in spring, even a bluish overtone. Strong red veins are very attractive, and the bark is a deep maroon. Grows to 15 ft tall and is multibranched. Hardy to minus 15 degrees without extra protection.",
+      "group": "All Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Nuresagi' (M)",
+    "Japanese maple 'Nuresagi'",
+    "Nuresagi"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Nuresagi'",
+    "Acer palmatum 'Nuresagi' (M)",
+    "Japanese maple 'Nuresagi'",
+    "Nuresagi"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 66647,
+    "rhs_url": "https://www.rhs.org.uk/plants/66647/acer-palmatum-nuresagi-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Nuresagi' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Nuresagi'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Nuresagi"
+    ],
+    "description": "A vigorous, robust maple about eventually 5-6m in height, with finely white striped bark and dark crimson twigs and branches. Lacy leaves with radiating 5 to 7-lobes to 9cm long and 12cm wide, are dark purple-red in spring and summer, sometimes mottled dark green, with noticeably red veining, turning red in autumn",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市或庭院花园、乡村风或自然式花园",
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "生长强健、树势健壮的槭树，最终高约 5 至 6 米，树皮具细白色条纹，嫩枝与枝条呈深绯红色。叶片轻巧细裂，具放射状 5 至 7 裂，长可达 9 厘米、宽可达 12 厘米，春夏为深紫红色，有时夹杂深绿色斑驳，并有明显红色叶脉，秋季转红。"
+  },
+  "descriptions_zh": {
+    "preferred": "这一优良的紫叶品种，其名意为“湿鹭”，叶片具五裂或七裂，裂片强烈向外放射。叶片看起来如同张开的手指，长 8-9 厘米，宽 9-12 厘米。每一裂片为长椭圆状卵形，先端细长渐尖。裂片分离至距叶基约 1 厘米处。整体叶姿显得相当细致如 lace。鲜红色叶柄挺硬，长 2-3 厘米。其深沉浓厚的黑紫红色调非常独特。春季和初夏在某些光线下会显现出虹彩般的光泽，甚至带一点蓝色调。叶片至夏末仍能保持深紫红色，但偶尔会混入少量深绿色斑驳。此时叶脉呈鲜明红色，也十分醒目。嫩枝和枝条的树皮为深栗红色，但表面笼罩一层灰调，并具细微的白色纵向条纹。Corvallis 有相关记载。"
+  },
+  "has_mrmaple": false,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-nuresagi/01-nuresagi.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-nuresagi/01-nuresagi.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1457,
+        "name": "Nuresagi Japanese Maple",
+        "slug": "nuresagi-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/nuresagi-japanese-maple/",
+        "description_text": "This grafted japanese has beautiful purple leaves that radiate strongly outward. Rich black-purple in spring, even a bluish overtone. Strong red veins are very attractive, and the bark is a deep maroon. Grows to 15 ft tall and is multibranched. Hardy to minus 15 degrees without extra protection.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 40,
+          "max": 40
+        },
+        "review_count": 0,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "nuresagi"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/nuresagi.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-nuresagi/01-nuresagi.jpg",
+          "bytes": 14741,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:49:55.587Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-nuresagi/01-nuresagi.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

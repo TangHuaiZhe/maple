@@ -1,0 +1,616 @@
+{
+  "id": "acer-palmatum-iijima-sunago",
+  "canonical_key": "iijima sunago",
+  "canonical_name": "Iijima sunago",
+  "display_name": "Iijima sunago",
+  "chinese_name": "饭岛砂子",
+  "scientific_name": "Acer Palmatum 'Iijima Sunago'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "锦叶",
+  "book_groups": [
+    "Matsumurae",
+    "matsumurae"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "The colors of this dark-leaved variegate make it an unusual addition to the garden landscape. The large leaves Corvallis petioles are up to 5 cm long. The spring foliage is a rich red color, slightly on the orange side, and lasts into the summer. At this time, the feature for which this cultivar is named develops. The leaves become a rich purplish brown—a rather unique color—with tiny and irregular green spots, sometimes rather obscure, but resembling sprinkled sand. It is for this type of variegation, known as sunago fu (sanddusted), that the cultivar has been named. These colors intensify in late summer and fall. The midrib of each lobe remains a distinctly contrasting yellow green, while the leaves turn to yellows, oranges, and reds in the fall. This strong-growing tree remains upright but does not reach extreme heights. It probably matures at about 7-8 m high and forms a round-headed tree. The branches are sturdy and not willowy."
+  },
+  "images": {
+    "count": 8,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/127_饭岛砂子 Acer Palmatum 'Iijima Sunago'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/127_饭岛砂子 Acer Palmatum 'Iijima Sunago'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/127_饭岛砂子 Acer Palmatum 'Iijima Sunago'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/127_饭岛砂子 Acer Palmatum 'Iijima Sunago'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/127_饭岛砂子 Acer Palmatum 'Iijima Sunago'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/127_饭岛砂子 Acer Palmatum 'Iijima Sunago'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/127_饭岛砂子 Acer Palmatum 'Iijima Sunago'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/127_饭岛砂子 Acer Palmatum 'Iijima Sunago'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/127_饭岛砂子 Acer Palmatum 'Iijima Sunago'/08.png"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/08.png"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/01-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057902.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/02-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057906.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/03-Iijimasunago-11072024-1.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/04-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057912.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/05-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057916.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/06-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057920.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/07-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057924.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/08-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057928.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/09-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057932.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/10-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057936.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/11-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057940.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/12-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057944.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/13-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057948.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/14-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057953.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/15-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057957.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/16-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057961.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/17-Iijimasunago-11072024-2.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/18-Iijimasunago-11072024-3.jpg"
+    ],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-iijima-sunago/01-iijimasunago07.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%94%A6%E5%8F%B6/127_%E9%A5%AD%E5%B2%9B%E7%A0%82%E5%AD%90%20Acer%20Palmatum%20'Iijima%20Sunago'/08.png",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/01-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057902.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/02-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057906.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/03-Iijimasunago-11072024-1.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/04-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057912.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/05-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057916.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/06-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057920.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/07-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057924.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/08-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057928.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/09-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057932.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/10-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057936.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/11-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057940.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/12-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057944.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/13-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057948.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/14-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057953.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/15-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057957.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/16-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057961.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/17-Iijimasunago-11072024-2.jpg",
+      "/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/18-Iijimasunago-11072024-3.jpg",
+      "/herter-images/acer-palmatum-iijima-sunago/01-iijimasunago07.jpg"
+    ],
+    "public_count": 27
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "127",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/127.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=20",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "锦叶",
+      "title": "饭岛砂子 Acer Palmatum 'Iijima Sunago'",
+      "description": "饭岛砂子 1882年 开始有记载 ， 春天新叶为茶红色覆 盖 有白色 小 绒毛， 随着时间的推移会逐渐变成浓郁的棕红色或者紫红色，并带有 微小的、不规则的金黄色沙点斑 ，就好似沙子洒落在叶面的感觉。饭岛砂子也正是因为这种特殊的 \"沙尘\"般的杂色而得名。 夏季红色变暗，金黄色沙点斑比例逐渐提升 。如果夏季在 遮阴 的情况下，会出现一定程度的返绿。 秋天为橙黄色或橙红色。生长速度中等，可全日照度夏，夏季午后适当遮阴为佳，成年株 高 可达 3米左右。",
+      "image_count": 8
+    },
+    {
+      "source": "timber_press",
+      "name": "Iijima sunago",
+      "page_range": "81",
+      "group": "Matsumurae",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Iijima sunago",
+      "page_range": "151",
+      "group": "matsumurae",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 162025,
+      "detail_url": "https://www.rhs.org.uk/plants/162025/acer-palmatum-iijima-sunago-(m)/details",
+      "botanical_name": "Acer palmatum 'Iijima-sunago' (M)",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "Acer palmatum 'Iijima sunago' Japanese Maple",
+      "handle": "buy-acer-palmatum-iijima-sunago-japanese-maple",
+      "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 18,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Iijima Sunago Red Variegated Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/iijima-sunago-red-variegated-japanese-maple/",
+      "description": "The colors of this dark-leaved variegated japanese maple make it an unusual addition to the garden landscape. Spring foliage is a rich red color, slightly on the orange side, and last into the summer. Then the leaves become a rich purplish-brown with tiny green spots, that resemble sprinkled sand. Fall colors are yellow, orange, and red. Reach 7-8 meters at maturity.",
+      "group": "All Japanese Maples / New and/or Unusual Japanese Maple Varieties / Variegated Leaf Japanese Maple",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Iijima-sunago' (M)",
+    "Iijima Sunago",
+    "Iijima sunago",
+    "Iijima-sunago",
+    "饭岛砂子",
+    "饭岛砂子 Acer Palmatum 'Iijima Sunago'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Iijima Sunago'",
+    "Acer palmatum",
+    "Acer palmatum 'Iijima-sunago' (M)",
+    "Iijima Sunago",
+    "Iijima sunago",
+    "Iijima-sunago",
+    "锦叶",
+    "饭岛砂子",
+    "饭岛砂子 Acer Palmatum 'Iijima Sunago'",
+    "鸡爪槭"
+  ],
+  "source_count": 6,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 162025,
+    "rhs_url": "https://www.rhs.org.uk/plants/162025/acer-palmatum-iijima-sunago-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Iijima-sunago' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Iijima-sunago"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一深色叶斑锦品种的色彩组合使其成为庭园景观中相当独特的存在。叶片较大，叶柄最长可达 5 厘米。春季叶色为浓郁的红色，略偏橙调，并可持续到夏季。此时会出现该品种得名的特征：叶片转为浓厚的紫褐色，这是一种颇为独特的色彩，其上散布细小而不规则的绿色斑点，有时较不明显，但形似撒上的细砂。该品种正是因这种称为 sunago fu（砂撒斑）的斑锦而得名。到夏末和秋季，这些色彩会更加浓烈。每个裂片的主脉始终保持鲜明对比的黄绿色，而叶片在秋季又会转为黄色、橙色和红色。该树生长强健，树形直立，但不会长得过高，成熟时大概高 7-8 米，形成圆头树冠。枝条粗壮，不呈柔垂状。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 1,
+    "local_file_count": 18,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/01-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057902.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/01-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057902.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/02-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057906.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/03-Iijimasunago-11072024-1.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/04-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057912.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/05-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057916.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/06-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057920.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/07-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057924.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/08-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057928.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/09-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057932.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/10-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057936.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/11-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057940.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/12-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057944.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/13-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057948.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/14-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057953.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/15-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057957.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/16-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057961.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/17-Iijimasunago-11072024-2.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/18-Iijimasunago-11072024-3.jpg"
+    ],
+    "products": [
+      {
+        "title": "Acer palmatum 'Iijima sunago' Japanese Maple",
+        "handle": "buy-acer-palmatum-iijima-sunago-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+        "product_type": "",
+        "tags": [
+          "10 @ 10 AM",
+          "BLKFRIDAY",
+          "DBSALE",
+          "EOY",
+          "eoy25",
+          "n23",
+          "NEWYEARS26",
+          "OHDISCOUNT",
+          "Size 5 Gallon",
+          "Type_Japanese Maple",
+          "VDAYSALE26"
+        ],
+        "description_text": "Acer palmatum 'Iijima sunago' Rare Japanese Maple Zones 5-9 'Iijima sunago' is a classic upright Japanese maple with amazing colors. This cultivar, which dates back to the 1800's in Japan, has stood the test of time. 'Iijima sunago' leafs out with some amazing colors of pink-red, maturing to mauve brick red with an emerald cast. Later a yellow green with a brick red to bronze cast. Fall color starts out as bright yellow, later becoming infused with orange. The colors on this tree are outstanding. This classic Japanese maple makes an excellent pair with",
+        "published_at": "2026-03-03T10:00:22-05:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer palmatum",
+        "matched_title_cultivar": "Iijima sunago",
+        "images": {
+          "count": 18,
+          "downloaded_count": 18,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/01-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057902.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/02-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057906.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/03-Iijimasunago-11072024-1.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/04-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057912.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/05-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057916.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/06-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057920.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/07-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057924.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/08-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057928.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/09-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057932.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/10-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057936.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/11-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057940.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/12-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057944.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/13-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057948.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/14-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057953.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/15-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057957.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/16-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057961.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/17-Iijimasunago-11072024-2.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/18-Iijimasunago-11072024-3.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057902.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057902.jpg?v=1736476311",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/01-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057902.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 161384,
+              "downloaded_at": "2026-04-14T02:23:48+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057906.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057906.jpg?v=1736476311",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/02-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057906.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 399744,
+              "downloaded_at": "2026-04-14T02:23:50+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "Iijimasunago-11072024-1.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Iijimasunago-11072024-1.jpg?v=1736476311",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/03-Iijimasunago-11072024-1.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 378536,
+              "downloaded_at": "2026-04-14T02:23:51+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 4,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057912.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057912.jpg?v=1736476311",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/04-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057912.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 356572,
+              "downloaded_at": "2026-04-14T02:23:51+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 5,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057916.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057916.jpg?v=1736476311",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/05-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057916.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 151539,
+              "downloaded_at": "2026-04-14T02:23:49+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 6,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057920.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057920.jpg?v=1736476311",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/06-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057920.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 406152,
+              "downloaded_at": "2026-04-14T02:23:50+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 7,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057924.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057924.jpg?v=1736476312",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/07-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057924.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 366334,
+              "downloaded_at": "2026-04-14T02:23:51+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 8,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057928.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057928.jpg?v=1736476312",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/08-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057928.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 147629,
+              "downloaded_at": "2026-04-14T02:23:50+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 9,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057932.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057932.jpg?v=1736476312",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/09-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057932.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 389979,
+              "downloaded_at": "2026-04-14T02:23:52+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 10,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057936.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057936.jpg?v=1736476312",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/10-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057936.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 354995,
+              "downloaded_at": "2026-04-14T02:23:51+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 11,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057940.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057940.jpg?v=1736476312",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/11-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057940.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 388643,
+              "downloaded_at": "2026-04-14T02:23:52+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 12,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057944.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057944.jpg?v=1736476312",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/12-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057944.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 366369,
+              "downloaded_at": "2026-04-14T02:23:52+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 13,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057948.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057948.jpg?v=1736476312",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/13-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057948.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 351160,
+              "downloaded_at": "2026-04-14T02:23:54+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 14,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057953.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057953.jpg?v=1736476312",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/14-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057953.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 388097,
+              "downloaded_at": "2026-04-14T02:23:53+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 15,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057957.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057957.jpg?v=1736476312",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/15-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057957.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 124709,
+              "downloaded_at": "2026-04-14T02:23:52+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 16,
+              "filename": "Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057961.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057961.jpg?v=1736476312",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/16-Acer_palmatum_Iijima_sunago_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057961.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 258537,
+              "downloaded_at": "2026-04-14T02:23:53+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 17,
+              "filename": "Iijimasunago-11072024-2.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Iijimasunago-11072024-2.jpg?v=1736476312",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/17-Iijimasunago-11072024-2.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 362041,
+              "downloaded_at": "2026-04-14T02:23:53+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 18,
+              "filename": "Iijimasunago-11072024-3.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Iijimasunago-11072024-3.jpg?v=1736476313",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-iijima-sunago-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-iijima-sunago-japanese-maple/18-Iijimasunago-11072024-3.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 310200,
+              "downloaded_at": "2026-04-14T02:23:54+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-iijima-sunago/01-iijimasunago07.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-iijima-sunago/01-iijimasunago07.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1367,
+        "name": "Iijima Sunago Red Variegated Japanese Maple",
+        "slug": "iijima-sunago-red-variegated-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/iijima-sunago-red-variegated-japanese-maple/",
+        "description_text": "The colors of this dark-leaved variegated japanese maple make it an unusual addition to the garden landscape. Spring foliage is a rich red color, slightly on the orange side, and last into the summer. Then the leaves become a rich purplish-brown with tiny green spots, that resemble sprinkled sand. Fall colors are yellow, orange, and red. Reach 7-8 meters at maturity.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "New and/or Unusual Japanese Maple Varieties",
+          "Variegated Leaf Japanese Maple"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 45
+        },
+        "review_count": 823,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "iijima sunago"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/iijimasunago07.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-iijima-sunago/01-iijimasunago07.jpg",
+          "bytes": 18198,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:50:06.535Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-iijima-sunago/01-iijimasunago07.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

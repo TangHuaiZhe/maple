@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-vic-pink",
+  "canonical_key": "vic pink",
+  "canonical_name": "Vic Pink",
+  "display_name": "Vic Pink",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Vic Pink'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dissectum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This interesting Australian dissectum is of unknown origin. However, its characteristics suggest it may have been a seedling from 'Palmatifidum', as the leaf shape is identical though the size is smaller—8-10 cm wide compared to 12-14 cm. Like the lobes of 'Palmatifidum', the lobes of 'Vic Pink' are sturdy and not deeply dissected but are strongly and coarsely toothed. The great asset of this plant is the brilliant scarlet color in the fall compared to the orange gold of"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Vic Pink",
+      "page_range": "230",
+      "group": "dissectum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 135021,
+      "detail_url": "https://www.rhs.org.uk/plants/135021/acer-palmatum-vic-pink-(d)/details",
+      "botanical_name": "Acer palmatum 'Vic Pink' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Vic Pink' (D)",
+    "Vic Pink"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Vic Pink'",
+    "Acer palmatum 'Vic Pink' (D)",
+    "Vic Pink"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 135021,
+    "rhs_url": "https://www.rhs.org.uk/plants/135021/acer-palmatum-vic-pink-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Vic Pink' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Vic Pink"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一有趣的澳大利亚 Dissectum 类型品种来源不详。不过，从其性状判断，它很可能是 'Palmatifidum' 的实生后代，因为两者叶形一致，只是本品种叶片较小，宽 8-10 厘米，而 'Palmatifidum' 为 12-14 厘米。与 'Palmatifidum' 一样，'Vic Pink' 的裂片结实，不是那种极深细裂的类型，但边缘具强烈且粗重的锯齿。该品种最大的优点在于秋季呈鲜艳猩红色，而 'Palmatifidum' 则为橙金色。它的展叶期也比这位强势的“亲本”晚数周，并结有美丽的深红色果实。除此之外，无论是长势、生长习性还是夏季叶色，这两个品种都非常相似。"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": "acer-palmatum-shiraname",
+  "canonical_key": "shiraname",
+  "canonical_name": "Shiraname",
+  "display_name": "Shiraname",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Shiraname'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "Although this cultivar is mentioned as far back as 1710, it is not well known or widely distributed. The mediumsized leaves have five or seven lobes and are deeply divided to less than 1 cm from the leaf base. The leaf is 7-8 cm long and about the same wide, with the lobes radiating outward. Each lobe is elongate-ovate, narrowing at the base, and with the outer end tapering to an elongated point. The margin in the lower half of each lobe is almost smooth, while the upper half is sharply toothed. Each lobe has a slight longitudinal upward roll from the midrib. The petioles are 1.5-2 cm long. Spring foliage is bright red with green undertones, gradually changing to green during the summer. The fall colors are tones of yellow. 'Shiraname' is not a rangygrowing plant but forms a tall bush with lateral branch- Corvallis The name means \"lion's head\" or \"lion's mane,\" referring to the mythical lion of Japanese drama, and was given to this cultivar because of the shape of the bunched-up, heavily curled leaves at the end of short, stout shoots. There are two forms of this cultivar in Japanese horticulture."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Shiraname",
+      "page_range": "213-214",
+      "group": "matsumurae",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Shiraname"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Shiraname'",
+    "Shiraname"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "该品种早在 1710 年即有记载，但并不著名，流通也不广。叶片中等大小，5 裂或 7 裂，深裂至距叶基不足 1 厘米处。叶长 7-8 厘米，宽度大致相同，裂片向外放射展开。每个裂片为狭长卵形，基部渐窄，外端渐尖成长尖。裂片下半部叶缘近乎全缘，上半部则具锐利锯齿。每个裂片自中脉起略向上纵向卷曲。叶柄长 1.5-2 厘米。春叶鲜红，带有绿色底调，夏季逐渐转绿。秋色为黄色调。'Shiraname' 并非枝条松散外张的类型，而是形成高大灌丛，侧枝开展。Corvallis 记载其名意为“狮子头”或“狮鬃”，指日本戏剧中神话狮子的形象，因此得名，因其短而粗壮枝条顶端簇生、强烈卷曲的叶片形似狮鬃。日本园艺中该品种有两个类型。"
+  },
+  "has_mrmaple": false
+}

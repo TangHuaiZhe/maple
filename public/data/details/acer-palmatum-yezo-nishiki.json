@@ -1,0 +1,384 @@
+{
+  "id": "acer-palmatum-yezo-nishiki",
+  "canonical_key": "yezo nishiki",
+  "canonical_name": "Yezo nishiki",
+  "display_name": "Yezo nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Yezo nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "amoenum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This brilliant cultivar has a rich, bright reddish purple spring color which becomes deeper as summer advances. In late summer the leaves become red bronze, but in deep shade are greenish. Fall tones are brilliant crimson and scarlet. The seven-lobed leaves are of a firm texture, measuring 5-7 cm long and up to 9 cm wide. The leaf base is roughly truncate. The lobes separate to about halfway to the leaf base. Each lobe is ovate-acuminate, with the end tapering to a sharp point. The margins are evenly and finely serrated. The red petioles are slender but not weak and 3-4 cm long. This upright, widespreading tree reaches 6-7 m high in 25 years. The young plants grow rapidly, then slow Corvallis matsumurae -variegated This tall-growing, red-leaved cultivar has occasional variegation. After observing it at Maplewood for six years, I named and registered it as"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/01-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071854.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/02-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071856.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/03-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071858.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/04-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071859.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/05-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071861.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/06-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071863.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/07-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071865.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/08-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071866.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/09-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071867.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/01-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071854.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/01-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071854.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/02-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071856.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/03-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071858.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/04-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071859.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/05-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071861.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/06-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071863.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/07-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071865.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/08-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071866.jpg",
+      "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/09-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071867.jpg"
+    ],
+    "public_count": 9
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Yezo nishiki",
+      "page_range": "236-237",
+      "group": "amoenum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 43617,
+      "detail_url": "https://www.rhs.org.uk/plants/43617/acer-palmatum-yezo-nishiki-(a-v)/details",
+      "botanical_name": "Acer palmatum 'Yezo-nishiki' (A/v)",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "Acer palmatum 'Yezo nishiki’ Japanese Maple",
+      "handle": "buy-acer-palmatum-yezo-nishiki-japanese-maple",
+      "product_url": "https://mrmaple.com/products/buy-acer-palmatum-yezo-nishiki-japanese-maple",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 9,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Yezo-nishiki' (A/v)",
+    "Japanese maple 'Yezo-nishiki'",
+    "Yezo nishiki",
+    "Yezo-nishiki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Yezo nishiki'",
+    "Acer palmatum 'Yezo-nishiki' (A/v)",
+    "Japanese maple 'Yezo-nishiki'",
+    "Yezo nishiki",
+    "Yezo-nishiki"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 43617,
+    "rhs_url": "https://www.rhs.org.uk/plants/43617/acer-palmatum-yezo-nishiki-(a-v)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Yezo-nishiki' (A/v)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Yezo-nishiki'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Yezo-nishiki"
+    ],
+    "description": "A deciduous, very colourful, upright then spreading Japanese maple to about 6-7m in height at maturity. Tapering and sharply pointed, 7-lobed leaves have bright reddish-purple spring colour becoming deeper in early summer, later in summer red-bronze, then brilliant crimson and scarlet in autumn",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden",
+      "hort_group_description": "Acers in this amoenum group have large, palm-shaped leaves with finely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米",
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市或庭院花园、乡村风或自然式花园",
+      "hort_group_description": "此 amoenum 类群中的 Acer 品种具有大型掌状叶，叶缘具细锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "落叶日本枫，色彩极为艳丽，初期树形直立，后期渐开展，成熟时高约6-7米。叶片7裂，裂片渐尖，先端锐尖；春季叶色鲜亮红紫，初夏颜色加深，夏末转为红铜色，秋季则呈鲜艳的深红色与猩红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "这是一个色彩极为出众的品种，春季叶色为浓艳明亮的红紫色，随着夏季推进颜色逐渐加深。夏末叶片转为红铜色，但在深阴环境下会偏绿。秋色则为鲜丽的深红色和猩红色。叶片通常为7裂，质地较厚实，长5-7厘米，宽可达9厘米。叶基近截形。裂片约分离至叶基的一半处。每个裂片为卵状渐尖形，先端渐尖成锐 point。叶缘细密且均匀具锯齿。红色叶柄细长但不柔弱，长3-4厘米。该树直立开展，25年可达6-7米高。幼株生长迅速，之后转缓。Corvallis matsumurae -variegated 这是一个生长较高、红叶且偶有斑锦的品种。我在 Maplewood 观察其6年后，将其命名并登记为"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 1,
+    "local_file_count": 9,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/01-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071854.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/01-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071854.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/02-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071856.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/03-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071858.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/04-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071859.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/05-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071861.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/06-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071863.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/07-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071865.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/08-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071866.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/09-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071867.jpg"
+    ],
+    "products": [
+      {
+        "title": "Acer palmatum 'Yezo nishiki’ Japanese Maple",
+        "handle": "buy-acer-palmatum-yezo-nishiki-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-yezo-nishiki-japanese-maple",
+        "product_type": "",
+        "tags": [
+          "10 @ 10 AM",
+          "4thSale",
+          "BIGSALE",
+          "BLKFRIDAY",
+          "blkfriday2025",
+          "Cold Hardiness Zone_Zone 5",
+          "Cold Hardiness Zone_Zone 6",
+          "Cold Hardiness Zone_Zone 7",
+          "Cold Hardiness Zone_Zone 8",
+          "Cold Hardiness Zone_Zone 9",
+          "Colors_Red",
+          "d2",
+          "DBSALE",
+          "EARLYBIRD26",
+          "Habit_Upright",
+          "Habitat Conditions_Shady Areas",
+          "Habitat Conditions_Sunlit Areas",
+          "NEWYEARS26",
+          "nov29",
+          "OHDISCOUNT",
+          "Size 2 Gallon",
+          "Species_Acer palmatum",
+          "Sun In_Zone 5",
+          "Sun In_Zone 6",
+          "Sun In_Zone 7",
+          "Sun In_Zone 8",
+          "Type_Japanese Maple",
+          "VDAYSALE26",
+          "weeklywhammy",
+          "XMAS23"
+        ],
+        "description_text": "Acer palmatum 'Yezo nishiki' Yezo nishiki Japanese Maple Zones 5-9 ‘Yezo nishiki’ is a great mid-sized upright red Japanese maple. This cultivar leafs out in the early spring with brilliant shades of reds to purples. During the mid-summer months, ‘Yezo nishiki’ has more bronze undertone to the red coloration. In the autumn 'Yezo nishiki' lights up with beautiful bright orange to red that continues to intensify late into the season. ‘Yezo nishiki’ is a very old cultivar and is underused in many landscapes. This cultivar can reach 20 feet over time but is slow to reach that height. 'Yezo nishiki' is an excellent tree for anyone looking to add a splash of red color to their landscape.",
+        "published_at": "2026-01-22T10:00:15-05:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer palmatum",
+        "matched_title_cultivar": "Yezo nishiki",
+        "images": {
+          "count": 9,
+          "downloaded_count": 9,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/01-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071854.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/02-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071856.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/03-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071858.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/04-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071859.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/05-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071861.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/06-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071863.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/07-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071865.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/08-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071866.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/09-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071867.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071854.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071854.jpg?v=1751937096",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-yezo-nishiki-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/01-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071854.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 109475,
+              "downloaded_at": "2026-04-14T02:34:13+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071856.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071856.jpg?v=1751937097",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-yezo-nishiki-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/02-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071856.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 181165,
+              "downloaded_at": "2026-04-14T02:34:13+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071858.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071858.jpg?v=1751937097",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-yezo-nishiki-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/03-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071858.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 156397,
+              "downloaded_at": "2026-04-14T02:34:14+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 4,
+              "filename": "Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071859.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071859.jpg?v=1751937097",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-yezo-nishiki-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/04-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071859.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 187544,
+              "downloaded_at": "2026-04-14T02:34:14+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 5,
+              "filename": "Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071861.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071861.jpg?v=1751937097",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-yezo-nishiki-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/05-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071861.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 169717,
+              "downloaded_at": "2026-04-14T02:34:14+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 6,
+              "filename": "Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071863.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071863.jpg?v=1751937097",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-yezo-nishiki-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/06-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071863.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 143653,
+              "downloaded_at": "2026-04-14T02:34:15+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 7,
+              "filename": "Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071865.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071865.jpg?v=1751937097",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-yezo-nishiki-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/07-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071865.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 223190,
+              "downloaded_at": "2026-04-14T02:34:15+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 8,
+              "filename": "Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071866.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071866.jpg?v=1751937097",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-yezo-nishiki-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/08-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071866.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 236776,
+              "downloaded_at": "2026-04-14T02:34:15+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 9,
+              "filename": "Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071867.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071867.jpg?v=1751937097",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-yezo-nishiki-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/09-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071867.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 532035,
+              "downloaded_at": "2026-04-14T02:34:15+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

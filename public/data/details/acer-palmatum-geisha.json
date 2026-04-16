@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-geisha",
+  "canonical_key": "geisha",
+  "canonical_name": "Geisha",
+  "display_name": "Geisha",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Geisha'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "In the spring, the deeply divided leaves are delicate shades of pink to light cream, sparsely flecked with dark green and medium green spots and small patches. The creamy areas turn a pale yellow-green and the main veins become green in the summer, but the Acer attractive pink tones persist. The medium-sized leaves are divided into five to seven narrowly ovate lobes with tail-like pointed tips and coarsely toothed margins. The leaves are intermediate in shape between palmate and straplike. The short, slender leafstalks are pink. 'Geisha' is a slowgrowing bushy tree, eventually reaching 8 ft. (2.5 m) tall. It is distinct, unusual, and somewhat delicate, needing protection and semishade. It makes a fine patio plant and is ideal for containers. The name means \"young dancing girl.\""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Geisha",
+      "page_range": "70",
+      "group": "Palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 209953,
+      "detail_url": "https://www.rhs.org.uk/plants/209953/acer-palmatum-geisha-(dw)/details",
+      "botanical_name": "Acer palmatum 'Geisha' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Geisha' (Dw)",
+    "Geisha"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Geisha'",
+    "Acer palmatum 'Geisha' (Dw)",
+    "Geisha"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 209953,
+    "rhs_url": "https://www.rhs.org.uk/plants/209953/acer-palmatum-geisha-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Geisha' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Geisha"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "春季时，其深裂叶呈细腻的粉色至浅乳白色，上面稀疏散布深绿色和中绿色小斑点及小斑块。到夏季，乳白色部分会转为淡黄绿色，主脉变绿，但迷人的粉色调仍可持续。中等大小的叶片分为 5 至 7 个狭卵形裂片，裂片先端呈尾状渐尖，叶缘具粗锯齿。叶形介于掌状叶与带状叶之间。短而细的叶柄为粉色。'Geisha' 生长缓慢，株形丛生，最终可达 8 英尺（2.5 米）高。其性状鲜明、少见，且略显娇嫩，需加以保护并置于半阴环境。很适合作为庭院观赏植物，也非常适合容器栽培。其名称意为“年轻的舞女”。 'Germaine's Gyration' 属于 Dissectum Group，为绿色系。该羽裂叶品种的生长势强于多数 Dissectum 类型，长而下垂的枝条呈扭转和波浪状，因此名称中有 “gyration” 之意。叶片较大、质感较粗，具 7 至 9 个裂片，深裂后又再分裂成次级裂片，但裂刻不如多数 Dissectum 品种那样深；次级裂片本身也具粗锯齿。夏季叶色为深绿色，秋季转为美丽的黄色、橙色和红色。植株形成瀑布状、蘑菇形的堆状树冠，宽度远大于高度。其名称是为纪念著名俄勒冈苗圃家族成员 Germaine Iseli。"
+  },
+  "has_mrmaple": false
+}

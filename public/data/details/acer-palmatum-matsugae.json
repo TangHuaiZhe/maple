@@ -1,0 +1,116 @@
+{
+  "id": "acer-palmatum-matsugae",
+  "canonical_key": "matsugae",
+  "canonical_name": "Matsugae",
+  "display_name": "Matsugae",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Matsugae'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "This variegate is one of the older cultivars and a very satisfactory landscape plant. Basic leaf color is a deep green, almost a bluish green. The variegation is of several types —fukurin fu (along the edges of the lobes), fukurin kuzure (irregular), or hoso fukurin (shallow margins). The markings are white or cream, but in the spring are overlaid or blended with a deep rose. The colors lessen somewhat in the late summer, but the fall intensifies the deep rose color in all the variegated areas. The leaves are very irregular, each leaf being slightly different from the next. They are basically five lobed and 3-4 cm long, with a spread across the lobes of 4 cm. The long, narrow lobes are separated about three-quarters of the way to the leaf base, slightly wider halfway to the apex, and terminating in a slender point. Each lobe is 5-10 mm at its widest point. The lobes are sometimes sickle shaped, especially where there is heavy variegation. Occasionally, individual lobes are broad, almost elongate-ovate. The edges are deeply and non-uniformly notched, toothed, or a combination of the two forms. of color in 'Matsugae'. It is a little more open and less twiggy than"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Matsugae",
+      "page_range": "104",
+      "group": "Palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 182544,
+      "detail_url": "https://www.rhs.org.uk/plants/182544/acer-palmatum-matsu-ga-e-(p-v)/details",
+      "botanical_name": "Acer palmatum 'Matsu-ga-e' (P/v)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Matsugae",
+      "page_range": "171",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Albomarginatum'",
+    "Acer palmatum 'Argenteomarginatum'",
+    "Acer palmatum 'Matsu-ga-e' (P/v)",
+    "Albomarginatum",
+    "Argenteomarginatum",
+    "Japanese maple 'Matsu-ga-e'",
+    "Matsu-ga-e",
+    "Matsugae"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Albomarginatum'",
+    "Acer palmatum 'Argenteomarginatum'",
+    "Acer palmatum 'Matsu-ga-e' (P/v)",
+    "Acer palmatum 'Matsugae'",
+    "Albomarginatum",
+    "Argenteomarginatum",
+    "Japanese maple 'Matsu-ga-e'",
+    "Matsu-ga-e",
+    "Matsugae"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 182544,
+    "rhs_url": "https://www.rhs.org.uk/plants/182544/acer-palmatum-matsu-ga-e-(p-v)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Matsu-ga-e' (P/v)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Matsu-ga-e'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Argenteomarginatum'",
+      "Acer palmatum 'Albomarginatum'"
+    ],
+    "cultivar_names": [
+      "Albomarginatum",
+      "Argenteomarginatum",
+      "Matsu-ga-e"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这一斑叶类型是较早的老品种之一，也是非常令人满意的园林景观植物。叶片底色为深绿，近乎蓝绿色。斑锦有数种类型，包括 fukurin fu（沿裂片边缘）、fukurin kuzure（不规则斑锦）或 hoso fukurin（窄边斑）。斑纹为白色或乳白色，但春季会覆上或混入深玫红色。到夏末，这些颜色会略有减弱，但秋季会使所有斑锦部位的深玫红色更加鲜明。叶片极不规则，几乎每一片都略有不同。基本为五裂，叶长 3-4 厘米，横向展开约 4 厘米。狭长裂片分裂约达叶基的四分之三处，在通往先端的中部略宽，末端收为纤细尖端。每个裂片最宽处为 5-10 毫米。裂片有时呈镰刀形，尤其在斑锦较重时更明显。偶尔单个裂片会较宽，近长卵形。叶缘深裂且不均匀，具缺刻、锯齿，或两者兼有。'Matsugae' 的色彩更为浓郁。其株形比"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

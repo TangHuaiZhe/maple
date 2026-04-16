@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-nanase-gawa",
+  "canonical_key": "nanase gawa",
+  "canonical_name": "Nanase gawa",
+  "display_name": "Nanase gawa",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Nanase gawa'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The leaves are divided into seven, or sometimes five, lobes which separate two-thirds to three-quarters of the way to the leaf base. When young, they are very deeply divided, filling out as they develop. They measure 5-7 cm long and about 8 cm wide. The lobes are ovate and terminate in a long, narrow sharp point. The basal lobes point outward, forming a truncate base to the leaf. The margins are finely double toothed. The petioles are about 2 cm long. This cultivar reaches 4 m tall at maturity and becomes nearly as wide, growing as a tall, spreading bush. The spring foliage opens with a crimson color which soon changes to purplish red. In early summer, as the green tones begin to develop, the veins turn a contrasting green. By midsummer the entire leaf is greenish. This tree is bright crimson in the fall. It is believed to be named after the Nanase River, the location of which remains a mystery. Corvallis the palmate-type leaves are described as first unfolding with a light green color. As the leaves mature, a faint creamy white shading or variegation appears. This upright-growing plant is not fast growing. It tends to form a round-headed tree or shrub up to 3 m high."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Nanase gawa",
+      "page_range": "178",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 194994,
+      "detail_url": "https://www.rhs.org.uk/plants/194994/acer-palmatum-nanase-gawa-(a)/details",
+      "botanical_name": "Acer palmatum 'Nanase-gawa' (A)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Nanase-gawa' (A)",
+    "Nanase gawa",
+    "Nanase-gawa"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Nanase gawa'",
+    "Acer palmatum 'Nanase-gawa' (A)",
+    "Nanase gawa",
+    "Nanase-gawa"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 194994,
+    "rhs_url": "https://www.rhs.org.uk/plants/194994/acer-palmatum-nanase-gawa-(a)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Nanase-gawa' (A)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Nanase-gawa"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "叶片分为七裂，偶有五裂，裂片分离至距叶基约三分之二至四分之三处。幼叶时裂得很深，随着叶片发育会逐渐展开丰满。叶长 5-7 厘米，宽约 8 厘米。裂片为卵形，先端延伸成细长锐尖。基部裂片向外伸展，使叶基呈截形。叶缘具细密的重锯齿。叶柄长约 2 厘米。该品种成熟时高可达 4 米，冠幅也几乎相当，生长成高大而开展的灌木状。春季新叶展开时为深红色，随后很快转为紫红色。初夏开始出现绿色调时，叶脉会转为对比鲜明的绿色。至仲夏，整叶趋于绿化。秋季则转为鲜艳的深红色。据认为其名称源于 Nanase River，但其具体所在仍不明确。Corvallis 记载其掌状叶初展时为浅绿色，叶片成熟后会出现淡淡的乳白色晕染或斑锦。该品种生长直立，但速度不快，倾向形成圆头状小乔木或灌木，高可达 3 米。"
+  },
+  "has_mrmaple": false
+}

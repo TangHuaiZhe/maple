@@ -1,0 +1,186 @@
+{
+  "id": "acer-palmatum-nishiki-gawa",
+  "canonical_key": "nishiki gawa",
+  "canonical_name": "Nishiki gawa",
+  "display_name": "Nishiki gawa",
+  "chinese_name": "锦川",
+  "scientific_name": "Acer palmatum",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "荒皮系列",
+  "book_groups": [
+    "Palmatum",
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The rough pinelike bark is the outstanding feature of this maple which is also known by the name 'Pine Bark Maple'. It has been likened to the bark of the Japanese black pine, Pinus thunbergii. The older the plant, the rougher the bark. It becomes quite corky with coarse, longitudinal, irregular creases in the thickened bark. This feature does not appear in young propagates but begins to develop in two to three years. In an old plant, the bark becomes very thick and convoluted. This rough bark is much more pronounced than in the cultivar"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "205",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/205.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=62",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "荒皮系列",
+      "title": "锦川Acer palmatum'Nishiki gawa'",
+      "description": "",
+      "image_count": 0
+    },
+    {
+      "source": "timber_press",
+      "name": "Nishiki gawa",
+      "page_range": "116-117",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Nishiki gawa",
+      "page_range": "179",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 81792,
+      "detail_url": "https://www.rhs.org.uk/plants/81792/acer-palmatum-nishiki-gawa-(p)/details",
+      "botanical_name": "Acer palmatum 'Nishiki-gawa' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Nishiki-gawa' (P)",
+    "Acer palmatum 'Pine Bark Maple'",
+    "Acer palmatum 'Pine Bark'",
+    "Japanese maple 'Nishiki-gawa'",
+    "Nishiki gawa",
+    "Nishiki-gawa",
+    "Pine Bark",
+    "Pine Bark Maple",
+    "锦川",
+    "锦川Acer palmatum'Nishiki gawa'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Nishiki-gawa' (P)",
+    "Acer palmatum 'Pine Bark Maple'",
+    "Acer palmatum 'Pine Bark'",
+    "Japanese maple 'Nishiki-gawa'",
+    "Nishiki gawa",
+    "Nishiki-gawa",
+    "Pine Bark",
+    "Pine Bark Maple",
+    "荒皮系列",
+    "锦川",
+    "锦川Acer palmatum'Nishiki gawa'",
+    "鸡爪槭"
+  ],
+  "source_count": 4,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 81792,
+    "rhs_url": "https://www.rhs.org.uk/plants/81792/acer-palmatum-nishiki-gawa-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Nishiki-gawa' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Nishiki-gawa'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Pine Bark Maple'",
+      "Acer palmatum 'Pine Bark'"
+    ],
+    "cultivar_names": [
+      "Nishiki-gawa",
+      "Pine Bark",
+      "Pine Bark Maple"
+    ],
+    "description": "A bushy, upright, deciduous tree to about 6m tall, noted for its rough, pine-like bark, thick and corky with age. Palmate 7-lobed leaves 4-5cm long emerge light green edged with a light shading of red in spring, becoming bright green in summer then turning a strong yellow in autumn",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市或庭院花园、乡村风或自然式花园",
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "丛生、直立的落叶小乔木，高约 6 米，以其粗糙如松的树皮著称；树龄增长后，树皮增厚并呈栓皮状。掌状 7 裂叶长 4 至 5 厘米，春季萌发时浅绿色，边缘带淡淡红晕，夏季转为鲜绿色，秋季则变为浓黄色。"
+  },
+  "descriptions_zh": {
+    "preferred": "本品种最突出的特征是粗糙如松树的树皮，因此也被称为 'Pine Bark Maple'。其树皮常被比作日本黑松 Pinus thunbergii 的树皮。植株越老，树皮越粗糙，逐渐变得非常栓皮化，厚实的树皮上形成粗大的纵向不规则裂纹。这一特征在幼年繁殖株上并不明显，通常在 2 至 3 年后开始形成。老株的树皮会变得很厚并呈扭曲状。其粗皮特征比品种 'Arakawa'（异名 'Rough Bark Maple'）更加显著。正常掌状叶通常 7 裂，其中基部两个裂片很小。长卵形裂片渐尖，分裂深达叶基约三分之二。对这样的小叶而言，叶缘锯齿相当明显，叶片长宽约 4 至 5 厘米。春叶浅绿色，边缘带淡红晕；成熟叶转为鲜绿色，秋季变为明亮的黄色。株形直立但较丛生，成熟后为丛生状小乔木，高可达 6 米。在日本已广泛用于盆景培养，且非常适合频繁修剪与整形。"
+  },
+  "has_mrmaple": false
+}

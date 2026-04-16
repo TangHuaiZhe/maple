@@ -1,0 +1,57 @@
+{
+  "id": "acer-pycnanthum-hoshi-yadori",
+  "canonical_key": "hoshi yadori",
+  "canonical_name": "Hoshi yadori",
+  "display_name": "Hoshi yadori",
+  "chinese_name": null,
+  "scientific_name": "Acer pycnanthum 'Hoshi yadori'",
+  "species": "Acer pycnanthum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "The remarkable foliage has both starlike specks and sand-dusted white to cream variegations boldly covering the deep green base color in varying amounts from light dots to bold color slashes. In full shade, the markings are almost pure white. In sun, they are a light yellow to gold. Full exposure to hot sun, however, causes leaf damage. The leaves have five to seven broadly triangular shallow lobes This cultivar forms a compact medium-sized shrub up to 16 ft. (5 m) tall. When it is sited near a path, the unique foliage can be easily seen and appreciated. The name means \"star leaf.\""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Hoshi yadori",
+      "page_range": "205",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Hoshi yadori"
+  ],
+  "search_terms": [
+    "Acer pycnanthum",
+    "Acer pycnanthum 'Hoshi yadori'",
+    "Hoshi yadori"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "其引人注目的叶片在深绿色底色上，分布有星状斑点以及仿佛撒砂般的白色至乳白色斑锦，斑纹多少不一，从细小点斑到大块醒目的色斑皆有。全阴环境下，斑纹几乎呈纯白色；在日照下则偏浅黄至金色。但若暴露于炎热烈日下，叶片会受灼伤。叶片具 5 至 7 个宽三角形浅裂片。该品种形成紧凑的中型灌木，高可达 16 英尺（5 米）。若栽植于小径旁，其独特叶色更易观赏。其名称意为“星叶”。"
+  },
+  "has_mrmaple": false
+}

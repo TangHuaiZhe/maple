@@ -1,0 +1,299 @@
+{
+  "id": "acer-palmatum-elegans",
+  "canonical_key": "elegans",
+  "canonical_name": "Elegans",
+  "display_name": "Elegans",
+  "chinese_name": "雅丽格斯",
+  "scientific_name": "Acer Palmatum 'Elegans'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "绿叶",
+  "book_groups": [
+    "Matsumurae",
+    "matsumurae"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The glory of this cultivar comes with a burst of color in the fall. It is a bright orange tinged with red. The season starts in the spring with the new leaves a yellowish green color, then turning a darker green as they finally develop. The leaves usually have (five or) seven deeply divided and Corvallis This stocky-growing, low tree tends to become as wide as it is tall. The branches are thick and sturdy. Old specimens reach heights of 3 m or more. 'Elegans' is a good, hardy, trouble-free plant and is useful when a short tree is desired for background planting. Other names under which this cultivar has been known are 'Heptalobum Elegans',"
+  },
+  "images": {
+    "count": 10,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/253_雅丽格斯Acer Palmatum 'Elegans'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/253_雅丽格斯Acer Palmatum 'Elegans'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/253_雅丽格斯Acer Palmatum 'Elegans'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/253_雅丽格斯Acer Palmatum 'Elegans'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/253_雅丽格斯Acer Palmatum 'Elegans'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/253_雅丽格斯Acer Palmatum 'Elegans'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/253_雅丽格斯Acer Palmatum 'Elegans'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/253_雅丽格斯Acer Palmatum 'Elegans'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/253_雅丽格斯Acer Palmatum 'Elegans'/08.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/253_雅丽格斯Acer Palmatum 'Elegans'/09.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/253_雅丽格斯Acer Palmatum 'Elegans'/10.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/10.jpg"
+    ],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-elegans/01-RHS_WSYD0013334_7032.JPG",
+      "/rhs-images/acer-palmatum-elegans/02-RHS_RHS-0002723_7032.JPG",
+      "/rhs-images/acer-palmatum-elegans/03-GWIS386.jpg",
+      "/rhs-images/acer-palmatum-elegans/04-GWIS389.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/253_%E9%9B%85%E4%B8%BD%E6%A0%BC%E6%96%AFAcer%20Palmatum%20'Elegans'/10.jpg",
+      "/rhs-images/acer-palmatum-elegans/01-RHS_WSYD0013334_7032.JPG",
+      "/rhs-images/acer-palmatum-elegans/02-RHS_RHS-0002723_7032.JPG",
+      "/rhs-images/acer-palmatum-elegans/03-GWIS386.jpg",
+      "/rhs-images/acer-palmatum-elegans/04-GWIS389.jpg"
+    ],
+    "public_count": 14
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "253",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/253.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=28",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "绿叶",
+      "title": "雅丽格斯Acer Palmatum 'Elegans'",
+      "description": "Elegans 在春天是温和的绿色与鲑鱼粉色的碰撞，其 精致的掌状叶在夏季变成绿色，然后又在秋季呈现 出金黄色、橙色和红色之间的缤纷色彩。有 5-7 个 叶裂，叶裂深至基部，叶边缘有清晰的锯齿状，成 年树高约 3 米左右。",
+      "image_count": 10
+    },
+    {
+      "source": "timber_press",
+      "name": "Elegans",
+      "page_range": "61",
+      "group": "Matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Elegans",
+      "page_range": "135-136",
+      "group": "matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 88936,
+      "detail_url": "https://www.rhs.org.uk/plants/88936/acer-palmatum-elegans-(m)/details",
+      "botanical_name": "Acer palmatum 'Elegans' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Elegans' (M)",
+    "Acer palmatum 'Heptalobum Elegans'",
+    "Acer palmatum 'Septemlobum Elegans'",
+    "Elegans",
+    "Heptalobum Elegans",
+    "Japanese maple 'Elegans'",
+    "Septemlobum Elegans",
+    "雅丽格斯",
+    "雅丽格斯Acer Palmatum 'Elegans'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Elegans'",
+    "Acer palmatum",
+    "Acer palmatum 'Elegans' (M)",
+    "Acer palmatum 'Heptalobum Elegans'",
+    "Acer palmatum 'Septemlobum Elegans'",
+    "Elegans",
+    "Heptalobum Elegans",
+    "Japanese maple 'Elegans'",
+    "Septemlobum Elegans",
+    "绿叶",
+    "雅丽格斯",
+    "雅丽格斯Acer Palmatum 'Elegans'",
+    "鸡爪槭"
+  ],
+  "source_count": 4,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 88936,
+    "rhs_url": "https://www.rhs.org.uk/plants/88936/acer-palmatum-elegans-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Elegans' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Elegans'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Heptalobum Elegans'",
+      "Acer palmatum 'Septemlobum Elegans'"
+    ],
+    "cultivar_names": [
+      "Elegans",
+      "Heptalobum Elegans",
+      "Septemlobum Elegans"
+    ],
+    "description": "Has deeply divided and serrated leaves with a good autumn colour; the leaves turning yellow to bright orange and tinted red",
+    "dimensions": {
+      "height": "1.5-2.5 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "West-facing, East-facing, South-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Low Maintenance, Rock Garden, Architectural, Cottage/Informal Garden, Patio/Container Plants",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 4,
+      "filenames": [
+        "RHS_WSYD0013334_7032.JPG",
+        "RHS_RHS-0002723_7032.JPG",
+        "GWIS386.jpg",
+        "GWIS389.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-elegans/01-RHS_WSYD0013334_7032.JPG",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-elegans/02-RHS_RHS-0002723_7032.JPG",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-elegans/03-GWIS386.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-elegans/04-GWIS389.jpg"
+      ],
+      "downloaded_count": 4,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "RHS_WSYD0013334_7032.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/RHS_WSYD0013334_7032.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/88936/acer-palmatum-elegans-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-elegans/01-RHS_WSYD0013334_7032.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 250663,
+          "downloaded_at": "2026-04-14T01:47:44+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "RHS_RHS-0002723_7032.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/RHS_RHS-0002723_7032.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/88936/acer-palmatum-elegans-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-elegans/02-RHS_RHS-0002723_7032.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 139293,
+          "downloaded_at": "2026-04-14T01:47:44+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 3,
+          "filename": "GWIS386.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/GWIS386.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/88936/acer-palmatum-elegans-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-elegans/03-GWIS386.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 235160,
+          "downloaded_at": "2026-04-14T01:47:44+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 4,
+          "filename": "GWIS389.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/GWIS389.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/88936/acer-palmatum-elegans-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-elegans/04-GWIS389.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 137379,
+          "downloaded_at": "2026-04-14T01:47:44+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一品种最出彩之处在于秋季迸发出的色彩，呈鲜亮的橙色并带红晕。春季开始时，新叶为黄绿色，随后逐渐转为较深的绿色。叶片通常为 5 裂或 7 裂，裂刻较深。这一株形敦实、低矮的小乔木，冠幅往往与株高相当。枝条粗壮坚实，老株高度可达 3 米或以上。'Elegans' 是一个优良、耐寒、少病害、管理省心的品种，适合用作背景种植中的低矮乔木。该品种还曾以 'Heptalobum Elegans'、'Pinnatum' 和 'Septemlobum Elegans' 等名称流通。"
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。",
+      "suggested_uses": "适合用于城市/庭院花园、低维护种植、岩石园、建筑感景观、乡村风/自然式花园、露台/容器栽培。"
+    },
+    "care": {
+      "cultivation": "宜种植于湿润但排水良好的土壤中。夏季如有需要应浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴露过度都可能导致叶片焦枯。",
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "叶片深裂且具锯齿，秋色表现佳；叶色可转为黄色至亮橙色，并带红晕。"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,273 @@
+{
+  "id": "acer-palmatum-lozita",
+  "canonical_key": "lozita",
+  "canonical_name": "Lozita",
+  "display_name": "Lozita",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Lozita'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The main features of this cultivar are the bright rosy-red new leaves produced all summer on the background of mahogany-red older leaves, and the stunning scarlet autumn color. The leaves tend to become bronzegreen in shade. They are medium-sized with five to seven deeply divided ovate-triangular lobes. Each lobe has a tail-like tip and distinctly, evenly toothed margins. The short slender leafstalks are also purple. 'Lozita' forms a bushy upright tree, eventually reaching 13-16 ft. (4-5 m) tall. It is an ideal plant for containers which tend to keep it more compact."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/01-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063223.jpg",
+      "/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/02-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063226.jpg",
+      "/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/03-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063229.jpg",
+      "/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/04-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063233.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/01-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063223.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/01-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063223.jpg",
+      "/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/02-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063226.jpg",
+      "/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/03-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063229.jpg",
+      "/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/04-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063233.jpg"
+    ],
+    "public_count": 4
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Lozita",
+      "page_range": "101",
+      "group": "Palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 197157,
+      "detail_url": "https://www.rhs.org.uk/plants/197157/acer-palmatum-lozita-(p)/details",
+      "botanical_name": "Acer palmatum 'Lozita' (P)",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "Acer palmatum 'Lozita' Japanese Maple",
+      "handle": "buy-acer-palmatum-lozita-japanese-maple",
+      "product_url": "https://mrmaple.com/products/buy-acer-palmatum-lozita-japanese-maple",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 4,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Lozita' (P)",
+    "Lozita"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Lozita'",
+    "Acer palmatum 'Lozita' (P)",
+    "Lozita"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 197157,
+    "rhs_url": "https://www.rhs.org.uk/plants/197157/acer-palmatum-lozita-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Lozita' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Lozita"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这个品种的主要特征，是在整個夏季都能不断抽生鲜亮的玫瑰红色新叶，映衬在桃花心木红色的老叶背景之上，并且秋季呈现惊艳的猩红色。叶片在阴处往往会转为铜绿色。叶为中等大小，5 至 7 深裂，裂片呈卵状三角形。每个裂片先端均有尾状尖头，边缘具清晰且均匀的锯齿。短而纤细的叶柄也为紫色。'Lozita' 生长成枝叶繁密、直立的树形，最终高约 13-16 英尺（4-5 米）。非常适合容器栽培，而容器种植通常还能使其株形更紧凑。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 1,
+    "local_file_count": 4,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/01-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063223.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/01-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063223.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/02-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063226.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/03-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063229.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/04-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063233.jpg"
+    ],
+    "products": [
+      {
+        "title": "Acer palmatum 'Lozita' Japanese Maple",
+        "handle": "buy-acer-palmatum-lozita-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-lozita-japanese-maple",
+        "product_type": "",
+        "tags": [
+          "10 @ 10 AM",
+          "1231",
+          "blkfriday2025",
+          "Cold Hardiness Zone_Zone 5",
+          "Cold Hardiness Zone_Zone 6",
+          "Cold Hardiness Zone_Zone 7",
+          "Cold Hardiness Zone_Zone 8",
+          "Cold Hardiness Zone_Zone 9",
+          "Colors_Golden",
+          "Colors_Green",
+          "Colors_Orange",
+          "Colors_Pink",
+          "Earlybird",
+          "EARLYBIRD26",
+          "FALLCUSTOMER",
+          "FallSale",
+          "Habit_Upright",
+          "Habitat Conditions_Shady Areas",
+          "Habitat Conditions_Sunlit Areas",
+          "JULYSALE",
+          "JUNESALE",
+          "NEWYEARS26",
+          "nov23",
+          "OHDISCOUNT",
+          "Size_Medium",
+          "Species_Acer palmatum",
+          "SPRINGSALE25",
+          "Sun In_Zone 5",
+          "Sun In_Zone 6",
+          "Sun In_Zone 7",
+          "Type_Japanese Maple",
+          "VDAYSALE25",
+          "VDAYSALE26"
+        ],
+        "description_text": "Acer palmatum 'Lozita' Red Japanese Maple Zones 5-9 Acer palmatum 'Lozita' is a nice red selection of Japanese maple that holds its color fairly well throughout the season. In more shaded situations, 'Lozita' may turn to green-red to bronze. Fall color on 'Lozita' is a bright scarlet red. 'Lozita' may reach 10-12 ft in height and width in 10 years.",
+        "published_at": "2025-11-23T09:00:06-05:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer palmatum",
+        "matched_title_cultivar": "Lozita",
+        "images": {
+          "count": 4,
+          "downloaded_count": 4,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/01-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063223.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/02-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063226.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/03-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063229.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/04-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063233.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063223.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063223.jpg?v=1747703339",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-lozita-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/01-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063223.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 104232,
+              "downloaded_at": "2026-04-14T02:25:08+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063226.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063226.jpg?v=1747703339",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-lozita-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/02-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063226.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 79285,
+              "downloaded_at": "2026-04-14T02:25:08+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063229.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063229.jpg?v=1747703339",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-lozita-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/03-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063229.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 158002,
+              "downloaded_at": "2026-04-14T02:25:09+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 4,
+              "filename": "Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063233.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063233.jpg?v=1747703339",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-lozita-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-lozita-japanese-maple/04-Acer_palmatum_Lozita_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063233.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 131505,
+              "downloaded_at": "2026-04-14T02:25:09+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

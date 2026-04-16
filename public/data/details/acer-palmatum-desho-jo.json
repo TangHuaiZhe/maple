@@ -1,0 +1,270 @@
+{
+  "id": "acer-palmatum-desho-jo",
+  "canonical_key": "desho jo",
+  "canonical_name": "Desho\\jo\\",
+  "display_name": "Desho\\jo\\",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Desho\\jo\\'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This plant has bright spring foliage. At the early leaf stage the new foliage is a brilliant carmine red. It is a very bright colored plant for a short period of time, but the color does not hold as long as it does in other related cultivars. The basic color of 'Desho\\jo\\' for the rest of the year is a good tone of lighter green often with reddish bronze edges. Therearedifferentselectionsof 'Deshoj\\ o'\\.Someforms Corvallis tivars. The leaves are palmatum shaped with lobes separated two-thirds the distance to the base. The usually five lobes radiate from the center, are strongly tapered to a point, and have finely toothed margins. The leaves are up to 5-6 cm long and wide. The thin petioles are up to 4 cm long. The shoj\\ o\\ part of this cultivar's name (meaning \"redfaced monkey\") can become confusing."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-desho-jo-momiji_kaede/01-RHS_WSYD0011209_11555.JPG",
+      "/rhs-images/acer-palmatum-desho-jo-momiji_kaede/02-Web_Use-_TSC4037_11555.jpg",
+      "/rhs-images/acer-palmatum-desho-jo-momiji_kaede/03-Web_Use-_TSC4029_11555.jpg",
+      "/rhs-images/acer-palmatum-desho-jo/01-RHS_WSYD0011209_11555.JPG",
+      "/rhs-images/acer-palmatum-desho-jo/02-Web_Use-_TSC4037_11555.jpg",
+      "/rhs-images/acer-palmatum-desho-jo/03-Web_Use-_TSC4029_11555.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-desho-jo-momiji_kaede/01-RHS_WSYD0011209_11555.JPG",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-desho-jo-momiji_kaede/01-RHS_WSYD0011209_11555.JPG",
+      "/rhs-images/acer-palmatum-desho-jo-momiji_kaede/02-Web_Use-_TSC4037_11555.jpg",
+      "/rhs-images/acer-palmatum-desho-jo-momiji_kaede/03-Web_Use-_TSC4029_11555.jpg",
+      "/rhs-images/acer-palmatum-desho-jo/01-RHS_WSYD0011209_11555.JPG",
+      "/rhs-images/acer-palmatum-desho-jo/02-Web_Use-_TSC4037_11555.jpg",
+      "/rhs-images/acer-palmatum-desho-jo/03-Web_Use-_TSC4029_11555.jpg"
+    ],
+    "public_count": 6
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Desho\\jo\\",
+      "page_range": "133-134",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 91829,
+      "detail_url": "https://www.rhs.org.uk/plants/91829/acer-palmatum-deshojo-(p)/details",
+      "botanical_name": "Acer palmatum 'Deshōjō' (P)",
+      "description": ""
+    },
+    {
+      "source": "timber_press",
+      "name": "Desho¯ jo¯",
+      "page_range": "60",
+      "group": "Palmatum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Deshōjō' (P)",
+    "Desho\\jo\\",
+    "Deshōjō",
+    "Japanese maple 'Deshōjō'",
+    "Desho¯ jo¯"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Desho\\jo\\'",
+    "Acer palmatum 'Deshōjō' (P)",
+    "Desho\\jo\\",
+    "Deshōjō",
+    "Japanese maple 'Deshōjō'",
+    "Acer palmatum 'Desho¯ jo¯'",
+    "Desho¯ jo¯"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 91829,
+    "rhs_url": "https://www.rhs.org.uk/plants/91829/acer-palmatum-deshojo-(p)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Deshōjō' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Deshōjō'"
+    ],
+    "cultivar_names": [
+      "Deshōjō"
+    ],
+    "description": "An upright, rounded, deciduous shrub or small tree to 2.5m high and wide. Slender-pointed, lobed leaves are brilliant red in spring before maturing to bright green and then turning shades of red and orange in autumn. Small reddish spring flowers may be followed by winged fruits in autumn",
+    "dimensions": {
+      "height": "1.5-2.5 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Clay, Loam",
+      "aspect": "West-facing, East-facing, South-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, Cottage/Informal Garden, Low Maintenance, City/Courtyard Gardens, Patio/Container Plants, Rock Garden",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture, drying winds or late spring frost. See Japanese maple cultivation",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 3,
+      "filenames": [
+        "RHS_WSYD0011209_11555.JPG",
+        "Web_Use-_TSC4037_11555.jpg",
+        "Web_Use-_TSC4029_11555.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-desho-jo-momiji_kaede/01-RHS_WSYD0011209_11555.JPG",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-desho-jo-momiji_kaede/02-Web_Use-_TSC4037_11555.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-desho-jo-momiji_kaede/03-Web_Use-_TSC4029_11555.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-desho-jo/01-RHS_WSYD0011209_11555.JPG",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-desho-jo/02-Web_Use-_TSC4037_11555.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-desho-jo/03-Web_Use-_TSC4029_11555.jpg"
+      ],
+      "downloaded_count": 3,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "RHS_WSYD0011209_11555.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/RHS_WSYD0011209_11555.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/91829/acer-palmatum-deshojo-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-desho-jo-momiji_kaede/01-RHS_WSYD0011209_11555.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 287540,
+          "downloaded_at": "2026-04-14T01:47:43+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "Web_Use-_TSC4037_11555.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/Web_Use-_TSC4037_11555.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/91829/acer-palmatum-deshojo-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-desho-jo-momiji_kaede/02-Web_Use-_TSC4037_11555.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 90936,
+          "downloaded_at": "2026-04-14T01:47:43+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 3,
+          "filename": "Web_Use-_TSC4029_11555.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/Web_Use-_TSC4029_11555.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/91829/acer-palmatum-deshojo-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-desho-jo-momiji_kaede/03-Web_Use-_TSC4029_11555.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 194768,
+          "downloaded_at": "2026-04-14T01:47:43+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 1,
+          "filename": "RHS_WSYD0011209_11555.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/RHS_WSYD0011209_11555.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/91829/acer-palmatum-deshojo-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-desho-jo/01-RHS_WSYD0011209_11555.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 287540,
+          "downloaded_at": "2026-04-14T01:47:43+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "Web_Use-_TSC4037_11555.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/Web_Use-_TSC4037_11555.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/91829/acer-palmatum-deshojo-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-desho-jo/02-Web_Use-_TSC4037_11555.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 90936,
+          "downloaded_at": "2026-04-14T01:47:43+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 3,
+          "filename": "Web_Use-_TSC4029_11555.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/Web_Use-_TSC4029_11555.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/91829/acer-palmatum-deshojo-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-desho-jo/03-Web_Use-_TSC4029_11555.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 194768,
+          "downloaded_at": "2026-04-14T01:47:43+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。",
+      "suggested_uses": "造景观赏、乡村/自然式花园、低维护、城市/庭院花园、庭院/容器植物、岩石园"
+    },
+    "care": {
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖",
+      "cultivation": "宜栽培于湿润但排水良好的土壤中。夏季如有需要应补充浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤缺水、干燥风或晚春霜冻都可能导致叶片焦枯。参见 Japanese maple cultivation。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "直立、圆整的落叶灌木或小乔木，高和冠幅均可达 2.5 米。叶片裂片先端细尖，春季呈鲜艳红色，随后成熟为亮绿色，秋季再转为红色和橙色等色调。春季开小型红色花，入秋后可结翅果。"
+  },
+  "descriptions_zh": {
+    "preferred": "这个品种以鲜艳的春叶著称。在展叶初期，新叶呈极为明亮的胭脂红色。它在短时间内色彩非常夺目，但持色性不如其他一些相关品种。'Deshojo' 在其余季节的基本叶色为悦目的浅绿色，边缘常带红铜色。'Deshojo' 存在不同选系，其中一些构成了颇具价值的栽培品种。叶片为典型 palmatum 形，裂片分离深度约达叶基的三分之二。通常为 5 裂，自中心向外放射，裂片强烈渐尖，叶缘具细锯齿。叶片长宽可达 5-6 厘米。细长叶柄最长约 4 厘米。该品种名称中的 shoj o 部分（意为“红脸猴”）容易引起混淆。'Shojo' 是红叶 palmatum 中一个古老的标准类型。上述 'Deshojo' 则是其他选育品种的基础。"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "acer-palmatum-willow-leaf",
+  "canonical_key": "willow leaf",
+  "canonical_name": "Willow Leaf",
+  "display_name": "Willow Leaf",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Willow Leaf'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "linearilobum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This red linearilobum is similar to 'Red Pygmy' in leaf shape and color, growth rate, and habit. The leaf lobes are slightly shorter and the shoots sturdier. The young leaves are bright orange red, soon becoming a deep purple red, a color which lasts well throughout the summer. The five-lobed straplike leaves are 7-9 cm long and 9-11 cm wide. Each lobe is linear to long-ovate, 5 mm wide, with long tapering tips. The margins are sparsely and small tree up to 3 m high, with graceful semipendulous branches and foliage."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Willow Leaf",
+      "page_range": "234-235",
+      "group": "linearilobum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Willow Leaf"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Willow Leaf'",
+    "Willow Leaf"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "这一红叶 linearilobum 品种在叶形与叶色、生长速度及株形方面都与 'Red Pygmy' 相似，但其裂片稍短，枝条更为健壮。幼叶鲜橙红色，很快转为深紫红色，并且整个夏季都能较好保持。5 裂带状叶长 7 至 9 厘米，宽 9 至 11 厘米；每个裂片为线形至长卵形，宽约 5 毫米，先端渐尖而细长。叶缘具稀疏锯齿。植株为小乔木，高可达 3 米，枝条与叶片姿态优雅，呈半下垂状。'Wilson's Pink Dwarf' 属矮生绿色系。该品种为迷人的直立灌木，叶片极小，春季色彩十分丰富，通常具 5 裂，夏季基色为明亮浅绿色，这也是老叶的基本颜色。但在早春，整株会呈现浅而鲜亮的粉色或粉红偏红色，极其醒目，这一色相可持续数周。随着夏季推进，绿色底色逐渐增强，同时仍保留粉色至锈红色调；在某些栽培条件下，甚至会出现少量斑驳。新叶较小，长 1.5 至 2.5 厘米。此优美灌木在春季总能吸引注意，生长良好，势头旺但不过分徒长，枝条可发展得较为细密。它是 Dwarf Group 中很受欢迎的补充，最初由加州 Millbrae 的 Peters and Wilson Nursery 的 James Wilson 自实生苗中选出。"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,190 @@
+{
+  "id": "acer-palmatum-chishio-improved",
+  "canonical_key": "chishio improved",
+  "canonical_name": "Chishio Improved",
+  "display_name": "Chishio Improved",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Chishio Improved'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This small-leaved cultivar has extremely brilliant spring foliage. It is as bright as the foliage of 'Shin deshoj\\ o'\\, but the color is more of a crimson than crimson scarlet. The color lasts well through the spring and is followed by a good green in the summer. The fiveor seven-lobed leaves are small, 3-6 cm long and 4-7 cm wide. The lobes are ovate with tapering, well-defined points. They radiate outward and join about two-thirds of the way or more to the leaf base. The margins are coarsely toothed, the teeth having sharp tips. The petioles are slender and 3.5-4 cm long. The bark of the young shoots is quite red on the upper side. This multibranched, vigorous shrub grows up to 5 m tall. New shoots can be 1 m long. However, as the plant becomes older, the rate of growth slows. It is among the Japanese and English names is illegitimate. If it were of Japanese origin, which it does not seem to be, the correct name would be"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-chishio-improved/01-RHS_WSYD0005588_11427.JPG"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-chishio-improved/01-RHS_WSYD0005588_11427.JPG",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-chishio-improved/01-RHS_WSYD0005588_11427.JPG"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Chishio Improved",
+      "page_range": "130-131",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 68779,
+      "detail_url": "https://www.rhs.org.uk/plants/68779/acer-palmatum-chishio-improved-(p)/details",
+      "botanical_name": "Acer palmatum 'Chishio Improved' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Chishio Improved' (P)",
+    "Acer palmatum 'Improved Shishio'",
+    "Acer palmatum 'Shishio Improved'",
+    "Chishio Improved",
+    "Improved Shishio",
+    "Japanese maple 'Chishio Improved'",
+    "Shishio Improved"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Chishio Improved'",
+    "Acer palmatum 'Chishio Improved' (P)",
+    "Acer palmatum 'Improved Shishio'",
+    "Acer palmatum 'Shishio Improved'",
+    "Chishio Improved",
+    "Improved Shishio",
+    "Japanese maple 'Chishio Improved'",
+    "Shishio Improved"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 68779,
+    "rhs_url": "https://www.rhs.org.uk/plants/68779/acer-palmatum-chishio-improved-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Chishio Improved' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Chishio Improved'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Shishio Improved'",
+      "Acer palmatum 'Improved Shishio'"
+    ],
+    "cultivar_names": [
+      "Chishio Improved",
+      "Improved Shishio",
+      "Shishio Improved"
+    ],
+    "description": "A dense, bushy small tree, or medium to large rounded shrub, to around 4m tall and wide. Small leaves, to 5cm long, emerge a brilliant pinky-red in spring, becoming green in summer before turning orange-red in autumn. Young stems have red bark and small, reddish flowers are borne in clusters in spring",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "South-facing, East-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "Cottage/Informal Garden, Low Maintenance, Rock Garden, Architectural, City/Courtyard Gardens, Patio/Container Plants",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maple cultivation",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "RHS_WSYD0005588_11427.JPG"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-chishio-improved/01-RHS_WSYD0005588_11427.JPG"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "RHS_WSYD0005588_11427.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/RHS_WSYD0005588_11427.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/68779/acer-palmatum-chishio-improved-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-chishio-improved/01-RHS_WSYD0005588_11427.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 414319,
+          "downloaded_at": "2026-04-14T01:47:42+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。",
+      "suggested_uses": "适合乡村式/自然式花园、低维护花园、岩石园、建筑感种植、城市/庭院花园及露台/容器栽培"
+    },
+    "care": {
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖",
+      "cultivation": "宜栽培于湿润但排水良好的土壤中。夏季必要时应补充浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴晒过度都可能导致叶缘焦枯。参见日本枫树栽培资料。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "株形致密、丛生的小乔木，或中大型圆头灌木，高和冠幅均约 4 米。叶片较小，长可达 5 厘米，春季萌发时呈鲜亮的粉红红色，夏季转绿，秋季变为橙红色。幼枝树皮为红色，春季着生小型淡红色花簇。"
+  },
+  "descriptions_zh": {
+    "preferred": "这个小叶品种春季叶色极其鲜艳。其亮度可与 'Shin deshojo' 相比，但色调更偏深绯红，而非猩红。该色彩在整个春季保持良好，夏季随后转为悦目的绿色。叶片通常 5 或 7 裂，较小，长 3-6 厘米、宽 4-7 厘米。裂片卵形，先端渐尖且轮廓清晰，向外放射展开，分裂深度约达叶基的三分之二或更深。叶缘具较粗锯齿，齿端尖锐。叶柄纤细，长 3.5-4 厘米。嫩枝树皮上侧颜色相当红。这是一种多分枝、长势旺盛的灌木，高可达 5 米；新梢可长达 1 米。不过，植株随着年龄增长，生长速度会减缓。其日文名和英文名中所用名称并不规范。若它确属日本来源，但看起来并非如此，正确名称应为"
+  },
+  "has_mrmaple": false
+}

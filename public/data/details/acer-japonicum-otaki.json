@@ -1,0 +1,518 @@
+{
+  "id": "acer-japonicum-otaki",
+  "canonical_key": "otaki",
+  "canonical_name": "Otaki",
+  "display_name": "Otaki",
+  "chinese_name": "大滝",
+  "scientific_name": "Acer Japonicum 'O Taki'",
+  "species": "Acer japonicum",
+  "top_category": "羽扇槭",
+  "web_group": "大叶羽团扇",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "The leaves have 9-13 lobes which are divided about halfway to the leaf base. Margins Acer maximowiczianum. are deeply toothed, giving a feather-edge appearance. The leaf surface is sometimes sparingly covered with fine, silvery hairs. Spring and summer colors are a deep, rich green, almost a bluegreen in partial shade. Fall color is outstanding with red, crimson, gold, and orange blends. This maple forms a small tree up to 13 ft. (4 m) tall. The name means \"big waterfall.\""
+  },
+  "images": {
+    "count": 8,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/31_大滝 Acer Japonicum 'O Taki'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/31_大滝 Acer Japonicum 'O Taki'/01.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/31_大滝 Acer Japonicum 'O Taki'/02.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/31_大滝 Acer Japonicum 'O Taki'/03.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/31_大滝 Acer Japonicum 'O Taki'/04.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/31_大滝 Acer Japonicum 'O Taki'/05.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/31_大滝 Acer Japonicum 'O Taki'/06.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/31_大滝 Acer Japonicum 'O Taki'/07.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/31_大滝 Acer Japonicum 'O Taki'/08.png"
+    ],
+    "public_original_cover_path": "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/01.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/02.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/03.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/04.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/05.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/06.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/07.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/08.png"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/01-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039031.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/02-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039036.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/03-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039042.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/04-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039048.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/05-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039051.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/06-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039056.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/07-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039061.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/08-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039066.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/09-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039071.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/10-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039076.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/11-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039080.jpg",
+      "/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/01-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087949.jpg",
+      "/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/02-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087952.jpg",
+      "/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/03-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087954.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/01.png",
+    "public_paths": [
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/01.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/02.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/03.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/04.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/05.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/06.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/07.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/31_%E5%A4%A7%E6%BB%9D%20Acer%20Japonicum%20'O%20Taki'/08.png",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/01-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039031.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/02-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039036.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/03-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039042.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/04-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039048.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/05-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039051.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/06-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039056.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/07-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039061.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/08-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039066.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/09-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039071.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/10-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039076.jpg",
+      "/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/11-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039080.jpg",
+      "/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/01-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087949.jpg",
+      "/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/02-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087952.jpg",
+      "/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/03-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087954.jpg"
+    ],
+    "public_count": 22
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "31",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/31.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=32",
+      "top_group_name": "羽扇槭",
+      "second_group_name": "大叶羽团扇",
+      "title": "大滝 Acer Japonicum 'O Taki'",
+      "description": "大 滝 于 1923 年由 Tozuka momiji En 发现，叶子又圆又 大叶裂很浅，春天嫩绿色叶片表面会有白色的绒毛，夏 天深绿色，秋天会有明亮的橙红橙黄色，成年树高约 2-3 米。",
+      "image_count": 8
+    },
+    {
+      "source": "timber_press",
+      "name": "Otaki",
+      "page_range": "201",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 65864,
+      "detail_url": "https://www.rhs.org.uk/plants/65864/acer-japonicum-o-taki/details",
+      "botanical_name": "Acer japonicum 'Ō-taki'",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "Acer japonicum 'Otaki' Full Moon Japanese Maple",
+      "handle": "buy-acer-japonicum-otaki-full-moon-japanese-maple",
+      "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 11,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "FOR PICKUP ONLY | Acer japonicum 'Otaki' Full Moon Japanese Maple | DOES NOT SHIP",
+      "handle": "copy-of-acer-japonicum-otaki-full-moon-japanese-maple",
+      "product_url": "https://mrmaple.com/products/copy-of-acer-japonicum-otaki-full-moon-japanese-maple",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 3,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer japonicum 'Ō-taki'",
+    "O Taki",
+    "Otaki",
+    "Ō-taki",
+    "大滝",
+    "大滝 Acer Japonicum 'O Taki'"
+  ],
+  "search_terms": [
+    "Acer Japonicum 'O Taki'",
+    "Acer japonicum",
+    "Acer japonicum 'Ō-taki'",
+    "O Taki",
+    "Otaki",
+    "Ō-taki",
+    "大叶羽团扇",
+    "大滝",
+    "大滝 Acer Japonicum 'O Taki'",
+    "羽扇槭"
+  ],
+  "source_count": 5,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 65864,
+    "rhs_url": "https://www.rhs.org.uk/plants/65864/acer-japonicum-o-taki/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer japonicum 'Ō-taki'",
+    "species_name": "Acer japonicum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Ō-taki"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "叶片有 9-13 个裂片，约裂至叶基的一半。叶缘具深裂锯齿，呈羽缘状。叶面有时稀疏覆有细小的银色茸毛。春夏叶色为浓郁深绿，在半阴环境下几乎呈蓝绿色。秋色极为出色，混合红色、深红、金色与橙色。该品种可形成一株小乔木，高可达 13 英尺（4 米）。“big waterfall”之名意为“大瀑布”。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 2,
+    "local_file_count": 14,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/01-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039031.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/01-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039031.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/02-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039036.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/03-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039042.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/04-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039048.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/05-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039051.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/06-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039056.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/07-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039061.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/08-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039066.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/09-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039071.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/10-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039076.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/11-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039080.jpg",
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/01-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087949.jpg",
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/02-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087952.jpg",
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/03-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087954.jpg"
+    ],
+    "products": [
+      {
+        "title": "Acer japonicum 'Otaki' Full Moon Japanese Maple",
+        "handle": "buy-acer-japonicum-otaki-full-moon-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+        "product_type": "",
+        "tags": [
+          "10 @ 10 AM",
+          "Cold Hardiness Zone_Zone 5",
+          "Cold Hardiness Zone_Zone 6",
+          "Cold Hardiness Zone_Zone 7",
+          "Cold Hardiness Zone_Zone 8",
+          "Cold Hardiness Zone_Zone 9",
+          "Colors_Green",
+          "Full Moon",
+          "Habitat Conditions_Shady Areas",
+          "Habitat Conditions_Sunlit Areas",
+          "OHDISCOUNT",
+          "Size_Medium",
+          "Species_Acer japonicum",
+          "Sun In_Zone 5",
+          "Sun In_Zone 6",
+          "Sun In_Zone 7",
+          "Type_Japanese Maple"
+        ],
+        "description_text": "ACER JAPONICUM 'OTAKI' OTAKI - FULL MOON JAPANESE MAPLE ZONES 5-9 'Otaki' is a popular full moon Japanese maple with with a large leaf and an exceptional bright red fall color. 'Otaki' may reach 8 ft in height in 10 years. It's best to give 'Otaki' some protection from the hot afternoon sun for best growth rate and fall color. According to Yano",
+        "published_at": "2026-04-07T10:00:08-04:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer japonicum",
+        "matched_title_cultivar": "Otaki",
+        "images": {
+          "count": 11,
+          "downloaded_count": 11,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/01-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039031.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/02-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039036.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/03-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039042.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/04-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039048.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/05-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039051.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/06-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039056.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/07-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039061.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/08-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039066.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/09-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039071.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/10-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039076.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/11-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039080.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039031.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039031.jpg?v=1722542004",
+              "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/01-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039031.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 696840,
+              "downloaded_at": "2026-04-14T02:18:08+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039036.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039036.jpg?v=1722542010",
+              "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/02-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039036.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 377547,
+              "downloaded_at": "2026-04-14T02:18:10+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039042.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039042.jpg?v=1722542015",
+              "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/03-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039042.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 108974,
+              "downloaded_at": "2026-04-14T02:18:08+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 4,
+              "filename": "Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039048.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039048.jpg?v=1722542021",
+              "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/04-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039048.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 133282,
+              "downloaded_at": "2026-04-14T02:18:08+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 5,
+              "filename": "Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039051.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039051.jpg?v=1722542026",
+              "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/05-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039051.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 149063,
+              "downloaded_at": "2026-04-14T02:18:08+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 6,
+              "filename": "Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039056.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039056.jpg?v=1722542031",
+              "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/06-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039056.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 138772,
+              "downloaded_at": "2026-04-14T02:18:09+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 7,
+              "filename": "Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039061.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039061.jpg?v=1722542036",
+              "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/07-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039061.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 114889,
+              "downloaded_at": "2026-04-14T02:18:09+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 8,
+              "filename": "Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039066.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039066.jpg?v=1722542041",
+              "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/08-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039066.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 107109,
+              "downloaded_at": "2026-04-14T02:18:09+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 9,
+              "filename": "Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039071.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039071.jpg?v=1722542045",
+              "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/09-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039071.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 106433,
+              "downloaded_at": "2026-04-14T02:18:09+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 10,
+              "filename": "Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039076.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039076.jpg?v=1722542050",
+              "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/10-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039076.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 109219,
+              "downloaded_at": "2026-04-14T02:18:09+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 11,
+              "filename": "Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039080.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039080.jpg?v=1722542055",
+              "product_url": "https://mrmaple.com/products/buy-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-japonicum-otaki-full-moon-japanese-maple/11-Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039080.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 137258,
+              "downloaded_at": "2026-04-14T02:18:10+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      },
+      {
+        "title": "FOR PICKUP ONLY | Acer japonicum 'Otaki' Full Moon Japanese Maple | DOES NOT SHIP",
+        "handle": "copy-of-acer-japonicum-otaki-full-moon-japanese-maple",
+        "product_url": "https://mrmaple.com/products/copy-of-acer-japonicum-otaki-full-moon-japanese-maple",
+        "product_type": "",
+        "tags": [
+          "4thSale",
+          "bcelebration",
+          "blkfriday2025",
+          "BSaving25",
+          "dec3",
+          "EARLYBIRD26",
+          "FALLSALE25",
+          "julyxmas",
+          "LocalPickup",
+          "NEWYEARS26",
+          "OHDISCOUNT",
+          "VDAYSALE26"
+        ],
+        "description_text": "ACER JAPONICUM 'OTAKI' OTAKI - FULL MOON JAPANESE MAPLE ZONES 5-9 'Otaki' is a popular full moon Japanese maple with with a large leaf and an exceptional bright red fall color. 'Otaki' may reach 8 ft in height in 10 years. It's best to give 'Otaki' some protection from the hot afternoon sun for best growth rate and fall color. According to Yano",
+        "published_at": "2025-12-03T09:00:13-05:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer japonicum",
+        "matched_title_cultivar": "Otaki",
+        "images": {
+          "count": 3,
+          "downloaded_count": 3,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/01-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087949.jpg",
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/02-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087952.jpg",
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/03-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087954.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087949.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087949.jpg?v=1756343820",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/01-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087949.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 970741,
+              "downloaded_at": "2026-04-14T02:36:48+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087952.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087952.jpg?v=1756343820",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/02-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087952.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 696839,
+              "downloaded_at": "2026-04-14T02:36:47+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087954.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087954.jpg?v=1756343820",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-japonicum-otaki-full-moon-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-japonicum-otaki-full-moon-japanese-maple/03-FOR_PICKUP_ONLY_Acer_japonicum_Otaki_Full_Moon_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2087954.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 376951,
+              "downloaded_at": "2026-04-14T02:36:46+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

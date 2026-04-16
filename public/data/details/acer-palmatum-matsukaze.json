@@ -1,0 +1,190 @@
+{
+  "id": "acer-palmatum-matsukaze",
+  "canonical_key": "matsukaze",
+  "canonical_name": "Matsukaze",
+  "display_name": "Matsukaze",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Matsukaze'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "green",
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar with deeply cut leaves makes a handsome landscape plant. The spring color is a spectacular bronzered to purple-red. The bright yellow-green veins add a special effect. The medium-sized leaves develop a rich green in the summer, turning a Acer rich carmine and crimson in the fall. They have the seven long, narrow, elliptic-ovate lobes which toothing taper to long, slender points. The margins are tends double-toothed. The leafstalks are long and right, slender. Growth habit is vigorous, and the cultiliage var becomes a broad shrub up to 13 ft. (4 m) or preted so tall, with graceful, cascading branches. It needs space to spread in order to display its"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-matsukaze/01-vaem04980.jpg",
+      "/rhs-images/acer-palmatum-matsukaze-momiji_kaede/01-vaem04980.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-matsukaze/01-vaem04980.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-matsukaze/01-vaem04980.jpg",
+      "/rhs-images/acer-palmatum-matsukaze-momiji_kaede/01-vaem04980.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Matsukaze",
+      "page_range": "104-107",
+      "group": "Matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 56763,
+      "detail_url": "https://www.rhs.org.uk/plants/56763/acer-palmatum-matsukaze/details",
+      "botanical_name": "Acer palmatum 'Matsukaze'",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Matsukaze",
+      "page_range": "171-172",
+      "group": "matsumurae",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Matsukaze'",
+    "Japanese maple 'Matsukaze'",
+    "Matsukaze"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Matsukaze'",
+    "Japanese maple 'Matsukaze'",
+    "Matsukaze"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 56763,
+    "rhs_url": "https://www.rhs.org.uk/plants/56763/acer-palmatum-matsukaze/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Matsukaze'",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Matsukaze'"
+    ],
+    "cultivar_names": [
+      "Matsukaze"
+    ],
+    "description": "Vigorous, broad, shrubby tree to about 4m tall with graceful, cascading branches. Leaves emerging in spring are bronze-red to purple-red with bright green veins, then developing into rich green in summer, following on to deep red and crimson in the autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H5 (hardy - cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Wildlife Gardens"
+    },
+    "care": {
+      "cultivation": "Grow in moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Acer leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maple cultivation",
+      "pruning": "Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "vaem04980.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-matsukaze/01-vaem04980.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-matsukaze-momiji_kaede/01-vaem04980.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "vaem04980.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/vaem04980.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/56763/acer-palmatum-matsukaze/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-matsukaze/01-vaem04980.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 268164,
+          "downloaded_at": "2026-04-14T01:47:51+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 1,
+          "filename": "vaem04980.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/vaem04980.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/56763/acer-palmatum-matsukaze/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-matsukaze-momiji_kaede/01-vaem04980.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 268164,
+          "downloaded_at": "2026-04-14T01:47:50+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "care": {
+      "pruning": "修剪第 1 组：仅限在晚秋至仲冬期间进行。",
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。",
+      "cultivation": "宜栽于保水性好且排水良好的土壤中，位置以避风庇护处为佳。叶色在半阴环境下表现最佳；若土壤能持续保持湿润，也可耐全日照。槭树叶焦常因土壤缺水或暴露过度所致。参见 Japanese maple cultivation。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
+    },
+    "description": "生长旺盛，形成宽展、灌木状小乔木，高约 4 米，枝条优雅下垂。春季新叶为古铜红至紫红色，并具鲜绿色叶脉；夏季转为浓绿色；秋季再变为深红与绯红色。",
+    "attributes": {
+      "suggested_uses": "城市/庭院花园、乡村/自然式花园、野生动物友好型花园"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一深裂品种是极具观赏价值的园林树种。春叶色彩十分醒目，为铜红色至紫红色，鲜绿色叶脉增添了特殊的观赏效果。夏季叶色转为浓绿色，秋季再转为浓郁的洋红色和深红色。叶长 7-8 厘米，深裂，具 7 个细长、狭窄的椭圆状卵形裂片，裂片渐尖成长而纤细的尖端。各裂片往往彼此靠拢而非向外放射，因此整叶展开宽度仅 8-9 厘米。裂片在距叶基约 5 毫米处相连。叶缘具重锯齿。叶柄细长，长约 4-5 厘米。该品种生长势旺盛，在快速生长的幼株上，部分新梢可长 0.5-1 米，而老枝上的生长则短得多。‘Matsukaze’ 一名意为“松风”，是日本 12 至 13 世纪著名能剧之一的标题。由于其株型近似 dissectum 类型，且叶片极狭、深裂，‘Matsukaze’ 也曾以 ‘Dissectum Matsukaze’、‘Machi kaze’ 和 ‘Pendulum Matsukaze’ 等名称流通。其名称也曾被误拼为 ‘Matsukase’。"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

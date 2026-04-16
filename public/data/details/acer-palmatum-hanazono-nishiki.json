@@ -1,0 +1,61 @@
+{
+  "id": "acer-palmatum-hanazono-nishiki",
+  "canonical_key": "hanazono nishiki",
+  "canonical_name": "Hanazono nishiki",
+  "display_name": "Hanazono nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Hanazono nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "This shy variegate, whose name means \"variegated flower garden,\" is beautiful when carefully grown. Heavy fertilization suppresses the variegations. The usually fivelobed leaves have a pale green base color and range from 3 to 6 cm in size. Variegations are mostly of the kiri fu (cut in) type with some additional irregular marking. Colors range from pink to cream, the pink being predominant when leaves first develop in the spring. Twigs also have faint pink markings in the young bark. The pink cultivar"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Hanazono nishiki",
+      "page_range": "146",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Hanazono nishiki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Hanazono nishiki'",
+    "Hanazono nishiki"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "这是一种较为含蓄的斑叶品种，其名称意为“花园锦”，在精心栽培下极具美感。施肥过重会抑制其斑纹表现。叶片通常为五裂，底色浅绿，叶片大小多在 3 至 6 厘米之间。斑纹主要属于 kiri fu（切入斑）类型，并伴有一些不规则斑驳。颜色从粉色到乳白色不等，其中春季新叶初展时以粉色最为明显。嫩枝树皮上也带有淡淡的粉色斑痕。粉色品种 'Karasu gawa' 更为人熟知。相较之下，较少见的 'Hanazono nishiki' 生长势不强，通常很少超过 2 米高。"
+  },
+  "has_mrmaple": false
+}

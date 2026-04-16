@@ -1,0 +1,115 @@
+{
+  "id": "acer-tataricum-emerald-elf",
+  "canonical_key": "emerald elf",
+  "canonical_name": "Emerald Elf",
+  "display_name": "Emerald Elf",
+  "chinese_name": null,
+  "scientific_name": "Acer tataricum 'Emerald Elf'",
+  "species": "Acer tataricum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "Rarely exceeding 6 ft. (1.8 m) and wide, this compact dense rounded dwarf glossy green foliage which turns a vivid burin the fall. 'Emerald Elf' prefers full sun light shade and makes an excellent patio or plant."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Emerald Elf",
+      "page_range": "210",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 197173,
+      "detail_url": "https://www.rhs.org.uk/plants/197173/acer-tataricum-emerald-elf/details",
+      "botanical_name": "Acer tataricum 'Emerald Elf'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer tataricum 'Emerald Elf'",
+    "Emerald Elf"
+  ],
+  "search_terms": [
+    "Acer tataricum",
+    "Acer tataricum 'Emerald Elf'",
+    "Emerald Elf"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 197173,
+    "rhs_url": "https://www.rhs.org.uk/plants/197173/acer-tataricum-emerald-elf/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer tataricum 'Emerald Elf'",
+    "species_name": "Acer tataricum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Emerald Elf"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该品种高和冠幅很少超过 6 英尺（1.8 米），株形紧凑、稠密、圆整，叶片有光泽，呈绿色，秋季转为鲜艳的灼亮色调。‘Emerald Elf’ 适合全日照至轻度遮阴环境，是优秀的露台栽培或容器栽培品种。"
+  },
+  "has_mrmaple": false
+}

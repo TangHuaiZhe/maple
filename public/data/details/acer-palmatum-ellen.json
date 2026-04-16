@@ -1,0 +1,148 @@
+{
+  "id": "acer-palmatum-ellen",
+  "canonical_key": "ellen",
+  "canonical_name": "Ellen",
+  "display_name": "Ellen",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Ellen'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dissectum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "A vigorous, fresh green laceleaf with a very low wide-spreading growth habit, 'Ellen' reaches about 3 ft. (1 m) tall in 10 years, with a spread of 8 ft. (2.5 m). The new leaves are yellow-green, becoming medium green in the summer, then turning clear yellow in the fall. The large sevento nine-lobed deeply dissected leaves are very variable in size. Each lobe is itself coarsely and deeply toothed. The stiff leafstalks are swollen and hooked at the base. The name honors a daughter-in-law of Dutch nurseryman D. M. van Gelderen, who selected this cultivar."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Ellen",
+      "page_range": "64",
+      "group": "Dissectum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 180663,
+      "detail_url": "https://www.rhs.org.uk/plants/180663/acer-palmatum-ellen-(d)/details",
+      "botanical_name": "Acer palmatum 'Ellen' (D)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Ellen",
+      "page_range": "136-137",
+      "group": "dissectum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Ellen' (D)",
+    "Ellen",
+    "Japanese maple 'Ellen'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Ellen'",
+    "Acer palmatum 'Ellen' (D)",
+    "Ellen",
+    "Japanese maple 'Ellen'"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 180663,
+    "rhs_url": "https://www.rhs.org.uk/plants/180663/acer-palmatum-ellen-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Ellen' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Ellen'"
+    ],
+    "cultivar_names": [
+      "Ellen"
+    ],
+    "description": "A delicate, deciduous, spreading, shrubby tree about 1.5m tall and 2.5m wide, forming a weeping dome of finely dissected, fresh green foliage, opening pale green and turning yellow and orange in autumn; ideal for containers or in a raised rockery",
+    "dimensions": {
+      "height": "1.5-2.5 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree, Shrub",
+      "habit": "Pendulous/Weeping",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Patio/Container Plants, Rock Garden",
+      "hort_group_description": "Acers in this dissectum group have fine, feathery, deeply divided leaves with finely serrated edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "姿态轻盈的落叶性开展灌木状小乔木，高约 1.5 米、宽约 2.5 米，形成下垂拱圆树冠。叶片细裂，初展为淡绿色，随后呈清新的绿色，秋季转为黄色和橙色；非常适合容器栽培或配置于抬高式岩石园中。",
+    "attributes": {
+      "suggested_uses": "城市/庭院花园、乡村风格/自然式花园、花境与花坛、庭院/容器植物、岩石园",
+      "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "‘Ellen’ 是一个生长强健、叶色清新的绿色线裂型品种，树形极矮而横向扩展。10 年生时高约 3 英尺（1 米），冠幅可达 8 英尺（2.5 米）。新叶黄绿色，夏季转为中绿色，秋季则变为明亮的黄色。大型叶片深裂，通常有 7 至 9 裂，裂片大小变化很大；每个裂片本身又具粗而深的锯齿。叶柄坚挺，基部膨大并略呈钩状。该品种名称是为荷兰苗圃家 D. M. van Gelderen 的一位儿媳而命名，他即为该品种的选育者。‘Emerald Lace’ Acer Gregory。Dissectum Group—green。这个有趣的品种比大多数绿色羽裂类日本枫叶色更深，叶姿细致如 lace，且生长迅速。叶片 5 至 7 裂，春季为黄绿色，至盛夏逐渐加深，秋季转为鲜亮的酒红色。绿色叶柄细长但坚挺。‘Emerald Lace’ 生长势强，形成不规则、半直立而开展的灌木状树形，枝条细长下垂。最终高度和冠幅可达 10 至 13 英尺（3 至 4 米）。"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

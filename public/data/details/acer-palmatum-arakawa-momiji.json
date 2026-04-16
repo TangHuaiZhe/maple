@@ -1,0 +1,65 @@
+{
+  "id": "acer-palmatum-arakawa-momiji",
+  "canonical_key": "arakawa momiji",
+  "canonical_name": "Arakawa momiji",
+  "display_name": "Arakawa momiji",
+  "chinese_name": "荒皮红叶",
+  "scientific_name": "Acer palmatum",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "荒皮系列",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": ""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "207",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/207.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=62",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "荒皮系列",
+      "title": "荒皮红叶Acer palmatum‘Arakawa momiji'",
+      "description": "",
+      "image_count": 0
+    }
+  ],
+  "aliases": [
+    "Arakawa momiji",
+    "荒皮红叶",
+    "荒皮红叶Acer palmatum'Arakawa momiji'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Arakawa momiji",
+    "荒皮系列",
+    "荒皮红叶",
+    "荒皮红叶Acer palmatum'Arakawa momiji'",
+    "鸡爪槭"
+  ],
+  "source_count": 1,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": false,
+  "rhs": null,
+  "has_mrmaple": false,
+  "descriptions_zh": {
+    "preferred": "荒皮系品种，以较早形成的粗糙木栓化树皮著称，冬季观赏性尤其突出。叶片为典型掌状叶，生长期以绿色为主，适合重视树皮质感与四季变化的庭院种植。"
+  }
+}

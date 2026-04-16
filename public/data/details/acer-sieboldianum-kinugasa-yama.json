@@ -1,0 +1,118 @@
+{
+  "id": "acer-sieboldianum-kinugasa-yama",
+  "canonical_key": "kinugasa yama",
+  "canonical_name": "Kinugasa yama",
+  "display_name": "Kinugasa yama",
+  "chinese_name": null,
+  "scientific_name": "Acer sieboldianum 'Kinugasa yama'",
+  "species": "Acer sieboldianum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "The foliage is a distinct blue-green color and heavily covered with silvery hairs. Fall colors are blends of brilliant orange and red. The medium-sized leaves have seven to nine lobes which separate at least halfway to the base. 'Kinugasa yama' is a stocky, round-topped small tree which reaches 20-23 ft. (6-7 m) high. The name means \"silk umbrella,\" referring to the silky hairiness of the leaves."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Kinugasa yama",
+      "page_range": "209",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 83059,
+      "detail_url": "https://www.rhs.org.uk/plants/83059/acer-sieboldianum-kinugasayama/details",
+      "botanical_name": "Acer sieboldianum 'Kinugasayama'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer sieboldianum 'Kinugasayama'",
+    "Kinugasa yama",
+    "Kinugasayama"
+  ],
+  "search_terms": [
+    "Acer sieboldianum",
+    "Acer sieboldianum 'Kinugasa yama'",
+    "Acer sieboldianum 'Kinugasayama'",
+    "Kinugasa yama",
+    "Kinugasayama"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 83059,
+    "rhs_url": "https://www.rhs.org.uk/plants/83059/acer-sieboldianum-kinugasayama/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer sieboldianum 'Kinugasayama'",
+    "species_name": "Acer sieboldianum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Kinugasayama"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "叶色为独特的蓝绿色，且叶面密被银色茸毛。秋色为鲜亮橙色与红色的混合。中等大小的叶片具 7 至 9 个裂片，裂至至少叶基的一半。'Kinugasa yama' 为株形敦实、圆头的小乔木，高可达 20 至 23 英尺（6 至 7 米）。其名称意为“丝伞”，指叶片具丝质般的茸毛。"
+  },
+  "has_mrmaple": false
+}

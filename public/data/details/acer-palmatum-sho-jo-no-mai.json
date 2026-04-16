@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-sho-jo-no-mai",
+  "canonical_key": "sho jo no mai",
+  "canonical_name": "Sho\\jo\\-no-mai",
+  "display_name": "Sho\\jo\\-no-mai",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Sho\\jo\\-no-mai'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "'Sho\\jo\\-no-mai', whose name means the \"dancing redfaced monkey,\" is one of the best of the 'Beni shichihenge' spring-color group of variegated palmatums. The basic leaf color is medium green to gray green with attractive deep pink edging and tips, sometimes extending more than halfway toward the leaf base. The variegation causes the lobe tips to bend outward, creating a delightful windblown effect. The mainly five-lobed irregular-shaped small leaves divide three-quarters of the way to the leaf base and measure 3.5-4.5 cm long and 4-5 cm wide. The longovate lobes often have curved sharp-pointed tips. The margins are distinctly coarse toothed. The petioles are short and slender, up to 2 cm long. This cultivar is very similar to"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Sho\\jo\\-no-mai",
+      "page_range": "215",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 181371,
+      "detail_url": "https://www.rhs.org.uk/plants/181371/acer-palmatum-shojo-no-mai-(p)/details",
+      "botanical_name": "Acer palmatum 'Shōjō-no-mai' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Shōjō-no-mai' (P)",
+    "Sho\\jo\\-no-mai",
+    "Shōjō-no-mai"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Sho\\jo\\-no-mai'",
+    "Acer palmatum 'Shōjō-no-mai' (P)",
+    "Sho\\jo\\-no-mai",
+    "Shōjō-no-mai"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 181371,
+    "rhs_url": "https://www.rhs.org.uk/plants/181371/acer-palmatum-shojo-no-mai-(p)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Shōjō-no-mai' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Shōjō-no-mai"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "'Sho\\jo\\-no-mai'，其名称意为“起舞的红脸猴”，是 'Beni shichihenge' 春色斑叶 palmatum 类群中表现最优秀的品种之一。叶片基色为中绿色至灰绿色，叶缘与叶尖带有迷人的深粉色，斑色有时可向叶基延伸超过一半。斑锦使裂片尖端向外翻卷，形成悦目的迎风效果。叶片多为 5 裂，形状不规则，较小，裂深达叶基的四分之三，长 3.5-4.5 厘米，宽 4-5 厘米。狭长卵形裂片常具弯曲的锐尖。叶缘具明显的粗锯齿。叶柄短而细，长可达 2 厘米。该品种在生长势、株形和叶态等各方面都与 'Beni shichihenge' 非常相似。不同之处在于，"
+  },
+  "has_mrmaple": false
+}

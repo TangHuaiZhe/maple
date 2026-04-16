@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-murasaki-hime",
+  "canonical_key": "murasaki hime",
+  "canonical_name": "Murasaki hime",
+  "display_name": "Murasaki hime",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Murasaki hime'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "As the name implies (murasaki means \"purple\" and hime means \"dwarf\"), this cultivar is a purple-leaved dwarf. It purple becomes green red inside the plant where the leaves are shaded. Color tones vary within the plant. This cultivar seems a little delicate and not vigorous. The name has been misspelled"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Murasaki hime",
+      "page_range": "176",
+      "group": "dwarf",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 206655,
+      "detail_url": "https://www.rhs.org.uk/plants/206655/acer-palmatum-murasaki-hime-(dw)/details",
+      "botanical_name": "Acer palmatum 'Murasaki-hime' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Murasaki-hime' (Dw)",
+    "Murasaki hime",
+    "Murasaki-hime"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Murasaki hime'",
+    "Acer palmatum 'Murasaki-hime' (Dw)",
+    "Murasaki hime",
+    "Murasaki-hime"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 206655,
+    "rhs_url": "https://www.rhs.org.uk/plants/206655/acer-palmatum-murasaki-hime-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Murasaki-hime' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Murasaki-hime"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "顾名思义（murasaki 意为“紫色”，hime 意为“矮性”），该品种是一个紫叶矮生类型。植株内部受遮阴的叶片，紫色会转偏绿红色，因此同一株上的色调会有所变化。该品种看起来稍显娇弱，生长势也不强。其名称曾被误拼为 ‘Murasaka hime’。"
+  },
+  "has_mrmaple": false
+}

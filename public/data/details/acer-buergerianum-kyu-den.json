@@ -1,0 +1,125 @@
+{
+  "id": "acer-buergerianum-kyu-den",
+  "canonical_key": "kyu den",
+  "canonical_name": "Kyu¯den",
+  "display_name": "Kyu¯den",
+  "chinese_name": null,
+  "scientific_name": "Acer buergerianum 'Kyu¯den'",
+  "species": "Acer buergerianum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "This dwarf dense bush has small, very thick, shiny, evergreen leaves. The lobes are short, rounded, and blunt-tipped. The new leaves are an attractive red-brown, becoming green for the summer, before turning yellow to orange in the fall. The name means \"palace.\""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Kyu¯den",
+      "page_range": "193-194",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 197936,
+      "detail_url": "https://www.rhs.org.uk/plants/197936/acer-buergerianum-kyuden/details",
+      "botanical_name": "Acer buergerianum 'Kyūden'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer buergerianum 'Kyūden'",
+    "Acer buergerianum 'Miyadono'",
+    "Kyu¯den",
+    "Kyūden",
+    "Miyadono"
+  ],
+  "search_terms": [
+    "Acer buergerianum",
+    "Acer buergerianum 'Kyu¯den'",
+    "Acer buergerianum 'Kyūden'",
+    "Acer buergerianum 'Miyadono'",
+    "Kyu¯den",
+    "Kyūden",
+    "Miyadono"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 197936,
+    "rhs_url": "https://www.rhs.org.uk/plants/197936/acer-buergerianum-kyuden/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer buergerianum 'Kyūden'",
+    "species_name": "Acer buergerianum",
+    "common_names": [],
+    "synonyms": [
+      "Acer buergerianum 'Miyadono'"
+    ],
+    "cultivar_names": [
+      "Kyūden",
+      "Miyadono"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这株矮性致密灌木具小型、极厚、具光泽的常绿叶。裂片短、圆钝，先端不尖。新叶呈迷人的红褐色，夏季转绿，秋季再转为黄色至橙色。其名称意为“宫殿”。"
+  },
+  "has_mrmaple": false
+}

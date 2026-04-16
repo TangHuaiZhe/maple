@@ -1,0 +1,260 @@
+{
+  "id": "acer-palmatum-senkaki",
+  "canonical_key": "senkaki",
+  "canonical_name": "Senkaki",
+  "display_name": "Senkaki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Senkaki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "\"small Acer palmatum"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-senkaki/01-WSY0025540_4566.jpg",
+      "/rhs-images/acer-palmatum-senkaki/02-RHS_WSYD0014267_31.JPG",
+      "/rhs-images/acer-palmatum-senkaki/03-RHS_WSYD0001765_31.JPG",
+      "/rhs-images/acer-palmatum-senkaki/04-RHS_MAR0020178_31.JPG",
+      "/rhs-images/acer-palmatum-senkaki/05-GWIS392.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-senkaki/01-WSY0025540_4566.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-senkaki/01-WSY0025540_4566.jpg",
+      "/rhs-images/acer-palmatum-senkaki/02-RHS_WSYD0014267_31.JPG",
+      "/rhs-images/acer-palmatum-senkaki/03-RHS_WSYD0001765_31.JPG",
+      "/rhs-images/acer-palmatum-senkaki/04-RHS_MAR0020178_31.JPG",
+      "/rhs-images/acer-palmatum-senkaki/05-GWIS392.jpg"
+    ],
+    "public_count": 5
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Senkaki",
+      "page_range": "142",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 56417,
+      "detail_url": "https://www.rhs.org.uk/plants/56417/acer-palmatum-sango-kaku-(p)/details",
+      "botanical_name": "Acer palmatum 'Sango-kaku' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Cinnabarinum'",
+    "Acer palmatum 'Sango-kaku' (P)",
+    "Acer palmatum 'Senkaki'",
+    "Acer palmatum var. dissectum 'Sango-kaku'",
+    "Cinnabarinum",
+    "Japanese maple 'Sango-kaku'",
+    "Sango-kaku",
+    "Senkaki",
+    "coral-bark maple"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Cinnabarinum'",
+    "Acer palmatum 'Sango-kaku' (P)",
+    "Acer palmatum 'Senkaki'",
+    "Acer palmatum var. dissectum 'Sango-kaku'",
+    "Cinnabarinum",
+    "Japanese maple 'Sango-kaku'",
+    "Sango-kaku",
+    "Senkaki",
+    "coral-bark maple"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 56417,
+    "rhs_url": "https://www.rhs.org.uk/plants/56417/acer-palmatum-sango-kaku-(p)/details",
+    "match_method": "synonym_full",
+    "botanical_name": "Acer palmatum 'Sango-kaku' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Sango-kaku'",
+      "coral-bark maple"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Senkaki'",
+      "Acer palmatum var. dissectum 'Sango-kaku'",
+      "Acer palmatum 'Cinnabarinum'"
+    ],
+    "cultivar_names": [
+      "Cinnabarinum",
+      "Sango-kaku",
+      "Senkaki"
+    ],
+    "description": "A large deciduous shrub or small tree to 6m, with coral-red young branches bearing 5-lobed leaves which open pinkish-yellow, becoming green in summer and yellow in autumn. Flowers small, reddish",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "West-facing, East-facing, South-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, City/Courtyard Gardens, Patio/Container Plants, Rock Garden, Cottage/Informal Garden, Low Maintenance",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 5,
+      "filenames": [
+        "WSY0025540_4566.jpg",
+        "RHS_WSYD0014267_31.JPG",
+        "RHS_WSYD0001765_31.JPG",
+        "RHS_MAR0020178_31.JPG",
+        "GWIS392.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-senkaki/01-WSY0025540_4566.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-senkaki/02-RHS_WSYD0014267_31.JPG",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-senkaki/03-RHS_WSYD0001765_31.JPG",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-senkaki/04-RHS_MAR0020178_31.JPG",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-senkaki/05-GWIS392.jpg"
+      ],
+      "downloaded_count": 5,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "WSY0025540_4566.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/WSY0025540_4566.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/56417/acer-palmatum-sango-kaku-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-senkaki/01-WSY0025540_4566.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 125965,
+          "downloaded_at": "2026-04-14T01:47:57+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "RHS_WSYD0014267_31.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/RHS_WSYD0014267_31.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/56417/acer-palmatum-sango-kaku-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-senkaki/02-RHS_WSYD0014267_31.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 147122,
+          "downloaded_at": "2026-04-14T01:47:57+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 3,
+          "filename": "RHS_WSYD0001765_31.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/RHS_WSYD0001765_31.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/56417/acer-palmatum-sango-kaku-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-senkaki/03-RHS_WSYD0001765_31.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 104282,
+          "downloaded_at": "2026-04-14T01:47:58+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 4,
+          "filename": "RHS_MAR0020178_31.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/RHS_MAR0020178_31.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/56417/acer-palmatum-sango-kaku-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-senkaki/04-RHS_MAR0020178_31.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 214545,
+          "downloaded_at": "2026-04-14T01:47:58+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 5,
+          "filename": "GWIS392.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/GWIS392.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/56417/acer-palmatum-sango-kaku-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-senkaki/05-GWIS392.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 148405,
+          "downloaded_at": "2026-04-14T01:47:57+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米",
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。",
+      "suggested_uses": "造景观赏、城市庭院、露台/容器栽培、岩石园、乡村/自然式花园、低维护"
+    },
+    "care": {
+      "cultivation": "宜种植于湿润但排水良好的土壤中。夏季如有需要应浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴露过度都可能导致叶片焦枯。",
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "大型落叶灌木或小乔木，高可达 6 米；嫩枝呈珊瑚红色，着生 5 裂叶，展叶时为粉黄绿色，夏季转绿，秋季变黄。花小，带红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "小型 Acer palmatum"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,104 @@
+{
+  "id": "acer-palmatum-shigarami",
+  "canonical_key": "shigarami",
+  "canonical_name": "Shigarami",
+  "display_name": "Shigarami",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Shigarami'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Amoenum",
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The name of this cultivar means \"posts in a river or stream to which boats are tied.\" The spring foliage is a bright green, with the tips of the lobes a light purple which shades a short distance back along each margin. The contrast is quite noticeable. As the leaf matures, the outer half of each lobe becomes purple. Later, in summer, the leaf becomes solid green. Fall colors are rich yellow and orange suffused with red. The seven-lobed leaves are 4-6 cm long and 6-8 cm wide. The lobes radiate stiffly outward, with the two very small basal lobes angled back along the petiole. Each lobe separates two-thirds of the way to the leaf base and has a long-ovate shape with almost parallel sides in the lower part, tapering gradually to a sharp tip. The sides of the lobes tend to turn upwards from the midrib, forming a slight trough. The margins are almost smooth with the horizontal branches give it a layered appearance. After many years it reaches a height of 4 m. The close similarity of 'Shigarami' to 'Tana' has created a slight confusion between the two cultivars. The narrower, parallel-sided lobes and deeper divisions in the leaves of 'Shigarami' distinguish it from 'Tana' which has broader triangular lobes and divisions to about halfway. This cultivar has also been known under the name 'Saku' which may not be synonymous."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Shigarami",
+      "page_range": "149",
+      "group": "Amoenum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 134938,
+      "detail_url": "https://www.rhs.org.uk/plants/134938/acer-palmatum-shigarami-(p)/details",
+      "botanical_name": "Acer palmatum 'Shigarami' (P)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Shigarami",
+      "page_range": "209",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Saku'",
+    "Acer palmatum 'Shigarami' (P)",
+    "Saku",
+    "Shigarami"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Saku'",
+    "Acer palmatum 'Shigarami'",
+    "Acer palmatum 'Shigarami' (P)",
+    "Saku",
+    "Shigarami"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 134938,
+    "rhs_url": "https://www.rhs.org.uk/plants/134938/acer-palmatum-shigarami-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Shigarami' (P)",
+    "species_name": "Acer palmatum",
+    "synonyms": [
+      "Acer palmatum 'Saku'"
+    ],
+    "cultivar_names": [
+      "Saku",
+      "Shigarami"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "该品种名称意为“河流或溪流中系船的桩柱”。春叶鲜绿色，裂片尖端带浅紫色，并沿每个裂片边缘向后延伸一小段，色彩对比相当明显。叶片成熟后，每个裂片的外半部会变为紫色。到夏季后期，叶片转为纯绿色。秋色为浓艳的黄色和橙色，并带红晕。七裂叶长 4 至 6 厘米，宽 6 至 8 厘米。裂片硬挺地向外放射展开，两个很小的基部裂片向后斜指叶柄方向。每个裂片裂至叶基约三分之二处，形状为长卵形，下半部两侧近乎平行，向上逐渐收尖。裂片两侧常自中脉处向上翻卷，形成浅浅的槽状。叶缘近乎平滑。水平展开的枝条使其具有层叠感。多年后株高可达 4 米。'Shigarami' 与 'Tana' 非常相似，因此两者之间曾有些混淆。'Shigarami' 的裂片更狭、两侧更平行，且叶裂更深；而 'Tana' 的裂片较宽、呈三角形，裂刻约达一半。该品种也曾以 'Saku' 之名流传，但两者未必为同物异名。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

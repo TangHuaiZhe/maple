@@ -1,0 +1,193 @@
+{
+  "id": "acer-palmatum-pixie",
+  "canonical_key": "pixie",
+  "canonical_name": "Pixie",
+  "display_name": "Pixie",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Pixie'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar, a possible sport from 'Bloodgood', is similar but for the shorter growth and more deeply cut lobes. New leaves are a bright pink-red, becoming deep red in the summer and turning a fiery scarlet in the fall. The leaves are deeply divided into five to seven widely spreading, broadly ovate lobes with long, pointed tips. The margins are coarsely but regularly toothed. The pink leafstalk is slender and stiff. 'Pixie' forms a dense round-topped bush up to 61⁄2 ft. (2 m) tall and wide. The similar"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-pixie/01-visi69082.jpg",
+      "/rhs-images/acer-palmatum-pixie/02-visi69081.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-pixie/01-visi69082.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-pixie/01-visi69082.jpg",
+      "/rhs-images/acer-palmatum-pixie/02-visi69081.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Pixie",
+      "page_range": "133",
+      "group": "Dwarf",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 114942,
+      "detail_url": "https://www.rhs.org.uk/plants/114942/acer-palmatum-pixie-(dw)/details",
+      "botanical_name": "Acer palmatum 'Pixie' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Pixie' (Dw)",
+    "Japanese maple 'Pixie'",
+    "Pixie"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Pixie'",
+    "Acer palmatum 'Pixie' (Dw)",
+    "Japanese maple 'Pixie'",
+    "Pixie"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 114942,
+    "rhs_url": "https://www.rhs.org.uk/plants/114942/acer-palmatum-pixie-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Pixie' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Pixie'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Pixie"
+    ],
+    "description": "A small, upright, slow-growing tree ultimately to about 2.5m tall and 2m across. The leaves have seven, toothed, tapering lobes opening pink in spring, turning purple-red for summer and bright scarlet in autumn. Small green flowers in spring are followed by winged, red fruit in autumn",
+    "dimensions": {
+      "height": "1.5-2.5 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Patio/Container Plants",
+      "hort_group_description": "Acers in this dwarf group are compact and slow-growing, making them ideal for pots and containers"
+    },
+    "care": {
+      "cultivation": "Grows best in slightly acidic, humus-rich, well-drained soil, but tolerates most soils if improved with well-rotted organic matter . Hot, dry air, cold wind and late frost may cause leaf scorching. Mulch in autumn to protect shallow roots from cold and drying out. See Japanese maple cultivation",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by semi-hardwood cuttings or by layering"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "visi69082.jpg",
+        "visi69081.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-pixie/01-visi69082.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-pixie/02-visi69081.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "visi69082.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi69082.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/114942/acer-palmatum-pixie-(dw)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-pixie/01-visi69082.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 112956,
+          "downloaded_at": "2026-04-14T01:47:56+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "visi69081.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi69081.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/114942/acer-palmatum-pixie-(dw)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-pixie/02-visi69081.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 214823,
+          "downloaded_at": "2026-04-14T01:47:56+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市/庭院花园、乡村/自然式花园、露台/容器栽培",
+      "hort_group_description": "这一矮生类群的 Acer 株形紧凑、生长缓慢，因此非常适合盆栽和容器栽培。"
+    },
+    "care": {
+      "cultivation": "在微酸性、富含腐殖质且排水良好的土壤中生长最佳，但若加入充分腐熟的有机质改良，也能适应多数土壤。炎热干燥的空气、寒风和晚霜可能导致叶片焦枯。秋季覆 mulch，可保护浅根免受寒害和干燥。参见 Japanese maple cultivation。",
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用半成熟枝扦插或压条繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "小型直立、慢生乔木，最终高约 2.5 m，冠幅约 2 m。叶片具 7 个具齿、渐尖的裂片，春季展叶为粉色，夏季转为紫红色，秋季变为鲜亮猩红色。春季开绿色小花，秋季结红色翅果。"
+  },
+  "descriptions_zh": {
+    "preferred": "该品种可能是由 'Bloodgood' 产生的芽变，整体与其相似，但生长更矮，叶裂更深。新叶呈鲜亮的粉红红色，夏季转为深红，秋季则变为炽烈的猩红色。叶片深裂，分为 5 至 7 个宽展的广卵形裂片，先端细长尖锐。叶缘具粗而整齐的锯齿。粉红色叶柄细长而坚挺。'Pixie' 形成致密、圆头状灌木，株高和冠幅可达 6 1/2 英尺（2 米）。相似的 'Skeeter's Broom' 也同样是由 'Bloodgood' 的丛枝变异产生，但其裂片略长。短而圆钝的情况不只出现在中央裂片，任何裂片都可能如此。"
+  },
+  "has_mrmaple": false
+}

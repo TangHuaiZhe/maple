@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-komon-nishiki",
+  "canonical_key": "komon nishiki",
+  "canonical_name": "Komon nishiki",
+  "display_name": "Komon nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Komon nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "This variegated form has fiveor seven-lobed leaves about 3-5 cm long and 4-5 cm wide. The leaves on older wood tend to be even smaller. The lobes join more than two-thirds of the way to the leaf base, are ovate-acuminate, widest in the lower third, and gradually taper to a point. The margins are toothed. The petioles are short, thin, and light green, and 1-2 cm long. The basic color of the foliage is a bright, pale green, but in the spring the new leaves have a rose-tinted edging which blends almost to the center of the lobes. Occasionally, the new tones are almost pink. As the leaves exthe name which means \"small figures on brocade.\" The leaves take on bright crimson tones in the fall. Neither a large-growing plant nor a dwarf, 'Komon nishiki' can attain up to 3 m when planted in a good location in a rock garden. Container-grown, it makes a fine-leaved small plant, and lends itself to bonsai culture."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Komon nishiki",
+      "page_range": "162-163",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 134936,
+      "detail_url": "https://www.rhs.org.uk/plants/134936/acer-palmatum-komon-nishiki-(p-v)/details",
+      "botanical_name": "Acer palmatum 'Komon-nishiki' (P/v)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Komon-nishiki' (P/v)",
+    "Komon nishiki",
+    "Komon-nishiki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Komon nishiki'",
+    "Acer palmatum 'Komon-nishiki' (P/v)",
+    "Komon nishiki",
+    "Komon-nishiki"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 134936,
+    "rhs_url": "https://www.rhs.org.uk/plants/134936/acer-palmatum-komon-nishiki-(p-v)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Komon-nishiki' (P/v)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Komon-nishiki"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一斑叶类型的叶片为五裂或七裂，长约 3-5 厘米，宽约 4-5 厘米。着生于老枝上的叶片往往更小。裂片在超过叶基三分之二处相连，呈卵状渐尖形，在下部三分之一处最宽，随后逐渐收尖。叶缘具锯齿。叶柄短、细、浅绿色，长 1-2 厘米。叶片底色为明亮的浅绿色，但春季新叶边缘带玫瑰色晕染，并几乎渐晕至裂片中央；有时新叶色调几近粉色。叶片展开后，会呈现与其名称“锦上的小纹样”相呼应的观赏效果。秋季叶色转为鲜亮的深红色。'Komon nishiki' 既不属于大型生长型，也不是极矮生型；若栽植于条件良好的岩石园中，可高达 3 米。容器栽培时，它可形成叶片细致的小型植株，也适合盆景栽培。"
+  },
+  "has_mrmaple": false
+}

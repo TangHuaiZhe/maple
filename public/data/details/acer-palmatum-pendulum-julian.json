@@ -1,0 +1,231 @@
+{
+  "id": "acer-palmatum-pendulum-julian",
+  "canonical_key": "pendulum julian",
+  "canonical_name": "Pendulum Julian",
+  "display_name": "Pendulum Julian",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Pendulum Julian'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dissectum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The leaves of this red dissectum are not quite as finely serrated on the deeply cut lobes as they are on some other dissectums. In fact, some of the older wood produces leaves with lobes which are almost lanceolate, and with deeply cut margins, making this cultivar approach the green form"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-pendulum-julian/01-elbo62366.jpg",
+      "/rhs-images/acer-palmatum-pendulum-julian/02-elbo62365.jpg",
+      "/rhs-images/acer-palmatum-pendulum-julian-momiji_kaede/01-elbo62366.jpg",
+      "/rhs-images/acer-palmatum-pendulum-julian-momiji_kaede/02-elbo62365.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-pendulum-julian/01-elbo62366.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-pendulum-julian/01-elbo62366.jpg",
+      "/rhs-images/acer-palmatum-pendulum-julian/02-elbo62365.jpg",
+      "/rhs-images/acer-palmatum-pendulum-julian-momiji_kaede/01-elbo62366.jpg",
+      "/rhs-images/acer-palmatum-pendulum-julian-momiji_kaede/02-elbo62365.jpg"
+    ],
+    "public_count": 4
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Pendulum Julian",
+      "page_range": "131-132",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 78769,
+      "detail_url": "https://www.rhs.org.uk/plants/78769/acer-palmatum-pendulum-julian-(d)/details",
+      "botanical_name": "Acer palmatum 'Pendulum Julian' (D)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Pendulum Julian",
+      "page_range": "194-195",
+      "group": "dissectum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Pendulum Julian' (D)",
+    "Japanese maple 'Pendulum Julian'",
+    "Pendulum Julian"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Pendulum Julian'",
+    "Acer palmatum 'Pendulum Julian' (D)",
+    "Japanese maple 'Pendulum Julian'",
+    "Pendulum Julian"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 78769,
+    "rhs_url": "https://www.rhs.org.uk/plants/78769/acer-palmatum-pendulum-julian-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Pendulum Julian' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Pendulum Julian'"
+    ],
+    "cultivar_names": [
+      "Pendulum Julian"
+    ],
+    "description": "A deciduous shrub or small tree, with a weeping habit forming a low mound to around 1.5m high and 2m wide. Deeply-cut leaves, divided into fine feathery lobes, emerge reddish purple in the spring, turning deep green and bronze in summer, and then striking shades of yellow, orange and red in the autumn",
+    "dimensions": {
+      "height": "1-1.5 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, South-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Spreading/Branched, Pendulous/Weeping",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Low Maintenance, Patio/Container Plants",
+      "hort_group_description": "Acers in this dissectum group have fine, feathery, deeply divided leaves with finely serrated edges"
+    },
+    "care": {
+      "cultivation": "Grow in moisture-retentive, well-drained, ideally slightly acidic soil, in a sheltered position with protection from drying winds. Thrives in part shade, though some sun is needed to develop the leaf colour; will tolerate full sun if soil is reliably moist. Mulch in spring, especially when grown in containers , to improve moisture retention. See Japanese maples cultivation",
+      "pruning": "Minimal pruning required; see pruning group 1 . Prune from late autumn to mid-winter only",
+      "propagation": "Propagate by layering or grafting"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "elbo62366.jpg",
+        "elbo62365.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-pendulum-julian/01-elbo62366.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-pendulum-julian/02-elbo62365.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-pendulum-julian-momiji_kaede/01-elbo62366.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-pendulum-julian-momiji_kaede/02-elbo62365.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "elbo62366.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/elbo62366.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/78769/acer-palmatum-pendulum-julian-(d)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-pendulum-julian/01-elbo62366.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 241312,
+          "downloaded_at": "2026-04-14T01:47:55+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "elbo62365.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/elbo62365.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/78769/acer-palmatum-pendulum-julian-(d)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-pendulum-julian/02-elbo62365.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 192279,
+          "downloaded_at": "2026-04-14T01:47:56+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 1,
+          "filename": "elbo62366.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/elbo62366.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/78769/acer-palmatum-pendulum-julian-(d)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-pendulum-julian-momiji_kaede/01-elbo62366.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 241312,
+          "downloaded_at": "2026-04-14T01:47:55+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "elbo62365.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/elbo62365.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/78769/acer-palmatum-pendulum-julian-(d)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-pendulum-julian-momiji_kaede/02-elbo62365.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 192279,
+          "downloaded_at": "2026-04-14T01:47:55+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "care": {
+      "pruning": "所需修剪极少；参见修剪第 1 组。仅可在晚秋至仲冬期间修剪。",
+      "cultivation": "宜栽培于保水性好、排水良好、最好为微酸性的土壤中，种植位置应避风，并防止干燥风侵袭。半阴环境下生长最佳，但需要一定日照以促进叶色表现；若土壤湿度稳定，也可耐全日照。春季应覆盖 mulch，尤其是容器栽培时，可帮助保持土壤水分。另见 Japanese maples cultivation。",
+      "propagation": "可采用压条或嫁接繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "落叶灌木或小乔木，枝姿下垂，形成低矮圆 mound，约高 1.5 米、宽 2 米。叶片深裂，分裂成细致羽毛状裂片，春季展叶时呈红紫色，夏季转为深绿色并带青铜色调，秋季则变为醒目的黄色、橙色和红色。",
+    "attributes": {
+      "suggested_uses": "造型植物、城市/庭院花园、乡村/自然式花园、花境与花坛、低养护、庭院/容器植物",
+      "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这个红叶裂叶品种的叶片，在深裂裂片上的锯齿不如某些其他裂叶品种那样细密明显。实际上，部分老枝会长出裂片近披针形、叶缘深刻的叶片，使该品种在形态上接近绿色类型 'Palmatifidum'。初展的新叶呈青铜绿色并具绿色叶脉，夏季转为深紫红色。此色泽在夏季维持良好，之后逐渐变为带红色底调的锈绿色；秋季则呈现十分鲜明的深红橙色组合。叶片大小在裂叶品种中属中等，长宽约 7 至 10 厘米。7 个裂片向外辐射舒展，叶柄坚实，长 2 至 3 厘米。植株具明显下垂性，幼株需及早立桩引高，以达到所需高度；枝条先向外开展，再向下垂落。它是一个非常耐寒的类型，可耐 -18°C。老株甚至能在厚重冰层覆盖下存活。Henry Hohman 曾将该品种收藏多年，他可能于 20 世纪 30 年代初从日本横滨苗圃购得。该名称曾被误拼作"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

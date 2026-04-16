@@ -1,0 +1,181 @@
+{
+  "id": "acer-palmatum-beni-kagami",
+  "canonical_key": "beni kagami",
+  "canonical_name": "Beni kagami",
+  "display_name": "Beni kagami",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Beni kagami'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "In the spring, the medium-sized leaves are orange-red to purplish red. Fall color is a bright crimson. The palmate leaves are very deeply divided into seven long, narrowly ovate lobes and have toothed margins. The short leafstalks are bright red. This fairly strong grower forms a spreading medium-sized tree and reaches a height of 26 ft. (8 m) at maturity. The form is quite graceful. The name means \"red mirror.\" Acer Vertrees. KAGAMI' palmatum 'Beni hoshi'. Photo Harold Greer."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-beni-kagami/01-MAR0029909_11436.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-beni-kagami/01-MAR0029909_11436.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-beni-kagami/01-MAR0029909_11436.jpg"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Beni kagami",
+      "page_range": "46",
+      "group": "Matsumurae",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 46877,
+      "detail_url": "https://www.rhs.org.uk/plants/46877/acer-palmatum-beni-kagami-(m)/details",
+      "botanical_name": "Acer palmatum 'Beni-kagami' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Beni-kagami' (M)",
+    "Beni kagami",
+    "Beni-kagami",
+    "Japanese maple 'Beni-kagami'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Beni kagami'",
+    "Acer palmatum 'Beni-kagami' (M)",
+    "Beni kagami",
+    "Beni-kagami",
+    "Japanese maple 'Beni-kagami'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 46877,
+    "rhs_url": "https://www.rhs.org.uk/plants/46877/acer-palmatum-beni-kagami-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Beni-kagami' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Beni-kagami'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Beni-kagami"
+    ],
+    "description": "A vigorous large shrub or small tree, to 8m tall and wide, with deeply-cut, seven-lobed leaves that open purple-red in spring, maturing to a darker maroon red in summer before turning scarlet in autumn. The foliage may take on green undertones if grown in shady sites. Small, red spring flowers are followed by bright red, winged fruits in autumn",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "4-8 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "West-facing, South-facing, East-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "Low Maintenance, Architectural",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maple cultivation",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "MAR0029909_11436.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-beni-kagami/01-MAR0029909_11436.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "MAR0029909_11436.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/MAR0029909_11436.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/46877/acer-palmatum-beni-kagami-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-beni-kagami/01-MAR0029909_11436.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 55004,
+          "downloaded_at": "2026-04-14T01:47:39+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米",
+      "spread": "4-8 米",
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。",
+      "suggested_uses": "低维护；具建筑感。"
+    },
+    "care": {
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖",
+      "cultivation": "宜栽培于湿润但排水良好的土壤中。夏季必要时应补充浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴晒过度都可能导致叶缘焦枯。参见日本枫树栽培资料。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "生长健旺的大型灌木或小乔木，高和冠幅可达 8 米。叶片深裂，7 裂，春季展开时呈紫红色，夏季成熟为更深的栗红色，秋季转为猩红色。若栽植于较阴处，叶色可能带绿色底调。春季开小型红花，秋季结鲜红色翅果。"
+  },
+  "descriptions_zh": {
+    "preferred": "春季叶片中等大小，叶色为橙红至紫红色；秋色鲜艳，为亮绯红色。掌状叶深裂，通常分为 7 枚狭长卵形裂片，裂片极深，边缘具锯齿。叶柄较短，鲜红色。该品种长势较强，成株为开展的中型乔木，成熟时高可达 26 英尺（8 米），树形颇为优雅。其名意为“红镜”。Acer palmatum 'Beni kagami'。照片：Harold Greer。"
+  },
+  "has_mrmaple": false
+}

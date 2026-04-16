@@ -1,0 +1,151 @@
+{
+  "id": "acer-maximowiczianum-o-isami",
+  "canonical_key": "o isami",
+  "canonical_name": "O isami",
+  "display_name": "O isami",
+  "chinese_name": null,
+  "scientific_name": "Acer maximowiczianum 'O isami'",
+  "species": "Acer maximowiczianum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "The lobes of the large round leaves are separated about halfway to the leaf base. The tapering ends of the lobes are deeply notched. New leaves are light yellow-green, becoming a rich green which persists well into the fall without sun burning. Fall colors are red and yellow blends. This vigorous plant forms a roundtopped, medium-sized tree which reaches 23-26 ft. (7-8 m) or more tall. -"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "O isami",
+      "page_range": "201",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 97645,
+      "detail_url": "https://www.rhs.org.uk/plants/97645/acer-japonicum-o-isami/details",
+      "botanical_name": "Acer japonicum 'Ō-isami'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer japonica 'Ohisami'",
+    "Acer japonicum 'Ō-isami'",
+    "O isami",
+    "Ohisami",
+    "downy Japanese maple 'Ō-isami'",
+    "Ō-isami"
+  ],
+  "search_terms": [
+    "Acer japonica 'Ohisami'",
+    "Acer japonicum 'Ō-isami'",
+    "Acer maximowiczianum",
+    "Acer maximowiczianum 'O isami'",
+    "O isami",
+    "Ohisami",
+    "downy Japanese maple 'Ō-isami'",
+    "Ō-isami"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 97645,
+    "rhs_url": "https://www.rhs.org.uk/plants/97645/acer-japonicum-o-isami/details",
+    "match_method": "cultivar",
+    "botanical_name": "Acer japonicum 'Ō-isami'",
+    "species_name": "Acer japonicum",
+    "common_names": [
+      "downy Japanese maple 'Ō-isami'"
+    ],
+    "synonyms": [
+      "Acer japonica 'Ohisami'"
+    ],
+    "cultivar_names": [
+      "Ohisami",
+      "Ō-isami"
+    ],
+    "description": "Round-topped, deciduous tree about 7-8m tall, with sturdy, thick branches and twigs, and 9-11 lobed leaves to 20cm across, with tapered ends deeply notched. Young leaves are pale yellow-green, maturing to a rich green that lasts to autumn when they take on fiery tones of red, yellows and scarlet. Inconspicuous red-purple flowers in spring may be followed by winged, red fruits",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Sand, Loam",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "Cottage/Informal Garden, Wildlife Gardens",
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Very little to no pruning required. For more advice refer to pruning group 1 .",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米",
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。",
+      "pruning": "几乎无需修剪，或仅需极少修剪。更多建议请参阅修剪第 1 组。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
+    },
+    "description": "圆头状落叶乔木，高约 7-8 米，枝条粗壮厚实。叶片具 9-11 裂，展开宽可达 20 厘米，裂片先端渐尖且深裂。幼叶为淡黄绿色，成熟后转为浓绿色并可持续至秋季，随后呈现火焰般的红色、黄色与猩红色。春季开不显眼的红紫色花，之后可能结带翅的红色果实。",
+    "attributes": {
+      "suggested_uses": "适合乡村庭园/自然式庭园、野生动物友好型花园"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "大型圆形叶的裂片约分裂至叶基的一半。裂片渐尖的末端具深缺刻。新叶浅黄绿色，随后转为浓绿色，并能一直保持到秋季而不易发生日灼。秋色为红色与黄色的混合色。该品种生长强健，形成圆头状中型乔木，高可达 7 至 8 米或更高。"
+  },
+  "has_mrmaple": false
+}

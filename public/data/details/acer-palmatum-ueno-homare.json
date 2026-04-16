@@ -1,0 +1,97 @@
+{
+  "id": "acer-palmatum-ueno-homare",
+  "canonical_key": "ueno homare",
+  "canonical_name": "Ueno homare",
+  "display_name": "Ueno homare",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Ueno homare'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The small leaves are deeply divided into five lobes, each lobe elongate-ovate with a long slender tip. The margins are conspicuously toothed, giving the foliage a feathery appearance. One of the eye-catching maples with orange-yellow spring color, 'Ueno homare' is also one of the earliest to come into leaf. The spring leaves are deep yellow with orange-red edging, gradually changing to yellow- HOMARE' green, then bright green in the summer, and turning a bright orange to red in the fall. This excellent, fairly vigorous small upright tree reaches 16 ft. (5 m) or so tall. It provides early spring color in the landscape. The name means \"glorious Ueno,\" after a mountain in the Tokyo area with a park famous for its flowering cherries and flowerviewing parties."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Ueno homare",
+      "page_range": "173-175",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 195000,
+      "detail_url": "https://www.rhs.org.uk/plants/195000/acer-palmatum-ueno-homare-(p)/details",
+      "botanical_name": "Acer palmatum 'Ueno-homare' (P)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Ueno homare",
+      "page_range": "227",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Ueno-homare' (P)",
+    "Ueno homare",
+    "Ueno-homare"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Ueno homare'",
+    "Acer palmatum 'Ueno-homare' (P)",
+    "Ueno homare",
+    "Ueno-homare"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 195000,
+    "rhs_url": "https://www.rhs.org.uk/plants/195000/acer-palmatum-ueno-homare-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Ueno-homare' (P)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Ueno-homare"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "叶片较小，深裂为五裂，每裂片均为长卵形，先端细长。叶缘具明显锯齿，使叶姿呈现羽毛状。‘Ueno homare’ 是春季叶色橙黄色、极为抢眼的槭树品种之一，也是在春季最早展叶的品种之一。春叶为深黄色，边缘带橙红色，随后渐转为黄绿色，夏季鲜绿色，秋季则转为亮橙色至红色。该品种为优良的小型直立树，长势较强，可高达约 16 英尺（5 米）。适合作为景观中的早春色彩植物。其名称意为“光荣的 Ueno”，得名于东京地区的 Ueno 山，该地公园以樱花和赏花聚会闻名。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

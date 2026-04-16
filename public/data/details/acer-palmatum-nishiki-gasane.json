@@ -1,0 +1,102 @@
+{
+  "id": "acer-palmatum-nishiki-gasane",
+  "canonical_key": "nishiki gasane",
+  "canonical_name": "Nishiki gasane",
+  "display_name": "Nishiki gasane",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Nishiki gasane'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "The pattern of variegation is very different from that found in other variegated cultivars. It is the hoshi fu (starlike) type. The deep green leaf is speckled and flecked with gold. In most cases the spots occur in varying amounts and concentrate along the margins. Some markings are tiny and separate, while others merge to form blotches. Occasionally, the variegation occupies almost the entire leaf. When they first unfold, the heavily variegated new leaves have an apricot color shading from the edges into the center. This tone soon fades into the clear gold color of the mature leaf. The palmate leaves have seven, or sometimes five, ovate-acuminate lobes, terminating in a long, slender Corvallis This upright-growing tall shrub or small tree matures up to 3 m high. The growth is vigorous at first but slows considerably after the first few years, and the plant begins to thicken and become twiggy. As with many variegated cultivars, 'Nishiki gasane' especially needs protection from hot afternoon sun to prevent severe burning of the gold variegations. The cultivar"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Nishiki gasane",
+      "page_range": "115-116",
+      "group": "Palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 88977,
+      "detail_url": "https://www.rhs.org.uk/plants/88977/acer-palmatum-nishiki-gasane-(p-v)/details",
+      "botanical_name": "Acer palmatum 'Nishiki-gasane' (P/v)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Nishiki gasane",
+      "page_range": "179",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Nishiki-gasane' (P/v)",
+    "Japanese maple 'Nishiki-gasane'",
+    "Nishiki gasane",
+    "Nishiki-gasane"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Nishiki gasane'",
+    "Acer palmatum 'Nishiki-gasane' (P/v)",
+    "Japanese maple 'Nishiki-gasane'",
+    "Nishiki gasane",
+    "Nishiki-gasane"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 88977,
+    "rhs_url": "https://www.rhs.org.uk/plants/88977/acer-palmatum-nishiki-gasane-(p-v)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Nishiki-gasane' (P/v)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Nishiki-gasane'"
+    ],
+    "cultivar_names": [
+      "Nishiki-gasane"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "其斑锦类型与其他斑叶品种明显不同，属于 hoshi fu（星点状）类型。深绿色叶片上散布金色斑点和斑驳纹理。多数情况下，这些斑点数量不一，并集中于叶缘；有些斑纹细小而彼此分离，有些则相互融合形成大片斑块。偶尔斑锦几乎覆盖整片叶。新叶初展时，斑锦较重的叶片从叶缘向叶心带有杏色晕染，这种色调很快会褪去，转为成熟叶片上清晰的金色。掌状叶具 7 枚、有时 5 枚卵状渐尖裂片，先端延伸为细长尖尾。该品种为直立生长的高大灌木或小乔木，成熟后高可达 3 米。初期长势旺盛，但数年后生长会明显放缓，植株逐渐变得更为稠密且多细枝。与许多斑叶品种一样，'Nishiki gasane' 尤其需要避免午后烈日，以防金色斑锦发生严重焦枯。品种"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

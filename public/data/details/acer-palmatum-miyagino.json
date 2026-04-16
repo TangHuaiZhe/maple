@@ -1,0 +1,61 @@
+{
+  "id": "acer-palmatum-miyagino",
+  "canonical_key": "miyagino",
+  "canonical_name": "Miyagino",
+  "display_name": "Miyagino",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Miyagino'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "Fall color is the outstanding feature of this cultivar which turns a crimson color flecked with gold or orange. The green leaf holds good color all summer and is pleasing in the garden landscape. The seven-lobed leaves are petioles are slender and about 3 cm long. This medium strong-growing plant becomes a wide, tall bush up to 4 m tall, rather than a strongly upright tree."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Miyagino",
+      "page_range": "173-174",
+      "group": "matsumurae",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Miyagino"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Miyagino'",
+    "Miyagino"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "秋色是该品种最突出的观赏特征，叶片会转为深红色，并点缀金色或橙色斑驳。绿色叶片整个夏季都能保持良好叶色，在园林景观中表现悦目。七裂叶片具细长叶柄，叶柄长约 3 厘米。这一中等偏强生长的品种最终会形成高可达 4 米、开展较宽的大型灌木，而非明显直立的乔木。"
+  },
+  "has_mrmaple": false
+}

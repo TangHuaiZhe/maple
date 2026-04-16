@@ -1,0 +1,189 @@
+{
+  "id": "acer-palmatum-mon-papa",
+  "canonical_key": "mon papa",
+  "canonical_name": "Mon Papa",
+  "display_name": "Mon Papa",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Mon Papa'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "Photo by Peter Gregory. Acer palmatum"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-mon-papa/01-vami08994.jpg",
+      "/rhs-images/acer-palmatum-mon-papa/02-vami08911.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-mon-papa/01-vami08994.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-mon-papa/01-vami08994.jpg",
+      "/rhs-images/acer-palmatum-mon-papa/02-vami08911.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Mon Papa",
+      "page_range": "110",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 150334,
+      "detail_url": "https://www.rhs.org.uk/plants/150334/acer-palmatum-mon-papa-(m)/details",
+      "botanical_name": "Acer palmatum 'Mon Papa' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Mon Papa' (M)",
+    "Japanese maple 'Mon Papa'",
+    "Mon Papa"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Mon Papa'",
+    "Acer palmatum 'Mon Papa' (M)",
+    "Japanese maple 'Mon Papa'",
+    "Mon Papa"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 150334,
+    "rhs_url": "https://www.rhs.org.uk/plants/150334/acer-palmatum-mon-papa-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Mon Papa' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Mon Papa'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Mon Papa"
+    ],
+    "description": "A deciduous shrub or small tree, up to 4m high, with a spreading habit and deeply lobed leaves that emerge reddish and mature to deep olive green flushed with bronze. Autumn colours are rusty orange and red",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, South-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree, Shrub",
+      "habit": "Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, City/Courtyard Gardens, Cottage/Informal Garden, Low Maintenance",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in moisture-retentive, well-drained, ideally slightly acidic soil, in a sheltered position with protection from drying winds. Thrives in part shade, though some sun is needed to develop the leaf colour; will tolerate full sun if soil is reliably moist. Mulch in spring to improve moisture retention. See Japanese maples cultivation",
+      "pruning": "Minimal pruning required; see pruning group 1 . Prune from late autumn to mid-winter only",
+      "propagation": "Propagate by layering or grafting"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "vami08994.jpg",
+        "vami08911.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-mon-papa/01-vami08994.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-mon-papa/02-vami08911.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "vami08994.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/vami08994.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/150334/acer-palmatum-mon-papa-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-mon-papa/01-vami08994.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 340771,
+          "downloaded_at": "2026-04-14T01:47:51+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "vami08911.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/vami08911.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/150334/acer-palmatum-mon-papa-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-mon-papa/02-vami08911.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 302252,
+          "downloaded_at": "2026-04-14T01:47:51+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。",
+      "suggested_uses": "观赏造型、城市/庭院花园、乡村/自然式花园、低养护"
+    },
+    "care": {
+      "pruning": "所需修剪极少；参见修剪第 1 组。仅可在晚秋至仲冬期间修剪。",
+      "cultivation": "宜栽植于保湿性好且排水良好的土壤中，最好为微酸性；选择避风、可防止干燥风侵袭的位置。半阴环境生长最佳，但为使叶色充分表现，仍需一定日照；若土壤能稳定保持湿润，也可耐全日照。春季覆 mulch 以提高土壤保湿性。参见日本枫栽培说明。",
+      "propagation": "可采用压条或嫁接繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "落叶灌木或小乔木，高可达 4 米，株形开展。叶片深裂，初展时带红色，成熟后为深橄榄绿色并泛青铜色。秋叶呈锈橙色和红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "照片：Peter Gregory。Acer palmatum"
+  },
+  "has_mrmaple": false
+}

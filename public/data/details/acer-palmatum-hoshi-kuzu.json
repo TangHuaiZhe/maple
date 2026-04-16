@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-hoshi-kuzu",
+  "canonical_key": "hoshi kuzu",
+  "canonical_name": "Hoshi kuzu",
+  "display_name": "Hoshi kuzu",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Hoshi kuzu'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "The small unusual five-lobed leaves are star-shaped. Each lobe varies in shape according to the degree of variegation and is mostly long and slender, slightly broader in the middle, and gradually tapering to a fine tip which tends to turn down. The margins are faintly toothed. Leaf color is a pleasant light green. In each leaf, there are variegated breaks of varying size and shape. Some leaves are totally pale cream green, others may only have one lobe variegated on the edge. The cream-green may be faintly pink-tinged in the spring. This neat-growing, upright, non-spreading, small shrub blends well with many types of companions and makes a good patio plant. The name means \"star-studded sky.\" 'Hupp's Dwarf' Dwarf Group—green. A choice green dwarf similar to"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Hoshi kuzu",
+      "page_range": "79-80",
+      "group": "Dwarf",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 196227,
+      "detail_url": "https://www.rhs.org.uk/plants/196227/acer-palmatum-hoshi-kuzu-(dw)/details",
+      "botanical_name": "Acer palmatum 'Hoshi-kuzu' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Hoshi-kuzu' (Dw)",
+    "Hoshi kuzu",
+    "Hoshi-kuzu"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Hoshi kuzu'",
+    "Acer palmatum 'Hoshi-kuzu' (Dw)",
+    "Hoshi kuzu",
+    "Hoshi-kuzu"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 196227,
+    "rhs_url": "https://www.rhs.org.uk/plants/196227/acer-palmatum-hoshi-kuzu-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Hoshi-kuzu' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Hoshi-kuzu"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "其小型而特殊的 5 裂叶呈星形。每个裂片会随斑锦程度不同而形态有异，多数狭长，中部略宽，先端逐渐收尖，且常微微下垂。叶缘具浅锯齿。叶色为悦目的浅绿色。每片叶上都有大小和形状不一的斑锦断裂，有的叶片几乎整体呈浅奶油绿色，有的则仅某一个裂片边缘带斑。春季时，这种奶油绿色可能略带粉色晕染。该品种生长整齐，直立、不开展，为小型灌木，易与多种植物搭配，也适合作为庭院盆栽。其名称意为“繁星满天”。 'Hupp's Dwarf' 属 Dwarf Group，绿叶型。它是一个优良的绿色矮生品种，类似于 'Kotohime'、'Mikawa yatsubusa' 和 'Tsukomo'；但比这些品种更紧凑，也比"
+  },
+  "has_mrmaple": false
+}

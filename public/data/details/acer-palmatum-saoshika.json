@@ -1,0 +1,148 @@
+{
+  "id": "acer-palmatum-saoshika",
+  "canonical_key": "saoshika",
+  "canonical_name": "Saoshika",
+  "display_name": "Saoshika",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Saoshika'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "amoenum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "Photo by Peter Gregory. 'Beni kawa' produces new growth that is salmon-red in the winter. The plant comes leaf two weeks later than 'Sango kaku', has slightly slower growth, and only reaches about ft. (3 m) tall in 10 years. 'Fjellheim' arose from a witches'-broom on 'Sango kaku' and has retained all the of its famous parent—the beauticoral-red shoots and the five-lobed leaf shape, and coloring. The notable difference is that is much bushier and shorter, forming a compact bush. Group—green. The star-shaped green leaves are held out horizontally, giva layered effect. New foliage is bright yellowwith red or carmine lobe tips, becoming, in summer, a uniform light green, darkening as advances. Fall color is a striking golden- The medium-sized, moderately deeply dileaves have five to seven ovate lobes terin sharp points. The margins are lightly This plant makes a tall bushy shrub 10 ft. (3 m) high and wide. Older twigs a bright green bark. The name means male Japanese deer.\""
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Saoshika",
+      "page_range": "142",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 69083,
+      "detail_url": "https://www.rhs.org.uk/plants/69083/acer-palmatum-saoshika-(a)/details",
+      "botanical_name": "Acer palmatum 'Saoshika' (A)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Saoshika",
+      "page_range": "203",
+      "group": "amoenum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Saoshika' (A)",
+    "Japanese maple 'Saoshika'",
+    "Saoshika"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Saoshika'",
+    "Acer palmatum 'Saoshika' (A)",
+    "Japanese maple 'Saoshika'",
+    "Saoshika"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 69083,
+    "rhs_url": "https://www.rhs.org.uk/plants/69083/acer-palmatum-saoshika-(a)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Saoshika' (A)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Saoshika'"
+    ],
+    "cultivar_names": [
+      "Saoshika"
+    ],
+    "description": "A bushy, upright, deciduous Japanese maple to about 3m in height, with star-shaped 5 to 7-lobed, bright green, delicate leaves appearing almost transparent when backlit by the sun, the young leaves a bright yellow green tipped red, then light green in summer before turning golden-yellow in autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds",
+      "hort_group_description": "Acers in this amoenum group have large, palm-shaped leaves with finely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "丛生、直立的落叶日本枫，高约 3 米。叶片纤细，呈星形，5 至 7 裂，鲜绿色，在阳光逆光下几乎显得半透明；幼叶为明亮的黄绿色，叶尖带红，夏季转为浅绿色，秋季变为金黄色。",
+    "attributes": {
+      "suggested_uses": "适合城市/庭院花园、乡村/自然式花园、花境及花坛。",
+      "hort_group_description": "此 amoenum 类群中的 Acer 品种具有大型掌状叶，叶缘具细锯齿。"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "照片由 Peter Gregory 提供。'Beni kawa' 的新梢在冬季呈鲑红色。该品种比 'Sango kaku' 晚约两周展叶，生长速度稍慢，10 年后仅约高 10 英尺（3 米）。'Fjellheim' 源自 'Sango kaku' 上的丛枝变异（witches'-broom），保留了其著名亲本的全部特征，包括美丽的珊瑚红色新枝、五裂叶的叶形及叶色。显著区别在于它更加丛生且更矮，形成紧凑灌丛。分组：green。星形绿色叶片平展展开，形成层叠效果。新叶鲜黄色，裂片尖端带红色或胭脂红，夏季转为均一的浅绿色，并随着季节推进而逐渐加深。秋色为醒目的金黄色。中等大小、裂刻中等偏深的叶片具五至七个卵形裂片，裂尖锐。叶缘轻微锯齿。该植株可长成高大而繁茂的灌木，高宽均约 10 英尺（3 米）。老枝树皮鲜绿色。其名称意为“雄性日本鹿”。"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

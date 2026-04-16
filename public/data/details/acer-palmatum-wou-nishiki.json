@@ -1,0 +1,129 @@
+{
+  "id": "acer-palmatum-wou-nishiki",
+  "canonical_key": "wou nishiki",
+  "canonical_name": "Wou nishiki",
+  "display_name": "Wou nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Wou nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The interesting leaves of this cultivar are deeply divided into (five or) seven lobes which are widely separated. The leaves measure 4-6 cm long and 5-6 cm wide. Each lobe is elongate-ovate and separated almost entirely to the center. The leaf base is cuneate. The lobes taper from the center to a long, sharp terminal. The margins are deeply toothed, almost pinnatifid, with light serrations on the larger teeth. The thin reddish petioles are 2 cm long. The new leaves are a bright, almost yellow, green. The edges are strongly tinted with bright rose to rusty red which shades into the leaf. The center of the lobes usu- This upright-growing plant reaches about 4 m high at maturity and tends to be fastigiate, producing many small branches and twigs. It has also been known under the alternative translations"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Wou nishiki",
+      "page_range": "235",
+      "group": "matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 55174,
+      "detail_url": "https://www.rhs.org.uk/plants/55174/acer-palmatum-wou-nishiki/details",
+      "botanical_name": "Acer palmatum 'Wou-nishiki'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Wou-nishiki'",
+    "Acer palmatum 'Ō-nishiki'",
+    "Wou nishiki",
+    "Wou-nishiki",
+    "Ō-nishiki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Wou nishiki'",
+    "Acer palmatum 'Wou-nishiki'",
+    "Acer palmatum 'Ō-nishiki'",
+    "Wou nishiki",
+    "Wou-nishiki",
+    "Ō-nishiki"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 55174,
+    "rhs_url": "https://www.rhs.org.uk/plants/55174/acer-palmatum-wou-nishiki/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Wou-nishiki'",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [
+      "Acer palmatum 'Ō-nishiki'"
+    ],
+    "cultivar_names": [
+      "Wou-nishiki",
+      "Ō-nishiki"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该品种的叶片极具特色，深裂为5裂（或7裂），各裂片之间分离较宽。叶片长4-6厘米、宽5-6厘米。每个裂片为长卵形，几乎一直分裂到叶片中央。叶基楔形。裂片自中部渐尖，末端形成细长锐尖。叶缘深齿裂，近似羽状深裂，较大的齿上还具浅锯齿。细而带红色的叶柄长约2厘米。新叶呈明亮、近黄色的绿色，叶缘强烈染有鲜玫瑰色至锈红色，并向叶面内侧晕染。该植株生长直立，成熟时高约4米，常呈狭柱形，能形成许多细小分枝与小枝。它也曾以其他译名 'Nou nishiki' 和 'O nishiki' 为人所知。"
+  },
+  "has_mrmaple": false
+}

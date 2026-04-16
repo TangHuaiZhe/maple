@@ -1,0 +1,318 @@
+{
+  "id": "acer-palmatum-kamagata",
+  "canonical_key": "kamagata",
+  "canonical_name": "Kamagata",
+  "display_name": "Kamagata",
+  "chinese_name": "鎌形",
+  "scientific_name": "Acer Palmatum 'Kamagata'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "异型叶",
+  "book_groups": [
+    "Dwarf",
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This plant is a dwarf selection of very delicate appearance. It has, however, been very durable and hardy, tol- Corvallis some leaves have only three lobes, widely separated, with side lobes almost at right angles. The lobes are falcate or downward-curved at the tip, curve gently upward at the sides to form a trough shape, and tend to twist slightly, giving the entire plant a lacy delicate look. Each lobe is long and narrow, about 5-7 mm wide at the base and rarely as much as 10 mm in the middle, tapering gradually to a sharp point. The margins are toothed. The lobes separate outward like extended fingers and join only about 1 cm from the base of the leaf. The petioles are very thin but stiff, 2-3 cm long, and are green with one side red. As the leaves unfold in the spring, the edges are strongly tinted with red to rusty red. The early summer foliage becomes a bright, light green. The fall colors are brilliant in shades of yellow and orange, with an occasional touch of red. The leaves remain on the plant well into late fall and thus extend the color period. The shoots are thin and delicate looking but quite durable. Of a bright green color, they grow up to 25 cm long on young plants. The second period of growth, however, forms much side branching which is quite lacy and"
+  },
+  "images": {
+    "count": 10,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/243_鎌形Acer Palmatum 'Kamagata'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/243_鎌形Acer Palmatum 'Kamagata'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/243_鎌形Acer Palmatum 'Kamagata'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/243_鎌形Acer Palmatum 'Kamagata'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/243_鎌形Acer Palmatum 'Kamagata'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/243_鎌形Acer Palmatum 'Kamagata'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/243_鎌形Acer Palmatum 'Kamagata'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/243_鎌形Acer Palmatum 'Kamagata'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/243_鎌形Acer Palmatum 'Kamagata'/08.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/243_鎌形Acer Palmatum 'Kamagata'/09.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/243_鎌形Acer Palmatum 'Kamagata'/10.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/10.jpg"
+    ],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-kamagata/01-GWIS433.jpg",
+      "/rhs-images/acer-palmatum-kamagata/02-visi69024.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-kamagata/01-kamagata-1.webp"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/243_%E9%8E%8C%E5%BD%A2Acer%20Palmatum%20'Kamagata'/10.jpg",
+      "/rhs-images/acer-palmatum-kamagata/01-GWIS433.jpg",
+      "/rhs-images/acer-palmatum-kamagata/02-visi69024.jpg",
+      "/herter-images/acer-palmatum-kamagata/01-kamagata-1.webp"
+    ],
+    "public_count": 13
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "243",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/243.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=29",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "异型叶",
+      "title": "鎌形Acer Palmatum 'Kamagata'",
+      "description": "鎌 形 1970 年由美国俄勒冈州的 JD Vertrees 命名的一个 直立矮生的品种，生长缓慢，相对耐旱，它的特点是叶 边缘会下垂。春天叶子是绿色的叶边缘褐色，夏天转绿， 秋天首先会变成亮黄色或者橙色，最后变成猩红色。成 年树高约 1-1.5 米。",
+      "image_count": 10
+    },
+    {
+      "source": "timber_press",
+      "name": "Kamagata",
+      "page_range": "88",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Kamagata",
+      "page_range": "155",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 86628,
+      "detail_url": "https://www.rhs.org.uk/plants/86628/acer-palmatum-kamagata-(dw)/details",
+      "botanical_name": "Acer palmatum 'Kamagata' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Kamagata Dwarf Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/kamagata-dwarf-japanese-maple/",
+      "description": "Kamagata is a small, bush-like grower. Delicate small leaves are green with a fringe of reddish color. Grows to about 4 ft, makes a great bonsai.",
+      "group": "All Japanese Maples / Dwarf Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Kamagata' (Dw)",
+    "Japanese maple 'Kamagata'",
+    "Kamagata",
+    "鎌形",
+    "鎌形Acer Palmatum 'Kamagata'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Kamagata'",
+    "Acer palmatum",
+    "Acer palmatum 'Kamagata' (Dw)",
+    "Japanese maple 'Kamagata'",
+    "Kamagata",
+    "异型叶",
+    "鎌形",
+    "鎌形Acer Palmatum 'Kamagata'",
+    "鸡爪槭"
+  ],
+  "source_count": 5,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 86628,
+    "rhs_url": "https://www.rhs.org.uk/plants/86628/acer-palmatum-kamagata-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Kamagata' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Kamagata'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Kamagata"
+    ],
+    "description": "Small, compact, shrubby tree eventually growing to about 1.2m tall with slender bright green shoots, and lacy, long, narrow 3-5 lobed bright, light green leaves, the emerging spring leaves edged red, with bright, orange-yellow autumn colour. Inconspicuous red-purple flowers in spring may be followed by winged, purple fruits",
+    "dimensions": {
+      "height": "1-1.5 metres",
+      "spread": "0.5-1 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Patio/Container Plants, Rock Garden",
+      "hort_group_description": "Acers in this dwarf group are compact and slow-growing, making them ideal for pots and containers"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. Suits container cultivation but attention to watering is needed in dry spells during the growing season. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "GWIS433.jpg",
+        "visi69024.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-kamagata/01-GWIS433.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-kamagata/02-visi69024.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "GWIS433.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/GWIS433.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/86628/acer-palmatum-kamagata-(dw)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-kamagata/01-GWIS433.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 116664,
+          "downloaded_at": "2026-04-14T01:47:48+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "visi69024.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi69024.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/86628/acer-palmatum-kamagata-(dw)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-kamagata/02-visi69024.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 139687,
+          "downloaded_at": "2026-04-14T01:47:48+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这是一个外观极为纤细秀雅的矮生选育品种。不过，它实际上非常耐久且耐寒。原文此处有明显 OCR 缺损。于 Corvallis 观察到，有些叶片仅有三裂，裂片间距很大，侧裂片几乎呈直角展开。裂片呈镰形，或先端向下弯曲，边缘再轻微向上卷起，形成槽状，并常略有扭转，使整株呈现蕾丝般细致轻盈的观感。每个裂片都细长狭窄，基部宽约 5 至 7 毫米，中部很少宽至 10 毫米，并逐渐收尖。叶缘具锯齿。裂片像伸开的手指一样向外分离，仅在距叶基约 1 厘米处相连。叶柄极细但坚挺，长 2 至 3 厘米，绿色，单侧带红色。春季展叶时，叶缘明显染成红色至锈红色。初夏叶色转为明亮的浅绿色。秋色鲜艳，以黄色和橙色为主，偶带一点红色。叶片能在植株上保留到深秋，因此观色期较长。新梢细而秀气，但相当坚韧，呈鲜绿色，在幼株上可长达 25 厘米。不过第二次生长期会形成大量侧枝，枝条十分纤细如蕾丝，原文至此中断。"
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "这一矮生类群的 Acer 株形紧凑、生长缓慢，因此非常适合盆栽和容器栽培。",
+      "suggested_uses": "城市/庭院花园、乡村风格/自然式花园、花境与花坛、庭院/容器植物、岩石园"
+    },
+    "care": {
+      "pruning": "修剪第 1 组：仅限在晚秋至仲冬期间进行。",
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。",
+      "cultivation": "宜栽培于保水性好且排水良好的土壤中，选择避风庇护的位置。叶色在半阴环境下表现最佳；若土壤湿度稳定充足，也可耐全日照。土壤缺水或暴露过度易导致叶缘焦枯。适合容器栽培，但生长季遇干旱天气时需特别注意浇水。另见 Japanese maples cultivation。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "小型、紧凑、灌木状的小乔木，最终约高 1.2 米；枝条细长，鲜绿色。叶片纤细如 lace，狭长，具 3 至 5 裂，呈明亮浅绿色，春季新叶边缘带红色，秋季转为鲜艳的橙黄色。春季开不显眼的红紫色花，之后可能结带翅的紫色果实。"
+  },
+  "has_mrmaple": false,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-kamagata/01-kamagata-1.webp",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-kamagata/01-kamagata-1.webp"
+    ],
+    "products": [
+      {
+        "product_id": 1261,
+        "name": "Kamagata Dwarf Japanese Maple",
+        "slug": "kamagata-dwarf-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/kamagata-dwarf-japanese-maple/",
+        "description_text": "Kamagata is a small, bush-like grower. Delicate small leaves are green with a fringe of reddish color. Grows to about 4 ft, makes a great bonsai.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Dwarf Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 45
+        },
+        "review_count": 0,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "kamagata"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/kamagata-1.webp",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-kamagata/01-kamagata-1.webp",
+          "bytes": 47686,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-16T06:50:29.557Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-kamagata/01-kamagata-1.webp"
+      ]
+    }
+  },
+  "has_herter": true
+}

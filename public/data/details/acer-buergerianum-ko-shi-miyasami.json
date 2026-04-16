@@ -1,0 +1,118 @@
+{
+  "id": "acer-buergerianum-ko-shi-miyasami",
+  "canonical_key": "ko shi miyasami",
+  "canonical_name": "Ko¯shi miyasami",
+  "display_name": "Ko¯shi miyasami",
+  "chinese_name": null,
+  "scientific_name": "Acer buergerianum 'Ko¯shi miyasami'",
+  "species": "Acer buergerianum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "This vigorous dense shrubby tree up to 20 ft. (6 m) tall has small leaves with short bluntly pointed lobes. The spring leaves are a clear pink-red with yellow-green main veins, turning completely green in the summer and completely red in the fall."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Ko¯shi miyasami",
+      "page_range": "193",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 198118,
+      "detail_url": "https://www.rhs.org.uk/plants/198118/acer-buergerianum-koshi-miyasama/details",
+      "botanical_name": "Acer buergerianum 'Koshi-miyasama'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer buergerianum 'Koshi-miyasama'",
+    "Koshi-miyasama",
+    "Ko¯shi miyasami"
+  ],
+  "search_terms": [
+    "Acer buergerianum",
+    "Acer buergerianum 'Koshi-miyasama'",
+    "Acer buergerianum 'Ko¯shi miyasami'",
+    "Koshi-miyasama",
+    "Ko¯shi miyasami"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 198118,
+    "rhs_url": "https://www.rhs.org.uk/plants/198118/acer-buergerianum-koshi-miyasama/details",
+    "match_method": "manual_override",
+    "botanical_name": "Acer buergerianum 'Koshi-miyasama'",
+    "species_name": "Acer buergerianum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Koshi-miyasama"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这是一株生长健旺、枝叶致密的灌木状小乔木，高可达 20 英尺（6 米）。叶片较小，裂片短而先端钝尖。春叶为清晰的粉红红色，主脉黄绿色；夏季转为全绿，秋季则完全变红。"
+  },
+  "has_mrmaple": false
+}

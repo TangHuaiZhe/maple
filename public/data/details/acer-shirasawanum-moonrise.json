@@ -1,0 +1,225 @@
+{
+  "id": "acer-shirasawanum-moonrise",
+  "canonical_key": "",
+  "canonical_name": "月升",
+  "display_name": "月升",
+  "chinese_name": "月升",
+  "scientific_name": "Acer Shirasawanum Moonrise",
+  "species": "Acer shirasawanum moonrise",
+  "top_category": "羽扇槭",
+  "web_group": "白泽槭",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "由美国马恩苗圃的苗圃主卡尔·马恩从金隐的种子培 育而来，命名并在美国注册了品种权，在注册品种权 之前卡尔在自己的苗圃中观察了 18 年之久。 月升是一个非常优秀的羽团扇品种。 2016 年获得北美年度最佳槭树称号，生长性比其他黄 叶类羽团扇更强劲，抗性（耐热）更佳，而且色彩极 其丰富。春天新叶粉红色，成熟后变成黄绿色，粉红 色的二次新稍生长，会形成鲜明的色彩对比，极具观 赏性，夏季返绿秋季为橙黄色或者深红色。生长速度 中等，在全日照下会有轻微灼伤，夏季建议午后遮阴， 成年株可达 5 米左右高度。"
+  },
+  "images": {
+    "count": 8,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/27_月升 Acer Shirasawanum 'Moonrise'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/27_月升 Acer Shirasawanum 'Moonrise'/01.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/27_月升 Acer Shirasawanum 'Moonrise'/02.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/27_月升 Acer Shirasawanum 'Moonrise'/03.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/27_月升 Acer Shirasawanum 'Moonrise'/04.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/27_月升 Acer Shirasawanum 'Moonrise'/05.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/27_月升 Acer Shirasawanum 'Moonrise'/06.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/27_月升 Acer Shirasawanum 'Moonrise'/07.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/27_月升 Acer Shirasawanum 'Moonrise'/08.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/01.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/02.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/03.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/04.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/05.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/06.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/07.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/08.jpg"
+    ],
+    "public_rhs_paths": [
+      "/rhs-images/acer-shirasawanum-moonrise/01-RHS_MAR0044279_10324.JPG",
+      "/rhs-images/acer-shirasawanum-moonrise/02-phbe02185.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/01.png",
+    "public_paths": [
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/01.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/02.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/03.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/04.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/05.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/06.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/07.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/27_%E6%9C%88%E5%8D%87%20Acer%20Shirasawanum%20'Moonrise'/08.jpg",
+      "/rhs-images/acer-shirasawanum-moonrise/01-RHS_MAR0044279_10324.JPG",
+      "/rhs-images/acer-shirasawanum-moonrise/02-phbe02185.jpg"
+    ],
+    "public_count": 10
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "27",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/27.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=31",
+      "top_group_name": "羽扇槭",
+      "second_group_name": "白泽槭",
+      "title": "月升 Acer Shirasawanum Moonrise 盛之轩园艺",
+      "description": "由美国马恩苗圃的苗圃主卡尔·马恩从金隐的种子培 育而来，命名并在美国注册了品种权，在注册品种权 之前卡尔在自己的苗圃中观察了 18 年之久。 月升是一个非常优秀的羽团扇品种。 2016 年获得北美年度最佳槭树称号，生长性比其他黄 叶类羽团扇更强劲，抗性（耐热）更佳，而且色彩极 其丰富。春天新叶粉红色，成熟后变成黄绿色，粉红 色的二次新稍生长，会形成鲜明的色彩对比，极具观 赏性，夏季返绿秋季为橙黄色或者深红色。生长速度 中等，在全日照下会有轻微灼伤，夏季建议午后遮阴， 成年株可达 5 米左右高度。",
+      "image_count": 8
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 301675,
+      "detail_url": "https://www.rhs.org.uk/plants/301675/acer-shirasawanum-moonrise-(munn-001pbr)/details",
+      "botanical_name": "Acer shirasawanum Moonrise ('Munn 001'PBR)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer shirasawanum 'Munn 001' PBR",
+    "Acer shirasawanum Moonrise ('Munn 001'PBR)",
+    "Munn 001",
+    "Shirasawa maple [Moonrise]",
+    "月升",
+    "月升 Acer Shirasawanum Moonrise 盛之轩园艺"
+  ],
+  "search_terms": [
+    "Acer Shirasawanum Moonrise",
+    "Acer shirasawanum 'Munn 001' PBR",
+    "Acer shirasawanum Moonrise ('Munn 001'PBR)",
+    "Acer shirasawanum moonrise",
+    "Munn 001",
+    "Shirasawa maple [Moonrise]",
+    "月升",
+    "月升 Acer Shirasawanum Moonrise 盛之轩园艺",
+    "白泽槭",
+    "羽扇槭"
+  ],
+  "source_count": 2,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 301675,
+    "rhs_url": "https://www.rhs.org.uk/plants/301675/acer-shirasawanum-moonrise-(munn-001pbr)/details",
+    "match_method": "manual_override",
+    "botanical_name": "Acer shirasawanum Moonrise ('Munn 001'PBR)",
+    "species_name": "Acer shirasawanum Moonrise (",
+    "common_names": [
+      "Shirasawa maple [Moonrise]"
+    ],
+    "synonyms": [
+      "Acer shirasawanum 'Munn 001' PBR"
+    ],
+    "cultivar_names": [
+      "Munn 001"
+    ],
+    "description": "A compact shrub of loosely-rounded habit. Palmate leaves with sharply-toothed lobes are bright-red when young. The foliage becomes a fresh yellow-green as it matures, then turns orange and red shades in autumn",
+    "dimensions": {
+      "height": "1.5-2.5 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "West-facing, North-facing, East-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Patio/Container Plants",
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": "Grow in fertile, moist but well-drained soil in partial shade; this Japanese maple is said to be more resistant to leaf scorch than many other cultivars, but the striking foliage is still at its best where it is protected from cold, drying winds and excessive midday sun. For more advice, see Japanese maple cultivation",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "RHS_MAR0044279_10324.JPG",
+        "phbe02185.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-shirasawanum-moonrise/01-RHS_MAR0044279_10324.JPG",
+        "Resource/园艺/raw/rhs-images/acer-shirasawanum-moonrise/02-phbe02185.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "RHS_MAR0044279_10324.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/RHS_MAR0044279_10324.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/301675/acer-shirasawanum-moonrise-(munn-001pbr)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-shirasawanum-moonrise/01-RHS_MAR0044279_10324.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 147876,
+          "downloaded_at": "2026-04-14T01:48:03+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "phbe02185.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/phbe02185.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/301675/acer-shirasawanum-moonrise-(munn-001pbr)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-shirasawanum-moonrise/02-phbe02185.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 224861,
+          "downloaded_at": "2026-04-14T01:48:03+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "由美国马恩苗圃的苗圃主卡尔·马恩从金隐的种子培 育而来，命名并在美国注册了品种权，在注册品种权 之前卡尔在自己的苗圃中观察了 18 年之久。 月升是一个非常优秀的羽团扇品种。 2016 年获得北美年度最佳槭树称号，生长性比其他黄 叶类羽团扇更强劲，抗性（耐热）更佳，而且色彩极 其丰富。春天新叶粉红色，成熟后变成黄绿色，粉红 色的二次新稍生长，会形成鲜明的色彩对比，极具观 赏性，夏季返绿秋季为橙黄色或者深红色。生长速度 中等，在全日照下会有轻微灼伤，夏季建议午后遮阴， 成年株可达 5 米左右高度。"
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "suggested_uses": "城市/庭院花园、乡村/自然式花园、露台/容器栽培"
+    },
+    "care": {
+      "pruning": "修剪第 1 组",
+      "cultivation": "宜栽培于肥沃、湿润但排水良好的土壤中，置于半阴环境。此日本枫据称比许多其他品种更耐叶焦，但若要使其醒目的叶色表现最佳，仍应避免冷而干燥的风吹袭，并防止正午过强日照。更多栽培建议可参见 Japanese maple cultivation。",
+      "propagation": "可用软枝扦插繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "紧凑型灌木，树形疏松圆整。掌状叶具锐齿裂片，幼叶鲜红；叶色成熟后转为清新的黄绿色，秋季再转为橙色和红色。"
+  },
+  "has_mrmaple": false
+}

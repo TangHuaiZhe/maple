@@ -1,0 +1,153 @@
+{
+  "id": "acer-palmatum-purpureum",
+  "canonical_key": "purpureum",
+  "canonical_name": "Purpureum",
+  "display_name": "Purpureum",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Purpureum'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Amoenum",
+    "palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This old British cultivar has medium-sized leaves, which are a deep purple-red in the spring and early summer, becoming a bronze-green in late summer, then turning a bright scarlet in the fall. The leaves are moderately deeply divided into seven ovate lobes with pointed tips and evenly toothed margins. The small basal lobes are held at right angles to the leafstalks. 'Purpureum' is slow-growing and upright with a dense round-headed crown. It reaches 16 ft. (5 m) high and wide. The name Acer means \"purple.\" Gelderen. AUTUMN LACE"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Purpureum",
+      "page_range": "134-137",
+      "group": "Amoenum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 197681,
+      "detail_url": "https://www.rhs.org.uk/plants/197681/acer-palmatum-purpureum-(p)/details",
+      "botanical_name": "Acer palmatum 'Purpureum' (P)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Purpureum",
+      "page_range": "196",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Purpureum' (P)",
+    "Japanese maple 'Purpureum'",
+    "Purpureum"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Purpureum'",
+    "Acer palmatum 'Purpureum' (P)",
+    "Japanese maple 'Purpureum'",
+    "Purpureum"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 197681,
+    "rhs_url": "https://www.rhs.org.uk/plants/197681/acer-palmatum-purpureum-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Purpureum' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Purpureum'"
+    ],
+    "cultivar_names": [
+      "Purpureum"
+    ],
+    "description": "Slow-growing, upright tree to about 5m tall, with leaves 7-8cm long and wide, divided into about 7 lobes, the young leaves dark purple-red, holding the colour well into summer, becoming bronze-green later in summer then bright scarlet-red in autumn. Inconspicuous red-purple flowers in spring may be followed by winged, purple fruits",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Spreading/Branched, Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Wildlife Gardens",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米",
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。",
+      "suggested_uses": "城市庭院，乡村风或自然式花园，花境与花坛，野生动物友好型花园"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪第 1 组：仅限在晚秋至仲冬期间进行。",
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "生长缓慢的直立小乔木，高约 5 米。叶长宽约 7-8 厘米，通常分为约 7 个裂片；新叶深紫红色，色泽可较好保持至夏季，夏末转为铜绿色，秋季则变为鲜亮的猩红色。春季开不显眼的红紫色花，随后可能结带翅的紫色果实。"
+  },
+  "descriptions_zh": {
+    "preferred": "这个古老的英国栽培品种叶片中等大小，春季和初夏呈深紫红色，至夏末转为古铜绿色，秋季再变为鲜亮猩红色。叶片中度深裂为 7 个卵形裂片，裂片先端尖，叶缘具整齐锯齿。基部小裂片与叶柄大致成直角。'Purpureum' 生长缓慢，株形直立，树冠致密呈圆头状，高宽可达 16 英尺（5 米）。“Acer” 这一名称意为“紫色”。 'AUTUMN LACE'，Autumn Lace' Group—green，是一个非常出色的线裂型品种，以夏季鲜绿色叶片及枝梢端带红铜色的新叶著称。秋色尤为特别，会由橙色转为鲜艳的红色。大叶深裂为 7 个裂片，裂片本身再分裂成粗锯齿状小裂片。该品种形成宽阔的瀑布状圆 mound，高可达 10-13 英尺（3-4 米），冠幅 13-16 英尺（4-5 米）。"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

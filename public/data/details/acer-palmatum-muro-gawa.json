@@ -1,0 +1,98 @@
+{
+  "id": "acer-palmatum-muro-gawa",
+  "canonical_key": "muro gawa",
+  "canonical_name": "Muro gawa",
+  "display_name": "Muro gawa",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Muro gawa'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Amoenum",
+    "palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This strong cultivar brings a lot of color to the garden landscape. The spring and early summer coloration is a striking orange red, which shades from light to dark Corvallis with a spread of 10 cm. The lobes are long-ovate, tapering to a slender point, and divided two-thirds of the way to the leaf base. The edges have a definite double serration which is sometimes a little deep. The green petioles are long, slender, and about 4 cm long. 'Muro gawa' is hardy and a fairly vigorous grower but not totally upright. With age, the side branches become somewhat pendulous and the top slows its rate of growth. The mature tree is round-topped with pendulous outer branches. Old trees grow to 6 m tall and, if not trimmed, spread to 3-4 m."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Muro gawa",
+      "page_range": "113",
+      "group": "Amoenum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 74215,
+      "detail_url": "https://www.rhs.org.uk/plants/74215/acer-palmatum-murogawa-(a)/details",
+      "botanical_name": "Acer palmatum 'Murogawa' (A)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Muro gawa",
+      "page_range": "177",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Murogawa' (A)",
+    "Muro gawa",
+    "Murogawa"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Muro gawa'",
+    "Acer palmatum 'Murogawa' (A)",
+    "Muro gawa",
+    "Murogawa"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 74215,
+    "rhs_url": "https://www.rhs.org.uk/plants/74215/acer-palmatum-murogawa-(a)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Murogawa' (A)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Murogawa"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这个强健品种能为庭园带来丰富色彩。春季至初夏，叶色为醒目的橙红色，与绿色叶脉形成鲜明对比。随着季节推进，色调转为锈绿色，至夏末则变为深古铜绿色。秋色为橙红至深红。叶片较大、中度深裂，具 7 至 9 裂，裂片长卵形，各裂片先端渐尖成细尖，叶缘具锯齿。绿色叶柄细长。'Muro gawa' 耐寒且长势较强，成年后树冠顶部圆整，外围枝条下垂，高可达 20 英尺（6 米），冠幅 10-13 英尺（3-4 米）。其名称源自日本中部的室生川。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

@@ -1,0 +1,97 @@
+{
+  "id": "acer-palmatum-issai-nishiki",
+  "canonical_key": "issai nishiki",
+  "canonical_name": "Issai nishiki",
+  "display_name": "Issai nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Issai nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "'Issai nishiki' is similar to 'Nishiki gawa' but smaller and with extremely rough bark. Unlike 'Nishiki gawa', it develops the bark characteristics within a year of propagation, becoming rougher with each season. The name means \"develops rough bark within a year.\" Acer Acer palmatum"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Issai nishiki",
+      "page_range": "82-85",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 194874,
+      "detail_url": "https://www.rhs.org.uk/plants/194874/acer-palmatum-issai-nishiki/details",
+      "botanical_name": "Acer palmatum 'Issai-nishiki'",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Issai nishiki",
+      "page_range": "153",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Issai-nishiki'",
+    "Issai nishiki",
+    "Issai-nishiki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Issai nishiki'",
+    "Acer palmatum 'Issai-nishiki'",
+    "Issai nishiki",
+    "Issai-nishiki"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 194874,
+    "rhs_url": "https://www.rhs.org.uk/plants/194874/acer-palmatum-issai-nishiki/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Issai-nishiki'",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Issai-nishiki"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "'Issai nishiki' 与 'Nishiki gawa' 相似，但植株更小，且树皮极为粗糙。不同于 'Nishiki gawa'，它在繁殖后一年的时间内就会显现出这类树皮特征，并且每经过一个生长季，树皮都会变得更粗糙。其名称意为“一年内形成粗皮”。随后原文混入了多条其他品种资料，存在明显 OCR 串行与断裂，无法可靠逐条还原；其中可辨识的信息包括：'Japanese Sunrise' 叶片春季萌发为黄绿色，夏季转为清新的浅绿色，秋色为黄色、金色与绯红色调，耐全日照，树形直立、开展、顶部较平，高可达 23 英尺（7 米）；另有一类枝条下垂的品种，具较小的亮绿色叶，秋季转鲜红色，老枝会进一步下垂，形成约 10 英尺（3 米）高且近等宽的圆头灌木；还提到若干红叶品种，叶色为铜红或古铜红，部分具对比明显的黄色主脉，适合作为观赏栽培材料。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

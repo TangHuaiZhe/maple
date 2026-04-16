@@ -1,0 +1,186 @@
+{
+  "id": "acer-palmatum-sho-jo-shidare",
+  "canonical_key": "sho jo shidare",
+  "canonical_name": "Sho\\jo\\ shidare",
+  "display_name": "Sho\\jo\\ shidare",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Sho\\jo\\ shidare'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dissectum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The basic color of the leaf is a deep maroon, brightest in the new foliage and darkening as the leaf matures. A dark, rich green tone is suffused down the center of each lobe and sublobe. The two-tone color combination gives this plant a unique appearance. The petioles are deep maroon, as are the young twigs and branches. The leaves have seven or nine lobes and are pinnately dissected with irregular toothing on the sublobes. Some sublobes are long and slender. The leaves are 4-7 cm long and 5-7 cm wide. On leaves of new wood, the lobes are occasionally restricted between the sublobes to only the width of the midrib. The sublobes, in turn, have minute extensions for 1-3 mm. The petioles are slender but firm and are 2-3 cm long. This cultivar has the cascading form typical of dissectums and forms a tall dome up to 3 m high. To see the beauty of the cascading form, it should be grafted high or staked up for a few years. It is very beautiful but little known, possibly because it is a little tender and not easily propagated. 'Sho\\jo\\ shidare' has also been known under the name"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-sho-jo-shidare/01-RHS_WSYD0015530_11431.JPG"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-sho-jo-shidare/01-RHS_WSYD0015530_11431.JPG",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-sho-jo-shidare/01-RHS_WSYD0015530_11431.JPG"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Sho\\jo\\ shidare",
+      "page_range": "216",
+      "group": "dissectum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 53266,
+      "detail_url": "https://www.rhs.org.uk/plants/53266/acer-palmatum-shojo-shidare-(d)/details",
+      "botanical_name": "Acer palmatum 'Shōjō-shidare' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Nomurishidare' misapplied",
+    "Acer palmatum 'Shōjō-shidare' (D)",
+    "Japanese maple 'Shōjō-shidare'",
+    "Nomurishidare",
+    "Sho\\jo\\ shidare",
+    "Shōjō-shidare"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Nomurishidare' misapplied",
+    "Acer palmatum 'Sho\\jo\\ shidare'",
+    "Acer palmatum 'Shōjō-shidare' (D)",
+    "Japanese maple 'Shōjō-shidare'",
+    "Nomurishidare",
+    "Sho\\jo\\ shidare",
+    "Shōjō-shidare"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 53266,
+    "rhs_url": "https://www.rhs.org.uk/plants/53266/acer-palmatum-shojo-shidare-(d)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Shōjō-shidare' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Shōjō-shidare'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Nomurishidare' misapplied"
+    ],
+    "cultivar_names": [
+      "Nomurishidare",
+      "Shōjō-shidare"
+    ],
+    "description": "A low-growing spreading shrub, to around 2.5m height and width, with pendulous branches bearing deeply-cut leaves. The leaves emerge deep purple with dark green colouring down the centre of each lobe giving them a two-tone effect. In autumn, the foliage turns a brilliant scarlet-red. Red flowers borne in spring may be followed by winged fruits in autumn",
+    "dimensions": {
+      "height": "1.5-2.5 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Clay, Loam",
+      "aspect": "South-facing, East-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Patio/Container Plants, Rock Garden, Architectural, Cottage/Informal Garden, Low Maintenance",
+      "hort_group_description": "Acers in this dissectum group have fine, feathery, deeply divided leaves with finely serrated edges"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture, drying winds or late spring frost. See Japanese maple cultivation",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "RHS_WSYD0015530_11431.JPG"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-sho-jo-shidare/01-RHS_WSYD0015530_11431.JPG"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "RHS_WSYD0015530_11431.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/RHS_WSYD0015530_11431.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/53266/acer-palmatum-shojo-shidare-(d)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-sho-jo-shidare/01-RHS_WSYD0015530_11431.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 166667,
+          "downloaded_at": "2026-04-14T01:47:59+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "care": {
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖",
+      "cultivation": "宜栽培于湿润但排水良好的土壤中。夏季如有需要应补充浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤缺水、干燥风或晚春霜冻都可能导致叶片焦枯。参见 Japanese maple cultivation。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "一种低矮、开展的灌木，高和冠幅均可达约 2.5 米，枝条下垂，着生深裂叶。新叶初展时为深紫色，每个裂片中央带深绿色，形成双色效果。秋季叶色转为明艳的猩红色。春季开红花，秋季其后可结翅果。",
+    "attributes": {
+      "suggested_uses": "城市/庭院花园、露台/容器植物、岩石园、结构性观赏、乡村/自然式花园、低维护",
+      "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "叶片的基础色为深栗红色，新叶时最为鲜艳，随叶片成熟而逐渐加深。每个主裂片和次裂片的中央都晕染着深而浓的绿色，形成独特的双色效果。叶柄为深栗红色，幼枝和小枝亦然。叶片具七或九裂，羽状深裂，次裂片边缘具不规则锯齿，部分次裂片细长。叶长 4-7 厘米，宽 5-7 厘米。新梢上的叶片，其裂片在次裂片之间有时狭窄到仅剩中脉宽度；而次裂片本身还可再延伸出 1-3 毫米的极细小裂尖。叶柄细而坚韧，长 2-3 厘米。该品种具有典型 dissectum 类群的垂枝下垂树形，可形成高达 3 米的高拱形树冠。若要充分展现其垂枝之美，宜高接，或在前几年加以支撑牵引。该品种非常优美，但知名度不高，可能因为稍欠耐寒，且不易繁殖。'Sho\\jo\\ shidare' 亦曾以"
+  },
+  "has_mrmaple": false
+}

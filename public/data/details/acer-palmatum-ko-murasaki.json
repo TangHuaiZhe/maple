@@ -1,0 +1,61 @@
+{
+  "id": "acer-palmatum-ko-murasaki",
+  "canonical_key": "ko murasaki",
+  "canonical_name": "Ko murasaki",
+  "display_name": "Ko murasaki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Ko murasaki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar is one of many red-leaved forms in the Matsumurae Group. The leaves are deeply divided at least three-quarters of the way to the leaf base. The points of the lobes radiate outward. The lobes are ovate and come to a sharp point. The edges show a marked, sharp, double serration. The medium-sized leaves are 6-7 cm long and wide and seem to extend laterally from the twigs in most growth and attempt to lie on the same plane. The coloration is a deep purplish red, hence the name which means \"deep purple.\" The color holds well in the summer heat. Along the center of the lobes, the color shades into a deep greenish red, thus making a contrast to the solid coloration. The fall foliage color is a strong crimson. This hardy, small tree grows about as broad as tall. It probably attains 3-4 m tall and wide after 15 or more years. The cultivar has been known under the names"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Ko murasaki",
+      "page_range": "163",
+      "group": "matsumurae",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Ko murasaki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Ko murasaki'",
+    "Ko murasaki"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "该品种是 Matsumurae Group 众多红叶类型之一。叶片深裂，至少达叶基的四分之三处。各裂片先端向外放射展开。裂片呈卵形，先端锐尖。叶缘具明显而锐利的重锯齿。中等大小的叶片长宽约 6-7 厘米，在多数生长状态下似乎自枝条侧向伸展，并力求处于同一平面。叶色为深紫红色，因此得名，意为“深紫”。这种颜色在夏季高温中保持性良好。裂片中央沿主脉处色泽会过渡为较深的带绿红色，从而与整体均一叶色形成对比。秋叶为鲜明的深红色。该品种耐寒，为小型乔木，冠幅与高度大致相当。15 年或更久后，推测可达高、幅 3-4 米。该品种也曾以 'Koi murasaki' 和"
+  },
+  "has_mrmaple": false
+}

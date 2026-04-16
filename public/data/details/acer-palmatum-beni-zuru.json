@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-beni-zuru",
+  "canonical_key": "beni zuru",
+  "canonical_name": "Beni zuru",
+  "display_name": "Beni zuru",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Beni zuru'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The orange-yellow spring foliage is similar to that of 'Akane'. The small green leaves have mainly five long-ovate deeply divided lobes with coarsely toothed margins. In the spring, the leaves emerge a bright orange-pink-red with yellow midribs, changing slowly from the center to orange-yellow, then yellow, and finally light green for the rest of the summer, and eventually turning red in the fall. This small cultivar is ideally suited for container and bonsai culture. The name means \"red swan.\""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Beni zuru",
+      "page_range": "51",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 196212,
+      "detail_url": "https://www.rhs.org.uk/plants/196212/acer-palmatum-beni-zuru-(p)/details",
+      "botanical_name": "Acer palmatum 'Beni-zuru' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Beni-zuru' (P)",
+    "Beni zuru",
+    "Beni-zuru"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Beni zuru'",
+    "Acer palmatum 'Beni-zuru' (P)",
+    "Beni zuru",
+    "Beni-zuru"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 196212,
+    "rhs_url": "https://www.rhs.org.uk/plants/196212/acer-palmatum-beni-zuru-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Beni-zuru' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Beni-zuru"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "春季的橙黄色新叶与 ‘Akane’ 相似。成熟小叶为绿色，通常具 5 个狭长卵形、分裂较深的裂片，边缘具粗锯齿。春季展叶时呈鲜亮的橙粉红至红色，中脉为黄色；随后从叶片中央开始缓慢转为橙黄色，再变黄，最终在整个夏季保持浅绿色，秋季则转为红色。这一小型品种非常适合盆栽与盆景培养。其名意为“红天鹅”。"
+  },
+  "has_mrmaple": false
+}

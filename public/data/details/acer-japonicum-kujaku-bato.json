@@ -1,0 +1,145 @@
+{
+  "id": "acer-japonicum-kujaku-bato",
+  "canonical_key": "kujaku bato",
+  "canonical_name": "Kujaku Bato",
+  "display_name": "Kujaku Bato",
+  "chinese_name": "孔雀鸠",
+  "scientific_name": "Acer Japonicum 'Kujaku Bato'",
+  "species": "Acer japonicum",
+  "top_category": "羽扇槭",
+  "web_group": "大叶羽团扇",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "日系品种，由舞孔雀的实生种子选育而来，大叶羽 团扇类羽毛枫品种，叶型较圆，以 7 到 9 叶裂为主， 叶裂深，深入到叶柄处，小叶裂锯齿较大，枝垂但 是垂性不强，横向生长性较强，春叶为嫩绿色，五 月会有橙黄色或橙红色新稍，秋季为金黄色，生长 强健，夏季午后遮阴为佳，全日照的情况下枝干上 会有日灼现象，成年株可达 2 米左右高度。"
+  },
+  "images": {
+    "count": 5,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/35_孔雀鸠 Acer Japonicum 'Kujaku Bato'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/35_孔雀鸠 Acer Japonicum 'Kujaku Bato'/01.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/35_孔雀鸠 Acer Japonicum 'Kujaku Bato'/02.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/35_孔雀鸠 Acer Japonicum 'Kujaku Bato'/03.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/35_孔雀鸠 Acer Japonicum 'Kujaku Bato'/04.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/35_孔雀鸠 Acer Japonicum 'Kujaku Bato'/05.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/35_%E5%AD%94%E9%9B%80%E9%B8%A0%20Acer%20Japonicum%20'Kujaku%20Bato'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/35_%E5%AD%94%E9%9B%80%E9%B8%A0%20Acer%20Japonicum%20'Kujaku%20Bato'/01.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/35_%E5%AD%94%E9%9B%80%E9%B8%A0%20Acer%20Japonicum%20'Kujaku%20Bato'/02.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/35_%E5%AD%94%E9%9B%80%E9%B8%A0%20Acer%20Japonicum%20'Kujaku%20Bato'/03.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/35_%E5%AD%94%E9%9B%80%E9%B8%A0%20Acer%20Japonicum%20'Kujaku%20Bato'/04.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/35_%E5%AD%94%E9%9B%80%E9%B8%A0%20Acer%20Japonicum%20'Kujaku%20Bato'/05.jpg"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/35_%E5%AD%94%E9%9B%80%E9%B8%A0%20Acer%20Japonicum%20'Kujaku%20Bato'/01.png",
+    "public_paths": [
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/35_%E5%AD%94%E9%9B%80%E9%B8%A0%20Acer%20Japonicum%20'Kujaku%20Bato'/01.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/35_%E5%AD%94%E9%9B%80%E9%B8%A0%20Acer%20Japonicum%20'Kujaku%20Bato'/02.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/35_%E5%AD%94%E9%9B%80%E9%B8%A0%20Acer%20Japonicum%20'Kujaku%20Bato'/03.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/35_%E5%AD%94%E9%9B%80%E9%B8%A0%20Acer%20Japonicum%20'Kujaku%20Bato'/04.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E5%A4%A7%E5%8F%B6%E7%BE%BD%E5%9B%A2%E6%89%87/35_%E5%AD%94%E9%9B%80%E9%B8%A0%20Acer%20Japonicum%20'Kujaku%20Bato'/05.jpg"
+    ],
+    "public_count": 5
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "35",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/35.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=32",
+      "top_group_name": "羽扇槭",
+      "second_group_name": "大叶羽团扇",
+      "title": "孔雀鸠 Acer Japonicum 'Kujaku Bato'",
+      "description": "日系品种，由舞孔雀的实生种子选育而来，大叶羽 团扇类羽毛枫品种，叶型较圆，以 7 到 9 叶裂为主， 叶裂深，深入到叶柄处，小叶裂锯齿较大，枝垂但 是垂性不强，横向生长性较强，春叶为嫩绿色，五 月会有橙黄色或橙红色新稍，秋季为金黄色，生长 强健，夏季午后遮阴为佳，全日照的情况下枝干上 会有日灼现象，成年株可达 2 米左右高度。",
+      "image_count": 5
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 366857,
+      "detail_url": "https://www.rhs.org.uk/plants/366857/acer-japonicum-kujaku-bato/details",
+      "botanical_name": "Acer japonicum 'Kujaku-bato'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer japonicum 'Kujaku-bato'",
+    "Kujaku Bato",
+    "Kujaku-bato",
+    "孔雀鸠",
+    "孔雀鸠 Acer Japonicum 'Kujaku Bato'"
+  ],
+  "search_terms": [
+    "Acer Japonicum 'Kujaku Bato'",
+    "Acer japonicum",
+    "Acer japonicum 'Kujaku-bato'",
+    "Kujaku Bato",
+    "Kujaku-bato",
+    "大叶羽团扇",
+    "孔雀鸠",
+    "孔雀鸠 Acer Japonicum 'Kujaku Bato'",
+    "羽扇槭"
+  ],
+  "source_count": 2,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 366857,
+    "rhs_url": "https://www.rhs.org.uk/plants/366857/acer-japonicum-kujaku-bato/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer japonicum 'Kujaku-bato'",
+    "species_name": "Acer japonicum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Kujaku-bato"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "日系品种，由舞孔雀的实生种子选育而来，大叶羽 团扇类羽毛枫品种，叶型较圆，以 7 到 9 叶裂为主， 叶裂深，深入到叶柄处，小叶裂锯齿较大，枝垂但 是垂性不强，横向生长性较强，春叶为嫩绿色，五 月会有橙黄色或橙红色新稍，秋季为金黄色，生长 强健，夏季午后遮阴为佳，全日照的情况下枝干上 会有日灼现象，成年株可达 2 米左右高度。"
+  },
+  "has_mrmaple": false
+}

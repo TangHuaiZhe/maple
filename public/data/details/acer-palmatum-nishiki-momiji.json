@@ -1,0 +1,98 @@
+{
+  "id": "acer-palmatum-nishiki-momiji",
+  "canonical_key": "nishiki momiji",
+  "canonical_name": "Nishiki momiji",
+  "display_name": "Nishiki momiji",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Nishiki momiji'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae",
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The spring leaves unfold with a pinkish or orange-red tone which persists along the margins as the leaves mature and turn to light green. Fall color is an especially brilliant display of crimson to fire-red. The medium-sized leaves have five to seven moderately deeply divided long, slender, lanceolate lobes gradually tapering to sharp points. The margins are double-toothed. This upright maple with a spreading crown grows to a height of up to 16 ft. (5 m)."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Nishiki momiji",
+      "page_range": "117",
+      "group": "Matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 124417,
+      "detail_url": "https://www.rhs.org.uk/plants/124417/acer-palmatum-nishiki-momiji-(p)/details",
+      "botanical_name": "Acer palmatum 'Nishiki-momiji' (P)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Nishiki momiji",
+      "page_range": "179-180",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Nishiki-momiji' (P)",
+    "Nishiki momiji",
+    "Nishiki-momiji"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Nishiki momiji'",
+    "Acer palmatum 'Nishiki-momiji' (P)",
+    "Nishiki momiji",
+    "Nishiki-momiji"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 124417,
+    "rhs_url": "https://www.rhs.org.uk/plants/124417/acer-palmatum-nishiki-momiji-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Nishiki-momiji' (P)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Nishiki-momiji"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "春叶展开时带粉红色或橙红色调，随着叶片成熟并转为浅绿色，这种色泽仍会沿叶缘保留。秋色尤为出众，呈鲜艳的深红至火红色。中等大小的叶片具 5 至 7 枚中度较深分裂的细长披针形裂片，逐渐收尖成锐尖，叶缘为重锯齿。该品种为直立生长、树冠开展的槭树，高可达 16 英尺（5 米）。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

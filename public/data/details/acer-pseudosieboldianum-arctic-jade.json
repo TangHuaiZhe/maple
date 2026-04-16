@@ -1,0 +1,157 @@
+{
+  "id": "acer-pseudosieboldianum-arctic-jade",
+  "canonical_key": "arctic jade",
+  "canonical_name": "Arctic Jade",
+  "display_name": "Arctic Jade",
+  "chinese_name": "北极杰德",
+  "scientific_name": "Acer Pseudosieboldianum 'Arctic Jade'",
+  "species": "Acer pseudosieboldianum",
+  "top_category": "紫花槭",
+  "web_group": "北极杰德",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": ""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "225",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/225.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=66",
+      "top_group_name": "紫花槭",
+      "second_group_name": "北极杰德",
+      "title": "北极杰德Acer Pseudosieboldianum 'Arctic Jade'",
+      "description": "",
+      "image_count": 0
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 503419,
+      "detail_url": "https://www.rhs.org.uk/plants/503419/acer-arctic-jade-(isiajpbr)-(jack-frost-series)/details",
+      "botanical_name": "Acer Arctic Jade ('Isiaj'PBR) (Jack Frost Series)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer 'Isiaj' PBR",
+    "Acer Arctic Jade ('Isiaj'PBR) (Jack Frost Series)",
+    "Acer pseudosieboldianum 'Arctic Jade'",
+    "Arctic Jade",
+    "Isiaj",
+    "maple [Arctic Jade]",
+    "北极杰德",
+    "北极杰德Acer Pseudosieboldianum 'Arctic Jade'"
+  ],
+  "search_terms": [
+    "Acer 'Isiaj' PBR",
+    "Acer Arctic Jade ('Isiaj'PBR) (Jack Frost Series)",
+    "Acer Pseudosieboldianum 'Arctic Jade'",
+    "Acer pseudosieboldianum",
+    "Acer pseudosieboldianum 'Arctic Jade'",
+    "Arctic Jade",
+    "Isiaj",
+    "maple [Arctic Jade]",
+    "北极杰德",
+    "北极杰德Acer Pseudosieboldianum 'Arctic Jade'",
+    "紫花槭"
+  ],
+  "source_count": 2,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 503419,
+    "rhs_url": "https://www.rhs.org.uk/plants/503419/acer-arctic-jade-(isiajpbr)-(jack-frost-series)/details",
+    "match_method": "synonym_full",
+    "botanical_name": "Acer Arctic Jade ('Isiaj'PBR) (Jack Frost Series)",
+    "species_name": "Acer Arctic Jade (",
+    "common_names": [
+      "maple [Arctic Jade]"
+    ],
+    "synonyms": [
+      "Acer 'Isiaj' PBR",
+      "Acer pseudosieboldianum 'Arctic Jade'"
+    ],
+    "cultivar_names": [
+      "Arctic Jade",
+      "Isiaj"
+    ],
+    "description": "A deciduous hybrid maple (A. palmatum x A. pseudosieboldianum) about 6m tall with an attractive branching structure. Very large mid-green, deeply cut leaves, emerge fresh green in spring, turning rich orange and red in autumn; bred to be a substitute for less hardy Japanese maples in harsh climate conditions",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Exposed, Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Coastal, Cottage/Informal Garden",
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": "Grow in fertile, moist but well-drained soil in sun or partial shade. See tree cultivation and Japanese maples cultivation for further advice",
+      "pruning": "Pruning group 1 , if necessary, from late autumn to midwinter only",
+      "propagation": "Propagate by grafting in late winter or softwood cuttings in early summer"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to coral spot , Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米",
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感珊瑚斑枝枯病、黄萎病、槭树叶灼病和蜜环菌根腐病。"
+    },
+    "description": "落叶杂交槭树（A. palmatum × A. pseudosieboldianum），高约 6 米，分枝结构优美。叶片很大，中绿色，深裂；春季新叶呈清新绿色，秋季转为浓橙色和红色。培育此品种是为了在严酷气候条件下替代耐寒性较差的日本枫。",
+    "attributes": {
+      "suggested_uses": "城市/庭院花园、滨海花园、乡村/自然式花园"
+    },
+    "care": {
+      "cultivation": "宜栽培于肥沃、湿润但排水良好的土壤中，环境以全日照或半阴为宜。更多栽培建议可参见树木栽培及日本枫树栽培资料。",
+      "pruning": "修剪组 1；如有需要，仅可在深秋至仲冬期间修剪。",
+      "propagation": "可于冬末采用嫁接繁殖，或于初夏进行软枝扦插繁殖。"
+    }
+  },
+  "has_mrmaple": false
+}

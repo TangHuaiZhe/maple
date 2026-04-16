@@ -1,0 +1,119 @@
+{
+  "id": "acer-palmatum-nomura",
+  "canonical_key": "nomura",
+  "canonical_name": "Nomura",
+  "display_name": "Nomura",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Nomura'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This old deep purple-red cultivar is probably a selection from Acer palmatum f. atropurpureum. It is very similar to 'Musashino' in leaf size and color all through the growing season, including the light-colored pubescence on emerging leaves, and in the vigor, size, and habit of its growth. In the first edition of this book, 'Nomura' was treated as a synonym of"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Nomura",
+      "page_range": "180",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 204375,
+      "detail_url": "https://www.rhs.org.uk/plants/204375/acer-palmatum-nomura/details",
+      "botanical_name": "Acer palmatum 'Nomura'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Nomura'",
+    "Nomura"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Nomura'",
+    "Nomura"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 204375,
+    "rhs_url": "https://www.rhs.org.uk/plants/204375/acer-palmatum-nomura/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Nomura'",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Nomura"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这个古老的深紫红叶品种很可能是从 Acer palmatum f. atropurpureum 中选出的一个类型。它在整个生长季的叶片大小与色泽上都与 'Musashino' 十分相似，包括新叶上较浅色的柔毛，以及生长势、植株大小和树形习性。在本书第一版中，'Nomura' 曾被作为 'Musashino' 的异名处理；而在《Maples of the World》中，'Musashino' 又被作为 'Nomura' 的异名处理。不过，'Nomura' 的叶片似乎主要为 5 裂而非 7 裂，裂片略宽，呈卵形，分裂程度也较浅。若干品种如 'Beni kagami' 和"
+  },
+  "has_mrmaple": false
+}

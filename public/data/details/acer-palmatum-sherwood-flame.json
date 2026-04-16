@@ -1,0 +1,279 @@
+{
+  "id": "acer-palmatum-sherwood-flame",
+  "canonical_key": "sherwood flame",
+  "canonical_name": "Sherwood Flame",
+  "display_name": "Sherwood Flame",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Sherwood Flame'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The beautiful leaves of this cultivar are a rich reddish purple color approaching burgundy. The color remains very strong until the end of the summer, fading but very little to the red-green tones. It holds its color better than most similar cultivars of the Matsumurae Group. The leaves are seven lobed and measure 7-8 cm long and about 8 cm wide. The lobes are divided almost to the leaf base and tend to hold together slightly so that the leaf appears longer than wide. The lobes are elongate-ovate, quite narrow at the lobe junctions, with the outer end tapering to a very long, sharp point. The margins are deeply and regularly toothed. The petioles are red and 4 cm long. This vigorous, small tree makes a pleasant roundtopped form and reaches 4-5 m tall at maturity and up Lace', but has slightly smaller leaves and the deep color does not fade or turn greenish brown or bronze in midsummer. By midsummer the contrast is quite noticeable in the large specimens of each cultivar growing side by side at Wil-Chris Acres, Sherwood, Oregon. It was here that William Curtis selected and developed 'Sherwood Flame', reportedly a seedling selection of"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-sherwood-flame/01-MAR0029951_11440.jpg",
+      "/rhs-images/acer-palmatum-sherwood-flame-momiji_kaede/01-MAR0029951_11440.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-sherwood-flame/01-sherwoodflame.webp"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-sherwood-flame/01-MAR0029951_11440.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-sherwood-flame/01-MAR0029951_11440.jpg",
+      "/rhs-images/acer-palmatum-sherwood-flame-momiji_kaede/01-MAR0029951_11440.jpg",
+      "/herter-images/acer-palmatum-sherwood-flame/01-sherwoodflame.webp"
+    ],
+    "public_count": 3
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Sherwood Flame",
+      "page_range": "149",
+      "group": "Matsumurae",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 99974,
+      "detail_url": "https://www.rhs.org.uk/plants/99974/acer-palmatum-sherwood-flame-(m)/details",
+      "botanical_name": "Acer palmatum 'Sherwood Flame' (M)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Sherwood Flame",
+      "page_range": "208",
+      "group": "matsumurae",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Sherwood Flame Red-purple Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/sherwood-flame-red-purple-japanese-maple/",
+      "description": "The beautiful leaves of this cultivar are a rich reddish purple color approaching burgandy. The color remains very strong until the end of summer. This vigorous, small tree makes a pleasant round-topped form and reaches 4 meters tall and 4 meters wide.",
+      "group": "All Japanese Maples / Broadleaf Upright Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Sheerwater Flame'",
+    "Acer palmatum 'Sherwood Flame' (M)",
+    "Japanese maple 'Sherwood Flame'",
+    "Sheerwater Flame",
+    "Sherwood Flame"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Sheerwater Flame'",
+    "Acer palmatum 'Sherwood Flame'",
+    "Acer palmatum 'Sherwood Flame' (M)",
+    "Japanese maple 'Sherwood Flame'",
+    "Sheerwater Flame",
+    "Sherwood Flame"
+  ],
+  "source_count": 4,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 99974,
+    "rhs_url": "https://www.rhs.org.uk/plants/99974/acer-palmatum-sherwood-flame-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Sherwood Flame' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Sherwood Flame'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Sheerwater Flame'"
+    ],
+    "cultivar_names": [
+      "Sheerwater Flame",
+      "Sherwood Flame"
+    ],
+    "description": "A large, spreading shrub or small tree with a rounded crown to around 5m tall and wide. Its deeply-cut, seven-lobed, sharply-toothed dark purple leaves turn crimson red in autumn. Small, red spring flowers are followed by red, winged fruits",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "4-8 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "West-facing, South-facing, East-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, Cottage/Informal Garden, Low Maintenance, City/Courtyard Gardens",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maple cultivation",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "MAR0029951_11440.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-sherwood-flame/01-MAR0029951_11440.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-sherwood-flame-momiji_kaede/01-MAR0029951_11440.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "MAR0029951_11440.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/MAR0029951_11440.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/99974/acer-palmatum-sherwood-flame-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-sherwood-flame/01-MAR0029951_11440.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 116904,
+          "downloaded_at": "2026-04-14T01:47:58+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 1,
+          "filename": "MAR0029951_11440.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/MAR0029951_11440.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/99974/acer-palmatum-sherwood-flame-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-sherwood-flame-momiji_kaede/01-MAR0029951_11440.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 116904,
+          "downloaded_at": "2026-04-14T01:47:58+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米",
+      "spread": "4-8 米",
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。",
+      "suggested_uses": "建筑式园景、乡村/自然式花园、低维护花园、城市/庭院花园"
+    },
+    "care": {
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖",
+      "cultivation": "宜栽培于湿润但排水良好的土壤中。夏季必要时应补充浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴晒过度都可能导致叶缘焦枯。参见日本枫树栽培资料。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "大型开展性灌木或小乔木，树冠圆整，高和冠幅约 5 米。叶深裂，7 裂，深紫色，边缘具锐锯齿，秋季转绯红色。春季开小型红花，随后结红色翅果。"
+  },
+  "descriptions_zh": {
+    "preferred": "该品种叶色优美，为浓郁的红紫色，接近酒红色。其色彩可一直较强烈地保持到夏末，仅略微褪为带红的绿色调。与 Matsumurae Group 中多数相近品种相比，它的持色性更佳。叶片 7 裂，长 7-8 厘米、宽约 8 厘米。裂片几乎深达叶基，并略微彼此靠拢，因此叶形看上去长于宽。裂片为狭长卵形，在裂片连接处较窄，外端渐尖成很长的锐尖；叶缘深且规则具锯齿。叶柄红色，长 4 厘米。该品种生长势强，为小乔木，成年后形成悦目的圆头树形，高约 4-5 米。它与 ‘Burgundy Lace’ 相似，但叶片稍小，且深色在盛夏不会褪色，也不会转为偏绿褐色或古铜色。到仲夏时，在俄勒冈州 Sherwood 的 Wil-Chris Acres 并排栽培的两者大型植株之间，这种差异十分明显。William Curtis 正是在此选育出 ‘Sherwood Flame’，据称它是 ‘Burgundy Lace’ 的实生选拔。‘Sherwood Flame’ 也曾被误标为 ‘Sheerwater Flame’。"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-sherwood-flame/01-sherwoodflame.webp",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-sherwood-flame/01-sherwoodflame.webp"
+    ],
+    "products": [
+      {
+        "product_id": 1559,
+        "name": "Sherwood Flame Red-purple Japanese Maple",
+        "slug": "sherwood-flame-red-purple-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/sherwood-flame-red-purple-japanese-maple/",
+        "description_text": "The beautiful leaves of this cultivar are a rich reddish purple color approaching burgandy. The color remains very strong until the end of summer. This vigorous, small tree makes a pleasant round-topped form and reaches 4 meters tall and 4 meters wide.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Broadleaf Upright Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 45
+        },
+        "review_count": 2216,
+        "stock_status": {
+          "class": "out-of-stock",
+          "text": "Out of stock"
+        },
+        "match_method": "exact",
+        "match_candidate": "sherwood flame"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/sherwoodflame.webp",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-sherwood-flame/01-sherwoodflame.webp",
+          "bytes": 88880,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-16T06:49:38.039Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-sherwood-flame/01-sherwoodflame.webp"
+      ]
+    }
+  },
+  "has_herter": true
+}

@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-shikage-ori-nishiki",
+  "canonical_key": "shikage ori nishiki",
+  "canonical_name": "Shikage ori nishiki",
+  "display_name": "Shikage ori nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Shikage ori nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The purple-red leaves have a brownish overtone which helps distinguish this cultivar. The indistinct brown tones are often suppressed by the purple red in new foliage, then later become apparent, although never strong. The brown tones become a dull brownish green color in late summer, changing to orange in the fall. The leaves are seven lobed, occasionally five lobed, but the two basal lobes are very small and sometimes lacking. Each lobe is oblong-ovate and terminates in a long slender point. The lobes are divided about three-quarters of the way to the leaf base. The upper half of the lobe has deeply serrated margins, while the lower half is almost untoothed. The leaf is 7-8 cm long and 9-10 cm wide. The red petioles are 3 cm long. This cultivar is fairly hardy and strong growing, and matures as a broad bush up to 4-5 m tall. It is not widely known. 'Shikage ori nishiki' has been known since the early eighteenth century, though Gen"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Shikage ori nishiki",
+      "page_range": "211",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 88980,
+      "detail_url": "https://www.rhs.org.uk/plants/88980/acer-palmatum-shikageori-nishiki-(p)/details",
+      "botanical_name": "Acer palmatum 'Shikageori-nishiki' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Shikageori-nishiki' (P)",
+    "Shikage ori nishiki",
+    "Shikageori-nishiki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Shikage ori nishiki'",
+    "Acer palmatum 'Shikageori-nishiki' (P)",
+    "Shikage ori nishiki",
+    "Shikageori-nishiki"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 88980,
+    "rhs_url": "https://www.rhs.org.uk/plants/88980/acer-palmatum-shikageori-nishiki-(p)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Shikageori-nishiki' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Shikageori-nishiki"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该品种的紫红色叶片带有褐色底调，这是其识别特征之一。新叶期这种不太明显的褐色常被紫红色所掩盖，之后才逐渐显现，但始终不会很强烈。到夏末，这种褐色调会变为暗淡的褐绿色，秋季再转橙色。叶片七裂，偶有五裂，但两个基部裂片很小，有时甚至缺失。每个裂片均为长椭圆状卵形，末端延伸为细长尖头。裂片深达叶基约四分之三。裂片上半部叶缘深锯齿，下半部则几乎无齿。叶片长 7 至 8 厘米，宽 9 至 10 厘米。红色叶柄长约 3 厘米。该品种较耐寒，生长势较强，成熟后形成开展型灌丛，高约 4 至 5 米。其知名度并不高。'Shikage ori nishiki' 自 18 世纪早期起即有记载，不过 Gen"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,74 @@
+{
+  "id": "acer-palmatum-hubble",
+  "canonical_key": "hubble",
+  "canonical_name": "Hubble",
+  "display_name": "Hubble",
+  "chinese_name": "哈伯的超级栓皮",
+  "scientific_name": "Acer palmatum",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "荒皮系列",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": ""
+  },
+  "images": {
+    "count": 2,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/荒皮系列/209_哈伯的超级栓皮Acer palmatum'Hubble's Super Cork'/01.jpg",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/荒皮系列/209_哈伯的超级栓皮Acer palmatum'Hubble's Super Cork'/01.jpg",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/荒皮系列/209_哈伯的超级栓皮Acer palmatum'Hubble's Super Cork'/02.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/209_%E5%93%88%E4%BC%AF%E7%9A%84%E8%B6%85%E7%BA%A7%E6%A0%93%E7%9A%AEAcer%20palmatum'Hubble's%20Super%20Cork'/01.jpg",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/209_%E5%93%88%E4%BC%AF%E7%9A%84%E8%B6%85%E7%BA%A7%E6%A0%93%E7%9A%AEAcer%20palmatum'Hubble's%20Super%20Cork'/01.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/209_%E5%93%88%E4%BC%AF%E7%9A%84%E8%B6%85%E7%BA%A7%E6%A0%93%E7%9A%AEAcer%20palmatum'Hubble's%20Super%20Cork'/02.jpg"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/209_%E5%93%88%E4%BC%AF%E7%9A%84%E8%B6%85%E7%BA%A7%E6%A0%93%E7%9A%AEAcer%20palmatum'Hubble's%20Super%20Cork'/01.jpg",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/209_%E5%93%88%E4%BC%AF%E7%9A%84%E8%B6%85%E7%BA%A7%E6%A0%93%E7%9A%AEAcer%20palmatum'Hubble's%20Super%20Cork'/01.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/209_%E5%93%88%E4%BC%AF%E7%9A%84%E8%B6%85%E7%BA%A7%E6%A0%93%E7%9A%AEAcer%20palmatum'Hubble's%20Super%20Cork'/02.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "209",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/209.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=62",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "荒皮系列",
+      "title": "哈伯的超级栓皮Acer palmatum'Hubble's Super Cork'",
+      "description": "",
+      "image_count": 2
+    }
+  ],
+  "aliases": [
+    "Hubble",
+    "哈伯的超级栓皮",
+    "哈伯的超级栓皮Acer palmatum'Hubble's Super Cork'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Hubble",
+    "哈伯的超级栓皮",
+    "哈伯的超级栓皮Acer palmatum'Hubble's Super Cork'",
+    "荒皮系列",
+    "鸡爪槭"
+  ],
+  "source_count": 1,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": false,
+  "rhs": null,
+  "has_mrmaple": false,
+  "descriptions_zh": {
+    "preferred": "疑为 Hubble's Super Cork。以极明显、出现较早的栓皮树皮闻名，枝干粗糙开裂，冬季观赏性很强。树形多为直立型，适合作为强调枝干质感的标本树。"
+  }
+}

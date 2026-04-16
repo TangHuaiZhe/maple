@@ -1,0 +1,143 @@
+{
+  "id": "acer-palmatum-asuka",
+  "canonical_key": "asuka",
+  "canonical_name": "Asuka",
+  "display_name": "Asuka",
+  "chinese_name": "明日香",
+  "scientific_name": "Acer Palmatum 'Asuka'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "黄叶",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "春天绿色，夏天深绿色，秋天的橙红色，叶裂很深，成 年树高约 3 米。"
+  },
+  "images": {
+    "count": 5,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/246_明日香Acer Palmatum 'Asuka'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/246_明日香Acer Palmatum 'Asuka'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/246_明日香Acer Palmatum 'Asuka'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/246_明日香Acer Palmatum 'Asuka'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/246_明日香Acer Palmatum 'Asuka'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/246_明日香Acer Palmatum 'Asuka'/05.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/246_%E6%98%8E%E6%97%A5%E9%A6%99Acer%20Palmatum%20'Asuka'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/246_%E6%98%8E%E6%97%A5%E9%A6%99Acer%20Palmatum%20'Asuka'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/246_%E6%98%8E%E6%97%A5%E9%A6%99Acer%20Palmatum%20'Asuka'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/246_%E6%98%8E%E6%97%A5%E9%A6%99Acer%20Palmatum%20'Asuka'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/246_%E6%98%8E%E6%97%A5%E9%A6%99Acer%20Palmatum%20'Asuka'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/246_%E6%98%8E%E6%97%A5%E9%A6%99Acer%20Palmatum%20'Asuka'/05.jpg"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/246_%E6%98%8E%E6%97%A5%E9%A6%99Acer%20Palmatum%20'Asuka'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/246_%E6%98%8E%E6%97%A5%E9%A6%99Acer%20Palmatum%20'Asuka'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/246_%E6%98%8E%E6%97%A5%E9%A6%99Acer%20Palmatum%20'Asuka'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/246_%E6%98%8E%E6%97%A5%E9%A6%99Acer%20Palmatum%20'Asuka'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/246_%E6%98%8E%E6%97%A5%E9%A6%99Acer%20Palmatum%20'Asuka'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/246_%E6%98%8E%E6%97%A5%E9%A6%99Acer%20Palmatum%20'Asuka'/05.jpg"
+    ],
+    "public_count": 5
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "246",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/246.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=27",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "黄叶",
+      "title": "明日香Acer Palmatum 'Asuka'",
+      "description": "春天绿色，夏天深绿色，秋天的橙红色，叶裂很深，成 年树高约 3 米。",
+      "image_count": 5
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 366872,
+      "detail_url": "https://www.rhs.org.uk/plants/366872/acer-palmatum-asuka-(a)/details",
+      "botanical_name": "Acer palmatum 'Asuka' (A)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Asuka' (A)",
+    "Asuka",
+    "明日香",
+    "明日香Acer Palmatum 'Asuka'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Asuka'",
+    "Acer palmatum",
+    "Acer palmatum 'Asuka' (A)",
+    "Asuka",
+    "明日香",
+    "明日香Acer Palmatum 'Asuka'",
+    "鸡爪槭",
+    "黄叶"
+  ],
+  "source_count": 2,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 366872,
+    "rhs_url": "https://www.rhs.org.uk/plants/366872/acer-palmatum-asuka-(a)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Asuka' (A)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Asuka"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "春天绿色，夏天深绿色，秋天的橙红色，叶裂很深，成 年树高约 3 米。"
+  },
+  "has_mrmaple": false
+}

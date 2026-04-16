@@ -1,0 +1,267 @@
+{
+  "id": "acer-palmatum-toyama-nishiki",
+  "canonical_key": "toyama nishiki",
+  "canonical_name": "Toyama nishiki",
+  "display_name": "Toyama nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Toyama nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dissectum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "The basic leaf color is purple red to greenish red, variegated to a greater or lesser degree. Some leaves lack variegation; others are completely pink as they first open in the spring. Most markings are pink or white and insert into portions of the lobes or blend into the leaf in endless variation. Each leaf has a different pattern. When the plant is grown in shade, its colors are more intense occur at or near the variegated areas. The leaves are 6-8 cm long and wide, and the petioles are 3-4 cm long. This rather tender and not very robust maple needs considerable care and attention. It should be grafted high or staked when young to get more height. It is difficult to propagate and is not common in collections. The following are also considered synonyms, alternate spellings, or misspellings of this cultivar—"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-toyama-nishiki/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-toyama-nishiki/01-toyomanishiki.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-toyama-nishiki/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-toyama-nishiki/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG",
+      "/herter-images/acer-palmatum-toyama-nishiki/01-toyomanishiki.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Toyama nishiki",
+      "page_range": "222-223",
+      "group": "dissectum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 153800,
+      "detail_url": "https://www.rhs.org.uk/plants/153800/acer-palmatum-toyama-nishiki-(dw-v)/details",
+      "botanical_name": "Acer palmatum 'Toyama-nishiki' (Dw/v)",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Toyoma Nishiki Variegated Laceleaf Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/toyoma-nishiki-variegated-laceleaf-japanese-maple/",
+      "description": "This is a very rare grafted japanese maple with variegated lace leaves! Very nice colors on this maple make if very unusual. Each leaf can have pinks, yellows, greens, purples, all on the same tree! This is the most unusual variegated japanese maple that i grow.",
+      "group": "All Japanese Maples / Lace Leaf Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Beni-shidare Tricolor'",
+    "Acer palmatum 'Beni-shidare Variegated'",
+    "Acer palmatum 'Goshiki-shidare'",
+    "Acer palmatum 'Toyama-nishiki' (Dw/v)",
+    "Acer palmatum var. dissectum 'Beni-shidare Tricolor'",
+    "Acer palmatum var. dissectum 'Goshiki-shidare'",
+    "Beni-shidare Tricolor",
+    "Beni-shidare Variegated",
+    "Goshiki-shidare",
+    "Japanese maple 'Toyama-nishiki'",
+    "Toyama nishiki",
+    "Toyama-nishiki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Beni-shidare Tricolor'",
+    "Acer palmatum 'Beni-shidare Variegated'",
+    "Acer palmatum 'Goshiki-shidare'",
+    "Acer palmatum 'Toyama nishiki'",
+    "Acer palmatum 'Toyama-nishiki' (Dw/v)",
+    "Acer palmatum var. dissectum 'Beni-shidare Tricolor'",
+    "Acer palmatum var. dissectum 'Goshiki-shidare'",
+    "Beni-shidare Tricolor",
+    "Beni-shidare Variegated",
+    "Goshiki-shidare",
+    "Japanese maple 'Toyama-nishiki'",
+    "Toyama nishiki",
+    "Toyama-nishiki"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 153800,
+    "rhs_url": "https://www.rhs.org.uk/plants/153800/acer-palmatum-toyama-nishiki-(dw-v)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Toyama-nishiki' (Dw/v)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Toyama-nishiki'"
+    ],
+    "synonyms": [
+      "Acer palmatum var. dissectum 'Beni-shidare Tricolor'",
+      "Acer palmatum 'Beni-shidare Tricolor'",
+      "Acer palmatum 'Goshiki-shidare'",
+      "Acer palmatum 'Beni-shidare Variegated'",
+      "Acer palmatum var. dissectum 'Goshiki-shidare'"
+    ],
+    "cultivar_names": [
+      "Beni-shidare Tricolor",
+      "Beni-shidare Variegated",
+      "Goshiki-shidare",
+      "Toyama-nishiki"
+    ],
+    "description": "A small, rounded, bushy tree growing slowly to about 1.5m in height. The 7 or 9 lobed, very dissected, lacy leaves have a basic leaf colour of purple-red to greenish red, variegated and streaked randomly pink or white, more intensely coloured when grown in shade, turning orange and yellow in autumn. Inconspicuous hanging clusters of small, green flowers are followed by red-flushed, winged seeds",
+    "dimensions": {
+      "height": "1-1.5 metres",
+      "spread": "1-1.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H5 (hardy - cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Sand, Loam",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Patio/Container Plants",
+      "hort_group_description": "Acers in this dwarf group are compact and slow-growing, making them ideal for pots and containers"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. Suits container cultivation but attention to watering is needed in dry spells during the growing season. Suitable for bonsai cultivation . See Japanese maple cultivation",
+      "pruning": "Very little to no pruning required. If necessary Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-toyama-nishiki/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG",
+          "source_page_url": "https://www.rhs.org.uk/plants/153800/acer-palmatum-toyama-nishiki-(dw-v)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-toyama-nishiki/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG",
+          "content_type": "image/jpeg",
+          "bytes": 201672,
+          "downloaded_at": "2026-04-14T01:48:00+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "attributes": {
+      "suggested_uses": "城市庭院花园、乡村风或自然式花园、花境与花坛、庭院容器栽培",
+      "hort_group_description": "这一矮生类群的 Acer 株形紧凑、生长缓慢，因此非常适合盆栽和容器栽培。"
+    },
+    "care": {
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。",
+      "cultivation": "宜栽培于保水性好且排水良好的土壤中，种植位置应避风。叶色在半阴环境下表现最佳；若土壤湿度稳定充足，也可耐全日照。土壤缺水或暴晒过度会导致叶片焦枯。适合盆栽，但在生长季干旱时段需特别注意浇水。也适合制作盆景。参见 Japanese maple 栽培说明。",
+      "pruning": "几乎不需要修剪，或完全无需修剪。如有必要，仅可在晚秋至隆冬期间按修剪第 1 组进行修剪。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
+    },
+    "description": "小型、圆整、丛生的灌木状小乔木，生长缓慢，株高约可达 1.5 米。叶 7 或 9 裂，裂刻极深、质感纤细如蕾丝，基本叶色为紫红至带绿色调的红色，并随机分布粉色或白色条斑；在半阴环境下色彩更为浓艳，秋季转为橙色和黄色。花小而不显著，绿色，成下垂簇生，随后结带红晕的翅果。"
+  },
+  "descriptions_zh": {
+    "preferred": "叶片基础色为紫红至带绿色调的红色，并带有程度不一的斑锦。有些叶片没有斑纹；另一些在春季初展时则几乎全为粉色。大多数斑纹呈粉色或白色，嵌入裂片部分区域，或以无穷变化的形式融入整片叶中。每一片叶的花纹都不同。植株在阴处栽培时，其色彩会更为浓艳。焦边常发生在斑锦区域或其附近。叶片长宽均为 6-8 厘米，叶柄长 3-4 厘米。这个品种较为娇嫩，生长势也不算强健，需要相当细致的养护。幼株宜高接，或在幼年期立桩扶正，以获得更高的株形。其繁殖较困难，在收藏中并不常见。以下名称也被视为该品种的异名、替代拼写或误拼：'Sotoyama nishiki'、'Toya nishiki' 和"
+  },
+  "has_mrmaple": false,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-toyama-nishiki/01-toyomanishiki.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-toyama-nishiki/01-toyomanishiki.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1585,
+        "name": "Toyoma Nishiki Variegated Laceleaf Japanese Maple",
+        "slug": "toyoma-nishiki-variegated-laceleaf-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/toyoma-nishiki-variegated-laceleaf-japanese-maple/",
+        "description_text": "This is a very rare grafted japanese maple with variegated lace leaves! Very nice colors on this maple make if very unusual. Each leaf can have pinks, yellows, greens, purples, all on the same tree! This is the most unusual variegated japanese maple that i grow.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Lace Leaf Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 70
+        },
+        "review_count": 722,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "override",
+        "match_candidate": "toyoma-nishiki-variegated-laceleaf-japanese-maple"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/toyomanishiki.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-toyama-nishiki/01-toyomanishiki.jpg",
+          "bytes": 18293,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:49:33.345Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-toyama-nishiki/01-toyomanishiki.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

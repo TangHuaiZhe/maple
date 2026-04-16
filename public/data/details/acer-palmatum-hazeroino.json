@@ -1,0 +1,118 @@
+{
+  "id": "acer-palmatum-hazeroino",
+  "canonical_key": "hazeroino",
+  "canonical_name": "Hazeroino",
+  "display_name": "Hazeroino",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Hazeroino'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "other The leaf shape of this cultivar is almost identical to that of 'Hagoromo'. However, the primary difference is in the variegated coloration. The leaf is occasionally whiteflecked with cream-colored irregular spots. It is not a strong color variegation, nor does it appear on all the leaves. If the plant is too vigorous or too highly fertilized, the variegations are masked for a growth period or two. Every effort should be made to keep the plant in good vigor but not overstimulated. It is not as strong growing as the non-variegated forms"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Hazeroino",
+      "page_range": "147",
+      "group": null,
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 65837,
+      "detail_url": "https://www.rhs.org.uk/plants/65837/acer-palmatum-hazeroino-(v)/details",
+      "botanical_name": "Acer palmatum 'Hazeroino' (v)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Hazeroino' (v)",
+    "Hazeroino"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Hazeroino'",
+    "Acer palmatum 'Hazeroino' (v)",
+    "Hazeroino"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 65837,
+    "rhs_url": "https://www.rhs.org.uk/plants/65837/acer-palmatum-hazeroino-(v)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Hazeroino' (v)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Hazeroino"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该品种的叶形与 'Hagoromo' 几乎完全相同，主要区别在于其斑叶着色。叶片偶尔会散布白色小斑点和乳白色不规则斑块。这种斑色并不强烈，也不会出现在所有叶片上。若植株生长过旺或施肥过重，斑纹会在一两个生长期内被掩盖。应尽量保持植株健壮，但避免过度刺激生长。其长势不如无斑叶类型 'Hagoromo' 和 'Koshimino'，最终高度约 3 米。其名称曾被误拼为 'Hageriono'。另有一段资料显示：该品种叶片裂片深裂；随着叶片发育、裂片逐渐展开，叶色转为较普通的紫铜色，秋季则变为鲜艳的橙红至猩红色。大型五裂叶长可达 9–10 厘米、宽 10–11 厘米，约分裂至叶基的四分之三处。每个宽裂片呈卵形，先端尖，中部宽可达 2.5 厘米，在裂片连接处收窄至 1–1.2 厘米。叶缘具许多细尖的重锯齿。粗壮的深红色叶柄长可达 4 厘米。植株形成直立、枝叶繁密的小乔木，成熟时高、宽约 5–6 米。"
+  },
+  "has_mrmaple": false
+}

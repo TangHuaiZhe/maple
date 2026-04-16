@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-garyu",
+  "canonical_key": "garyu",
+  "canonical_name": "Garyu¯",
+  "display_name": "Garyu¯",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Garyu¯'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The small medium green to light green leaves have three to five very narrow lobes separated almost entirely to the base. The lobes are elongate-lanceolate, tapering to a narrow tip. They twist sideways, curl up or down, or become slightly sickle-shaped. The margins are complex—deeply toothed to lobulate or combinations of both. The entire appearance of the foliage is disorganized but attractive. New leaves have a red overtone, which may persist around the margins. This compact dwarf is semiprostrate in habit. It eventually reaches about 3 ft. (1 m) high and wide. The name means \"one's own style or manner,\" aptly describing this cultivar's distinctive foliage."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Garyu¯",
+      "page_range": "69-70",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 198123,
+      "detail_url": "https://www.rhs.org.uk/plants/198123/acer-palmatum-garyu-(dw)/details",
+      "botanical_name": "Acer palmatum 'Garyū' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Garyū' (Dw)",
+    "Garyu¯",
+    "Garyū"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Garyu¯'",
+    "Acer palmatum 'Garyū' (Dw)",
+    "Garyu¯",
+    "Garyū"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 198123,
+    "rhs_url": "https://www.rhs.org.uk/plants/198123/acer-palmatum-garyu-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Garyū' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Garyū"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "小型的中绿色至浅绿色叶片有三至五个极狭长的裂片，裂片几乎一直分裂到叶基。裂片呈细长披针形，先端渐尖。裂片会向侧面扭转、向上或向下卷曲，或略呈镰刀状。叶缘变化复杂，可为深锯齿、浅裂，或两者兼具。整体叶姿显得不规整，却颇具观赏性。新叶带有一层红色晕染，且这种红色有时会持续保留在叶缘。该品种为紧凑型矮生植株，株形半匍匐。最终高、宽约 3 英尺（1 米）。其名称意为“自己的风格或方式”，恰如其分地描述了该品种独特的叶态。"
+  },
+  "has_mrmaple": false
+}

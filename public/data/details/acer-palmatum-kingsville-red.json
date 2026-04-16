@@ -1,0 +1,61 @@
+{
+  "id": "acer-palmatum-kingsville-red",
+  "canonical_key": "kingsville red",
+  "canonical_name": "Kingsville Red",
+  "display_name": "Kingsville Red",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Kingsville Red'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar was selected by Henry Hohman of Kingsville, Maryland. He was a very observant plantsman and selected outstanding clones of several genera of plants. 'Kingsville Red' is an Acer palmatum f. atropurpureum selection which is vigorous, hardy, and upright, and grows to about 8 m. The bright red-purple tone holds well in the Pacific Northwest climate into the late summer. It does not seem to sunburn as do some other reds. The large leaves are seven lobed, separated almost three-quarters of the way to the leaf base. The leaves are 6-7 cm long and up to 10 cm wide. The lobes are oblong, tapering to a slender tip. The smaller basal lobes of the pal-"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Kingsville Red",
+      "page_range": "159-160",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Kingsville Red"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Kingsville Red'",
+    "Kingsville Red"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "该品种由马里兰州 Kingsville 的 Henry Hohman 选育。他是一位极具观察力的植物家，从多个植物属中选出了许多优良无性系。'Kingsville Red' 是 Acer palmatum f. atropurpureum 的一个选育品种，长势强健、耐寒、株形直立，可长至约 8 米。在美国太平洋西北地区气候下，其鲜亮的红紫色可一直保持到夏末，不像某些其他红叶品种那样容易日灼。叶片较大，通常 7 裂，分裂深度接近叶基的四分之三；叶长 6-7 厘米，宽可达 10 厘米。裂片呈长圆形，先端渐尖而细长。'Kingsville Variegated' 也是 Henry Hohman 的选育品种之一，值得在日本枫收藏中占有一席之地。一般推测它可能是"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-curtis-strapleaf",
+  "canonical_key": "curtis strapleaf",
+  "canonical_name": "Curtis Strapleaf",
+  "display_name": "Curtis Strapleaf",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Curtis Strapleaf'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "linearilobum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The late William Curtis of Wil-Chris Acres, Sherwood, Oregon, selected this robust, newer linearilobum. The young leaves emerge a bright red and quickly change to plum red, a color held well into late summer with the undersides becoming a bronze gray-green. The deeper color is held longer than that of the popular"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Curtis Strapleaf",
+      "page_range": "133",
+      "group": "linearilobum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 269431,
+      "detail_url": "https://www.rhs.org.uk/plants/269431/acer-palmatum-curtis-strapleaf-(l)/details",
+      "botanical_name": "Acer palmatum 'Curtis Strapleaf' (L)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Curtis Strapleaf' (L)",
+    "Curtis Strapleaf"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Curtis Strapleaf'",
+    "Acer palmatum 'Curtis Strapleaf' (L)",
+    "Curtis Strapleaf"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 269431,
+    "rhs_url": "https://www.rhs.org.uk/plants/269431/acer-palmatum-curtis-strapleaf-(l)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Curtis Strapleaf' (L)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Curtis Strapleaf"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "俄勒冈州舍伍德 Wil-Chris Acres 的已故 William Curtis 选育了这一强健的新型 linearilobum 品种。幼叶萌发时呈鲜红色，随后很快转为李子红，这种颜色可良好保持至夏末，叶背则变为带青灰感的铜绿色。其深色保持时间比常见的 'Atrolineare' 更长。秋季叶色转为橙色。叶片 5 裂，裂片舒展，长 8-9 厘米，宽 11-12 厘米。每个带状裂片细长，中部略宽，宽可达 5-6 毫米。叶缘散生不规则的浅尖锯齿。细长的深红色叶柄长 3-3.5 厘米。'Curtis Strapleaf' 形成生长旺盛的直立小乔木，树冠和枝叶较为疏朗，最终高度约 3 米。"
+  },
+  "has_mrmaple": false
+}

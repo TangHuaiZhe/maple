@@ -1,0 +1,402 @@
+{
+  "id": "acer-palmatum-tsukushi-gata",
+  "canonical_key": "tsukushi gata",
+  "canonical_name": "Tsukushi gata",
+  "display_name": "Tsukushi gata",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Tsukushi gata'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Amoenum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This tree attracts attention in any garden. The rich purple-red or black-red leaves are spectacular and hold their color quite well all season, so this remains a dark-foliage tree. However, on the shaded sides and leaf undersides, a green cast develops under the dark tones. The midveins of each lobe are a noticeable green contrast. The beautiful fruits are almost a chartreuse color and seem to sparkle among the deep-toned foliage. The seven-lobed large leaves are 7-9 cm long and 8-10 cm wide. They appear much longer than broad, however, because the center lobes are predominant. The lobes radiate stiffly and are divided to about halfway to the leaf base. They are broadly ovate, tapering to a sharp point. The appearance is almost star shaped. The light yellowpink petioles are 4 cm long. This strong-growing plant forms a medium-sized round-topped spreading tree of 4 m or more tall and almost as wide. It is one of the better dark-toned cultivars but not widely known. The difficulty in translating the first syllable accounts for the numerous spellings of this name—"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/01-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070292.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/02-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070301.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/03-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070302.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/04-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070303.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/05-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070304.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/06-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070293.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/07-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070294.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/08-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070295.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/09-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070296.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/10-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070297.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/11-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070298.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/12-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070299.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/13-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070300.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/01-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070292.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/01-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070292.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/02-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070301.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/03-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070302.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/04-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070303.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/05-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070304.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/06-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070293.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/07-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070294.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/08-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070295.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/09-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070296.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/10-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070297.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/11-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070298.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/12-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070299.jpg",
+      "/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/13-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070300.jpg"
+    ],
+    "public_count": 13
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Tsukushi gata",
+      "page_range": "172-173",
+      "group": "Amoenum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 65397,
+      "detail_url": "https://www.rhs.org.uk/plants/65397/acer-palmatum-tsukushigata-(a)/details",
+      "botanical_name": "Acer palmatum 'Tsukushigata' (A)",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "Acer palmatum 'Tsukushigata' Japanese Maple",
+      "handle": "buy-acer-palmatum-tsukushigata-japanese-maple",
+      "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 13,
+      "match_method": "canonical_compact",
+      "match_score": 115,
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Tsukushi gata",
+      "page_range": "225",
+      "group": "amoenum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Tsukushigata' (A)",
+    "Tsukushi gata",
+    "Tsukushigata"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Tsukushi gata'",
+    "Acer palmatum 'Tsukushigata' (A)",
+    "Tsukushi gata",
+    "Tsukushigata"
+  ],
+  "source_count": 4,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 65397,
+    "rhs_url": "https://www.rhs.org.uk/plants/65397/acer-palmatum-tsukushigata-(a)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Tsukushigata' (A)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Tsukushigata"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这是一株在任何花园中都很吸睛的树。其浓郁的紫红色或近黑红色叶片极为出色，整个生长季持色性相当好，因此始终保持深色叶效果。不过，在背阴面及叶背，深色调下会透出一些绿色感；每个裂片的中脉也呈明显的绿色对比。其果实十分美丽，近黄绿色，在深色叶丛中仿佛闪闪发光。大型叶片通常七裂，长 7-9 厘米、宽 8-10 厘米。由于中央裂片特别突出，视觉上显得长于宽。裂片硬挺地向外放射，分裂约达叶基的一半，呈宽卵形，渐尖，整体几近星形。浅黄粉色叶柄长约 4 厘米。该品种生长势强，形成中等大小、圆顶开展的乔木，高约 4 米或更高，冠幅近似相当。它是较优秀的深色叶品种之一，但并不广为人知。由于其名称首音节较难转写，故出现了多种拼写形式，如"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 1,
+    "local_file_count": 13,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/01-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070292.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/01-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070292.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/02-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070301.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/03-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070302.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/04-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070303.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/05-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070304.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/06-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070293.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/07-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070294.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/08-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070295.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/09-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070296.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/10-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070297.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/11-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070298.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/12-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070299.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/13-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070300.jpg"
+    ],
+    "products": [
+      {
+        "title": "Acer palmatum 'Tsukushigata' Japanese Maple",
+        "handle": "buy-acer-palmatum-tsukushigata-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+        "product_type": "",
+        "tags": [
+          "10 @ 10 AM",
+          "4thSale",
+          "bcelebration",
+          "blkfriday2025",
+          "BSaving25",
+          "Cold Hardiness Zone_Zone 5",
+          "Cold Hardiness Zone_Zone 6",
+          "Cold Hardiness Zone_Zone 7",
+          "Cold Hardiness Zone_Zone 8",
+          "Cold Hardiness Zone_Zone 9",
+          "Colors_Golden",
+          "Colors_Green",
+          "Colors_Orange",
+          "Colors_Pink",
+          "dec14",
+          "EOY",
+          "eoy25",
+          "FALLSALE25",
+          "Feature_Flowering",
+          "Habit_Upright",
+          "Habitat Conditions_Shady Areas",
+          "Habitat Conditions_Sunlit Areas",
+          "NEWYEARS26",
+          "Size_Medium",
+          "Species_Acer palmatum",
+          "SPRINGSALE25",
+          "Sun In_Zone 5",
+          "Sun In_Zone 6",
+          "Sun In_Zone 7",
+          "Type_Japanese Maple",
+          "Use_Containers",
+          "VDAYSALE26",
+          "weeklywhammy"
+        ],
+        "description_text": "Acer palmatum 'Tsukushigata' Deep Red Japanese Maple Zones 5-9 'Tsukushigata' is a unique Japanese maple with large star shaped leaves that are brick red in color in the early spring becoming more chocolate red as they mature. This tree is especially beautiful and under-utilized. I think it might get more mainstream if it had a name like “Chocolate Stars”. ‘Tsukushigata’ has a great rich chocolate color to the leaves and also has nice lime green stemming that creates a winning contrasting combination. During the summer the lime green veins become more prominent in the leaf. ‘Tsukushigata’ may turn from yellow to fiery orange red in the fall. ‘Tsukushigata’ may reach 10-12 ft in height in 10 years.",
+        "published_at": "2026-03-14T09:00:10-04:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_compact",
+        "match_score": 115,
+        "matched_title_species": "Acer palmatum",
+        "matched_title_cultivar": "Tsukushigata",
+        "images": {
+          "count": 13,
+          "downloaded_count": 13,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/01-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070292.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/02-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070301.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/03-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070302.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/04-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070303.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/05-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070304.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/06-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070293.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/07-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070294.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/08-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070295.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/09-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070296.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/10-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070297.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/11-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070298.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/12-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070299.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/13-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070300.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070292.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070292.jpg?v=1756343881",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/01-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070292.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 76460,
+              "downloaded_at": "2026-04-14T02:32:34+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070301.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070301.jpg?v=1756343882",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/02-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070301.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 117193,
+              "downloaded_at": "2026-04-14T02:32:33+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070302.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070302.jpg?v=1756343882",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/03-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070302.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 102718,
+              "downloaded_at": "2026-04-14T02:32:35+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 4,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070303.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070303.jpg?v=1756343882",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/04-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070303.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 103050,
+              "downloaded_at": "2026-04-14T02:32:35+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 5,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070304.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070304.jpg?v=1756343882",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/05-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070304.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 127108,
+              "downloaded_at": "2026-04-14T02:32:35+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 6,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070293.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070293.jpg?v=1756343881",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/06-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070293.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 272883,
+              "downloaded_at": "2026-04-14T02:32:35+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 7,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070294.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070294.jpg?v=1756343881",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/07-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070294.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 772958,
+              "downloaded_at": "2026-04-14T02:32:37+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 8,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070295.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070295.jpg?v=1756343881",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/08-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070295.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 112367,
+              "downloaded_at": "2026-04-14T02:32:35+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 9,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070296.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070296.jpg?v=1756343881",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/09-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070296.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 291709,
+              "downloaded_at": "2026-04-14T02:32:36+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 10,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070297.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070297.jpg?v=1756343881",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/10-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070297.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 112906,
+              "downloaded_at": "2026-04-14T02:32:38+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 11,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070298.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070298.jpg?v=1756343882",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/11-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070298.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 112219,
+              "downloaded_at": "2026-04-14T02:32:36+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 12,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070299.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070299.jpg?v=1756343882",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/12-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070299.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 122433,
+              "downloaded_at": "2026-04-14T02:32:38+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 13,
+              "filename": "Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070300.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070300.jpg?v=1756343882",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsukushigata-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsukushigata-japanese-maple/13-Acer_palmatum_Tsukushigata_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070300.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 110342,
+              "downloaded_at": "2026-04-14T02:32:36+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "rhs_zh": null
+}

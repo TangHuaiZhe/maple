@@ -1,0 +1,137 @@
+{
+  "id": "acer-palmatum-nishiki-yamato",
+  "canonical_key": "nishiki yamato",
+  "canonical_name": "Nishiki Yamato",
+  "display_name": "Nishiki Yamato",
+  "chinese_name": "锦大和",
+  "scientific_name": "Acer palmatum 'Nishiki Yamato'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "荒皮系列",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": ""
+  },
+  "images": {
+    "count": 1,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/荒皮系列/210_锦大和Acer palmatum 'Nishiki Yamato'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/荒皮系列/210_锦大和Acer palmatum 'Nishiki Yamato'/01.png"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/210_%E9%94%A6%E5%A4%A7%E5%92%8CAcer%20palmatum%20'Nishiki%20Yamato'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/210_%E9%94%A6%E5%A4%A7%E5%92%8CAcer%20palmatum%20'Nishiki%20Yamato'/01.png"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/210_%E9%94%A6%E5%A4%A7%E5%92%8CAcer%20palmatum%20'Nishiki%20Yamato'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/210_%E9%94%A6%E5%A4%A7%E5%92%8CAcer%20palmatum%20'Nishiki%20Yamato'/01.png"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "210",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/210.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=62",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "荒皮系列",
+      "title": "锦大和Acer palmatum 'Nishiki Yamato'",
+      "description": "",
+      "image_count": 1
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 299802,
+      "detail_url": "https://www.rhs.org.uk/plants/299802/acer-palmatum-nishiki-yamato/details",
+      "botanical_name": "Acer palmatum 'Nishiki-yamato'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Nishiki-yamato'",
+    "Japanese maple 'Nishiki-yamato'",
+    "Nishiki Yamato",
+    "Nishiki-yamato",
+    "锦大和",
+    "锦大和Acer palmatum 'Nishiki Yamato'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Nishiki Yamato'",
+    "Acer palmatum 'Nishiki-yamato'",
+    "Japanese maple 'Nishiki-yamato'",
+    "Nishiki Yamato",
+    "Nishiki-yamato",
+    "荒皮系列",
+    "锦大和",
+    "锦大和Acer palmatum 'Nishiki Yamato'",
+    "鸡爪槭"
+  ],
+  "source_count": 2,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 299802,
+    "rhs_url": "https://www.rhs.org.uk/plants/299802/acer-palmatum-nishiki-yamato/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Nishiki-yamato'",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Nishiki-yamato'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Nishiki-yamato"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "has_mrmaple": false,
+  "descriptions_zh": {
+    "preferred": "生长较快的荒皮系日本枫，树皮会随年龄增长形成类似松树皮的粗糙木栓质感。春叶偏亮绿并可带些棕粉色调，夏季转为稳定的绿色，秋季转为鲜明的橙红到火红色，兼具树皮与秋色观赏性。"
+  }
+}

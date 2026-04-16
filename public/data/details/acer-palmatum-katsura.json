@@ -1,0 +1,336 @@
+{
+  "id": "acer-palmatum-katsura",
+  "canonical_key": "katsura",
+  "canonical_name": "Katsura",
+  "display_name": "Katsura",
+  "chinese_name": "金贵",
+  "scientific_name": "Acer Palmatum 'Katsura'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "黄叶",
+  "book_groups": [
+    "Palmatum",
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This delightful form is quite striking in its spring growth. As the leaves develop, they are a pale yellow orange. The margins shade into a brighter orange. The color is difficult to describe accurately, but it is rather lobes are ovate-lanceolate, tapering to a long point, and separated three-quarters of the way to the leaf base. The sides of the lobes are shallowly toothed. The center lobe is always longer, and the leaves tend to turn downwards, giving a distinct appearance to the plant. The petioles are 1-1.5 cm long. 'Katsura' seems to be a small growing form in North America, with the leaf nodes and twigs quite close together so that the foliage is dense. The upright growth quickly broadens with side branching. In Europe, this cultivar seems to grow taller, reaching more than 8 m high. Repeated pruning makes it a more compact plant. It adapts well to bonsai culture. The name 'Katsura' means a \"wig\" and the plant has been known as"
+  },
+  "images": {
+    "count": 10,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/218_金贵Acer Palmatum 'Katsura'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/218_金贵Acer Palmatum 'Katsura'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/218_金贵Acer Palmatum 'Katsura'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/218_金贵Acer Palmatum 'Katsura'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/218_金贵Acer Palmatum 'Katsura'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/218_金贵Acer Palmatum 'Katsura'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/218_金贵Acer Palmatum 'Katsura'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/218_金贵Acer Palmatum 'Katsura'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/218_金贵Acer Palmatum 'Katsura'/08.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/218_金贵Acer Palmatum 'Katsura'/09.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/218_金贵Acer Palmatum 'Katsura'/10.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/10.jpg"
+    ],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-katsura/01-WSYD0005435_5303.jpg",
+      "/rhs-images/acer-palmatum-katsura/02-papr00446.jpg",
+      "/rhs-images/acer-palmatum-katsura/03-vaem01573.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-katsura/01-katsura.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E9%BB%84%E5%8F%B6/218_%E9%87%91%E8%B4%B5Acer%20Palmatum%20'Katsura'/10.jpg",
+      "/rhs-images/acer-palmatum-katsura/01-WSYD0005435_5303.jpg",
+      "/rhs-images/acer-palmatum-katsura/02-papr00446.jpg",
+      "/rhs-images/acer-palmatum-katsura/03-vaem01573.jpg",
+      "/herter-images/acer-palmatum-katsura/01-katsura.jpg"
+    ],
+    "public_count": 14
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "218",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/218.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=27",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "黄叶",
+      "title": "金贵Acer Palmatum 'Katsura'",
+      "description": "金贵又名卡苏和桂，春天新叶呈黄色，边缘部分是更亮的橙色。随着季节的推移，叶子会逐渐变成黄绿色。秋天的颜色是亮黄色和橙色的。叶子通常为 5裂，叶边缘带有锯齿，叶柄较短。金贵长势好、抗性佳，成年树高约为6米， 在欧美苗圃有广泛的种植。 曾荣获 英国皇家园艺学会 (RHS) 花园优异奖 。",
+      "image_count": 10
+    },
+    {
+      "source": "timber_press",
+      "name": "Katsura",
+      "page_range": "90",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Katsura",
+      "page_range": "158-159",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 94932,
+      "detail_url": "https://www.rhs.org.uk/plants/94932/acer-palmatum-katsura-(p)/details",
+      "botanical_name": "Acer palmatum 'Katsura' (P)",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Katsura Orange Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/katsura-orange-japanese-maple/",
+      "description": "This grafted japanese maple has striking spring growth! They start out pale yellow-orange, then the margins become a brighter orange. Leaves then turn to yellow-green in summer. Fall colors are agin yellow-green. This is a small leaf maple, and makes a nice bonsai.",
+      "group": "All Japanese Maples / Broadleaf Upright Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Katsura' (P)",
+    "Japanese maple 'Katsura'",
+    "Katsura",
+    "金贵",
+    "金贵Acer Palmatum 'Katsura'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Katsura'",
+    "Acer palmatum",
+    "Acer palmatum 'Katsura' (P)",
+    "Japanese maple 'Katsura'",
+    "Katsura",
+    "金贵",
+    "金贵Acer Palmatum 'Katsura'",
+    "鸡爪槭",
+    "黄叶"
+  ],
+  "source_count": 5,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 94932,
+    "rhs_url": "https://www.rhs.org.uk/plants/94932/acer-palmatum-katsura-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Katsura' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Katsura'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Katsura"
+    ],
+    "description": "An upright, deciduous shrub with 5 to 7 lobed yellow-orange foliage with pink margins in spring, becoming green in summer and turning bright orange in autumn. Small red flowers may appear in spring",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "20-50 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "East-facing, South-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "Cottage/Informal Garden, Low Maintenance, City/Courtyard Gardens",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 3,
+      "filenames": [
+        "WSYD0005435_5303.jpg",
+        "papr00446.jpg",
+        "vaem01573.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-katsura/01-WSYD0005435_5303.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-katsura/02-papr00446.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-katsura/03-vaem01573.jpg"
+      ],
+      "downloaded_count": 3,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "WSYD0005435_5303.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/WSYD0005435_5303.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/94932/acer-palmatum-katsura-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-katsura/01-WSYD0005435_5303.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 128754,
+          "downloaded_at": "2026-04-14T01:47:49+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "papr00446.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/papr00446.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/94932/acer-palmatum-katsura-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-katsura/02-papr00446.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 358469,
+          "downloaded_at": "2026-04-14T01:47:49+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 3,
+          "filename": "vaem01573.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/vaem01573.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/94932/acer-palmatum-katsura-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-katsura/03-vaem01573.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 155163,
+          "downloaded_at": "2026-04-14T01:47:48+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一迷人的品种在春季萌发时尤为醒目。叶片展开时呈淡黄橙色，叶缘过渡为更明亮的橙色，这种色彩较难准确描述，但颇具特色。其裂片呈卵状披针形，渐尖成细长先端，分裂深度达叶基约四分之三；裂片边缘具浅锯齿。中央裂片总是更长，叶片整体常略向下垂，使植株呈现鲜明的独特姿态。叶柄长约 1-1.5 厘米。'Katsura' 在北美似乎属于小型生长型，叶节与小枝间距很近，因此叶幕致密；直立生长后很快因侧枝展开而变宽。在欧洲，该品种往往长得更高，可超过 8 米。反复修剪可使株形更紧凑，也很适合盆景栽培。'Katsura' 一名意为“假发”，该品种也曾被称为 'Katsura yatsubusa'。另有资料所述其叶长 6-7 厘米、宽 8-9 厘米，平展着生，叶柄较短，约 1-2 厘米。秋色发展为鲜明的黄金币色并带玫瑰色调，同时混有浅橙色与红色，秋色十分独特。枝条强健并向外斜伸，因此形成圆整的小乔木或高大灌木，高可达 6 米。树皮浓绿色，覆有蓝灰色调，随着树龄增长会出现明显的白色条纹。该品种健壮、耐寒、枝干结实，可为景观栽植增添不同的观赏效果。其名称意为“来自八丈岛”，也曾写作"
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。",
+      "suggested_uses": "乡村花园/自然式花园，低维护花园，城市/庭院花园"
+    },
+    "care": {
+      "cultivation": "宜种植于湿润但排水良好的土壤中。夏季如有需要应浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴露过度都可能导致叶片焦枯。",
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "直立性落叶灌木，叶片 5 至 7 裂，春季呈黄橙色并带粉色叶缘，夏季转绿，秋季变为鲜亮的橙色。春季可能开出小型红花。"
+  },
+  "has_mrmaple": false,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-katsura/01-katsura.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-katsura/01-katsura.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1418,
+        "name": "Katsura Orange Japanese Maple",
+        "slug": "katsura-orange-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/katsura-orange-japanese-maple/",
+        "description_text": "This grafted japanese maple has striking spring growth! They start out pale yellow-orange, then the margins become a brighter orange. Leaves then turn to yellow-green in summer. Fall colors are agin yellow-green. This is a small leaf maple, and makes a nice bonsai.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Broadleaf Upright Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 60
+        },
+        "review_count": 0,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "katsura"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/katsura.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-katsura/01-katsura.jpg",
+          "bytes": 17702,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:50:01.594Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-katsura/01-katsura.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

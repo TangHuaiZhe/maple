@@ -1,0 +1,269 @@
+{
+  "id": "acer-palmatum-shidava-gold",
+  "canonical_key": "shidava gold",
+  "canonical_name": "Shidava Gold",
+  "display_name": "Shidava Gold",
+  "chinese_name": "希达瓦金",
+  "scientific_name": "Acer Palmatum 'Shidava Gold'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "绿叶",
+  "book_groups": [
+    "Dwarf",
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This highly desirable dwarf was discovered as a witches'broom on the well-known 'Aoyagi' and was propagated and named by Raraflora Nursery, Berry, New South Wales, Australia. It is a miniature replica of its parent, with bright yellow-green leaves contrasting with the peagreen bark. The five-lobed palmatum-type leaves are divided more than two-thirds of the way to the leaf base and are slightly smaller than those of"
+  },
+  "images": {
+    "count": 9,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/252_希达瓦金Acer Palmatum 'Shidava Gold'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/252_希达瓦金Acer Palmatum 'Shidava Gold'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/252_希达瓦金Acer Palmatum 'Shidava Gold'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/252_希达瓦金Acer Palmatum 'Shidava Gold'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/252_希达瓦金Acer Palmatum 'Shidava Gold'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/252_希达瓦金Acer Palmatum 'Shidava Gold'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/252_希达瓦金Acer Palmatum 'Shidava Gold'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/252_希达瓦金Acer Palmatum 'Shidava Gold'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/252_希达瓦金Acer Palmatum 'Shidava Gold'/08.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/绿叶/252_希达瓦金Acer Palmatum 'Shidava Gold'/09.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/09.jpg"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-shidava-gold/01-shidavagold.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BB%BF%E5%8F%B6/252_%E5%B8%8C%E8%BE%BE%E7%93%A6%E9%87%91Acer%20Palmatum%20'Shidava%20Gold'/09.jpg",
+      "/herter-images/acer-palmatum-shidava-gold/01-shidavagold.jpg"
+    ],
+    "public_count": 10
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "252",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/252.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=28",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "绿叶",
+      "title": "希达瓦金Acer Palmatum 'Shidava Gold'",
+      "description": "澳大利亚人 Raraflora Nursery 在Acer Palmatum'Aoyagi' 青柳上发现的枝变品种，希达瓦金继承了母树的所 有特征，但树形更小更紧凑。春色嫩绿，夏天绿色， 秋天从浅黄色到金黄色。枝干绿色，在冬季可以和 观枝品种搭配，形成独特的景观。成年树可达到 2 米左右。在冬天，这棵树深绿色的树杆照亮了原本 灰暗的日子，也使这棵树成为其他观枝品种的趣味 好伙伴，有些人甚至经常将它们并排种植，这样它 们的树杆形成了鲜明的对比，增加观赏性。",
+      "image_count": 9
+    },
+    {
+      "source": "timber_press",
+      "name": "Shidava Gold",
+      "page_range": "149",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Shidava Gold",
+      "page_range": "209",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 135016,
+      "detail_url": "https://www.rhs.org.uk/plants/135016/acer-palmatum-shidava-gold-(dw)/details",
+      "botanical_name": "Acer palmatum 'Shidava Gold' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Shidava Gold Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/shidava-gold-japanese-maple/",
+      "description": "",
+      "group": "All Japanese Maples / New and/or Unusual Japanese Maple Varieties",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Shidava Gold' (Dw)",
+    "Japanese maple 'Shidava Gold'",
+    "Shidava Gold",
+    "希达瓦金",
+    "希达瓦金Acer Palmatum 'Shidava Gold'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Shidava Gold'",
+    "Acer palmatum",
+    "Acer palmatum 'Shidava Gold' (Dw)",
+    "Japanese maple 'Shidava Gold'",
+    "Shidava Gold",
+    "希达瓦金",
+    "希达瓦金Acer Palmatum 'Shidava Gold'",
+    "绿叶",
+    "鸡爪槭"
+  ],
+  "source_count": 5,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 135016,
+    "rhs_url": "https://www.rhs.org.uk/plants/135016/acer-palmatum-shidava-gold-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Shidava Gold' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Shidava Gold'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Shidava Gold"
+    ],
+    "description": "A compact, upright deciduous Japanese maple to about 1.5m tall, discovered as a witches broom on 'Aoyagi'. The bright yellow-green, 5-lobed leaves to 4cm long are yellow when young and turn to bright yellow in autumn, all contrasting with pea-green stems. A miniature version of the parent plant",
+    "dimensions": {
+      "height": "1-1.5 metres",
+      "spread": "0.5-1 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Patio/Container Plants, Rock Garden",
+      "hort_group_description": "Acers in this dwarf group are compact and slow-growing, making them ideal for pots and containers"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一极受欢迎的矮生品种最初是在著名的 ‘Aoyagi’ 上发现的一枝巫枝变异，由澳大利亚新南威尔士州 Berry 的 Raraflora Nursery 繁殖并命名。它可视为亲本的微型复制品，亮黄绿色叶片与豆绿色树皮形成鲜明对比。其掌状叶为 5 裂，裂片深达叶基的三分之二以上，尺寸略小于 ‘Aoyagi’，长约 4 厘米、宽可达 5 厘米。除此之外，叶形、锯齿叶缘以及四季中的叶色变化均与亲本相同。株形也保留了 ‘Aoyagi’ 的直立生长习性，但更短小、更紧凑。在澳大利亚条件下，原始植株之一 7 年可长到高 1.8 米、宽 1.2 米。不过，Raraflora Nursery 的 John Emery 正确指出，新南威尔士州的日本枫生长速度可能比欧洲和北美许多地区快得多。因此，在大多数环境下，‘Shidava Gold’ 不太可能长到 2 米高。该名称也曾被误拼为 ‘Shidaba Gold’。"
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "这一矮生类群的 Acer 株形紧凑、生长缓慢，因此非常适合盆栽和容器栽培。",
+      "suggested_uses": "城市/庭院花园、乡村风格/自然式花园、花境与花坛、庭院/容器植物、岩石园"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "紧凑直立的落叶日本枫，株高约 1.5 米，最初是在 'Aoyagi' 上发现的一株丛枝变异。叶片鲜亮黄绿色，5 裂，长可达 4 厘米，幼叶呈黄色，秋季转为明亮的黄色，与豌豆绿色枝条形成鲜明对比。可视作母本的微型版本。"
+  },
+  "has_mrmaple": false,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-shidava-gold/01-shidavagold.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-shidava-gold/01-shidavagold.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1571,
+        "name": "Shidava Gold Japanese Maple",
+        "slug": "shidava-gold-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/shidava-gold-japanese-maple/",
+        "description_text": "",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "New and/or Unusual Japanese Maple Varieties"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 45,
+          "max": 45
+        },
+        "review_count": 806,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "shidava gold"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/shidavagold.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-shidava-gold/01-shidavagold.jpg",
+          "bytes": 24018,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:49:35.401Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-shidava-gold/01-shidavagold.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

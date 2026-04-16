@@ -1,0 +1,127 @@
+{
+  "id": "acer-palmatum-shime-no-uchi",
+  "canonical_key": "shime no uchi",
+  "canonical_name": "Shime-no-uchi",
+  "display_name": "Shime-no-uchi",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Shime-no-uchi'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "linearilobum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The long lobes of this cultivar are deep red or purple red in the spring and early summer. They gradually turn a reddish green or bronze green. Crimson color tones dominate in the fall. The leaves do not hold their red color as well as those of 'Atrolineare'. They have mostly five lobes, occasionally three or seven lobes, and are 5-7 cm long and about 6 cm wide. Each lobe is up to 6 mm wide and has slightly serrated margins. The petioles are about 3 cm long. This cultivar grows more slowly than"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Shime-no-uchi",
+      "page_range": "211",
+      "group": "linearilobum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 80222,
+      "detail_url": "https://www.rhs.org.uk/plants/80222/acer-palmatum-shime-no-uchi-(l)/details",
+      "botanical_name": "Acer palmatum 'Shime-no-uchi' (L)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Shichigosan'",
+    "Acer palmatum 'Shime-no-uchi' (L)",
+    "Shichigosan",
+    "Shime-no-uchi"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Shichigosan'",
+    "Acer palmatum 'Shime-no-uchi'",
+    "Acer palmatum 'Shime-no-uchi' (L)",
+    "Shichigosan",
+    "Shime-no-uchi"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 80222,
+    "rhs_url": "https://www.rhs.org.uk/plants/80222/acer-palmatum-shime-no-uchi-(l)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Shime-no-uchi' (L)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [
+      "Acer palmatum 'Shichigosan'"
+    ],
+    "cultivar_names": [
+      "Shichigosan",
+      "Shime-no-uchi"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该品种细长的裂片在春季和初夏呈深红色或紫红色，随后逐渐转为带红调的绿色或古铜绿色。秋季以绯红色调为主。其叶色的持红性不如 'Atrolineare'。叶片多为 5 裂，偶见 3 裂或 7 裂，长 5-7 厘米，宽约 6 厘米。每个裂片宽可达 6 毫米，叶缘略具锯齿。叶柄长约 3 厘米。该品种生长速度较 'Atrolineare' 慢，裂片也略宽。日本方面记载 'Shime-no-uchi' 很少超过 1 米高，但在西方栽培中可达 2.5-3 米高。其株形直立，但小枝较细密。过去其名中的 Shin 有“新”之意，表明该品种是著名 'Desho\\jo\\' 的较晚期改良选拔。在春季，它是 Maplewood 收集区乃至其他地方最为耀眼的观叶品种之一。有人将其叶色形容为消防车红，但用火焰猩红或深绯红来描述更为贴切。许多人认为，其叶色比"
+  },
+  "has_mrmaple": false
+}

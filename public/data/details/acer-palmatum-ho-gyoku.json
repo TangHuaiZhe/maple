@@ -1,0 +1,227 @@
+{
+  "id": "acer-palmatum-ho-gyoku",
+  "canonical_key": "ho gyoku",
+  "canonical_name": "Ho\\gyoku",
+  "display_name": "Ho\\gyoku",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Ho\\gyoku'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "amoenum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "Surely this cultivar was selected for its rich, deep orange fall color. The Maplewood stock plant usually turned a bright pumpkin orange. The spring and summer foliage color is a deep, rich green. The leaves measure up to 6 cm long and 9 cm wide and are seven lobed and broadly palmate. They have a heavy texture and good substance. The lobes radiate out and are divided only up to about halfway to the leaf base. They are ovate-triangular with edges very finely serrated. The petioles are up to 4 cm long. This sturdy and hardy cultivar has thick and sometimes stubby new growth. The tree reaches 5-6 m with age and responds well to pruning and shaping. Although not widely distributed, it is a very worthwhile plant since most of the year it is an attractive rich green, followed by the unique orange of fall. The name, which means \"a jewel,\" has been misspelled as"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg",
+    "public_paths": [
+      "/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Ho\\gyoku",
+      "page_range": "149-150",
+      "group": "amoenum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 51096,
+      "detail_url": "https://www.rhs.org.uk/plants/51096/acer-palmatum-hogyoku-(a)/details",
+      "botanical_name": "Acer palmatum 'Hōgyoku' (A)",
+      "description": ""
+    },
+    {
+      "source": "timber_press",
+      "name": "Ho¯ gyoku",
+      "page_range": "79",
+      "group": "Amoenum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Hogyoku Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/hogyoku-japanese-maple/",
+      "description": "This cultivar is known for its rich, deep orange fall color. This is a sturdy and hardy cultivar. Grows to about 10 ft tall.",
+      "group": "All Japanese Maples / Broadleaf Upright Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Hōgyoku' (A)",
+    "Ho\\gyoku",
+    "Hōgyoku",
+    "Japanese maple 'Hōgyoku'",
+    "Ho¯ gyoku"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Ho\\gyoku'",
+    "Acer palmatum 'Hōgyoku' (A)",
+    "Ho\\gyoku",
+    "Hōgyoku",
+    "Japanese maple 'Hōgyoku'",
+    "Acer palmatum 'Ho¯ gyoku'",
+    "Ho¯ gyoku"
+  ],
+  "source_count": 4,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 51096,
+    "rhs_url": "https://www.rhs.org.uk/plants/51096/acer-palmatum-hogyoku-(a)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Hōgyoku' (A)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Hōgyoku'"
+    ],
+    "cultivar_names": [
+      "Hōgyoku"
+    ],
+    "description": "A strong-growing, upright, deciduous tree about 4m tall, with large leathery rich green 7-lobed leaves, opening green with a reddish tint, and turning bright yellow flushed orange and red in autumn",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden",
+      "hort_group_description": "Acers in this amoenum group have large, palm-shaped leaves with finely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市或庭院花园、乡村风或自然式花园",
+      "hort_group_description": "此 amoenum 类群中的 Acer 品种具有大型掌状叶，叶缘具细锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "一种生长强健、直立的落叶乔木，约高 4 米；叶片大而革质，浓绿色，7 裂；新叶展开时为绿色并带红晕，秋季转为鲜黄色，并染有橙色和红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "这个品种显然是因其浓郁深橙的秋色而被选育出来的。Maplewood 的母株通常会转成明亮的南瓜橙色。春夏季叶色为深而浓的绿色。叶片最长可达 6 厘米、最宽 9 厘米，具 7 枚裂片，呈宽掌状。叶质厚实，质感良好。裂片向外放射，分裂深度仅约达叶基的一半。裂片呈卵状三角形，边缘具极细锯齿。叶柄最长可达 4 厘米。该品种健壮且耐寒，新梢粗壮，有时略显短粗。成熟后树高可达 5-6 米，并且对修剪整形反应良好。尽管流通并不广泛，但仍是非常值得栽培的品种，因为大部分季节里都保持迷人的浓绿色，随后在秋季呈现独特的橙色。其名称意为“宝玉”，曾被误拼为 'Ho\\gyuko'。该品种也曾以"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1244,
+        "name": "Hogyoku Japanese Maple",
+        "slug": "hogyoku-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/hogyoku-japanese-maple/",
+        "description_text": "This cultivar is known for its rich, deep orange fall color. This is a sturdy and hardy cultivar. Grows to about 10 ft tall.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Broadleaf Upright Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 70
+        },
+        "review_count": 0,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "hogyoku"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/hogyoku.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg",
+          "bytes": 11356,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:50:33.127Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

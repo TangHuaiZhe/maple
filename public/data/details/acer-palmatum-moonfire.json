@@ -1,0 +1,502 @@
+{
+  "id": "acer-palmatum-moonfire",
+  "canonical_key": "moonfire",
+  "canonical_name": "Moonfire",
+  "display_name": "Moonfire",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Moonfire'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green",
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "Photo by J. D. Vertrees. This maple forms a wide-spreading tree up to ft. (4 m) tall. The name means \"my papa.\" Group—red. The excellent purpleto black-red color is almost opalescent. Difsun gives it a faint blue overtone similar to of 'Nuresagi'. The good deep colors last very throughout summer. Fall color is a delightful The large deeply divided leaves have Otis. elongate-ovate lobes, gradually tapering to fine 'Murasaki points and with finely toothed margins. The red Dwarf leafstalks are short. This cultivar assumes an upfive-lobed right, rounded canopy, reaching about 23 ft. (7 Each m) tall. It is very worthwhile for the landscape. elongated, The durable, long-lasting season of color rivals prominent. that of the well-known"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-moonfire/01-MAR0029937_11438.jpg",
+      "/rhs-images/acer-palmatum-moonfire-momiji_kaede/01-MAR0029937_11438.jpg"
+    ],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/01-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086897.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/02-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086918.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/03-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086900.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/04-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086901.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/05-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086904.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/06-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086907.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/07-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086910.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/08-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086912.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/09-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086914.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/10-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086916.jpg"
+    ],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-moonfire/01-moonfire.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-moonfire/01-MAR0029937_11438.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-moonfire/01-MAR0029937_11438.jpg",
+      "/rhs-images/acer-palmatum-moonfire-momiji_kaede/01-MAR0029937_11438.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/01-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086897.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/02-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086918.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/03-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086900.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/04-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086901.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/05-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086904.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/06-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086907.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/07-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086910.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/08-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086912.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/09-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086914.jpg",
+      "/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/10-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086916.jpg",
+      "/herter-images/acer-palmatum-moonfire/01-moonfire.jpg"
+    ],
+    "public_count": 13
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Moonfire",
+      "page_range": "110-113",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 61624,
+      "detail_url": "https://www.rhs.org.uk/plants/61624/acer-palmatum-moonfire-(m)/details",
+      "botanical_name": "Acer palmatum 'Moonfire' (M)",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "FOR PICK UP ONLY | Acer palmatum 'Moonfire' Japanese Maple | DOES NOT SHIP",
+      "handle": "copy-of-acer-palmatum-moonfire-japanese-maple",
+      "product_url": "https://mrmaple.com/products/copy-of-acer-palmatum-moonfire-japanese-maple",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 10,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Moonfire",
+      "page_range": "175-176",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Moonfire Purple-Red Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/moonfire-purple-red-japanese-maple/",
+      "description": "This purple-red grafted japanese maple is almost black-red. Diffused sun gives it a faint blue overtone. Color last well throughout the summer. Fall color is crimson. Upright grower matures at 7 meters.",
+      "group": "All Japanese Maples / Broadleaf Upright Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Moonfire' (M)",
+    "Japanese maple 'Moonfire'",
+    "Moonfire"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Moonfire'",
+    "Acer palmatum 'Moonfire' (M)",
+    "Japanese maple 'Moonfire'",
+    "Moonfire"
+  ],
+  "source_count": 5,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 61624,
+    "rhs_url": "https://www.rhs.org.uk/plants/61624/acer-palmatum-moonfire-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Moonfire' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Moonfire'"
+    ],
+    "cultivar_names": [
+      "Moonfire"
+    ],
+    "description": "An upright shrub or small tree, to 4m tall and wide, becoming rounded with age. Its five- to seven-lobed leaves are a dark reddish-purple turning a bright crimson red in the autumn. Small red flowers in spring are followed by red, winged autumn fruits",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "South-facing, West-facing, East-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Patio/Container Plants, Architectural, Cottage/Informal Garden, Low Maintenance, Rock Garden",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maple cultivation",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "MAR0029937_11438.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-moonfire/01-MAR0029937_11438.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-moonfire-momiji_kaede/01-MAR0029937_11438.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "MAR0029937_11438.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/MAR0029937_11438.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/61624/acer-palmatum-moonfire-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-moonfire/01-MAR0029937_11438.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 83518,
+          "downloaded_at": "2026-04-14T01:47:51+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 1,
+          "filename": "MAR0029937_11438.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/MAR0029937_11438.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/61624/acer-palmatum-moonfire-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-moonfire-momiji_kaede/01-MAR0029937_11438.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 83518,
+          "downloaded_at": "2026-04-14T01:47:51+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。",
+      "suggested_uses": "城市庭院花园、庭院/容器植物、建筑感种植、乡村/自然式花园、低养护花园、岩石园"
+    },
+    "care": {
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖",
+      "cultivation": "宜栽培于湿润但排水良好的土壤中。夏季必要时应补充浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴晒过度都可能导致叶缘焦枯。参见日本枫树栽培资料。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "直立性灌木或小乔木，高和冠幅可达 4 米，随树龄增长株形渐呈圆整。叶片 5 至 7 裂，颜色为深红紫色，秋季转为鲜亮的深红色。春季开小型红花，随后结红色具翅的秋季果实。"
+  },
+  "descriptions_zh": {
+    "preferred": "原文这一段存在严重 OCR 混乱，混杂了多个品种的条目与说明，无法在不臆测的前提下完整还原。可辨识内容大致如下：照片由 J. D. Vertrees 提供。其中一处描述提到某枫树可形成开展较宽的树形，高约 4 米，名称意为“my papa”。另一处描述为红叶类群品种，叶色优良，呈紫红至近黑红色，在一定光线下带微弱蓝色光泽，类似 ‘Nuresagi’，深色可在夏季维持较久，秋色鲜丽；叶片较大、深裂，裂片长卵形，渐尖，叶缘细锯齿，红色叶柄较短，树冠直立圆整，高约 23 英尺（7 米），园林应用价值高，季相色彩持久，可与著名的 ‘Bloodgood’ 媲美。另有一段应为 ‘Murakumo’：中等大小叶，通常七裂且深裂，裂片卵状长椭圆形，中部较宽，先端强尖，叶缘细锯齿；春叶近深红色，很快转为优良的深紫红色，秋色为深红；植株直立，较耐寒，成熟时高约 20 英尺（6 米），因能将红叶保持到夏末而适合园林种植，其名称可能意为“云簇”或“云中村落”，有时也拼作 ‘Muragumo’。后文还能辨识出 ‘Murasaki hime’ 与 ‘Mure hibari’ 两个品种名，但对应描述内容残缺、错乱较重，无法可靠逐句复原。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 1,
+    "local_file_count": 10,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/01-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086897.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/01-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086897.jpg",
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/02-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086918.jpg",
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/03-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086900.jpg",
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/04-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086901.jpg",
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/05-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086904.jpg",
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/06-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086907.jpg",
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/07-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086910.jpg",
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/08-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086912.jpg",
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/09-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086914.jpg",
+      "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/10-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086916.jpg"
+    ],
+    "products": [
+      {
+        "title": "FOR PICK UP ONLY | Acer palmatum 'Moonfire' Japanese Maple | DOES NOT SHIP",
+        "handle": "copy-of-acer-palmatum-moonfire-japanese-maple",
+        "product_url": "https://mrmaple.com/products/copy-of-acer-palmatum-moonfire-japanese-maple",
+        "product_type": "",
+        "tags": [
+          "4thSale",
+          "bcelebration",
+          "blkfriday2025",
+          "BSaving25",
+          "EARLYBIRD26",
+          "FALLSALE25",
+          "julyxmas",
+          "LocalPickup",
+          "NEWYEARS26",
+          "nov29",
+          "OHDISCOUNT",
+          "VDAYSALE26"
+        ],
+        "description_text": "Acer palmatum 'Moonfire' Red Moonfire Japanese Maple Zones 5-9 Moonfire is an upright red Japanese maple tree. This Moonfire Japanese maple cultivar is very heat tolerant and holds its color well all summer. The leaf has a sheen to it that gives the branches a beautiful appearance in the sun. This Moonfire Japanese maple leafs out with a brilliant deep maroon and its fall color is a bright fire engine red. The height of this red Japanese maple tree can reach around 10-12 feet in 15 years. ‘Moonfire’ is an excellent Japanese maple selection for anyone looking for an interesting red upright. Moonfire was an introduction by Dick Wolf of Red Maple Nursery. The first photo shows you the color and size of new growth, while the second photo is \"Moonfire' just beginning to leaf out in New Jersey. This shows the shape of a more mature tree. Trees were potted from large liners to gallons last fall and may not have completely filled out their pots. These 7 & 10 gallon trees are for local pickup only, we cannot ship them because they are too big. The MrMaple Nursery is located in East Flat Rock, NC. Please contact us to arrange a pickup time.",
+        "published_at": "2025-11-29T09:00:34-05:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer palmatum",
+        "matched_title_cultivar": "Moonfire",
+        "images": {
+          "count": 10,
+          "downloaded_count": 10,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/01-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086897.jpg",
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/02-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086918.jpg",
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/03-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086900.jpg",
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/04-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086901.jpg",
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/05-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086904.jpg",
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/06-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086907.jpg",
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/07-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086910.jpg",
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/08-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086912.jpg",
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/09-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086914.jpg",
+            "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/10-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086916.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086897.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086897.jpg?v=1756343792",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-palmatum-moonfire-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/01-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086897.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 404565,
+              "downloaded_at": "2026-04-14T02:36:24+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086918.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086918.jpg?v=1756343792",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-palmatum-moonfire-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/02-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086918.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 766856,
+              "downloaded_at": "2026-04-14T02:36:26+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086900.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086900.jpg?v=1756343792",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-palmatum-moonfire-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/03-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086900.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 122287,
+              "downloaded_at": "2026-04-14T02:36:24+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 4,
+              "filename": "FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086901.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086901.jpg?v=1756343792",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-palmatum-moonfire-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/04-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086901.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 773626,
+              "downloaded_at": "2026-04-14T02:36:25+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 5,
+              "filename": "FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086904.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086904.jpg?v=1756343792",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-palmatum-moonfire-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/05-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086904.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 632076,
+              "downloaded_at": "2026-04-14T02:36:24+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 6,
+              "filename": "FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086907.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086907.jpg?v=1756343792",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-palmatum-moonfire-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/06-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086907.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 433651,
+              "downloaded_at": "2026-04-14T02:36:25+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 7,
+              "filename": "FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086910.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086910.jpg?v=1756343792",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-palmatum-moonfire-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/07-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086910.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 152016,
+              "downloaded_at": "2026-04-14T02:36:24+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 8,
+              "filename": "FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086912.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086912.jpg?v=1756343792",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-palmatum-moonfire-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/08-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086912.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 393432,
+              "downloaded_at": "2026-04-14T02:36:26+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 9,
+              "filename": "FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086914.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086914.jpg?v=1756343792",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-palmatum-moonfire-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/09-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086914.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 117768,
+              "downloaded_at": "2026-04-14T02:36:25+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 10,
+              "filename": "FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086916.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086916.jpg?v=1756343792",
+              "product_url": "https://mrmaple.com/products/copy-of-acer-palmatum-moonfire-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/copy-of-acer-palmatum-moonfire-japanese-maple/10-FOR_PICK_UP_ONLY_Acer_palmatum_Moonfire_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2086916.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 897775,
+              "downloaded_at": "2026-04-14T02:36:27+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-moonfire/01-moonfire.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-moonfire/01-moonfire.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1451,
+        "name": "Moonfire Purple-Red Japanese Maple",
+        "slug": "moonfire-purple-red-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/moonfire-purple-red-japanese-maple/",
+        "description_text": "This purple-red grafted japanese maple is almost black-red. Diffused sun gives it a faint blue overtone. Color last well throughout the summer. Fall color is crimson. Upright grower matures at 7 meters.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Broadleaf Upright Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 125
+        },
+        "review_count": 0,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "moonfire"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/moonfire.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-moonfire/01-moonfire.jpg",
+          "bytes": 12615,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:49:56.139Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-moonfire/01-moonfire.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

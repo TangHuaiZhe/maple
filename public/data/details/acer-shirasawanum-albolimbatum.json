@@ -1,0 +1,225 @@
+{
+  "id": "acer-shirasawanum-albolimbatum",
+  "canonical_key": "albolimbatum",
+  "canonical_name": "Albolimbatum",
+  "display_name": "Albolimbatum",
+  "chinese_name": null,
+  "scientific_name": "Acer shirasawanum 'Albolimbatum'",
+  "species": "Acer shirasawanum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "Leaf size and shape are typof the species, but the amount of white and variegation in its deep green foliage greatly. The edges are usually tinged with sometimes as a very thin band, but on leaves the markings are scattered in specks, and patches and extend over the whole Some leaves are entirely free of any variega- This slow-growing, upright tree is smaller the species, attaining 33-39 ft. (10-12 m) Synonym, 'Hatsu yuki'."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-shirasawanum-albolimbatum/01-MAR0030014_11557.jpg",
+      "/rhs-images/acer-shirasawanum-albolimbatum/02-Web_Use-MAR0030015_11557.jpg",
+      "/rhs-images/acer-shirasawanum-albolimbatum/03-Web_Use-MAR0030013_11557.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-shirasawanum-albolimbatum/01-MAR0030014_11557.jpg",
+    "public_paths": [
+      "/rhs-images/acer-shirasawanum-albolimbatum/01-MAR0030014_11557.jpg",
+      "/rhs-images/acer-shirasawanum-albolimbatum/02-Web_Use-MAR0030015_11557.jpg",
+      "/rhs-images/acer-shirasawanum-albolimbatum/03-Web_Use-MAR0030013_11557.jpg"
+    ],
+    "public_count": 3
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Albolimbatum",
+      "page_range": "206",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 49982,
+      "detail_url": "https://www.rhs.org.uk/plants/49982/acer-rufinerve-albolimbatum-(v)/details",
+      "botanical_name": "Acer rufinerve 'Albolimbatum' (v)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer rufinerve 'Albolimbatum' (v)",
+    "Acer rufinerve 'Albomarginatum'",
+    "Acer rufinerve 'Hatsuyuki'",
+    "Acer rufinerve 'Hatsuyuki-kaede'",
+    "Albolimbatum",
+    "Albomarginatum",
+    "Hatsuyuki",
+    "Hatsuyuki-kaede",
+    "grey snake-bark maple 'Albolimbatum'"
+  ],
+  "search_terms": [
+    "Acer rufinerve 'Albolimbatum' (v)",
+    "Acer rufinerve 'Albomarginatum'",
+    "Acer rufinerve 'Hatsuyuki'",
+    "Acer rufinerve 'Hatsuyuki-kaede'",
+    "Acer shirasawanum",
+    "Acer shirasawanum 'Albolimbatum'",
+    "Albolimbatum",
+    "Albomarginatum",
+    "Hatsuyuki",
+    "Hatsuyuki-kaede",
+    "grey snake-bark maple 'Albolimbatum'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 49982,
+    "rhs_url": "https://www.rhs.org.uk/plants/49982/acer-rufinerve-albolimbatum-(v)/details",
+    "match_method": "cultivar",
+    "botanical_name": "Acer rufinerve 'Albolimbatum' (v)",
+    "species_name": "Acer rufinerve",
+    "common_names": [
+      "grey snake-bark maple 'Albolimbatum'"
+    ],
+    "synonyms": [
+      "Acer rufinerve 'Albomarginatum'",
+      "Acer rufinerve 'Hatsuyuki'",
+      "Acer rufinerve 'Hatsuyuki-kaede'"
+    ],
+    "cultivar_names": [
+      "Albolimbatum",
+      "Albomarginatum",
+      "Hatsuyuki",
+      "Hatsuyuki-kaede"
+    ],
+    "description": "A slow-growing, upright, deciduous tree to around 8m tall, its older stems and trunk green with white striations. The three-lobed, green leaves are speckled and margined with white in spring and summer before turning shades of red, orange and yellow in the autumn. Clusters of greenish-yellow flowers are borne in spring",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H5 (hardy - cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "East-facing, South-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained, Well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Columnar/Upright",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Architectural, Coastal, Cottage/Informal Garden",
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": "Grow in a moisture-retentive well-drained soil in full sun or part shade with shelter from cold winds",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting in late winter"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 3,
+      "filenames": [
+        "MAR0030014_11557.jpg",
+        "Web_Use-MAR0030015_11557.jpg",
+        "Web_Use-MAR0030013_11557.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-shirasawanum-albolimbatum/01-MAR0030014_11557.jpg",
+        "Resource/园艺/raw/rhs-images/acer-shirasawanum-albolimbatum/02-Web_Use-MAR0030015_11557.jpg",
+        "Resource/园艺/raw/rhs-images/acer-shirasawanum-albolimbatum/03-Web_Use-MAR0030013_11557.jpg"
+      ],
+      "downloaded_count": 3,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "MAR0030014_11557.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/MAR0030014_11557.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/49982/acer-rufinerve-albolimbatum-(v)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-shirasawanum-albolimbatum/01-MAR0030014_11557.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 77798,
+          "downloaded_at": "2026-04-14T01:47:36+00:00",
+          "status": "existing",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "Web_Use-MAR0030015_11557.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/Web_Use-MAR0030015_11557.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/49982/acer-rufinerve-albolimbatum-(v)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-shirasawanum-albolimbatum/02-Web_Use-MAR0030015_11557.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 212927,
+          "downloaded_at": "2026-04-14T01:47:36+00:00",
+          "status": "existing",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 3,
+          "filename": "Web_Use-MAR0030013_11557.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/Web_Use-MAR0030013_11557.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/49982/acer-rufinerve-albolimbatum-(v)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-shirasawanum-albolimbatum/03-Web_Use-MAR0030013_11557.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 212035,
+          "downloaded_at": "2026-04-14T01:47:36+00:00",
+          "status": "existing",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米",
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "sunlight": "全日照，半阴"
+    },
+    "description": "生长缓慢、直立的落叶小乔木，高约 8 米；老枝和树干为绿色，并具白色条纹。3 裂绿色叶在春夏季带有白色斑点及白色镶边，秋季转为红、橙、黄等色调。春季开簇生黄绿色花。",
+    "attributes": {
+      "suggested_uses": "城市/庭院花园、建筑景观、滨海花园、乡村/自然式花园"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，可全日照或半阴，并应避开寒风。",
+      "pruning": "修剪第 1 组",
+      "propagation": "宜于晚冬采用嫁接繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "叶片大小和形状与原种基本一致，但其深绿色叶片上的白色斑锦多少变化很大。叶缘通常带有浅色晕边，有时仅为极细的一圈；另一些叶片上则可见散布的斑点与斑块，甚至扩展至整片叶面。有些叶片则完全不带斑锦。该树生长缓慢、直立，较原种更小，成熟约 33-39 英尺（10-12 米）。异名：'Hatsu yuki'。"
+  },
+  "has_mrmaple": false
+}

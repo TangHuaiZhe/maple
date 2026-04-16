@@ -1,0 +1,105 @@
+{
+  "id": "acer-palmatum-tsukuba-ne",
+  "canonical_key": "tsukuba ne",
+  "canonical_name": "Tsukuba ne",
+  "display_name": "Tsukuba ne",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Tsukuba ne'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The red leaves of this cultivar have seven lobes which are divided two-thirds or more of the way to the leaf base. In the center, the lobes hold close together but radiate at the ends. The leaves range from 4 to 8 cm long and from 5 to 9 cm wide. The vigorous growth of newer shoots can produce even larger leaves. The thin leaves are almost translucent, and the leaf base is mostly truncate. The lobes are broadly ovate and taper to a long, slender point. The edges are regularly and delicately serrated. The petioles are 3-4 cm long. The spring foliage is light red with a green cast to the center of each lobe. This color quickly changes to a deeper brick-red tone, maturing as a deep greenish red. The green midveins are quite prominent. By late summer the leaves are a rich green with a slight tinge of dark red. Fall color is a brilliant orange crimson. Corvallis"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Tsukuba ne",
+      "page_range": "171-172",
+      "group": "Palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 66530,
+      "detail_url": "https://www.rhs.org.uk/plants/66530/acer-palmatum-tsukubane-(a)/details",
+      "botanical_name": "Acer palmatum 'Tsukubane' (A)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Tsukuba ne",
+      "page_range": "224",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Tsuki Bane'",
+    "Acer palmatum 'Tsukubane' (A)",
+    "Tsuki Bane",
+    "Tsukuba ne",
+    "Tsukubane"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Tsuki Bane'",
+    "Acer palmatum 'Tsukuba ne'",
+    "Acer palmatum 'Tsukubane' (A)",
+    "Tsuki Bane",
+    "Tsukuba ne",
+    "Tsukubane"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 66530,
+    "rhs_url": "https://www.rhs.org.uk/plants/66530/acer-palmatum-tsukubane-(a)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Tsukubane' (A)",
+    "species_name": "Acer palmatum",
+    "synonyms": [
+      "Acer palmatum 'Tsuki Bane'"
+    ],
+    "cultivar_names": [
+      "Tsuki Bane",
+      "Tsukubane"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "该品种的红叶具 7 枚裂片，裂深达叶基的三分之二以上。裂片在中部靠拢，末端则向外放射展开。叶片长 4-8 厘米，宽 5-9 厘米；新梢生长旺盛时可形成更大的叶片。叶质较薄，近半透明，叶基多为截形。裂片宽卵形，渐尖成细长尖端。叶缘具规则而细致的锯齿。叶柄长 3-4 厘米。春季新叶为浅红色，每枚裂片中央带绿色调；随后很快转为更深的砖红色，成熟后呈深绿带红。绿色主脉非常显眼。至夏末，叶片转为浓绿色，并略带深红色晕。秋色为鲜艳的橙红至深红色。Corvallis"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

@@ -1,0 +1,146 @@
+{
+  "id": "acer-shirasawanum-johin",
+  "canonical_key": "johin",
+  "canonical_name": "Johin",
+  "display_name": "Johin",
+  "chinese_name": "优雅",
+  "scientific_name": "Acer Shirasawanum 'Johin'",
+  "species": "Acer shirasawanum",
+  "top_category": "羽扇槭",
+  "web_group": "白泽槭",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "Johin 由俄勒冈州的巴克霍兹苗圃繁育并命名，从帕提佛的籽播苗中选育出来的，在日文里面意为\"优雅\"。 春叶紫红色并有黄绿色的脉纹，夏季在足够的光照条件下，叶色为绿色，但是有红色的色调，秋天变为橙黄色。 直立生长，枝条偏软，生长速度中等，成年树可达 3 米左右。"
+  },
+  "images": {
+    "count": 6,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/28_优雅 Acer Shirasawanum 'Johin'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/28_优雅 Acer Shirasawanum 'Johin'/01.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/28_优雅 Acer Shirasawanum 'Johin'/02.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/28_优雅 Acer Shirasawanum 'Johin'/03.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/28_优雅 Acer Shirasawanum 'Johin'/04.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/28_优雅 Acer Shirasawanum 'Johin'/05.png",
+      "Resource/园艺/枫树品种合集/图片/羽扇槭/白泽槭/28_优雅 Acer Shirasawanum 'Johin'/06.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/01.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/02.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/03.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/04.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/05.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/06.jpg"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/01.png",
+    "public_paths": [
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/01.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/02.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/03.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/04.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/05.png",
+      "/maple-images/%E7%BE%BD%E6%89%87%E6%A7%AD/%E7%99%BD%E6%B3%BD%E6%A7%AD/28_%E4%BC%98%E9%9B%85%20Acer%20Shirasawanum%20'Johin'/06.jpg"
+    ],
+    "public_count": 6
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "28",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/28.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=31",
+      "top_group_name": "羽扇槭",
+      "second_group_name": "白泽槭",
+      "title": "优雅 Acer Shirasawanum 'Johin'",
+      "description": "Johin 由俄勒冈州的巴克霍兹苗圃繁育并命名，从帕提佛的籽播苗中选育出来的，在日文里面意为\"优雅\"。 春叶紫红色并有黄绿色的脉纹，夏季在足够的光照条件下，叶色为绿色，但是有红色的色调，秋天变为橙黄色。 直立生长，枝条偏软，生长速度中等，成年树可达 3 米左右。",
+      "image_count": 6
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 222283,
+      "detail_url": "https://www.rhs.org.uk/plants/222283/acer-shirasawanum-johin/details",
+      "botanical_name": "Acer shirasawanum 'Johin'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer shirasawanum 'Johin'",
+    "Johin",
+    "优雅",
+    "优雅 Acer Shirasawanum 'Johin'"
+  ],
+  "search_terms": [
+    "Acer Shirasawanum 'Johin'",
+    "Acer shirasawanum",
+    "Acer shirasawanum 'Johin'",
+    "Johin",
+    "优雅",
+    "优雅 Acer Shirasawanum 'Johin'",
+    "白泽槭",
+    "羽扇槭"
+  ],
+  "source_count": 2,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 222283,
+    "rhs_url": "https://www.rhs.org.uk/plants/222283/acer-shirasawanum-johin/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer shirasawanum 'Johin'",
+    "species_name": "Acer shirasawanum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Johin"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "Johin 由俄勒冈州的巴克霍兹苗圃繁育并命名，从帕提佛的籽播苗中选育出来的，在日文里面意为\"优雅\"。 春叶紫红色并有黄绿色的脉纹，夏季在足够的光照条件下，叶色为绿色，但是有红色的色调，秋天变为橙黄色。 直立生长，枝条偏软，生长速度中等，成年树可达 3 米左右。"
+  },
+  "has_mrmaple": false
+}

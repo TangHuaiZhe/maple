@@ -1,0 +1,205 @@
+{
+  "id": "acer-palmatum-phoenix",
+  "canonical_key": "phoenix",
+  "canonical_name": "Phoenix",
+  "display_name": "Phoenix",
+  "chinese_name": "凤凰",
+  "scientific_name": "Acer Palmatum 'Phoenix'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "红叶",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "就像浴火重生的凤凰一样,鸡爪械凤凰春季叶子鲜红。叶脉呈现黄色,鲜红色的叶子与树杆形成鲜明对比。春天光照合适的情况下叶子可以晒出白色的斑点。夏季呈现浅绿色,但二次新梢叶子是红色的,秋天橙黄色到红色。直立性较强,一般5-7叶裂,叶裂很深,叶边缘有明显的不规则锯齿。非常耐寒,长势较为缓慢,成年树高约2-3米。"
+  },
+  "images": {
+    "count": 7,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/167_凤凰Acer Palmatum 'Phoenix'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/167_凤凰Acer Palmatum 'Phoenix'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/167_凤凰Acer Palmatum 'Phoenix'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/167_凤凰Acer Palmatum 'Phoenix'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/167_凤凰Acer Palmatum 'Phoenix'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/167_凤凰Acer Palmatum 'Phoenix'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/167_凤凰Acer Palmatum 'Phoenix'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/167_凤凰Acer Palmatum 'Phoenix'/07.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/07.jpg"
+    ],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-phoenix/01-visi68948.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BA%A2%E5%8F%B6/167_%E5%87%A4%E5%87%B0Acer%20Palmatum%20'Phoenix'/07.jpg",
+      "/rhs-images/acer-palmatum-phoenix/01-visi68948.jpg"
+    ],
+    "public_count": 8
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "167",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/167.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=26",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "红叶",
+      "title": "凤凰Acer Palmatum 'Phoenix'",
+      "description": "就像浴火重生的凤凰一样,鸡爪械凤凰春季叶子鲜红。叶脉呈现黄色,鲜红色的叶子与树杆形成鲜明对比。春天光照合适的情况下叶子可以晒出白色的斑点。夏季呈现浅绿色,但二次新梢叶子是红色的,秋天橙黄色到红色。直立性较强,一般5-7叶裂,叶裂很深,叶边缘有明显的不规则锯齿。非常耐寒,长势较为缓慢,成年树高约2-3米。",
+      "image_count": 7
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 194996,
+      "detail_url": "https://www.rhs.org.uk/plants/194996/acer-palmatum-phoenix-(p)/details",
+      "botanical_name": "Acer palmatum 'Phoenix' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Phoenix' (P)",
+    "Japanese maple 'Phoenix'",
+    "Phoenix",
+    "凤凰",
+    "凤凰Acer Palmatum 'Phoenix'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Phoenix'",
+    "Acer palmatum",
+    "Acer palmatum 'Phoenix' (P)",
+    "Japanese maple 'Phoenix'",
+    "Phoenix",
+    "凤凰",
+    "凤凰Acer Palmatum 'Phoenix'",
+    "红叶",
+    "鸡爪槭"
+  ],
+  "source_count": 2,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 194996,
+    "rhs_url": "https://www.rhs.org.uk/plants/194996/acer-palmatum-phoenix-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Phoenix' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Phoenix'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Phoenix"
+    ],
+    "description": "'Phoenix' is a compact, broad shrub or small tree to 5m tall with palmate leaves which emerge pink with yellow-green veins, gradually turning to yellow and then to shiny green before becoming orange, red and yellow in autumn",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full shade, Partial shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "South-facing, East-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Columnar/Upright, Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Low Maintenance, Patio/Container Plants",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maple cultivation",
+      "pruning": "Pruning group 1 , pruning if necessary only from late autumn to midwinter",
+      "propagation": "Propagate by grafting , softwood cuttings or layering"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "visi68948.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-phoenix/01-visi68948.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "visi68948.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi68948.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/194996/acer-palmatum-phoenix-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-phoenix/01-visi68948.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 175610,
+          "downloaded_at": "2026-04-14T01:47:56+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "就像浴火重生的凤凰一样,鸡爪械凤凰春季叶子鲜红。叶脉呈现黄色,鲜红色的叶子与树杆形成鲜明对比。春天光照合适的情况下叶子可以晒出白色的斑点。夏季呈现浅绿色,但二次新梢叶子是红色的,秋天橙黄色到红色。直立性较强,一般5-7叶裂,叶裂很深,叶边缘有明显的不规则锯齿。非常耐寒,长势较为缓慢,成年树高约2-3米。"
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米",
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。",
+      "suggested_uses": "造型植物、城市/庭院花园、乡村/自然式花园、花境与花坛、低养护、庭院/容器植物"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "'Phoenix' 为紧凑、开展的灌木或小乔木，高可达 5 米。掌状叶初展时为粉色，带黄绿色叶脉，随后逐渐转黄，再变为有光泽的绿色，秋季则呈橙、红、黄相间的色彩。",
+    "care": {
+      "cultivation": "宜栽培于湿润但排水良好的土壤中。夏季必要时应补充浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴晒过度都可能导致叶缘焦枯。参见日本枫树栽培资料。",
+      "pruning": "修剪组 1；如有必要，仅在深秋至仲冬期间修剪",
+      "propagation": "可采用嫁接、嫩枝扦插或压条繁殖"
+    }
+  },
+  "has_mrmaple": false
+}

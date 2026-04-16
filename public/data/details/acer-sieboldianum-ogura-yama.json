@@ -1,0 +1,57 @@
+{
+  "id": "acer-sieboldianum-ogura-yama",
+  "canonical_key": "ogura yama",
+  "canonical_name": "Ogura yama",
+  "display_name": "Ogura yama",
+  "chinese_name": null,
+  "scientific_name": "Acer sieboldianum 'Ogura yama'",
+  "species": "Acer sieboldianum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "The brilliant display of rich orange and scarlet blends in the fall makes this a favorite medium-sized maple. Spring foliage is a light yellow-green, changing to green with a silvery overcast due to a covering of extremely fine hairs. The hairs disappear in midsummer. 'Ogura yama' is similar to"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Ogura yama",
+      "page_range": "209",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Ogura yama"
+  ],
+  "search_terms": [
+    "Acer sieboldianum",
+    "Acer sieboldianum 'Ogura yama'",
+    "Ogura yama"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "秋季丰富的橙色与猩红色交织出的绚丽色彩，使其成为备受喜爱的中型槭树。春叶浅黄绿色，随后转绿，并因覆盖极细茸毛而带有银灰色雾感；这些茸毛在盛夏时消失。'Ogura yama' 在外观和叶片上与 'Microphyllum' 相似，但生长较慢，高约 4 米。其植株健壮、耐寒。名称意为“Mount Ogura”。"
+  },
+  "has_mrmaple": false
+}

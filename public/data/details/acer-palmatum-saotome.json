@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-saotome",
+  "canonical_key": "saotome",
+  "canonical_name": "Saotome",
+  "display_name": "Saotome",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Saotome'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This small-leaved cultivar forms a semidwarf bushshaped plant, maturing at 2.5-3 m tall. The leaves are a pale yellow green with a rather thin texture and a slight hint of rusty red on the extreme edges. They measure about 4 cm long and 4-5 cm across. Each leaf is divided three-quarters of the way to the leaf base into five lanceolate lobes which terminate in long, slender, sharp tips. The two basal lobes often have tiny spur lobes. The lobe edges bend slightly upwards, and the margins are irregularly toothed. The name 'Saotome' means \"rice-planting girl.\""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Saotome",
+      "page_range": "203",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 194998,
+      "detail_url": "https://www.rhs.org.uk/plants/194998/acer-palmatum-sa-otome-(p)/details",
+      "botanical_name": "Acer palmatum 'Sa-otome' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Sa-otome' (P)",
+    "Sa-otome",
+    "Saotome"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Sa-otome' (P)",
+    "Acer palmatum 'Saotome'",
+    "Sa-otome",
+    "Saotome"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 194998,
+    "rhs_url": "https://www.rhs.org.uk/plants/194998/acer-palmatum-sa-otome-(p)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Sa-otome' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Sa-otome"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该小叶品种形成半矮性、灌木状株型，成熟时高约 2.5-3 米。叶片为淡黄绿色，质地较薄，最外缘略带一丝锈红色。叶长约 4 厘米，宽约 4-5 厘米。每片叶自叶基向上约四分之三处分裂为 5 枚披针形裂片，裂片先端细长而尖锐。两枚基部裂片常带有极小的副裂片。裂片边缘略向上卷，叶缘具不规则锯齿。'Saotome' 一名意为“插秧姑娘”。"
+  },
+  "has_mrmaple": false
+}

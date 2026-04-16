@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-beni-yatsubusa",
+  "canonical_key": "beni yatsubusa",
+  "canonical_name": "Beni yatsubusa",
+  "display_name": "Beni yatsubusa",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Beni yatsubusa'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "In spite of its name, which means \"red dwarf,\" and often being described as a dwarf, this cultivar grows too tall for this category, to 3 m or more high. Thus it is best described as a strong-growing small shrub with large leaves. The leaves are a bright green and hold their color well throughout the growing season. For a small palmatum type, the leaves are rather large, reaching 10 cm long and wide on young vigorous shoots. Older wood produces ing the leaves to hang rather loosely on the plant. Fall colors are an attractive feature and are bright crimson to a deep maroon-red tone. A good cultivar for contrast in the smaller garden, it blends quite well for variety in larger plantings. This small shrub has a tendency to throw out strong vigorous new shoots when grown in highly fertile soil."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Beni yatsubusa",
+      "page_range": "125",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 197151,
+      "detail_url": "https://www.rhs.org.uk/plants/197151/acer-palmatum-beni-yatsubusa-(p)/details",
+      "botanical_name": "Acer palmatum 'Beni-yatsubusa' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Beni-yatsubusa' (P)",
+    "Beni yatsubusa",
+    "Beni-yatsubusa"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Beni yatsubusa'",
+    "Acer palmatum 'Beni-yatsubusa' (P)",
+    "Beni yatsubusa",
+    "Beni-yatsubusa"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 197151,
+    "rhs_url": "https://www.rhs.org.uk/plants/197151/acer-palmatum-beni-yatsubusa-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Beni-yatsubusa' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Beni-yatsubusa"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "尽管其名称意为“红矮生”，且常被描述为矮生品种，但本品种生长高度其实超出这一类别，可达 3 米或更高。因此，更准确地说，它是一种长势强健的小型灌木，叶片较大。叶色鲜绿，整个生长季保色性良好。对于小型 palmatum 类型而言，其叶片偏大，在强壮幼枝上可达 10 厘米长宽。较老枝条上形成的叶片较小，且叶柄较长，使叶片在植株上显得较为疏垂。秋色是其一大观赏点，可呈鲜艳的深红色至深栗红色。作为小型花园中的对比品种效果很好，在较大规模种植中也能很好地丰富层次。该小灌木在肥力很高的土壤中，容易抽生强旺的新梢。"
+  },
+  "has_mrmaple": false
+}

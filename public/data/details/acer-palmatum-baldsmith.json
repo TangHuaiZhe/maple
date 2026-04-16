@@ -1,0 +1,317 @@
+{
+  "id": "acer-palmatum-baldsmith",
+  "canonical_key": "baldsmith",
+  "canonical_name": "Baldsmith",
+  "display_name": "Baldsmith",
+  "chinese_name": "巴尔德史密斯",
+  "scientific_name": "Acer Palmatum 'Blad Smith'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "羽毛枫",
+  "book_groups": [
+    "Dissectum",
+    "dissectum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "'Baldsmith' is among the best of the newer dissectum introductions, bearing light, bright orange-red spring foliage. The leaves become paler and green-tinged in the center with pink-tinged margins as they develop. The combination of mature and new leaves through the summer gives a multicolored appearance of greens, pinks, and orange reds. In the fall, the leaves turn a bright yellow with orange hues. The medium-sized finely dissected fiveor seven-lobed leaves are 8-11 cm long and wide, the lower end narrowing to the width of the midrib for 1-1.5 cm down to the junction of the lobes with the petiole. The division of the sublobes, unlike many dissectums, does not quite reach the midrib. The sublobes have conspicuous, large, narrow, sharply pointed teeth. 'Baldsmith' has the usual mounded habit and vigor of most dissectums but has a distinctive appearance because of the very pendulous, finely dissected light This small-leaved slow-growing cultivar is similar to"
+  },
+  "images": {
+    "count": 8,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/08.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/08.jpg"
+    ],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-baldsmith/01-_KOS4952.jpg",
+      "/rhs-images/acer-palmatum-baldsmith/02-_KOS4957.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-baldsmith/01-baldsmith-1.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E7%BE%BD%E6%AF%9B%E6%9E%AB/69_%E5%B7%B4%E5%B0%94%E5%BE%B7%E5%8F%B2%E5%AF%86%E6%96%AF%20Acer%20Palmatum%20'Blad%20Smith'/08.jpg",
+      "/rhs-images/acer-palmatum-baldsmith/01-_KOS4952.jpg",
+      "/rhs-images/acer-palmatum-baldsmith/02-_KOS4957.jpg",
+      "/herter-images/acer-palmatum-baldsmith/01-baldsmith-1.jpg"
+    ],
+    "public_count": 11
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "69",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/69.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=17",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "羽毛枫",
+      "title": "巴尔德史密斯 Acer Palmatum 'Blad Smith'",
+      "description": "它有着明亮而浅淡的橙红色新叶。随着新叶 的成熟，叶片中部加深为灰绿色色调，叶缘 则呈现粉红色色调。夏季新叶与老叶同时存 在，绿色、粉色、橙红色相互交错，呈现出 五彩斑斓的效果。秋季叶片则是带着橙色色 调的亮黄色。叶片呈细腻的羽毛状，具5-7裂， 叶片较大，裂叶下端变窄，几乎贴着裂叶中 脉。小裂叶与其他羽毛枫不同，它没有完全 裂至叶片中脉。小裂叶叶缘锯齿清晰，大而 狭长，叶尖锋利。它树形与寻常的羽毛枫一 样，呈土丘状，抗性强，但是它有一个与众 不同的特点。那就是它的裂叶独特、细腻， 叶色为浅橙红色，与绯红皇后的深红色叶片 非常不同。",
+      "image_count": 8
+    },
+    {
+      "source": "timber_press",
+      "name": "Baldsmith",
+      "page_range": "43-45",
+      "group": "Dissectum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Baldsmith",
+      "page_range": "119",
+      "group": "dissectum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 124212,
+      "detail_url": "https://www.rhs.org.uk/plants/124212/acer-palmatum-baldsmith-(d)/details",
+      "botanical_name": "Acer palmatum 'Baldsmith' (D)",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Baldsmith Pink-Green Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/baldsmith-pink-green-japanese-maple/",
+      "description": "Baldsmith pink-green japanese maple this maple is amoung the best of the newer introductions. It has bright orange-red spring foilage. Summer colors are multicolored with greens, pinks, and orange hues. Grows to 12 ft. Baldsmith is one of my favorite japanese maples.",
+      "group": "All Japanese Maples / Lace Leaf Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Baldsmith' (D)",
+    "Baldsmith",
+    "Blad Smith",
+    "Japanese maple 'Baldsmith'",
+    "巴尔德史密斯",
+    "巴尔德史密斯 Acer Palmatum 'Blad Smith'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Blad Smith'",
+    "Acer palmatum",
+    "Acer palmatum 'Baldsmith' (D)",
+    "Baldsmith",
+    "Blad Smith",
+    "Japanese maple 'Baldsmith'",
+    "巴尔德史密斯",
+    "巴尔德史密斯 Acer Palmatum 'Blad Smith'",
+    "羽毛枫",
+    "鸡爪槭"
+  ],
+  "source_count": 5,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 124212,
+    "rhs_url": "https://www.rhs.org.uk/plants/124212/acer-palmatum-baldsmith-(d)/details",
+    "match_method": "cultivar",
+    "botanical_name": "Acer palmatum 'Baldsmith' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Baldsmith'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Baldsmith"
+    ],
+    "description": "A small, deciduous tree to around 3m in height, with feathery leaves which are orange to red as they emerge in the spring, turning to pinks and greens then finally a darker orange in the autumn",
+    "dimensions": {
+      "height": "1.5-2.5 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "East-facing, South-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Banks and Slopes, Patio/Container Plants, Rock Garden, Low Maintenance",
+      "hort_group_description": "Acers in this dissectum group have fine, feathery, deeply divided leaves with finely serrated edges"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maple cultivation",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "_KOS4952.jpg",
+        "_KOS4957.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-baldsmith/01-_KOS4952.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-baldsmith/02-_KOS4957.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "_KOS4952.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/_KOS4952.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/124212/acer-palmatum-baldsmith-(d)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-baldsmith/01-_KOS4952.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 80271,
+          "downloaded_at": "2026-04-14T01:47:39+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "_KOS4957.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/_KOS4957.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/124212/acer-palmatum-baldsmith-(d)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-baldsmith/02-_KOS4957.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 195925,
+          "downloaded_at": "2026-04-14T01:47:40+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "'Baldsmith' 是较新的 dissectum 类引种中最出色者之一，春季展叶呈浅而明亮的橙红色。叶片随后在中央渐变为较浅并带绿色调，叶缘带粉色。夏季成熟叶与新叶并存，形成绿色、粉色与橙红色交织的多彩观感。秋季叶色转为明亮的黄色并带橙色晕染。叶片中等大小，精细深裂，5 或 7 裂，长宽均为 8-11 厘米；叶片下部收窄，在裂片与叶柄连接处向下 1-1.5 厘米范围内几乎仅与中脉等宽。与许多 dissectum 品种不同，其次级裂片的分裂并未完全达到中脉。次级裂片具明显而较大的狭长锐尖锯齿。'Baldsmith' 具有多数 dissectum 品种常见的拱圆开展株形和长势，但因枝叶极为下垂、叶裂精细且色泽轻盈而别具风貌。该品种小叶、生长缓慢，与"
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "care": {
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖",
+      "cultivation": "宜栽培于湿润但排水良好的土壤中。夏季必要时应补充浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴晒过度都可能导致叶缘焦枯。参见日本枫树栽培资料。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "小型落叶乔木，高约 3 米。叶片细裂如羽，春季萌发时呈橙至红色，随后转为粉色与绿色，秋季最终呈较深的橙色。",
+    "attributes": {
+      "suggested_uses": "城市/庭院花园、乡村/自然式花园、堤岸和坡地、庭院/容器植物、岩石花园、低维护花园",
+      "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
+    }
+  },
+  "has_mrmaple": false,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-baldsmith/01-baldsmith-1.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-baldsmith/01-baldsmith-1.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 547,
+        "name": "Baldsmith Pink-Green Japanese Maple",
+        "slug": "baldsmith-pink-green-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/baldsmith-pink-green-japanese-maple/",
+        "description_text": "Baldsmith pink-green japanese maple this maple is amoung the best of the newer introductions. It has bright orange-red spring foilage. Summer colors are multicolored with greens, pinks, and orange hues. Grows to 12 ft. Baldsmith is one of my favorite japanese maples.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Lace Leaf Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 25,
+          "max": 40
+        },
+        "review_count": 0,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "baldsmith"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/10/baldsmith-1.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-baldsmith/01-baldsmith-1.jpg",
+          "bytes": 156537,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:50:43.448Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-baldsmith/01-baldsmith-1.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

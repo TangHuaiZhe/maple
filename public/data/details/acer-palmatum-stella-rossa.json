@@ -1,0 +1,143 @@
+{
+  "id": "acer-palmatum-stella-rossa",
+  "canonical_key": "stella rossa",
+  "canonical_name": "Stella Rossa",
+  "display_name": "Stella Rossa",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Stella Rossa'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dissectum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The very attractive pinkred spring foliage becomes a dark purple-red which lasts all summer before turning a bright red in the fall. The coloring is similar to that of 'Dissectum Nigrum', but the deep red is retained even longer. The large seven-lobed leaves are very deeply and finely dissected. The lobes themselves are deeply divided into relatively broad, flat sublobes with delicate fine saw-toothed margins. This vigorous pendulous dissectum from Italy forms a mushroom-shaped shrub up to 10 ft. (3 m) tall and 13 ft. (4 m) wide."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Stella Rossa",
+      "page_range": "159",
+      "group": "Dissectum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 46266,
+      "detail_url": "https://www.rhs.org.uk/plants/46266/acer-palmatum-stella-rossa-(d)/details",
+      "botanical_name": "Acer palmatum 'Stella Rossa' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Stella Rossa' (D)",
+    "Japanese maple 'Stella Rossa'",
+    "Stella Rossa"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Stella Rossa'",
+    "Acer palmatum 'Stella Rossa' (D)",
+    "Japanese maple 'Stella Rossa'",
+    "Stella Rossa"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 46266,
+    "rhs_url": "https://www.rhs.org.uk/plants/46266/acer-palmatum-stella-rossa-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Stella Rossa' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Stella Rossa'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Stella Rossa"
+    ],
+    "description": "A vigorous, pendulous, mushroom-shaped tree to about 3m tall and 4m wide at maturity. The 7-lobed, deeply and finely dissected leaves are 9cm long, with delicate, fine toothed margins, the emerging young leaves pinkish-red in spring, becoming dark purple-red through summer then bright red in autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy, Pendulous/Weeping",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Patio/Container Plants",
+      "hort_group_description": "Acers in this dissectum group have fine, feathery, deeply divided leaves with finely serrated edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市庭院花园、乡村风或自然式花园、花境与花坛、庭院容器栽培",
+      "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "一种生长强健、枝条下垂、成熟后呈蘑菇状的树木，高约 3 米，宽约 4 米。叶片 7 裂，深裂且细裂，长约 9 厘米，叶缘具细密精致的锯齿；春季新叶初展时呈粉红红色，夏季转为深紫红色，秋季则为鲜红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "极具吸引力的粉红红色春叶会转为深紫红色，整个夏季都能保持，秋季再变成鲜红色。其着色与 'Dissectum Nigrum' 相似，但深红色保持时间更长。大型 7 裂叶深裂且细裂，裂片本身又深度分开成较宽、较平展的小裂片，边缘具精致细密的锯齿。这一来自意大利、生长强健的下垂型 dissectum，成熟后形成蘑菇状灌木，高可达 10 英尺（3 米），宽可达 13 英尺（4 米）。"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,195 @@
+{
+  "id": "acer-palmatum-fairy-hair",
+  "canonical_key": "fairy hair",
+  "canonical_name": "Fairy Hair",
+  "display_name": "Fairy Hair",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Fairy Hair'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "An intriguing dwarf laceleaf that reaches 3 ft. (1 m) tall, 'Fairy Hair', as the name implies, develops very thin, threadlike leaves that tend to be bunched together. It does not develop the broader palmate leaves characteristic of the more vigorous 'Koto-no-ito'. The spring leaves are an attractive orange-red, becoming green for the summer. 'Fall's Fire' Matsumurae Group—green. This aptly named cultivar is noted for its spectacular display of yellows, oranges, reds, and purples in the fall. The medium-sized seven-lobed palmate leaves are an Acer attractive yellow-green in the spring. The plant is vigorous and soon forms an upright medium-"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-fairy-hair/01-fairyhair.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/herter-images/acer-palmatum-fairy-hair/01-fairyhair.jpg",
+    "public_paths": [
+      "/herter-images/acer-palmatum-fairy-hair/01-fairyhair.jpg"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Fairy Hair",
+      "page_range": "66",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 298477,
+      "detail_url": "https://www.rhs.org.uk/plants/298477/acer-palmatum-fairy-hair-(l)/details",
+      "botanical_name": "Acer palmatum 'Fairy Hair' (L)",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Fairyhaire Fine Leaf Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/fairyhaire-fine-leaf-japanese-maple/",
+      "description": "Fairyhaire is the finest leaf of all japanese Maples. Very slow growning and very unique. Great for bonsai or containers. This is a very rare japanese maple, and is very hard to graft.",
+      "group": "All Japanese Maples / Bamboo Leaf Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Fairy Hair' (L)",
+    "Fairy Hair",
+    "Japanese maple 'Fairy Hair'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Fairy Hair'",
+    "Acer palmatum 'Fairy Hair' (L)",
+    "Fairy Hair",
+    "Japanese maple 'Fairy Hair'"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 298477,
+    "rhs_url": "https://www.rhs.org.uk/plants/298477/acer-palmatum-fairy-hair-(l)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Fairy Hair' (L)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Fairy Hair'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Fairy Hair"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "一种引人注目的矮生线叶型品种，高可达 3 英尺（1 米），‘Fairy Hair’ 正如其名，会形成极细如丝的叶片，并常簇生在一起。它不像生长更旺盛的 ‘Koto-no-ito’ 那样形成较宽的掌状叶。春季叶色为迷人的橙红色，夏季转绿。‘Fall's Fire’：Matsumurae Group，绿色系。这个命名贴切的品种以秋季绚丽的黄、橙、红、紫综合色著称。中等大小的 7 裂掌状叶在春季呈悦目的黄绿色，植株生长旺盛，很快形成直立的中型树。‘Fascination’：裂叶型，Matsumurae Group，绿色系。该品种生长强健，树形直立开展、近圆形，具大型且深裂的叶片，叶缘具较大的粗锯齿。其叶片与……相似。"
+  },
+  "has_mrmaple": false,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-fairy-hair/01-fairyhair.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-fairy-hair/01-fairyhair.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1309,
+        "name": "Fairyhaire Fine Leaf Japanese Maple",
+        "slug": "fairyhaire-fine-leaf-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/fairyhaire-fine-leaf-japanese-maple/",
+        "description_text": "Fairyhaire is the finest leaf of all japanese Maples. Very slow growning and very unique. Great for bonsai or containers. This is a very rare japanese maple, and is very hard to graft.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Bamboo Leaf Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 50,
+          "max": 100
+        },
+        "review_count": 0,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "override",
+        "match_candidate": "fairyhaire-fine-leaf-japanese-maple"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/fairyhair.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-fairy-hair/01-fairyhair.jpg",
+          "bytes": 16336,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:50:22.855Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-fairy-hair/01-fairyhair.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

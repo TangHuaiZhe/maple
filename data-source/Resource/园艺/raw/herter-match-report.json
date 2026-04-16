@@ -1,0 +1,564 @@
+{
+  "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+  "fetched_product_count": 95,
+  "generated_at": "2026-04-16T06:51:39.646Z",
+  "matched": [
+    {
+      "record_id": "acer-palmatum-sango-kaku",
+      "cultivar_name": "Sango kaku",
+      "matched_product_count": 1,
+      "downloaded_image_count": 1,
+      "product_slugs": [
+        "sango-kaku-coral-bark-japanese-maple"
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "product_name": "Waterfall Cascading Japanese Maple",
+      "product_slug": "waterfall-cascading-japanese-maple",
+      "record_id": "acer-palmatum-waterfall",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Viridis Green Lace Leaf Japanese Maple",
+      "product_slug": "viridis-green-lace-leaf-japanese-maple",
+      "record_id": "acer-palmatum-viridis",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Ukigumo Variegated Japanese Maple",
+      "product_slug": "ukigumo-variegated-japanese-maple",
+      "record_id": "acer-palmatum-ukigumo",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Trompenburg Red Japanese Maple",
+      "product_slug": "trompenburg-red-japanese-maple",
+      "record_id": "acer-palmatum-trompenburg",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Toyoma Nishiki Variegated Laceleaf Japanese Maple",
+      "product_slug": "toyoma-nishiki-variegated-laceleaf-japanese-maple",
+      "record_id": "acer-palmatum-toyama-nishiki",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Tamukeyama Red Lace Leaf Japanese Maple",
+      "product_slug": "tamukeyama-red-lace-leaf-japanese-maple",
+      "record_id": "acer-palmatum-tamuke-yama",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Tamukeyama Japanese Maple",
+      "product_slug": "tamukeyama-japanese-maple",
+      "record_id": "acer-palmatum-tamuke-yama",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Spring Delight Green/Pink Laceleaf Japanese Maple",
+      "product_slug": "spring-delight-green-pink-laceleaf-japanese-maple",
+      "record_id": "acer-palmatum-spring-delight",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Shidava Gold Japanese Maple",
+      "product_slug": "shidava-gold-japanese-maple",
+      "record_id": "acer-palmatum-shidava-gold",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Shishigashira “Lions Head’ Japanese Maple",
+      "product_slug": "shishigashira-lions-head-japanese-maple",
+      "record_id": "acer-palmatum-shishigashira",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Shigitatsu Sawa Japanese Maple",
+      "product_slug": "shigitatsu-sawa-japanese-maple",
+      "record_id": "acer-palmatum-shigitatsu-sawa",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Sherwood Flame Red-purple Japanese Maple",
+      "product_slug": "sherwood-flame-red-purple-japanese-maple",
+      "record_id": "acer-palmatum-sherwood-flame",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Shaina Red Dwarf Japanese Maples",
+      "product_slug": "shaina-red-dwarf-japanese-maples",
+      "record_id": "acer-palmatum-shaina",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Seiryu – Green Dragon Lace Leaf Japanese Maple",
+      "product_slug": "seiryu-green-dragon-lace-leaf-japanese-maple",
+      "record_id": "acer-palmatum-seiryu",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Red Filigree Lace Laceleaf Japanese Maple",
+      "product_slug": "red-filigree-lace-laceleaf-japanese-maple",
+      "record_id": "acer-palmatum-red-filigree-lace",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Red Emperor Deep Red Japanese Maple",
+      "product_slug": "red-emperor-deep-red-japanese-maple",
+      "record_id": "acer-palmatum-emperor-one",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Red Dragon Laceleaf Japanese Maple",
+      "product_slug": "red-dragon-laceleaf-japanese-maple",
+      "record_id": "acer-palmatum-red-dragon",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Purple Ghost Rare Japanese Maple",
+      "product_slug": "purple-ghost-rare-japanese-maple",
+      "record_id": "acer-palmatum-purple-ghost",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Pink Lace Japanese Maple",
+      "product_slug": "pink-lace-japanese-maple",
+      "record_id": "acer-palmatum-pink-lace",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Peve Starfish Japanese Maple",
+      "product_slug": "peve-starfish-japanese-maple",
+      "record_id": "acer-palmatum-peve-starfish",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Peaches & Cream Japanese Maple",
+      "product_slug": "peaches-cream-japanese-maple",
+      "record_id": "acer-palmatum-peaches-and-cream",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Oshio Beni Japanese Maple",
+      "product_slug": "oshio-beni-japanese-maple",
+      "record_id": "acer-palmatum-oshio-beni",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Orido Nishiki Variegated Japanese Maple",
+      "product_slug": "orido-nishiki-variegated-japanese-maple",
+      "record_id": "acer-palmatum-oridono-nishiki",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Orangeola Orange Lace Leaf Japanese Maple",
+      "product_slug": "orangeola-orange-lace-leaf-japanese-maple",
+      "record_id": "acer-palmatum-orangeola",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Orange Dream Japanese Maple",
+      "product_slug": "orange-dream-japanese-maple",
+      "record_id": "acer-palmatum-orange-dream",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Omurayama Cascading Japanese Maple",
+      "product_slug": "omurayama-cascading-japanese-maple",
+      "record_id": "acer-palmatum-omura-yama",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Ojishi Dwarf Grafted Japanese Maple",
+      "product_slug": "ojishi-dwarf-grafted-japanese-maple",
+      "record_id": "acer-palmatum-ojishi",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Nuresagi Japanese Maple",
+      "product_slug": "nuresagi-japanese-maple",
+      "record_id": "acer-palmatum-nuresagi",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Moonfire Purple-Red Japanese Maple",
+      "product_slug": "moonfire-purple-red-japanese-maple",
+      "record_id": "acer-palmatum-moonfire",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Mikawa Yatsubusa Dwarf Japanese Maple",
+      "product_slug": "mikawa-yatsubusa-dwarf-japanese-maple",
+      "record_id": "acer-palmatum-mikawa-yatsubusa",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Marlo Variegated Pink Japanese Maple",
+      "product_slug": "marlo-variegated-pink-japanese-maple",
+      "record_id": "acer-palmatum-marlo",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Margaret Bee Purple Japanese Maple",
+      "product_slug": "margaret-bee-purple-japanese-maple",
+      "record_id": "acer-palmatum-margaret-bee",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Lionheart Laceleaf Japanese Maple",
+      "product_slug": "lionheart-laceleaf-japanese-maple",
+      "record_id": "acer-palmatum-lionheart",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Lileeannes Jewel",
+      "product_slug": "lileeannes-jewel",
+      "record_id": "acer-palmatum-lileeanes-jewel",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Lemon Lime Lace Japanese Maple",
+      "product_slug": "lemon-lime-lace-japanese-maple",
+      "record_id": "acer-palmatum-lemon-lime-lace",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Katsura Orange Japanese Maple",
+      "product_slug": "katsura-orange-japanese-maple",
+      "record_id": "acer-palmatum-katsura",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Kasagiyama Pink Lace Leaf Japanese Maple",
+      "product_slug": "kasagiyama-pink-lace-leaf-japanese-maple",
+      "record_id": "acer-palmatum-kasagi-yama",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Inaba Shirdare Red Lace Leaf Japanese Maple",
+      "product_slug": "inaba-shirdare-red-lace-leaf-japanese-maple",
+      "record_id": "acer-palmatum-inaba-shidare",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Herter Original Double Grafted Maple",
+      "product_slug": "herter-original-double-grafted-maple",
+      "reason": "skip_list"
+    },
+    {
+      "product_name": "Garnet Red Lace Leaf Japanese Maple",
+      "product_slug": "garnet-red-lace-leaf-japanese-maple",
+      "record_id": "acer-palmatum-garnet",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "First Ghost Variegated Japanese Maple",
+      "product_slug": "first-ghost-variegated-japanese-maple",
+      "record_id": "acer-palmatum-first-ghost",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Grandma Ghost Variegated Japanese Maple",
+      "product_slug": "grandma-ghost-variegated-japanese-maple",
+      "record_id": "acer-palmatum-grandma-ghost",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Iijima Sunago Red Variegated Japanese Maple",
+      "product_slug": "iijima-sunago-red-variegated-japanese-maple",
+      "record_id": "acer-palmatum-iijima-sunago",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Geisha Gone Wild Variegated Japanese Maple",
+      "product_slug": "geisha-gone-wild-variegated-japanese-maple",
+      "record_id": "acer-palmatum-geisha-gone-wild",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Bihou Yellow Bark Japanese Maple",
+      "product_slug": "bihou-yellow-bark-japanese-maple",
+      "record_id": "acer-palmatum-bihou",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Anne Irene Yellow Japanese Maple",
+      "product_slug": "anne-irene-yellow-japanese-maple",
+      "record_id": "acer-palmatum-anne-irene",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Villa Taranto Bamboo Japanese Maple",
+      "product_slug": "villa-taranto-bamboo-japanese-maple",
+      "record_id": "acer-palmatum-villa-taranto",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Red Pygmy Fine Laceleaf Japanese Maple",
+      "product_slug": "red-pygmy-fine-laceleaf-japanese-maple",
+      "record_id": "acer-palmatum-red-pygmy",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Pung Kil Japanese Maple",
+      "product_slug": "pung-kil-japanese-maple",
+      "record_id": "acer-palmatum-pung-kil",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Koto No Ito Unusual Green Japanese Maple",
+      "product_slug": "koto-no-ito-unusual-green-japanese-maple",
+      "record_id": "acer-palmatum-koto-no-ito",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Fairyhaire Fine Leaf Japanese Maple",
+      "product_slug": "fairyhaire-fine-leaf-japanese-maple",
+      "record_id": "acer-palmatum-fairy-hair",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Beni Otake Red ‘bamboo Like” Japanese Maple",
+      "product_slug": "beni-otake-red-bamboo-like-japanese-maple",
+      "record_id": "acer-palmatum-beni-o-take",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Atrolineare Bamboo Leaf",
+      "product_slug": "atrolineare-bamboo-leaf",
+      "record_id": "acer-palmatum-atrolineare",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Butterfly Variegated Japanese Maple",
+      "product_slug": "butterfly-variegated-japanese-maple",
+      "record_id": "acer-palmatum-butterfly",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Beni Shi En Red Japanese Maple",
+      "product_slug": "beni-shi-en-red-japanese-maple",
+      "record_id": "acer-palmatum-beni-shi-en",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Beni Schichihenge",
+      "product_slug": "beni-schichihenge",
+      "record_id": "acer-palmatum-beni-shichihenge",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Aureum Full Moon Japanese Maple",
+      "product_slug": "aureum-full-moon-japanese-maple",
+      "record_id": "acer-shirasawanum",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Aureum Autumn Moon",
+      "product_slug": "aureum-autumn-moon",
+      "record_id": "acer-shirasawanum-autumn-moon",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Kandy Kitchens Japanese Maple",
+      "product_slug": "kandy-kitchens-japanese-maple",
+      "record_id": "acer-palmatum-kandy-kitchen",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Kamagata Dwarf Japanese Maple",
+      "product_slug": "kamagata-dwarf-japanese-maple",
+      "record_id": "acer-palmatum-kamagata",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Goshiki Kotohime Variegated Japanese Maple",
+      "product_slug": "goshiki-kotohime-variegated-japanese-maple",
+      "record_id": "acer-palmatum-goshiki-kotohime",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Fireball Red Dwarf Japanese maple",
+      "product_slug": "fireball-red-dwarf-japanese-maple",
+      "record_id": "acer-palmatum-fireball",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Corallinum Variegated Japanese Maple",
+      "product_slug": "corallinum-variegated-japanese-maple",
+      "record_id": "acer-palmatum-corallinum",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Hogyoku Japanese Maple",
+      "product_slug": "hogyoku-japanese-maple",
+      "record_id": "acer-palmatum-ho-gyoku",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Fireglow Red Large leaf Japanese Maple",
+      "product_slug": "fireglow-red-large-leaf-japanese-maple",
+      "record_id": "acer-palmatum-fireglow",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Emperor One Red Grafted Japanese Maple",
+      "product_slug": "emperor-one-red-grafted-japanese-maple",
+      "record_id": "acer-palmatum-emperor-one",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Burgundy Lace Red Japanese Maple",
+      "product_slug": "burgundy-lace-red-japanese-maple",
+      "record_id": "acer-palmatum-burgundy-lace",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "English lace Japanese Maple",
+      "product_slug": "english-lace-japanese-maple",
+      "record_id": "acer-palmatum-english-lace",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Crimson Queen Laceleaf Japanese Maple",
+      "product_slug": "crimson-queen-laceleaf-japanese-maple",
+      "record_id": "acer-palmatum-crimson-queen",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Chantilly Lace Grafted Japanese Maple",
+      "product_slug": "chantilly-lace-grafted-japanese-maple",
+      "record_id": "acer-palmatum-chantilly-lace",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Amber Ghost",
+      "product_slug": "amber-ghost",
+      "record_id": "acer-palmatum-amber-ghost",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "A J Aconitifolium Japanese Maple",
+      "product_slug": "a-j-aconitifolium-japanese-maple",
+      "record_id": "acer-japonicum-aconitifolium",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Green Japanese Maple Seedling – Large",
+      "product_slug": "green-japanese-maple-seedling-large",
+      "reason": "skip_list"
+    },
+    {
+      "product_name": "Green Japanese Maple Seedling – Medium",
+      "product_slug": "green-japanese-maple-seedling-medium",
+      "reason": "skip_list"
+    },
+    {
+      "product_name": "Green Japanese Maple Seedling – Small",
+      "product_slug": "green-japanese-maple-seedling-small",
+      "reason": "skip_list"
+    },
+    {
+      "product_name": "Baldsmith Pink-Green Japanese Maple",
+      "product_slug": "baldsmith-pink-green-japanese-maple",
+      "record_id": "acer-palmatum-baldsmith",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Red Japanese Maple – 2yr Branched Seedling – Bonsai",
+      "product_slug": "red-japanese-maple-2yr-branched-seedling-bonsai",
+      "reason": "skip_list"
+    },
+    {
+      "product_name": "Ginkgo Biloba Tree",
+      "product_slug": "ginkgo-biloba-tree",
+      "reason": "skip_list"
+    },
+    {
+      "product_name": "Wholesale maple deal – 10 large maples",
+      "product_slug": "wholesale-maple-deal-10-large-maples",
+      "reason": "skip_list"
+    },
+    {
+      "product_name": "Red Japanese Maple Seedlings -Small",
+      "product_slug": "red-japanese-maple-seedlings-small",
+      "reason": "skip_list"
+    },
+    {
+      "product_name": "Bloodgood Red Large leaf Japanese Maple",
+      "product_slug": "bloodgood-red-large-leaf-japanese-maple",
+      "record_id": "acer-palmatum-bloodgood",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Babylace Fine Lacelef Japanese Maple",
+      "product_slug": "babylace-fine-lacelef-japanese-maple",
+      "record_id": "acer-palmatum-baby-lace",
+      "reason": "ids_filter"
+    },
+    {
+      "product_name": "Mega Size Red Laceleaf Japanese Maple",
+      "product_slug": "mega-size-red-laceleaf-japanese-maple",
+      "reason": "skip_list"
+    }
+  ],
+  "unmatched": [
+    {
+      "product_name": "Wilson’s Pink Dwarf Japanese Maple",
+      "product_slug": "wilsons-pink-dwarf-japanese-maple",
+      "candidate": "wilson s pink dwarf japanese maple"
+    },
+    {
+      "product_name": "Wetumpka Red Japanese Maple",
+      "product_slug": "wetumpka-red-japanese-maple",
+      "candidate": "wetumpka red japanese maple"
+    },
+    {
+      "product_name": "Radiant Variegated Japanese Maple",
+      "product_slug": "radiant-variegated-japanese-maple",
+      "candidate": "radiant variegated japanese maple"
+    },
+    {
+      "product_name": "Otto’s Dissectum Japanese Maple",
+      "product_slug": "ottos-dissectum-japanese-maple",
+      "candidate": "otto s dissectum japanese maple"
+    },
+    {
+      "product_name": "Otake Japanese Maple",
+      "product_slug": "otake-japanese-maple",
+      "candidate": "otake japanese maple"
+    },
+    {
+      "product_name": "Okagami Purple-red Grafted Japanese Maple",
+      "product_slug": "okagami-purple-red-grafted-japanese-maple",
+      "candidate": "okagami purple red grafted japanese maple"
+    },
+    {
+      "product_name": "Scolopendrifolium Narrow Leaf Japanese Maple",
+      "product_slug": "scolopendrifolium-narrow-leaf-japanese-maple",
+      "candidate": "scolopendrifolium narrow leaf japanese maple"
+    },
+    {
+      "product_name": "Red Cloud Bamboo-like Grafted Japanese Maple",
+      "product_slug": "red-cloud-bamboo-like-grafted-japanese-maple",
+      "candidate": "red cloud bamboo like grafted japanese maple"
+    },
+    {
+      "product_name": "Little Red Dwarf Japanese Maple",
+      "product_slug": "little-red-dwarf-japanese-maple",
+      "candidate": "little red dwarf japanese maple"
+    },
+    {
+      "product_name": "Crimson Carole Red Japanese Maple",
+      "product_slug": "crimson-carole-red-japanese-maple",
+      "candidate": "crimson carole red japanese maple"
+    },
+    {
+      "product_name": "Green Filigree Laceleaf Japanese Maple",
+      "product_slug": "green-filigree-laceleaf-japanese-maple",
+      "candidate": "green filigree laceleaf japanese maple"
+    }
+  ]
+}

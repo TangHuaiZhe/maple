@@ -1,0 +1,75 @@
+{
+  "id": "acer-palmatum-allen",
+  "canonical_key": "allen",
+  "canonical_name": "Allen",
+  "display_name": "Allen",
+  "chinese_name": "金色艾伦",
+  "scientific_name": "Acer Palmatum",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "荒皮系列",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": ""
+  },
+  "images": {
+    "count": 2,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/荒皮系列/211_金色艾伦Acer Palmatum'Allen's Gold'/01.jpg",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/荒皮系列/211_金色艾伦Acer Palmatum'Allen's Gold'/01.jpg",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/荒皮系列/211_金色艾伦Acer Palmatum'Allen's Gold'/02.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/211_%E9%87%91%E8%89%B2%E8%89%BE%E4%BC%A6Acer%20Palmatum'Allen's%20Gold'/01.jpg",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/211_%E9%87%91%E8%89%B2%E8%89%BE%E4%BC%A6Acer%20Palmatum'Allen's%20Gold'/01.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/211_%E9%87%91%E8%89%B2%E8%89%BE%E4%BC%A6Acer%20Palmatum'Allen's%20Gold'/02.jpg"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/211_%E9%87%91%E8%89%B2%E8%89%BE%E4%BC%A6Acer%20Palmatum'Allen's%20Gold'/01.jpg",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/211_%E9%87%91%E8%89%B2%E8%89%BE%E4%BC%A6Acer%20Palmatum'Allen's%20Gold'/01.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%8D%92%E7%9A%AE%E7%B3%BB%E5%88%97/211_%E9%87%91%E8%89%B2%E8%89%BE%E4%BC%A6Acer%20Palmatum'Allen's%20Gold'/02.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "211",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/211.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=62",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "荒皮系列",
+      "title": "金色艾伦Acer Palmatum'Allen's Gold'",
+      "description": "",
+      "image_count": 2
+    }
+  ],
+  "aliases": [
+    "Allen",
+    "金色艾伦",
+    "金色艾伦Acer Palmatum'Allen's Gold'"
+  ],
+  "search_terms": [
+    "Acer Palmatum",
+    "Acer palmatum",
+    "Allen",
+    "荒皮系列",
+    "金色艾伦",
+    "金色艾伦Acer Palmatum'Allen's Gold'",
+    "鸡爪槭"
+  ],
+  "source_count": 1,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": false,
+  "rhs": null,
+  "has_mrmaple": false,
+  "descriptions_zh": {
+    "preferred": "疑为 Allen's Gold。春季新叶呈明亮橙黄色，常配以珊瑚红色叶柄与嫩枝；夏季转为黄绿色，秋季再转金黄。树形直立，适合作为小型庭院中的亮色焦点。"
+  }
+}

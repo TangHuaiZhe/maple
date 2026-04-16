@@ -1,0 +1,194 @@
+{
+  "id": "acer-palmatum-winter-flame",
+  "canonical_key": "winter flame",
+  "canonical_name": "Winter Flame",
+  "display_name": "Winter Flame",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Winter Flame'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This outstanding New Zealand cultivar was introduced by Duncan and Davies Nursery of New Zealand, and is a dwarf, compact bushy form of 'Sango kaku', but with more deeply divided leaves. It has small to medium-sized seven-lobed deeply divided leaves which are 4.5-6.5 cm long and wide. The three middle lobes are ovate-triangular with tail-like pointed tips, 10-15 mm wide at the broadest point in the lower third, narrowing to 3-4 mm at the lobe junctions which are within 5 mm of the leaf base. The small but distinct basal lobes are angled backward and outward. The slender red petioles are 1.5-3.5 cm long. 'Winter Flame', like"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-winter-flame/01-Web_Use-_KOT9321%5B1%5D_12300.jpg",
+      "/rhs-images/acer-palmatum-winter-flame/02-Web_Use-_KOT9330%5B1%5D_12300.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-winter-flame/01-Web_Use-_KOT9321%5B1%5D_12300.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-winter-flame/01-Web_Use-_KOT9321%5B1%5D_12300.jpg",
+      "/rhs-images/acer-palmatum-winter-flame/02-Web_Use-_KOT9330%5B1%5D_12300.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Winter Flame",
+      "page_range": "235",
+      "group": "matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 150338,
+      "detail_url": "https://www.rhs.org.uk/plants/150338/acer-palmatum-winter-flame-(p)/details",
+      "botanical_name": "Acer palmatum 'Winter Flame' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Winter Flame' (P)",
+    "Japanese maple 'Winter Flame'",
+    "Winter Flame"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Winter Flame'",
+    "Acer palmatum 'Winter Flame' (P)",
+    "Japanese maple 'Winter Flame'",
+    "Winter Flame"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 150338,
+    "rhs_url": "https://www.rhs.org.uk/plants/150338/acer-palmatum-winter-flame-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Winter Flame' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Winter Flame'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Winter Flame"
+    ],
+    "description": "A rounded, deciduous, small to medium-sized tree or shrub to around 3m tall with coral-red young shoots. Its 5-lobed leaves emerge a lime green in spring, darkening to a mid-green in summer before turning shades of yellow and orange in the autumn. Small red flowers in spring are followed by winged red fruits",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "South-facing, East-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, City/Courtyard Gardens, Cottage/Informal Garden, Low Maintenance, Patio/Container Plants, Rock Garden",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "Web_Use-_KOT9321[1]_12300.jpg",
+        "Web_Use-_KOT9330[1]_12300.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-winter-flame/01-Web_Use-_KOT9321[1]_12300.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-winter-flame/02-Web_Use-_KOT9330[1]_12300.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "Web_Use-_KOT9321[1]_12300.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/Web_Use-_KOT9321%5B1%5D_12300.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/150338/acer-palmatum-winter-flame-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-winter-flame/01-Web_Use-_KOT9321[1]_12300.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 141304,
+          "downloaded_at": "2026-04-14T01:48:02+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "Web_Use-_KOT9330[1]_12300.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/Web_Use-_KOT9330%5B1%5D_12300.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/150338/acer-palmatum-winter-flame-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-winter-flame/02-Web_Use-_KOT9330[1]_12300.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 70419,
+          "downloaded_at": "2026-04-14T01:48:02+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。",
+      "suggested_uses": "适合建筑感种植、城市/庭院花园、乡村式/自然式花园、低维护花园、露台/容器栽培及岩石园"
+    },
+    "care": {
+      "cultivation": "宜种植于湿润但排水良好的土壤中。夏季如有需要应浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴露过度都可能导致叶片焦枯。",
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "落叶性小至中型乔木或灌木，树形圆整，高约 3 米，嫩枝呈珊瑚红色。其五裂叶春季萌发时为青柠绿色，夏季渐深为中绿色，秋季转为黄色和橙色调。春季开小型红花，随后结红色翅果。"
+  },
+  "descriptions_zh": {
+    "preferred": "这一出色的新西兰品种由新西兰 Duncan and Davies Nursery 引入，是 'Sango kaku' 的矮生、紧凑、丛生型，但叶片分裂更深。其叶片小至中等大小，具 7 个深裂裂片，长宽均为 4.5 至 6.5 厘米。中间 3 个裂片为卵状三角形，具尾状尖端，在下部三分之一最宽处宽 10 至 15 毫米，于裂片连接处收窄至 3 至 4 毫米，而该连接处距叶基不足 5 毫米。基部裂片虽小但清晰可辨，向后并向外伸展。细长红色叶柄长 1.5 至 3.5 厘米。'Winter Flame' 与 'Sango kaku' 一样，春叶为柔和的浅黄绿色，与粉红至红色新枝形成优美对比；夏季叶色转浅绿，秋季变为黄、橙、红混杂的斑驳色，最终呈浅深红色。它与"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": "acer-palmatum-aureo-variegatum",
+  "canonical_key": "aureo variegatum",
+  "canonical_name": "Aureo-variegatum",
+  "display_name": "Aureo-variegatum",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Aureo-variegatum'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "The new foliage in the spring is not strongly variegated, being a rather uniform light green tone. However, the stronger variegation comes later in the fall. Small and indefinite markings of yellow or gold appear in the green background color. The variegation is not brilliant but discernible. However, the lack of \"aureo\" and \"variegation\" characteristics is disappointing. The leaves are five lobed with a truncate leaf base and good texture. They measure 5-6 cm long and about 6 cm wide. Each lobe is oblong, gradually terminating in a slender point. The lobes separate to within 1-2 cm of the leaf base. The margins are finely serrated on the outer half of the lobe. The petioles are firm, slightly reddish in color, and 2-3 cm long. This upright-growing tree does not get as tall as the species. Older trees are broadened at the top, not overly twiggy, and about 4 m high, but mature trees can reach 8 m. According to the literature, the name 'Aureo-variegatum' has been applied to more than one cultivar. One source considers it synonymous with"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Aureo-variegatum",
+      "page_range": "116",
+      "group": "matsumurae",
+      "color_group": "variegated",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Aureo-variegatum"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Aureo-variegatum'",
+    "Aureo-variegatum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "春季新叶的斑锦性并不强，整体呈较均一的浅绿色调。然而，更明显的斑锦会在秋季后期出现。在绿色底色上可见小而不规则的黄色或金色斑纹。其斑锦并不十分鲜艳，但仍可辨识。不过，缺乏“aureo”和“variegation”应有的表现，多少令人失望。叶片为 5 裂，叶基平截，质地良好。叶长 5-6 厘米，宽约 6 厘米。各裂片为长圆形，逐渐收为细尖；裂片分离深度距叶基约 1-2 厘米。裂片外半部叶缘具细锯齿。叶柄坚挺，略带红色，长 2-3 厘米。该品种树形直立，但不如原种高大。老树顶部较开展，枝条不过分细密，高约 4 米，成熟植株可达 8 米。根据文献记载，名称 'Aureo-variegatum' 曾被用于不止一个品种。有资料将其视为"
+  },
+  "has_mrmaple": false
+}

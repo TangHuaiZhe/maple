@@ -1,0 +1,251 @@
+{
+  "id": "acer-palmatum-first-ghost",
+  "canonical_key": "first ghost",
+  "canonical_name": "First Ghost",
+  "display_name": "First Ghost",
+  "chinese_name": "第一精灵",
+  "scientific_name": "Acer Palmatum 'First Ghost'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "脉叶",
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "This sport of 'Beni shigitatsu sawa' has similarly large deeply divided leaves, with irregular wavy margins and coarse, sharp teeth. It differs in the pale white leaf base color with a contrasting dark green network of veins. The leaf edges may be lightly pink tinged when first appearing. Fall colors are orange to gold. The ghostlike leaves are supported by the gray-white young shoots. This interesting cultivar forms a small to medium-sized tree estimated to grow up to 13 ft. (4 m) tall. It needs Acer some protection from the afternoon sun. Buchholz."
+  },
+  "images": {
+    "count": 10,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/108_第一精灵 Acer Palmatum 'First Ghost'/01.jpg",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/108_第一精灵 Acer Palmatum 'First Ghost'/01.jpg",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/108_第一精灵 Acer Palmatum 'First Ghost'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/108_第一精灵 Acer Palmatum 'First Ghost'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/108_第一精灵 Acer Palmatum 'First Ghost'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/108_第一精灵 Acer Palmatum 'First Ghost'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/108_第一精灵 Acer Palmatum 'First Ghost'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/108_第一精灵 Acer Palmatum 'First Ghost'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/108_第一精灵 Acer Palmatum 'First Ghost'/08.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/108_第一精灵 Acer Palmatum 'First Ghost'/09.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/108_第一精灵 Acer Palmatum 'First Ghost'/10.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/01.jpg",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/01.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/10.jpg"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-first-ghost/01-firstghost.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/01.jpg",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/01.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/108_%E7%AC%AC%E4%B8%80%E7%B2%BE%E7%81%B5%20Acer%20Palmatum%20'First%20Ghost'/10.jpg",
+      "/herter-images/acer-palmatum-first-ghost/01-firstghost.jpg"
+    ],
+    "public_count": 11
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "108",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/108.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=19",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "脉叶",
+      "title": "第一精灵 Acer Palmatum 'First Ghost'",
+      "description": "美国俄勒冈州巴克霍兹苗圃 泰隆 ·巴克霍兹 育种，是赤鸭立泽的枝变品种 ，属于脉叶精灵系列。 春天叶子呈乳白色至奶油色，叶裂较深，带有明显的深绿色叶脉，叶子 带 有红紫色的爪尖、边缘，叶边缘呈现独特的波浪形 ，初春的时候叶片整体呈下垂的状态 。夏天叶片返绿呈浅绿色，中间的脉纹是深绿色，秋天的颜色是明亮的金黄色到橙色。一般呈现 7 裂叶 ，成年树高 3-4 m 左右。 第一精灵属于 精灵 系列 ，此系列还有以下品种点击查看",
+      "image_count": 10
+    },
+    {
+      "source": "timber_press",
+      "name": "First Ghost",
+      "page_range": "68",
+      "group": "Matsumurae",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 222260,
+      "detail_url": "https://www.rhs.org.uk/plants/222260/acer-palmatum-first-ghost-(m-v)/details",
+      "botanical_name": "Acer palmatum 'First Ghost' (M/v)",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "First Ghost Variegated Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/first-ghost-variegated-japanese-maple/",
+      "description": "This is a very striking variety of Lace leaf Grafted Japanese Maple with variegated leaf colors of pink, white , and greens. The leaves are very bright with geen veins.",
+      "group": "All Japanese Maples / Variegated Leaf Japanese Maple",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'First Ghost' (M/v)",
+    "Acer palmatum 'Ghost'",
+    "First Ghost",
+    "Ghost",
+    "Japanese maple 'Ghost'",
+    "第一精灵",
+    "第一精灵 Acer Palmatum 'First Ghost'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'First Ghost'",
+    "Acer palmatum",
+    "Acer palmatum 'First Ghost' (M/v)",
+    "Acer palmatum 'Ghost'",
+    "First Ghost",
+    "Ghost",
+    "Japanese maple 'Ghost'",
+    "第一精灵",
+    "第一精灵 Acer Palmatum 'First Ghost'",
+    "脉叶",
+    "鸡爪槭"
+  ],
+  "source_count": 4,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 222260,
+    "rhs_url": "https://www.rhs.org.uk/plants/222260/acer-palmatum-first-ghost-(m-v)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'First Ghost' (M/v)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Ghost'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Ghost'"
+    ],
+    "cultivar_names": [
+      "First Ghost",
+      "Ghost"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这是 'Beni shigitatsu sawa' 的一个芽变品种，具有类似的大型深裂叶，叶缘不规则起伏，并具粗大而尖锐的锯齿。其不同之处在于叶片底色更偏淡白色，与深绿色的叶脉网纹形成鲜明对比。新叶初展时，叶缘可轻微泛粉。秋色为橙色至金色。带有幽灵感的叶片由灰白色幼枝衬托。该品种颇具特色，形成小至中型树，估计可长至 13 英尺（4 米）高。午后强光下需给予一定遮护。Buchholz."
+  },
+  "has_mrmaple": false,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-first-ghost/01-firstghost.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-first-ghost/01-firstghost.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1393,
+        "name": "First Ghost Variegated Japanese Maple",
+        "slug": "first-ghost-variegated-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/first-ghost-variegated-japanese-maple/",
+        "description_text": "This is a very striking variety of Lace leaf Grafted Japanese Maple with variegated leaf colors of pink, white , and greens. The leaves are very bright with geen veins.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Variegated Leaf Japanese Maple"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 45
+        },
+        "review_count": 0,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "first ghost"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/firstghost.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-first-ghost/01-firstghost.jpg",
+          "bytes": 13827,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:50:05.133Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-first-ghost/01-firstghost.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

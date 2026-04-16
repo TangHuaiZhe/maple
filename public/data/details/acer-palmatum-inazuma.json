@@ -1,0 +1,193 @@
+{
+  "id": "acer-palmatum-inazuma",
+  "canonical_key": "inazuma",
+  "canonical_name": "Inazuma",
+  "display_name": "Inazuma",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Inazuma'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The large leaves are of a rich, deep purple-red with green veins in the spring and early summer. As they mature, they become a dark purple with green tinges, eventually turning a stunning bright red-crimson in the fall. The deeply divided leaves have seven long, ovate-lanceolate, widely separated lobes with clearly toothed margins. This hardy cultivar is vigorous and forms a tall, rounded shrub or tree with cascading foliage, up to 33 ft. (10 m) high and 16-20 ft. (5-6 m) wide. The name means \"thunderer.\""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-inazuma/01-visi69065.jpg",
+      "/rhs-images/acer-palmatum-inazuma/02-visi69064.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-inazuma/01-visi69065.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-inazuma/01-visi69065.jpg",
+      "/rhs-images/acer-palmatum-inazuma/02-visi69064.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Inazuma",
+      "page_range": "81-82",
+      "group": "Matsumurae",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 45363,
+      "detail_url": "https://www.rhs.org.uk/plants/45363/acer-palmatum-inazuma-(m)/details",
+      "botanical_name": "Acer palmatum 'Inazuma' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Inazuma' (M)",
+    "Inazuma",
+    "Japanese maple 'Inazuma'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Inazuma'",
+    "Acer palmatum 'Inazuma' (M)",
+    "Inazuma",
+    "Japanese maple 'Inazuma'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 45363,
+    "rhs_url": "https://www.rhs.org.uk/plants/45363/acer-palmatum-inazuma-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Inazuma' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Inazuma'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Inazuma"
+    ],
+    "description": "A deciduous tree, up to around 10m high, with palmate leaves divided into long, tapering lobes. Leaves emerge bright reddish purple in spring, and develop to dark purple and olive green, before turning deep crimson in autumn. Winged seeds are also tinted red in autumn",
+    "dimensions": {
+      "height": "8-12 metres",
+      "spread": "4-8 metres",
+      "time_to_full_height": "20-50 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, South-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Columnar/Upright",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, Low Maintenance",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in moisture-retentive, well-drained, ideally slightly acidic soil, in a sheltered position with protection from drying winds. Thrives in part shade, though some sun is needed to develop the leaf colour; will tolerate full sun if soil is reliably moist. Mulch in spring to improve moisture retention. See Japanese maples cultivation",
+      "pruning": "Minimal pruning required; see pruning group 1 . Prune from late autumn to mid-winter only",
+      "propagation": "Propagate by layering or grafting"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "visi69065.jpg",
+        "visi69064.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-inazuma/01-visi69065.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-inazuma/02-visi69064.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "visi69065.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi69065.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/45363/acer-palmatum-inazuma-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-inazuma/01-visi69065.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 143656,
+          "downloaded_at": "2026-04-14T01:47:48+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "visi69064.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi69064.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/45363/acer-palmatum-inazuma-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-inazuma/02-visi69064.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 194727,
+          "downloaded_at": "2026-04-14T01:47:48+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "spread": "4-8 米"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "造型性强、养护需求低",
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。"
+    },
+    "care": {
+      "pruning": "所需修剪极少；参见修剪第 1 组。仅可在晚秋至仲冬期间修剪。",
+      "cultivation": "宜栽植于保湿性好且排水良好的土壤中，最好为微酸性；选择避风、可防止干燥风侵袭的位置。半阴环境生长最佳，但为使叶色充分表现，仍需一定日照；若土壤能稳定保持湿润，也可耐全日照。春季覆 mulch 以提高土壤保湿性。参见日本枫栽培说明。",
+      "propagation": "可采用压条或嫁接繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "落叶乔木，高可达约 10 米。叶为掌状，深裂成长而渐尖的裂片。春季新叶鲜亮的红紫色，随后转为深紫并带橄榄绿色调，秋季变为深绯红色。具翅果在秋季也带红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "春季至初夏时，大型叶片呈浓郁的深紫红色，叶脉为绿色；随着叶片成熟，逐渐变为深紫色并带绿色调，最终在秋季转为惊艳的鲜亮深红色。叶片深裂，具 7 个狭长的卵状披针形裂片，裂片彼此分离较开，边缘有明显锯齿。该耐寒品种生长势强，形成高大、圆整的灌木或小乔木，枝叶有下垂感，高可达 33 英尺（10 米），冠幅 16 至 20 英尺（5 至 6 米）。其名称意为“雷鸣者”。"
+  },
+  "has_mrmaple": false
+}

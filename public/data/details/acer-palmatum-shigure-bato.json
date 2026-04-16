@@ -1,0 +1,145 @@
+{
+  "id": "acer-palmatum-shigure-bato",
+  "canonical_key": "shigure bato",
+  "canonical_name": "Shigure bato",
+  "display_name": "Shigure bato",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Shigure bato'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The beautiful leaves of this cultivar are seven lobed, with the two basal lobes very small and angled backward to- Corvallis and irregularly double toothed. The lobe shape approaches that of the green dissectum 'Palmatifidum'. Although the leaf is of the Matsumurae Group, it aspires to be a dissectum, but does not quite make it! The leaf has a lovely feathery appearance and is 4-6 cm long and 5-6 cm wide. The slender petioles are 2-4 cm long. The new foliage emerges with a brilliant red tone which lasts into late spring. During the early summer the leaves turn green, but the tips and edges remain tinged red. The green is lighter under shade. Fall colors range from gold to crimson. 'Shigure bato' is not a rapid-growing cultivar. Although it forms an upright bush, it only attains up to 3 m high at maturity, spreading its branches outward so that it may be as wide as tall. It is tender and not easily propagated. The name 'Shigure bato' means \"late fall rain.\""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Shigure bato",
+      "page_range": "210",
+      "group": "matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 104659,
+      "detail_url": "https://www.rhs.org.uk/plants/104659/acer-palmatum-shigure-bato-(m)/details",
+      "botanical_name": "Acer palmatum 'Shigure-bato' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Shigure-bato' (M)",
+    "Japanese maple 'Shigure-bato'",
+    "Shigure bato",
+    "Shigure-bato"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Shigure bato'",
+    "Acer palmatum 'Shigure-bato' (M)",
+    "Japanese maple 'Shigure-bato'",
+    "Shigure bato",
+    "Shigure-bato"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 104659,
+    "rhs_url": "https://www.rhs.org.uk/plants/104659/acer-palmatum-shigure-bato-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Shigure-bato' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Shigure-bato'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Shigure-bato"
+    ],
+    "description": "A deciduous, upright Japanese maple, about 3m tall and wide. Feathery leaves have 7-lobes, each lobe narrowly elongated, tapering to a long tip, and brilliant red in spring, becoming green in summer, with gold to crimson autumn colour",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市或庭院花园、乡村风或自然式花园",
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "落叶、直立型日本枫，高和冠幅约 3 米。叶片羽状细裂，7 裂，各裂片狭长延伸，渐尖成细长叶尖；春季鲜红，夏季转绿，秋色为金黄至绯红。"
+  },
+  "descriptions_zh": {
+    "preferred": "该品种叶片秀美，具七裂，其中两个基部裂片很小并向后反折，叶缘不规则重锯齿。裂片形态接近绿色羽裂型 dissectum 品种 'Palmatifidum'。尽管其叶片归入 Matsumurae Group，但它颇有 dissectum 的风姿，只是还未完全达到那种程度。叶片具有优美的羽毛状观感，长 4 至 6 厘米，宽 5 至 6 厘米。细长叶柄长 2 至 4 厘米。新叶展开时呈艳丽红色，可持续至晚春。初夏时叶片转绿，但叶尖与叶缘仍保留红色晕染。遮阴条件下叶色更浅。秋色从金黄到深红不等。'Shigure bato' 生长速度不快。虽形成直立灌丛，但成熟时通常仅高达 3 米，同时枝条向外伸展，因此株幅可与株高相当。该品种较娇嫩，繁殖也不容易。'Shigure bato' 名称意为“深秋之雨”。"
+  },
+  "has_mrmaple": false
+}

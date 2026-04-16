@@ -1,0 +1,124 @@
+{
+  "id": "acer-ao-shidare",
+  "canonical_key": "ao shidare",
+  "canonical_name": "Ao shidare",
+  "display_name": "Ao shidare",
+  "chinese_name": null,
+  "scientific_name": null,
+  "species": null,
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dissectum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar, whose name means \"green cascading,\" differs slightly in leaf form from many other green dissectums, but is similar to 'Kiri nishiki' and 'Sekimori'. 'Aoba shidare' is a synonym. The color of the leaves is a slight blue green, not the sharp green of 'Viridis'. Fall color is yellow. The seven-lobed leaves are of medium size and doubly dissected as in the typical dissectum. However, the secondary cuts are not as deep nor are the lobes as long as in the better-known forms of green dissectum. The many points of each leaf seem not as sharp, giving the whole leaf a more blunt appearance in outline. The leaves are differs in color."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Ao shidare",
+      "page_range": "111-112",
+      "group": "dissectum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 131414,
+      "detail_url": "https://www.rhs.org.uk/plants/131414/acer-palmatum-ao-shidare-(d)/details",
+      "botanical_name": "Acer palmatum 'Ao-shidare' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Ao-shidare' (D)",
+    "Ao shidare",
+    "Ao-shidare",
+    "Japanese maple 'Ao-shidare'"
+  ],
+  "search_terms": [
+    "Acer palmatum 'Ao-shidare' (D)",
+    "Ao shidare",
+    "Ao-shidare",
+    "Japanese maple 'Ao-shidare'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 131414,
+    "rhs_url": "https://www.rhs.org.uk/plants/131414/acer-palmatum-ao-shidare-(d)/details",
+    "match_method": "cultivar",
+    "botanical_name": "Acer palmatum 'Ao-shidare' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Ao-shidare'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Ao-shidare"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该品种名意为“绿色垂枝”，其叶形与许多其他绿色细裂型品种略有不同，但与 ‘Kiri nishiki’ 和 ‘Sekimori’ 相近。‘Aoba shidare’ 是其异名。叶色为略带蓝调的绿色，不同于 ‘Viridis’ 那种鲜明的绿色。秋色为黄色。叶片通常七裂，中等大小，且如典型 dissectum 类型一样为二回细裂。不过，其二次裂刻不如常见绿色细裂型品种那样深，裂片也没有那么长。每片叶的诸多尖端看起来不那么锐利，因此整体叶缘轮廓显得更为钝圆。叶片在颜色上也有所不同。"
+  },
+  "has_mrmaple": false
+}

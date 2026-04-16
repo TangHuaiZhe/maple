@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-demi-sec",
+  "canonical_key": "demi sec",
+  "canonical_name": "Demi Sec",
+  "display_name": "Demi Sec",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Demi Sec'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dissectum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This slow-growing Dutch cultivar has deeply cut leaves similar to those of 'Green Globe', but with slight orangetinted margins on the bright green leaves. Fall color is yellow to gold. 'Demi Sec' has an upright ball-shaped habit like that of 'Green Globe' rather than mushroom-shaped like that of most dissectums. It eventually forms a medium-sized shrub."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Demi Sec",
+      "page_range": "60",
+      "group": "Dissectum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 196214,
+      "detail_url": "https://www.rhs.org.uk/plants/196214/acer-palmatum-demi-sec-(d)/details",
+      "botanical_name": "Acer palmatum 'Demi-sec' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Demi-sec' (D)",
+    "Demi Sec",
+    "Demi-sec"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Demi Sec'",
+    "Acer palmatum 'Demi-sec' (D)",
+    "Demi Sec",
+    "Demi-sec"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 196214,
+    "rhs_url": "https://www.rhs.org.uk/plants/196214/acer-palmatum-demi-sec-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Demi-sec' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Demi-sec"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这是一个生长缓慢的荷兰品种，叶片深裂，与 'Green Globe' 相似，但鲜绿色叶片边缘略带橙色色调。秋色为黄色至金黄色。'Demi Sec' 与 'Green Globe' 一样呈直立的球形株姿，而不像大多数线裂型品种那样呈蘑菇状。最终可形成中等大小的灌木。"
+  },
+  "has_mrmaple": false
+}

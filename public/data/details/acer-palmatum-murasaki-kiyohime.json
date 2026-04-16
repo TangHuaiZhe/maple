@@ -1,0 +1,186 @@
+{
+  "id": "acer-palmatum-murasaki-kiyohime",
+  "canonical_key": "murasaki kiyohime",
+  "canonical_name": "Murasaki kiyohime",
+  "display_name": "Murasaki kiyohime",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Murasaki kiyohime'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "Another of the dwarf cultivars, this plant is most desirable but not widely known. The leaves are divided into five lobes which radiate openly from the center. The leaf base is almost truncate. Mature leaves measure 3-5 cm long and 4-5 cm wide. The leaves are often smaller than this, especially in container culture. Each lobe is ovatelanceolate, tapering to an elongated, sharp tip. The lobes separate three-quarters of the way to the leaf base. The center lobe is very prominent, especially in the new leaves where it is often dominant. The margins are toothed on the outer half of the length and smooth on the inner half. The new foliage is a very light yellow green but heavily marked around the margins with a broad area of bright purple red. This purple-red coloring is heaviest on the edges, shading gradually into the leaf blade. As the leaves mature, they become a solid green. Often there is a very light speckling of minute white markings Archives, Corvallis to be upright, reaching heights of 1 m as it gets older."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-murasaki-kiyohime/01-PUB0007301_11439.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-murasaki-kiyohime/01-PUB0007301_11439.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-murasaki-kiyohime/01-PUB0007301_11439.jpg"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Murasaki kiyohime",
+      "page_range": "176-177",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 152361,
+      "detail_url": "https://www.rhs.org.uk/plants/152361/acer-palmatum-murasaki-kiyohime-(dw)/details",
+      "botanical_name": "Acer palmatum 'Murasaki-kiyohime' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Murasaki-kiyohime' (Dw)",
+    "Acer palmatum 'Murasaki-kyohim'",
+    "Japanese maple 'Murasaki-kiyohime'",
+    "Murasaki kiyohime",
+    "Murasaki-kiyohime",
+    "Murasaki-kyohim"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Murasaki kiyohime'",
+    "Acer palmatum 'Murasaki-kiyohime' (Dw)",
+    "Acer palmatum 'Murasaki-kyohim'",
+    "Japanese maple 'Murasaki-kiyohime'",
+    "Murasaki kiyohime",
+    "Murasaki-kiyohime",
+    "Murasaki-kyohim"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 152361,
+    "rhs_url": "https://www.rhs.org.uk/plants/152361/acer-palmatum-murasaki-kiyohime-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Murasaki-kiyohime' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Murasaki-kiyohime'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Murasaki-kyohim'"
+    ],
+    "cultivar_names": [
+      "Murasaki-kiyohime",
+      "Murasaki-kyohim"
+    ],
+    "description": "A spreading, dwarf shrub to 1.2m tall and 1.5m wide. Green-yellow leaves emerge in spring, tipped and edged with red, maturing to a glossy, dark green colour again with purple-red margins. Autumn leaf colours include yellow, orange and bronze. Small reddish-purple flowers in spring are followed by red, winged fruits",
+    "dimensions": {
+      "height": "1-1.5 metres",
+      "spread": "1-1.5 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "South-facing, North-facing, West-facing, East-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Coastal, Low Maintenance, Patio/Container Plants, Rock Garden",
+      "hort_group_description": "Acers in this dwarf group are compact and slow-growing, making them ideal for pots and containers"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. Suits container cultivation but attention to watering is needed in dry spells during the growing season. See Japanese maple cultivation",
+      "pruning": "Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "PUB0007301_11439.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-murasaki-kiyohime/01-PUB0007301_11439.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "PUB0007301_11439.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/PUB0007301_11439.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/152361/acer-palmatum-murasaki-kiyohime-(dw)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-murasaki-kiyohime/01-PUB0007301_11439.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 88509,
+          "downloaded_at": "2026-04-14T01:47:51+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "这一矮生类群的 Acer 株形紧凑、生长缓慢，因此非常适合盆栽和容器栽培。",
+      "suggested_uses": "城市/庭院花园、乡村/自然式花园、海滨花园、低维护花园、露台/容器植物、岩石园"
+    },
+    "care": {
+      "pruning": "修剪第 1 组：仅限在晚秋至仲冬期间进行。",
+      "cultivation": "适宜栽植于避风环境中，土壤以保水性好且排水良好者为佳。叶色在半阴条件下表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴晒过度都可能导致叶缘焦枯。也适合容器栽培，但在生长季干旱时需特别注意浇水。可参见日本枫栽培要点。",
+      "propagation": "可于冬末采用嫁接繁殖，或以软枝扦插繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "开展性的矮生灌木，高约 1.2 米，冠幅约 1.5 米。春季新叶黄绿色，叶尖和叶缘带红色，成熟后转为有光泽的深绿色，叶缘仍带紫红色。秋叶颜色包括黄色、橙色和青铜色。春季开小型红紫色花，随后结红色翅果。"
+  },
+  "descriptions_zh": {
+    "preferred": "这也是一个矮生品种，观赏价值很高，但并不广为人知。叶片分为五裂，自中心开张放射。叶基近截形。成熟叶长 3-5 厘米，宽 4-5 厘米；在容器栽培条件下叶片往往更小。每一裂片为卵状披针形，渐尖并延伸成锐尖先端。裂片分离至距叶基约四分之三处。中央裂片非常突出，尤其在新叶上常更为明显。叶缘外半部具齿，内半部平滑。新叶呈非常浅的黄绿色，但叶缘周围重度着生一圈鲜亮的紫红色宽边。这种紫红色在边缘最浓，逐渐向叶片内部过渡。叶片成熟后转为纯绿色。叶面常可见极淡的细小白色斑点。Archives, Corvallis 记载其株型为直立，随株龄增长可达约 1 米高。"
+  },
+  "has_mrmaple": false
+}

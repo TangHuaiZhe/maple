@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-otome-zakura",
+  "canonical_key": "otome zakura",
+  "canonical_name": "Otome zakura",
+  "display_name": "Otome zakura",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Otome zakura'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This semidwarf tree has brilliant spring leaves which are of two kinds, large and small, on the same tree. The large leaves sometimes form on new vigorous shoots and are of the fiveor seven-lobed palmatum shape. The lobes radiate strongly outward and are separated two-thirds of the way to the leaf base. The center lobes are rather large with the side lobes much smaller. Each lobe is generally ovate with an accentuated long, sharp point. The margins are lightly toothed. Leaves on older wood and The color is a striking bright flame to pink flame as the spring leaves emerge. This color holds well for several weeks, then changes into a maroon red. As summer progresses, green tones blend in as an undershading. Fall colors develop some pink tones, blending with the fading colors of summer. This short tree may have very strong, long shoots when young and under high cultural pressure produces mainly palmate-shaped leaves. The more unusual foliage occurs primarily on the older or less vigorous wood. This cultivar is most outstanding and attractive. The name has been misspelled"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Otome zakura",
+      "page_range": "191-192",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 111512,
+      "detail_url": "https://www.rhs.org.uk/plants/111512/acer-palmatum-otome-zakura-(p)/details",
+      "botanical_name": "Acer palmatum 'Otome-zakura' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Otome-zakura' (P)",
+    "Otome zakura",
+    "Otome-zakura"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Otome zakura'",
+    "Acer palmatum 'Otome-zakura' (P)",
+    "Otome zakura",
+    "Otome-zakura"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 111512,
+    "rhs_url": "https://www.rhs.org.uk/plants/111512/acer-palmatum-otome-zakura-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Otome-zakura' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Otome-zakura"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这是一种半矮生小乔木，春季叶色极为鲜艳，同一株上可同时出现大小两类叶片。大叶有时着生于生长旺盛的新梢上，呈 5 裂或 7 裂的典型 palmatum 形态。裂片明显向外放射，分裂深达叶基的约三分之二。中央裂片较大，侧裂片则小得多。每个裂片通常为卵形，先端延长成尖锐长尾；叶缘具浅锯齿。老枝上的叶片则不同。春季新叶展开时，叶色为极醒目的亮火焰红至粉焰色，这种颜色可维持数周，随后转为栗红。随着夏季推进，叶片会混入绿色阴调。秋色中也会出现一些粉色，与夏末渐退的叶色交织。该品种为矮性树种，幼年在强势生长或高强度栽培条件下可抽生很长的强旺枝，并主要形成掌状叶；较为独特的叶形则主要出现在老枝或较弱势枝条上。该品种非常出众且极具观赏性。其名称曾被误拼作"
+  },
+  "has_mrmaple": false
+}

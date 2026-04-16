@@ -1,0 +1,57 @@
+{
+  "id": "acer-sieboldianum-bailey-compact",
+  "canonical_key": "bailey compact",
+  "canonical_name": "Bailey Compact",
+  "display_name": "Bailey Compact",
+  "chinese_name": null,
+  "scientific_name": "Acer sieboldianum 'Bailey Compact'",
+  "species": "Acer sieboldianum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "This dwarf cultivar has a dense compact habit. The leaf shape is typical for Vertrees. Photo the subspecies but slightly smaller. The foliage fall turns a bright shiny red in the fall. 'Bailey Compatio pact' is ideally suited for the small garden or as a container plant. tall"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Bailey Compact",
+      "page_range": "209-210",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Bailey Compact"
+  ],
+  "search_terms": [
+    "Acer sieboldianum",
+    "Acer sieboldianum 'Bailey Compact'",
+    "Bailey Compact"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "该矮生品种株形致密紧凑。叶形是 Vertrees 类型的典型特征，与该亚种相似，但略小。秋季叶色转为鲜亮而有光泽的红色。'Bailey Compact' 非常适合小型庭院或作容器栽培。株高较低。"
+  },
+  "has_mrmaple": false
+}

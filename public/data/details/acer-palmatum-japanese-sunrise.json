@@ -1,0 +1,474 @@
+{
+  "id": "acer-palmatum-japanese-sunrise",
+  "canonical_key": "japanese sunrise",
+  "canonical_name": "Japanese Sunrise",
+  "display_name": "Japanese Sunrise",
+  "chinese_name": "日本日出",
+  "scientific_name": "Acer Palmatum 'Japanese Sunrise'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "观枝",
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar is very similar to 'Sango kaku' and possibly a seedling from it. It is known for its colorful winter shoots which are a lighter red than those of 'Sango kaku' on the upper exposed side and yellow orange on the lower sheltered side. Its leaves are typical of the Palmatum Group and, like those of the probable parent, emerge yellow green, becoming a light fresh green for the summer. The fall colors are said to be even better than those of"
+  },
+  "images": {
+    "count": 13,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/08.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/09.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/10.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/11.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/12.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/观枝/152_日本日出 Acer Palmatum 'Japanese Sunrise'/13.png"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/10.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/11.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/12.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/13.png"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/01-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058694.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/02-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058723.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/03-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058726.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/04-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058697.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/05-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058699.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/06-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058703.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/07-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058706.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/08-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058709.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/09-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058712.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/10-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058716.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/11-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058720.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/10.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/11.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/12.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%A7%82%E6%9E%9D/152_%E6%97%A5%E6%9C%AC%E6%97%A5%E5%87%BA%20Acer%20Palmatum%20'Japanese%20Sunrise'/13.png",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/01-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058694.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/02-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058723.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/03-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058726.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/04-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058697.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/05-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058699.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/06-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058703.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/07-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058706.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/08-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058709.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/09-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058712.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/10-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058716.jpg",
+      "/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/11-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058720.jpg"
+    ],
+    "public_count": 24
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "152",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/152.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=23",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "观枝",
+      "title": "日本日出 Acer Palmatum 'Japanese Sunrise'",
+      "description": "由美国宾夕法尼亚州绿厦苗圃的苗圃主比利 ·施瓦兹(Bill Schwartz)育种并命名推广，与 珊瑚阁相似，可能 从珊瑚阁的种子实生选育而来，同样为观枝品种，枝干色彩更加出色，春天新叶为黄绿色，夏季颜色转深变为深绿色，秋季为亮黄色 到橙色 ，落叶枝干变为黄色 到 橙 红色 ，非常独特，色彩表现由光照程度决定，通常一边表现为黄色到橙色，另外一边为橙色到绯红色，新梢的色彩表现更为突出，生长快速，可全日照，但推荐夏季午后遮阴，成年株可达3.5米左右高度。",
+      "image_count": 13
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Japanese Sunrise",
+      "page_range": "153-154",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 181353,
+      "detail_url": "https://www.rhs.org.uk/plants/181353/acer-palmatum-japanese-sunrise-(p)/details",
+      "botanical_name": "Acer palmatum 'Japanese Sunrise' (P)",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "Acer palmatum 'Japanese Sunrise' Coral bark Winter Interest Japanese Maple",
+      "handle": "buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+      "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 11,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Japanese Sunrise' (P)",
+    "Japanese Sunrise",
+    "Japanese maple 'Japanese Sunrise'",
+    "日本日出",
+    "日本日出 Acer Palmatum 'Japanese Sunrise'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Japanese Sunrise'",
+    "Acer palmatum",
+    "Acer palmatum 'Japanese Sunrise' (P)",
+    "Japanese Sunrise",
+    "Japanese maple 'Japanese Sunrise'",
+    "日本日出",
+    "日本日出 Acer Palmatum 'Japanese Sunrise'",
+    "观枝",
+    "鸡爪槭"
+  ],
+  "source_count": 4,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 181353,
+    "rhs_url": "https://www.rhs.org.uk/plants/181353/acer-palmatum-japanese-sunrise-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Japanese Sunrise' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Japanese Sunrise'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Japanese Sunrise"
+    ],
+    "description": "A broadly upright, deciduous tree about 5m tall, the winter stems a light shade of coral-red on the upper exposed sides, and yellow-orange on the lower sheltered sides. 5-lobed yellow-green leaves, often margined coppery-orange in spring, mature to fresh green in summer then display autumn colours of yellows, gold and reds",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该品种与 'Sango kaku' 非常相似，可能还是其实生苗后代。其最著名之处在于冬季枝条色彩丰富：枝条上部向阳面呈比 'Sango kaku' 更浅的红色，下部背风面则为黄橙色。叶片属于典型的 Palmatum Group 类型，和其推测亲本一样，春季萌发时为黄绿色，夏季转为清新的浅绿色。秋色据称比 'Sango kaku' 更佳，呈现黄色、金色和深红色调。'Japanese Sunrise' 对全日照耐受性很强，成熟后长成直立、开展、树冠较平的树形，高可达 7 米。叶片偏小，长约 3.5-5.5 厘米，宽约 3.5-4.5 厘米。裂片为卵状椭圆形，分裂深度接近叶基的四分之三。叶缘具明显锯齿。叶柄不长，多为 2-3 厘米。幼株生长时，新梢略直立；随着植株老化，细长枝条往往下垂，有时甚至垂拱至地面。此特性使其形成圆头状灌木树形，高约可达 3 米，冠幅至少相当。细长下垂枝上的叶节点间距较大，形成瀑布状生长效果，整体观感极为细致飘逸。与许多深裂叶的垂枝型品种一样，其秋色十分醒目，入秋气温下降时会转为鲜艳的深红色。此枫树很适合作为较大型岩石园中的配置植物。"
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市或庭院花园、乡村风或自然式花园",
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "广直立型落叶乔木，高约 5 米。冬季枝条在上方受光面呈浅珊瑚红色，在下方较受遮蔽的一侧则呈黄橙色。叶片 5 裂，黄绿色，春季常有铜橙色叶缘；夏季转为清新绿色，秋季则呈现黄色、金色和红色。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 1,
+    "local_file_count": 11,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/01-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058694.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/01-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058694.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/02-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058723.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/03-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058726.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/04-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058697.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/05-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058699.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/06-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058703.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/07-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058706.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/08-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058709.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/09-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058712.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/10-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058716.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/11-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058720.jpg"
+    ],
+    "products": [
+      {
+        "title": "Acer palmatum 'Japanese Sunrise' Coral bark Winter Interest Japanese Maple",
+        "handle": "buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+        "product_type": "",
+        "tags": [
+          "10 @ 10 AM",
+          "Cold Hardiness Zone_Zone 6",
+          "Cold Hardiness Zone_Zone 7",
+          "Cold Hardiness Zone_Zone 8",
+          "Cold Hardiness Zone_Zone 9",
+          "Colors_Golden",
+          "Colors_Green",
+          "d2",
+          "DBSALE",
+          "dec14",
+          "Earlybird",
+          "EOY",
+          "FALLCUSTOMER",
+          "FallSale",
+          "FALLSALE25",
+          "Feature_Coral Bark",
+          "Feature_Winter Interest",
+          "Habit_Upright",
+          "Habitat Conditions_Shady Areas",
+          "Habitat Conditions_Sunlit Areas",
+          "NEWYEARS26",
+          "OHDISCOUNT",
+          "Size_Medium",
+          "Species_Acer palmatum",
+          "SPRINGSALE25",
+          "Sun In_Zone 6",
+          "Sun In_Zone 7",
+          "Sun In_Zone 8",
+          "Type_Japanese Maple",
+          "VDAYSALE25",
+          "XLSALE"
+        ],
+        "description_text": "Acer palmatum 'Japanese Sunrise' Rare Multicolor Coral Bark Winter Interest Japanese Maple Zones 6-9 In the spring, ‘Japanese Sunrise’ has small bright green leaves. In the fall, these leaves turn bright yellow. The feature that grabs everyone’s attention on ‘Japanese Sunrise’ is the bark. On one side of the tree, the bark will be yellow to orange, while on the other side the color of the bark will be orange to coral red. Often as you look up a tree, the bark will be brighter on the newest growth. The multitude of color on the bark is difficult to photograph, but dynamic in the landscape and garden. It is said to have same color in the bark as one of the most beautiful sunsets in Japan. ‘Japanese Sunrise’ has a nice upright shape typically reaching 10-12 ft in 10 years.",
+        "published_at": "2026-03-12T10:00:13-04:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer palmatum",
+        "matched_title_cultivar": "Japanese Sunrise",
+        "images": {
+          "count": 11,
+          "downloaded_count": 11,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/01-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058694.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/02-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058723.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/03-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058726.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/04-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058697.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/05-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058699.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/06-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058703.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/07-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058706.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/08-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058709.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/09-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058712.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/10-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058716.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/11-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058720.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058694.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058694.jpg?v=1747703451",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/01-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058694.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 191071,
+              "downloaded_at": "2026-04-14T02:24:04+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058723.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058723.jpg?v=1747703452",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/02-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058723.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 292480,
+              "downloaded_at": "2026-04-14T02:24:05+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058726.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058726.jpg?v=1747703452",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/03-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058726.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 249492,
+              "downloaded_at": "2026-04-14T02:24:06+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 4,
+              "filename": "Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058697.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058697.jpg?v=1747703451",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/04-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058697.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 169414,
+              "downloaded_at": "2026-04-14T02:24:06+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 5,
+              "filename": "Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058699.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058699.jpg?v=1747703451",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/05-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058699.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 203548,
+              "downloaded_at": "2026-04-14T02:24:06+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 6,
+              "filename": "Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058703.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058703.jpg?v=1747703451",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/06-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058703.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 254330,
+              "downloaded_at": "2026-04-14T02:24:06+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 7,
+              "filename": "Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058706.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058706.jpg?v=1747703451",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/07-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058706.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 248250,
+              "downloaded_at": "2026-04-14T02:24:05+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 8,
+              "filename": "Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058709.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058709.jpg?v=1747703452",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/08-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058709.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 185952,
+              "downloaded_at": "2026-04-14T02:24:06+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 9,
+              "filename": "Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058712.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058712.jpg?v=1747703452",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/09-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058712.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 327821,
+              "downloaded_at": "2026-04-14T02:24:07+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 10,
+              "filename": "Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058716.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058716.jpg?v=1747703452",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/10-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058716.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 281845,
+              "downloaded_at": "2026-04-14T02:24:06+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 11,
+              "filename": "Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058720.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058720.jpg?v=1747703452",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-japanese-sunrise-coral-bark-winter-interest-japanese-maple/11-Acer_palmatum_Japanese_Sunrise_Coral_bark_Winter_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058720.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 289198,
+              "downloaded_at": "2026-04-14T02:24:07+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

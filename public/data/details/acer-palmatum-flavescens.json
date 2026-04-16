@@ -1,0 +1,173 @@
+{
+  "id": "acer-palmatum-flavescens",
+  "canonical_key": "flavescens",
+  "canonical_name": "Flavescens",
+  "display_name": "Flavescens",
+  "chinese_name": "柠檬色羽毛",
+  "scientific_name": "Acer Palmatum 'Flavescens'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "羽毛枫",
+  "book_groups": [
+    "Dissectum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The distinct yellowgreen foliage makes this cultivar worthwhile. The green tones of the large leaves darken as summer progresses. Fall color is yellow, occasionally tinged orange. The five to seven deeply separated lobes are incised and toothed along the margins but not as deeply cut to the midrib as in most dissectums. This plant is very vigorous and matures at 8 ft. (2.5 m) high and 10 ft. (3 m) wide. The name means \"yellowish.\""
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "83",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/83.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=17",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "羽毛枫",
+      "title": "柠檬色羽毛 Acer Palmatum 'Flavescens'",
+      "description": "",
+      "image_count": 0
+    },
+    {
+      "source": "timber_press",
+      "name": "Flavescens",
+      "page_range": "69",
+      "group": "Dissectum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 60359,
+      "detail_url": "https://www.rhs.org.uk/plants/60359/acer-palmatum-dissectum-flavescens-(d)/details",
+      "botanical_name": "Acer palmatum 'Dissectum Flavescens' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Dissectum Flavescens'",
+    "Acer palmatum 'Dissectum Flavescens' (D)",
+    "Acer palmatum 'Flavescens'",
+    "Dissectum Flavescens",
+    "Flavescens",
+    "Japanese maple 'Dissectum Flavescens'",
+    "柠檬色羽毛",
+    "柠檬色羽毛 Acer Palmatum 'Flavescens'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Flavescens'",
+    "Acer palmatum",
+    "Acer palmatum 'Dissectum Flavescens'",
+    "Acer palmatum 'Dissectum Flavescens' (D)",
+    "Acer palmatum 'Flavescens'",
+    "Dissectum Flavescens",
+    "Flavescens",
+    "Japanese maple 'Dissectum Flavescens'",
+    "柠檬色羽毛",
+    "柠檬色羽毛 Acer Palmatum 'Flavescens'",
+    "羽毛枫",
+    "鸡爪槭"
+  ],
+  "source_count": 3,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 60359,
+    "rhs_url": "https://www.rhs.org.uk/plants/60359/acer-palmatum-dissectum-flavescens-(d)/details",
+    "match_method": "synonym_full",
+    "botanical_name": "Acer palmatum 'Dissectum Flavescens' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Dissectum Flavescens'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Dissectum Flavescens'",
+      "Acer palmatum 'Flavescens'"
+    ],
+    "cultivar_names": [
+      "Dissectum Flavescens",
+      "Flavescens"
+    ],
+    "description": "Spreading, shrubby tree to about 2m in height and 3m wide, with cascading branches and lacy, 7-lobed leaves deeply separated to the leaf base, the colour soft yellow-green in spring, the green tones becoming darker through summer followed by yellow autumn colour with orange tints",
+    "dimensions": {
+      "height": "1.5-2.5 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree, Shrub",
+      "habit": "Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Patio/Container Plants",
+      "hort_group_description": "Acers in this dissectum group have fine, feathery, deeply divided leaves with finely serrated edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. Suits container cultivation but attention to watering is needed in dry spells during the growing season. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市庭院花园、乡村风或自然式花园、花境与花坛、庭院容器栽培",
+      "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
+    },
+    "care": {
+      "pruning": "修剪第 1 组：仅限在晚秋至仲冬期间进行。",
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。",
+      "cultivation": "宜栽培于保水性好且排水良好的土壤中，选择避风庇护的位置。叶色在半阴环境下表现最佳；若土壤湿度稳定充足，也可耐全日照。土壤缺水或暴露过度易导致叶缘焦枯。适合容器栽培，但生长季遇干旱天气时需特别注意浇水。另见 Japanese maples cultivation。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
+    },
+    "description": "开展、灌木状小乔木，高约 2 米、宽约 3 米，枝条下垂呈瀑布状。叶片蕾丝状，7 裂，深裂至叶基，春季为柔和的黄绿色，夏季绿色逐渐加深，秋季转为黄色并带橙色调。"
+  },
+  "descriptions_zh": {
+    "preferred": "这一品种的独特黄绿色叶色使其颇具栽培价值。随着夏季推进，大型叶片中的绿色调会逐渐加深。秋色为黄色，偶尔带橙色晕染。叶具 5 至 7 个深度分离的裂片，边缘具裂刻和锯齿，但不像多数 Dissectum 类型那样深切至中脉。植株生长非常旺盛，成熟时高约 8 英尺（2.5 米），幅约 10 英尺（3 米）。“其名意为‘微黄’。”"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,69 @@
+{
+  "id": "acer-palmatum-garnete-lace",
+  "canonical_key": "garnete lace",
+  "canonical_name": "Garnete Lace",
+  "display_name": "Garnete Lace",
+  "chinese_name": "加内特蕾丝",
+  "scientific_name": "Acer palmatum 'Garnete Lace'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "蕾丝系列",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": ""
+  },
+  "images": {
+    "count": 1,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/197_加内特蕾丝Acer palmatum 'Garnete Lace'/01.jpg",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/197_加内特蕾丝Acer palmatum 'Garnete Lace'/01.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%95%BE%E4%B8%9D%E7%B3%BB%E5%88%97/197_%E5%8A%A0%E5%86%85%E7%89%B9%E8%95%BE%E4%B8%9DAcer%20palmatum%20'Garnete%20Lace'/01.jpg",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%95%BE%E4%B8%9D%E7%B3%BB%E5%88%97/197_%E5%8A%A0%E5%86%85%E7%89%B9%E8%95%BE%E4%B8%9DAcer%20palmatum%20'Garnete%20Lace'/01.jpg"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%95%BE%E4%B8%9D%E7%B3%BB%E5%88%97/197_%E5%8A%A0%E5%86%85%E7%89%B9%E8%95%BE%E4%B8%9DAcer%20palmatum%20'Garnete%20Lace'/01.jpg",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%95%BE%E4%B8%9D%E7%B3%BB%E5%88%97/197_%E5%8A%A0%E5%86%85%E7%89%B9%E8%95%BE%E4%B8%9DAcer%20palmatum%20'Garnete%20Lace'/01.jpg"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "197",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/197.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=61",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "蕾丝系列",
+      "title": "加内特蕾丝Acer palmatum 'Garnete Lace'",
+      "description": "",
+      "image_count": 1
+    }
+  ],
+  "aliases": [
+    "Garnete Lace",
+    "加内特蕾丝",
+    "加内特蕾丝Acer palmatum 'Garnete Lace'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Garnete Lace'",
+    "Garnete Lace",
+    "加内特蕾丝",
+    "加内特蕾丝Acer palmatum 'Garnete Lace'",
+    "蕾丝系列",
+    "鸡爪槭"
+  ],
+  "source_count": 1,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": false,
+  "rhs": null,
+  "has_mrmaple": false
+}

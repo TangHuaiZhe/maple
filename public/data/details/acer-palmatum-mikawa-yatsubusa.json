@@ -1,0 +1,588 @@
+{
+  "id": "acer-palmatum-mikawa-yatsubusa",
+  "canonical_key": "mikawa yatsubusa",
+  "canonical_name": "Mikawa yatsubusa",
+  "display_name": "Mikawa yatsubusa",
+  "chinese_name": "三河八房",
+  "scientific_name": "Acer Palmatum 'Mikawa Yatsubusa'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "三河系列",
+  "book_groups": [
+    "Dwarf",
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The leaves, which overlap each other like shingles on a roof, are a light yel- YATSUBUSA' low-green in the spring and bunched up at the shoot tips, becoming a medium green in the summer. The outer leaves have very bright red tips on the fine red serrations of the margins. The leaves, slightly longer than those of other dwarf forms, have five to seven moderately deeply divided lobes. Each lobe is oblong-ovate, with a long, tapering pointed tip. The margins are finely toothed. The leaf base is straight or shallowly heart-shaped, with all the lobes pointing forward. The growth is multibranched, resulting in a very dense compact little plant. The name can be translated as \"a small cluster of three rivers.\""
+  },
+  "images": {
+    "count": 10,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/183_三河八房Acer Palmatum 'Mikawa Yatsubusa'/01.jpg",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/183_三河八房Acer Palmatum 'Mikawa Yatsubusa'/01.jpg",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/183_三河八房Acer Palmatum 'Mikawa Yatsubusa'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/183_三河八房Acer Palmatum 'Mikawa Yatsubusa'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/183_三河八房Acer Palmatum 'Mikawa Yatsubusa'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/183_三河八房Acer Palmatum 'Mikawa Yatsubusa'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/183_三河八房Acer Palmatum 'Mikawa Yatsubusa'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/183_三河八房Acer Palmatum 'Mikawa Yatsubusa'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/183_三河八房Acer Palmatum 'Mikawa Yatsubusa'/08.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/183_三河八房Acer Palmatum 'Mikawa Yatsubusa'/09.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/183_三河八房Acer Palmatum 'Mikawa Yatsubusa'/10.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/01.jpg",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/01.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/10.jpg"
+    ],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-mikawa-yatsubusa/01-elbo52145.jpg",
+      "/rhs-images/acer-palmatum-mikawa-yatsubusa/02-hemo00956.jpg"
+    ],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/01-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064137.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/02-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064165.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/03-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064140.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/04-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064143.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/05-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064145.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/06-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064147.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/07-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064149.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/08-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064156.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/09-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064159.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/10-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064162.jpg"
+    ],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-mikawa-yatsubusa/01-hnmikawayatsubusa-1.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/01.jpg",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/01.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/09.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/183_%E4%B8%89%E6%B2%B3%E5%85%AB%E6%88%BFAcer%20Palmatum%20'Mikawa%20Yatsubusa'/10.jpg",
+      "/rhs-images/acer-palmatum-mikawa-yatsubusa/01-elbo52145.jpg",
+      "/rhs-images/acer-palmatum-mikawa-yatsubusa/02-hemo00956.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/01-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064137.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/02-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064165.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/03-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064140.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/04-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064143.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/05-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064145.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/06-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064147.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/07-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064149.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/08-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064156.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/09-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064159.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/10-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064162.jpg",
+      "/herter-images/acer-palmatum-mikawa-yatsubusa/01-hnmikawayatsubusa-1.jpg"
+    ],
+    "public_count": 23
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "183",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/183.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=60",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "三河系列",
+      "title": "三河八房Acer Palmatum 'Mikawa Yatsubusa'",
+      "description": "日系品种，源于位于太平洋沿岸日本本州岛的中部 位置的爱知县，最早始于 1972 年的 Sakata Shubyo 目 录中开始有记载。三河八房是非常经典的矮生品种， 枝叶繁密，树形奇特。是矢野非常推荐的经典盆栽 品种，在欧美几乎每家苗圃都有种植，春天为茶绿色， 夏季转为深绿色，秋季为橙红或者橙黄色。生长速 度较慢，可全日照耐热，夏季午后适当遮阴为佳， 成年树可达 3 米左右高度。",
+      "image_count": 10
+    },
+    {
+      "source": "timber_press",
+      "name": "Mikawa yatsubusa",
+      "page_range": "107",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Mikawa yatsubusa",
+      "page_range": "172-173",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 114941,
+      "detail_url": "https://www.rhs.org.uk/plants/114941/acer-palmatum-mikawa-yatsubusa-(dw)/details",
+      "botanical_name": "Acer palmatum 'Mikawa-yatsubusa' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "Acer palmatum 'Mikawa yatsubusa' Lollipop Dwarf Japanese Maple",
+      "handle": "buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+      "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 10,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Mikawa Yatsubusa Dwarf Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/mikawa-yatsubusa-dwarf-japanese-maple/",
+      "description": "“Mikawa Yatsubusa” has a basic leaf color of bright green. The leaves on this little dwarf overlay each other like shingles on a roof. The outer leaves have very bright red tips. A very unusual and rare japanese maple, great for bonsai or containers.",
+      "group": "All Japanese Maples / Dwarf Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Mikawa-yatsubusa' (Dw)",
+    "Japanese maple 'Mikawa-yatsubusa'",
+    "Mikawa Yatsubusa",
+    "Mikawa yatsubusa",
+    "Mikawa-yatsubusa",
+    "三河八房",
+    "三河八房Acer Palmatum 'Mikawa Yatsubusa'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Mikawa Yatsubusa'",
+    "Acer palmatum",
+    "Acer palmatum 'Mikawa-yatsubusa' (Dw)",
+    "Japanese maple 'Mikawa-yatsubusa'",
+    "Mikawa Yatsubusa",
+    "Mikawa yatsubusa",
+    "Mikawa-yatsubusa",
+    "三河八房",
+    "三河八房Acer Palmatum 'Mikawa Yatsubusa'",
+    "三河系列",
+    "鸡爪槭"
+  ],
+  "source_count": 6,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 114941,
+    "rhs_url": "https://www.rhs.org.uk/plants/114941/acer-palmatum-mikawa-yatsubusa-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Mikawa-yatsubusa' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Mikawa-yatsubusa'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Mikawa-yatsubusa"
+    ],
+    "description": "Compact, multi-branched, small tree, growing slowly to about 1-1.2m tall. Dense, tightly overlapping 5 or 7 lobed leaves give a bunched, layered effect. Leaves open pale yellow-green in spring, maturing to bright green, then turning orange, gold and red in autumn. Inconspicuous hanging clusters of small, green flowers are followed by red-flushed, winged seeds. Green bark adds winter colour",
+    "dimensions": {
+      "height": "1-1.5 metres",
+      "spread": "1-1.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H5 (hardy - cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Patio/Container Plants",
+      "hort_group_description": "Acers in this dwarf group are compact and slow-growing, making them ideal for pots and containers"
+    },
+    "care": {
+      "cultivation": "Grow in moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Acer leaf scorch can be caused by lack of soil moisture or excessive exposure. Suits container cultivation but attention to watering is needed in dry spells during the growing season. Good for bonsai cultivation . See Japanese maple cultivation",
+      "pruning": "Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "elbo52145.jpg",
+        "hemo00956.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-mikawa-yatsubusa/01-elbo52145.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-mikawa-yatsubusa/02-hemo00956.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "elbo52145.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/elbo52145.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/114941/acer-palmatum-mikawa-yatsubusa-(dw)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-mikawa-yatsubusa/01-elbo52145.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 195678,
+          "downloaded_at": "2026-04-14T01:47:50+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "hemo00956.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/hemo00956.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/114941/acer-palmatum-mikawa-yatsubusa-(dw)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-mikawa-yatsubusa/02-hemo00956.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 97667,
+          "downloaded_at": "2026-04-14T01:47:50+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "叶片彼此重叠，如屋顶瓦片一般，春季呈浅黄绿色，并簇生于枝梢顶部；夏季转为中绿色。外围叶片在细密的红色锯齿状叶缘上带有非常鲜亮的红色尖端。叶片较其他矮生型略长，具五至七个中等深裂的裂片。每个裂片呈长圆卵形，先端细长渐尖。叶缘细锯齿。叶基平直或浅心形，所有裂片都向前伸展。植株多分枝，因而形成极为致密紧凑的小型株丛。其名称可译为“三川小丛”。"
+  },
+  "rhs_zh": {
+    "attributes": {
+      "suggested_uses": "城市/庭院花园、乡村/自然式花园、露台/容器栽培",
+      "hort_group_description": "这一矮生类群的 Acer 株形紧凑、生长缓慢，因此非常适合盆栽和容器栽培。"
+    },
+    "care": {
+      "pruning": "修剪第 1 组：仅限在晚秋至仲冬期间进行。",
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。",
+      "cultivation": "宜栽培于保水性好且排水良好的土壤中，并选择避风庇护的位置。叶色在半阴环境下表现最佳；若土壤湿度稳定，也可耐全日照。槭树叶焦常因土壤缺水或暴露过度所致。适合容器栽培，但生长季遇干旱时需特别注意浇水。亦适于制作盆景。另见 Japanese maple cultivation。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "紧凑、多分枝的小乔木，生长缓慢，株高约 1-1.2 米。致密且紧密重叠的五裂或七裂叶营造出簇生、层叠的效果。春季展叶时为淡黄绿色，成熟后转为鲜绿色，秋季再变为橙色、金色和红色。下垂成串的小型绿色花并不显眼，之后结出带红晕的翅果。绿色树皮也为冬季增添观赏性。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 1,
+    "local_file_count": 10,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/01-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064137.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/01-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064137.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/02-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064165.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/03-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064140.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/04-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064143.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/05-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064145.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/06-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064147.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/07-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064149.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/08-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064156.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/09-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064159.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/10-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064162.jpg"
+    ],
+    "products": [
+      {
+        "title": "Acer palmatum 'Mikawa yatsubusa' Lollipop Dwarf Japanese Maple",
+        "handle": "buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+        "product_type": "",
+        "tags": [
+          "10 @ 10 AM",
+          "25th",
+          "4thSale",
+          "bcelebration",
+          "BIGSALE",
+          "BLKFRIDAY",
+          "blkfriday2025",
+          "Cold Hardiness Zone_Zone 5",
+          "Cold Hardiness Zone_Zone 6",
+          "Cold Hardiness Zone_Zone 7",
+          "Cold Hardiness Zone_Zone 8",
+          "Cold Hardiness Zone_Zone 9",
+          "Collection_Award Winners",
+          "Collection_Mikawa Family Collection",
+          "Colors_Green",
+          "Colors_Red",
+          "DBSALE",
+          "Earlybird",
+          "EARLYBIRD26",
+          "EOY",
+          "eoy25",
+          "FALLCUSTOMER",
+          "FallFloweringSale",
+          "FallSale",
+          "FALLSALE25",
+          "Habitat Conditions_Sunlit Areas",
+          "JULYSALE",
+          "julyxmas",
+          "JUNESALE",
+          "n20",
+          "NEWYEARS26",
+          "nov29",
+          "OHDISCOUNT",
+          "Shop The Sale",
+          "Size_Dwarf",
+          "Species_Acer palmatum",
+          "SPRINGSALE25",
+          "staple",
+          "SUMMERSAVINGS",
+          "Sun In_Zone 5",
+          "Sun In_Zone 6",
+          "Sun In_Zone 7",
+          "Sun In_Zone 8",
+          "Type_Japanese Maple",
+          "Use_Bonsai",
+          "Use_Containers",
+          "VDAYSALE25",
+          "VDAYSALE26"
+        ],
+        "description_text": "Acer palmatum 'Mikawa yatsubusa' Lollipop Rare Grafted Dwarf Japanese Maple Tree Zones 5-9 Excellent for Bonsai 2015 Maple of the Year When we go visit nurseries, we often ask the nurserymen and women, \"What is your favorite Japanese maple? 'Mikawa yatsubusa' is definitely the most popular answer. When the North American Branch of the Maple Society started the Maple of the Year Program, 'Mikawa yatsubusa' won the first award. 'Mikawa yatsubusa' is a tightly layering dwarf green Japanese maple. In the spring, the leaves are bright chartreuse green with a red sheath to the petiole. This makes this dwarf with a layering shingle-like habit extremely beautiful. 'Mikawa yatsubusa' is extremely slow growing and difficult to propagate. Fall color on 'Mikawa yatsubusa' is a bright fiery red in the fall color. 'Mikawa yatsubusa' may reach 4-5 ft in 15 years. 'Mikawa yatsubusa' is extremely heat tolerant and overall a very hardy tree. 'Mikawa yatsubusa' is great for container plants, small places in the garden, fairy gardens, and conifer troughs. We have an extremely old 'Mikawa yatsubusa' at my uncle's home at Hill Stone Arboretum which serves as one of our display gardens. It is one of the largest 'Mikawa yatsubusa' that I know of. 1 gallon high grafted ‘Mikawa yatsubusa’ create a lollipop effect , with a straight stalk and the same grafted dwarf starting at a higher point. Most of these lollipop style ‘Mikawa yatsubusa’ are grafted around 12 inches creating a unique way to have ‘Mikawa yatsubusa’ in your garden. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent. The photos on this page without a MrMaple logo were taken by Talon Buchholz and cannot be used without expressed written consent from the owner.",
+        "published_at": "2025-11-29T09:00:15-05:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer palmatum",
+        "matched_title_cultivar": "Mikawa yatsubusa",
+        "images": {
+          "count": 10,
+          "downloaded_count": 10,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/01-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064137.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/02-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064165.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/03-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064140.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/04-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064143.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/05-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064145.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/06-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064147.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/07-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064149.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/08-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064156.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/09-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064159.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/10-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064162.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064137.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064137.jpg?v=1756343954",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/01-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064137.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 196640,
+              "downloaded_at": "2026-04-14T02:25:26+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064165.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064165.jpg?v=1756343954",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/02-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064165.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 697752,
+              "downloaded_at": "2026-04-14T02:25:29+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064140.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064140.jpg?v=1756343954",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/03-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064140.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 674506,
+              "downloaded_at": "2026-04-14T02:25:29+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 4,
+              "filename": "Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064143.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064143.jpg?v=1756343954",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/04-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064143.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 174059,
+              "downloaded_at": "2026-04-14T02:25:28+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 5,
+              "filename": "Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064145.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064145.jpg?v=1756343954",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/05-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064145.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 179626,
+              "downloaded_at": "2026-04-14T02:25:29+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 6,
+              "filename": "Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064147.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064147.jpg?v=1756343954",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/06-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064147.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 338423,
+              "downloaded_at": "2026-04-14T02:25:30+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 7,
+              "filename": "Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064149.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064149.jpg?v=1756343954",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/07-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064149.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 571605,
+              "downloaded_at": "2026-04-14T02:25:30+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 8,
+              "filename": "Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064156.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064156.jpg?v=1756343954",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/08-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064156.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 286648,
+              "downloaded_at": "2026-04-14T02:25:30+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 9,
+              "filename": "Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064159.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064159.jpg?v=1756343954",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/09-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064159.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 307729,
+              "downloaded_at": "2026-04-14T02:25:30+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 10,
+              "filename": "Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064162.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064162.jpg?v=1756343954",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-yatsubusa-high-graft-dwarf-japanese-maple/10-Acer_palmatum_Mikawa_yatsubusa_Lollipop_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064162.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 250600,
+              "downloaded_at": "2026-04-14T02:25:30+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-mikawa-yatsubusa/01-hnmikawayatsubusa-1.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-mikawa-yatsubusa/01-hnmikawayatsubusa-1.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1445,
+        "name": "Mikawa Yatsubusa Dwarf Japanese Maple",
+        "slug": "mikawa-yatsubusa-dwarf-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/mikawa-yatsubusa-dwarf-japanese-maple/",
+        "description_text": "“Mikawa Yatsubusa” has a basic leaf color of bright green. The leaves on this little dwarf overlay each other like shingles on a roof. The outer leaves have very bright red tips. A very unusual and rare japanese maple, great for bonsai or containers.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Dwarf Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 125
+        },
+        "review_count": 801,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "mikawa yatsubusa"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/hnmikawayatsubusa-1.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-mikawa-yatsubusa/01-hnmikawayatsubusa-1.jpg",
+          "bytes": 30355,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:49:56.874Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-mikawa-yatsubusa/01-hnmikawayatsubusa-1.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

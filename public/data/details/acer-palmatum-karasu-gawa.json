@@ -1,0 +1,145 @@
+{
+  "id": "acer-palmatum-karasu-gawa",
+  "canonical_key": "karasu gawa",
+  "canonical_name": "Karasu gawa",
+  "display_name": "Karasu gawa",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Karasu gawa'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "The most outstanding feature of this cultivar is its new growth which is mostly a bright, light pink. Some leaves are entirely white with pink shading, while others are almost completely pink, but with tiny flecks of bright green or white, or both. The petioles and shoots are also pink. While the plant compares to such cultivars as"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Karasu gawa",
+      "page_range": "156-157",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 75656,
+      "detail_url": "https://www.rhs.org.uk/plants/75656/acer-palmatum-karasu-gawa-(p-v)/details",
+      "botanical_name": "Acer palmatum 'Karasu-gawa' (P/v)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Karasu-gawa' (P/v)",
+    "Japanese maple 'Karasu-gawa'",
+    "Karasu gawa",
+    "Karasu-gawa"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Karasu gawa'",
+    "Acer palmatum 'Karasu-gawa' (P/v)",
+    "Japanese maple 'Karasu-gawa'",
+    "Karasu gawa",
+    "Karasu-gawa"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 75656,
+    "rhs_url": "https://www.rhs.org.uk/plants/75656/acer-palmatum-karasu-gawa-(p-v)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Karasu-gawa' (P/v)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Karasu-gawa'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Karasu-gawa"
+    ],
+    "description": "A narrow, broadly upright deciduous tree eventually about 4m tall, the 5-lobed leaves with pink petioles, variously almost white or pink with tiny flecks of green or white, mottled pale green, or with inserts of light colour, the new growth bright, light pink, turning bright rose-red in autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Patio/Container Plants, Flower borders and beds",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市/庭院花园，乡村/自然式花园，露台/容器植物，花境及花坛",
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "狭窄而较宽幅直立的落叶小乔木，最终高约 4 米。叶片 5 裂，叶柄带粉色；叶色变化丰富，可近白或粉色，并散布极细小的绿色或白色斑点，也可呈淡绿色斑驳，或带浅色嵌斑。新梢新叶呈明亮浅粉色，秋季转为鲜艳的玫瑰红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "该品种最突出的特征是新梢和新叶大多呈明亮的浅粉色。有些叶片几乎全白，仅带粉色晕染；另一些则几乎完全为粉色，但点缀极细小的亮绿色或白色斑点，或两者兼有。叶柄和新梢也为粉色。虽然该品种可与 'Oridono nishiki' 和 'Asahi zuru' 等品种相比，但其新叶表现更为惊艳。成熟叶片在白色区域中也常带有粉色条纹或斑点。有时斑驳仅表现为深绿色底上的淡绿色区块；另一些叶片则会出现较大、醒目的浅色嵌斑。秋季变色时，白色和浅绿色部分会转为鲜艳的玫瑰色，与深绿色底色形成对比。叶片长宽约 3-7 厘米，但在老枝上很少长得很大。成熟叶通常为 5 裂，裂片细长卵形，先端细长渐尖。不过当某一部分斑锦较深时，该部分往往呈镰刀形，而裂片其余部分仍保持正常形态。叶缘为重锯齿。株型狭窄直立，枝条略细密杂乱，随着年龄增长会逐渐开展。老株通常不超过 4 米高。该枫生长势不强，且稍欠耐性，宜栽植于园中避护位置，并避免强烈日照。 另有一段资料显示：该品种叶色组合在这一类群中极为少见。主色调为砖红色，但在全日照或半阴条件下，以及随叶龄变化，会略有不同。其色调与其他红叶品种明显不同。这种独特的红色在裂片两侧过渡为绿色底调，使两种颜色相互融合。此外，叶脉颜色也与叶面不同：主脉为深红近黑色，侧脉则较浅且清晰可见。随着生长季推进，这种对比会逐渐减弱。叶片通常 7 裂，向外放射展开，最基部两裂片几乎向叶柄合拢。中间 3 枚裂片大于其余 4 枚。各裂片分离较开，几乎裂至叶基，形为细长卵形，具长而渐尖的锐尖，叶缘细密而锐利地锯齿。叶片大小约 6-7 厘米。"
+  },
+  "has_mrmaple": false
+}

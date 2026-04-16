@@ -1,0 +1,148 @@
+{
+  "id": "acer-palmatum-green-mist",
+  "canonical_key": "green mist",
+  "canonical_name": "Green Mist",
+  "display_name": "Green Mist",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Green Mist'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "The fiveto seven-lobed deeply diswith sected leaves have the lobes themselves dissected pendulous almost to the midrib. The margins are edged with arching but narrow, sharply pointed teeth. This forms a compact irregular mound with branches. It was named for the leaf colors. Group—red. This unique semiupright is almost the red counterpart to the evergreen-leaved"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Green Mist",
+      "page_range": "100",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 124213,
+      "detail_url": "https://www.rhs.org.uk/plants/124213/acer-palmatum-green-mist-(d)/details",
+      "botanical_name": "Acer palmatum 'Green Mist' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Green Mist'",
+    "Acer palmatum 'Green Mist' (D)",
+    "Acer palmatum 'Greenmist'",
+    "Green Mist",
+    "Greenmist",
+    "Japanese maple 'Green Mist'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Green Mist'",
+    "Acer palmatum 'Green Mist' (D)",
+    "Acer palmatum 'Greenmist'",
+    "Green Mist",
+    "Greenmist",
+    "Japanese maple 'Green Mist'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 124213,
+    "rhs_url": "https://www.rhs.org.uk/plants/124213/acer-palmatum-green-mist-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Green Mist' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Green Mist'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Green Mist'",
+      "Acer palmatum 'Greenmist'"
+    ],
+    "cultivar_names": [
+      "Green Mist",
+      "Greenmist"
+    ],
+    "description": "A small, deciduous tree about 2-3m in height with a very lax weeping habit, the cascading branches displaying very finely dissected 5 to 7-lobed leaves opening a soft, pale green in spring, then slightly darker green in summer, turning bright yellow-orange in autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Pendulous/Weeping, Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Patio/Container Plants",
+      "hort_group_description": "Acers in this dissectum group have fine, feathery, deeply divided leaves with finely serrated edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市庭院花园、乡村风或自然式花园、花境与花坛、庭院容器栽培",
+      "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "一株小型落叶乔木，高约 2-3 米，枝态极为疏松下垂；层叠枝条上着生极细裂的 5 至 7 裂叶，春季展叶时为柔和的淡绿色，夏季转为稍深的绿色，秋季变为鲜亮的黄橙色。"
+  },
+  "descriptions_zh": {
+    "preferred": "其叶通常 5 至 7 裂，深裂，且各裂片本身又进一步羽状细裂，几乎达到中脉。叶缘具弓形伸展但较狭窄、先端尖锐的锯齿。植株形成紧凑而不规则的团状树形，枝条下垂。其命名与叶色有关。属红叶类。这个独特的半直立型品种，几乎可视为常绿叶品种 'Seiryu¯' 的红叶对应类型。春季叶色与 'Crimson' 类似，整个夏季都能较好保持这种紫红色，随后逐渐带上青铜色与绿色底调，秋季转为深猩红色。大叶深裂至基部，裂片本身也深度缺刻。叶缘具较粗但狭窄、细尖的锯齿。叶柄基部膨大。其深红色树皮十分美观，并覆有密集的纵向粉白色条纹。'Lion...' 为生长势强的小乔木，高可达 11-13 英尺（3.5-4 米）。与"
+  },
+  "has_mrmaple": false
+}

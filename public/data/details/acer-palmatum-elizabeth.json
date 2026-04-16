@@ -1,0 +1,402 @@
+{
+  "id": "acer-palmatum-elizabeth",
+  "canonical_key": "elizabeth",
+  "canonical_name": "Elizabeth",
+  "display_name": "Elizabeth",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Elizabeth'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This dwarf plant is similar to 'Kandy Kitchen' and, like that cultivar, originates from a witches'-broom found and named by Edward Rodd of Raraflora Nursery, Kinterfield, Pennsylvania. The mainly five-lobed small leaves are of the palmatum type, divided up to three-quarter of the way to the leaf base, and are 2.5-3 cm long and wide. The lobes are ovate with tail-like tips, though the center lobe may be truncated in some leaves. The margins are toothed. The young leaves emerge a bright pink red and become purple red. This color holds well all"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/01-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050742.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/02-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050787.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/03-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050791.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/04-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050795.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/05-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050749.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/06-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050753.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/07-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050759.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/08-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050765.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/09-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050769.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/10-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050776.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/11-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050780.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/12-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050784.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/01-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050742.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/01-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050742.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/02-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050787.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/03-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050791.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/04-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050795.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/05-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050749.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/06-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050753.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/07-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050759.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/08-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050765.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/09-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050769.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/10-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050776.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/11-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050780.jpg",
+      "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/12-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050784.jpg"
+    ],
+    "public_count": 12
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Elizabeth",
+      "page_range": "136",
+      "group": "dwarf",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 194960,
+      "detail_url": "https://www.rhs.org.uk/plants/194960/acer-palmatum-elizabeth-(dw)/details",
+      "botanical_name": "Acer palmatum 'Elizabeth' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "Acer palmatum 'Elizabeth' Dwarf Red Japanese Maple Tree",
+      "handle": "buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+      "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 12,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Elizabeth' (Dw)",
+    "Elizabeth"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Elizabeth'",
+    "Acer palmatum 'Elizabeth' (Dw)",
+    "Elizabeth"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 194960,
+    "rhs_url": "https://www.rhs.org.uk/plants/194960/acer-palmatum-elizabeth-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Elizabeth' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Elizabeth"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一矮生品种与 ‘Kandy Kitchen’ 相似，并且与该品种一样，源自宾夕法尼亚州 Kinterfield 的 Raraflora Nursery 苗圃主人 Edward Rodd 发现并命名的一株丛枝突变（witches'-broom）。其小型叶片多为 5 裂，属 palmatum 型，裂至接近叶基的四分之三处，长宽约 2.5-3 厘米。裂片卵形，先端呈尾状渐尖，但部分叶片的中央裂片可能为截形。叶缘具锯齿。嫩叶初展时为鲜亮的粉红红色，随后转为紫红色。这种颜色全年都能保持较好。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 1,
+    "local_file_count": 12,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/01-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050742.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/01-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050742.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/02-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050787.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/03-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050791.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/04-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050795.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/05-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050749.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/06-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050753.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/07-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050759.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/08-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050765.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/09-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050769.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/10-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050776.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/11-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050780.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/12-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050784.jpg"
+    ],
+    "products": [
+      {
+        "title": "Acer palmatum 'Elizabeth' Dwarf Red Japanese Maple Tree",
+        "handle": "buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+        "product_type": "",
+        "tags": [
+          "10 @ 10 AM",
+          "Cold Hardiness Zone_Zone 5",
+          "Cold Hardiness Zone_Zone 6",
+          "Cold Hardiness Zone_Zone 7",
+          "Cold Hardiness Zone_Zone 8",
+          "Cold Hardiness Zone_Zone 9",
+          "Colors_Red",
+          "dec25",
+          "EARLYBIRD26",
+          "FALLCUSTOMER",
+          "FALLSALE25",
+          "Habitat Conditions_Shady Areas",
+          "Habitat Conditions_Sunlit Areas",
+          "Mature Size - Miniature",
+          "NEWYEARS26",
+          "OHDISCOUNT",
+          "Size_Dwarf",
+          "Species_Acer palmatum",
+          "Sun In_Zone 5",
+          "Sun In_Zone 6",
+          "Sun In_Zone 7",
+          "Sun In_Zone 8",
+          "Type_Japanese Maple",
+          "Use_Containers",
+          "Use_Fairy Gardens",
+          "VDAYSALE26"
+        ],
+        "description_text": "Acer palmatum 'Elizabeth' Dwarf Red Japanese Maple Zones 5-9 ‘Elizabeth’ is a dwarf compact red Japanese maple that was found as a chance mutation, called a witches' broom, by Skeeter Rod and named after his wife, Elizabeth. ‘Elizabeth’ leafs out in the spring with bright red new growth. By late spring, lime green begins to come in the leaf, creating great contrast with the red. During the summer, the foliage may turn greener, but new growth is a bright red. Fall color on ‘Elizabeth’ is a bright scarlet red. ‘Elizabeth’ is tight dense dwarf reaching 3-4 ft in height and within 10 years. ‘Elizabeth’ is great for conifer gardens, small spaces, and container plantings.",
+        "published_at": "2025-12-25T10:00:18-05:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer palmatum",
+        "matched_title_cultivar": "Elizabeth",
+        "images": {
+          "count": 12,
+          "downloaded_count": 12,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/01-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050742.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/02-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050787.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/03-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050791.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/04-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050795.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/05-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050749.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/06-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050753.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/07-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050759.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/08-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050765.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/09-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050769.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/10-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050776.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/11-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050780.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/12-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050784.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050742.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050742.jpg?v=1722557468",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/01-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050742.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 305430,
+              "downloaded_at": "2026-04-14T02:20:08+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050787.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050787.jpg?v=1722557527",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/02-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050787.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 212995,
+              "downloaded_at": "2026-04-14T02:20:06+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050791.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050791.jpg?v=1722557532",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/03-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050791.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 133056,
+              "downloaded_at": "2026-04-14T02:20:07+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 4,
+              "filename": "Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050795.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050795.jpg?v=1722557537",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/04-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050795.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 245532,
+              "downloaded_at": "2026-04-14T02:20:08+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 5,
+              "filename": "Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050749.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050749.jpg?v=1722557475",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/05-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050749.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 297578,
+              "downloaded_at": "2026-04-14T02:20:09+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 6,
+              "filename": "Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050753.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050753.jpg?v=1722557482",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/06-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050753.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 547422,
+              "downloaded_at": "2026-04-14T02:20:09+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 7,
+              "filename": "Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050759.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050759.jpg?v=1722557490",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/07-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050759.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 437514,
+              "downloaded_at": "2026-04-14T02:20:09+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 8,
+              "filename": "Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050765.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050765.jpg?v=1722557497",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/08-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050765.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 412054,
+              "downloaded_at": "2026-04-14T02:20:10+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 9,
+              "filename": "Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050769.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050769.jpg?v=1722557504",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/09-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050769.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 327593,
+              "downloaded_at": "2026-04-14T02:20:10+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 10,
+              "filename": "Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050776.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050776.jpg?v=1722557512",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/10-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050776.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 508889,
+              "downloaded_at": "2026-04-14T02:20:10+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 11,
+              "filename": "Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050780.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050780.jpg?v=1722557517",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/11-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050780.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 291267,
+              "downloaded_at": "2026-04-14T02:20:10+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 12,
+              "filename": "Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050784.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050784.jpg?v=1722557522",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/12-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050784.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 292989,
+              "downloaded_at": "2026-04-14T02:20:10+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

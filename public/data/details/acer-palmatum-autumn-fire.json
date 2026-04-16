@@ -1,0 +1,95 @@
+{
+  "id": "acer-palmatum-autumn-fire",
+  "canonical_key": "autumn fire",
+  "canonical_name": "Autumn Fire",
+  "display_name": "Autumn Fire",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Autumn Fire'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dissectum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This green dissectum originated as a chance seedling in 1979, was propagated and introduced by Del's Japanese Maple Nursery, Eugene, Oregon, and registered in 1996. It differs from most green dissectums in being semi-erect, not the usual dome shape. The outstanding feature of this cultivar, as the name suggests, is that the medium green leaves turn a brilliant red in the fall. New growth is a light yellow green with pink edging, and makes an attractive contrast with the darker green older foliage. The large, very coarse, sevenor nine-lobed deeply divided leaves are 10-11 cm long and 11-13 cm wide. The lobes themselves are not as deeply divided as most laceabout 2 m high in 10 years, but spreads even wider."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Autumn Fire",
+      "page_range": "41",
+      "group": "Dissectum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 204379,
+      "detail_url": "https://www.rhs.org.uk/plants/204379/acer-palmatum-autumn-fire-(d)/details",
+      "botanical_name": "Acer palmatum 'Autumn Fire' (D)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Autumn Fire",
+      "page_range": "117",
+      "group": "dissectum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Autumn Fire' (D)",
+    "Autumn Fire"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Autumn Fire'",
+    "Acer palmatum 'Autumn Fire' (D)",
+    "Autumn Fire"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 204379,
+    "rhs_url": "https://www.rhs.org.uk/plants/204379/acer-palmatum-autumn-fire-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Autumn Fire' (D)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Autumn Fire"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这一绿色 dissectum 类型起源于 1979 年的一株偶发实生苗，由美国俄勒冈州尤金的 Del's Japanese Maple Nursery 繁殖并推广，于 1996 年完成登记。它与多数绿色 dissectum 品种不同之处在于株形为半直立，而非通常的圆拱形。正如其名称所示，该品种最突出的特点是中绿色叶片在秋季会转为鲜艳亮红色。新梢叶为浅黄绿色，边缘带粉色，与较深绿色的老叶形成悦目的对比。叶片较大、分裂很深，通常具 7 或 9 裂，质感较粗，长 10 至 11 厘米、宽 11 至 13 厘米。其裂片本身不像多数 laceleaf 类型那样分裂得极细。10 年后株高约 2 米，但冠幅扩展更宽。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

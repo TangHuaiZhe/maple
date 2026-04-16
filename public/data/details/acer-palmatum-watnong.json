@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-watnong",
+  "canonical_key": "watnong",
+  "canonical_name": "Watnong",
+  "display_name": "Watnong",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Watnong'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dissectum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The medium-sized leaves of this attractive New Jersey laceleaf have the coloring of the better-known red 'Baldsmith' and the finely cut lacy texture of the green 'Chantilly Lace'. New leaves are bright red, becoming salmon-pink before changing to pink-red over green for the summer. Fall colors are brilliant orange to scarlet. New red leaves are produced all summer and make an attractive contrast to the pink-green background of older leaves. The changing colors Acer are more striking in full sun. 'Watnong' forms a Gelderen. Acer palmatum"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Watnong",
+      "page_range": "182-183",
+      "group": "Dissectum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 178918,
+      "detail_url": "https://www.rhs.org.uk/plants/178918/acer-palmatum-watnong-(d)/details",
+      "botanical_name": "Acer palmatum 'Watnong' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Watnong' (D)",
+    "Watnong"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Watnong'",
+    "Acer palmatum 'Watnong' (D)",
+    "Watnong"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 178918,
+    "rhs_url": "https://www.rhs.org.uk/plants/178918/acer-palmatum-watnong-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Watnong' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Watnong"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这株来自新泽西、颇具观赏性的 laceleaf 品种，叶片中等大小，兼具较知名红叶品种 'Baldsmith' 的色彩表现，以及绿叶品种 'Chantilly Lace' 那种细致深裂的蕾丝状质感。新叶鲜红，随后转为鲑粉色，入夏后变为覆有绿色底色的粉红至红色。秋色为亮橙色至猩红色。整个夏季都会持续抽生红色新叶，与老叶的粉绿底色形成迷人对比。在全日照条件下，这些变化中的色彩更为醒目。'Watnong' 形成一株姿态优美的植株。"
+  },
+  "has_mrmaple": false
+}

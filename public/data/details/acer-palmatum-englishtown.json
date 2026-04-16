@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-englishtown",
+  "canonical_key": "englishtown",
+  "canonical_name": "Englishtown",
+  "display_name": "Englishtown",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Englishtown'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This unusual small-leaved purple-red dwarf from New Jersey arose from a witches' broom and looks somewhat like 'Shaina', but differs in its very slow, narrowly upright growth. Under normal garden conditions, it takes approximately 10 years to reach 2 ft. (60 cm) tall. The name honors the city where it was selected."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Englishtown",
+      "page_range": "64",
+      "group": "Dwarf",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 196216,
+      "detail_url": "https://www.rhs.org.uk/plants/196216/acer-palmatum-englishtown-(dw)/details",
+      "botanical_name": "Acer palmatum 'Englishtown' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Englishtown' (Dw)",
+    "Englishtown"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Englishtown'",
+    "Acer palmatum 'Englishtown' (Dw)",
+    "Englishtown"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 196216,
+    "rhs_url": "https://www.rhs.org.uk/plants/196216/acer-palmatum-englishtown-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Englishtown' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Englishtown"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一来自新泽西的罕见小叶紫红色矮生品种，源于扫帚芽变，外观与 'Shaina' 略为相似，但其生长极为缓慢、株形狭窄直立，是主要区别。在正常庭园条件下，约需 10 年才能长到 2 英尺（60 厘米）高。其名称是为纪念最初选育出该品种的城市。"
+  },
+  "has_mrmaple": false
+}

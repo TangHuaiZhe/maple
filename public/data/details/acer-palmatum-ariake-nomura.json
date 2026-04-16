@@ -1,0 +1,237 @@
+{
+  "id": "acer-palmatum-ariake-nomura",
+  "canonical_key": "ariake nomura",
+  "canonical_name": "Ariake nomura",
+  "display_name": "Ariake nomura",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Ariake nomura'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum",
+    "Amoenum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This upright form has is reported to be a seedling from the well-known 'Nomura'. Its leaf shape is more or less identical, which makes it very difficult to distinguish from 'Nomura'. The distinguishing feature is a slightly different tone of red. 'Ariake nomura' is a little more brown red in its spring color, a lighter purplish redbronze in late summer, and a bright crimson when the fall colors appear. It is not widely found in collections or nurseries."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/01-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043125.jpg",
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/02-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043131.jpg",
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/03-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043135.jpg",
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/04-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043140.jpg",
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/05-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043145.jpg",
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/06-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043149.jpg",
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/07-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043154.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/01-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043125.jpg",
+    "public_paths": [
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/01-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043125.jpg",
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/02-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043131.jpg",
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/03-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043135.jpg",
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/04-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043140.jpg",
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/05-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043145.jpg",
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/06-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043149.jpg",
+      "/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/07-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043154.jpg"
+    ],
+    "public_count": 7
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Ariake nomura",
+      "page_range": "114",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 181342,
+      "detail_url": "https://www.rhs.org.uk/plants/181342/acer-palmatum-ariake-nomura-(a)/details",
+      "botanical_name": "Acer palmatum 'Ariake-nomura' (A)",
+      "description": ""
+    },
+    {
+      "source": "timber_press",
+      "name": "Ariake nomura",
+      "page_range": "38-39",
+      "group": "Amoenum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Ariake-nomura' (A)",
+    "Ariake nomura",
+    "Ariake-nomura"
+  ],
+  "search_terms": [
+    "Acer palmatum 'Ariake-nomura' (A)",
+    "Ariake nomura",
+    "Ariake-nomura",
+    "Acer palmatum",
+    "Acer palmatum 'Ariake nomura'"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 181342,
+    "rhs_url": "https://www.rhs.org.uk/plants/181342/acer-palmatum-ariake-nomura-(a)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Ariake-nomura' (A)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Ariake-nomura"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "该直立型品种据称是著名品种 'Nomura' 的实生后代。其叶形与 'Nomura' 大体相同，因此极难区分。主要区别在于红色调略有不同。'Ariake nomura' 春季叶色略偏棕红，夏末转为较浅的紫红铜色，秋色出现时则为鲜亮的深绯红色。该品种在收藏和苗圃中并不常见。"
+  },
+  "has_mrmaple": true,
+  "rhs_zh": null,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 6,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/01-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043125.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/02-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043131.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/03-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043135.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/04-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043140.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/05-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043145.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/06-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043149.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/07-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043154.jpg"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/01-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043125.jpg",
+    "products": [
+      {
+        "title": "Acer palmatum 'Ariake nomura' Japanese Maple",
+        "handle": "acer-palmatum-ariake-nomura-japanese-maple",
+        "product_url": "https://mrmaple.com/products/acer-palmatum-ariake-nomura-japanese-maple",
+        "description_text": "Acer palmatum 'Ariake nomura' Red 'Ariake nomura' Japanese Maple Zones 5-9 'Ariake nomura' is a Japanese maple that is bright red in the spring, maturing to a dark maroon red. 'Ariake nomura' stands out from other red upright Japanese maples as it holds its color well in the shade. 'Ariake nomura' is listed in Japan as early as 1968. Fall color is a much brighter red to deep maroon. 'Ariake nomura' may reach 12-14 ft in height in 15 years.",
+        "image_count": 7,
+        "match_method": "search_html",
+        "match_score": 152,
+        "images": {
+          "downloaded_count": 7,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/01-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043125.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/02-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043131.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/03-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043135.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/04-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043140.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/05-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043145.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/06-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043149.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/07-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043154.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043125.jpg?v=1722546724",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-ariake-nomura-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/01-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043125.jpg",
+              "content_type": "image/webp",
+              "bytes": 117396,
+              "downloaded_at": "2026-04-16T07:10:44.196Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043131.jpg?v=1722546730",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-ariake-nomura-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/02-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043131.jpg",
+              "content_type": "image/webp",
+              "bytes": 107944,
+              "downloaded_at": "2026-04-16T07:10:45.389Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043135.jpg?v=1722546734",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-ariake-nomura-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/03-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043135.jpg",
+              "content_type": "image/webp",
+              "bytes": 90550,
+              "downloaded_at": "2026-04-16T07:10:46.408Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043140.jpg?v=1722546739",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-ariake-nomura-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/04-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043140.jpg",
+              "content_type": "image/webp",
+              "bytes": 71176,
+              "downloaded_at": "2026-04-16T07:10:48.154Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043145.jpg?v=1722546744",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-ariake-nomura-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/05-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043145.jpg",
+              "content_type": "image/webp",
+              "bytes": 71306,
+              "downloaded_at": "2026-04-16T07:10:49.258Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043149.jpg?v=1722546749",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-ariake-nomura-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/06-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043149.jpg",
+              "content_type": "image/webp",
+              "bytes": 109372,
+              "downloaded_at": "2026-04-16T07:10:50.475Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043154.jpg?v=1722546754",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-ariake-nomura-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-ariake-nomura-japanese-maple/07-Acer_palmatum_Ariake_nomura_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043154.jpg",
+              "content_type": "image/webp",
+              "bytes": 85816,
+              "downloaded_at": "2026-04-16T07:10:51.816Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

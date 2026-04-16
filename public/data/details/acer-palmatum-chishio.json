@@ -1,0 +1,151 @@
+{
+  "id": "acer-palmatum-chishio",
+  "canonical_key": "chishio",
+  "canonical_name": "Chishio",
+  "display_name": "Chishio",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Chishio'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar is one of a large group of maples which have brilliant crimson spring foliage. Appropriately, the name 'Chishio' means \"blood.\" During the summer it turnsanormalgreen.Then,inthefall,itdevelopsorangered tones of varying intensity, depending on the season. The fiveor seven-lobed leaves are of the palmatum type. They are 5-6 cm long and wide, and are divided twothirds of the way to the leaf base. Each lobe is rather narrow, ovate-lanceolate and with slightly toothed margins. The slender petiole is about 3 cm long. 'Chishio' is slow growing and does not exceed 4 m tall Archives, Corvallis a tinge of orange in the scarlet rather than being red scarlet. Since it is among the hardier cultivars, it is a desirable garden plant where a small tree is needed. It is reported that there was, in the ancient days in Japan, a cultivar called"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Chishio",
+      "page_range": "58",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 78387,
+      "detail_url": "https://www.rhs.org.uk/plants/78387/acer-palmatum-chishio-(p)/details",
+      "botanical_name": "Acer palmatum 'Chishio' (P)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Chishio",
+      "page_range": "130",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Chishio' (P)",
+    "Chishio",
+    "Japanese maple 'Chishio'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Chishio'",
+    "Acer palmatum 'Chishio' (P)",
+    "Chishio",
+    "Japanese maple 'Chishio'"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 78387,
+    "rhs_url": "https://www.rhs.org.uk/plants/78387/acer-palmatum-chishio-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Chishio' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Chishio'"
+    ],
+    "cultivar_names": [
+      "Chishio"
+    ],
+    "description": "Small, slow-growing, deciduous tree, eventually reaching about 4m, with a twiggy habit, the 5-lobed leaves 6cm long and wide, have toothed margins, the spring colour of emerging leaves is brilliant crimson, maturing to green in summer then developing orange and red tones of varying intensity in autumn. Inconspicuous red-purple flowers in spring may be followed by winged, purple fruits",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Patio/Container Plants",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. Suits container cultivation but attention to watering is needed in dry spells during the growing season. Suited to bonsai cultivation . See Japanese maples cultivation",
+      "pruning": "Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市/庭院花园、乡村/自然式花园、露台/容器栽培",
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。"
+    },
+    "care": {
+      "pruning": "修剪第 1 组：仅限在晚秋至仲冬期间进行。",
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。",
+      "cultivation": "可栽植于任何保水性良好且排水通畅的土壤中，宜选避风位置。叶色在半阴环境下表现最佳；如土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶焦。适合容器栽培，但生长季干旱时需特别注意浇水。也适合制作盆景。参见日本枫树栽培说明。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
+    },
+    "description": "小型、生长缓慢的落叶乔木，最终高约 4 米，枝条细密。叶 5 裂，长宽均约 6 厘米，叶缘具锯齿；春季新叶呈鲜艳深红色，夏季转绿，秋季再发展为深浅不一的橙色和红色。春季开不显眼的红紫色花，之后可能结带翅的紫色果实。"
+  },
+  "descriptions_zh": {
+    "preferred": "该品种属于一大类春叶鲜亮深绯红的槭树。顾名思义，'Chishio' 的名称意为“血”。夏季叶色转为正常绿色。到了秋季，则会根据当年季节条件呈现出深浅不一的橙红色调。叶片为典型 palmatum 型，5 或 7 裂，长宽均为 5–6 厘米，分裂深度约达叶基的三分之二。每一裂片较狭，为卵状披针形，叶缘略具锯齿。细长叶柄长约 3 厘米。'Chishio' 生长缓慢，高度不超过 4 米。Archives, Corvallis。猩红色中常带一丝橙调，而非纯正鲜红。由于它属于较耐寒的品种之一，因此在需要小型乔木的庭园中很受欢迎。据称，日本古时曾有一个名为 'Yashio' 的品种，外观与 'Chishio' 十分相似。后者更新、色彩也更鲜艳，因此"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

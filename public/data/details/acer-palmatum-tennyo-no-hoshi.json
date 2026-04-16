@@ -1,0 +1,124 @@
+{
+  "id": "acer-palmatum-tennyo-no-hoshi",
+  "canonical_key": "tennyo no hoshi",
+  "canonical_name": "Tennyo-no-hoshi",
+  "display_name": "Tennyo-no-hoshi",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Tennyo-no-hoshi'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "This medium-sized shrub of upright, twiggy habit eventually reaches about 4-5 m high. Its chief attraction is the unusual, lightly variegated foliage. The small leaves are 5 cm long and 3-4 cm wide. The lobes are extremely narrow, broadest in the middle, and they are separated up to three-quarters of the way to the leaf base. The edges are wavy with the outer half very finely toothed. The base color is a strong green with the variegation a cream or light cream green. The markings are almost entirely confined to a fine edging entirely around each lobe, with light tones reaching up to a quarter of the area of the lobe. With the occasional stronger color break, the garden landscape. With age, it becomes more densely covered on the outside and self-prunes on the inside. The overall texture makes it appear delicate, and it blends in well with a background of heavier foliage. It grows well in full sun where the variegation has pink tones. 'Tennyo-no-hoshi' was selected and registered by Maplewood Nursery."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Tennyo-no-hoshi",
+      "page_range": "221-222",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 179781,
+      "detail_url": "https://www.rhs.org.uk/plants/179781/acer-palmatum-tennyo-no-hoshi-(p)/details",
+      "botanical_name": "Acer palmatum 'Tennyo-no-hoshi' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Tennyo-no-hoshi' (P)",
+    "Japanese maple 'Tennyo-no-hoshi'",
+    "Tennyo-no-hoshi"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Tennyo-no-hoshi'",
+    "Acer palmatum 'Tennyo-no-hoshi' (P)",
+    "Japanese maple 'Tennyo-no-hoshi'",
+    "Tennyo-no-hoshi"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 179781,
+    "rhs_url": "https://www.rhs.org.uk/plants/179781/acer-palmatum-tennyo-no-hoshi-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Tennyo-no-hoshi' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Tennyo-no-hoshi'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Tennyo-no-hoshi"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这种中型灌木株形直立、枝条细密，最终可长至约 4-5 米高。其最主要的观赏点是不同寻常、带轻度斑锦的叶色。叶片较小，长 5 厘米，宽 3-4 厘米。裂片极狭，中部最宽，自叶基向上约四分之三处分裂。叶缘呈波状，外半部具极细锯齿。底色为浓绿色，斑锦为乳白色或浅乳绿色。斑纹几乎全部局限于每个裂片周缘的一圈细窄镶边，浅色部分可延伸至裂片面积的四分之一。偶尔会出现更明显的色块变化，在园林景观中颇具特色。树龄增长后，植株外层枝叶会变得更为浓密，内部则会自行疏枝。整体质感显得纤细柔和，与质地较厚重的背景叶丛搭配良好。全日照下生长良好，此时斑锦会带有粉色调。'Tennyo-no-hoshi' 由 Maplewood Nursery 选育并注册。后来从日本引入的品种"
+  },
+  "has_mrmaple": false
+}

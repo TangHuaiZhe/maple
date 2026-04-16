@@ -1,0 +1,69 @@
+{
+  "id": "acer-palmatum-ueno-yama",
+  "canonical_key": "ueno yama",
+  "canonical_name": "Ueno yama",
+  "display_name": "Ueno yama",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Ueno yama'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This medium-sized, upright tree has outstanding colored foliage in the spring. It is one of the 'Katsura' group of spring-color maples, but deeper and brighter orange than 'Katsura'. The medium-sized leaves are five lobed and 5-7 cm long and wide. The lobes are deeply separated to almost three-quarters of the way to the leaf base, and radiate outward in typical palmatum fashion. 'Ueno yama' is one of the first cultivars to leaf out in the spring. The intense orange color dominates the landscape for several weeks and makes quite a splash. As spring progresses, the tones gradually shade into the greens which have quietly blended with the orange. Summer shows a good bright green. The fall colors return to the yellow-orange series. This good, vigorous tree is hardy and of upstanding habit, although long side branches broaden it with age. It is an excellent accent plant for medium-tall landscape needs and for early spring color."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Ueno yama",
+      "page_range": "175",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Ueno yama",
+      "page_range": "227",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Ueno yama"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Ueno yama'",
+    "Ueno yama"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "这是一株中型直立乔木，春季叶色极为出众。它属于 'Katsura' 系春色槭之一，但橙色比 'Katsura' 更深、更鲜艳。中等大小的叶片具 5 个裂片，长宽约 5-7 厘米。裂片深裂，接近叶基的四分之三处，呈典型的掌状向外放射。'Ueno yama' 是春季较早展叶的品种之一。强烈的橙色可在景观中持续主导数周，视觉冲击力很强。随着春季推进，橙色逐渐过渡并融合进绿色之中。夏季叶色为明快而漂亮的绿色。秋季又回到黄橙色系。该品种生长良好、长势强健、耐寒，树形挺拔，虽然随着树龄增长，长侧枝会使树冠逐渐开展。它非常适合作为中等偏高景观层次中的点景树，也非常适合提供早春叶色。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

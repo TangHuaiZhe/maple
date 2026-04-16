@@ -1,0 +1,135 @@
+{
+  "id": "acer-palmatum-iso-chidori",
+  "canonical_key": "iso chidori",
+  "canonical_name": "Iso chidori",
+  "display_name": "Iso chidori",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Iso chidori'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The small leaves of this cultivar are classed as five lobed. However, on many leaves two very small basal lobes appear and clasp above the petiole attachment. Usually these are very small or absent. The middle three lobes are quite large for the leaf, and the two basal lobes (when the leaf is five lobed) are tiny, giving the leaf almost a three-lobed appearance. The margins are prominently double serrated. The lobes are oblong and separated two-thirds of the way to the leaf base. They gradually taper to a sharp point. As the leaves mature, the margins often take on a wavy nature, and the points of the lobes curl slightly downward. Some leaves are quite convoluted. The leaves measure 4-5 cm long with a spread of 5-6 cm. The petioles are slender but stiff and are often almost as long as the leaf. The leaf color is a light to medium green, sometimes a yellowish green. The texture is firm but not thick. Fall colors are in the yellows and golds. Corvallis"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Iso chidori",
+      "page_range": "153",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 269435,
+      "detail_url": "https://www.rhs.org.uk/plants/269435/acer-palmatum-iso-chidori-(dw)/details",
+      "botanical_name": "Acer palmatum 'Iso-chidori' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Chiba-yatsubusa'",
+    "Acer palmatum 'Iso-chidori' (Dw)",
+    "Acer palmatum 'Kashima-yatsubusa'",
+    "Chiba-yatsubusa",
+    "Iso chidori",
+    "Iso-chidori",
+    "Kashima-yatsubusa"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Chiba-yatsubusa'",
+    "Acer palmatum 'Iso chidori'",
+    "Acer palmatum 'Iso-chidori' (Dw)",
+    "Acer palmatum 'Kashima-yatsubusa'",
+    "Chiba-yatsubusa",
+    "Iso chidori",
+    "Iso-chidori",
+    "Kashima-yatsubusa"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 269435,
+    "rhs_url": "https://www.rhs.org.uk/plants/269435/acer-palmatum-iso-chidori-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Iso-chidori' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [
+      "Acer palmatum 'Chiba-yatsubusa'",
+      "Acer palmatum 'Kashima-yatsubusa'"
+    ],
+    "cultivar_names": [
+      "Chiba-yatsubusa",
+      "Iso-chidori",
+      "Kashima-yatsubusa"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该品种的小叶通常归为 5 裂叶；不过，许多叶片在叶柄连接处上方还会出现两枚很小的基部裂片，并略呈抱合状。这两枚裂片通常很小，或有时缺失。中间 3 个裂片相对整片叶而言较大，而 2 个基部裂片（当叶片表现为 5 裂时）极小，因此叶形几乎呈 3 裂状。叶缘具明显的重锯齿。裂片呈长圆形，分裂深度达叶基约三分之二，先端逐渐收尖。叶片成熟后，叶缘常呈波状，裂片尖端略向下卷，有些叶片还会明显扭曲。叶长 4-5 厘米，展开宽 5-6 厘米。叶柄细但坚挺，长度常几乎与叶片相当。叶色为浅绿至中绿色，有时带黄绿色。叶质较结实，但不厚。秋色为黄色至金黄色。Corvallis。"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": "acer-palmatum-purple-mask",
+  "canonical_key": "purple mask",
+  "canonical_name": "Purple Mask",
+  "display_name": "Purple Mask",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Purple Mask'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "linearilobum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar has almost straplike, seven-lobed leaves which tantalizingly border on the Matsumurae and Linearilobum Groups and could be placed in either. It originated from a sport on the same Acer palmatum f. atropurpureum plant which yielded 'Beni shi en'. Harold Johnston of Johnnie's Pleasure Plants Nursery, Tallassee, Alabama, discovered it. The small leaves have seven deeply divided lobes and are 4-6 cm long and 4-5 cm wide. Each lobe is lanceolate to long-ovate, ranging in width from 3 to 10 mm, but mostly about 5 mm, at the broadest point in the middle or outer third of the lobe, and narrowing to 1 mm at the before becoming yellow orange in the fall. Unlike"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Purple Mask",
+      "page_range": "195-196",
+      "group": "linearilobum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Purple Mask"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Purple Mask'",
+    "Purple Mask"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "该品种的叶片近乎带状，通常为七裂，介于 Matsumurae Group 与 Linearilobum Group 之间，归入任一组均可。它来源于同一株 Acer palmatum f. atropurpureum 上的芽变，该植株同时还产生了 'Beni shi en'。此品种由美国阿拉巴马州 Tallassee 的 Johnnie's Pleasure Plants Nursery 的 Harold Johnston 发现。叶片较小，七裂深，长 4-6 厘米、宽 4-5 厘米。各裂片呈披针形至长卵形，最宽处位于裂片中部或外侧三分之一处，宽 3-10 毫米，多数约 5 毫米，向基部渐狭至约 1 毫米；秋季转为黄橙色。与"
+  },
+  "has_mrmaple": false
+}

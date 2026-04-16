@@ -1,0 +1,150 @@
+{
+  "id": "acer-palmatum-kiri-nishiki",
+  "canonical_key": "kiri nishiki",
+  "canonical_name": "Kiri nishiki",
+  "display_name": "Kiri nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Kiri nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dissectum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "Most dissectums appear delicate in foliage, but 'Kiri nishiki' looks more substantial yet not coarse. The nine lobes are not as doubly incised as most dissectums. Each lobe is more regularly incised pinnately, and each pinna is less delicately incised. The leaves vary from 5 to 8 cm long and from 6 to 9 cm wide. The petioles are 2-3 cm long. The basic foliage color is a bright, light green. This strong color stands full sun rather well. In the fall, the intense gold color is excellent, and occasionally it is suffused with crimson and scarlet on the tips. This full, cascading cultivar is fairly strong growing and hardy. As with other closely allied forms, such as"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Kiri nishiki",
+      "page_range": "93",
+      "group": "Dissectum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 64981,
+      "detail_url": "https://www.rhs.org.uk/plants/64981/acer-palmatum-kiri-nishiki-(d)/details",
+      "botanical_name": "Acer palmatum 'Kiri-nishiki' (D)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Kiri nishiki",
+      "page_range": "161-162",
+      "group": "dissectum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Kiri-nishiki' (D)",
+    "Japanese maple 'Kiri-nishiki'",
+    "Kiri nishiki",
+    "Kiri-nishiki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Kiri nishiki'",
+    "Acer palmatum 'Kiri-nishiki' (D)",
+    "Japanese maple 'Kiri-nishiki'",
+    "Kiri nishiki",
+    "Kiri-nishiki"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 64981,
+    "rhs_url": "https://www.rhs.org.uk/plants/64981/acer-palmatum-kiri-nishiki-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Kiri-nishiki' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Kiri-nishiki'"
+    ],
+    "cultivar_names": [
+      "Kiri-nishiki"
+    ],
+    "description": "A robust, deciduous tree to about 3m tall and wide, with a cascading habit, and light bright green, 9-lobed leaves, 5-8cm long, turning intense gold, occasionally suffused with scarlet at the tips in autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Pendulous/Weeping",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Patio/Container Plants",
+      "hort_group_description": "Acers in this dissectum group have fine, feathery, deeply divided leaves with finely serrated edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市庭院花园、乡村风或自然式花园、花境与花坛、庭院容器栽培",
+      "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "一种健壮的落叶小乔木，株高与冠幅约 3 米，具下垂开展的树形。叶浅而鲜亮的绿色，9 裂，长 5-8 厘米，秋季转为浓金黄色，叶尖有时会晕染猩红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "多数裂叶型日本枫的叶片看起来较为纤细，但 'Kiri nishiki' 显得更有质感而不过于粗重。其叶通常为九裂，不像多数裂叶型那样呈明显的二次深裂。每个裂片更规则地作羽状深裂，而每个小裂片的再裂又较不细碎。叶长 5-8 厘米，宽 6-9 厘米；叶柄长 2-3 厘米。叶色底色为明亮的浅绿色，这种较强的色泽在全日照下表现也相当不错。秋季叶色为浓艳的金黄色，叶尖有时会染上深红与猩红色。这一丰满、枝条下垂的品种生长较健壮，耐寒性也较好。与其他近似类型如 'Sekimori' 一样，宜栽植于坡地，或高接嫁接，才能充分展现其枝条优美下垂的观赏效果。植株高、幅均可达 3 米。'Kiri nishiki' 在槭树参考书中最早可追溯至 18 世纪初；"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

@@ -1,0 +1,129 @@
+{
+  "id": "acer-palmatum-hiu-ga-yama",
+  "canonical_key": "hiu ga yama",
+  "canonical_name": "Hiu\\ga yama",
+  "display_name": "Hiu\\ga yama",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Hiu\\ga yama'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "'Hiu\\ga yama' is reportedly a seedling selection of 'Nomura', one of the oldest known cultivars. The leaf lobes are longer and more slender than are those of 'Nomura' The color in the early season is a deep purple red which becomes less intense as the season progresses. By late summer it is greenish bronze-purple. The leaves are of growth habit rather erect. This cultivar is not widely grown, probably because it has no outstandingly different features from many other red cultivars. The name has been variously spelled"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Hiu\\ga yama",
+      "page_range": "149",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 366932,
+      "detail_url": "https://www.rhs.org.uk/plants/366932/acer-palmatum-hinata-yama-(a)/details",
+      "botanical_name": "Acer palmatum 'Hinata-yama' (A)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Hinata-yama' (A)",
+    "Acer palmatum 'Hyūga-yama'",
+    "Hinata-yama",
+    "Hiu\\ga yama",
+    "Hyūga-yama"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Hinata-yama' (A)",
+    "Acer palmatum 'Hiu\\ga yama'",
+    "Acer palmatum 'Hyūga-yama'",
+    "Hinata-yama",
+    "Hiu\\ga yama",
+    "Hyūga-yama"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 366932,
+    "rhs_url": "https://www.rhs.org.uk/plants/366932/acer-palmatum-hinata-yama-(a)/details",
+    "match_method": "manual_override",
+    "botanical_name": "Acer palmatum 'Hinata-yama' (A)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [
+      "Acer palmatum 'Hyūga-yama'"
+    ],
+    "cultivar_names": [
+      "Hinata-yama",
+      "Hyūga-yama"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "'Hiu\\ga yama' 据称是已知最古老品种之一 'Nomura' 的实生选种。其叶裂片比 'Nomura' 更长、更狭。生长季早期叶色为深紫红色，随后随季节推进而逐渐减淡；至夏末则转为带绿色调的青铜紫色。叶片着生姿态较为直立。该品种栽培并不广泛，可能因为与许多其他红叶品种相比，并无特别突出的差异特征。其名称还曾有多种拼写形式，如 'Higugayama'、'Hiyu\\gayama' 和 'Hyugayama'，此外该品种也曾以 'Hinata yama' 之名流传。"
+  },
+  "has_mrmaple": false
+}

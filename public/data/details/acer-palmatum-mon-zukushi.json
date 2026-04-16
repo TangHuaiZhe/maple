@@ -1,0 +1,530 @@
+{
+  "id": "acer-palmatum-mon-zukushi",
+  "canonical_key": "mon zukushi",
+  "canonical_name": "Mon zukushi",
+  "display_name": "Mon zukushi",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Mon zukushi'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar is another of the green-leaved forms of the Palmatum Group. The leaf color is a bright, pleasant green of lighter value. Early in the season it is a light yellow green with reddish hues, and sometimes the veins show a faint red. This soon changes to a solid green. The texture of the leaf is firm but not thick. Fall colors are brilliant orange reds. The leaf is an open palmate shape with five radiating lobes. Occasionally, the basal lobe produces a small spur lobe. The leaves are 7 cm long and spread about 8 cm. Each lobe is a smooth ovate form, tapering to an elongated tip. The lobes unite two-thirds of the way to the leaf base. The margins are very finely serrated. The stiff petioles are 2-3 cm long. This rather vigorous, hardy plant reaches a height of 5 m."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/01-8CA9C323-938D-42B9-B8C2-A9C1EAC5D395.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/02-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064693.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/03-105D04D4-59FA-47A3-98D7-FF202C0DDF86.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/04-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064690.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/05-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064691.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/06-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064695.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/07-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064696.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/08-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064697.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/09-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064700.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/10-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064701.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/11-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064703.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/12-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064704.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/13-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064705.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/14-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064707.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/15-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064708.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/16-3D98E8D9-0DFE-4AE5-A5C3-29BF246FDA4D.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/17-6E452DD1-D97D-4DC5-A07E-9D76D4E1852A.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/18-608CCCC1-1437-4432-A740-13068D9FF9EE.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/01-8CA9C323-938D-42B9-B8C2-A9C1EAC5D395.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/01-8CA9C323-938D-42B9-B8C2-A9C1EAC5D395.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/02-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064693.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/03-105D04D4-59FA-47A3-98D7-FF202C0DDF86.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/04-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064690.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/05-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064691.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/06-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064695.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/07-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064696.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/08-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064697.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/09-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064700.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/10-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064701.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/11-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064703.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/12-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064704.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/13-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064705.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/14-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064707.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/15-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064708.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/16-3D98E8D9-0DFE-4AE5-A5C3-29BF246FDA4D.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/17-6E452DD1-D97D-4DC5-A07E-9D76D4E1852A.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/18-608CCCC1-1437-4432-A740-13068D9FF9EE.jpg"
+    ],
+    "public_count": 18
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Mon zukushi",
+      "page_range": "175",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 81067,
+      "detail_url": "https://www.rhs.org.uk/plants/81067/acer-palmatum-monzukushi-(a)/details",
+      "botanical_name": "Acer palmatum 'Monzukushi' (A)",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "Acer palmatum 'Mon zukushi' Japanese Maple",
+      "handle": "buy-acer-palmatum-mon-zukushi-japanese-maple",
+      "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 18,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Monzukushi' (A)",
+    "Japanese maple 'Monzukushi'",
+    "Mon zukushi",
+    "Monzukushi"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Mon zukushi'",
+    "Acer palmatum 'Monzukushi' (A)",
+    "Japanese maple 'Monzukushi'",
+    "Mon zukushi",
+    "Monzukushi"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 81067,
+    "rhs_url": "https://www.rhs.org.uk/plants/81067/acer-palmatum-monzukushi-(a)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Monzukushi' (A)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Monzukushi'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Monzukushi"
+    ],
+    "description": "A vigorous, deciduous maple about 5m tall, with firm, open, palmate, 5-lobed leaves to 7cm long, emerging yellow-green flushed red in spring, then solid bright green in summer, and turning brilliant orange-red in autumn",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden",
+      "hort_group_description": "Acers in this amoenum group have large, palm-shaped leaves with finely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市或庭院花园、乡村风或自然式花园",
+      "hort_group_description": "此 amoenum 类群中的 Acer 品种具有大型掌状叶，叶缘具细锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "生长旺盛的落叶槭树，高约 5 米。叶片质地较坚挺，开展，掌状五裂，长可达 7 厘米；春季初展时为黄绿色并带红晕，夏季转为鲜亮纯绿色，秋季则变为明丽的橙红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "该品种是 Palmatum Group 中另一类绿叶型品种。叶色为明亮悦目的浅绿色。生长季初期呈淡黄绿色并带红色调，叶脉有时也隐约带红，随后很快转为均匀的绿色。叶质较坚实，但不厚重。秋色为鲜艳的橙红色。叶片呈开张的掌状，具五枚向外放射的裂片，偶尔基部裂片会再生出一个小副裂片。叶长约 7 厘米，展开宽约 8 厘米。每一裂片为平滑的卵形，渐尖并延伸成细长尖端。裂片分离至距叶基约三分之二处。叶缘具极细的锯齿。叶柄挺硬，长 2-3 厘米。该品种长势较强，耐寒性好，株高可达 5 米。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 1,
+    "local_file_count": 18,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/01-8CA9C323-938D-42B9-B8C2-A9C1EAC5D395.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/01-8CA9C323-938D-42B9-B8C2-A9C1EAC5D395.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/02-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064693.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/03-105D04D4-59FA-47A3-98D7-FF202C0DDF86.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/04-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064690.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/05-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064691.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/06-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064695.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/07-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064696.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/08-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064697.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/09-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064700.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/10-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064701.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/11-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064703.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/12-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064704.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/13-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064705.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/14-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064707.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/15-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064708.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/16-3D98E8D9-0DFE-4AE5-A5C3-29BF246FDA4D.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/17-6E452DD1-D97D-4DC5-A07E-9D76D4E1852A.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/18-608CCCC1-1437-4432-A740-13068D9FF9EE.jpg"
+    ],
+    "products": [
+      {
+        "title": "Acer palmatum 'Mon zukushi' Japanese Maple",
+        "handle": "buy-acer-palmatum-mon-zukushi-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+        "product_type": "",
+        "tags": [
+          "10 @ 10 AM",
+          "BLKFRIDAY",
+          "Cold Hardiness Zone_Zone 5",
+          "Cold Hardiness Zone_Zone 6",
+          "Cold Hardiness Zone_Zone 7",
+          "Cold Hardiness Zone_Zone 8",
+          "Cold Hardiness Zone_Zone 9",
+          "Colors_Green",
+          "Colors_Red",
+          "EARLYBIRD26",
+          "FallSale",
+          "Habit_Upright",
+          "Habitat Conditions_Shady Areas",
+          "Habitat Conditions_Sunlit Areas",
+          "NEWYEARS26",
+          "OHDISCOUNT",
+          "Size_Large",
+          "Species_Acer palmatum",
+          "Sun In_Zone 5",
+          "Sun In_Zone 6",
+          "Sun In_Zone 7",
+          "Sun In_Zone 8",
+          "Type_Japanese Maple",
+          "VDAYSALE26"
+        ],
+        "description_text": "Acer palmatum 'Mon zukushi' Rich Fall Color 'Mon zukushi' Japanese Maple Zones 5-9 'Mon zukushi’ leafs out in the spring with red tips on a green leaf. This quickly turns to bright vibrant green leaves for most of spring and summer. The summer flush on ‘Monzukushi’ may be more peach before transforming to the vibrant green. In autumn, ‘Mon zukushi’ turns to bright orange to red. ‘Mon zukushi’ may reach 8-10 ft in height in 10 years. ‘Mon zukushi’ is a cultivar that was listed in Japan as early as 1704 and its name translates as “one of the sacred treasures”. Plant this ancient treasure from Japan and it is sure not to dissapoint. Nearly everyone who gets this tree brags on it because it develops into such a nice tree with great colors.",
+        "published_at": "2026-02-10T10:00:11-05:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer palmatum",
+        "matched_title_cultivar": "Mon zukushi",
+        "images": {
+          "count": 18,
+          "downloaded_count": 18,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/01-8CA9C323-938D-42B9-B8C2-A9C1EAC5D395.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/02-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064693.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/03-105D04D4-59FA-47A3-98D7-FF202C0DDF86.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/04-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064690.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/05-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064691.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/06-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064695.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/07-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064696.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/08-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064697.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/09-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064700.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/10-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064701.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/11-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064703.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/12-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064704.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/13-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064705.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/14-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064707.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/15-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064708.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/16-3D98E8D9-0DFE-4AE5-A5C3-29BF246FDA4D.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/17-6E452DD1-D97D-4DC5-A07E-9D76D4E1852A.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/18-608CCCC1-1437-4432-A740-13068D9FF9EE.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "8CA9C323-938D-42B9-B8C2-A9C1EAC5D395.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/8CA9C323-938D-42B9-B8C2-A9C1EAC5D395.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/01-8CA9C323-938D-42B9-B8C2-A9C1EAC5D395.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 1155650,
+              "downloaded_at": "2026-04-14T02:25:48+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064693.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064693.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/02-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064693.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 50555,
+              "downloaded_at": "2026-04-14T02:25:46+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "105D04D4-59FA-47A3-98D7-FF202C0DDF86.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/105D04D4-59FA-47A3-98D7-FF202C0DDF86.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/03-105D04D4-59FA-47A3-98D7-FF202C0DDF86.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 915522,
+              "downloaded_at": "2026-04-14T02:25:49+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 4,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064690.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064690.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/04-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064690.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 234459,
+              "downloaded_at": "2026-04-14T02:25:46+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 5,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064691.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064691.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/05-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064691.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 281407,
+              "downloaded_at": "2026-04-14T02:25:47+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 6,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064695.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064695.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/06-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064695.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 250109,
+              "downloaded_at": "2026-04-14T02:25:47+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 7,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064696.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064696.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/07-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064696.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 521945,
+              "downloaded_at": "2026-04-14T02:25:48+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 8,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064697.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064697.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/08-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064697.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 91701,
+              "downloaded_at": "2026-04-14T02:25:46+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 9,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064700.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064700.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/09-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064700.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 103051,
+              "downloaded_at": "2026-04-14T02:25:47+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 10,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064701.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064701.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/10-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064701.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 74591,
+              "downloaded_at": "2026-04-14T02:25:47+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 11,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064703.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064703.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/11-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064703.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 99502,
+              "downloaded_at": "2026-04-14T02:25:48+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 12,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064704.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064704.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/12-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064704.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 209408,
+              "downloaded_at": "2026-04-14T02:25:48+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 13,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064705.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064705.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/13-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064705.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 105783,
+              "downloaded_at": "2026-04-14T02:25:48+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 14,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064707.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064707.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/14-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064707.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 475505,
+              "downloaded_at": "2026-04-14T02:25:49+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 15,
+              "filename": "Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064708.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064708.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/15-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064708.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 378898,
+              "downloaded_at": "2026-04-14T02:25:49+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 16,
+              "filename": "3D98E8D9-0DFE-4AE5-A5C3-29BF246FDA4D.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/3D98E8D9-0DFE-4AE5-A5C3-29BF246FDA4D.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/16-3D98E8D9-0DFE-4AE5-A5C3-29BF246FDA4D.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 1149583,
+              "downloaded_at": "2026-04-14T02:25:51+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 17,
+              "filename": "6E452DD1-D97D-4DC5-A07E-9D76D4E1852A.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/6E452DD1-D97D-4DC5-A07E-9D76D4E1852A.jpg?v=1762557534",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/17-6E452DD1-D97D-4DC5-A07E-9D76D4E1852A.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 1015983,
+              "downloaded_at": "2026-04-14T02:25:50+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 18,
+              "filename": "608CCCC1-1437-4432-A740-13068D9FF9EE.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/608CCCC1-1437-4432-A740-13068D9FF9EE.jpg?v=1762557519",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mon-zukushi-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/18-608CCCC1-1437-4432-A740-13068D9FF9EE.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 3373654,
+              "downloaded_at": "2026-04-14T02:25:53+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

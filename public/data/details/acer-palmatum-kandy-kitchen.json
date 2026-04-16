@@ -1,0 +1,175 @@
+{
+  "id": "acer-palmatum-kandy-kitchen",
+  "canonical_key": "kandy kitchen",
+  "canonical_name": "Kandy Kitchen",
+  "display_name": "Kandy Kitchen",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Kandy Kitchen'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar arose from a witches'-broom of Acer palmatum f. atropurpureum. It was discovered and named by Joseph Stupka of Stupka Nursery in Poulski, Pennsylvania. 'Kandy Kitchen' forms a compact rounded shrub reaching up to 2 m tall and wide. It is ideal for containers, and is similar in growth, leaf shape, color, and size to"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-kandy-kitchen/01-kandykitchens.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/herter-images/acer-palmatum-kandy-kitchen/01-kandykitchens.jpg",
+    "public_paths": [
+      "/herter-images/acer-palmatum-kandy-kitchen/01-kandykitchens.jpg"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Kandy Kitchen",
+      "page_range": "88-89",
+      "group": "Dwarf",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 181355,
+      "detail_url": "https://www.rhs.org.uk/plants/181355/acer-palmatum-kandy-kitchen-(dw)/details",
+      "botanical_name": "Acer palmatum 'Kandy Kitchen' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Kandy Kitchen",
+      "page_range": "156",
+      "group": "dwarf",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Kandy Kitchens Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/kandy-kitchens-japanese-maple/",
+      "description": "This dwarf Japanese maple has very bold Sprng colors of pink and red. Leaves bronze in the summer, and new pink leaves emerge, making the look of flowers instead of leaves. grows to a max of 5 ft.",
+      "group": "All Japanese Maples / Dwarf Japanese Maples / New and/or Unusual Japanese Maple Varieties",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Candy Kitchen'",
+    "Acer palmatum 'Kandy Kitchen' (Dw)",
+    "Candy Kitchen",
+    "Kandy Kitchen"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Candy Kitchen'",
+    "Acer palmatum 'Kandy Kitchen'",
+    "Acer palmatum 'Kandy Kitchen' (Dw)",
+    "Candy Kitchen",
+    "Kandy Kitchen"
+  ],
+  "source_count": 4,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 181355,
+    "rhs_url": "https://www.rhs.org.uk/plants/181355/acer-palmatum-kandy-kitchen-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Kandy Kitchen' (Dw)",
+    "species_name": "Acer palmatum",
+    "synonyms": [
+      "Acer palmatum 'Candy Kitchen'"
+    ],
+    "cultivar_names": [
+      "Candy Kitchen",
+      "Kandy Kitchen"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "该品种源自 Acer palmatum f. atropurpureum 的一处扫帚枝变异，由宾夕法尼亚州 Poulski 的 Stupka Nursery 的 Joseph Stupka 发现并命名。'Kandy Kitchen' 形成紧凑、圆整的灌木状株形，高和冠幅均可达约 2 米。非常适合容器栽培，在生长势、叶形、叶色和大小方面与另一扫帚枝品种 'Elizabeth' 相似，但其裂片略更狭长，先端拖尾状更明显。新叶在枝梢顶端聚成鲜亮的粉红红色叶丛，与整个夏季保持的紫红色成熟叶形成对比。遮阴条件下，叶片会转为古铜绿色。秋色为非常鲜艳的猩红色。另有资料所述叶片长约 6 厘米、宽约 7 厘米；各裂片为长圆状卵形，分裂深度达叶基约三分之二，先端渐尖。裂片边缘具锯齿，有时略不规则并轻微反卷。叶柄色深，长 3-4 厘米。春叶带红色，至盛夏转为偏绿的红色。其白色斑纹从不明显到非常醒目不等，有时还带粉色调；斑纹明显时，浅色部分会切入并占据裂片的大面积区域。这些斑纹在生长季中期转为黄白色。秋色则主要转为深红色调。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-kandy-kitchen/01-kandykitchens.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-kandy-kitchen/01-kandykitchens.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1265,
+        "name": "Kandy Kitchens Japanese Maple",
+        "slug": "kandy-kitchens-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/kandy-kitchens-japanese-maple/",
+        "description_text": "This dwarf Japanese maple has very bold Sprng colors of pink and red. Leaves bronze in the summer, and new pink leaves emerge, making the look of flowers instead of leaves. grows to a max of 5 ft.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Dwarf Japanese Maples",
+          "New and/or Unusual Japanese Maple Varieties"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 45
+        },
+        "review_count": 1561,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "override",
+        "match_candidate": "kandy-kitchens-japanese-maple"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/kandykitchens.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-kandy-kitchen/01-kandykitchens.jpg",
+          "bytes": 22549,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:50:28.656Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-kandy-kitchen/01-kandykitchens.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

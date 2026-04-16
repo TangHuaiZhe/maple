@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-ogon-sarasa",
+  "canonical_key": "ogon sarasa",
+  "canonical_name": "Ogon sarasa",
+  "display_name": "Ogon sarasa",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Ogon sarasa'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The color combination and leaf shape identify this interesting plant. Spring leaves are brick-red brushed over a deep green background, with contrasting light green midribs. Each leaf varies in intensity. In late summer, the leaves become a bronze-green. Fall colors are bright orange and crimson. Each mediumsized leaf is deeply divided into seven elongateelliptical lobes which gradually taper to narrow SARASA' - points. The lobe sides are curved upward, creating a shallow trough. This plant forms a tall shrub up to 23 ft. (7 m) tall and 10 ft. (3 m) wide. The name means \"gold calico cloth.\" -"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Ogon sarasa",
+      "page_range": "119-122",
+      "group": "Matsumurae",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 77145,
+      "detail_url": "https://www.rhs.org.uk/plants/77145/acer-palmatum-ogon-sarasa-(a)/details",
+      "botanical_name": "Acer palmatum 'Ōgon-sarasa' (A)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Ōgon-sarasa' (A)",
+    "Ogon sarasa",
+    "Ōgon-sarasa"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Ogon sarasa'",
+    "Acer palmatum 'Ōgon-sarasa' (A)",
+    "Ogon sarasa",
+    "Ōgon-sarasa"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 77145,
+    "rhs_url": "https://www.rhs.org.uk/plants/77145/acer-palmatum-ogon-sarasa-(a)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Ōgon-sarasa' (A)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Ōgon-sarasa"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这种有趣的植株可通过其叶形与叶色组合加以识别。春叶为砖红色，底色为深绿色，并带有对比鲜明的浅绿色中脉；每片叶的色彩强度略有差异。至夏末，叶片转为古铜绿色。秋色为鲜橙色与深红色。每片中等大小的叶片深裂为 7 个长椭圆形裂片，逐渐收尖成狭长尖端。裂片两侧向上弯曲，形成浅槽状。该品种形成高大灌木，高可达 7 米，宽约 3 米。其名称意为“金色印花布”。"
+  },
+  "has_mrmaple": false
+}

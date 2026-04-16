@@ -1,0 +1,199 @@
+{
+  "id": "acer-palmatum-sazanami",
+  "canonical_key": "sazanami",
+  "canonical_name": "Sazanami",
+  "display_name": "Sazanami",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Sazanami'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The sharp-pointed leaves create the unusual impression of this plant. The leaves are seven lobed and rather small, 3-4 cm long and wide. The lobes are separated threequarters or more to the leaf base which is truncate. The margins are distinctly and sharply toothed. The petioles are 1.5 cm long. The spring color is an interesting light orange red, with the center veins a contrasting very light green. The color becomes a rich green during late summer. Fall colors are strong gold blends. This rather slow-growing but hardy cultivar forms a large, compact bush, eventually reaching 5-6 m tall and half as wide. 'Sazanami', whose name means \"ruffles,\" is not common in collections but is a charming plant be- Corvallis The brilliant scarlet foliage in the spring is the most attractive feature of this cultivar. The leaves are palmate and five lobed or sometimes seven lobed. Each lobe narrows rapidly to a sharp point, and the margins are toothed. The small leaves are mostly 5 cm long and 4 cm wide. In older, twiggier growth, the leaves are at least 1 cm smaller. The lobes divide two-thirds of the way to the leaf base. The buds open with a brilliant show of bright crimson. This color remains for about a month. During early summer, the leaves change to a bronze tone and continue into the green of late summer. Bright colors become prominent again in the flame-red tones of the fall season. This hardy cultivar eventually makes a small upright tree or large shrub up to 4 m tall. It occasionally puts out strong, upright shoots when in good culture. The predominant growth, however, is multibranched with short internodes. Because of its tendency to produce short, twiggy growth, this cultivar is quite popular for bonsai. It tends to be difficult to propagate."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-sazanami/01-visi69095.jpg",
+      "/rhs-images/acer-palmatum-sazanami-momiji_kaede/01-visi69095.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-sazanami/01-visi69095.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-sazanami/01-visi69095.jpg",
+      "/rhs-images/acer-palmatum-sazanami-momiji_kaede/01-visi69095.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Sazanami",
+      "page_range": "144",
+      "group": "Matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 79514,
+      "detail_url": "https://www.rhs.org.uk/plants/79514/acer-palmatum-sazanami-(m)/details",
+      "botanical_name": "Acer palmatum 'Sazanami' (M)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Sazanami",
+      "page_range": "204-205",
+      "group": "matsumurae",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Sazanami' (M)",
+    "Japanese maple 'Sazanami'",
+    "Sazanami"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Sazanami'",
+    "Acer palmatum 'Sazanami' (M)",
+    "Japanese maple 'Sazanami'",
+    "Sazanami"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 79514,
+    "rhs_url": "https://www.rhs.org.uk/plants/79514/acer-palmatum-sazanami-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Sazanami' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Sazanami'"
+    ],
+    "cultivar_names": [
+      "Sazanami"
+    ],
+    "description": "A compact, upright, deciduous, shrubby tree about 5-6m in height, with small, sharp-pointed 7 lobed leaves 3-4cm wide and long, with pale green-veined orange-red spring foliage becoming rich green later in summer then blends of strong gold in autumn",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "visi69095.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-sazanami/01-visi69095.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-sazanami-momiji_kaede/01-visi69095.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "visi69095.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi69095.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/79514/acer-palmatum-sazanami-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-sazanami/01-visi69095.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 117051,
+          "downloaded_at": "2026-04-14T01:47:57+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 1,
+          "filename": "visi69095.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi69095.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/79514/acer-palmatum-sazanami-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-sazanami-momiji_kaede/01-visi69095.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 117051,
+          "downloaded_at": "2026-04-14T01:47:57+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米",
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市或庭院花园、乡村风或自然式花园",
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪第 1 组：仅限在晚秋至仲冬期间进行。",
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
+    },
+    "description": "紧凑、直立、落叶性的灌木状小乔木，高约 5-6 米。叶片较小，先端尖锐，7 裂，长宽约 3-4 厘米；春季新叶呈橙红色，叶脉浅绿色，至夏末转为浓绿色，秋季则呈浓郁的金色调。"
+  },
+  "descriptions_zh": {
+    "preferred": "其尖锐的叶先端赋予该品种独特观感。叶片 7 裂，较小，长宽约 3-4 厘米。裂片分裂深达叶基的四分之三或更深，叶基平截。叶缘具明显而锐利的锯齿，叶柄长约 1.5 厘米。春季叶色为颇具特色的浅橙红色，中央叶脉则形成对比鲜明的极浅绿色。至夏末转为浓绿色，秋季呈强烈的金色混合色。该品种生长较慢但耐寒，形成大型而紧凑的灌木，最终高约 5-6 米，冠幅约为其一半。‘Sazanami’ 之名意为“波纹”，在栽培收集中并不常见，但颇具风致。另据后段可辨识内容，某品种春季鲜亮猩红色叶为其最显著特征。叶片掌状，5 裂，有时 7 裂；各裂片迅速渐尖，叶缘具齿。叶片较小，多为长 5 厘米、宽 4 厘米；老熟且细密枝条上的叶更小，至少小 1 厘米。裂片分裂约达叶基的三分之二。芽开放时呈极鲜艳的绯红色，此色可维持约一个月；初夏叶色转为青铜调，夏末渐绿，秋季再现火焰红色。该品种耐寒，最终成为高达 4 米的小型直立乔木或大型灌木；栽培条件良好时偶尔会抽生强健直立枝，但整体多为短节间、多分枝生长。由于容易形成短而细密的枝条，该品种很受盆景爱好者欢迎，但繁殖较困难。‘Seigai’ 与 ‘Akaji nishiki’ 为同一品种，早期文献中两名并见；在美国更常以 ‘Bonfire’ 之名流通。名称相近的 ‘Seigen’ 则是另一独立品种，其植株更矮小，叶片更秀气，秋季转黄。"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

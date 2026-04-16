@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-autumn-red",
+  "canonical_key": "autumn red",
+  "canonical_name": "Autumn Red",
+  "display_name": "Autumn Red",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Autumn Red'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "'Autumn Red' was selected in the Fratelli Gilardelli Nursery, near Milan, Italy, for its spectacular fall color. It forms a medium-sized shrub or small tree, reaching 4-5 cm tall. It is an upright form with an open crown. The newly emerging pink red leaves quickly turn a light greenish yellow with rose edging, and become a bright green through the summer. Then, as the name suggests, they turn a fiery red in the fall. The foliage can withstand full sun without damage. The large fiveor seven-lobed leaves, up to 10 cm long and 10-12 cm wide, are deeply divided to within 1 cm of the leaf base. The margins are coarsely but fairly evenly toothed. The petioles are bright red and up to 6 cm long."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Autumn Red",
+      "page_range": "118",
+      "group": "matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 109522,
+      "detail_url": "https://www.rhs.org.uk/plants/109522/acer-palmatum-autumn-red-(m)/details",
+      "botanical_name": "Acer palmatum 'Autumn Red' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Autumn Red' (M)",
+    "Autumn Red"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Autumn Red'",
+    "Acer palmatum 'Autumn Red' (M)",
+    "Autumn Red"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 109522,
+    "rhs_url": "https://www.rhs.org.uk/plants/109522/acer-palmatum-autumn-red-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Autumn Red' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Autumn Red"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "'Autumn Red' 由意大利米兰附近的 Fratelli Gilardelli Nursery 选育，以其极为出色的秋色著称。植株形成中型灌木或小乔木，高约 4-5 米。株形直立，树冠开展而疏朗。新叶初展时为粉红至红色，很快转为带玫瑰色叶缘的浅黄绿色，夏季则变为鲜绿色。随后如其名所示，秋季转为火焰般的鲜红色。叶片可在全日照下保持良好而不受灼伤。叶大，5 或 7 裂，长可达 10 厘米，宽 10-12 厘米，深裂至距叶基约 1 厘米处。叶缘具粗大而较整齐的锯齿。叶柄鲜红色，长可达 6 厘米。"
+  },
+  "has_mrmaple": false
+}

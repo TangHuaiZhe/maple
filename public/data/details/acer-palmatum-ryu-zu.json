@@ -1,0 +1,156 @@
+{
+  "id": "acer-palmatum-ryu-zu",
+  "canonical_key": "ryu zu",
+  "canonical_name": "Ryu\\zu",
+  "display_name": "Ryu\\zu",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Ryu\\zu'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This delightful dwarf is a compact little shrub which is popular for bonsai as well as for the rock garden. The leaf nodes are closely spaced on the twigs, and it forms a multibranched structure, reaching little more than 2 m at maturity. The leaves are tightly spaced, overlapping, and bunched, giving rise to the name 'Ryu\\zu', which means \"ornamental dragon's head.\" This cultivar has also been known under the name"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Ryu\\zu",
+      "page_range": "200-201",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 110066,
+      "detail_url": "https://www.rhs.org.uk/plants/110066/acer-palmatum-ryuzu-(dw)/details",
+      "botanical_name": "Acer palmatum 'Ryuzu' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "timber_press",
+      "name": "Ryu¯ zu",
+      "page_range": "141",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Ryuzu' (Dw)",
+    "Japanese maple 'Ryuzu'",
+    "Ryu\\zu",
+    "Ryuzu",
+    "Ryu¯ zu"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Ryu\\zu'",
+    "Acer palmatum 'Ryuzu' (Dw)",
+    "Japanese maple 'Ryuzu'",
+    "Ryu\\zu",
+    "Ryuzu",
+    "Acer palmatum 'Ryu¯ zu'",
+    "Ryu¯ zu"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 110066,
+    "rhs_url": "https://www.rhs.org.uk/plants/110066/acer-palmatum-ryuzu-(dw)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Ryuzu' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Ryuzu'"
+    ],
+    "cultivar_names": [
+      "Ryuzu"
+    ],
+    "description": "A compact shrubby tree forming a flattened globe of deciduous foliage to 2m tall, with tightly-spaced leaves composed of radiating 5-7 lobes, with prominently serrated margins, pale green flushed pale pink in spring, maturing to green in summer, turning warm orange-yellow in autumn",
+    "dimensions": {
+      "height": "1.5-2.5 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Patio/Container Plants, Rock Garden",
+      "hort_group_description": "Acers in this dwarf group are compact and slow-growing, making them ideal for pots and containers"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. Suits container cultivation but attention to watering is needed in dry spells during the growing season. Suitable for bonsai cultivation . See Japanese maples cultivation",
+      "pruning": "Pruning group 1 from late autumn to midwinter only",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "这一矮生类群的 Acer 株形紧凑、生长缓慢，因此非常适合盆栽和容器栽培。",
+      "suggested_uses": "城市/庭院花园、乡村风格/自然式花园、花境与花坛、庭院/容器植物、岩石园"
+    },
+    "care": {
+      "pruning": "修剪第 1 组：仅限在晚秋至仲冬期间进行。",
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。",
+      "cultivation": "宜栽植于保水性好且排水良好的土壤中，位置以避风为佳。叶色在半阴环境下表现最佳；若土壤能稳定保持湿润，也可耐全日照。土壤缺水或暴晒过度都可能导致叶灼。适合容器栽培，但在生长季干燥时期需特别注意浇水。亦适合制作盆景。另请参见 Japanese maples 的栽培说明。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "一类紧凑的灌木状小乔木，形成扁圆球形落叶树冠，高可达 2 米。叶片排列紧密，由向外放射的 5-7 裂片组成，叶缘具明显锯齿；春季为淡绿泛浅粉色，夏季转绿，秋季变为温暖的橙黄色。"
+  },
+  "descriptions_zh": {
+    "preferred": "这一迷人的矮生品种为紧凑的小型灌木，既适合盆景，也深受岩石园爱好者欢迎。枝条上的叶节间很短，植株形成多分枝结构，成熟时高度通常仅略超过 2 米。叶片排列紧密、彼此重叠并簇生，因此得名 'Ryu\\zu'，意为“装饰性的龙头”。该品种也曾以 'Tatsu gashira' 之名流通。新叶为淡绿色，上覆一层浅浅的粉色，粉色很快消退，成熟叶转为绿色。叶缘具非常明显的锯齿。叶片通常七裂时，基部两裂很小。各裂片呈卵形，并逐渐收为细长尖端；裂片边缘略向上卷，几乎形成浅槽。叶片长宽约 3-4 厘米，偶可达 5 厘米。坚挺的叶柄仅约 1 厘米长。宾夕法尼亚州 Downingtown 的女巫扫帚和矮生槭树专家 Billy Schwartz 形容其叶片像被熨平的"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-shishio-hime",
+  "canonical_key": "shishio hime",
+  "canonical_name": "Shishio hime",
+  "display_name": "Shishio hime",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Shishio hime'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This dwarf shrub has small leaves of the palmatum type which have red edges and tips when young, becoming an 'Shishigashira' lengthens the color season in fall. Photo courtesy of Oregon State University Archives, Corvallis narrowing to 5-8 mm at the lobe junctions. The margins are deeply and evenly double toothed. The long, very slender petioles are 1.5-3.5 cm long. The growth habit is similar to that of"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Shishio hime",
+      "page_range": "214",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 269441,
+      "detail_url": "https://www.rhs.org.uk/plants/269441/acer-palmatum-shishio-hime-(dw)/details",
+      "botanical_name": "Acer palmatum 'Shishio-hime' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Shishio-hime' (Dw)",
+    "Shishio hime",
+    "Shishio-hime"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Shishio hime'",
+    "Acer palmatum 'Shishio-hime' (Dw)",
+    "Shishio hime",
+    "Shishio-hime"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 269441,
+    "rhs_url": "https://www.rhs.org.uk/plants/269441/acer-palmatum-shishio-hime-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Shishio-hime' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Shishio-hime"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该矮生灌木具 palmatum 型小叶，幼叶时叶缘和叶尖带红色，从而延长了秋季观色期。叶片在裂片连接处收窄至 5-8 毫米。叶缘深且均匀地呈重锯齿。细长叶柄长 1.5-3.5 厘米。其生长习性与 'Murasaki kiyohime' 相似，但体型更小，形成低矮、开展的矮生灌木。初期枝叶致密、生长缓慢，10 年后约高 0.8 米、宽 1.2 米；不过在早年阶段，幼年枝条可长达 10-12 厘米，随植株老化则明显缩短。最终它会成为较为强健的矮生品种之一。非常适合容器栽培和盆景。关于名称 'Shishio hime' 的正确性仍有一些疑问，也不确定是否应拼作"
+  },
+  "has_mrmaple": false
+}

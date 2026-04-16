@@ -1,0 +1,75 @@
+{
+  "id": "acer-palmatum-catalina-yatsubusa",
+  "canonical_key": "catalina yatsubusa",
+  "canonical_name": "Catalina Yatsubusa",
+  "display_name": "Catalina Yatsubusa",
+  "chinese_name": "卡塔丽娜",
+  "scientific_name": "Acer Palmatum 'Catalina Yatsubusa'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "三河系列",
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": ""
+  },
+  "images": {
+    "count": 2,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/194_卡塔丽娜Acer Palmatum 'Catalina Yatsubusa'/01.jpg",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/194_卡塔丽娜Acer Palmatum 'Catalina Yatsubusa'/01.jpg",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/三河系列/194_卡塔丽娜Acer Palmatum 'Catalina Yatsubusa'/02.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/194_%E5%8D%A1%E5%A1%94%E4%B8%BD%E5%A8%9CAcer%20Palmatum%20'Catalina%20Yatsubusa'/01.jpg",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/194_%E5%8D%A1%E5%A1%94%E4%B8%BD%E5%A8%9CAcer%20Palmatum%20'Catalina%20Yatsubusa'/01.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/194_%E5%8D%A1%E5%A1%94%E4%B8%BD%E5%A8%9CAcer%20Palmatum%20'Catalina%20Yatsubusa'/02.jpg"
+    ],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/194_%E5%8D%A1%E5%A1%94%E4%B8%BD%E5%A8%9CAcer%20Palmatum%20'Catalina%20Yatsubusa'/01.jpg",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/194_%E5%8D%A1%E5%A1%94%E4%B8%BD%E5%A8%9CAcer%20Palmatum%20'Catalina%20Yatsubusa'/01.jpg",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E4%B8%89%E6%B2%B3%E7%B3%BB%E5%88%97/194_%E5%8D%A1%E5%A1%94%E4%B8%BD%E5%A8%9CAcer%20Palmatum%20'Catalina%20Yatsubusa'/02.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "194",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/194.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=60",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "三河系列",
+      "title": "卡塔丽娜Acer Palmatum 'Catalina Yatsubusa'",
+      "description": "",
+      "image_count": 2
+    }
+  ],
+  "aliases": [
+    "Catalina Yatsubusa",
+    "卡塔丽娜",
+    "卡塔丽娜Acer Palmatum 'Catalina Yatsubusa'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Catalina Yatsubusa'",
+    "Acer palmatum",
+    "Catalina Yatsubusa",
+    "三河系列",
+    "卡塔丽娜",
+    "卡塔丽娜Acer Palmatum 'Catalina Yatsubusa'",
+    "鸡爪槭"
+  ],
+  "source_count": 1,
+  "has_web": true,
+  "has_book": false,
+  "has_rhs": false,
+  "rhs": null,
+  "has_mrmaple": false,
+  "descriptions_zh": {
+    "preferred": "极矮生、致密的三河系品种，叶片细小而层层紧凑。春季新叶常带黄橙色调，夏季转绿，秋季再现黄、橙到红色变化，适合盆景、容器和狭小空间。"
+  }
+}

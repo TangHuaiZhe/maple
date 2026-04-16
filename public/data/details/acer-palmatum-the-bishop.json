@@ -1,0 +1,96 @@
+{
+  "id": "acer-palmatum-the-bishop",
+  "canonical_key": "the bishop",
+  "canonical_name": "The Bishop",
+  "display_name": "The Bishop",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'The Bishop'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Amoenum",
+    "palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This maple is one of the late Henry Hohman's selections. Hohman's ability to select outstanding plants for propagation was one of his well-known attributes. 'The Bishop' has seven-lobed, fairly deeply divided purple-red leaves balancing between the Palmatum and Matsumurae Groups. The leaves measure 6-7 cm long and 7-8 cm wide, with slender petioles 4-5 cm long. The lobes extend outward and are divided about three-quarters of the way to the leaf base. Each lobe is oblong-ovate, gradually tapering to a long slender point. The margins are uniformly and finely serrated. The purple red is bright in the spring and does not bronze until late summer. The fall color is an excellent crimson. This upright-growing tree is vigorous and hardy, and reaches 4 m at maturity."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "The Bishop",
+      "page_range": "167",
+      "group": "Amoenum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 100249,
+      "detail_url": "https://www.rhs.org.uk/plants/100249/acer-palmatum-the-bishop-(a)/details",
+      "botanical_name": "Acer palmatum 'The Bishop' (A)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "The Bishop",
+      "page_range": "222",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'The Bishop' (A)",
+    "The Bishop"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'The Bishop'",
+    "Acer palmatum 'The Bishop' (A)",
+    "The Bishop"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 100249,
+    "rhs_url": "https://www.rhs.org.uk/plants/100249/acer-palmatum-the-bishop-(a)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'The Bishop' (A)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "The Bishop"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这株枫树是已故 Henry Hohman 晚期选育的品种之一。Hohman 善于从中筛选出适合繁殖的优良植株，这也是他广为人知的长处之一。'The Bishop' 的叶片为七裂，分裂较深，紫红色，形态介于 Palmatum Group 与 Matsumurae Group 之间。叶长 6-7 厘米，宽 7-8 厘米，叶柄纤细，长 4-5 厘米。裂片向外伸展，自叶基向上约四分之三处分裂。每个裂片呈长椭圆状卵形，渐尖成细长尖端。叶缘均匀且细密具锯齿。春季紫红色鲜明，直到夏末才略带古铜色。秋色为极佳的深红色。该品种生长直立，长势强健且耐寒，成熟时可达 4 米高。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

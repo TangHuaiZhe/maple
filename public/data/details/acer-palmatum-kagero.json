@@ -1,0 +1,101 @@
+{
+  "id": "acer-palmatum-kagero",
+  "canonical_key": "kagero",
+  "canonical_name": "Kagero\\",
+  "display_name": "Kagero\\",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Kagero\\'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum",
+    "Amoenum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "The distinguishing feature of this outstanding cultivar is the predominantly yellow variegation instead of white as in most variegates. The leaves are deeply divided into five to seven radiating lobes. Each lobe 'Kagiri is elongate-ovate with a long, tapering tip and Palmatum finely toothed margins. The variegations are irdifferent regular, blending in various patterns on a rich leaf green base. The light markings may consist of gate-ovate, only a few irregular specks on a leaf, small light slightly blotches, or solid areas. Sometimes the colors ocnotched. cupy only half the lobe or entirely green leaves degrees, occur, and occasionally solid yellow leaves. This gation. fairly strong, hardy but slow-growing, upright color cultivar forms a short tree up to 13 ft. (4 m) tall. bright The name means \"gossamer.\" are NISHIKI"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Kagero\\",
+      "page_range": "154",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 53762,
+      "detail_url": "https://www.rhs.org.uk/plants/53762/acer-palmatum-kagero-(a-v)/details",
+      "botanical_name": "Acer palmatum 'Kagero' (A/v)",
+      "description": ""
+    },
+    {
+      "source": "timber_press",
+      "name": "Kagero¯",
+      "page_range": "85-88",
+      "group": "Amoenum",
+      "color_group": "variegated",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Kagero' (A/v)",
+    "Kagero",
+    "Kagero\\",
+    "Kagero¯"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Kagero' (A/v)",
+    "Acer palmatum 'Kagero\\'",
+    "Kagero",
+    "Kagero\\",
+    "Acer palmatum 'Kagero¯'",
+    "Kagero¯"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 53762,
+    "rhs_url": "https://www.rhs.org.uk/plants/53762/acer-palmatum-kagero-(a-v)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Kagero' (A/v)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Kagero"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "该优良品种最突出的特征，是其以黄色斑锦为主，而非常见斑叶品种那样以白色斑锦为主。叶片深裂，形成 5 至 7 枚放射状裂片。每个裂片细长卵形，先端渐尖且较长，叶缘具细锯齿。斑锦在浓绿色叶底上呈现多种不规则图案，可表现为零星不规则浅色小点、小型浅色斑块，或较大的整片浅色区域。有时浅色仅占裂片的一半；也会出现全绿色叶，偶尔可见纯黄色叶。该品种树势较强、耐寒，但生长缓慢，株型直立，最终可形成高约 13 英尺（4 米）的小乔木。其名称意为“薄纱”。 'Acer palmatum 'Kagiri nishiki'' 亦有记载：该品种属斑叶类。每片小叶以及其 5 至 7 个裂片的形态略有变化。典型裂片为细长卵形，先端渐尖成锐点。叶缘具不规则细锯齿，部分仅轻微缺刻。裂片在不同程度上略呈镰刀形，这与斑锦程度有关。叶柄纤细并带粉色。叶面为带蓝调的深绿色，而非明亮绿色。各裂片边缘有宽窄不一的浅奶油色镶边。春季斑纹常带粉红或玫瑰色晕染，夏季转为奶油色，秋季则变为鲜艳的玫瑰深红色。植株生长较为疏朗但直立，高可达 26 英尺（8 米）。与"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

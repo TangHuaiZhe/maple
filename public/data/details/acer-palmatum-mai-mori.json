@@ -1,0 +1,97 @@
+{
+  "id": "acer-palmatum-mai-mori",
+  "canonical_key": "mai mori",
+  "canonical_name": "Mai mori",
+  "display_name": "Mai mori",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Mai mori'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "Imported from Japan, this cultivar is an interesting addition to the 'Butterfly' group of variegated palmatums. The leaves are similar in shape to 'Butterfly' but slightly larger with broader lobes. The variegation is light cream to yellow on medium green to dark gray green and ocusually more or less straight, at least when five lobed. The lobes are ovate, 7-10 mm wide, with tapered tips, and divided up to three-quarter of the way to the leaf base. The margins are distinctly and regularly double toothed. On vigorous juvenile shoots the leaves are larger, up to 6 cm long and 7 cm wide, more regularly palmate and without variegation. The slender petioles vary from 1 to 4.5 cm long. This plant forms a compact densely branched small tree, more or less as wide as tall. If the soil is too fertile, 'Mai mori' loses its variegation, as do several other variegates."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Mai mori",
+      "page_range": "101-103",
+      "group": "Palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 196584,
+      "detail_url": "https://www.rhs.org.uk/plants/196584/acer-palmatum-mai-mori-(p-v)/details",
+      "botanical_name": "Acer palmatum 'Mai-mori' (P/v)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Mai mori",
+      "page_range": "168-169",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Mai-mori' (P/v)",
+    "Mai mori",
+    "Mai-mori"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Mai mori'",
+    "Acer palmatum 'Mai-mori' (P/v)",
+    "Mai mori",
+    "Mai-mori"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 196584,
+    "rhs_url": "https://www.rhs.org.uk/plants/196584/acer-palmatum-mai-mori-(p-v)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Mai-mori' (P/v)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Mai-mori"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "该品种自日本引入，是斑叶掌状枫 ‘Butterfly’ 类群中颇具特色的一个补充品种。叶形与 ‘Butterfly’ 相似，但略大，裂片更宽。斑锦为浅奶油色至黄色，分布在中绿色至深灰绿色底色上；叶片在五裂时通常大体较为平直。裂片卵形，宽 7-10 毫米，先端渐尖，自叶基向上分裂达约四分之三。叶缘具明显而规则的重锯齿。生长旺盛的幼年枝条上，叶片更大，可达长 6 厘米、宽 7 厘米，掌状更规则，且不具斑锦。细长叶柄长 1-4.5 厘米。植株形成紧凑、分枝密集的小乔木，冠幅与株高大致相近。若土壤肥力过高，‘Mai mori’ 会像其他一些斑叶品种一样失去斑锦。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

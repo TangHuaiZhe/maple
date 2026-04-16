@@ -1,0 +1,122 @@
+{
+  "id": "acer-palmatum-yuri-hime",
+  "canonical_key": "yuri hime",
+  "canonical_name": "Yuri hime",
+  "display_name": "Yuri hime",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Yuri hime'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The foliage of this little cultivar, one of the dwarfest, lies closely over the shrub, due to the short annual growth leaf base. They are very narrowly elongate-ovate and terminate in a very long, tapered point. The delicate edges are finely toothed. Long, thin petioles, equal to the length of the leaf blade, allow the leaves to layer down over one another. Leaf color is a fairly strong but light green which holds well during the growing season but does not produce an outstanding fall color. This tiny shrub is difficult to propagate since the amount of annual growth is quite limited. Although it is quite small, it seems very hardy and takes full sun and exposure. When available, it is a gem for miniature landscapes, such as alpine gardens."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Yuri hime",
+      "page_range": "238",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 283127,
+      "detail_url": "https://www.rhs.org.uk/plants/283127/acer-palmatum-yuri-hime-(dw)/details",
+      "botanical_name": "Acer palmatum 'Yuri-hime' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Yuri-hime' (Dw)",
+    "Yuri hime",
+    "Yuri-hime"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Yuri hime'",
+    "Acer palmatum 'Yuri-hime' (Dw)",
+    "Yuri hime",
+    "Yuri-hime"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 283127,
+    "rhs_url": "https://www.rhs.org.uk/plants/283127/acer-palmatum-yuri-hime-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Yuri-hime' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Yuri-hime"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这个小型品种是最矮生的品种之一，因年生枝条节间极短，叶片紧密覆于株丛表面。叶片形态为非常狭长的延长卵形，先端渐尖并拉成长长的尖尾。细致的叶缘具细锯齿。叶柄细长，长度与叶片近乎相等，使叶片能够层层下覆、彼此叠压。叶色为较鲜明但偏浅的绿色，生长季保持性良好，但秋色并不特别出众。由于每年生长量十分有限，这种极小型灌木较难繁殖。虽然植株十分小巧，但看起来相当耐寒，也能耐全日照及开阔暴露环境。若能获得，是微型景观如高山园中的珍品。"
+  },
+  "has_mrmaple": false
+}

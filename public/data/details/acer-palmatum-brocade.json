@@ -1,0 +1,123 @@
+{
+  "id": "acer-palmatum-brocade",
+  "canonical_key": "brocade",
+  "canonical_name": "Brocade",
+  "display_name": "Brocade",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Brocade'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dissectum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "'Brocade' is another of the very fine red dissectums and is similar to 'Ornatum'. The differences in many of the to a green red and bronze later in the summer. It is a pleasant bronzing, not as harsh as some other cultivars. Fall coloration is usually bright red to crimson blended softly with orange. The multidissected sevenor ninelobed leaves are of medium size, 6-10 cm long and at least as wide. This form cascades and eventually makes a large rounded bush 3 m high and 3.5 m wide."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Brocade",
+      "page_range": "127",
+      "group": "dissectum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 45044,
+      "detail_url": "https://www.rhs.org.uk/plants/45044/acer-palmatum-brocade-(d)/details",
+      "botanical_name": "Acer palmatum 'Brocade' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Brocade'",
+    "Acer palmatum 'Brocade' (D)",
+    "Brocade"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Brocade'",
+    "Acer palmatum 'Brocade' (D)",
+    "Brocade"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 45044,
+    "rhs_url": "https://www.rhs.org.uk/plants/45044/acer-palmatum-brocade-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Brocade' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [
+      "Acer palmatum 'Brocade'"
+    ],
+    "cultivar_names": [
+      "Brocade"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "'Brocade' 是另一种非常优秀的红叶羽毛枫类型，与 'Ornatum' 相似。两者在许多方面的差异较为细微；其叶色到夏季后期会逐渐转为带绿色调的红铜色。这种铜化色泽柔和悦目，不像某些其他品种那样生硬。秋色通常为鲜红至深绯红，并柔和混有橙色。叶片深裂多次，通常具 7 或 9 裂，中等大小，长 6-10 厘米，宽度至少相当。该品种枝姿下垂开展，最终形成大型圆拱形灌木，高约 3 米，宽约 3.5 米。"
+  },
+  "has_mrmaple": false
+}

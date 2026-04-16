@@ -1,0 +1,101 @@
+{
+  "id": "acer-palmatum-yu-gure",
+  "canonical_key": "yu gure",
+  "canonical_name": "Yu\\gure",
+  "display_name": "Yu\\gure",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Yu\\gure'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum",
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "lobes with tapering, pointed tips. The margins margins. are slightly and irregularly toothed. The color is a reaches strong, bold maroon to dark red, darkest in full branches. sun. Variegation consists of patches and blobs of a lighter pink-red. The foliage is pleasant and at- 'Yuri tractive, even with no variegation present. This Dwarf good dependable red cultivar forms a sturdy this medium-sized tree reaching 16-20 ft. (5-6 m) feathers. tall. The name means \"evening glow.\" narrowly deeply 'Yu¯ gure' points. The crimson spring foleafstalks liage of this very old cultivar turns to rust-red with strong green hues in the summer, becoming red-crimson standing. in the fall. The medium-sized leaves are moderately vars, deeply separated into seven ovate lobes. Each lobe sun terminates in a sharp point and has lightly toothed scapes, This hardy, upright round-topped tree 16 ft. (5 m) or so tall and has very slender The name means \"twilight.\" hime' Group—green. The foliage lies closely over small shrub, appearing as a covering of The small leaves have five very long, elongate-ovate lobes. The lobes are separated and terminate in long, tapered The margins are finely toothed. The thin are as long as the leaves. Leaf color is a light green, but the fall color is not out- Although it is one of the smaller culti-"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Yu\\gure",
+      "page_range": "237-238",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 87419,
+      "detail_url": "https://www.rhs.org.uk/plants/87419/acer-palmatum-yugure-(m)/details",
+      "botanical_name": "Acer palmatum 'Yūgure' (M)",
+      "description": ""
+    },
+    {
+      "source": "timber_press",
+      "name": "Yu¯ GURE",
+      "page_range": "189-193",
+      "group": "Matsumurae",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Yūgure' (M)",
+    "Yu\\gure",
+    "Yūgure",
+    "Yu¯ GURE"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Yu\\gure'",
+    "Acer palmatum 'Yūgure' (M)",
+    "Yu\\gure",
+    "Yūgure",
+    "Acer palmatum 'Yu¯ GURE'",
+    "Yu¯ GURE"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 87419,
+    "rhs_url": "https://www.rhs.org.uk/plants/87419/acer-palmatum-yugure-(m)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Yūgure' (M)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Yūgure"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "裂片先端渐尖。叶缘略具不规则锯齿。叶色为浓重而鲜明的栗红至深红色，在全日照条件下颜色最深。斑锦表现为较浅的粉红红色斑块与色团。即使没有出现斑锦，其叶姿也依然悦目而富有观赏性。这一优良、稳定的红叶品种可形成健壮的中型树，树高可达 16–20 英尺（5–6 米）。其名意为“晚霞”。 'Yu¯gure'：这是一个非常古老的品种，春季叶色为深红，夏季转为带明显绿色调的锈红色，秋季又变为红绯色。中等大小的叶片通常深裂为 7 枚卵形裂片。每个裂片先端锐尖，边缘具轻微锯齿。这一耐寒品种树形直立，树冠圆整，树高约 16 英尺（5 米），枝条非常纤细。其名意为“黄昏”。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

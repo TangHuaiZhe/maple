@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-kaba",
+  "canonical_key": "kaba",
+  "canonical_name": "Kaba",
+  "display_name": "Kaba",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Kaba'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This strange-leafed small compact upright dwarf grows to about 2 ft. (60 cm) in five years or so. It resembles a dwarf form of 'Wabito' with similar dark green leaves. These are small and very deeply divided into fine narrow almost straplike lobes. The often red-tinged margins are unevenly and bluntly toothed and crinkled. The name means \"hippopotamus\", a play on the name of the English nursery from where it originated."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Kaba",
+      "page_range": "85",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 181354,
+      "detail_url": "https://www.rhs.org.uk/plants/181354/acer-palmatum-kaba-(dw)/details",
+      "botanical_name": "Acer palmatum 'Kaba' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Kaba' (Dw)",
+    "Kaba"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Kaba'",
+    "Acer palmatum 'Kaba' (Dw)",
+    "Kaba"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 181354,
+    "rhs_url": "https://www.rhs.org.uk/plants/181354/acer-palmatum-kaba-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Kaba' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Kaba"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这是一个叶形奇特的小型、紧凑、直立性矮生品种，约 5 年可长至 2 英尺（60 厘米）左右。它类似于 'Wabito' 的矮化型，叶色同样为深绿色。叶片较小，分裂极深，裂成纤细狭长、近似带状的裂片。常带红晕的叶缘具不规则而钝的齿，并略呈皱褶。其名称意为“河马”，是对其起源英国苗圃名称的双关。"
+  },
+  "has_mrmaple": false
+}

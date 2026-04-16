@@ -1,0 +1,148 @@
+{
+  "id": "acer-palmatum-green-globe",
+  "canonical_key": "green globe",
+  "canonical_name": "Green Globe",
+  "display_name": "Green Globe",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Green Globe'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dissectum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "As the name 'Green Globe' implies, this green dissectum from the Fratelli Gilardelli Nursery, near Milan, Italy, tends to form a rounded ball shape. It does not have the pendulous habit characteristic of most dissectums. The spring coloring of the emerging young leaves is attractive, the initial rose color turning to shades of creamy white and quickly becoming a fresh emerald green. This color is held throughout the summer until turning yellow in the fall. The shoots and petioles are an attractive medium green. The seven-lobed deeply dissected leaves are 7-9 cm long and 9-10 cm wide. The lobes are divided to the leaf base, narrowing to the widths of the midvein for approximately 1 cm to the base. The lobes themselves are fairly deeply incised to about 2-3 mm from the midvein. These sublobes have narrow toothed margins. The petioles are 2-3 cm long. This vigorous rounded cultivar is estimated to reach a height of 4-5 m at maturity, with a spread of 3-4 m. Because 'Green Globe' is rounded rather than cascading, the graft is low down on the understock, not as high as usual with dissectum cultivars. This plant has also been named"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Green Globe",
+      "page_range": "71",
+      "group": "Dissectum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 117420,
+      "detail_url": "https://www.rhs.org.uk/plants/117420/acer-palmatum-green-globe-(d)/details",
+      "botanical_name": "Acer palmatum 'Green Globe' (D)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Green Globe",
+      "page_range": "144",
+      "group": "dissectum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Green Globe' (D)",
+    "Green Globe",
+    "Japanese maple 'Green Globe'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Green Globe'",
+    "Acer palmatum 'Green Globe' (D)",
+    "Green Globe",
+    "Japanese maple 'Green Globe'"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 117420,
+    "rhs_url": "https://www.rhs.org.uk/plants/117420/acer-palmatum-green-globe-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Green Globe' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Green Globe'"
+    ],
+    "cultivar_names": [
+      "Green Globe"
+    ],
+    "description": "A deciduous small tree about 3m tall and wide, with a naturally rounded habit, and finely dissected, feathery 5 to 7-lobed leaves, pinkish-bronze when emerging in spring, becoming green in summer, then golden yellow to orange in autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Patio/Container Plants",
+      "hort_group_description": "Acers in this dissectum group have fine, feathery, deeply divided leaves with finely serrated edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市庭院花园、乡村风或自然式花园、花境与花坛、庭院容器栽培",
+      "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "落叶性小乔木，高、宽约 3 米，树形自然圆整。叶片细裂如羽毛，具 5 至 7 裂，春季萌发时呈粉铜色，夏季转绿，秋季变为金黄色至橙色。"
+  },
+  "descriptions_zh": {
+    "preferred": "正如其名 'Green Globe' 所示，这一来自意大利米兰附近 Fratelli Gilardelli 苗圃的绿色线裂叶品种，倾向形成圆整的球状树形。它不具多数 dissectum 类品种典型的下垂习性。春季新叶初展时色彩迷人，最初的玫瑰色随后转为乳白色调，并很快变成清新的祖母绿色。整个夏季均能保持此色，秋季转黄。新梢和叶柄为颇具观赏性的中绿色。叶片 7 裂、深裂，长 7-9 厘米，宽 9-10 厘米。裂片一直分裂至叶基，靠近基部约 1 厘米处收窄至与中脉近似的宽度。各主裂片本身又深裂，距中脉仅约 2-3 毫米。这些次裂片边缘具细锯齿。叶柄长 2-3 厘米。该品种生长旺盛、树形圆整，估计成株高 4-5 米，冠幅 3-4 米。由于 'Green Globe' 为圆整树形而非瀑布状下垂，因此其嫁接位较低，不像一般 dissectum 品种那样接位较高。该品种另有名称"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

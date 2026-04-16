@@ -1,0 +1,118 @@
+{
+  "id": "acer-carpinifolium-mino-yatsubusa",
+  "canonical_key": "mino yatsubusa",
+  "canonical_name": "Mino yatsubusa",
+  "display_name": "Mino yatsubusa",
+  "chinese_name": null,
+  "scientific_name": "Acer carpinifolium 'Mino yatsubusa'",
+  "species": "Acer carpinifolium",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "The unusual, unmaple-like leaves are three-lobed and the long narrow central lobe has a sharply pointed tip and irregularly notched margins which tend to turn up to form a trough. The short stubby side lobes are near the base and radiate outwards from the leafstalk. The shiny rich green leaves turn brilliant scarlet and orange in the fall. This hardy cultivar forms a dense, rounded small shrub."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Mino yatsubusa",
+      "page_range": "194",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 167954,
+      "detail_url": "https://www.rhs.org.uk/plants/167954/acer-buergerianum-mino-yatsubusa/details",
+      "botanical_name": "Acer buergerianum 'Mino-yatsubusa'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer buergerianum 'Mino-yatsubusa'",
+    "Mino yatsubusa",
+    "Mino-yatsubusa"
+  ],
+  "search_terms": [
+    "Acer buergerianum 'Mino-yatsubusa'",
+    "Acer carpinifolium",
+    "Acer carpinifolium 'Mino yatsubusa'",
+    "Mino yatsubusa",
+    "Mino-yatsubusa"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 167954,
+    "rhs_url": "https://www.rhs.org.uk/plants/167954/acer-buergerianum-mino-yatsubusa/details",
+    "match_method": "cultivar",
+    "botanical_name": "Acer buergerianum 'Mino-yatsubusa'",
+    "species_name": "Acer buergerianum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Mino-yatsubusa"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "其叶形不寻常，不似典型槭树叶，为三裂。中央裂片狭长，先端尖锐，叶缘具不规则缺刻，且常向上卷起形成槽状；两侧裂片短而粗钝，靠近叶基，并自叶柄处向两侧展开。叶片浓绿而有光泽，秋季转为鲜艳的猩红色与橙色。该品种耐寒，形成致密、圆整的小型灌木。"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,146 @@
+{
+  "id": "acer-palmatum-volubile",
+  "canonical_key": "volubile",
+  "canonical_name": "Volubile",
+  "display_name": "Volubile",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Volubile'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar has small, palmate, seven-lobed leaves. The two basal lobes are quite small. The leaf tends to cup upward from the petiole. The leaves vary from 3.5 to 5 cm long and from 4 to 6 cm wide, with thin 2-cm long petioles. Each lobe is triangular-ovate, terminating in a narrow point. The margins have light prominent teeth. The leaf color in the spring is a bright yellow green. The tone is variable but not markedly so. The foliage darkens somewhat during the summer and withstands full sun very well. The fall colors are quite brilliant and range from yellow into rusty rose and on to crimson. The twig color becomes a rusty red. 'Volubile' is very similar to"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Volubile",
+      "page_range": "231",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 67818,
+      "detail_url": "https://www.rhs.org.uk/plants/67818/acer-palmatum-volubile-(p)/details",
+      "botanical_name": "Acer palmatum 'Volubile' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Volubile' (P)",
+    "Japanese maple 'Volubile'",
+    "Volubile"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Volubile'",
+    "Acer palmatum 'Volubile' (P)",
+    "Japanese maple 'Volubile'",
+    "Volubile"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 67818,
+    "rhs_url": "https://www.rhs.org.uk/plants/67818/acer-palmatum-volubile-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Volubile' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Volubile'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Volubile"
+    ],
+    "description": "A delicately upright, deciduous tree about 6m tall at maturity, with small, palmate, 7-lobed leaves to 6cm wide with prominently toothed margins, the leaves bright yellow-green in spring, darkening in summer then brilliant yellow, rust red and crimson in autumn",
+    "dimensions": {
+      "height": "4-8 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "height": "4-8 米"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市或庭院花园、乡村风或自然式花园",
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "一株姿态轻盈、直立生长的落叶乔木，成熟时高约 6 米。叶片较小，掌状七裂，宽可达 6 厘米，叶缘具明显锯齿；春季叶色鲜黄绿色，夏季加深，秋季则转为亮黄色、锈红色和绯红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "该品种具小型掌状七裂叶，基部两裂较小。叶片自叶柄处略向上杯状弯曲。叶长 3.5-5 厘米，宽 4-6 厘米，叶柄细，长约 2 厘米。每个裂片为三角状卵形，先端渐尖。叶缘具较浅但明显的锯齿。春季叶色为鲜黄绿色，色调虽有变化，但差异并不十分显著。夏季叶色略微加深，且非常耐全日照。秋色相当鲜艳，可由黄色转为锈玫瑰色，再至绯红色。枝条也会转为锈红色。‘Volubile’ 在叶形、大小以及日文名称上与 ‘Aoyagi’ 十分相似，如 ‘Aoba fue’、‘Aoba fuke’、‘Aobano-fue’ 和 ‘Aoba-no-fuye’。"
+  },
+  "has_mrmaple": false
+}

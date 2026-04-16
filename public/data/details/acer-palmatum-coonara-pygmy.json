@@ -1,0 +1,143 @@
+{
+  "id": "acer-palmatum-coonara-pygmy",
+  "canonical_key": "coonara pygmy",
+  "canonical_name": "Coonara Pygmy",
+  "display_name": "Coonara Pygmy",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Coonara Pygmy'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "Dense and round, up to 5 ft. (1.5 m) tall and broad, this beautiful little bush has bright green leaves. The small leaves are fivelobed, each lobe broad-ovate and acuminate, with a sharp tip. The margins are toothed, sometimes bluntly so. The leaves turn a beautiful pastel yellow-orange-pink before changing to a Acer bright deep pink in the fall, perfectly matching Vertrees. PYGMY' the deep coral-pink shoots. 'Coonara Pygmy' forms a natural globe shape without much pruning, is vigorous without being unruly, and has attractive foliage in all seasons. It is also valuable as a bonsai plant. Otis."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Coonara Pygmy",
+      "page_range": "58-59",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 83670,
+      "detail_url": "https://www.rhs.org.uk/plants/83670/acer-palmatum-coonara-pygmy-(dw)/details",
+      "botanical_name": "Acer palmatum 'Coonara Pygmy' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Coonara Pygmy' (Dw)",
+    "Coonara Pygmy",
+    "Japanese maple 'Coonara Pygmy'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Coonara Pygmy'",
+    "Acer palmatum 'Coonara Pygmy' (Dw)",
+    "Coonara Pygmy",
+    "Japanese maple 'Coonara Pygmy'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 83670,
+    "rhs_url": "https://www.rhs.org.uk/plants/83670/acer-palmatum-coonara-pygmy-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Coonara Pygmy' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Coonara Pygmy'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Coonara Pygmy"
+    ],
+    "description": "Rounded, deciduous, dwarf bush about 1.5m in height and width, with a dense cover of 5-lobed bright green leaves, 2cm long and wide on old wood and 3-4cm long on new stems, turning colours of yellow-orange then deep pink in autumn. Inconspicuous red-purple flowers in spring may be followed by winged, red fruits",
+    "dimensions": {
+      "height": "1-1.5 metres",
+      "spread": "1-1.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Rock Garden, Patio/Container Plants",
+      "hort_group_description": "Acers in this dwarf group are compact and slow-growing, making them ideal for pots and containers"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. Suits container cultivation but attention to watering is needed in dry spells during the growing season, and suits bonsai cultivation . See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , if necessary, from late autumn to midwinter only",
+      "propagation": "Propagate by layering in autumn, grafting in late winter or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "这一矮生类群的 Acer 株形紧凑、生长缓慢，因此非常适合盆栽和容器栽培。",
+      "suggested_uses": "城市/庭院花园、乡村/自然式花园、花境与花坛、岩石园、庭院/容器植物"
+    },
+    "care": {
+      "propagation": "可于秋季行压条繁殖，于晚冬进行嫁接，或采用软枝扦插繁殖。",
+      "cultivation": "宜栽植于保水但排水良好的土壤中，并选择避风位置。叶色在半阴环境下表现最佳；若土壤湿润稳定，也可耐全日照。土壤缺水或暴晒过度都可能导致叶缘焦枯。适合容器栽培，但生长季干旱时需特别注意浇水；也适合制作盆景。参见 Japanese maples cultivation",
+      "pruning": "修剪组 1；如有需要，仅可在深秋至仲冬期间修剪。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
+    },
+    "description": "落叶性矮生灌木，株形圆整，高约 1.5 米、冠幅约 1.5 米，枝叶稠密。叶鲜绿色，5 裂，老枝上的叶长宽约 2 厘米，新梢上的叶长 3-4 厘米。秋季叶色先转黄橙色，随后变为深粉色。春季开不显眼的红紫色花，之后可能结带翅的红色果实。"
+  },
+  "descriptions_zh": {
+    "preferred": "株形紧密圆整，高和冠幅均可达 5 英尺（1.5 米），是一种非常优美的小型灌木，叶片鲜绿色。小叶为五裂，裂片宽卵形并具渐尖先端，尖端锐利。叶缘具锯齿，有时较钝。叶片先转为柔和的粉彩黄、橙、粉色，入秋后再变为鲜亮的深粉色，与其深珊瑚粉色的新梢相得益彰，和 Vertrees 的描述一致。‘Coonara Pygmy’ 几乎无需修剪即可自然形成球形树冠，生长健旺而不紊乱，四季叶色均具观赏性，也很适合作盆景材料。Otis."
+  },
+  "has_mrmaple": false
+}

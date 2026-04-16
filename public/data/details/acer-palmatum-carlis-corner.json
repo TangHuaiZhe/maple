@@ -1,0 +1,116 @@
+{
+  "id": "acer-palmatum-carlis-corner",
+  "canonical_key": "carlis corner",
+  "canonical_name": "Carlis Corner",
+  "display_name": "Carlis Corner",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Carlis Corner'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "Gregory. Acer palmatum"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Carlis Corner",
+      "page_range": "57",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 206484,
+      "detail_url": "https://www.rhs.org.uk/plants/206484/acer-palmatum-carlis-corner-(dw)/details",
+      "botanical_name": "Acer palmatum 'Carlis Corner' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Carlis Corner' (Dw)",
+    "Carlis Corner"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Carlis Corner'",
+    "Acer palmatum 'Carlis Corner' (Dw)",
+    "Carlis Corner"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 206484,
+    "rhs_url": "https://www.rhs.org.uk/plants/206484/acer-palmatum-carlis-corner-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Carlis Corner' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Carlis Corner"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "Gregory. Acer palmatum"
+  },
+  "has_mrmaple": false
+}

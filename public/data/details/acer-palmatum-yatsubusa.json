@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-yatsubusa",
+  "canonical_key": "yatsubusa",
+  "canonical_name": "Yatsubusa",
+  "display_name": "Yatsubusa",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Yatsubusa'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "Yatsubusa is a general term meaning \"dwarf\" in Japanese. It can be compared with the general term dissectum, embracing all the relations and cultivars of this type. Several plants have been labeled 'Yatsubusa' as a cultivar name in various collections and arboreta. They vary in size of plant, leaves, and rate of growth. Although each is truly a yatsubusa, this term should not be used as a cultivar name. There are many named yatsubusa clones which are correctly designated with cultivar status, such as"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Yatsubusa",
+      "page_range": "236",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 181374,
+      "detail_url": "https://www.rhs.org.uk/plants/181374/acer-palmatum-yatsubusa-(dw)/details",
+      "botanical_name": "Acer palmatum 'Yatsubusa' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Yatsubusa' (Dw)",
+    "Yatsubusa"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Yatsubusa'",
+    "Acer palmatum 'Yatsubusa' (Dw)",
+    "Yatsubusa"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 181374,
+    "rhs_url": "https://www.rhs.org.uk/plants/181374/acer-palmatum-yatsubusa-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Yatsubusa' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Yatsubusa"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "Yatsubusa 在日语中是表示“矮生”的通称。它可与通称 dissectum 相比较，后者涵盖了这一类型的全部相关类群与品种。在不同收藏和树木园中，曾有若干植物被直接标注为品种名 'Yatsubusa'。这些植株在株型大小、叶片和生长速度上各有差异。尽管它们都确属 yatsubusa 类型，但这一术语不应作为正式品种名使用。已有许多具正式品种地位的 yatsubusa 命名克隆，例如 'Hime yatsubusa'、'Sekka yatsubusa' 和 'Shishi yatsubusa'。 Acer palmatum 的 yatsubusa 类型通常可概括为：叶片较小，掌状，具五裂或七裂；裂片短卵形，通常分裂超过叶基的一半。每个裂片通常终止于短尖头，叶缘通常具明显锯齿。叶片长 2-4 厘米，且春季色彩很快褪去，转为夏季的纯绿色。秋色为黄色或红色的混合，有时同一株上同时出现。所有 yatsubusa 类型都形成小型、紧凑、近灌木状的植株。有些选育品种生长较为直立，另一些则倾向于横向开展。它们都很受盆景爱好者欢迎，不仅因其矮生特性，也因其能够形成大量细小侧枝，从而构成致密株形。"
+  },
+  "has_mrmaple": false
+}

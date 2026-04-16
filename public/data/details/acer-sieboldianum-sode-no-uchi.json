@@ -1,0 +1,115 @@
+{
+  "id": "acer-sieboldianum-sode-no-uchi",
+  "canonical_key": "sode no uchi",
+  "canonical_name": "Sode-no-uchi",
+  "display_name": "Sode-no-uchi",
+  "chinese_name": null,
+  "scientific_name": "Acer sieboldianum 'Sode-no-uchi'",
+  "species": "Acer sieboldianum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {
+    "preferred": "This dwarf cultivar has the smallest leaves of any form of the species. The foliage is a bright, light green which holds well through the summer. Fall colors are mainly bright yellow with red tones. The seven to nine lobes radiate evenly outward and are separated at least halfway to the leaf base. This attractive little plant tends to form a rounded bush, making it popular for bonsai in Japan as it requires little pruning. It fits well into many types of planting, particularly in alpine gardens and in containers on patios. Acer tataricum subsp. ginnala Amur maple The Amur maple is one of the hardiest small maples. It forms a multistemmed, dome-shaped large bush or small tree, reaching 26 ft. (8 m) or so high. The tree is quite trouble-free and adapts to most cultural conditions. The three-lobed small to medium-sized leaves have an oblong-triangular center lobe which is much more prominent and longer than the two short side lobes. The lobe tips are pointed, and the margins are coarsely toothed. The foliage is bright green all season, durable, and withstands full sun. Fall color is a spectacular display of bright scarlet. A bonus is the copious production of bunches of bright red fruits beginning in early summer. The Amur maple grows wild in northeastern China, Manchuria, North Korea, and the islands of Japan. The subspecific name ginnala is also a local name for this maple."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Sode-no-uchi",
+      "page_range": "209",
+      "group": null,
+      "color_group": null,
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 45303,
+      "detail_url": "https://www.rhs.org.uk/plants/45303/acer-sieboldianum-sode-no-uchi/details",
+      "botanical_name": "Acer sieboldianum 'Sode-no-uchi'",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer sieboldianum 'Sode-no-uchi'",
+    "Sode-no-uchi"
+  ],
+  "search_terms": [
+    "Acer sieboldianum",
+    "Acer sieboldianum 'Sode-no-uchi'",
+    "Sode-no-uchi"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 45303,
+    "rhs_url": "https://www.rhs.org.uk/plants/45303/acer-sieboldianum-sode-no-uchi/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer sieboldianum 'Sode-no-uchi'",
+    "species_name": "Acer sieboldianum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Sode-no-uchi"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这个矮生栽培品种拥有该种各类型中最小的叶片。叶色鲜亮浅绿，整个夏季保持良好。秋色以明亮的黄色为主，并带红色色调。叶片有 7 至 9 个裂片，均匀向外放射，至少裂至叶基的一半。该品种株形优美，通常形成圆整灌丛，在日本很受盆景爱好者欢迎，因为几乎无需修剪。它适合多种栽植方式，尤其适用于高山园和庭院容器栽培。 Acer tataricum subsp. ginnala Amur maple 东北槭是最耐寒的小型槭树之一。其通常形成多干、穹顶状的大灌木或小乔木，高可达约 26 英尺（8 米）。该树种栽培上较少出问题，且能适应大多数生长条件。其小至中等大小的叶片为 3 裂，中间裂片呈长圆三角形，明显比两侧短裂片更突出且更长。裂片先端尖，叶缘具粗齿。生长季叶色始终鲜绿，质地耐久，并能耐全日照。秋色极为壮观，呈鲜猩红色。另一个优点是从初夏开始会大量结成串的鲜红色果实。东北槭原产于中国东北、满洲、朝鲜北部及日本列岛。亚种名 ginnala 同时也是这种槭树的地方名称。"
+  },
+  "has_mrmaple": false
+}

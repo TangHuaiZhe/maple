@@ -1,0 +1,97 @@
+{
+  "id": "acer-palmatum-masu-murasaki",
+  "canonical_key": "masu murasaki",
+  "canonical_name": "Masu murasaki",
+  "display_name": "Masu murasaki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Masu murasaki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This very intense red cultivar shows best when in full sun. The red does not have the green undertone of many similar cultivars, but shades more toward purple. The color is difficult to describe adequately. When grown close to similar cultivars, its unique color is apparent. In full shade, the leaves have almost a black-red tone with deep green shading in the center of the lobes. The petioles and veins are also bright red. The leaf has seven lobes separating two-thirds of the way to the leaf base. The leaf is 5-7 cm long and 6-8 cm wide. Each lobe is ovate-acuminate but with an elongated tip. The margins are double serrated. The petioles are 1-2 cm long. This vigorous upright plant grows to about 7 m high eventually. The name is sometimes misspelled"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Masu murasaki",
+      "page_range": "104",
+      "group": "Palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 135014,
+      "detail_url": "https://www.rhs.org.uk/plants/135014/acer-palmatum-masamurasaki/details",
+      "botanical_name": "Acer palmatum 'Masamurasaki'",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Masu murasaki",
+      "page_range": "171",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Masamurasaki'",
+    "Masamurasaki",
+    "Masu murasaki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Masamurasaki'",
+    "Acer palmatum 'Masu murasaki'",
+    "Masamurasaki",
+    "Masu murasaki"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 135014,
+    "rhs_url": "https://www.rhs.org.uk/plants/135014/acer-palmatum-masamurasaki/details",
+    "match_method": "manual_override",
+    "botanical_name": "Acer palmatum 'Masamurasaki'",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Masamurasaki"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这个红色极为浓烈的栽培品种，在全日照条件下表现最佳。它的红色不像许多相似品种那样带绿色底调，而是更偏向紫色。这种色彩很难准确描述；若与近似品种并植，其独特色泽便十分明显。全阴环境下，叶片几乎呈黑红色，裂片中央带深绿色阴影。叶柄和叶脉也为鲜红色。叶片具七裂，裂深达叶基约三分之二。叶长 5-7 厘米，宽 6-8 厘米。各裂片为渐尖卵形，但先端更为延长。叶缘为重锯齿。叶柄长 1-2 厘米。该品种生长健旺、株形直立，最终可长至约 7 米高。其名称有时被误写为 'Matsumurae saki' 或 'Musa murasaki'。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

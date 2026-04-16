@@ -1,0 +1,195 @@
+{
+  "id": "acer-palmatum-hanami-nishiki",
+  "canonical_key": "hanami nishiki",
+  "canonical_name": "Hanami nishiki",
+  "display_name": "Hanami nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Hanami nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This maple is one of the rarer dwarf forms and is also one of the smallest-leaved forms. Its name means \"flower-viewing tapestry.\" The five-lobed, occasionally three-lobed, light yellow-green leaves vary from 1.5 to 2 cm long and wide. The edges and tips are lightly bronzed in the spring. The five points radiate out, and the lobes separate about two-thirds of the way to the leaf base. Each lobe sharply tapers to a point with margins lightly toothed. The petioles are very thin, delicate, and less than 1 cm long. The leaves appear in the spring with an orange-red tint, particularly along the margins, and later take on a uniform light to yellowish green. Occasionally, the leaves on older wood show minute pinpointing of light varie- Corvallis and can be expected to grow just a few centimeters per year. In the garden, plants generally grow 3-8 cm tall per year, but when force-fed they have produced shoots up to 12 cm long. The plant can eventually reach 2 m tall and wide. This maple is one of the real gems of the dwarf group. It is slightly delicate to grow and difficult to propagate."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-hanami-nishiki/01-bape01523.jpg",
+      "/rhs-images/acer-palmatum-hanami-nishiki/02-bape01522.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-hanami-nishiki/01-bape01523.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-hanami-nishiki/01-bape01523.jpg",
+      "/rhs-images/acer-palmatum-hanami-nishiki/02-bape01522.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Hanami nishiki",
+      "page_range": "146",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 84789,
+      "detail_url": "https://www.rhs.org.uk/plants/84789/acer-palmatum-hanami-nishiki-(dw)/details",
+      "botanical_name": "Acer palmatum 'Hanami-nishiki' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Hanami-nishiki' (Dw)",
+    "Hanami nishiki",
+    "Hanami-nishiki",
+    "Japanese maple 'Hanami-nishiki'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Hanami nishiki'",
+    "Acer palmatum 'Hanami-nishiki' (Dw)",
+    "Hanami nishiki",
+    "Hanami-nishiki",
+    "Japanese maple 'Hanami-nishiki'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 84789,
+    "rhs_url": "https://www.rhs.org.uk/plants/84789/acer-palmatum-hanami-nishiki-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Hanami-nishiki' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Hanami-nishiki'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Hanami-nishiki"
+    ],
+    "description": "A compact, bushy deciduous shrub or dwarf tree, to around 1.2m high, with a spreading habit and very small, lobed and pointed leaves, sometimes just 2cm across. Leaves emerge bright green and tinted red at the edges, and mature to green before turning bright orange and red in autumn",
+    "dimensions": {
+      "height": "1-1.5 metres",
+      "spread": "1-1.5 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, South-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree, Shrub",
+      "habit": "Bushy, Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Low Maintenance, Patio/Container Plants",
+      "hort_group_description": "Acers in this dwarf group are compact and slow-growing, making them ideal for pots and containers"
+    },
+    "care": {
+      "cultivation": "Grow in moisture-retentive, well-drained, ideally slightly acidic soil, in a sheltered position with protection from drying winds. Thrives in part shade, as some sun is needed to develop the leaf colour, but will tolerate full sun if soil is reliably moist. Mulch in spring, especially when grown in containers , to improve moisture retention. See Japanese maples cultivation",
+      "pruning": "Minimal pruning required; see pruning group 1 . Prune from late autumn to mid-winter only",
+      "propagation": "Propagate by layering or grafting"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "bape01523.jpg",
+        "bape01522.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-hanami-nishiki/01-bape01523.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-hanami-nishiki/02-bape01522.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "bape01523.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/bape01523.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/84789/acer-palmatum-hanami-nishiki-(dw)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-hanami-nishiki/01-bape01523.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 213745,
+          "downloaded_at": "2026-04-14T01:47:46+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "bape01522.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/bape01522.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/84789/acer-palmatum-hanami-nishiki-(dw)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-hanami-nishiki/02-bape01522.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 95698,
+          "downloaded_at": "2026-04-14T01:47:46+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "这一矮生类群的 Acer 株形紧凑、生长缓慢，因此非常适合盆栽和容器栽培。",
+      "suggested_uses": "适合用于城市/庭院花园、乡村/自然式花园、花境与花坛、低维护栽培，以及露台/容器栽培。"
+    },
+    "care": {
+      "cultivation": "宜栽植于保水性好但排水良好的土壤中，最好为微酸性，并选择避风、可防止干燥风侵袭的位置。最适合半阴环境，因为叶色形成需要一定光照；若土壤能持续保持湿润，也可耐全日照。春季覆 mulch，尤其是盆栽时，可提高土壤保湿性。参见 Japanese maples cultivation。",
+      "pruning": "所需修剪极少；参见修剪第 1 组。仅可在晚秋至仲冬期间修剪。",
+      "propagation": "可采用压条或嫁接繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "紧凑、丛生的落叶灌木或矮生小乔木，高约 1.2 米，株形开展。叶片极小，具裂片且先端尖锐，有时叶幅仅 2 厘米。新叶鲜绿色，叶缘带红色晕染，成熟后转为绿色，秋季再转为鲜艳的橙色和红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "这一槭树是较为少见的矮生型之一，同时也是叶片最小的类型之一。其名称意为“赏花锦缎”。叶片 5 裂，偶见 3 裂，浅黄绿色，长宽约 1.5-2 厘米。春季叶缘和叶尖略带古铜色。5 个尖端向外放射，裂片分离约达叶基的三分之二。每个裂片渐尖，边缘具轻微锯齿。叶柄极细柔弱，长度不足 1 厘米。春季展叶时带橙红色调，尤其在叶缘更明显，随后转为均匀的浅绿色至黄绿色。偶尔老枝上的叶片会出现极细小的浅色斑点状斑锦。该品种生长极慢，每年通常只长几厘米。在庭园中，植株一般每年长高 3-8 厘米；若强势促长，也可抽生长达 12 厘米的新梢。最终植株可达高、宽各 2 米。它是矮生类群中的珍品之一，但栽培上稍显娇弱，繁殖也较困难。"
+  },
+  "has_mrmaple": false
+}

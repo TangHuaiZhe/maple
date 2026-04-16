@@ -1,0 +1,33 @@
+{
+  "name": "japanese-maple-showcase-web",
+  "version": "1.0.0",
+  "description": "日本枫树展示应用最小可用 Web 骨架",
+  "private": true,
+  "scripts": {
+    "sync-data": "node ./scripts/sync-data.mjs",
+    "fetch-rhs-images": "node ./scripts/fetch-rhs-images.mjs",
+    "fetch-mrmaple-images": "node ./scripts/fetch-mrmaple-images.mjs",
+    "fetch-herter-images": "node ./scripts/fetch-herter-images.mjs",
+    "fetch-ncsu-images": "node ./scripts/fetch-ncsu-images.mjs",
+    "dev": "npm run sync-data && vite",
+    "build": "npm run sync-data && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "maple",
+    "garden",
+    "obsidian"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pinyin-pro": "^3.28.1",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-router-dom": "^7.14.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "vite": "^8.0.8"
+  }
+}

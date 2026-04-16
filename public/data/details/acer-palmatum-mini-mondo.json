@@ -1,0 +1,94 @@
+{
+  "id": "acer-palmatum-mini-mondo",
+  "canonical_key": "mini mondo",
+  "canonical_name": "Mini Mondo",
+  "display_name": "Mini Mondo",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Mini Mondo'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This semidwarf small-leaved palmatum arose from a chance seedling selected and named by Richard P. Wolff of Red Maple Nursery, Media, Pennsylvania. He originally named it 'Tiny Leaf' but years later changed it to 'Mini Mondo', meaning \"small world.\" The change of name may be because there seems to be a quite different cultivar named"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Mini Mondo",
+      "page_range": "107",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 181361,
+      "detail_url": "https://www.rhs.org.uk/plants/181361/acer-palmatum-mini-mondo/details",
+      "botanical_name": "Acer palmatum 'Mini Mondo'",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Mini Mondo",
+      "page_range": "173",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Mini Mondo'",
+    "Mini Mondo"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Mini Mondo'",
+    "Mini Mondo"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 181361,
+    "rhs_url": "https://www.rhs.org.uk/plants/181361/acer-palmatum-mini-mondo/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Mini Mondo'",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Mini Mondo"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这个半矮生、小叶型的 Acer palmatum 源自一株偶然实生苗，由宾夕法尼亚州 Media 的 Red Maple Nursery 的 Richard P. Wolff 选育并命名。他最初将其命名为 'Tiny Leaf'，多年后改名为 'Mini Mondo'，意为“小世界”。改名可能是因为另有一个名为 'Tiny Leaf' 的不同品种，其叶形与 'Ogi nagashi' 较为相似，而这一后者的来源尚未查明。该品种叶片微小，为绿色，五至七裂，长宽约 2 至 3 厘米，秋季转深红色。叶形与矮生品种 'Hanami nishiki' 相似，但植株高度约为其两倍，10 年可长至 2 米，形成紧凑而直立的小型灌木。后文另混入了其他品种信息：叶片至初夏转橄榄绿，晚夏至初秋呈古铜绿色，叶背较浅；秋色为橙黄色。当年生枝夏季大部分时间覆有灰白色粉霜。叶大，七至九裂，长 7 至 10 厘米、宽 7.5 至 11 厘米；裂片深裂超过叶基的三分之二，呈卵形，先端具尾状尖头，叶缘具明显、尖锐且略呈钩状的锯齿。两枚基部小裂片与叶柄几近成直角。叶柄坚硬，长 3 至 4 厘米。该品种生长势强，姿态直立，成熟时高可达 8 米，冠幅近似。它于 1980 年代中期在荷兰 Boskoop 的 Firma C. Esveld 一批实生苗中被发现，并以 D. M. van Gelderen 的一位外孙女命名。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

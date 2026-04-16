@@ -1,0 +1,175 @@
+{
+  "id": "acer-palmatum-baby-lace",
+  "canonical_key": "baby lace",
+  "canonical_name": "Baby Lace",
+  "display_name": "Baby Lace",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Baby Lace'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "green",
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This highly desirable and interesting dwarf cultivar was the first dissectum witches'-broom to be discovered. It was found by Rick Rey of the Delaware Valley Agricultural School in the early 1980s and named by Edward Rodd of Raraflora Nursery, Kinterfield, Pennsylvania. The finely dissected leaves are half the size of normal dissectum leaves in the first year—3-5 cm long and wide —becoming smaller with age until reduced to the size of Like most witches'-brooms, it produces relatively vigorous shoots from the graft, 5-8 cm long, but slows down in subsequent years, attaining about 1 m tall and wide after 10 years. It eventually forms a small round, densely twigged shrub. Also, like most witches'-brooms, 'Baby Lace' is very sensitive to wind and needs protection for at least the first three to four years."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-baby-lace/01-babylace.png"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/herter-images/acer-palmatum-baby-lace/01-babylace.png",
+    "public_paths": [
+      "/herter-images/acer-palmatum-baby-lace/01-babylace.png"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Baby Lace",
+      "page_range": "43",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 178914,
+      "detail_url": "https://www.rhs.org.uk/plants/178914/acer-palmatum-baby-lace-(dw)/details",
+      "botanical_name": "Acer palmatum 'Baby Lace' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Baby Lace",
+      "page_range": "118-119",
+      "group": "dwarf",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Babylace Fine Lacelef Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/babylace-fine-lacelef-japanese-maple/",
+      "description": "",
+      "group": "All Japanese Maples / Lace Leaf Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Baby Lace' (Dw)",
+    "Acer palmatum 'Red Baby Lace'",
+    "Baby Lace",
+    "Red Baby Lace"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Baby Lace'",
+    "Acer palmatum 'Baby Lace' (Dw)",
+    "Acer palmatum 'Red Baby Lace'",
+    "Baby Lace",
+    "Red Baby Lace"
+  ],
+  "source_count": 4,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 178914,
+    "rhs_url": "https://www.rhs.org.uk/plants/178914/acer-palmatum-baby-lace-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Baby Lace' (Dw)",
+    "species_name": "Acer palmatum",
+    "synonyms": [
+      "Acer palmatum 'Red Baby Lace'"
+    ],
+    "cultivar_names": [
+      "Baby Lace",
+      "Red Baby Lace"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这一极具观赏价值且颇有特色的矮生品种，是最早被发现的 dissectum 类丛枝突变（witches'-broom）品种。20 世纪 80 年代初，由 Delaware Valley Agricultural School 的 Rick Rey 发现，并由宾夕法尼亚州 Kinterfield 的 Raraflora Nursery 的 Edward Rodd 命名。其细裂叶在第一年仅为普通 dissectum 叶片大小的一半，长宽约 3-5 厘米，随后会随树龄增长而进一步缩小。与多数丛枝突变品种相同，嫁接部位会抽生较旺盛的新梢，长约 5-8 厘米，但在后续年份生长会放缓；10 年后株高与冠幅约 1 米。最终形成圆整、小型、枝条极为密集的灌木。同样地，与多数丛枝突变品种一样，‘Baby Lace’ 对风非常敏感，至少在最初 3 至 4 年内需要避风保护。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-baby-lace/01-babylace.png",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-baby-lace/01-babylace.png"
+    ],
+    "products": [
+      {
+        "product_id": 405,
+        "name": "Babylace Fine Lacelef Japanese Maple",
+        "slug": "babylace-fine-lacelef-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/babylace-fine-lacelef-japanese-maple/",
+        "description_text": "",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples",
+          "Lace Leaf Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 30,
+          "max": 45
+        },
+        "review_count": 0,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "override",
+        "match_candidate": "babylace-fine-lacelef-japanese-maple"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/10/babylace.png",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-baby-lace/01-babylace.png",
+          "bytes": 58431,
+          "content_type": "image/png",
+          "downloaded_at": "2026-04-16T06:50:45.675Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-baby-lace/01-babylace.png"
+      ]
+    }
+  },
+  "has_herter": true
+}

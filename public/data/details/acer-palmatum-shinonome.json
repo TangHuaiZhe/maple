@@ -1,0 +1,197 @@
+{
+  "id": "acer-palmatum-shinonome",
+  "canonical_key": "shinonome",
+  "canonical_name": "Shinonome",
+  "display_name": "Shinonome",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Shinonome'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "green",
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The spring foliage of this cultivar is a bright orange red and turns a deeper red as it matures. These are very noticeable color tones when compared with other red cultivars. Later in the summer, the leaves become green with a deep red overtone. This pattern accentuates the green of the midribs. The pink to orange-red second growth contrasts well with the bronze green of late summer. The seven-lobed leaves are 5-7 cm long and 7-9 cm wide, and deeply divided at least three-quarters of the way to the leaf base. The lobes are elongate-ovate, broad- Corvallis long. The young branches of this upright plant grow vigorously, with the leaf nodes spaced well apart. With age, the shoots become shorter and more branched. 'Shinonome' has an open habit of growth and reaches up to 4 m high. It is not a well-known cultivar but offers a nice contrast when used in large plantings. Well-grown container plants make a fine display. The name has been misspelled"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-shinonome/01-Web_Use-_KOT4624_12969.jpg",
+      "/rhs-images/acer-palmatum-shinonome-momiji_kaede/01-Web_Use-_KOT4624_12969.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-shinonome/01-Web_Use-_KOT4624_12969.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-shinonome/01-Web_Use-_KOT4624_12969.jpg",
+      "/rhs-images/acer-palmatum-shinonome-momiji_kaede/01-Web_Use-_KOT4624_12969.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Shinonome",
+      "page_range": "153-156",
+      "group": "Matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 60978,
+      "detail_url": "https://www.rhs.org.uk/plants/60978/acer-palmatum-shinonome-(m)/details",
+      "botanical_name": "Acer palmatum 'Shinonome' (M)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Shinonome",
+      "page_range": "212-213",
+      "group": "matsumurae",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Shinonome' (M)",
+    "Japanese maple 'Shinonome'",
+    "Shinonome"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Shinonome'",
+    "Acer palmatum 'Shinonome' (M)",
+    "Japanese maple 'Shinonome'",
+    "Shinonome"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 60978,
+    "rhs_url": "https://www.rhs.org.uk/plants/60978/acer-palmatum-shinonome-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Shinonome' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Shinonome'"
+    ],
+    "cultivar_names": [
+      "Shinonome"
+    ],
+    "description": "'Shinonome' is a small tree up to 4m high with an open, arching habit, medium-sized, deeply divided, seven-lobed leaves, toothed on the outer two-thirds, the young leaves emerging bright orange-red in spring, ageing to deeper red and then green with a deep red overtone and green veins in late summer, and turning orange-red again in autumn, and tiny, purple-red flowers in small, pendent corymbs in spring followed by red-winged fruit in late summer",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "20-50 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "South-facing, East-facing, North-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "Hedging/Screens, Low Maintenance, Banks and Slopes, City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in a place sheltered from cold drying winds and from late frosts, in full sun where its colours will develop best or in light dappled shade, in moist but well-drained neutral or acidic soil that does not dry out in summer or become waterlogged in winter, and protect roots with an open-textured organic mulch such as coarse bark; for more advice, see Japanese maple cultivation",
+      "pruning": "Pruning group 1 (little or no pruning of trees and shrubs) and prune if necessary only from late autumn to midwinter",
+      "propagation": "Propagate by grafting in late winter, or by budding in summer; semi-ripe cuttings, hardwood cuttings, or layering may also be successful"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "Web_Use-_KOT4624_12969.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-shinonome/01-Web_Use-_KOT4624_12969.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-shinonome-momiji_kaede/01-Web_Use-_KOT4624_12969.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "Web_Use-_KOT4624_12969.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/Web_Use-_KOT4624_12969.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/60978/acer-palmatum-shinonome-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-shinonome/01-Web_Use-_KOT4624_12969.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 74257,
+          "downloaded_at": "2026-04-14T01:47:59+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 1,
+          "filename": "Web_Use-_KOT4624_12969.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/Web_Use-_KOT4624_12969.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/60978/acer-palmatum-shinonome-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-shinonome-momiji_kaede/01-Web_Use-_KOT4624_12969.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 74257,
+          "downloaded_at": "2026-04-14T01:47:59+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "attributes": {
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。",
+      "suggested_uses": "适合作绿篱/屏障、低维护种植、护坡与斜坡绿化、城市/庭院花园、乡村风/自然式花园，以及花境与花坛。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "'Shinonome' 为小型乔木，高可达 4 米，株型开张并略呈拱垂。叶片中等大小，深裂，7 裂，外侧三分之二具锯齿。春季幼叶鲜橙红色，随后加深为更浓的红色，至夏末转为带深红色晕染和绿色叶脉的绿色；秋季再次转为橙红色。春季开极小的紫红色花，成下垂小伞房花序，晚夏结红色翅果。",
+    "care": {
+      "cultivation": "宜栽植于可避开寒冷干风和晚霜的位置；全日照下叶色表现最佳，也可在疏荫环境中栽培。土壤应保持湿润但排水良好，宜中性至酸性，夏季不宜干透，冬季不可积水。根部可覆盖疏松质地的有机覆盖物，如粗树皮，以利保湿护根。更多建议参见日本枫栽培说明。",
+      "pruning": "修剪组 1（树木和灌木几乎不修剪或仅少量修剪）；如确有必要，仅宜在晚秋至隆冬期间进行修剪。",
+      "propagation": "可于冬末进行嫁接繁殖，或于夏季芽接；半成熟枝扦插、硬枝扦插或压条繁殖有时也能成功。"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该品种春季新叶呈鲜亮的橙红色，成熟后转为更深的红色。与其他红叶品种相比，这种色调十分醒目。到夏季后期，叶片转绿，但仍覆盖一层深红色晕染，这种色彩变化更凸显中脉的绿色。粉红至橙红色的二次萌发新梢，与夏末的古铜绿色叶片形成良好对比。叶片 7 裂，长 5-7 厘米、宽 7-9 厘米，至少深裂至叶基的四分之三。裂片狭长卵形。该直立型植株幼枝生长旺盛，叶节间距较大；随树龄增长，枝条会变短且分枝更多。‘Shinonome’ 株形开展通透，高可达 4 米。它并不是广为人知的品种，但用于大型种植时能形成良好对比；生长良好的容器苗观赏效果也很出色。其名称也曾被误拼为 ‘Shioname’。"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

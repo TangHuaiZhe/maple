@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-tanabata",
+  "canonical_key": "tanabata",
+  "canonical_name": "Tanabata",
+  "display_name": "Tanabata",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Tanabata'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "Because of the similarity of name, this cultivar has occasionally been confused with 'Tana'. However, the two maples are very different. 'Tanabata' has red, deeply divided leaves of the Matsumurae Group, whereas 'Tana' gate-elliptic, terminating in a long, narrow tip. The base of each lobe is extremely narrow, and the margins are serrated. This bright purple-red maple becomes redder as the leaves mature in the summer. The fall colors are strong, varied reds. This plant is a fairly strong grower which starts upright, but as it becomes older develops slightly pendulous outer branches. It reaches 5 m high and wide at maturity."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Tanabata",
+      "page_range": "221",
+      "group": "matsumurae",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 367078,
+      "detail_url": "https://www.rhs.org.uk/plants/367078/acer-palmatum-tanabata-(m)/details",
+      "botanical_name": "Acer palmatum 'Tanabata' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Tanabata' (M)",
+    "Tanabata"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Tanabata'",
+    "Acer palmatum 'Tanabata' (M)",
+    "Tanabata"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 367078,
+    "rhs_url": "https://www.rhs.org.uk/plants/367078/acer-palmatum-tanabata-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Tanabata' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Tanabata"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "由于名称相近，这一品种有时会与 ‘Tana’ 混淆，但两者差异很大。‘Tanabata’ 属于 Matsumurae Group，叶片红色且深裂，而 ‘Tana’ 则不同。其裂片呈狭长的门形至椭圆形，末端延伸为细长尖端。每个裂片基部极窄，边缘具锯齿。这个鲜亮紫红色的品种在夏季随着叶片成熟会变得更红，秋色则为浓烈而多变的红色。该品种长势较强，幼时直立，随树龄增长外侧枝条会略呈下垂。成熟时高和冠幅均可达 5 米。"
+  },
+  "has_mrmaple": false
+}

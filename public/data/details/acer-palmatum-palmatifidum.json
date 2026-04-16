@@ -1,0 +1,250 @@
+{
+  "id": "acer-palmatum-palmatifidum",
+  "canonical_key": "palmatifidum",
+  "canonical_name": "Palmatifidum",
+  "display_name": "Palmatifidum",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Palmatifidum'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae",
+    "dissectum"
+  ],
+  "color_groups": [
+    "variegated",
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The name means \"cascading Dissectum ricelike leaf.\" leaves green 'Peaches and Cream' summer The spring fotone liage emerges a cream to greenish cream with a This soft rose-red around the edges. The veins are coning, spicuous and of a contrasting deep green. Fall reach color ranges from yellow to buff with darker tips. very The medium-sized leaves are deeply divided into and five to seven ovate lobes with tapered, sharply pointed tips. The margins are very coarsely 'Pink toothed. The teeth have sharp tips pointing in var- Dissectum ious directions, causing the margins to look like a natum' prickly holly leaf. The green leafstalks are short and color stout, and the slender shoots are a light green. This are pretty but delicate selection forms a small tree or veins, shrub about 10 ft. (3 m) high and wide. ing FILIGREE"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-palmatifidum/01-sepa12171.jpg",
+      "/rhs-images/acer-palmatum-palmatifidum/03-WSYD0017753.jpg",
+      "/rhs-images/acer-palmatum-palmatifidum-momiji_kaede/01-sepa12171.jpg",
+      "/rhs-images/acer-palmatum-palmatifidum-momiji_kaede/03-WSYD0017753.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-palmatifidum/01-sepa12171.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-palmatifidum/01-sepa12171.jpg",
+      "/rhs-images/acer-palmatum-palmatifidum/03-WSYD0017753.jpg",
+      "/rhs-images/acer-palmatum-palmatifidum-momiji_kaede/01-sepa12171.jpg",
+      "/rhs-images/acer-palmatum-palmatifidum-momiji_kaede/03-WSYD0017753.jpg"
+    ],
+    "public_count": 4
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Palmatifidum",
+      "page_range": "132-133",
+      "group": "Matsumurae",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 89005,
+      "detail_url": "https://www.rhs.org.uk/plants/89005/acer-platanoides-palmatifidum/details",
+      "botanical_name": "Acer platanoides 'Palmatifidum'",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Palmatifidum",
+      "page_range": "192-194",
+      "group": "dissectum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer platanoides 'Lorbergii'",
+    "Acer platanoides 'Palmatifidum'",
+    "Lorbergii",
+    "Norway maple 'Palmatifidum'",
+    "Palmatifidum"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Palmatifidum'",
+    "Acer platanoides 'Lorbergii'",
+    "Acer platanoides 'Palmatifidum'",
+    "Lorbergii",
+    "Norway maple 'Palmatifidum'",
+    "Palmatifidum"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 89005,
+    "rhs_url": "https://www.rhs.org.uk/plants/89005/acer-platanoides-palmatifidum/details",
+    "match_method": "cultivar",
+    "botanical_name": "Acer platanoides 'Palmatifidum'",
+    "species_name": "Acer platanoides",
+    "common_names": [
+      "Norway maple 'Palmatifidum'"
+    ],
+    "synonyms": [
+      "Acer platanoides 'Lorbergii'"
+    ],
+    "cultivar_names": [
+      "Lorbergii",
+      "Palmatifidum"
+    ],
+    "description": "A large, slow-growing deciduous tree, to around 15m high, with large, very deeply lobed dark green leaves. Small yellow-green flowers are produced before the leaves in spring, followed later by typical winged seeds. Leaves turn golden yellow and red in autumn",
+    "dimensions": {
+      "height": "Higher than 12 metres",
+      "spread": "wider than 8 metres",
+      "time_to_full_height": "20-50 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H7 (very hardy)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "East-facing, North-facing, South-facing, West-facing",
+      "moisture": "Moist but well-drained, Well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Exposed, Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Columnar/Upright, Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, Low Maintenance, Cottage/Informal Garden, Wildlife Gardens"
+    },
+    "care": {
+      "cultivation": "Tolerates most soils and positions. Some drought and pollution tolerance once established. See tree cultivation for further advice",
+      "pruning": "Minimal pruning required; see pruning group 1",
+      "propagation": "Propagate by grafting"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 3,
+      "filenames": [
+        "sepa12171.jpg",
+        "MAR0029989.jpg",
+        "WSYD0017753.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-palmatifidum/01-sepa12171.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-palmatifidum/03-WSYD0017753.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-palmatifidum-momiji_kaede/01-sepa12171.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-palmatifidum-momiji_kaede/03-WSYD0017753.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "sepa12171.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/sepa12171.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/89005/acer-platanoides-palmatifidum/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-palmatifidum/01-sepa12171.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 53930,
+          "downloaded_at": "2026-04-14T01:47:54+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 3,
+          "filename": "WSYD0017753.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/WSYD0017753.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/89005/acer-platanoides-palmatifidum/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-palmatifidum/03-WSYD0017753.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 147008,
+          "downloaded_at": "2026-04-14T01:47:54+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 1,
+          "filename": "sepa12171.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/sepa12171.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/89005/acer-platanoides-palmatifidum/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-palmatifidum-momiji_kaede/01-sepa12171.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 53930,
+          "downloaded_at": "2026-04-14T01:47:54+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 3,
+          "filename": "WSYD0017753.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/WSYD0017753.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/89005/acer-platanoides-palmatifidum/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-palmatifidum-momiji_kaede/03-WSYD0017753.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 147008,
+          "downloaded_at": "2026-04-14T01:47:54+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ],
+      "download_failures": [
+        {
+          "record_index": 388,
+          "image_index": 2,
+          "filename": "MAR0029989.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/MAR0029989.jpg",
+          "error": "404 Client Error: Not Found for url: https://apps.rhs.org.uk/plantselectorimages/detail/MAR0029989.jpg"
+        },
+        {
+          "record_index": 389,
+          "image_index": 2,
+          "filename": "MAR0029989.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/MAR0029989.jpg",
+          "error": "404 Client Error: Not Found for url: https://apps.rhs.org.uk/plantselectorimages/detail/MAR0029989.jpg"
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "大型、生长缓慢的落叶乔木，高可达约 15 米，具大型、深裂的深绿色叶片。春季于展叶前开出小型黄绿色花，之后结出典型的翅果。秋季叶色转为金黄色和红色。",
+    "attributes": {
+      "suggested_uses": "适合建筑感种植、低维护花园、乡村风或自然式花园、野生动物友好型花园"
+    },
+    "care": {
+      "cultivation": "对多数土壤类型和栽植位置适应性较强。成株后对一定程度的干旱和污染有耐受力。进一步栽培建议请参见树木栽培说明。",
+      "pruning": "仅需少量修剪；参见修剪第 1 组。",
+      "propagation": "采用嫁接繁殖。"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "其名称意为“下垂的 Dissectum 米粒状叶”。'Peaches and Cream' 春季新叶展开时为乳白至带绿色调的乳白色，叶缘带柔和的玫瑰红。叶脉明显，为对比鲜明的深绿色。秋色由黄色至浅褐黄色，叶尖颜色较深。叶片中等大小，深裂为 5-7 个卵形裂片，先端渐尖且尖锐。叶缘具非常粗大的锯齿，齿端尖锐并朝不同方向伸展，使叶缘看起来像多刺的冬青叶。绿色叶柄短而粗壮，细长新梢为浅绿色。该品种形成小乔木或灌木，高宽约 10 英尺（3 米）。 'Pendulum Julian' 属于 FILIGREE' Group—red。大型 7 裂叶春季为古铜绿色并带红色叶脉，随后转为深紫红色，后期则呈锈绿色并带红色叶背。秋色为鲜艳的深红橙色。植株姿态明显下垂且开展，幼株需及早设支撑，培养至所需高度。"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

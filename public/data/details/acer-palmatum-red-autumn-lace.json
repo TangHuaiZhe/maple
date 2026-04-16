@@ -1,0 +1,123 @@
+{
+  "id": "acer-palmatum-red-autumn-lace",
+  "canonical_key": "red autumn lace",
+  "canonical_name": "Red Autumn Lace",
+  "display_name": "Red Autumn Lace",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Red Autumn Lace'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dissectum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This outstanding dissectum from the Fratelli Gilardelli Nursery near Milan, Italy, is noted for the varying tones of green of the summer foliage with bronzed and redtinged new leaves at the shoot tips. The new leaves to about 1 mm at the leaf base. The green petioles are 3.5-4 cm long. This cultivar forms a broad cascading mound up to 3-4 m tall with a spread of 4-5 m."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Red Autumn Lace",
+      "page_range": "196-197",
+      "group": "dissectum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 181367,
+      "detail_url": "https://www.rhs.org.uk/plants/181367/acer-palmatum-red-autumn-lace-(d)/details",
+      "botanical_name": "Acer palmatum 'Red Autumn Lace' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Red Autumn Lace'",
+    "Acer palmatum 'Red Autumn Lace' (D)",
+    "Red Autumn Lace"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Red Autumn Lace'",
+    "Acer palmatum 'Red Autumn Lace' (D)",
+    "Red Autumn Lace"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 181367,
+    "rhs_url": "https://www.rhs.org.uk/plants/181367/acer-palmatum-red-autumn-lace-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Red Autumn Lace' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [
+      "Acer palmatum 'Red Autumn Lace'"
+    ],
+    "cultivar_names": [
+      "Red Autumn Lace"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这是意大利米兰附近 Fratelli Gilardelli 苗圃选育的一款极出色的 dissectum 类型品种，其特点是夏季叶色呈现深浅不一的绿色，而枝梢顶端的新叶则带铜色与红色晕染。新叶在叶基部裂至距基部约 1 毫米处。绿色叶柄长 3.5 至 4 厘米。该品种形成宽广、下垂堆丘状树形，高约 3 至 4 米，冠幅可达 4 至 5 米。"
+  },
+  "has_mrmaple": false
+}

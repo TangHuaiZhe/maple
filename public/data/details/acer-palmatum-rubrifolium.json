@@ -1,0 +1,61 @@
+{
+  "id": "acer-palmatum-rubrifolium",
+  "canonical_key": "rubrifolium",
+  "canonical_name": "Rubrifolium",
+  "display_name": "Rubrifolium",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Rubrifolium'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dissectum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The typical dissectum leaves are a different red from most of the purple reds of the group. It is more brown red or rust red, with the green main veins showing in each dissected lobe. This color is retained well into the summer and then changes to a rich dark green. In the fall, the leaves become a rich gold with occasional crimson edges. The leaves are about normal size for dissectums and typically double pinnatifid. Their length varies from 7 to 10 cm. The petioles are 5-10 cm long and the slender shoots are red. The bark on this cultivar is a powdery green with minute white striations. This fairly strong-growing dissectum develops the typical dome shape to 3 m high. It grows reasonably fast at first and becomes pendulous with maturity. Although it is one of the lesser-known cultivars, yet it has been known under several names, including"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Rubrifolium",
+      "page_range": "199",
+      "group": "dissectum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Rubrifolium"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Rubrifolium'",
+    "Rubrifolium"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "这种典型的 Dissectum 叶色与该组大多数紫红色品种不同，更偏棕红或锈红色，每个细裂裂片中都可见绿色主脉。该叶色能良好保持到夏季中期，随后转为浓深绿色。秋季叶片变为浓金色，边缘偶尔带深红色。叶片大小约为 Dissectum 类的常规水平，通常为二回羽状深裂，长度约 7-10 厘米。叶柄长 5-10 厘米，细长新梢为红色。该品种树皮为粉绿色，并有细微白色条纹。这个生长势较强的 Dissectum 最终会形成典型的圆 dome 株形，高可达 3 米。幼年期生长速度较快，成熟后枝条转为下垂。虽然它是较少为人所知的品种之一，但曾以多个名称流通，包括 'Adlerschwanz'、"
+  },
+  "has_mrmaple": false
+}

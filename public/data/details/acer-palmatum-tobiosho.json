@@ -1,0 +1,100 @@
+{
+  "id": "acer-palmatum-tobiosho",
+  "canonical_key": "tobiosho",
+  "canonical_name": "Tobiosho",
+  "display_name": "Tobiosho",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Tobiosho'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar comes alive in the fall with its vivid scarlet color. The small leaves are deeply divided into five ovate lobes with tail-like tips. The margins are distinctly toothed. The red leafstalks are stiff and slender. 'Tobiosho' grows into an upright, wide-topped medium-sized tree. It was named after the Oretended gon nurseryman who selected it. with tube."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Tobiosho",
+      "page_range": "167-171",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 298490,
+      "detail_url": "https://www.rhs.org.uk/plants/298490/acer-palmatum-tobiosho-(p)/details",
+      "botanical_name": "Acer palmatum 'Tobiosho' (P)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Tobiosho",
+      "page_range": "222",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Tobiosho' (P)",
+    "Japanese maple 'Tobiosho'",
+    "Tobiosho"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Tobiosho'",
+    "Acer palmatum 'Tobiosho' (P)",
+    "Japanese maple 'Tobiosho'",
+    "Tobiosho"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 298490,
+    "rhs_url": "https://www.rhs.org.uk/plants/298490/acer-palmatum-tobiosho-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Tobiosho' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Tobiosho'"
+    ],
+    "cultivar_names": [
+      "Tobiosho"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "该品种在秋季会因鲜艳的猩红色而格外出彩。叶片较小，深裂为 5 个卵形裂片，裂片先端呈尾状延伸，叶缘具明显锯齿。红色叶柄坚挺而细长。'Tobiosho' 最终长成一株直立、树冠宽阔的中型乔木。其名称来自选育出它的那位苗圃经营者。 'Toyama nishiki'：Dissectum Group，斑叶型。叶片底色为紫红至偏绿的红色。有些叶片几乎不见斑锦，有些叶片在春季初展时则几乎全粉。多数斑锦表现为裂片上的粉色或白色区块，或与叶面底色交融，变化极为丰富。由于叶片容易日灼，栽植于半阴处时，色彩通常更浓且保持性更好。中等大小的叶片有 7 至 9 个裂片，二回深裂，深达中脉，质感细致如蕾丝。这个较娇嫩、并不十分强健的槭树品种需要较多照料。其名称可译作“富山锦”。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

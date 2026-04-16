@@ -1,0 +1,95 @@
+{
+  "id": "acer-palmatum-berry-dwarf",
+  "canonical_key": "berry dwarf",
+  "canonical_name": "Berry Dwarf",
+  "display_name": "Berry Dwarf",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Berry Dwarf'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar forms a widespreading low dwarf shrub and has distinctly shaped, relatively large bronze green leaves. It arose from a seedling selected in the early 1980s and propagated by John Emery of Raraflora Nursery, Berry, New South Wales, Australia. The attractive leaves emerge a light apple green, becoming a bronze green for the summer. They are carried on olive green petioles and shoots. The unusually large (for a dwarf) five-lobed leaves are deeply divided and borderline between the Palmatum and Matsumurae Groups as defined here. The leaves are 7-8 cm long and wide, with the lobes spread outward so that they are distinctly separated right to the lobe junctions. Each lobe is broadly ovate with a pointed tip and the sides of the lower quarter angled inward. The lobes are 15-25 mm broad in the middle, narrowing to 5-8 mm at the lobe junctions. There are about three pairs of irregular lobules along the lobe margins which themselves are coarsely toothed. 'Berry Dwarf' is a surprisingly strong and busy grower for a dwarf, at least for the first few years. It forms a widespreading, dense, twiggy low bush with a spread of 3 m in 10 years but a height of only 1 m."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Berry Dwarf",
+      "page_range": "53",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 135012,
+      "detail_url": "https://www.rhs.org.uk/plants/135012/acer-palmatum-berry-dwarf-(dw)/details",
+      "botanical_name": "Acer palmatum 'Berry Dwarf' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Berry Dwarf",
+      "page_range": "125",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Berry Dwarf' (Dw)",
+    "Berry Dwarf"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Berry Dwarf'",
+    "Acer palmatum 'Berry Dwarf' (Dw)",
+    "Berry Dwarf"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 135012,
+    "rhs_url": "https://www.rhs.org.uk/plants/135012/acer-palmatum-berry-dwarf-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Berry Dwarf' (Dw)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Berry Dwarf"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "该品种形成开展的低矮侏儒型灌木，叶形鲜明，叶片相对较大，呈铜绿色。它源自 20 世纪 80 年代早期选出的一株实生苗，由澳大利亚新南威尔士州 Berry 的 Raraflora Nursery 的 John Emery 进行繁殖。叶片颇具观赏性，初展为浅苹果绿色，夏季转为铜绿色；叶柄和新梢均为橄榄绿色。对于矮生品种而言，其 5 裂叶异常宽大，分裂较深，按此处分类标准，介于 Palmatum Group 与 Matsumurae Group 之间。叶长宽均为 7–8 厘米，裂片向外平展，使各裂片一直到结合部都明显分开。每个裂片为宽卵形，先端尖，裂片下部四分之一两侧向内收。裂片中部宽 15–25 毫米，到裂片基部结合处缩窄至 5–8 毫米。裂片边缘约有 3 对不规则小裂片，而边缘本身具粗锯齿。‘Berry Dwarf’ 作为矮生品种，在最初几年却有出人意料的较强长势，枝叶繁密。10 年可形成冠幅约 3 米的开展、致密、多枝低矮灌丛，而高度仅约 1 米。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

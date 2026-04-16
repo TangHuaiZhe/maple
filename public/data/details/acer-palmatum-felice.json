@@ -1,0 +1,123 @@
+{
+  "id": "acer-palmatum-felice",
+  "canonical_key": "felice",
+  "canonical_name": "Felice",
+  "display_name": "Felice",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Felice'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dissectum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This outstanding red dissectum has two unusual features. First, the leaves bunch up at intervals along the shoots, causing the yellowish young leaves to look like brush tips. Second, the seven-lobed deeply dissected red leaves are of two kinds. One has the lobes narrowing near the leaf base to little more than the width of the midrib, with the lobes themselves deeply incised. The other has broader, much less deeply divided lobules, sometimes little more than large teeth, the lobes 7-9 cm long and 1-1.5 cm wide. The margins have coarsely sharp-pointed double teeth. The broader-lobed leaves ing later in the season. The bunches of young yellow leaves against the darker bronze green older foliage have a pleasant multicolored effect. 'Felice' forms a bushy mound estimated to reach a height and spread of about 3 m at maturity. It arose as a chance seedling which was named and introduced by Firma C. Esveld, Boskoop, Netherlands."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Felice",
+      "page_range": "138",
+      "group": "dissectum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 194871,
+      "detail_url": "https://www.rhs.org.uk/plants/194871/acer-palmatum-felice-(d)/details",
+      "botanical_name": "Acer palmatum 'Felice' (D)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Felice'",
+    "Acer palmatum 'Felice' (D)",
+    "Felice"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Felice'",
+    "Acer palmatum 'Felice' (D)",
+    "Felice"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 194871,
+    "rhs_url": "https://www.rhs.org.uk/plants/194871/acer-palmatum-felice-(d)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Felice' (D)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [
+      "Acer palmatum 'Felice'"
+    ],
+    "cultivar_names": [
+      "Felice"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这个出色的红叶 Dissectum 类型有两个不寻常的特征。第一，叶片会沿枝条间隔性簇生，使带黄色调的新叶看起来像刷子的尖端。第二，7 裂的深裂红叶分为两种类型。一种裂片在叶基附近收窄，宽度几乎只略宽于中脉，且裂片本身进一步深裂；另一种裂片较宽，次级裂刻浅得多，有时几乎只是较大的齿，裂片长 7-9 厘米、宽 1-1.5 厘米。叶缘具粗大而尖锐的重锯齿。较宽裂片的叶片在季节后期形成。黄色幼叶簇与较深的古铜绿色老叶形成宜人的综合色效果。‘Felice’ 成熟后形成浓密的圆丘状株形，估计高和幅均约 3 米。它来源于一株偶然出现的实生苗，由荷兰 Boskoop 的 Firma C. Esveld 命名并引入。"
+  },
+  "has_mrmaple": false
+}

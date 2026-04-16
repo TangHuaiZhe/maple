@@ -1,0 +1,154 @@
+{
+  "id": "acer-palmatum-sho-jo-nomura",
+  "canonical_key": "sho jo nomura",
+  "canonical_name": "Sho\\jo\\ nomura",
+  "display_name": "Sho\\jo\\ nomura",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Sho\\jo\\ nomura'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae",
+    "Amoenum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The spring foliage is light 'Sho¯ red, changing to a distinctive bright red for sum- Palmatum mer, and turning scarlet in the fall. The mediumone sized leaves have seven widely radiating lobes dispring vided almost to the base. Each lobe is long-ovate gray-green tapering to a long sharp tip. The margins are variegation finely toothed. The short leafstalks and shoots creating are red tinged with brown. 'Sho¯jo¯ nomura' forms irregularly an upright rounded tree up to 16 ft. (5 m) tall. five The name means \"beautiful red-faced monkey.\" sharply coarse-toothed."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Sho\\jo\\ nomura",
+      "page_range": "215-216",
+      "group": "matsumurae",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 89375,
+      "detail_url": "https://www.rhs.org.uk/plants/89375/acer-palmatum-shojo-nomura-(a)/details",
+      "botanical_name": "Acer palmatum 'Shōjō-nomura' (A)",
+      "description": ""
+    },
+    {
+      "source": "timber_press",
+      "name": "Sho¯ jo¯ nomura",
+      "page_range": "158",
+      "group": "Amoenum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Shōjō-nomura' (A)",
+    "Japanese maple 'Shōjō-nomura'",
+    "Sho\\jo\\ nomura",
+    "Shōjō-nomura",
+    "Sho¯ jo¯ nomura"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Sho\\jo\\ nomura'",
+    "Acer palmatum 'Shōjō-nomura' (A)",
+    "Japanese maple 'Shōjō-nomura'",
+    "Sho\\jo\\ nomura",
+    "Shōjō-nomura",
+    "Acer palmatum 'Sho¯ jo¯ nomura'",
+    "Sho¯ jo¯ nomura"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 89375,
+    "rhs_url": "https://www.rhs.org.uk/plants/89375/acer-palmatum-shojo-nomura-(a)/details",
+    "match_method": "compact_cultivar",
+    "botanical_name": "Acer palmatum 'Shōjō-nomura' (A)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Shōjō-nomura'"
+    ],
+    "cultivar_names": [
+      "Shōjō-nomura"
+    ],
+    "description": "A deciduous, upright Japanese maple about 3m tall, with strongly radiating 7-lobed leaves, each lobe tapering to a sharp tip. The leaves emerge light bronze-red to purple-red in spring, becoming green tinged bright orange-red in summer, then bright scarlet tones in autumn; the name means \"beautiful red-faced monkey\"",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "1.5-2.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Patio/Container Plants",
+      "hort_group_description": "Acers in this amoenum group have large, palm-shaped leaves with finely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "城市庭院花园、乡村风或自然式花园、花境与花坛、庭院容器栽培",
+      "hort_group_description": "此 amoenum 类群中的 Acer 品种具有大型掌状叶，叶缘具细锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "一种落叶、直立型日本枫，高约 3 米。叶片强烈放射状展开，7 裂，每裂片渐尖至锐尖。春季新叶呈浅古铜红至紫红色，夏季转为带鲜橙红晕的绿色，秋季则变为鲜猩红色；其名称意为“美丽的红脸猴”."
+  },
+  "descriptions_zh": {
+    "preferred": "春季新叶呈浅‘Sho¯ red’，夏季转为鲜明的亮红色，秋季变为猩红色。中等大小的叶片有 7 个向外放射、几乎裂至叶基的裂片。每个裂片均为长卵形，渐尖成细长锐尖，边缘具细锯齿。短叶柄与新梢带红色并略染褐色。‘Sho¯jo¯ nomura’ 形成不规则的直立圆头小乔木，高可达 16 英尺（5 米）。其名意为“美丽的红脸猴”。 ‘Sho¯ jo¯ shidare’ 属于 Beni Dissectum Group，红叶型。春叶为栗紫红色，叶脉带深绿色晕染；夏季叶色加深为深栗红色，与短叶柄和新梢的颜色相呼应。叶片深裂为 7 至 9 个裂片，边缘不规则具齿。该品种耐寒性略弱，形成高大的垂枝型树形，高可达 10 英尺（3 米）。其名意为“红脸猴”。 ‘jo¯-no-mai’ 属于 variegated Group。‘Sho¯jo¯-no-mai’ 是斑叶 palmatum 中较优秀的品种之一，叶色鲜明。叶片底色为中等至浅绿色，配以迷人的深粉色叶缘；这种斑锦常使裂片尖端向外反卷，呈现悦目的迎风姿态。小型叶片形态优美，深裂成长卵形裂片，裂片尖端常弯曲且具尖头，边缘有明显粗齿。该品种在生长势、树形和叶片方面与 ‘shichihenge’ 很相似，但不同之处在于其春季叶片具有纯粉色斑锦。其名意为“起舞的红脸猴”。"
+  },
+  "has_mrmaple": false,
+  "mrmaple": null
+}

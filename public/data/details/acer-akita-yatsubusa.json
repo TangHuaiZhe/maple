@@ -1,0 +1,120 @@
+{
+  "id": "acer-akita-yatsubusa",
+  "canonical_key": "akita yatsubusa",
+  "canonical_name": "Akita yatsubusa",
+  "display_name": "Akita yatsubusa",
+  "chinese_name": null,
+  "scientific_name": null,
+  "species": null,
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This robust dwarf is similar in leaf and form to 'Sharp's Pygmy' with small deeply divided leaves of the Palmatum Group. Unlike 'Sharp's Pygmy', it has dark brown shoots. The small five-lobed, sometimes seven-lobed, leaves are 3.5-4.5 cm long and wide. The lobes are long, ovate-triangular and are divided up to three-quarters of the way to the leaf base. The margins are clearly but shallowly toothed. When they first appear, the young leaves are a pinky red, turning yellow green before becoming medium green for the summer. The fall color is a vivid orange red. 'Akita yatsubusa' is a reliable, hardy cultivar drizzle.\" The foliage is rather small considering the type of plant, and it is fairly closely spaced on short twigs. The bright green leaves have five or seven lobes, radiating outward in the star shape typical of Acer palmatum subsp. palmatum. Each lobe is ovate and terminates in an acuminate sharp point with an evenly toothed margin which tends to be attractively crinkled. In general the middle three lobes are much longer than the two or more lateral lobes. Each leaf measures 3-5 cm long and wide. The petioles and small twigs carry a dark red tone. Fall color is rather bright in the yellow-orange ranges. This semidwarf tree grows broadly as well as upright. It tends to be dense and twiggy and forms a low-growing background in the garden landscape."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Akita yatsubusa",
+      "page_range": "110-111",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 269426,
+      "detail_url": "https://www.rhs.org.uk/plants/269426/acer-palmatum-akita-yatsubusa-(dw)/details",
+      "botanical_name": "Acer palmatum 'Akita-yatsubusa' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Akita-yatsubusa' (Dw)",
+    "Akita yatsubusa",
+    "Akita-yatsubusa"
+  ],
+  "search_terms": [
+    "Acer palmatum 'Akita-yatsubusa' (Dw)",
+    "Akita yatsubusa",
+    "Akita-yatsubusa"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 269426,
+    "rhs_url": "https://www.rhs.org.uk/plants/269426/acer-palmatum-akita-yatsubusa-(dw)/details",
+    "match_method": "cultivar",
+    "botanical_name": "Acer palmatum 'Akita-yatsubusa' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Akita-yatsubusa"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一强健的矮生品种在叶形与树形上都与 'Sharp's Pygmy' 相似，具有 palmatum 组那类小型、深裂叶。与 'Sharp's Pygmy' 不同的是，它的新梢为深褐色。叶片较小，通常 5 裂，有时 7 裂，长宽约 3.5-4.5 厘米。裂片狭长，呈卵状三角形，深裂可达叶基的四分之三；叶缘具清晰但较浅的锯齿。新叶初展时呈粉红偏红色，随后转为黄绿色，夏季则为中绿色；秋色鲜艳，为橙红色。'Akita yatsubusa' 是一个可靠且耐寒的品种。 后半段原文疑似为另一品种的描述，品名因 OCR 缺损而无法确认：其叶片相较植株类型而言偏小，着生于短枝上且排列较密。鲜绿色叶片具 5 或 7 裂，向外放射，呈 Acer palmatum subsp. palmatum 典型的星状。各裂片为卵形，先端渐尖锐利，边缘锯齿整齐，并常带有好看的微皱。通常中间 3 枚裂片明显长于两侧裂片。每片叶长宽约 3-5 厘米。叶柄与细枝带深红色调。秋色较明亮，偏黄橙色。这种半矮生小树既开展又直立，分枝细密，可在庭园中形成低矮的背景层。"
+  },
+  "has_mrmaple": false
+}

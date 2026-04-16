@@ -1,0 +1,61 @@
+{
+  "id": "acer-palmatum-twisted-spider",
+  "canonical_key": "twisted spider",
+  "canonical_name": "Twisted Spider",
+  "display_name": "Twisted Spider",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Twisted Spider'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar is an intriguing and strikingly unique green plant. It was discovered, propagated, and named by Harold Johnston as a chance seedling at Johnnie's Pleasure Plants Nursery, Tallassee, Alabama. The name 'Twisted Spider' aptly describes many of the narrow-lobed, sometimes almost spiral leaves of this unusual plant. It has a combination of fine, narrow and coarse widelobed leaves, with most leaves having five, or sometimes seven, deeply cut, almost linear lobes with uneven teeth. These lobes are irregularly twisted and curved. The leaves are 3-5 cm long and wide. Each lobe is 4-8 mm wide at the broadest point at the lower end. The larger coarser leaves are fewer in number but are more broadly ovate and with much coarser irregular toothing. These leaves are 6-8 cm long and 4-6 cm wide. Each lobe is 1.5-2.5 cm wide at the broadest point in the middle. Though the leaves are mostly five lobed, occasionally one or three of the lobes may be absent. The short, slender petioles are 1-2 cm long. The foliage is medium to dark green and turns a yellow orange in the fall. The petiole and shoots are green. 'Twisted Spider' is vigorous with an upright, slightly pendulous habit. It has reached 2 m high in six years, and its estimated mature height is 3-4 m with a spread of about 2 m."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Twisted Spider",
+      "page_range": "227",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Twisted Spider"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Twisted Spider'",
+    "Twisted Spider"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": false,
+  "rhs": null,
+  "descriptions_zh": {
+    "preferred": "该品种是一株引人注目且极具个性的绿色品种。它由 Harold Johnston 在美国阿拉巴马州 Tallassee 的 Johnnie's Pleasure Plants Nursery 从一株偶然出现的实生苗中发现、繁殖并命名。名称 'Twisted Spider' 十分贴切地描述了这种植物许多狭裂、且有时几乎呈螺旋状的叶片。它同时具有细窄裂片与较粗宽裂片两类叶形，但大多数叶片具 5 个、偶尔 7 个深裂、近线形的裂片，裂片边缘具不规则锯齿。这些裂片常不规则扭曲、弯折。此类叶片长宽约 3-5 厘米，每个裂片在靠近下部最宽处宽 4-8 毫米。数量较少的大型粗质叶片则更宽卵形，叶缘锯齿更粗且不规则；这类叶片长 6-8 厘米、宽 4-6 厘米，每个裂片在中部最宽处宽 1.5-2.5 厘米。虽然叶片多为 5 裂，但偶尔会缺少其中 1 个或 3 个裂片。短而细的叶柄长 1-2 厘米。叶色为中绿至深绿，秋季转为黄橙色。叶柄和新梢均为绿色。'Twisted Spider' 生长势较强，株形直立而稍带下垂。6 年可长至 2 米高，估计成熟株高 3-4 米，冠幅约 2 米。"
+  },
+  "has_mrmaple": false
+}

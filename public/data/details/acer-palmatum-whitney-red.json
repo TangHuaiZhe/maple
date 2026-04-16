@@ -1,0 +1,264 @@
+{
+  "id": "acer-palmatum-whitney-red",
+  "canonical_key": "whitney red",
+  "canonical_name": "Whitney Red",
+  "display_name": "Whitney Red",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Whitney Red'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Amoenum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "The vigorous tree with medium to deeply cut leaves is notable for its intense leaf color. The large fiveto seven-lobed leaves emerge a deep purple-red with red venation, retaining their color well into late summer when they become a bronze-red. Fall color is vivid scarlet. The ovate lobes have tail-like tips and are deeply divided to the flat base. The margins are evenly toothed. The strong leafstalk is dark. 'Whitney Red' is vigorous growing with a habit similar to that of"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/01-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071225.jpg",
+      "/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/02-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071224.jpg",
+      "/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/03-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071226.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/01-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071225.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/01-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071225.jpg",
+      "/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/02-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071224.jpg",
+      "/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/03-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071226.jpg"
+    ],
+    "public_count": 3
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Whitney Red",
+      "page_range": "184-188",
+      "group": "Amoenum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 227683,
+      "detail_url": "https://www.rhs.org.uk/plants/227683/acer-palmatum-whitney-red-(a)/details",
+      "botanical_name": "Acer palmatum 'Whitney Red' (A)",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "Acer palmatum 'Whitney Red' Red Japanese Maple Tree",
+      "handle": "buy-acer-palmatum-whitney-red-red-japanese-maple-tree",
+      "product_url": "https://mrmaple.com/products/buy-acer-palmatum-whitney-red-red-japanese-maple-tree",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 3,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Whitney Red' (A)",
+    "Whitney Red"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Whitney Red'",
+    "Acer palmatum 'Whitney Red' (A)",
+    "Whitney Red"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 227683,
+    "rhs_url": "https://www.rhs.org.uk/plants/227683/acer-palmatum-whitney-red-(a)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Whitney Red' (A)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Whitney Red"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这是一株生长旺盛的乔木，叶片中度至深裂，以浓烈的叶色著称。大型 5 至 7 裂叶萌发时为深紫红色，并具红色叶脉，颜色可良好保持至夏末，随后转为古铜红，秋季为鲜猩红色。卵形裂片具尾状尖端，深裂至平截叶基，叶缘具均匀锯齿，强健叶柄颜色较深。'Whitney Red' 生长势强，树形与 'Bloodgood' 相似，成熟后高 20 至 26 英尺（6 至 8 米），得名于美国华盛顿州 Brinnon 的 Whitney Gardens，原株即发现于此。'Wilson's Pink Dwarf' 属 Dwarf Group，绿色系。其叶片极小，通常具 5 个狭长裂片，边缘有齿，春季色彩极为丰富，整株呈明亮浅粉色或粉红偏红色，在景观中非常醒目，可持续数周。夏季叶片转为明亮浅绿色，边缘带粉色至锈红色。这一迷人的矮生直立灌木生长良好，长势旺盛，由加州苗圃人 James Wilson 选育命名。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 1,
+    "local_file_count": 3,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/01-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071225.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/01-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071225.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/02-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071224.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/03-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071226.jpg"
+    ],
+    "products": [
+      {
+        "title": "Acer palmatum 'Whitney Red' Red Japanese Maple Tree",
+        "handle": "buy-acer-palmatum-whitney-red-red-japanese-maple-tree",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-whitney-red-red-japanese-maple-tree",
+        "product_type": "",
+        "tags": [
+          "10 @ 10 AM",
+          "26th",
+          "4thSale",
+          "bcelebration",
+          "BLKFRIDAY",
+          "blkfriday2025",
+          "BSaving25",
+          "Cold Hardiness Zone_Zone 5",
+          "Cold Hardiness Zone_Zone 6",
+          "Cold Hardiness Zone_Zone 7",
+          "Cold Hardiness Zone_Zone 8",
+          "Cold Hardiness Zone_Zone 9",
+          "Colors_Red",
+          "DBSALE",
+          "Earlybird",
+          "EARLYBIRD26",
+          "EOY",
+          "eoy23",
+          "FALLCUSTOMER",
+          "FallSale",
+          "FALLSALE25",
+          "Feature_Fast Growing",
+          "Habit_Upright",
+          "Habitat Conditions_Shady Areas",
+          "Habitat Conditions_Sunlit Areas",
+          "julyxmas",
+          "n29",
+          "NEWYEARS26",
+          "nov27",
+          "OHDISCOUNT",
+          "Shop The Sale",
+          "Size_Large",
+          "Species_Acer palmatum",
+          "SPRINGSALE25",
+          "Sun In_Zone 5",
+          "Sun In_Zone 6",
+          "Sun In_Zone 7",
+          "Sun In_Zone 8",
+          "Type_Japanese Maple",
+          "VDAYSALE25",
+          "VDAYSALE26"
+        ],
+        "description_text": "Acer palmatum 'Whitney Red' Red Japanese Maple Zones 5-9 'Whitney Red' is an upright Japanese maple with a full amoenum leaf that is a good grower with good vivid red fall color. Some online tout its cold resistance in rough years, while others tout is vigor and medium-sized stature. 'Whitney Red'was found as red Japanese maple seedling that was growing at Whitney Gardens in Brinnon, Washington. It held its color well throughout the season, but was selected because it held its leaves later into the season than other red upright Japanese maples, like Bloodgood. While this selection 'Whitney Red' may reach 10 ft in 15 ft years.",
+        "published_at": "2025-11-27T09:00:12-05:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer palmatum",
+        "matched_title_cultivar": "Whitney Red",
+        "images": {
+          "count": 3,
+          "downloaded_count": 3,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/01-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071225.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/02-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071224.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/03-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071226.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071225.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071225.jpg?v=1756344032",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-whitney-red-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/01-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071225.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 477446,
+              "downloaded_at": "2026-04-14T02:33:33+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071224.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071224.jpg?v=1756344032",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-whitney-red-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/02-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071224.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 135147,
+              "downloaded_at": "2026-04-14T02:33:33+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071226.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071226.jpg?v=1756344032",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-whitney-red-red-japanese-maple-tree",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-whitney-red-red-japanese-maple-tree/03-Acer_palmatum_Whitney_Red_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071226.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 44306,
+              "downloaded_at": "2026-04-14T02:33:33+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

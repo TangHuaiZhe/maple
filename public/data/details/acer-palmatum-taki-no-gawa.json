@@ -1,0 +1,190 @@
+{
+  "id": "acer-palmatum-taki-no-gawa",
+  "canonical_key": "taki no gawa",
+  "canonical_name": "Taki-no-gawa",
+  "display_name": "Taki-no-gawa",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Taki-no-gawa'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "matsumurae"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar is mentioned in several early references, including some with clear illustrations. It is a fairly hardy plant which makes a round-headed tall shrub, up to 5 m high at maturity. The colors of the seven-lobed leaves are distinct. The new foliage has a bright brick-red or rust color as a strong overtone on the light green leaf. This color develops best in the sun. The foliage of heavily shaded plants remains a light green. The foliage color stands out in contrast with other cultivars. During the summer the intensity diminishes. In the fall, the colors take on a mottled pattern, and the reds become stronger. The leaves are 7 cm long and 8-9 cm wide, and extend horizontally instead of hanging down. The leaf base is dwarf -green"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-taki-no-gawa/01-GWIS405.jpg",
+      "/rhs-images/acer-palmatum-taki-no-gawa/02-GWIS406.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-taki-no-gawa/01-GWIS405.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-taki-no-gawa/01-GWIS405.jpg",
+      "/rhs-images/acer-palmatum-taki-no-gawa/02-GWIS406.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Taki-no-gawa",
+      "page_range": "219",
+      "group": "matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 529596,
+      "detail_url": "https://www.rhs.org.uk/plants/529596/acer-palmatum-taki-no-gawa-(m)/details",
+      "botanical_name": "Acer palmatum 'Taki-no-gawa' (M)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Taki-no-gawa' (M)",
+    "Japanese maple 'Takinogawa'",
+    "Taki-no-gawa"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Taki-no-gawa'",
+    "Acer palmatum 'Taki-no-gawa' (M)",
+    "Japanese maple 'Takinogawa'",
+    "Taki-no-gawa"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 529596,
+    "rhs_url": "https://www.rhs.org.uk/plants/529596/acer-palmatum-taki-no-gawa-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Taki-no-gawa' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Takinogawa'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Taki-no-gawa"
+    ],
+    "description": "An upright, medium-sized deciduous shrub or small tree with feathery, lobed leaves, reaching a height of around 2m. Leaves are dark green with an orange hue, changing to bright fiery shades of orange, red and yellow in the autumn",
+    "dimensions": {
+      "height": "1.5-2.5 metres",
+      "spread": "1-1.5 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "East-facing, South-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub",
+      "habit": "Columnar/Upright",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Low Maintenance, Patio/Container Plants, Rock Garden",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maple cultivation",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "GWIS405.jpg",
+        "GWIS406.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-taki-no-gawa/01-GWIS405.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-taki-no-gawa/02-GWIS406.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "GWIS405.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/GWIS405.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/529596/acer-palmatum-taki-no-gawa-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-taki-no-gawa/01-GWIS405.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 226891,
+          "downloaded_at": "2026-04-14T01:47:59+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "GWIS406.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/GWIS406.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/529596/acer-palmatum-taki-no-gawa-(m)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-taki-no-gawa/02-GWIS406.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 170253,
+          "downloaded_at": "2026-04-14T01:48:00+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。",
+      "suggested_uses": "适用于观赏型种植、城市或庭院花园、乡村或自然式花园、花境与花坛、低维护栽培、庭院容器栽培以及岩石园。"
+    },
+    "care": {
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖",
+      "cultivation": "宜栽培于湿润但排水良好的土壤中。夏季必要时应补充浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴晒过度都可能导致叶缘焦枯。参见日本枫树栽培资料。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "一种直立型、中等大小的落叶灌木或小乔木，具羽状裂叶，高约可达 2 米。叶片深绿色并带橙色色调，秋季转为明亮而火焰般的橙、红、黄色。"
+  },
+  "descriptions_zh": {
+    "preferred": "这一品种见于多种早期资料中，其中一些还附有清晰插图。它较为耐寒，成熟后形成圆头状高大灌木，高可达 5 米。其 7 裂叶的色彩十分鲜明。新叶在浅绿色底上覆有鲜亮的砖红色或锈色强烈晕染，这种色泽在日照下表现最佳；重荫环境中的植株则会保持浅绿色。其叶色与其他品种形成鲜明对比。夏季时，这种色彩强度会减弱；到秋季，叶色呈现斑驳图案，红色进一步增强。叶片长约 7 厘米、宽 8 至 9 厘米，平展而非下垂。 ‘Tama hime’ 是一个秋色优良的矮生绿色品种。细小叶片初展时为浅绿色，很快转为浓郁而有光泽的绿色。该叶色可持续至秋季，届时叶片显现红色、深红色，并夹杂部分黄色。5 裂叶长宽均为 3 至 4 厘米，质地较薄。裂片卵形，先端为短尖，裂至约叶基的三分之二。边缘具明显锯齿。红色叶柄很短，仅 1 至 2 厘米长。该品种生长紧凑，直立，花瓶形，多分枝，幼年生长势较强，但株高和冠幅均不超过 2 米。它很适合制作盆景；通过反复摘心及其他盆景养护技法，叶片可缩小至不足 1 厘米。‘Tama hime’ 一名意为“小球”。该品种另一个曾用名为 ‘Yatsubusa tamahime’。"
+  },
+  "has_mrmaple": false
+}

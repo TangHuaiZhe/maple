@@ -1,0 +1,192 @@
+{
+  "id": "acer-palmatum-autumn-glory",
+  "canonical_key": "autumn glory",
+  "canonical_name": "Autumn Glory",
+  "display_name": "Autumn Glory",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Autumn Glory'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae",
+    "amoenum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This Belgium cultivar is noted for its beautiful fall color display. The GLORY' typical, medium-sized leaves are deeply divided into five to seven lobes with coarsely toothed margins. Spring leaves are yellow-green with pink-red tinged margins, soon becoming medium green for summer, then turning brilliant crimson in the fall. 'Autumn Glory' forms a small broad upright-growing tree up to 20 ft. (6 m) tall."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-autumn-glory-japanese-maple/01-Acer_palmatum_Autumn_Glory_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043600.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-autumn-glory-japanese-maple/01-Acer_palmatum_Autumn_Glory_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043600.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-autumn-glory-japanese-maple/01-Acer_palmatum_Autumn_Glory_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043600.jpg"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Autumn Glory",
+      "page_range": "41-43",
+      "group": "Matsumurae",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 227,
+      "detail_url": "https://www.rhs.org.uk/plants/227/acer-palmatum-autumn-glory-(m)/details",
+      "botanical_name": "Acer palmatum 'Autumn Glory' (M)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Autumn Glory",
+      "page_range": "117-118",
+      "group": "amoenum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Autumn Glory' (M)",
+    "Autumn Glory",
+    "Japanese maple 'Autumn Glory'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Autumn Glory'",
+    "Acer palmatum 'Autumn Glory' (M)",
+    "Autumn Glory",
+    "Japanese maple 'Autumn Glory'"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 227,
+    "rhs_url": "https://www.rhs.org.uk/plants/227/acer-palmatum-autumn-glory-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Autumn Glory' (M)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Autumn Glory'"
+    ],
+    "cultivar_names": [
+      "Autumn Glory"
+    ],
+    "description": "A small, deciduous spreading tree about 3-4m tall, selected for its autumn colour at The Garden House, Yelverton, Devon. Palmate, 7-lobed bronze-green leaves in summer turn light, bright, fiery red in autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, West-facing, North-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Alkaline, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Bushy, Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "City/Courtyard Gardens, Cottage/Informal Garden, Wildlife Gardens",
+      "hort_group_description": "Acers in this matsumurae group are deeply divided to around three quarters of the leaf with coarsely-toothed edges and narrow, pointed lobes"
+    },
+    "care": {
+      "cultivation": "Grow in any moisture-retentive, well-drained soil in a sheltered position. Leaf colour is best in partial shade, although full sun can be tolerated if soil is reliably moist. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maples cultivation",
+      "pruning": "Pruning group 1 , only from late autumn to mid-winter",
+      "propagation": "Propagate by softwood cuttings, layering or by grafting . Plants grown from seed are unlikely to come true, but may still be garden worthy"
+    },
+    "resistance": {
+      "pest": "May be susceptible to aphids and scale insects , including horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "此 matsumurae 组的槭树，叶片深裂约达叶片的四分之三，叶缘具粗齿，裂片狭长且先端尖。",
+      "suggested_uses": "城市/庭院花园、乡村/自然式花园、野生动物友好型花园"
+    },
+    "care": {
+      "cultivation": "宜栽于保水且排水良好的土壤中，并选择避风位置。半阴环境下叶色表现最佳；若土壤湿度稳定，也可耐全日照。土壤缺水或暴露过度都可能导致叶片焦边。参见 Japanese maples cultivation。",
+      "pruning": "修剪组 1，仅限晚秋至仲冬期间修剪。",
+      "propagation": "可通过嫩枝扦插、压条或嫁接繁殖。实生苗通常难以保持品种性状，但仍可能具有园艺观赏价值。"
+    },
+    "resistance": {
+      "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "小型落叶开展性乔木，高约 3-4 米，于德文郡 Yelverton 的 The Garden House 因其秋色而被选出。夏季叶为掌状 7 裂，呈青铜绿色；秋季转为浅而明亮的火红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "这一比利时品种以其优美的秋色表现而著称。‘Autumn Glory’ 的典型中型叶片深裂为 5 至 7 裂，叶缘具粗锯齿。春叶黄绿色，叶缘带粉红至红色晕染，随后在夏季转为中绿色，秋季再转为鲜艳的深绯红色。‘Autumn Glory’ 形成小型、宽幅、直立生长的乔木，高可达 20 英尺（6 米）。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 5,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-autumn-glory-japanese-maple/01-Acer_palmatum_Autumn_Glory_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043600.jpg"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-autumn-glory-japanese-maple/01-Acer_palmatum_Autumn_Glory_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043600.jpg",
+    "products": [
+      {
+        "title": "Acer palmatum 'Autumn Glory' Japanese Maple",
+        "handle": "buy-acer-palmatum-autumn-glory-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-autumn-glory-japanese-maple",
+        "description_text": "Acer palmatum 'Autumn Glory' Exceptional Fall Color Autumn Glory Japanese Maple Zones 5-9 'Autumn Glory' is a green Japanese maple that is known for having one of the best fiery orange to red fall color. 'Autumn Glory' is heat tolerant and a vigorous grower. 'Autumn Glory' may reach 15 ft in 10 years.",
+        "image_count": 1,
+        "match_method": "search_html",
+        "match_score": 120,
+        "images": {
+          "downloaded_count": 1,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-autumn-glory-japanese-maple/01-Acer_palmatum_Autumn_Glory_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043600.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Autumn_Glory_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043600.jpg?v=1722547282",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-autumn-glory-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-autumn-glory-japanese-maple/01-Acer_palmatum_Autumn_Glory_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043600.jpg",
+              "content_type": "image/webp",
+              "bytes": 220020,
+              "downloaded_at": "2026-04-16T07:11:10.901Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "acer-palmatum-kasen-nishiki",
+  "canonical_key": "kasen nishiki",
+  "canonical_name": "Kasen nishiki",
+  "display_name": "Kasen nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Kasen nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "New foliage in the spring is often a surprising pink red or light orange red, which soon matures into variegated greens. Variegation is quite subtle, not bright or garish as in 'Oridono nishiki'. There are irregular and indiscriminate sections of white or cream on many leaves, and these portions are usually sickle shaped. Most leaves have a very light or pastel shading. Speckling and dotting of white, cream, or occasionally whitish green make up the variegation. The coloration is a very soft tone, shading throughout the foliage. It is quite different from most variegated cultivars. The medium-sized leaves range up to 5 cm long and 6 cm broad. Occasionally, vigorous new fall growth produces leaves which are larger than this. Most foliage on hardy cultivar and well worth its place in the garden landscape. It has also been known under the name"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Kasen nishiki",
+      "page_range": "89",
+      "group": "Palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 51063,
+      "detail_url": "https://www.rhs.org.uk/plants/51063/acer-palmatum-kasen-nishiki-(p)/details",
+      "botanical_name": "Acer palmatum 'Kasen-nishiki' (P)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Kasen nishiki",
+      "page_range": "157-158",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Kasen-nishiki' (P)",
+    "Kasen nishiki",
+    "Kasen-nishiki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Kasen nishiki'",
+    "Acer palmatum 'Kasen-nishiki' (P)",
+    "Kasen nishiki",
+    "Kasen-nishiki"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 51063,
+    "rhs_url": "https://www.rhs.org.uk/plants/51063/acer-palmatum-kasen-nishiki-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Kasen-nishiki' (P)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Kasen-nishiki"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "春季新叶常呈令人惊喜的粉红偏红或浅橙红色，随后很快成熟为带斑锦的绿色。其斑锦较为含蓄，不像 'Oridono nishiki' 那样鲜亮张扬。许多叶片上分布着不规则且无固定模式的白色或奶油色区块，这些部位通常呈镰刀形。大多数叶片带有很浅的、近粉彩感的色彩晕染。白色、奶油色，偶尔略带白绿色的细点和斑驳共同构成其斑锦。整体色调非常柔和，均匀过渡于整株叶丛之中，与大多数斑叶品种明显不同。中等大小的叶片最长约 5 厘米、最宽约 6 厘米；偶尔在秋季强旺新梢上会抽生更大的叶片。大多数叶片着生于较短枝条上。该品种耐寒性好，很值得在园林景观中占有一席之地。它也曾以 'Hana izumi nishiki' 之名流传。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

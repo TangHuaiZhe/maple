@@ -1,0 +1,107 @@
+{
+  "id": "acer-palmatum-korean-gem",
+  "canonical_key": "korean gem",
+  "canonical_name": "Korean Gem",
+  "display_name": "Korean Gem",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Korean Gem'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Amoenum",
+    "palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This maple was described in earlier editions of this book under the natural variety Acer palmatum var. koreanum, and in Maples of the World under 'Koreanum'. Acer palmatum var. coreanum was the name given by Takenoshin Nakai in 1914 to this natural form indigenous to South Korea and adjacent islands. However, it was based on an abnormal specimen with petal-less flowers. Thus the name was illegitimate under the 1959 Botanical Code and was later absorbed into A. palmatum subsp. palmatum by variable, naturally occurring population with the same name, and because Latin names have been banned for cultivars since 1959, the Hillier clone has been renamed 'Korean Gem'. This excellent green palmatum has brilliant fall colors ranging from yellows to oranges and occasionally blended with red. The twig coloration is dark red, especially in the fall and winter. The leaves are a bright, light green. The margins have a very narrow and faint red marking in the spring. The fiveor seven-lobed leaves, 6-10 cm long and wide, are separated two-thirds of the way to the leaf base, and radiate outward. The lobes are ovate and taper to a sharp point, with the margins finely double serrated. The petioles are red and up to 4 cm long. 'Korean Gem' is strong growing and hardy and forms an upright, round-headed, medium-sized to large tree up to 7 m high. With proper pruning, it can also be made to form a round-headed, short tree."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Korean Gem",
+      "page_range": "95",
+      "group": "Amoenum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 251575,
+      "detail_url": "https://www.rhs.org.uk/plants/251575/acer-palmatum-korean-gem-(m)/details",
+      "botanical_name": "Acer palmatum 'Korean Gem' (M)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Korean Gem",
+      "page_range": "163",
+      "group": "palmatum",
+      "color_group": "green",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Korean Gem' (M)",
+    "Acer palmatum 'Koreanum'",
+    "Acer palmatum var. coreanum 'Korean Gem'",
+    "Korean Gem",
+    "Koreanum"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Korean Gem'",
+    "Acer palmatum 'Korean Gem' (M)",
+    "Acer palmatum 'Koreanum'",
+    "Acer palmatum var. coreanum 'Korean Gem'",
+    "Korean Gem",
+    "Koreanum"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 251575,
+    "rhs_url": "https://www.rhs.org.uk/plants/251575/acer-palmatum-korean-gem-(m)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Korean Gem' (M)",
+    "species_name": "Acer palmatum",
+    "synonyms": [
+      "Acer palmatum var. coreanum 'Korean Gem'",
+      "Acer palmatum 'Koreanum'"
+    ],
+    "cultivar_names": [
+      "Korean Gem",
+      "Koreanum"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "本书早期版本曾将这株枫树归于自然变种 Acer palmatum var. koreanum，《Maples of the World》中则列于 'Koreanum' 名下。Acer palmatum var. coreanum 是 Takenoshin Nakai 于 1914 年赋予这一原产韩国及邻近岛屿自然类型的名称。但该名称所依据的是一个花瓣缺失的异常标本，因此按 1959 年《植物命名法规》属于非法名称，后来被并入 A. palmatum subsp. palmatum。由于同名自然群体变异较大，且自 1959 年起栽培品种不再允许使用拉丁名，这个 Hillier 克隆后来改名为 'Korean Gem'。这一优秀的绿色 palmatum 品种秋色极为出色，从黄色到橙色不等，有时还会混有红色。嫩枝呈深红色，尤其在秋冬季更为明显。叶片鲜亮浅绿，春季叶缘有极窄且很淡的红色镶边。叶 5 或 7 裂，长宽 6-10 厘米，裂片约分离至叶基的三分之二处，并向外辐射展开。裂片呈卵形，先端渐尖，边缘具细密重锯齿。叶柄为红色，长可达 4 厘米。'Korean Gem' 生长健旺且耐寒，可形成直立、圆头状的中型至大型乔木，高可达 7 米。经过适当修剪，也可培养成圆头状的矮生小乔木。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

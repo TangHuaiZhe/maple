@@ -1,0 +1,95 @@
+{
+  "id": "acer-palmatum-wakehurst-pink",
+  "canonical_key": "wakehurst pink",
+  "canonical_name": "Wakehurst Pink",
+  "display_name": "Wakehurst Pink",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Wakehurst Pink'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Matsumurae"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "This large-leaved deeply divided cultivar has greenish leaves which are pink flushed in the spring, becoming greenish bronzed with pink dots and blotched variegation. However, like many maple variegates, the richer the growing conditions, the less the variegation until it disappears altogether. A curious feature of 'Wakehurst Pink' is that, sometimes, on fully developed leaves, the outer lobes are deeply divided to within 5 mm of the leaf base whereas, with the central lobe, the lobe junctions are 1.5-2 cm from the leaf base. The large-lobed leaves are 8.5-9.5 cm long and 10.5- 12 cm wide. They are long-ovate with tail-like pointed tips, and regular sharp-pointed hooked teeth around the margins. The basal lobes tend to spread at right angles to the petioles. The purple-red petioles are 3-4.5 cm long with swollen bases. The upright growth habit is similar to that of"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Wakehurst Pink",
+      "page_range": "182",
+      "group": "Matsumurae",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 114944,
+      "detail_url": "https://www.rhs.org.uk/plants/114944/acer-palmatum-wakehurst-pink-(m-v)/details",
+      "botanical_name": "Acer palmatum 'Wakehurst Pink' (M/v)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Wakehurst Pink",
+      "page_range": "233-234",
+      "group": "matsumurae",
+      "color_group": "variegated",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Wakehurst Pink' (M/v)",
+    "Wakehurst Pink"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Wakehurst Pink'",
+    "Acer palmatum 'Wakehurst Pink' (M/v)",
+    "Wakehurst Pink"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 114944,
+    "rhs_url": "https://www.rhs.org.uk/plants/114944/acer-palmatum-wakehurst-pink-(m-v)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Wakehurst Pink' (M/v)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Wakehurst Pink"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这一大叶、深裂的栽培品种，春季叶片为带粉色晕染的绿色，随后转为带古铜感的绿叶，并带有粉色点斑和不规则锦斑。不过，与许多斑叶槭树一样，栽培条件越肥沃，斑纹越不明显，直至完全消失。'Wakehurst Pink' 的一个有趣特征是：有时在完全展开的叶片上，外侧裂片会深裂至距叶基仅 5 毫米处，而中央裂片的裂片连接处则距叶基 1.5 至 2 厘米。大裂片叶长 8.5 至 9.5 厘米，宽 10.5 至 12 厘米。裂片为长卵形，先端具尾状尖头，叶缘具规则的锐尖钩状锯齿。基部裂片常近直角伸向叶柄两侧。紫红色叶柄长 3 至 4.5 厘米，基部膨大。其直立生长习性与"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

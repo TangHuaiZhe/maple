@@ -1,0 +1,97 @@
+{
+  "id": "acer-palmatum-koshibori-nishiki",
+  "canonical_key": "koshibori nishiki",
+  "canonical_name": "Koshibori nishiki",
+  "display_name": "Koshibori nishiki",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Koshibori nishiki'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "variegated"
+  ],
+  "descriptions": {
+    "preferred": "The basic color of this variegated cultivar is light, bright green. The new leaves are edged with orange and red. The sunago fu (sand-dusted) form of variegation consists of Corvallis from the center, giving a definite palmate appearance. Occasionally, they are irregularly curved. Shoots are crimson. Fall colors graduate through the yellows into the orange tones. The leaves vary from 2 to 2.5 cm long and 3 cm wide on mature foliage of older wood. Some leaves are as much as 5 cm long and 6 cm wide on vigorous young shoots. This short shrub is of twiggy, slightly cascading habit and makes a dense but lacy plant. It is a cultivar of almost dwarf structure, with small foliage and, for best appearance, should not be overfertilized. It probably reaches 2.5 m or a little more at maturity. It is a desirable small landscape plant and also adapts very well to container culture."
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Koshibori nishiki",
+      "page_range": "95-96",
+      "group": "Palmatum",
+      "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 45035,
+      "detail_url": "https://www.rhs.org.uk/plants/45035/acer-palmatum-koshibori-nishiki-(p)/details",
+      "botanical_name": "Acer palmatum 'Koshibori-nishiki' (P)",
+      "description": ""
+    },
+    {
+      "source": "momiji_kaede",
+      "name": "Koshibori nishiki",
+      "page_range": "163-164",
+      "group": "palmatum",
+      "color_group": "variegated",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Koshibori-nishiki' (P)",
+    "Koshibori nishiki",
+    "Koshibori-nishiki"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Koshibori nishiki'",
+    "Acer palmatum 'Koshibori-nishiki' (P)",
+    "Koshibori nishiki",
+    "Koshibori-nishiki"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 45035,
+    "rhs_url": "https://www.rhs.org.uk/plants/45035/acer-palmatum-koshibori-nishiki-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Koshibori-nishiki' (P)",
+    "species_name": "Acer palmatum",
+    "cultivar_names": [
+      "Koshibori-nishiki"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "这类斑叶品种的基本叶色为明亮浅绿色，新叶边缘带橙色与红色。其 sunago fu（砂吹斑）型锦斑由极细小的淡色斑点组成，使叶片呈现明确的掌状观感；偶尔叶片会出现不规则弯曲。嫩枝为深红色。秋叶经黄色系列逐渐转入橙色调。成熟老枝上的叶片通常长 2 至 2.5 厘米、宽约 3 厘米；生长旺盛的新梢上，有些叶片可达长 5 厘米、宽 6 厘米。该矮生灌木枝条细密，株形略下垂，整体致密而不失轻盈通透，近于侏儒型结构，叶片细小；为保持最佳观赏效果，不宜施肥过多。成熟后株高大约可达 2.5 米或略高。适合作为小型园景植物，也非常适于容器栽培。"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

@@ -1,0 +1,190 @@
+{
+  "id": "acer-palmatum-ojishi",
+  "canonical_key": "ojishi",
+  "canonical_name": "Ojishi",
+  "display_name": "Ojishi",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Ojishi'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "- 'Ojishi', meaning \"male lion,\" is smaller and more compact than 'Mejishi', meaning \"female lion,\" which is better known as the popular 'Shishigashira'. It has similar but larger, bright green, less crinkly leaves which turn a bright gold in the fall. The leaves are more closely arranged on the stem. The rate of growth is slow, making a very dwarf, multibranched, little shrub which grows up to 61⁄2 ft. (2 m) high."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [
+      "/herter-images/acer-palmatum-ojishi/01-ojishi.jpg"
+    ],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/herter-images/acer-palmatum-ojishi/01-ojishi.jpg",
+    "public_paths": [
+      "/herter-images/acer-palmatum-ojishi/01-ojishi.jpg"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Ojishi",
+      "page_range": "122",
+      "group": "Dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 198124,
+      "detail_url": "https://www.rhs.org.uk/plants/198124/acer-palmatum-ojishi-(dw)/details",
+      "botanical_name": "Acer palmatum 'Ojishi' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "herter",
+      "name": "Ojishi Dwarf Grafted Japanese Maple",
+      "detail_url": "https://japanesemaple.net/product/ojishi-dwarf-grafted-japanese-maple/",
+      "description": "Ojishi is a Dwarf Grafted Japanese Maple with leaf colors of green and golds. The leaves are very small and crinkly, very closely related to the shishigashira or lions head maple. They can reach to 6 ft tall, but can also be pruned as you like. Grows very slow. Very good for Bonsai.",
+      "group": "All Japanese Maples",
+      "image_count": 1,
+      "matched_product_count": 1,
+      "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Ojishi' (Dw)",
+    "Ojishi"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Ojishi'",
+    "Acer palmatum 'Ojishi' (Dw)",
+    "Ojishi"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 198124,
+    "rhs_url": "https://www.rhs.org.uk/plants/198124/acer-palmatum-ojishi-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Ojishi' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Ojishi"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "'Ojishi' 意为“雄狮”，比 'Mejishi'（意为“雌狮”）更小且更紧凑；后者更广为人知，其通用品种名为 'Shishigashira'。'Ojishi' 的叶片与其相似，但更大、鲜绿色、皱褶感较弱，秋季转为明亮金黄色。叶片在枝条上的排列也更为紧密。生长速度缓慢，形成极为矮小、分枝繁多的小灌木，高可达 6 1/2 英尺（2 米）。"
+  },
+  "has_mrmaple": false,
+  "herter": {
+    "source_name": "Herter Nursery",
+    "collection_url": "https://japanesemaple.net/products/all-japanese-maples/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-ojishi/01-ojishi.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-ojishi/01-ojishi.jpg"
+    ],
+    "products": [
+      {
+        "product_id": 1460,
+        "name": "Ojishi Dwarf Grafted Japanese Maple",
+        "slug": "ojishi-dwarf-grafted-japanese-maple",
+        "product_url": "https://japanesemaple.net/product/ojishi-dwarf-grafted-japanese-maple/",
+        "description_text": "Ojishi is a Dwarf Grafted Japanese Maple with leaf colors of green and golds. The leaves are very small and crinkly, very closely related to the shishigashira or lions head maple. They can reach to 6 ft tall, but can also be pruned as you like. Grows very slow. Very good for Bonsai.",
+        "short_description_text": "",
+        "category_names": [
+          "All Japanese Maples"
+        ],
+        "price_range": {
+          "currency_code": "USD",
+          "currency_symbol": "$",
+          "min": 29,
+          "max": 45
+        },
+        "review_count": 0,
+        "stock_status": {
+          "class": "in-stock",
+          "text": ""
+        },
+        "match_method": "exact",
+        "match_candidate": "ojishi"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://japanesemaple.net/wp-content/uploads/2024/11/ojishi.jpg",
+          "local_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-ojishi/01-ojishi.jpg",
+          "bytes": 13218,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-16T06:49:54.569Z",
+          "status": "downloaded",
+          "source_name": "Herter Nursery",
+          "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/herter-images/acer-palmatum-ojishi/01-ojishi.jpg"
+      ]
+    }
+  },
+  "has_herter": true
+}

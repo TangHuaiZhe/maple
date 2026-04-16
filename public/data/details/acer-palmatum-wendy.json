@@ -1,0 +1,193 @@
+{
+  "id": "acer-palmatum-wendy",
+  "canonical_key": "wendy",
+  "canonical_name": "Wendy",
+  "display_name": "Wendy",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Wendy'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The attractive small, ivy-textured, semiglossy leaves have seven broadly ovate lobes with conspicuously largetoothed margins. New leaves are a delightful orange-pink, becoming bronze-red, and then changing to medium green, almost blue-green, with bronzed margins, thus producing a subtle multicolored effect throughout the summer. 'Wendy' forms a semidwarf spreading bush and is ideal for small gardens and containers."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-wendy/01-visi68976.jpg",
+      "/rhs-images/acer-palmatum-wendy/02-visi68975.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-wendy/01-visi68976.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-wendy/01-visi68976.jpg",
+      "/rhs-images/acer-palmatum-wendy/02-visi68975.jpg"
+    ],
+    "public_count": 2
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Wendy",
+      "page_range": "184",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 181373,
+      "detail_url": "https://www.rhs.org.uk/plants/181373/acer-palmatum-wendy-(p)/details",
+      "botanical_name": "Acer palmatum 'Wendy' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Wendy' (P)",
+    "Japanese maple 'Wendy'",
+    "Wendy"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Wendy'",
+    "Acer palmatum 'Wendy' (P)",
+    "Japanese maple 'Wendy'",
+    "Wendy"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 181373,
+    "rhs_url": "https://www.rhs.org.uk/plants/181373/acer-palmatum-wendy-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Wendy' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Wendy'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Wendy"
+    ],
+    "description": "A deciduous shrub or small tree, to around 4m high, with an upright habit and lobed, glossy leaves that emerge reddish with golden yellow veins. Leaves mature to olive green and bronze, before turning bright orange and red in autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, South-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Columnar/Upright",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, Low Maintenance",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in moisture-retentive, well-drained, ideally slightly acidic soil, in a sheltered position with protection from drying winds. Thrives in part shade, though some sun is needed to develop the leaf colour; will tolerate full sun if soil is reliably moist. Mulch in spring to improve moisture retention. See Japanese maples cultivation",
+      "pruning": "Minimal pruning required; see pruning group 1 . Prune from late autumn to mid-winter only",
+      "propagation": "Propagate by layering or grafting"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 2,
+      "filenames": [
+        "visi68976.jpg",
+        "visi68975.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-wendy/01-visi68976.jpg",
+        "Resource/园艺/raw/rhs-images/acer-palmatum-wendy/02-visi68975.jpg"
+      ],
+      "downloaded_count": 2,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "visi68976.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi68976.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/181373/acer-palmatum-wendy-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-wendy/01-visi68976.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 121607,
+          "downloaded_at": "2026-04-14T01:48:02+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        },
+        {
+          "index": 2,
+          "filename": "visi68975.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/visi68975.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/181373/acer-palmatum-wendy-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-wendy/02-visi68975.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 217142,
+          "downloaded_at": "2026-04-14T01:48:02+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "suggested_uses": "造型性强、养护需求低",
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。"
+    },
+    "care": {
+      "pruning": "所需修剪极少；参见修剪第 1 组。仅可在晚秋至仲冬期间修剪。",
+      "cultivation": "宜栽植于保湿性好且排水良好的土壤中，最好为微酸性；选择避风、可防止干燥风侵袭的位置。半阴环境生长最佳，但为使叶色充分表现，仍需一定日照；若土壤能稳定保持湿润，也可耐全日照。春季覆 mulch 以提高土壤保湿性。参见日本枫栽培说明。",
+      "propagation": "可采用压条或嫁接繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "落叶灌木或小乔木，株高约4米，树形直立。叶片具裂，表面有光泽，春季新叶带红色，叶脉呈金黄色。随后叶色转为橄榄绿与青铜色，秋季转为鲜橙色和红色。"
+  },
+  "descriptions_zh": {
+    "preferred": "其迷人的小型叶片带有常春藤般的质感，半具光泽，通常具 7 个宽卵形裂片，叶缘具明显的大锯齿。新叶呈悦目的橙粉色，随后转为古铜红，再变为中绿色，近蓝绿色，并带古铜色叶缘，因此整个夏季都呈现细腻的多彩效果。'Wendy' 形成半矮生、开展型灌木，非常适合小型庭院和容器栽培。"
+  },
+  "has_mrmaple": false
+}

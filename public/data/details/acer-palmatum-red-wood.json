@@ -1,0 +1,176 @@
+{
+  "id": "acer-palmatum-red-wood",
+  "canonical_key": "red wood",
+  "canonical_name": "Red Wood",
+  "display_name": "Red Wood",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Red Wood'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "Colorful winter bark distinguishes this Oregon cultivar. The coral-red shoots are similar to those of the popular 'Sango kaku' and hold their color for two years. The smallish fiveto seven-lobed leaves are a light yellowgreen in the spring, becoming a fresh green for summer, then turning golden-yellow with pink and red tinges in the fall. 'Red Wood' forms an upright tree, reaching up to 13 ft. (4 m) tall. It makes an excellent landscape and container plant. Acer"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-red-wood/01-mebr00224.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-red-wood/01-mebr00224.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-red-wood/01-mebr00224.jpg"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Red Wood",
+      "page_range": "140",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 194997,
+      "detail_url": "https://www.rhs.org.uk/plants/194997/acer-palmatum-red-wood-(p)/details",
+      "botanical_name": "Acer palmatum 'Red Wood' (P)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Red Wood' (P)",
+    "Japanese maple 'Red Wood'",
+    "Red Wood"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Red Wood'",
+    "Acer palmatum 'Red Wood' (P)",
+    "Japanese maple 'Red Wood'",
+    "Red Wood"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 194997,
+    "rhs_url": "https://www.rhs.org.uk/plants/194997/acer-palmatum-red-wood-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Red Wood' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Red Wood'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Red Wood"
+    ],
+    "description": "A deciduous shrub or small tree, to around 4m high, with striking red bark contrasting with deeply lobed leaves that emerge bright lime green in spring. Leaves mature to mid green before turning pale yellow, peach and pink in autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "10-20 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "East-facing, South-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Neutral, Acid",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub, Tree",
+      "habit": "Columnar/Upright, Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, City/Courtyard Gardens, Cottage/Informal Garden, Low Maintenance",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in moisture-retentive, well-drained, ideally slightly acidic soil, in a sheltered position with protection from drying winds. Thrives in part shade, though will tolerate full sun if soil is reliably moist. Mulch in spring to improve moisture retention. See Japanese maples cultivation",
+      "pruning": "Minimal pruning required; see pruning group 1 . Prune from late autumn to mid-winter only",
+      "propagation": "Propagate by layering or grafting"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "mebr00224.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-red-wood/01-mebr00224.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "mebr00224.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/mebr00224.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/194997/acer-palmatum-red-wood-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-red-wood/01-mebr00224.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 228876,
+          "downloaded_at": "2026-04-14T01:47:57+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "time_to_full_height": "10-20 年"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。",
+      "suggested_uses": "观赏造型、城市/庭院花园、乡村/自然式花园、低养护"
+    },
+    "care": {
+      "pruning": "所需修剪极少；参见修剪第 1 组。仅可在晚秋至仲冬期间修剪。",
+      "cultivation": "宜栽植于保湿性好且排水良好的土壤中，最好为微酸性土；种植位置应避风，并防止干燥风吹袭。半阴环境下生长最佳；若土壤能持续保持湿润，也可耐全日照。春季覆 mulch 以提高土壤保湿性。另见 Japanese maples cultivation。",
+      "propagation": "可采用压条或嫁接繁殖。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "落叶灌木或小乔木，高约 4 米。鲜明的红色枝干与深裂叶片形成强烈对比；春季新叶明亮的青柠绿色，成熟后转为中绿色，秋季则变为淡黄色、蜜桃色和粉色。"
+  },
+  "descriptions_zh": {
+    "preferred": "这一源自俄勒冈州的品种以色彩鲜明的冬季枝皮而著称。其珊瑚红色新梢与广受欢迎的 'Sango kaku' 相似，且可保持色彩达两年。叶片较小，通常五至七裂，春季呈浅黄绿色，夏季转为清新的绿色，秋季则变成金黄色，并带有粉色和红色晕染。'Red Wood' 形成直立树形，高可达 13 英尺（4 米）。它是极佳的园景树种，也适合容器栽培。Acer"
+  },
+  "has_mrmaple": false
+}

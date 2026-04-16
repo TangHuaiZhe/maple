@@ -1,0 +1,120 @@
+{
+  "id": "acer-palmatum-caperci-dwarf",
+  "canonical_key": "caperci dwarf",
+  "canonical_name": "Caperci Dwarf",
+  "display_name": "Caperci Dwarf",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Caperci Dwarf'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "dwarf"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This lovely dwarf probably originated in the 1970s with the late Jim Caperci, a nurseryman in Seattle, Washington. It is like a dwarf 'Corallinum' with small leaves of a coral or light pink color, becoming a medium to light green for the summer and then turning a golden color in the fall. The small fiveor seven-lobed typical palmatum leaves are 3.5-4 cm long and 4-5 cm wide. The ovate lobes are divided about two-thirds of the way to the leaf base and are 8-10 mm wide at the broadest point in the lower third. The pretty, very slender petioles are 2-2.5 cm long. When young, 'Caperci Dwarf' has a long slender leader and horizontal branching pattern. As it matures it becomes an upright rounded shrub, reaching about 1.5 m tall. This cultivar is sometimes misspelled"
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Caperci Dwarf",
+      "page_range": "129",
+      "group": "dwarf",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 269429,
+      "detail_url": "https://www.rhs.org.uk/plants/269429/acer-palmatum-caperci-dwarf-(dw)/details",
+      "botanical_name": "Acer palmatum 'Caperci Dwarf' (Dw)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Caperci Dwarf' (Dw)",
+    "Caperci Dwarf"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Caperci Dwarf'",
+    "Acer palmatum 'Caperci Dwarf' (Dw)",
+    "Caperci Dwarf"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 269429,
+    "rhs_url": "https://www.rhs.org.uk/plants/269429/acer-palmatum-caperci-dwarf-(dw)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Caperci Dwarf' (Dw)",
+    "species_name": "Acer palmatum",
+    "common_names": [],
+    "synonyms": [],
+    "cultivar_names": [
+      "Caperci Dwarf"
+    ],
+    "description": "",
+    "dimensions": {
+      "height": null,
+      "spread": null,
+      "time_to_full_height": null
+    },
+    "growing_conditions": {
+      "hardiness": null,
+      "sunlight": null,
+      "soil_type": null,
+      "aspect": null,
+      "moisture": null,
+      "ph": null,
+      "exposure": null
+    },
+    "attributes": {
+      "plant_type": null,
+      "habit": null,
+      "foliage": null,
+      "suggested_uses": null,
+      "hort_group_description": null
+    },
+    "care": {
+      "cultivation": null,
+      "pruning": null,
+      "propagation": null
+    },
+    "resistance": {
+      "pest": null,
+      "disease": null
+    },
+    "images": {
+      "count": 0,
+      "filenames": []
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这一可爱的矮生品种很可能起源于 20 世纪 70 年代，由美国华盛顿州西雅图已故苗圃人 Jim Caperci 选育。它有些像矮化的 ‘Corallinum’，叶片较小，春季呈珊瑚色或浅粉色，夏季转为中绿至浅绿，秋季再变为金黄色。小型叶片为典型 palmatum 叶形，五裂或七裂，长 3.5-4 厘米，宽 4-5 厘米。卵形裂片约裂至叶基的三分之二处，在下部三分之一处最宽，宽 8-10 毫米。纤细秀美的叶柄长 2-2.5 厘米。幼年时期，‘Caperci Dwarf’常有细长主干，分枝较平展；成熟后形成直立圆头灌木，高约 1.5 米。该品种有时会被误拼为 ‘Capersi Dwarf’。后文疑为另一品种资料残段：叶宽可达 18 厘米。叶片强健而醒目，裂至叶基三分之二以上，卵形裂片渐尖，叶缘具重锯齿。春季旺盛生长会形成非常大的叶片，而老枝上的叶会略小。春叶为浓郁深暗紫红色，叶背深绿色；夏季紫红色中会显现绿色底色。秋季转为浓郁的焦橙色和黄橙色。该品种成熟后为中型开展树形，与更鲜亮的红叶或绿叶品种可形成强烈色彩对比。"
+  },
+  "has_mrmaple": false
+}

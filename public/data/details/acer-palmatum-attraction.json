@@ -1,0 +1,109 @@
+{
+  "id": "acer-palmatum-attraction",
+  "canonical_key": "attraction",
+  "canonical_name": "Attraction",
+  "display_name": "Attraction",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Attraction'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "palmatum"
+  ],
+  "color_groups": [
+    "red"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar was imported into the Netherlands from Japan in 1970, and a few years later from there into the United States via Maplewood Nursery as 'Atropurpureum Superbum'. Because the mixture of Latin and English results in illegitimate names under the international nomenclatural rules, the name was changed to 'Attraction'. This cultivar is a seedling selection. Its color is deeper and holds better than the usual seedlings of The seven-lobed, occasionally five-lobed, leaves separate to within 2 cm or so of the leaf base. The lobes are long-ovate and the outer ends gradually taper to a sharp point. The inner third of the margin is rather smooth, while the outer two-thirds is sharply and regularly toothed. Leaf size ranges from 6 to 9 cm long and up to 11 cm wide. The stiff, red petioles are 4-5 cm long. The leaves are a deep purple red or maroon in color. Tones are brightest on new leaves and then become deeper in summer. The color, though not quite as deep as that of"
+  },
+  "images": {
+    "count": 0,
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "momiji_kaede",
+      "name": "Attraction",
+      "page_range": "116",
+      "group": "palmatum",
+      "color_group": "red",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 181343,
+      "detail_url": "https://www.rhs.org.uk/plants/181343/acer-palmatum-attraction-(p)/details",
+      "botanical_name": "Acer palmatum 'Attraction' (P)",
+      "description": ""
+    },
+    {
+      "source": "timber_press",
+      "name": "Attraction",
+      "page_range": "39-41",
+      "group": "Palmatum",
+      "color_group": "red",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Atropurpureum Superbum'",
+    "Acer palmatum 'Attraction' (P)",
+    "Acer palmatum 'Superbum'",
+    "Atropurpureum Superbum",
+    "Attraction",
+    "Superbum"
+  ],
+  "search_terms": [
+    "Acer palmatum 'Atropurpureum Superbum'",
+    "Acer palmatum 'Attraction' (P)",
+    "Acer palmatum 'Superbum'",
+    "Atropurpureum Superbum",
+    "Attraction",
+    "Superbum",
+    "Acer palmatum",
+    "Acer palmatum 'Attraction'"
+  ],
+  "source_count": 3,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 181343,
+    "rhs_url": "https://www.rhs.org.uk/plants/181343/acer-palmatum-attraction-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Attraction' (P)",
+    "species_name": "Acer palmatum",
+    "synonyms": [
+      "Acer palmatum 'Superbum'",
+      "Acer palmatum 'Atropurpureum Superbum'"
+    ],
+    "cultivar_names": [
+      "Atropurpureum Superbum",
+      "Attraction",
+      "Superbum"
+    ],
+    "images": {
+      "count": 0
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    },
+    "description": ""
+  },
+  "descriptions_zh": {
+    "preferred": "该品种于 1970 年自日本引入荷兰，数年后又由 Maplewood Nursery 从荷兰引入美国，最初名称为 'Atropurpureum Superbum'。由于拉丁文与英文混用，根据国际命名规则属于不合法名称，因此后改名为 'Attraction'。该品种为实生选育品种。其叶色比一般实生苗更深，且持色性更好。叶片通常 7 裂，偶有 5 裂，裂片可分离至距叶基约 2 厘米处。裂片为长卵形，外端渐尖成锐尖。叶缘内侧约三分之一较平滑，外侧约三分之二则具尖锐且整齐的锯齿。叶片长 6 至 9 厘米，宽可达 11 厘米。叶柄坚挺，为红色，长 4-5 厘米。叶色为深紫红或栗红色，新叶时期色泽最鲜明，入夏后颜色更深。其叶色虽不及"
+  },
+  "has_mrmaple": false,
+  "rhs_zh": null,
+  "mrmaple": null
+}

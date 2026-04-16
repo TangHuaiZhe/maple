@@ -1,0 +1,177 @@
+{
+  "id": "acer-palmatum-golden-pond",
+  "canonical_key": "golden pond",
+  "canonical_name": "Golden Pond",
+  "display_name": "Golden Pond",
+  "chinese_name": null,
+  "scientific_name": "Acer palmatum 'Golden Pond'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [
+    "Amoenum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "This cultivar has the same stunning deep yellow-orange fall color as 'Ho¯gyoku', with the leaves similar in shape but Acer smaller. The summer color is a medium green. Gregory. POND' Olsen. Vertrees. Gregory. The growth habit is exactly opposite that of 'Ho¯gyoku', about one and a half times as wide as tall—141⁄2 ft. (4.5 m) wide and 10 ft. (3 m) tall."
+  },
+  "images": {
+    "count": 0,
+    "cover_path": null,
+    "paths": [],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-golden-pond/01-Web_Use-_KOT4620_12970.jpg"
+    ],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-golden-pond/01-Web_Use-_KOT4620_12970.jpg",
+    "public_paths": [
+      "/rhs-images/acer-palmatum-golden-pond/01-Web_Use-_KOT4620_12970.jpg"
+    ],
+    "public_count": 1
+  },
+  "sources": [
+    {
+      "source": "timber_press",
+      "name": "Golden Pond",
+      "page_range": "70-71",
+      "group": "Amoenum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 181349,
+      "detail_url": "https://www.rhs.org.uk/plants/181349/acer-palmatum-golden-pond-(a)/details",
+      "botanical_name": "Acer palmatum 'Golden Pond' (A)",
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Golden Pond' (A)",
+    "Golden Pond",
+    "Japanese maple 'Golden Pond'"
+  ],
+  "search_terms": [
+    "Acer palmatum",
+    "Acer palmatum 'Golden Pond'",
+    "Acer palmatum 'Golden Pond' (A)",
+    "Golden Pond",
+    "Japanese maple 'Golden Pond'"
+  ],
+  "source_count": 2,
+  "has_web": false,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 181349,
+    "rhs_url": "https://www.rhs.org.uk/plants/181349/acer-palmatum-golden-pond-(a)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Golden Pond' (A)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Golden Pond'"
+    ],
+    "synonyms": [],
+    "cultivar_names": [
+      "Golden Pond"
+    ],
+    "description": "A small tree up to 3m high and 4.5m wide, with finely toothed, medium-sized, seven-lobed leaves, which are mid-green, tinged with bronze in spring, and turn deep golden yellow in autumn, and tiny, purple-red flowers in small, pendent corymbs in spring followed by red-winged fruit in late summer",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "4-8 metres",
+      "time_to_full_height": "20-50 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full Sun, Partial Shade",
+      "soil_type": "Clay, Loam, Sand",
+      "aspect": "South-facing, North-facing, West-facing, East-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Tree",
+      "habit": "Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "Low Maintenance, Banks and Slopes, City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Hedging/Screens",
+      "hort_group_description": "Acers in this amoenum group have large, palm-shaped leaves with finely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in a place sheltered from cold drying winds and from late frosts, in light dappled shade or in sun but with shade at the hottest part of the day, in moist but well-drained neutral or acidic soil that does not dry out in summer or become waterlogged in winter, and protect roots with an open-textured organic mulch such as coarse bark; for more advice, see Japanese maple cultivation",
+      "pruning": "Pruning group 1 (little or no pruning of trees and shrubs) and prune if necessary only from late autumn to midwinter",
+      "propagation": "Propagate by grafting in late winter, or by budding in summer; semi-ripe cuttings, hardwood cuttings, or layering may also be successful"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "Web_Use-_KOT4620_12970.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-golden-pond/01-Web_Use-_KOT4620_12970.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "Web_Use-_KOT4620_12970.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/Web_Use-_KOT4620_12970.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/181349/acer-palmatum-golden-pond-(a)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-golden-pond/01-Web_Use-_KOT4620_12970.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 88983,
+          "downloaded_at": "2026-04-14T01:47:46+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "rhs_zh": {
+    "dimensions": {
+      "spread": "4-8 米"
+    },
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）",
+      "sunlight": "全日照，半阴"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "小乔木，高可达 3 米、冠幅可达 4.5 米；叶片中等大小，7 裂，具细锯齿，春季中绿色并带铜色晕，秋季转为深金黄色。春季开极小的紫红色花，成下垂的小型伞房花序；夏末结红色翅果。",
+    "attributes": {
+      "suggested_uses": "低养护，适合坡岸与斜坡，城市/庭院花园，乡村式/自然式花园，花境与花坛，绿篱/屏障栽植",
+      "hort_group_description": "此 amoenum 类群中的 Acer 品种具有大型掌状叶，叶缘具细锯齿。"
+    },
+    "care": {
+      "cultivation": "宜栽植于避开寒冷干燥风和晚霜侵袭的位置，可处于明亮散射光下，或全日照但在一天中最炎热时段有适度遮阴。土壤以湿润但排水良好的中性或酸性土为宜，夏季不可过度干燥，冬季不可积水。根部可覆盖粗树皮等质地疏松的有机覆盖物以保护根系。更多建议可参见 Japanese maple cultivation。",
+      "pruning": "修剪组 1（树木和灌木几乎不修剪或仅少量修剪）；如确有必要，仅宜在晚秋至隆冬期间进行修剪。",
+      "propagation": "可于冬末进行嫁接繁殖，或于夏季芽接；半成熟枝扦插、硬枝扦插或压条繁殖有时也能成功。"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "该品种具有与 'Ho¯gyoku' 同样惊艳的深黄橙色秋叶，叶形相似，但叶片更小。夏季叶色为中绿色。其生长习性与 'Ho¯gyoku' 恰好相反，冠幅约为株高的 1.5 倍，即宽 14 1/2 英尺（4.5 米）、高 10 英尺（3 米）。"
+  },
+  "has_mrmaple": false
+}

@@ -1,0 +1,642 @@
+{
+  "id": "acer-palmatum-okushimo",
+  "canonical_key": "okushimo",
+  "canonical_name": "Okushimo",
+  "display_name": "Okushimo",
+  "chinese_name": "置霜",
+  "scientific_name": "Acer Palmatum 'Okushimo'",
+  "species": "Acer palmatum",
+  "top_category": "鸡爪槭",
+  "web_group": "异型叶",
+  "book_groups": [
+    "Palmatum"
+  ],
+  "color_groups": [
+    "green"
+  ],
+  "descriptions": {
+    "preferred": "The outstanding feavery tures of this maple include odd-shaped leaves, habit sweeping upright growth, and beautiful gold fall color which seems almost fluorescent at times. smaller The summer foliage is a rich green. The small m) leaves have five to seven lobes which are moderfused ately deeply separated and radiating stiffly outward. Each lobe is lanceolate and tapers to a"
+  },
+  "images": {
+    "count": 9,
+    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/255_置霜Acer Palmatum 'Okushimo'/01.png",
+    "paths": [
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/255_置霜Acer Palmatum 'Okushimo'/01.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/255_置霜Acer Palmatum 'Okushimo'/02.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/255_置霜Acer Palmatum 'Okushimo'/03.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/255_置霜Acer Palmatum 'Okushimo'/04.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/255_置霜Acer Palmatum 'Okushimo'/05.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/255_置霜Acer Palmatum 'Okushimo'/06.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/255_置霜Acer Palmatum 'Okushimo'/07.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/255_置霜Acer Palmatum 'Okushimo'/08.png",
+      "Resource/园艺/枫树品种合集/图片/鸡爪槭/异型叶/255_置霜Acer Palmatum 'Okushimo'/09.jpg"
+    ],
+    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/01.png",
+    "public_original_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/09.jpg"
+    ],
+    "public_rhs_paths": [
+      "/rhs-images/acer-palmatum-okushimo/01-E_KOS3826.jpg"
+    ],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/01-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065349.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/02-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065358.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/03-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065359.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/04-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065360.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/05-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065361.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/06-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065362.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/07-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065363.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/08-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065364.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/09-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065366.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/10-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065368.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/11-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065371.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/12-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065350.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/13-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065374.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/14-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065351.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/15-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065352.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/16-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065353.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/17-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065354.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/18-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065355.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/19-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065356.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/20-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065357.jpg"
+    ],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/01.png",
+    "public_paths": [
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/01.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/02.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/03.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/04.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/05.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/06.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/07.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/08.png",
+      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E5%BC%82%E5%9E%8B%E5%8F%B6/255_%E7%BD%AE%E9%9C%9CAcer%20Palmatum%20'Okushimo'/09.jpg",
+      "/rhs-images/acer-palmatum-okushimo/01-E_KOS3826.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/01-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065349.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/02-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065358.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/03-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065359.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/04-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065360.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/05-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065361.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/06-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065362.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/07-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065363.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/08-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065364.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/09-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065366.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/10-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065368.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/11-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065371.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/12-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065350.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/13-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065374.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/14-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065351.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/15-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065352.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/16-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065353.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/17-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065354.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/18-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065355.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/19-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065356.jpg",
+      "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/20-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065357.jpg"
+    ],
+    "public_count": 30
+  },
+  "sources": [
+    {
+      "source": "web",
+      "detail_id": "255",
+      "detail_url": "https://sj28984082.m.jzfkw.net/sys-pd/255.html",
+      "second_group_url": "https://sj28984082.m.jzfkw.net/sys-pr/?groupId=29",
+      "top_group_name": "鸡爪槭",
+      "second_group_name": "异型叶",
+      "title": "置霜Acer Palmatum 'Okushimo'",
+      "description": "最早记载出现在 1704 年。叶片会微微往上卷。春天棕色， 夏季返绿到了秋天就会变成橙红橙黄色。叶型较小。",
+      "image_count": 9
+    },
+    {
+      "source": "timber_press",
+      "name": "Okushimo",
+      "page_range": "122-125",
+      "group": "Palmatum",
+      "color_group": "green",
+      "description": ""
+    },
+    {
+      "source": "rhs",
+      "rhs_id": 77146,
+      "detail_url": "https://www.rhs.org.uk/plants/77146/acer-palmatum-okushimo-(p)/details",
+      "botanical_name": "Acer palmatum 'Okushimo' (P)",
+      "description": ""
+    },
+    {
+      "source": "mrmaple",
+      "name": "Mr Maple",
+      "title": "Acer palmatum 'Okushimo' Japanese Maple",
+      "handle": "buy-acer-palmatum-okushimo-japanese-maple",
+      "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+      "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+      "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+      "image_count": 20,
+      "match_method": "canonical_exact",
+      "match_score": 120,
+      "description": ""
+    }
+  ],
+  "aliases": [
+    "Acer palmatum 'Crispa'",
+    "Acer palmatum 'Okushimo' (P)",
+    "Crispa",
+    "Japanese maple 'Okushimo'",
+    "Okushimo",
+    "置霜",
+    "置霜Acer Palmatum 'Okushimo'"
+  ],
+  "search_terms": [
+    "Acer Palmatum 'Okushimo'",
+    "Acer palmatum",
+    "Acer palmatum 'Crispa'",
+    "Acer palmatum 'Okushimo' (P)",
+    "Crispa",
+    "Japanese maple 'Okushimo'",
+    "Okushimo",
+    "异型叶",
+    "置霜",
+    "置霜Acer Palmatum 'Okushimo'",
+    "鸡爪槭"
+  ],
+  "source_count": 4,
+  "has_web": true,
+  "has_book": true,
+  "has_rhs": true,
+  "rhs": {
+    "rhs_id": 77146,
+    "rhs_url": "https://www.rhs.org.uk/plants/77146/acer-palmatum-okushimo-(p)/details",
+    "match_method": "botanical_full",
+    "botanical_name": "Acer palmatum 'Okushimo' (P)",
+    "species_name": "Acer palmatum",
+    "common_names": [
+      "Japanese maple 'Okushimo'"
+    ],
+    "synonyms": [
+      "Acer palmatum 'Crispa'"
+    ],
+    "cultivar_names": [
+      "Crispa",
+      "Okushimo"
+    ],
+    "description": "A vase-shaped decidous shrub with upward-facing branches and star-shaped curled green leaves which change to intense yellow and gold in the autumn",
+    "dimensions": {
+      "height": "2.5-4 metres",
+      "spread": "2.5-4 metres",
+      "time_to_full_height": "5-10 years"
+    },
+    "growing_conditions": {
+      "hardiness": "H6 (hardy - very cold winter)",
+      "sunlight": "Full sun, Partial shade",
+      "soil_type": "Chalk, Clay, Loam, Sand",
+      "aspect": "East-facing, South-facing, West-facing",
+      "moisture": "Moist but well-drained",
+      "ph": "Acid, Neutral",
+      "exposure": "Sheltered"
+    },
+    "attributes": {
+      "plant_type": "Shrub",
+      "habit": "Bushy, Spreading/Branched",
+      "foliage": "Deciduous",
+      "suggested_uses": "Architectural, City/Courtyard Gardens, Cottage/Informal Garden, Flower borders and beds, Low Maintenance, Patio/Container Plants, Rock Garden",
+      "hort_group_description": "Acers in this palmatum group have small, palm-shaped leaves with coarsely-toothed edges"
+    },
+    "care": {
+      "cultivation": "Grow in a moist but well-drained soil. Water in summer if necessary. Leaf colour is best in partial shade, although full sun can be tolerated. Leaf scorch can be caused by lack of soil moisture or excessive exposure. See Japanese maple cultivation",
+      "pruning": "Pruning group 1",
+      "propagation": "Propagate by grafting or softwood cuttings"
+    },
+    "resistance": {
+      "pest": "May be susceptible to Acer gall mite, aphids , caterpillars and horse chestnut scale",
+      "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
+    },
+    "images": {
+      "count": 1,
+      "filenames": [
+        "E_KOS3826.jpg"
+      ],
+      "download_source": {
+        "name": "Royal Horticultural Society (RHS)",
+        "base_url": "https://apps.rhs.org.uk/plantselectorimages/detail/",
+        "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+      },
+      "local_files": [
+        "Resource/园艺/raw/rhs-images/acer-palmatum-okushimo/01-E_KOS3826.jpg"
+      ],
+      "downloaded_count": 1,
+      "download_items": [
+        {
+          "index": 1,
+          "filename": "E_KOS3826.jpg",
+          "source_url": "https://apps.rhs.org.uk/plantselectorimages/detail/E_KOS3826.jpg",
+          "source_page_url": "https://www.rhs.org.uk/plants/77146/acer-palmatum-okushimo-(p)/details",
+          "local_path": "Resource/园艺/raw/rhs-images/acer-palmatum-okushimo/01-E_KOS3826.jpg",
+          "content_type": "image/jpeg",
+          "bytes": 71275,
+          "downloaded_at": "2026-04-14T01:47:52+00:00",
+          "status": "downloaded",
+          "source_name": "Royal Horticultural Society (RHS)",
+          "usage_note": "Private local archive only. Do not redistribute without confirming RHS rights."
+        }
+      ]
+    },
+    "source": {
+      "provider": "RHS",
+      "lastmod": "2026-02-02"
+    }
+  },
+  "descriptions_zh": {
+    "preferred": "这种槭树最突出的羽状特征包括形态奇特的叶片、舒展而直立的树形，以及极为美丽的金色秋叶，某些时候几乎带有荧光感。夏季叶色为浓绿色。较小的叶片有 5 至 7 裂，裂片中度至较深分裂，并僵直地向外放射。每个裂片呈披针形，渐尖为类似 'Omato' 的尖锐硬质叶尖。耐人寻味的是，略带钝缺刻的裂缘向上卷起，几乎形成渐细的管状，裂片顶端也向上翘起。坚硬的叶柄呈粉红红色，新梢为绿色。这种挺直直立、花瓶状树形的树势强健，常可长到 26 英尺（8 米）或更高，适于园林种植，紧凑的株形也适合盆景。'Kurui jishi' 与 'Okushimo' 相似，但叶片和树形更小，仅高约 6 1/2 英尺（2 米）；其名称可解释为“狂狮”。 Group—green。类似"
+  },
+  "rhs_zh": {
+    "growing_conditions": {
+      "hardiness": "H6（耐寒，可耐受极寒冬季）"
+    },
+    "attributes": {
+      "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。",
+      "suggested_uses": "适用于观赏型种植、城市或庭院花园、乡村或自然式花园、花境与花坛、低维护栽培、庭院容器栽培以及岩石园。"
+    },
+    "care": {
+      "pruning": "修剪第 1 组",
+      "propagation": "可采用嫁接或软枝扦插繁殖",
+      "cultivation": "宜栽培于湿润但排水良好的土壤中。夏季必要时应补充浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴晒过度都可能导致叶缘焦枯。参见日本枫树栽培资料。"
+    },
+    "resistance": {
+      "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
+      "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
+    },
+    "description": "花瓶状落叶灌木，枝条向上伸展，叶片呈星形并向内卷曲，叶色为绿色，秋季转为浓烈的黄色与金黄色。"
+  },
+  "has_mrmaple": true,
+  "mrmaple": {
+    "source_name": "Mr Maple",
+    "collection_handle": "buy-japanese-maples",
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission.",
+    "matched_product_count": 1,
+    "local_file_count": 20,
+    "cover_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/01-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065349.jpg",
+    "local_files": [
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/01-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065349.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/02-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065358.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/03-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065359.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/04-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065360.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/05-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065361.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/06-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065362.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/07-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065363.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/08-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065364.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/09-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065366.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/10-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065368.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/11-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065371.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/12-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065350.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/13-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065374.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/14-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065351.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/15-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065352.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/16-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065353.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/17-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065354.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/18-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065355.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/19-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065356.jpg",
+      "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/20-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065357.jpg"
+    ],
+    "products": [
+      {
+        "title": "Acer palmatum 'Okushimo' Japanese Maple",
+        "handle": "buy-acer-palmatum-okushimo-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+        "product_type": "",
+        "tags": [
+          "10 @ 10 AM",
+          "Cold Hardiness Zone_Zone 5",
+          "Cold Hardiness Zone_Zone 6",
+          "Cold Hardiness Zone_Zone 7",
+          "Cold Hardiness Zone_Zone 8",
+          "Cold Hardiness Zone_Zone 9",
+          "Colors_Golden",
+          "Colors_Green",
+          "Colors_Orange",
+          "EARLYBIRD26",
+          "FALLSALE25",
+          "Feature_Fast Growing",
+          "Habit_Upright",
+          "Habitat Conditions_Shady Areas",
+          "Habitat Conditions_Sunlit Areas",
+          "julyxmas",
+          "OHDISCOUNT",
+          "Size_Large",
+          "Species_Acer palmatum",
+          "Sun In_Zone 5",
+          "Sun In_Zone 6",
+          "Sun In_Zone 7",
+          "Sun In_Zone 8",
+          "Type_Japanese Maple",
+          "Use_Bonsai"
+        ],
+        "description_text": "Acer palmatum 'Okushimo' Unique Okushimo Japanese Maple Zones 5-9 Okushimo is a very unusual upright green Japanese maple. This Japanese maple tree has a light green leaf and the edges curl upright creating a unique look. The growth habit is upright and forms a great vase shape that can be very useful in the landscape. The fall color ranges from yellow to deep orange. The tree is vigorous and grows well in sun or shade. Typically reaches 15–20 ft tall and about 10–15 ft wide in 10–15 years. The height can reach up to 20 ft over time and even at maturity retains the great narrow vase-like shape. The name ‘Okushimo’ means “salt and pepper”. This is a very old Japanese maple cultivar that is under used because people are not informed about it. The unusual leaf structure and great color make ‘Okushimo’ a very complimentary addition when planted next to other cultivars or used as focal point planting. Plant this Japanese maple in your landscape for that beautiful conversation piece all your garden visitors will be talking about.",
+        "published_at": "2026-01-27T10:14:52-05:00",
+        "updated_at": "2026-04-13T22:15:28-04:00",
+        "match_method": "canonical_exact",
+        "match_score": 120,
+        "matched_title_species": "Acer palmatum",
+        "matched_title_cultivar": "Okushimo",
+        "images": {
+          "count": 20,
+          "downloaded_count": 20,
+          "local_files": [
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/01-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065349.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/02-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065358.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/03-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065359.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/04-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065360.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/05-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065361.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/06-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065362.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/07-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065363.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/08-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065364.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/09-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065366.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/10-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065368.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/11-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065371.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/12-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065350.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/13-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065374.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/14-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065351.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/15-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065352.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/16-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065353.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/17-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065354.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/18-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065355.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/19-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065356.jpg",
+            "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/20-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065357.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065349.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065349.jpg?v=1753924628",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/01-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065349.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 93728,
+              "downloaded_at": "2026-04-14T02:26:28+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 2,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065358.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065358.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/02-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065358.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 1322893,
+              "downloaded_at": "2026-04-14T02:26:29+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 3,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065359.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065359.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/03-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065359.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 552390,
+              "downloaded_at": "2026-04-14T02:26:29+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 4,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065360.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065360.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/04-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065360.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 1173217,
+              "downloaded_at": "2026-04-14T02:26:31+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 5,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065361.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065361.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/05-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065361.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 526731,
+              "downloaded_at": "2026-04-14T02:26:31+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 6,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065362.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065362.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/06-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065362.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 278655,
+              "downloaded_at": "2026-04-14T02:26:30+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 7,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065363.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065363.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/07-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065363.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 283353,
+              "downloaded_at": "2026-04-14T02:26:30+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 8,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065364.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065364.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/08-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065364.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 97825,
+              "downloaded_at": "2026-04-14T02:26:30+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 9,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065366.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065366.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/09-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065366.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 140869,
+              "downloaded_at": "2026-04-14T02:26:31+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 10,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065368.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065368.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/10-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065368.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 102867,
+              "downloaded_at": "2026-04-14T02:26:30+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 11,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065371.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065371.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/11-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065371.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 115248,
+              "downloaded_at": "2026-04-14T02:26:32+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 12,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065350.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065350.jpg?v=1753924628",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/12-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065350.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 101174,
+              "downloaded_at": "2026-04-14T02:26:31+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 13,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065374.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065374.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/13-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065374.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 107639,
+              "downloaded_at": "2026-04-14T02:26:32+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 14,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065351.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065351.jpg?v=1753924628",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/14-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065351.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 285654,
+              "downloaded_at": "2026-04-14T02:26:32+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 15,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065352.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065352.jpg?v=1753924628",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/15-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065352.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 1436762,
+              "downloaded_at": "2026-04-14T02:26:34+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 16,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065353.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065353.jpg?v=1753924628",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/16-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065353.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 154960,
+              "downloaded_at": "2026-04-14T02:26:32+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 17,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065354.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065354.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/17-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065354.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 447544,
+              "downloaded_at": "2026-04-14T02:26:33+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 18,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065355.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065355.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/18-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065355.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 289304,
+              "downloaded_at": "2026-04-14T02:26:33+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 19,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065356.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065356.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/19-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065356.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 622716,
+              "downloaded_at": "2026-04-14T02:26:35+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            },
+            {
+              "index": 20,
+              "filename": "Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065357.jpg",
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065357.jpg?v=1753924629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-okushimo-japanese-maple",
+              "local_path": "Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/20-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065357.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 94478,
+              "downloaded_at": "2026-04-14T02:26:33+00:00",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent. Downloader is prepared only; do not execute image download without permission."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
