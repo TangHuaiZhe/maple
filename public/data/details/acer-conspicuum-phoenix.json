@@ -25,16 +25,8 @@
       "Resource/园艺/枫树品种合集/图片/蛇皮槭/凤凰/48_凤凰 Acer Conspicuum 'Phoenix'/06.png",
       "Resource/园艺/枫树品种合集/图片/蛇皮槭/凤凰/48_凤凰 Acer Conspicuum 'Phoenix'/07.jpg"
     ],
-    "public_original_cover_path": "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/01.png",
-    "public_original_paths": [
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/01.png",
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/02.png",
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/03.png",
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/04.png",
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/05.png",
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/06.png",
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/07.jpg"
-    ],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-conspicuum-phoenix/01-Web_Use-RHS_HH_Mid_August_2017_240_11426.jpg",
       "/rhs-images/acer-conspicuum-phoenix/02-Web_Use-PUB0007958_11426.jpg",
@@ -45,22 +37,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/01.png",
+    "public_cover_path": "/rhs-images/acer-conspicuum-phoenix/01-Web_Use-RHS_HH_Mid_August_2017_240_11426.jpg",
     "public_paths": [
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/01.png",
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/02.png",
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/03.png",
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/04.png",
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/05.png",
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/06.png",
-      "/maple-images/%E8%9B%87%E7%9A%AE%E6%A7%AD/%E5%87%A4%E5%87%B0/48_%E5%87%A4%E5%87%B0%20Acer%20Conspicuum%20'Phoenix'/07.jpg",
       "/rhs-images/acer-conspicuum-phoenix/01-Web_Use-RHS_HH_Mid_August_2017_240_11426.jpg",
       "/rhs-images/acer-conspicuum-phoenix/02-Web_Use-PUB0007958_11426.jpg",
       "/rhs-images/acer-conspicuum-phoenix/03-RHS_PUB0007959_11426.JPG",
       "/rhs-images/acer-conspicuum-phoenix/04-Web_Use-_KOT5072_11426.jpg",
       "/rhs-images/acer-conspicuum-phoenix/05-Web_Use-_KOT5085_11426.jpg"
     ],
-    "public_count": 12
+    "public_count": 5
   },
   "sources": [
     {

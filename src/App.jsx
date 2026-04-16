@@ -1,6 +1,7 @@
 import { useDeferredValue, useEffect, useRef, useState } from "react";
 import {
   Link,
+  Navigate,
   NavLink,
   Route,
   Routes,
@@ -28,7 +29,6 @@ const UI_STRINGS = {
     localeName: "中",
     nav: {
       catalog: "品种目录",
-      search: "筛选搜索",
       awards: "RHS 获奖",
     },
     common: {
@@ -58,6 +58,9 @@ const UI_STRINGS = {
       lead: "首页直接列出全部枫树品种，按首字母排序；搜索同时匹配中文名、英文名、学名和别名。",
       searchLabel: "中英文搜索",
       searchPlaceholder: "例如 Ice Dragon、冰龙、Acer palmatum",
+      categoryLabel: "一级分类",
+      allCategories: "全部",
+      result: (count) => `结果：${count} 条`,
       note: "首页卡片封面优先使用 RHS、Mr Maple、Herter 和 NCSU 图片，其次才回退到本地原图。",
       totalLabel: "品种总数",
       currentLabel: "当前结果",
@@ -123,7 +126,6 @@ const UI_STRINGS = {
     localeName: "EN",
     nav: {
       catalog: "Catalog",
-      search: "Search",
       awards: "RHS Awards",
     },
     common: {
@@ -153,6 +155,9 @@ const UI_STRINGS = {
       lead: "The home page lists every maple cultivar, sorted alphabetically, with search across Chinese names, English names, scientific names, and aliases.",
       searchLabel: "Search",
       searchPlaceholder: "For example Ice Dragon, Bloodgood, Acer palmatum",
+      categoryLabel: "Top Category",
+      allCategories: "All",
+      result: (count) => `Results: ${count}`,
       note: "Catalog cards prefer RHS, Mr Maple, Herter, and NCSU imagery before falling back to local photos.",
       totalLabel: "Total Cultivars",
       currentLabel: "Current Results",
@@ -495,7 +500,7 @@ function hasSupplementalImages(item) {
 }
 
 function getVisibleOriginalImagePaths(item) {
-  if (item?.has_web && hasSupplementalImages(item)) {
+  if (item?.has_web) {
     return [];
   }
 
@@ -512,6 +517,13 @@ function getVisibleImagePaths(item) {
   ]);
 }
 
+function shouldHideLocalCover(item) {
+  return Boolean(
+    item?.has_web
+      && (item?.cover_source || "").toLowerCase() === "local",
+  );
+}
+
 function getVisibleCover(item, { prioritizeEditorial = false } = {}) {
   const visibleImages = getVisibleImagePaths(item);
 
@@ -519,7 +531,7 @@ function getVisibleCover(item, { prioritizeEditorial = false } = {}) {
     if (visibleImages.length) {
       return visibleImages[0];
     }
-    if (item?.cover_path && !(item?.has_web && (item?.cover_source || "").toLowerCase() === "local")) {
+    if (item?.cover_path && !shouldHideLocalCover(item)) {
       return item.cover_path;
     }
     return null;
@@ -534,7 +546,7 @@ function getVisibleCover(item, { prioritizeEditorial = false } = {}) {
     return visibleImages[0];
   }
 
-  if (item?.cover_path && !(item?.has_web && (item?.cover_source || "").toLowerCase() === "local")) {
+  if (item?.cover_path && !shouldHideLocalCover(item)) {
     return item.cover_path;
   }
 
@@ -931,32 +943,6 @@ function ImageLightbox({ images, activeIndex, title, subtitle, onClose, onStep, 
   );
 }
 
-function AtlasStats({ records, filtered, strings, locale }) {
-  const editorialCovers = records.filter((item) => getCoverSourceKey(item, getEditorialCover(item)) !== "local").length;
-  const chineseDescriptions = records.filter((item) => /[\u4e00-\u9fff]/.test(getPreferredDescription(item))).length;
-
-  return (
-    <div className="atlas-stats">
-      <article className="atlas-stat">
-        <span>{strings.home.totalLabel}</span>
-        <strong>{records.length}</strong>
-      </article>
-      <article className="atlas-stat">
-        <span>{strings.home.currentLabel}</span>
-        <strong>{filtered.length}</strong>
-      </article>
-      <article className="atlas-stat">
-        <span>{strings.home.editorialLabel}</span>
-        <strong>{editorialCovers}</strong>
-      </article>
-      <article className="atlas-stat">
-        <span>{strings.home.chineseDescriptionLabel}</span>
-        <strong>{chineseDescriptions}</strong>
-      </article>
-    </div>
-  );
-}
-
 function CultivarCard({ item, prioritizeEditorialImage = false, strings, locale }) {
   const description = getPreferredDescription(item, locale);
   const cover = getVisibleCover(item, { prioritizeEditorial: prioritizeEditorialImage });
@@ -1174,42 +1160,6 @@ function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, 
 }
 
 function HomePage({ records, strings, locale }) {
-  const [query, setQuery] = useState("");
-  const deferredQuery = useDeferredValue(query);
-  const normalizedQuery = normalizeSearchText(deferredQuery);
-  const filtered = records.filter((item) => matchesQuery(item, normalizedQuery));
-
-  return (
-    <div className="page-shell">
-      <section className="atlas-hero">
-        <div className="atlas-copy">
-          <p className="eyebrow">{strings.home.eyebrow}</p>
-          <h1>{strings.home.title}</h1>
-          <p className="atlas-lead">
-            {strings.home.lead}
-          </p>
-        </div>
-
-        <div className="atlas-search-panel">
-          <label className="field">
-            <span>{strings.home.searchLabel}</span>
-            <input
-              value={query}
-              onChange={(event) => setQuery(event.target.value)}
-              placeholder={strings.home.searchPlaceholder}
-            />
-          </label>
-          <p className="atlas-note">{strings.home.note}</p>
-        </div>
-      </section>
-
-      <AtlasStats records={records} filtered={filtered} strings={strings} locale={locale} />
-      <PaginatedCatalog records={filtered} prioritizeEditorialImage strings={strings} locale={locale} />
-    </div>
-  );
-}
-
-function SearchPage({ records, strings, locale }) {
   const location = useLocation();
   const navigate = useNavigate();
   const initialQuery = new URLSearchParams(location.search).get("q") || "";
@@ -1217,15 +1167,15 @@ function SearchPage({ records, strings, locale }) {
   const [query, setQuery] = useState(initialQuery);
   const [category, setCategory] = useState(initialCategory);
   const deferredQuery = useDeferredValue(query);
+  const categories = [{ value: SEARCH_ALL_VALUE, label: strings.home.allCategories }, ...new Set(records.map((item) => item.top_category).filter(Boolean)).values().map((item) => ({ value: item, label: item }))];
 
   useEffect(() => {
     const params = new URLSearchParams();
     if (query) params.set("q", query);
     if (category !== SEARCH_ALL_VALUE) params.set("category", category);
-    navigate({ pathname: "/search", search: params.toString() }, { replace: true });
+    navigate({ pathname: "/", search: params.toString() }, { replace: true });
   }, [query, category, navigate]);
 
-  const categories = [{ value: SEARCH_ALL_VALUE, label: strings.search.all }, ...new Set(records.map((item) => item.top_category).filter(Boolean)).values().map((item) => ({ value: item, label: item }))];
   const normalizedQuery = normalizeSearchText(deferredQuery);
   const filtered = records.filter((item) => {
     const categoryMatch = category === SEARCH_ALL_VALUE || item.top_category === category;
@@ -1235,36 +1185,38 @@ function SearchPage({ records, strings, locale }) {
   return (
     <div className="page-shell">
       <section className="search-panel">
-        <div className="section-head">
-          <h1>{strings.search.title}</h1>
-          <p>{strings.search.subtitle}</p>
+        <div className="atlas-search-panel">
+          <div className="search-controls">
+            <label className="field">
+              <span>{strings.home.searchLabel}</span>
+              <input
+                value={query}
+                onChange={(event) => setQuery(event.target.value)}
+                placeholder={strings.home.searchPlaceholder}
+              />
+            </label>
+            <label className="field">
+              <span>{strings.home.categoryLabel}</span>
+              <select value={category} onChange={(event) => setCategory(event.target.value)}>
+                {categories.map((item) => (
+                  <option key={item.value} value={item.value}>
+                    {item.label}
+                  </option>
+                ))}
+              </select>
+            </label>
+          </div>
+          <div className="result-summary">{strings.home.result(filtered.length)}</div>
         </div>
-        <div className="search-controls">
-          <label className="field">
-            <span>{strings.search.keyword}</span>
-            <input
-              value={query}
-              onChange={(event) => setQuery(event.target.value)}
-              placeholder={strings.search.keywordPlaceholder}
-            />
-          </label>
-          <label className="field">
-            <span>{strings.search.category}</span>
-            <select value={category} onChange={(event) => setCategory(event.target.value)}>
-              {categories.map((item) => (
-                <option key={item.value} value={item.value}>
-                  {item.label}
-                </option>
-              ))}
-            </select>
-          </label>
-        </div>
-        <div className="result-summary">{strings.search.result(filtered.length)}</div>
       </section>
-
       <PaginatedCatalog records={filtered} prioritizeEditorialImage strings={strings} locale={locale} />
     </div>
   );
+}
+
+function LegacySearchRedirect() {
+  const location = useLocation();
+  return <Navigate to={{ pathname: "/", search: location.search }} replace />;
 }
 
 function DetailPage({ locale, strings }) {
@@ -1274,7 +1226,6 @@ function DetailPage({ locale, strings }) {
   const [error, setError] = useState("");
   const [previewIndex, setPreviewIndex] = useState(null);
   const [visibleImageCount, setVisibleImageCount] = useState(DETAIL_GALLERY_PAGE_SIZE);
-  const [isDescriptionExpanded, setIsDescriptionExpanded] = useState(false);
   const previewImages = item ? uniqueValues([getVisibleCover(item), ...getVisibleImagePaths(item)]) : [];
   const galleryImages = item ? getVisibleImagePaths(item) : [];
   const visibleGalleryImages = galleryImages.slice(0, visibleImageCount);
@@ -1285,7 +1236,6 @@ function DetailPage({ locale, strings }) {
     setError("");
     setPreviewIndex(null);
     setVisibleImageCount(DETAIL_GALLERY_PAGE_SIZE);
-    setIsDescriptionExpanded(false);
 
     loadCultivar(id)
       .then((data) => {
@@ -1355,10 +1305,6 @@ function DetailPage({ locale, strings }) {
   }
 
   const description = item ? getPreferredDescription(item, locale) : "";
-  const descriptionSummary = buildDescriptionPreview(description, locale, locale === "en" ? 300 : 180);
-  const descriptionFull = description;
-  const isLongDescription = hasContent(descriptionFull) && descriptionSummary.length < descriptionFull.length;
-  const shouldSplitDescription = isLongDescription && descriptionFull.length >= (locale === "en" ? 420 : 260);
 
   if (!item) {
     return (
@@ -1429,38 +1375,16 @@ function DetailPage({ locale, strings }) {
             <h1>{item.display_name || item.canonical_name}</h1>
             {item.chinese_name ? <p className="detail-chinese">{item.chinese_name}</p> : null}
             <p className="detail-scientific">{item.scientific_name || item.canonical_name}</p>
-            <div className={shouldSplitDescription ? "detail-description-stack" : "detail-description-merged"}>
-              <section className="detail-description-layer">
-                {shouldSplitDescription ? <p className="detail-description-label">{strings.detail.descriptionSummary}</p> : null}
-                <p className="detail-description">
-                  {descriptionSummary || strings.detail.noDescription}
-                </p>
-                {detailTraits.length ? (
-                  <div className="detail-fact-row">
-                    {detailTraits.map((fact) => (
-                      <span key={fact} className="detail-fact-chip">{fact}</span>
-                    ))}
-                  </div>
-                ) : null}
-              </section>
-              {shouldSplitDescription ? (
-                <section className="detail-description-layer">
-                  <div className="detail-description-layer-head">
-                    <p className="detail-description-label">{strings.detail.descriptionFull}</p>
-                    <button
-                      type="button"
-                      className="detail-toggle"
-                      onClick={() => setIsDescriptionExpanded((value) => !value)}
-                    >
-                      {isDescriptionExpanded ? strings.detail.showLessDescription : strings.detail.showMoreDescription}
-                    </button>
-                  </div>
-                  {isDescriptionExpanded ? (
-                    <p className="detail-description detail-description-full">
-                      {descriptionFull}
-                    </p>
-                  ) : null}
-                </section>
+            <div className="detail-description-merged">
+              <p className="detail-description">
+                {description || strings.detail.noDescription}
+              </p>
+              {detailTraits.length ? (
+                <div className="detail-fact-row">
+                  {detailTraits.map((fact) => (
+                    <span key={fact} className="detail-fact-chip">{fact}</span>
+                  ))}
+                </div>
               ) : null}
             </div>
             <div className="tag-row">
@@ -1649,7 +1573,6 @@ export default function App() {
         <div className="header-tools">
           <nav className="site-nav">
             <NavLink to="/" end>{strings.nav.catalog}</NavLink>
-            <NavLink to="/search">{strings.nav.search}</NavLink>
             <NavLink to="/rhs-awards">{strings.nav.awards}</NavLink>
           </nav>
           <div className="locale-switch" role="group" aria-label={locale === "en" ? "Language Switch" : "语言切换"}>
@@ -1673,7 +1596,7 @@ export default function App() {
 
       <Routes>
         <Route path="/" element={<HomePage records={records} strings={strings} locale={locale} />} />
-        <Route path="/search" element={<SearchPage records={records} strings={strings} locale={locale} />} />
+        <Route path="/search" element={<LegacySearchRedirect />} />
         <Route path="/rhs-awards" element={<RHSAwardPage records={records} strings={strings} locale={locale} />} />
         <Route path="/cultivar/:id" element={<DetailPage locale={locale} strings={strings} />} />
       </Routes>

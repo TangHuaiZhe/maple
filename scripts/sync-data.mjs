@@ -372,12 +372,18 @@ async function syncJson() {
     ...record,
     images: {
       ...record.images,
-      public_original_cover_path: record.images.cover_path
-        ? toOriginalPublicImagePath(record.images.cover_path)
-        : null,
-      public_original_paths: uniquePaths(
-        (record.images.paths || []).map((item) => toOriginalPublicImagePath(item)),
-      ),
+      public_original_cover_path: record.has_web
+        ? null
+        : (
+          record.images.cover_path
+            ? toOriginalPublicImagePath(record.images.cover_path)
+            : null
+        ),
+      public_original_paths: record.has_web
+        ? []
+        : uniquePaths(
+          (record.images.paths || []).map((item) => toOriginalPublicImagePath(item)),
+        ),
       public_rhs_paths: uniquePaths(
         (((record.rhs || {}).images || {}).local_files || []).map((item) => toRhsPublicImagePath(item)),
       ),

@@ -23,22 +23,19 @@
     "paths": [
       "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/203_红细芳枝垂Acer palmatum 'Red Filigree Lace'/01.jpg"
     ],
-    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%95%BE%E4%B8%9D%E7%B3%BB%E5%88%97/203_%E7%BA%A2%E7%BB%86%E8%8A%B3%E6%9E%9D%E5%9E%82Acer%20palmatum%20'Red%20Filigree%20Lace'/01.jpg",
-    "public_original_paths": [
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%95%BE%E4%B8%9D%E7%B3%BB%E5%88%97/203_%E7%BA%A2%E7%BB%86%E8%8A%B3%E6%9E%9D%E5%9E%82Acer%20palmatum%20'Red%20Filigree%20Lace'/01.jpg"
-    ],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [],
     "public_herter_paths": [
       "/herter-images/acer-palmatum-red-filigree-lace/01-redfildouble.jpg"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%95%BE%E4%B8%9D%E7%B3%BB%E5%88%97/203_%E7%BA%A2%E7%BB%86%E8%8A%B3%E6%9E%9D%E5%9E%82Acer%20palmatum%20'Red%20Filigree%20Lace'/01.jpg",
+    "public_cover_path": "/herter-images/acer-palmatum-red-filigree-lace/01-redfildouble.jpg",
     "public_paths": [
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%95%BE%E4%B8%9D%E7%B3%BB%E5%88%97/203_%E7%BA%A2%E7%BB%86%E8%8A%B3%E6%9E%9D%E5%9E%82Acer%20palmatum%20'Red%20Filigree%20Lace'/01.jpg",
       "/herter-images/acer-palmatum-red-filigree-lace/01-redfildouble.jpg"
     ],
-    "public_count": 2
+    "public_count": 1
   },
   "sources": [
     {

@@ -24,15 +24,8 @@
       "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/114_庆典 Acer Palmatum 'Celebration'/05.png",
       "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/114_庆典 Acer Palmatum 'Celebration'/06.jpg"
     ],
-    "public_original_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/01.png",
-    "public_original_paths": [
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/01.png",
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/02.png",
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/03.png",
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/04.png",
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/05.png",
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/06.jpg"
-    ],
+    "public_original_cover_path": null,
+    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-celebration-japanese-maple/01-Acer.palmatum.Celebration.6.jpg",
@@ -110,14 +103,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/01.png",
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-celebration-japanese-maple/01-Acer.palmatum.Celebration.6.jpg",
     "public_paths": [
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/01.png",
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/02.png",
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/03.png",
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/04.png",
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/05.png",
-      "/maple-images/%E9%B8%A1%E7%88%AA%E6%A7%AD/%E8%84%89%E5%8F%B6/114_%E5%BA%86%E5%85%B8%20Acer%20Palmatum%20'Celebration'/06.jpg",
       "/mrmaple-images/buy-acer-palmatum-celebration-japanese-maple/01-Acer.palmatum.Celebration.6.jpg",
       "/mrmaple-images/buy-acer-palmatum-celebration-japanese-maple/02-IMG_1203.jpg",
       "/mrmaple-images/buy-acer-palmatum-celebration-japanese-maple/03-MrMaplePictureResized-1942.jpg",
@@ -191,7 +178,7 @@
       "/mrmaple-images/buy-acer-palmatum-celebration-japanese-maple/71-IMG_0517_888825e2-1845-4ffc-b73d-2630397d9193.jpg",
       "/mrmaple-images/buy-acer-palmatum-celebration-japanese-maple/72-IMG_0516_924beb75-cd43-4dc8-bfa6-c20c7a34c065.jpg"
     ],
-    "public_count": 78
+    "public_count": 72
   },
   "sources": [
     {
