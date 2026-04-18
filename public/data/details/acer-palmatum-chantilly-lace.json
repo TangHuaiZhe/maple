@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This attractive laceleaf comes from Pennsylvania. The medium-sized, finely cut leaves emerge orange-red and change to a pleasant medium green for the summer, then turn golden-yellow in the fall. A second flush of leaves in midsummer is coppery red, gradually turning green. 'Chantilly Lace' is hardy and fairly vigorous, forming a mushroom-shaped mound up to 8 ft. (2.5 m) tall."
+    "preferred": "This attractive laceleaf comes from Pennsylvania. The medium-sized, finely cut leaves emerge orange-red and change to a pleasant medium green for the summer, then turn golden-yellow in the fall. A second flush of leaves in midsummer is coppery red, gradually turning green. 'Chantilly Lace' is hardy and fairly vigorous, forming a mushroom-shaped mound up to 8 ft. (2. 5 m) tall."
   },
   "images": {
     "count": 1,
@@ -26,6 +26,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/herter-images/acer-palmatum-chantilly-lace/01-chantillylacefl06.jpg",
     "public_paths": [
       "/herter-images/acer-palmatum-chantilly-lace/01-chantillylacefl06.jpg"
@@ -145,7 +146,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这种迷人的细裂叶品种来自宾夕法尼亚州。中等大小、精细深裂的叶片萌发时呈橙红色，夏季转为悦目的中绿色，秋季再变为金黄色。仲夏抽生的第二次新叶呈铜红色，随后逐渐转绿。'Chantilly Lace' 耐寒性好，长势较强，形成蘑菇状圆丘形株型，高可达 8 英尺（2.5 米）。"
+    "preferred": "这种迷人的细裂叶品种来自宾夕法尼亚州。 中等大小、精细深裂的叶片萌发时呈橙红色，夏季转为悦目的中绿色，秋季再变为金黄色。 仲夏抽生的第二次新叶呈铜红色，随后逐渐转绿。 'Chantilly Lace' 耐寒性好，长势较强，形成蘑菇状圆丘形株型，高可达 8 英尺（2. 5 米）。"
   },
   "has_mrmaple": false,
   "herter": {

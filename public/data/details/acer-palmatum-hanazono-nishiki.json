@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -52,7 +53,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "这是一种较为含蓄的斑叶品种，其名称意为“花园锦”，在精心栽培下极具美感。施肥过重会抑制其斑纹表现。叶片通常为五裂，底色浅绿，叶片大小多在 3 至 6 厘米之间。斑纹主要属于 kiri fu（切入斑）类型，并伴有一些不规则斑驳。颜色从粉色到乳白色不等，其中春季新叶初展时以粉色最为明显。嫩枝树皮上也带有淡淡的粉色斑痕。粉色品种 'Karasu gawa' 更为人熟知。相较之下，较少见的 'Hanazono nishiki' 生长势不强，通常很少超过 2 米高。"
+    "preferred": "这是一种较为含蓄的斑叶品种，其名称意为“花园锦”，在精心栽培下极具美感。 施肥过重会抑制其斑纹表现。 叶片通常为五裂，底色浅绿，叶片大小多在 3 至 6 厘米之间。 斑纹主要属于 kiri fu（切入斑）类型，并伴有一些不规则斑驳。 颜色从粉色到乳白色不等，其中春季新叶初展时以粉色最为明显。 嫩枝树皮上也带有淡淡的粉色斑痕。 粉色品种 'Karasu gawa' 更为人熟知。 相较之下，较少见的 'Hanazono nishiki' 生长势不强，通常很少超过 2 米高。"
   },
   "has_mrmaple": false
 }

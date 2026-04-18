@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "桂锦虽然叫锦，但是这个品种不是锦叶品种，它春天 的嫩芽是粉绿色的，长得新叶是嫩嫩的黄绿色，叶尖 会带有独特的粉色。夏季会反绿，秋季是猩红色。"
+    "preferred": "桂锦虽然叫锦，但是这个品种不是锦叶品种，它春天 的嫩芽是粉绿色的，长得新叶是嫩嫩的黄绿色，叶尖 会带有独特的粉色。 夏季会反绿，秋季是猩红色。"
   },
   "images": {
     "count": 6,
@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -33,7 +34,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "黄叶",
       "title": "桂锦Acer Palmatum 'katsura Nishiki'",
-      "description": "桂锦虽然叫锦，但是这个品种不是锦叶品种，它春天 的嫩芽是粉绿色的，长得新叶是嫩嫩的黄绿色，叶尖 会带有独特的粉色。夏季会反绿，秋季是猩红色。",
+      "description": "桂锦虽然叫锦，但是这个品种不是锦叶品种，它春天 的嫩芽是粉绿色的，长得新叶是嫩嫩的黄绿色，叶尖 会带有独特的粉色。 夏季会反绿，秋季是猩红色。",
       "image_count": 6
     },
     {
@@ -122,7 +123,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "桂锦虽然叫锦，但是这个品种不是锦叶品种，它春天 的嫩芽是粉绿色的，长得新叶是嫩嫩的黄绿色，叶尖 会带有独特的粉色。夏季会反绿，秋季是猩红色。"
+    "preferred": "桂锦虽然叫锦，但是这个品种不是锦叶品种，它春天 的嫩芽是粉绿色的，长得新叶是嫩嫩的黄绿色，叶尖 会带有独特的粉色。 夏季会反绿，秋季是猩红色。"
   },
   "has_mrmaple": false
 }

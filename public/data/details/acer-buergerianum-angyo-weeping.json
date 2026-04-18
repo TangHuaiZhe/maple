@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer buergerianum 'Angyo Weeping' Rare Weeping Trident Maple Zones 5-9 'Angyo Weeping' is a recent selection of a trident from Japan that can reach 15-20 ft in height while cascading downward with long pendulous ornamental branches. 'Angyo Weeping' is extremely heat tolerant and vigorous. Fall colors are bright oranges to reds. 'Angyo Weeping' works great as either a focal point planting or a background planting. This maple is excellent for containers. The unique texture of 'Angyo Weeping' provides a lot of interest in the landscape, even in the winter. As this tree ages, it attains a nice exfoliating grey bark, providing even more interest in the winter garden. This Japanese trident maple received its name as it was found in the Angyo prefecture in Japan. 'Angyo Weeping' is an excellent addition to any garden."
+    "preferred": "Acer buergerianum 'Angyo Weeping' Rare Weeping Trident Maple Zones 5-9 'Angyo Weeping' is a recent selection of a trident from Japan that can reach 15-20 ft in height while cascading downward with long pendulous ornamental branches. 'Angyo Weeping' is extremely heat tolerant and vigorous. Fall colors are bright oranges to reds. This maple is excellent for containers. The unique texture of 'Angyo Weeping' provides a lot of interest in the landscape, even in the winter. As this tree ages, it attains a nice exfoliating grey bark, providing even more interest in the winter garden. This Japanese trident maple received its name as it was found in the Angyo prefecture in Japan."
   },
   "images": {
     "count": 0,
@@ -37,6 +37,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-buergerianum-angyo-weeping-trident-maple-tree/07-Acer_buergerianum_Angyo_Weeping_Trident_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032845.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-buergerianum-angyo-weeping-trident-maple-tree/01-Acer_buergerianum_Angyo_Weeping_Trident_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032766.jpg",
@@ -92,7 +93,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer buergerianum 'Angyo Weeping' 稀有垂枝三角枫，适生区 5-9。‘Angyo Weeping’ 是日本近年选出的一个三角枫品种，株高可达 15-20 英尺，长而下垂的观赏枝条呈瀑布状垂坠。‘Angyo Weeping’ 极耐热，生长势强。秋色为鲜亮的橙色至红色。‘Angyo Weeping’ 既适合作为庭园焦点树，也适合作为背景种植。本品种非常适合容器栽培。其独特的质感使景观在冬季也颇具观赏性。随着树龄增长，树皮会形成漂亮的灰色剥落效果，为冬季庭园增添更多趣味。该日本三角枫因发现于日本安行地区而得名。‘Angyo Weeping’ 是任何庭园中的优秀补充。数量有限！！由于我们拥有上千个日本枫品种，单个品种通常库存不多。建议您在看到心仪品种时及时购买，因为部分选育品种经常很快售罄。"
+    "preferred": "Acer buergerianum 'Angyo Weeping' 稀有垂枝三角枫，适生区 5-9。 ‘Angyo Weeping’ 是日本近年选出的一个三角枫品种，株高可达 15-20 英尺，长而下垂的观赏枝条呈瀑布状垂坠。 ‘Angyo Weeping’ 极耐热，生长势强。 秋色为鲜亮的橙色至红色。 本品种非常适合容器栽培。 其独特的质感使景观在冬季也颇具观赏性。 随着树龄增长，树皮会形成漂亮的灰色剥落效果，为冬季庭园增添更多趣味。 该日本三角枫因发现于日本安行地区而得名。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -150,7 +151,7 @@
           "Use_Bonsai",
           "VDAYSALE26"
         ],
-        "description_text": "Acer buergerianum 'Angyo Weeping' Rare Weeping Trident Maple Zones 5-9 'Angyo Weeping' is a recent selection of a trident from Japan that can reach 15-20 ft in height while cascading downward with long pendulous ornamental branches. 'Angyo Weeping' is extremely heat tolerant and vigorous. Fall colors are bright oranges to reds. 'Angyo Weeping' works great as either a focal point planting or a background planting. This maple is excellent for containers. The unique texture of 'Angyo Weeping' provides a lot of interest in the landscape, even in the winter. As this tree ages, it attains a nice exfoliating grey bark, providing even more interest in the winter garden. This Japanese trident maple received its name as it was found in the Angyo prefecture in Japan. 'Angyo Weeping' is an excellent addition to any garden.",
+        "description_text": "Acer buergerianum 'Angyo Weeping' Rare Weeping Trident Maple Zones 5-9 'Angyo Weeping' is a recent selection of a trident from Japan that can reach 15-20 ft in height while cascading downward with long pendulous ornamental branches. 'Angyo Weeping' is extremely heat tolerant and vigorous. Fall colors are bright oranges to reds. This maple is excellent for containers. The unique texture of 'Angyo Weeping' provides a lot of interest in the landscape, even in the winter. As this tree ages, it attains a nice exfoliating grey bark, providing even more interest in the winter garden. This Japanese trident maple received its name as it was found in the Angyo prefecture in Japan.",
         "published_at": "2026-01-15T10:00:05-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

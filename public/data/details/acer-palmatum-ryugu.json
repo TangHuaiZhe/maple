@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "日系小叶品种，春天叶子上有粉红色和白色的斑点，出 锦稳定，夏季绿色，秋天橙红橙黄色。耐寒，直立性较 强，长势缓慢，每年的生长高度在 1 米内，成年树约 1.5 米左右，适合小花园种植。"
+    "preferred": "日系小叶品种，春天叶子上有粉红色和白色的斑点，出 锦稳定，夏季绿色，秋天橙红橙黄色。 耐寒，直立性较 强，长势缓慢，每年的生长高度在 1 米内，成年树约 1. 5 米左右，适合小花园种植。"
   },
   "images": {
     "count": 8,
@@ -19,10 +19,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-ryugu/01-Acer-palmatum-Ryugu-Specimen-2364-1.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-ryugu/01-Acer-palmatum-Ryugu-Specimen-2364-1.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-ryugu/01-Acer-palmatum-Ryugu-Specimen-2364-1.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,8 +38,17 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "锦叶",
       "title": "龙宫Acer Palmatum 'Ryugu'",
-      "description": "日系小叶品种，春天叶子上有粉红色和白色的斑点，出 锦稳定，夏季绿色，秋天橙红橙黄色。耐寒，直立性较 强，长势缓慢，每年的生长高度在 1 米内，成年树约 1.5 米左右，适合小花园种植。",
+      "description": "日系小叶品种，春天叶子上有粉红色和白色的斑点，出 锦稳定，夏季绿色，秋天橙红橙黄色。 耐寒，直立性较 强，长势缓慢，每年的生长高度在 1 米内，成年树约 1. 5 米左右，适合小花园种植。",
       "image_count": 8
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Ryugu’ Specimen 2364",
+      "botanical_name": "Acer Palmatum 'Ryugu'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-ryugu-specimen-2364/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -51,13 +65,55 @@
     "龙宫",
     "龙宫Acer Palmatum 'Ryugu'"
   ],
-  "source_count": 1,
+  "source_count": 2,
   "has_web": true,
   "has_book": false,
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "日系小叶品种，春天叶子上有粉红色和白色的斑点，出 锦稳定，夏季绿色，秋天橙红橙黄色。耐寒，直立性较 强，长势缓慢，每年的生长高度在 1 米内，成年树约 1.5 米左右，适合小花园种植。"
+    "preferred": "日系小叶品种，春天叶子上有粉红色和白色的斑点，出 锦稳定，夏季绿色，秋天橙红橙黄色。 耐寒，直立性较 强，长势缓慢，每年的生长高度在 1 米内，成年树约 1. 5 米左右，适合小花园种植。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-ryugu-specimen-2364/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ryugu/01-Acer-palmatum-Ryugu-Specimen-2364-1.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ryugu/01-Acer-palmatum-Ryugu-Specimen-2364-1.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Ryugu’ Specimen 2364",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-ryugu-specimen-2364/",
+        "botanical_name": "Acer Palmatum 'Ryugu'",
+        "common_name": "Ryugu",
+        "description_text": "Acer palmatum ‘Ryugu’ Japanese Maple is unique with its tiny leaves flecked with pink and white variegation and brilliantly red twigs in winter. Shop Now!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum ryugu",
+        "match_score": 257
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2024/06/Acer-palmatum-Ryugu-Specimen-2364-1.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-ryugu-specimen-2364/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ryugu/01-Acer-palmatum-Ryugu-Specimen-2364-1.jpg",
+          "bytes": 671999,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:24.555Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ryugu/01-Acer-palmatum-Ryugu-Specimen-2364-1.jpg"
+      ]
+    }
+  }
 }

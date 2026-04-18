@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "This cultivar, which can also be found under its former name of 'Christy Ann', has deep purple-red foliage similar in color to 'Bloodgood', but the leaf lobes are narrower, more serrated, more deeply divided and feathery. It holds its color very well throughout the summer until changing to deep orange and vivid red in the fall. The medium-sized to large seven-lobed leaves, measuring 7.5-9 cm long and 9-11 cm wide, are very deeply divided to less than 1 cm from the leaf base. The lobes are long-ovate with long tail-like tips, 1-1.5 cm wide at the broadest point in the middle and narrowing markedly to only 2 mm at the lobe junctions. The margins are distinctly double serrated with numerous sharp-pointed teeth. The slender red petioles are 2.5-4 cm long. This vigorous plant forms an upright wide round-headed medium-sized tree up to 6 m high. It is wider spreading than"
+    "preferred": "This cultivar, which can also be found under its former name of 'Christy Ann', has deep purple-red foliage similar in color to 'Bloodgood', but the leaf lobes are narrower, more serrated, more deeply divided and feathery. It holds its color very well throughout the summer until changing to deep orange and vivid red in the fall. The medium-sized to large seven-lobed leaves, measuring 7. 5-9 cm long and 9-11 cm wide, are very deeply divided to less than 1 cm from the leaf base. The lobes are long-ovate with long tail-like tips, 1-1. 5 cm wide at the broadest point in the middle and narrowing markedly to only 2 mm at the lobe junctions. The margins are distinctly double serrated with numerous sharp-pointed teeth. The slender red petioles are 2. 5-4 cm long. This vigorous plant forms an upright wide round-headed medium-sized tree up to 6 m high. It is wider spreading than"
   },
   "images": {
     "count": 0,
@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -96,7 +97,7 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "该品种旧名亦作 'Christy Ann'，其深紫红色叶片与 'Bloodgood' 颜色相似，但裂片更狭窄、锯齿更细密，分裂更深，整体更具羽状感。整个夏季持色性都很好，直到秋季转为深橙色和鲜艳的红色。中大型七裂叶长 7.5-9 厘米、宽 9-11 厘米，深裂至距叶基不足 1 厘米处。裂片为长卵形，具长尾状尖端，在中部最宽处宽 1-1.5 厘米，到裂片连接处明显收窄，仅约 2 毫米。叶缘具明显的重锯齿，齿端锐尖且数量较多。细长的红色叶柄长 2.5-4 厘米。植株生长旺盛，形成直立、开展、圆头的中型乔木，高可达 6 米。其冠幅比 'Bloodgood' 更开展，但高度略逊。"
+    "preferred": "该品种旧名亦作 'Christy Ann'，其深紫红色叶片与 'Bloodgood' 颜色相似，但裂片更狭窄、锯齿更细密，分裂更深，整体更具羽状感。 整个夏季持色性都很好，直到秋季转为深橙色和鲜艳的红色。 中大型七裂叶长 7. 5-9 厘米、宽 9-11 厘米，深裂至距叶基不足 1 厘米处。 裂片为长卵形，具长尾状尖端，在中部最宽处宽 1-1. 5 厘米，到裂片连接处明显收窄，仅约 2 毫米。 叶缘具明显的重锯齿，齿端锐尖且数量较多。 细长的红色叶柄长 2. 5-4 厘米。 植株生长旺盛，形成直立、开展、圆头的中型乔木，高可达 6 米。 其冠幅比 'Bloodgood' 更开展，但高度略逊。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,

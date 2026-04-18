@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This Japanese cultivar is one of the bright pink-red spring color maples, similar to the popular 'Corallinum'. The new leaves emerge a deep pink-red, changing to orange-red with yellow veins and margins, and becoming medium green for the summer. Fall color is scarlet. The shoots and leafstalks are red. The small fiveto seven-lobed leaves are moderately deeply divided. 'Beni chidori' grows slowly to about 10 ft. (3 m) tall and is ideal for bonsai and container growing. The name means \"red plover.\""
+    "preferred": "This Japanese cultivar is one of the bright pink-red spring color maples, similar to the popular 'Corallinum'. The new leaves emerge a deep pink-red, changing to orange-red with yellow veins and margins, and becoming medium green for the summer. Fall color is scarlet. The shoots and leafstalks are red. The small fiveto seven-lobed leaves are moderately deeply divided. 'Beni chidori' grows slowly to about 10 ft. (3 m) tall and is ideal for bonsai and container growing. The name means \"red plover. \""
   },
   "images": {
     "count": 7,
@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -37,7 +38,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "矮生",
       "title": "红千鸟 Acer Palmatum 'Beni Chidori'",
-      "description": "小叶品种，具有非常典型的掌状叶，一般为 5 裂叶，叶裂较深，在日本盆景文化中扮演者非常重要的角色。 它属于春叶为亮粉色的枫树品种，与 'Beni tsukasa' （ 红司 ） 相似。春季，新叶萌发时为深粉色，随后逐渐变为橙红色，叶脉和叶缘则是清晰的黄色 ， 夏季叶色转为绿色，秋季则是绯红色 ， 叶柄和嫩枝为红色。它生长缓慢， 成年树高约为 3m 。",
+      "description": "小叶品种，具有非常典型的掌状叶，一般为 5 裂叶，叶裂较深，在日本盆景文化中扮演者非常重要的角色。 它属于春叶为亮粉色的枫树品种，与 'Beni tsukasa' （ 红司 ） 相似。 春季，新叶萌发时为深粉色，随后逐渐变为橙红色，叶脉和叶缘则是清晰的黄色 ， 夏季叶色转为绿色，秋季则是绯红色 ， 叶柄和嫩枝为红色。 它生长缓慢， 成年树高约为 3m 。",
       "image_count": 7
     },
     {
@@ -132,7 +133,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是一个日本品种，属于春季亮粉红至红色叶的日本枫类型之一，与广受欢迎的 'Corallinum' 相似。新叶萌发时为深粉红红色，随后转为橙红色，并带黄色叶脉和叶缘，夏季则变为中绿色。秋色为猩红色。新梢和叶柄为红色。叶片较小，5 至 7 裂，中度深裂。'Beni chidori' 生长缓慢，高约 10 英尺（3 米），非常适合盆景和容器栽培。其名称意为“红千鸟”。"
+    "preferred": "这是一个日本品种，属于春季亮粉红至红色叶的日本枫类型之一，与广受欢迎的 'Corallinum' 相似。 新叶萌发时为深粉红红色，随后转为橙红色，并带黄色叶脉和叶缘，夏季则变为中绿色。 秋色为猩红色。 新梢和叶柄为红色。 叶片较小，5 至 7 裂，中度深裂。 'Beni chidori' 生长缓慢，高约 10 英尺（3 米），非常适合盆景和容器栽培。 其名称意为“红千鸟”。"
   },
   "has_mrmaple": false
 }

@@ -23,10 +23,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-alpenweiss/01-Acer-palmatum-Alpenweiss-Specimen-1818-2.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-alpenweiss/01-Acer-palmatum-Alpenweiss-Specimen-1818-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-alpenweiss/01-Acer-palmatum-Alpenweiss-Specimen-1818-2.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -37,7 +42,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "脉斑叶",
       "title": "白色阿尔卑斯 Acer Palmatum 'Alpenweiss'",
-      "description": "脉斑叶品种， Alpenweiss 意为 \" 白色的阿尔卑斯山 \"， 由俄勒冈州的 Baltzer 苗圃培育 ，与日本杰出的老品种 日笠山（ Hi g asa yama ） 相比， 非常相似 ，春季叶芽展开时，其色彩更为绚烂。它的叶片分为五裂，开裂至叶片的四分之三 处 ，叶片大小与 蝴蝶（ Butterfly ） 相同。夏季叶色与日笠山相似，主要的叶脉呈浅绿色，叶脉边缘区域为中等至浓郁的绿色，叶缘则是由初夏的 浅粉色 转为奶白色 ， 秋季叶片为橙色至绯红色。树冠呈花瓶状 ， 成年树高大约3m 。",
+      "description": "脉斑叶品种， Alpenweiss 意为 \" 白色的阿尔卑斯山 \"， 由俄勒冈州的 Baltzer 苗圃培育 ，与日本杰出的老品种 日笠山（ Hi g asa yama ） 相比， 非常相似 ，春季叶芽展开时，其色彩更为绚烂。 它的叶片分为五裂，开裂至叶片的四分之三 处 ，叶片大小与 蝴蝶（ Butterfly ） 相同。 夏季叶色与日笠山相似，主要的叶脉呈浅绿色，叶脉边缘区域为中等至浓郁的绿色，叶缘则是由初夏的 浅粉色 转为奶白色 ， 秋季叶片为橙色至绯红色。 树冠呈花瓶状 ， 成年树高大约3m 。",
       "image_count": 7
     },
     {
@@ -53,6 +58,15 @@
       "rhs_id": 239407,
       "detail_url": "https://www.rhs.org.uk/plants/239407/acer-palmatum-alpenweiss-(p)/details",
       "botanical_name": "Acer palmatum 'Alpenweiss' (P)",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Alpenweiss’ Specimen 1818",
+      "botanical_name": "Acer Palmatum 'Alpenweiss'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-alpenweiss-specimen-1818/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -72,7 +86,7 @@
     "脉斑叶",
     "鸡爪槭"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -128,7 +142,49 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一槭树与著名的日本老品种 'Higasa yama' 十分相似，但株形更小，一般认为其春季芽体开放时色彩甚至更为丰富。其小型 5 裂叶深裂，大小和形状都与广受欢迎的斑叶品种 'Butterfly' 接近。'Alpenweiss' 形成花瓶状树形，估计约 10 年可长至 10 英尺（3 米）高，冠幅约 4 英尺（1.3 米）。非常适合小型庭园和容器栽培。其名称意为“白色高山”。"
+    "preferred": "这一槭树与著名的日本老品种 'Higasa yama' 十分相似，但株形更小，一般认为其春季芽体开放时色彩甚至更为丰富。 其小型 5 裂叶深裂，大小和形状都与广受欢迎的斑叶品种 'Butterfly' 接近。 'Alpenweiss' 形成花瓶状树形，估计约 10 年可长至 10 英尺（3 米）高，冠幅约 4 英尺（1. 3 米）。 非常适合小型庭园和容器栽培。 其名称意为“白色高山”。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-alpenweiss-specimen-1818/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-alpenweiss/01-Acer-palmatum-Alpenweiss-Specimen-1818-2.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-alpenweiss/01-Acer-palmatum-Alpenweiss-Specimen-1818-2.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Alpenweiss’ Specimen 1818",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-alpenweiss-specimen-1818/",
+        "botanical_name": "Acer Palmatum 'Alpenweiss'",
+        "common_name": "Alpenweiss",
+        "description_text": "The distinctive, variegated leaves of this Japanese maple emerge almost white and pink in spring. As they open and mature, most leaves become predominately green",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum alpenweiss",
+        "match_score": 262
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2018/06/Acer-palmatum-Alpenweiss-Specimen-1818-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-alpenweiss-specimen-1818/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-alpenweiss/01-Acer-palmatum-Alpenweiss-Specimen-1818-2.jpg",
+          "bytes": 579331,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:41.855Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-alpenweiss/01-Acer-palmatum-Alpenweiss-Specimen-1818-2.jpg"
+      ]
+    }
+  }
 }

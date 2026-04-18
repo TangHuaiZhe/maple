@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "小叶羽团扇品种，因其叶子长的像龙之爪而得名， 叶子有五裂叶和七裂叶，以五叶裂为主，五叶裂为 特征叶，中间三个叶裂长且窄，春叶色为茶绿色， 夏季转为深绿，秋季橙红色。生长速度中等，抗性 佳，超级耐寒，可以到零下 30 度，可全日照，成 年株可达 3 米左右高度。"
+    "preferred": "小叶羽团扇品种，因其叶子长的像龙之爪而得名， 叶子有五裂叶和七裂叶，以五叶裂为主，五叶裂为 特征叶，中间三个叶裂长且窄，春叶色为茶绿色， 夏季转为深绿，秋季橙红色。 生长速度中等，抗性 佳，超级耐寒，可以到零下 30 度，可全日照，成 年株可达 3 米左右高度。"
   },
   "images": {
     "count": 6,
@@ -68,6 +68,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-sieboldianum-shoryu-no-tsume-dragon-claw-full-moon-japanese-maple/03-Acer_sieboldianum_Shoryu-no-tsume_Claw_of_the_Dragon_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075096.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-sieboldianum-shoryu-no-tsume-dragon-claw-full-moon-japanese-maple/01-Acer_sieboldianum_Shoryu-no-tsume_Claw_of_the_Dragon_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075087.jpg",
@@ -129,7 +130,7 @@
       "top_group_name": "羽扇槭",
       "second_group_name": "小叶羽团扇",
       "title": "升龙之爪 Acer Sieboldianum 'Shoryu No Tsume'",
-      "description": "小叶羽团扇品种，因其叶子长的像龙之爪而得名， 叶子有五裂叶和七裂叶，以五叶裂为主，五叶裂为 特征叶，中间三个叶裂长且窄，春叶色为茶绿色， 夏季转为深绿，秋季橙红色。生长速度中等，抗性 佳，超级耐寒，可以到零下 30 度，可全日照，成 年株可达 3 米左右高度。",
+      "description": "小叶羽团扇品种，因其叶子长的像龙之爪而得名， 叶子有五裂叶和七裂叶，以五叶裂为主，五叶裂为 特征叶，中间三个叶裂长且窄，春叶色为茶绿色， 夏季转为深绿，秋季橙红色。 生长速度中等，抗性 佳，超级耐寒，可以到零下 30 度，可全日照，成 年株可达 3 米左右高度。",
       "image_count": 6
     },
     {
@@ -166,7 +167,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "小叶羽团扇品种，因其叶子长的像龙之爪而得名， 叶子有五裂叶和七裂叶，以五叶裂为主，五叶裂为 特征叶，中间三个叶裂长且窄，春叶色为茶绿色， 夏季转为深绿，秋季橙红色。生长速度中等，抗性 佳，超级耐寒，可以到零下 30 度，可全日照，成 年株可达 3 米左右高度。"
+    "preferred": "小叶羽团扇品种，因其叶子长的像龙之爪而得名， 叶子有五裂叶和七裂叶，以五叶裂为主，五叶裂为 特征叶，中间三个叶裂长且窄，春叶色为茶绿色， 夏季转为深绿，秋季橙红色。 生长速度中等，抗性 佳，超级耐寒，可以到零下 30 度，可全日照，成 年株可达 3 米左右高度。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -277,7 +278,7 @@
           "VDAYSALE26",
           "XMAS23"
         ],
-        "description_text": "Acer sieboldianum 'Shoryu-no-tsume' Claw of the Dragon - Cold Tolerant Full Moon Japanese Maple Zones 4-9 Acer sieboldianum 'Shoryu-no-tsume' is a brand new cold tolerant full moon maple with a uniquely shaped leaf. 'Shoryu-no-tsume' means \"claw of the dragon\" which is an excellent and fitting description. The green foliage turns to a brilliant shade of red in the fall. We expect 'Shoryu-no-tsume' to reach 10-12 ft in 15 years. 10 GALLON TREE SHIPS WITHOUT POT DUE TO BOX SIZE CONSTRAINTS",
+        "description_text": "Acer sieboldianum 'Shoryu-no-tsume' Claw of the Dragon - Cold Tolerant Full Moon Japanese Maple Zones 4-9 Acer sieboldianum 'Shoryu-no-tsume' is a brand new cold tolerant full moon maple with a uniquely shaped leaf. 'Shoryu-no-tsume' means \"claw of the dragon\" which is an excellent and fitting description. The green foliage turns to a brilliant shade of red in the fall. We expect 'Shoryu-no-tsume' to reach 10-12 ft in 15 years.",
         "published_at": "2026-02-18T20:00:06-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

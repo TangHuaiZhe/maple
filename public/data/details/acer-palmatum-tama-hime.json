@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "'Tama hime' is a good separated. dwarf for fall color. The tiny new leaves are a light The green as they unfold, soon becoming a rich, shiny growing, green, then turning red, crimson, and yellow in cultivar the fall. Each leaf has five ovate lobes which terwide. minate in short tips and are moderately deeply \"small The margins are prominently toothed. red leafstalks are quite short. This compactupright, vase-shaped, multibranched does not exceed 61⁄2 ft. (2 m) high or It is popular for bonsai. The name means globe.\" Acer palmatum"
+    "preferred": "'Tama hime' is a good separated. dwarf for fall color. The tiny new leaves are a light The green as they unfold, soon becoming a rich, shiny growing, green, then turning red, crimson, and yellow in cultivar the fall. Each leaf has five ovate lobes which terwide. minate in short tips and are moderately deeply \"small The margins are prominently toothed. red leafstalks are quite short. This compactupright, vase-shaped, multibranched does not exceed 61⁄2 ft. (2 m) high or It is popular for bonsai. The name means globe. \" Acer palmatum"
   },
   "images": {
     "count": 0,
@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-tama-hime/01-acer-palmatum-tama-hime-285525.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-tama-hime/01-acer-palmatum-tama-hime-285525.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-tama-hime/01-acer-palmatum-tama-hime-285525.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/269443/acer-palmatum-tama-hime-(dw)/details",
       "botanical_name": "Acer palmatum 'Tama-hime' (Dw)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Tama hime' Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Tama hime'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tama-hime",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -57,7 +71,7 @@
     "Tama hime",
     "Tama-hime"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -113,7 +127,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "'Tama hime' 是一个适于观赏秋色的优良矮生品种。细小的新叶展开时呈浅绿色，很快转为浓郁而有光泽的绿色，秋季再变为红色、深红色与黄色。每片叶有 5 个卵形裂片，裂片先端较短，裂刻中等偏深。叶缘具明显锯齿。红色叶柄很短。该品种株形紧凑、直立、花瓶状且多分枝，成熟后高度和冠幅均不超过 6 1/2 英尺（2 米）。它很受盆景栽培欢迎。其名称意为“小球体”。 Acer palmatum 'Tamuke yama' 可作为点景植物使用。"
+    "preferred": "'Tama hime' 是一个适于观赏秋色的优良矮生品种。 细小的新叶展开时呈浅绿色，很快转为浓郁而有光泽的绿色，秋季再变为红色、深红色与黄色。 每片叶有 5 个卵形裂片，裂片先端较短，裂刻中等偏深。 叶缘具明显锯齿。 红色叶柄很短。 该品种株形紧凑、直立、花瓶状且多分枝，成熟后高度和冠幅均不超过 6 1/2 英尺（2 米）。 它很受盆景栽培欢迎。 其名称意为“小球体”。 Acer palmatum 'Tamuke yama' 可作为点景植物使用。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tama-hime",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tama-hime/01-acer-palmatum-tama-hime-285525.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tama-hime/01-acer-palmatum-tama-hime-285525.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Tama hime' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tama-hime",
+        "botanical_name": "Acer palmatum 'Tama hime'",
+        "common_name": "Tama hime",
+        "description_text": "Great small maple that will grow wider than tall, 'Tama hime' emerges in spring with orange tips to the leaves before turning green for the summer. Fall color ranges from bronze to orange. 10 year size: Height: 1-2 Feet Width: 2-3 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Tama hime",
+        "match_score": 368,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-tama-hime-285525.jpg?v=1658490841",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tama-hime",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tama-hime/01-acer-palmatum-tama-hime-285525.jpg",
+          "bytes": 71720,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:25:01.271Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tama-hime/01-acer-palmatum-tama-hime-285525.jpg"
+      ]
+    }
+  }
 }

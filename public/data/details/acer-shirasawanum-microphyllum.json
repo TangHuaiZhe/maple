@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "The small rounded leaves are cupped at the attachment to the leaf- The basal lobes overlap and, with the upturn of the leaf, form a shallow cup. The red leafstalks are sturdy. Leaf color is dark green, becoming bright blends of reds and yellows in the fall. The growth seems less vigorous than that of the species, but the plant forms a small tree to 20 ft. (6 m) tall. It appears to be a sturdy and hardy form. The name means \"small-leaved.\""
+    "preferred": "The small rounded leaves are cupped at the attachment to the leaf- The basal lobes overlap and, with the upturn of the leaf, form a shallow cup. The red leafstalks are sturdy. Leaf color is dark green, becoming bright blends of reds and yellows in the fall. The growth seems less vigorous than that of the species, but the plant forms a small tree to 20 ft. (6 m) tall. It appears to be a sturdy and hardy form. The name means \"small-leaved. \""
   },
   "images": {
     "count": 0,
@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -113,7 +114,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "小型圆叶在叶柄着生处呈杯状内凹。基部裂片彼此重叠，再加上叶片上翘，形成浅浅的杯状。红色叶柄结实有力。叶色为深绿，秋季转为鲜艳的红黄综合色。其长势似乎不如原种旺盛，但可形成一株高达 20 英尺（6 米）的小乔木。看起来是一个强健且耐寒的类型。其名称意为“小叶的”。"
+    "preferred": "小型圆叶在叶柄着生处呈杯状内凹。 基部裂片彼此重叠，再加上叶片上翘，形成浅浅的杯状。 红色叶柄结实有力。 叶色为深绿，秋季转为鲜艳的红黄综合色。 其长势似乎不如原种旺盛，但可形成一株高达 20 英尺（6 米）的小乔木。 看起来是一个强健且耐寒的类型。 其名称意为“小叶的”。"
   },
   "has_mrmaple": false
 }

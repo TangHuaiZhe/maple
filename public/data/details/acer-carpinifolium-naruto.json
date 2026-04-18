@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -107,7 +108,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "其不寻常的叶片分裂成细小而狭长、先端尖锐的裂片，展开姿态如倒置的 T 字。裂片叶缘无齿并向内卷曲，几乎形成管状。叶面上部为深浓绿色，叶背为柔和的灰蓝色，因此卷起的叶缘形成明显的双色效果。秋色为浓金色和红色。'Naruto' 形成高大而奇特、致密且强健的植株，高可达 13 英尺（4 米）。"
+    "preferred": "其不寻常的叶片分裂成细小而狭长、先端尖锐的裂片，展开姿态如倒置的 T 字。 裂片叶缘无齿并向内卷曲，几乎形成管状。 叶面上部为深浓绿色，叶背为柔和的灰蓝色，因此卷起的叶缘形成明显的双色效果。 秋色为浓金色和红色。 'Naruto' 形成高大而奇特、致密且强健的植株，高可达 13 英尺（4 米）。"
   },
   "has_mrmaple": false
 }

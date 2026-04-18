@@ -16,7 +16,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "The leaves, which overlap each other like shingles on a roof, are a light yel- YATSUBUSA' low-green in the spring and bunched up at the shoot tips, becoming a medium green in the summer. The outer leaves have very bright red tips on the fine red serrations of the margins. The leaves, slightly longer than those of other dwarf forms, have five to seven moderately deeply divided lobes. Each lobe is oblong-ovate, with a long, tapering pointed tip. The margins are finely toothed. The leaf base is straight or shallowly heart-shaped, with all the lobes pointing forward. The growth is multibranched, resulting in a very dense compact little plant. The name can be translated as \"a small cluster of three rivers.\""
+    "preferred": "The leaves, which overlap each other like shingles on a roof, are a light yel- YATSUBUSA' low-green in the spring and bunched up at the shoot tips, becoming a medium green in the summer. The outer leaves have very bright red tips on the fine red serrations of the margins. The leaves, slightly longer than those of other dwarf forms, have five to seven moderately deeply divided lobes. Each lobe is oblong-ovate, with a long, tapering pointed tip. The margins are finely toothed. The leaf base is straight or shallowly heart-shaped, with all the lobes pointing forward. The growth is multibranched, resulting in a very dense compact little plant. The name can be translated as \"a small cluster of three rivers. \""
   },
   "images": {
     "count": 10,
@@ -41,6 +41,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-mikawa-yatsubusa/01-elbo52145.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-mikawa-yatsubusa/01-elbo52145.jpg",
@@ -68,7 +69,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "三河系列",
       "title": "三河八房Acer Palmatum 'Mikawa Yatsubusa'",
-      "description": "日系品种，源于位于太平洋沿岸日本本州岛的中部 位置的爱知县，最早始于 1972 年的 Sakata Shubyo 目 录中开始有记载。三河八房是非常经典的矮生品种， 枝叶繁密，树形奇特。是矢野非常推荐的经典盆栽 品种，在欧美几乎每家苗圃都有种植，春天为茶绿色， 夏季转为深绿色，秋季为橙红或者橙黄色。生长速 度较慢，可全日照耐热，夏季午后适当遮阴为佳， 成年树可达 3 米左右高度。",
+      "description": "日系品种，源于位于太平洋沿岸日本本州岛的中部 位置的爱知县，最早始于 1972 年的 Sakata Shubyo 目 录中开始有记载。 三河八房是非常经典的矮生品种， 枝叶繁密，树形奇特。 是矢野非常推荐的经典盆栽 品种，在欧美几乎每家苗圃都有种植，春天为茶绿色， 夏季转为深绿色，秋季为橙红或者橙黄色。 生长速 度较慢，可全日照耐热，夏季午后适当遮阴为佳， 成年树可达 3 米左右高度。",
       "image_count": 10
     },
     {
@@ -157,7 +158,7 @@
     "cultivar_names": [
       "Mikawa-yatsubusa"
     ],
-    "description": "Compact, multi-branched, small tree, growing slowly to about 1-1.2m tall. Dense, tightly overlapping 5 or 7 lobed leaves give a bunched, layered effect. Leaves open pale yellow-green in spring, maturing to bright green, then turning orange, gold and red in autumn. Inconspicuous hanging clusters of small, green flowers are followed by red-flushed, winged seeds. Green bark adds winter colour",
+    "description": "Compact, multi-branched, small tree, growing slowly to about 1-1. 2m tall. Dense, tightly overlapping 5 or 7 lobed leaves give a bunched, layered effect. Leaves open pale yellow-green in spring, maturing to bright green, then turning orange, gold and red in autumn. Inconspicuous hanging clusters of small, green flowers are followed by red-flushed, winged seeds. Green bark adds winter colour",
     "dimensions": {
       "height": "1-1.5 metres",
       "spread": "1-1.5 metres",
@@ -239,7 +240,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "叶片彼此重叠，如屋顶瓦片一般，春季呈浅黄绿色，并簇生于枝梢顶部；夏季转为中绿色。外围叶片在细密的红色锯齿状叶缘上带有非常鲜亮的红色尖端。叶片较其他矮生型略长，具五至七个中等深裂的裂片。每个裂片呈长圆卵形，先端细长渐尖。叶缘细锯齿。叶基平直或浅心形，所有裂片都向前伸展。植株多分枝，因而形成极为致密紧凑的小型株丛。其名称可译为“三川小丛”。"
+    "preferred": "叶片彼此重叠，如屋顶瓦片一般，春季呈浅黄绿色，并簇生于枝梢顶部；夏季转为中绿色。 外围叶片在细密的红色锯齿状叶缘上带有非常鲜亮的红色尖端。 叶片较其他矮生型略长，具五至七个中等深裂的裂片。 每个裂片呈长圆卵形，先端细长渐尖。 叶缘细锯齿。 叶基平直或浅心形，所有裂片都向前伸展。 植株多分枝，因而形成极为致密紧凑的小型株丛。 其名称可译为“三川小丛”。"
   },
   "rhs_zh": {
     "attributes": {
@@ -255,7 +256,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "紧凑、多分枝的小乔木，生长缓慢，株高约 1-1.2 米。致密且紧密重叠的五裂或七裂叶营造出簇生、层叠的效果。春季展叶时为淡黄绿色，成熟后转为鲜绿色，秋季再变为橙色、金色和红色。下垂成串的小型绿色花并不显眼，之后结出带红晕的翅果。绿色树皮也为冬季增添观赏性。"
+    "description": "紧凑、多分枝的小乔木，生长缓慢，株高约 1-1. 2 米。 致密且紧密重叠的五裂或七裂叶营造出簇生、层叠的效果。 春季展叶时为淡黄绿色，成熟后转为鲜绿色，秋季再变为橙色、金色和红色。 下垂成串的小型绿色花并不显眼，之后结出带红晕的翅果。 绿色树皮也为冬季增添观赏性。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -335,7 +336,7 @@
           "VDAYSALE25",
           "VDAYSALE26"
         ],
-        "description_text": "Acer palmatum 'Mikawa yatsubusa' Lollipop Rare Grafted Dwarf Japanese Maple Tree Zones 5-9 Excellent for Bonsai 2015 Maple of the Year When we go visit nurseries, we often ask the nurserymen and women, \"What is your favorite Japanese maple? 'Mikawa yatsubusa' is definitely the most popular answer. When the North American Branch of the Maple Society started the Maple of the Year Program, 'Mikawa yatsubusa' won the first award. 'Mikawa yatsubusa' is a tightly layering dwarf green Japanese maple. In the spring, the leaves are bright chartreuse green with a red sheath to the petiole. This makes this dwarf with a layering shingle-like habit extremely beautiful. 'Mikawa yatsubusa' is extremely slow growing and difficult to propagate. Fall color on 'Mikawa yatsubusa' is a bright fiery red in the fall color. 'Mikawa yatsubusa' may reach 4-5 ft in 15 years. 'Mikawa yatsubusa' is extremely heat tolerant and overall a very hardy tree. 'Mikawa yatsubusa' is great for container plants, small places in the garden, fairy gardens, and conifer troughs. We have an extremely old 'Mikawa yatsubusa' at my uncle's home at Hill Stone Arboretum which serves as one of our display gardens. It is one of the largest 'Mikawa yatsubusa' that I know of. 1 gallon high grafted ‘Mikawa yatsubusa’ create a lollipop effect , with a straight stalk and the same grafted dwarf starting at a higher point. Most of these lollipop style ‘Mikawa yatsubusa’ are grafted around 12 inches creating a unique way to have ‘Mikawa yatsubusa’ in your garden. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent. The photos on this page without a MrMaple logo were taken by Talon Buchholz and cannot be used without expressed written consent from the owner.",
+        "description_text": "Acer palmatum 'Mikawa yatsubusa' Lollipop Rare Grafted Dwarf Japanese Maple Tree Zones 5-9 Excellent for Bonsai 2015 Maple of the Year When we go visit nurseries, we often ask the nurserymen and women, \"What is your favorite Japanese maple? 'Mikawa yatsubusa' is definitely the most popular answer. When the North American Branch of the Maple Society started the Maple of the Year Program, 'Mikawa yatsubusa' won the first award. 'Mikawa yatsubusa' is a tightly layering dwarf green Japanese maple. In the spring, the leaves are bright chartreuse green with a red sheath to the petiole. This makes this dwarf with a layering shingle-like habit extremely beautiful. 'Mikawa yatsubusa' is extremely slow growing and difficult to propagate. Fall color on 'Mikawa yatsubusa' is a bright fiery red in the fall color. 'Mikawa yatsubusa' may reach 4-5 ft in 15 years. 'Mikawa yatsubusa' is extremely heat tolerant and overall a very hardy tree. 'Mikawa yatsubusa' is great for container plants, small places in the garden, fairy gardens, and conifer troughs. We have an extremely old 'Mikawa yatsubusa' at my uncle's home at Hill Stone Arboretum which serves as one of our display gardens. It is one of the largest 'Mikawa yatsubusa' that I know of. 1 gallon high grafted ‘Mikawa yatsubusa’ create a lollipop effect , with a straight stalk and the same grafted dwarf starting at a higher point. Most of these lollipop style ‘Mikawa yatsubusa’ are grafted around 12 inches creating a unique way to have ‘Mikawa yatsubusa’ in your garden.",
         "published_at": "2025-11-29T09:00:15-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

@@ -27,6 +27,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/herter-images/acer-palmatum-shidava-gold/01-shidavagold.jpg",
     "public_paths": [
       "/herter-images/acer-palmatum-shidava-gold/01-shidavagold.jpg"
@@ -42,7 +43,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "绿叶",
       "title": "希达瓦金Acer Palmatum 'Shidava Gold'",
-      "description": "澳大利亚人 Raraflora Nursery 在Acer Palmatum'Aoyagi' 青柳上发现的枝变品种，希达瓦金继承了母树的所 有特征，但树形更小更紧凑。春色嫩绿，夏天绿色， 秋天从浅黄色到金黄色。枝干绿色，在冬季可以和 观枝品种搭配，形成独特的景观。成年树可达到 2 米左右。在冬天，这棵树深绿色的树杆照亮了原本 灰暗的日子，也使这棵树成为其他观枝品种的趣味 好伙伴，有些人甚至经常将它们并排种植，这样它 们的树杆形成了鲜明的对比，增加观赏性。",
+      "description": "澳大利亚人 Raraflora Nursery 在Acer Palmatum'Aoyagi' 青柳上发现的枝变品种，希达瓦金继承了母树的所 有特征，但树形更小更紧凑。 春色嫩绿，夏天绿色， 秋天从浅黄色到金黄色。 枝干绿色，在冬季可以和 观枝品种搭配，形成独特的景观。 成年树可达到 2 米左右。 在冬天，这棵树深绿色的树杆照亮了原本 灰暗的日子，也使这棵树成为其他观枝品种的趣味 好伙伴，有些人甚至经常将它们并排种植，这样它 们的树杆形成了鲜明的对比，增加观赏性。",
       "image_count": 9
     },
     {
@@ -114,7 +115,7 @@
     "cultivar_names": [
       "Shidava Gold"
     ],
-    "description": "A compact, upright deciduous Japanese maple to about 1.5m tall, discovered as a witches broom on 'Aoyagi'. The bright yellow-green, 5-lobed leaves to 4cm long are yellow when young and turn to bright yellow in autumn, all contrasting with pea-green stems. A miniature version of the parent plant",
+    "description": "A compact, upright deciduous Japanese maple to about 1. 5m tall, discovered as a witches broom on 'Aoyagi'. The bright yellow-green, 5-lobed leaves to 4cm long are yellow when young and turn to bright yellow in autumn, all contrasting with pea-green stems. A miniature version of the parent plant",
     "dimensions": {
       "height": "1-1.5 metres",
       "spread": "0.5-1 metres",
@@ -155,7 +156,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一极受欢迎的矮生品种最初是在著名的 ‘Aoyagi’ 上发现的一枝巫枝变异，由澳大利亚新南威尔士州 Berry 的 Raraflora Nursery 繁殖并命名。它可视为亲本的微型复制品，亮黄绿色叶片与豆绿色树皮形成鲜明对比。其掌状叶为 5 裂，裂片深达叶基的三分之二以上，尺寸略小于 ‘Aoyagi’，长约 4 厘米、宽可达 5 厘米。除此之外，叶形、锯齿叶缘以及四季中的叶色变化均与亲本相同。株形也保留了 ‘Aoyagi’ 的直立生长习性，但更短小、更紧凑。在澳大利亚条件下，原始植株之一 7 年可长到高 1.8 米、宽 1.2 米。不过，Raraflora Nursery 的 John Emery 正确指出，新南威尔士州的日本枫生长速度可能比欧洲和北美许多地区快得多。因此，在大多数环境下，‘Shidava Gold’ 不太可能长到 2 米高。该名称也曾被误拼为 ‘Shidaba Gold’。"
+    "preferred": "这一极受欢迎的矮生品种最初是在著名的 ‘Aoyagi’ 上发现的一枝巫枝变异，由澳大利亚新南威尔士州 Berry 的 Raraflora Nursery 繁殖并命名。 它可视为亲本的微型复制品，亮黄绿色叶片与豆绿色树皮形成鲜明对比。 其掌状叶为 5 裂，裂片深达叶基的三分之二以上，尺寸略小于 ‘Aoyagi’，长约 4 厘米、宽可达 5 厘米。 除此之外，叶形、锯齿叶缘以及四季中的叶色变化均与亲本相同。 株形也保留了 ‘Aoyagi’ 的直立生长习性，但更短小、更紧凑。 在澳大利亚条件下，原始植株之一 7 年可长到高 1. 8 米、宽 1. 2 米。 不过，Raraflora Nursery 的 John Emery 正确指出，新南威尔士州的日本枫生长速度可能比欧洲和北美许多地区快得多。 因此，在大多数环境下，‘Shidava Gold’ 不太可能长到 2 米高。 该名称也曾被误拼为 ‘Shidaba Gold’。"
   },
   "rhs_zh": {
     "growing_conditions": {
@@ -174,7 +175,7 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "紧凑直立的落叶日本枫，株高约 1.5 米，最初是在 'Aoyagi' 上发现的一株丛枝变异。叶片鲜亮黄绿色，5 裂，长可达 4 厘米，幼叶呈黄色，秋季转为明亮的黄色，与豌豆绿色枝条形成鲜明对比。可视作母本的微型版本。"
+    "description": "紧凑直立的落叶日本枫，株高约 1. 5 米，最初是在 'Aoyagi' 上发现的一株丛枝变异。 叶片鲜亮黄绿色，5 裂，长可达 4 厘米，幼叶呈黄色，秋季转为明亮的黄色，与豌豆绿色枝条形成鲜明对比。 可视作母本的微型版本。"
   },
   "has_mrmaple": false,
   "herter": {

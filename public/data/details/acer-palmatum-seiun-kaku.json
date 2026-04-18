@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-seiun-kaku/01-acer-palmatum-seiun-kaku-681738.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-seiun-kaku/01-acer-palmatum-seiun-kaku-681738.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-seiun-kaku/01-acer-palmatum-seiun-kaku-681738.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -37,7 +42,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "矮生",
       "title": "青云阁 Acer Palmatum 'Seiun Kaku'",
-      "description": "青云阁1974 年在日本关西地区被发现，于 2008 年左右进入美国 ，意为 \" 云中的蓝绿色宫殿 \" 。 是一款生长紧凑的矮生品种，因为这种生长习性所以外观看起来和三河八房有相似之处。春天黄绿色的叶子在夏天变成深绿色，秋天颜色是明亮的火红色。 地栽的 成年树高约2 m 左右 。",
+      "description": "青云阁1974 年在日本关西地区被发现，于 2008 年左右进入美国 ，意为 \" 云中的蓝绿色宫殿 \" 。 是一款生长紧凑的矮生品种，因为这种生长习性所以外观看起来和三河八房有相似之处。 春天黄绿色的叶子在夏天变成深绿色，秋天颜色是明亮的火红色。 地栽的 成年树高约2 m 左右 。",
       "image_count": 7
     },
     {
@@ -53,6 +58,15 @@
       "rhs_id": 181370,
       "detail_url": "https://www.rhs.org.uk/plants/181370/acer-palmatum-seiun-kaku-(p)/details",
       "botanical_name": "Acer palmatum 'Seiun-kaku' (P)",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Seiun kaku' Dwarf Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Seiun Kaku'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-seiun-kaku",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -78,7 +92,7 @@
     "青云阁 Acer Palmatum 'Seiun Kaku'",
     "鸡爪槭"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -136,7 +150,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该品种为直立、平顶状灌木，高可达 10 英尺（3 米），外形类似生长更旺盛的 ‘Mikawa yatsubusa’。其叶片小至中等大小，形态也很相似，裂片为长卵形，先端细长尖锐，其中中央裂片最长。叶缘具显著而粗大的锯齿。与 ‘Mikawa yatsubusa’ 一样，叶片彼此重叠，如屋瓦覆叠。叶色深绿，秋季转为极美的红色。其名称可译作“青云之宫”。"
+    "preferred": "该品种为直立、平顶状灌木，高可达 10 英尺（3 米），外形类似生长更旺盛的 ‘Mikawa yatsubusa’。 其叶片小至中等大小，形态也很相似，裂片为长卵形，先端细长尖锐，其中中央裂片最长。 叶缘具显著而粗大的锯齿。 与 ‘Mikawa yatsubusa’ 一样，叶片彼此重叠，如屋瓦覆叠。 叶色深绿，秋季转为极美的红色。 其名称可译作“青云之宫”。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -158,7 +172,50 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "直立、顶端平展的落叶灌木状小乔木，高约 2-3 米。叶片层层重叠，幼时浅绿色，夏季转中绿色，至秋季呈金黄色；每片叶具细长狭窄的裂片。春季开不显眼的红紫色小花，随后可能结带翅的紫色翅果。"
+    "description": "直立、顶端平展的落叶灌木状小乔木，高约 2-3 米。 叶片层层重叠，幼时浅绿色，夏季转中绿色，至秋季呈金黄色；每片叶具细长狭窄的裂片。 春季开不显眼的红紫色小花，随后可能结带翅的紫色翅果。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-seiun-kaku",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-seiun-kaku/01-acer-palmatum-seiun-kaku-681738.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-seiun-kaku/01-acer-palmatum-seiun-kaku-681738.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Seiun kaku' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-seiun-kaku",
+        "botanical_name": "Acer Palmatum 'Seiun Kaku'",
+        "common_name": "Seiun kaku",
+        "description_text": "Acer palmatum ‘Seiun kaku’ is a Japanese cultivar has bright green leaves and red petioles. Similar to 'Mikawa yatsubusa' in that the leaves are layered one over the other like tiles on a roof but 'Seuin kaku' is much faster growing developing into a small more open and airy tree. 'Seiun kaku' finishes most years with a very nice deep red fall color. The Japanese name means blue-green tower or palace in the clouds. 10 year size: Height: 5-6 Feet Width: 2-3 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Seiun kaku",
+        "match_score": 369,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-seiun-kaku-681738.jpg?v=1658490904",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-seiun-kaku",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-seiun-kaku/01-acer-palmatum-seiun-kaku-681738.jpg",
+          "bytes": 313574,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:57.057Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-seiun-kaku/01-acer-palmatum-seiun-kaku-681738.jpg"
+      ]
+    }
+  }
 }

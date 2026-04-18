@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer palmatum 'Squitty' Squitty是阿拉巴马州已故哈罗德·约翰逊偶然发现的幼苗，并由泰勒·巴克霍兹引入栽培。春天呈现出绚丽的粉红色锦叶，后续成熟后粉色变成白色，一般来说，夏季新稍不会有很明显的锦叶呈现，但是第二年非常显著。秋天颜色是明亮的橙色到红色。这是一款出色的紧凑型枫树，成年高度大约1m左右。"
+    "preferred": "Acer palmatum 'Squitty' Squitty是阿拉巴马州已故哈罗德·约翰逊偶然发现的幼苗，并由泰勒·巴克霍兹引入栽培。 春天呈现出绚丽的粉红色锦叶，后续成熟后粉色变成白色，一般来说，夏季新稍不会有很明显的锦叶呈现，但是第二年非常显著。 秋天颜色是明亮的橙色到红色。 这是一款出色的紧凑型枫树，成年高度大约1m左右。"
   },
   "images": {
     "count": 9,
@@ -19,10 +19,19 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-squitty/01-Acer-palmatum-Squitty.jpg",
+      "/coniferkingdom-images/acer-palmatum-squitty/02-Acer-palm-Squitty-003.jpg",
+      "/coniferkingdom-images/acer-palmatum-squitty/03-Acer-palm-Squitty-002.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-squitty/02-Acer-palm-Squitty-003.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-squitty/01-Acer-palmatum-Squitty.jpg",
+      "/coniferkingdom-images/acer-palmatum-squitty/02-Acer-palm-Squitty-003.jpg",
+      "/coniferkingdom-images/acer-palmatum-squitty/03-Acer-palm-Squitty-002.jpg"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -33,8 +42,17 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "脉斑叶",
       "title": "Squitty-Acer palmatum 'Squitty'",
-      "description": "Acer palmatum 'Squitty' Squitty是阿拉巴马州已故哈罗德·约翰逊偶然发现的幼苗，并由泰勒·巴克霍兹引入栽培。春天呈现出绚丽的粉红色锦叶，后续成熟后粉色变成白色，一般来说，夏季新稍不会有很明显的锦叶呈现，但是第二年非常显著。秋天颜色是明亮的橙色到红色。这是一款出色的紧凑型枫树，成年高度大约1m左右。",
+      "description": "Acer palmatum 'Squitty' Squitty是阿拉巴马州已故哈罗德·约翰逊偶然发现的幼苗，并由泰勒·巴克霍兹引入栽培。 春天呈现出绚丽的粉红色锦叶，后续成熟后粉色变成白色，一般来说，夏季新稍不会有很明显的锦叶呈现，但是第二年非常显著。 秋天颜色是明亮的橙色到红色。 这是一款出色的紧凑型枫树，成年高度大约1m左右。",
       "image_count": 9
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Squitty’ Japanese Maple",
+      "botanical_name": "Acer palmatum 'Squitty'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-squitty-japanese-maple/",
+      "image_count": 3,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -51,13 +69,83 @@
     "脉斑叶",
     "鸡爪槭"
   ],
-  "source_count": 1,
+  "source_count": 2,
   "has_web": true,
   "has_book": false,
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer palmatum 'Squitty' Squitty是阿拉巴马州已故哈罗德·约翰逊偶然发现的幼苗，并由泰勒·巴克霍兹引入栽培。春天呈现出绚丽的粉红色锦叶，后续成熟后粉色变成白色，一般来说，夏季新稍不会有很明显的锦叶呈现，但是第二年非常显著。秋天颜色是明亮的橙色到红色。这是一款出色的紧凑型枫树，成年高度大约1m左右。"
+    "preferred": "Acer palmatum 'Squitty' Squitty是阿拉巴马州已故哈罗德·约翰逊偶然发现的幼苗，并由泰勒·巴克霍兹引入栽培。 春天呈现出绚丽的粉红色锦叶，后续成熟后粉色变成白色，一般来说，夏季新稍不会有很明显的锦叶呈现，但是第二年非常显著。 秋天颜色是明亮的橙色到红色。 这是一款出色的紧凑型枫树，成年高度大约1m左右。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-squitty-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 3,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-squitty/01-Acer-palmatum-Squitty.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-squitty/01-Acer-palmatum-Squitty.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-squitty/02-Acer-palm-Squitty-003.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-squitty/03-Acer-palm-Squitty-002.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Squitty’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-squitty-japanese-maple/",
+        "botanical_name": "Acer palmatum 'Squitty'",
+        "common_name": "Squitty",
+        "description_text": "Kind of a weird name for this Japanese maple, but somehow it just fits perfectly! This squat maple is quite dwarf and the leaves are stacked very close together on the branches.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum squitty",
+        "match_score": 259
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2024/11/Acer-palmatum-Squitty.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-squitty-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-squitty/01-Acer-palmatum-Squitty.jpg",
+          "bytes": 577151,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:54.225Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2024/11/Acer-palm-Squitty-003.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-squitty-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-squitty/02-Acer-palm-Squitty-003.jpg",
+          "bytes": 694644,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:55.338Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2024/11/Acer-palm-Squitty-002.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-squitty-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-squitty/03-Acer-palm-Squitty-002.jpg",
+          "bytes": 417824,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:55.957Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 3,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-squitty/01-Acer-palmatum-Squitty.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-squitty/02-Acer-palm-Squitty-003.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-squitty/03-Acer-palm-Squitty-002.jpg"
+      ]
+    }
+  }
 }

@@ -26,6 +26,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-butterfly/03-elbo07621.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-butterfly/01-WSY0025271_5894.jpg",
@@ -44,7 +45,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "锦叶",
       "title": "蝴蝶Acer Palmatum 'Butterfly'",
-      "description": "蝴蝶锦是一款非常漂亮的锦叶品种。五裂叶，春天浅绿 色的叶边缘有不规则粉色锦叶，夏天粉色锦叶会变成奶 白色，秋天会变成猩红色。成年树高约 2-3 米。",
+      "description": "蝴蝶锦是一款非常漂亮的锦叶品种。 五裂叶，春天浅绿 色的叶边缘有不规则粉色锦叶，夏天粉色锦叶会变成奶 白色，秋天会变成猩红色。 成年树高约 2-3 米。",
       "image_count": 8
     },
     {
@@ -212,7 +213,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "叶片较小、分裂很深，呈蓝绿色，叶缘带有不规则斑锦。'Ao kanzashi' 在叶形、斑锦表现和生长习性上与 'Tennyo-no-hoshi' 非常相似，但叶片略小，株形更紧凑。叶缘周围的浅奶油绿色斑锦不像 'Tennyo-no-hoshi' 那样容易在日照下转为粉色。其名称意为“蓝绿色边缘”，指的就是叶片。"
+    "preferred": "叶片较小、分裂很深，呈蓝绿色，叶缘带有不规则斑锦。 'Ao kanzashi' 在叶形、斑锦表现和生长习性上与 'Tennyo-no-hoshi' 非常相似，但叶片略小，株形更紧凑。 叶缘周围的浅奶油绿色斑锦不像 'Tennyo-no-hoshi' 那样容易在日照下转为粉色。 其名称意为“蓝绿色边缘”，指的就是叶片。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -234,7 +235,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "株型较直立的灌木或小乔木，叶片 5 至 7 裂，叶缘不规则镶乳白色，且常带粉色晕染。春季偶尔开小型红花。"
+    "description": "株型较直立的灌木或小乔木，叶片 5 至 7 裂，叶缘不规则镶乳白色，且常带粉色晕染。 春季偶尔开小型红花。"
   },
   "has_mrmaple": false,
   "herter": {

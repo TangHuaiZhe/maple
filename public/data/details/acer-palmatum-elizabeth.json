@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "This dwarf plant is similar to 'Kandy Kitchen' and, like that cultivar, originates from a witches'-broom found and named by Edward Rodd of Raraflora Nursery, Kinterfield, Pennsylvania. The mainly five-lobed small leaves are of the palmatum type, divided up to three-quarter of the way to the leaf base, and are 2.5-3 cm long and wide. The lobes are ovate with tail-like tips, though the center lobe may be truncated in some leaves. The margins are toothed. The young leaves emerge a bright pink red and become purple red. This color holds well all"
+    "preferred": "This dwarf plant is similar to 'Kandy Kitchen' and, like that cultivar, originates from a witches'-broom found and named by Edward Rodd of Raraflora Nursery, Kinterfield, Pennsylvania. The mainly five-lobed small leaves are of the palmatum type, divided up to three-quarter of the way to the leaf base, and are 2. 5-3 cm long and wide. The lobes are ovate with tail-like tips, though the center lobe may be truncated in some leaves. The margins are toothed. The young leaves emerge a bright pink red and become purple red. This color holds well all"
   },
   "images": {
     "count": 0,
@@ -37,6 +37,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/04-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050795.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-elizabeth-dwarf-red-japanese-maple-tree/01-Acer_palmatum_Elizabeth_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050742.jpg",
@@ -150,7 +151,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一矮生品种与 ‘Kandy Kitchen’ 相似，并且与该品种一样，源自宾夕法尼亚州 Kinterfield 的 Raraflora Nursery 苗圃主人 Edward Rodd 发现并命名的一株丛枝突变（witches'-broom）。其小型叶片多为 5 裂，属 palmatum 型，裂至接近叶基的四分之三处，长宽约 2.5-3 厘米。裂片卵形，先端呈尾状渐尖，但部分叶片的中央裂片可能为截形。叶缘具锯齿。嫩叶初展时为鲜亮的粉红红色，随后转为紫红色。这种颜色全年都能保持较好。"
+    "preferred": "这一矮生品种与 ‘Kandy Kitchen’ 相似，并且与该品种一样，源自宾夕法尼亚州 Kinterfield 的 Raraflora Nursery 苗圃主人 Edward Rodd 发现并命名的一株丛枝突变（witches'-broom）。 其小型叶片多为 5 裂，属 palmatum 型，裂至接近叶基的四分之三处，长宽约 2. 5-3 厘米。 裂片卵形，先端呈尾状渐尖，但部分叶片的中央裂片可能为截形。 叶缘具锯齿。 嫩叶初展时为鲜亮的粉红红色，随后转为紫红色。 这种颜色全年都能保持较好。"
   },
   "has_mrmaple": true,
   "mrmaple": {

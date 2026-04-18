@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "This purple-red cultivar is considered an improvement on 'Bloodgood', and similar in leaf and growth to 'Fireglow' but not as outstanding. It has slightly larger leaves than 'Fireglow' with the lower ends of each lobe narrower, like the neck of a bottle. The large fiveor sevenlobed widespreading bright purple-red leaves are deeply divided three-quarters of the way to the leaf base. They measure up to 8-9 cm long and 9-12 cm wide. The broadly ovate lobes with long slender pointed tips are 2-2.5 cm wide in the middle but narrow markedly to 0.5-1 cm at the lobe junctions. The slender purple petioles are 2.5-5 cm long. This plant forms a narrow, upright tree, eventually attaining a height of 5-6 m. It is sometimes found in catalogs as"
+    "preferred": "This purple-red cultivar is considered an improvement on 'Bloodgood', and similar in leaf and growth to 'Fireglow' but not as outstanding. It has slightly larger leaves than 'Fireglow' with the lower ends of each lobe narrower, like the neck of a bottle. The large fiveor sevenlobed widespreading bright purple-red leaves are deeply divided three-quarters of the way to the leaf base. They measure up to 8-9 cm long and 9-12 cm wide. The broadly ovate lobes with long slender pointed tips are 2-2. 5 cm wide in the middle but narrow markedly to 0. 5-1 cm at the lobe junctions. The slender purple petioles are 2. 5-5 cm long. This plant forms a narrow, upright tree, eventually attaining a height of 5-6 m. It is sometimes found in catalogs as"
   },
   "images": {
     "count": 0,
@@ -26,6 +26,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/herter-images/acer-palmatum-margaret-bee/01-margaretbee.jpg",
     "public_paths": [
       "/herter-images/acer-palmatum-margaret-bee/01-margaretbee.jpg"
@@ -125,7 +126,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一紫红叶品种通常被认为是对 ‘Bloodgood’ 的改良，在叶形和生长习性上与 ‘Fireglow’ 相似，但表现不及后者突出。其叶片比 ‘Fireglow’ 略大，每个裂片基部较窄，形似瓶颈。大型五裂或七裂叶开展，色泽鲜亮紫红，深裂至接近叶基四分之三处。叶片长可达 8-9 厘米，宽 9-12 厘米。裂片宽卵形，先端细长尖锐，中部宽 2-2.5 厘米，但在裂片连接处会明显收窄至 0.5-1 厘米。细长的紫色叶柄长 2.5-5 厘米。植株形成狭窄直立的乔木，最终可高达 5-6 米。有时在目录中也见作 ‘Margaret B’。后半段原文存在明显 OCR 混乱，内容大意应为另一品种描述：叶片深裂，几乎达叶基，长 5-7 厘米、宽 5-9 厘米；各裂片为长卵形，先端延伸成极尖锐的尖头，叶缘具显著重锯齿。新叶初展时呈深红色，偶尔带强烈粉色调，随后色泽减淡，但至晚春叶缘仍保留红色。成熟叶以绿色为底，但常有密集斑纹，以至几乎呈现另一种综合色效果。植株可形成高约 4 米的大型灌木。该品种名有时误拼为 ‘Musa kagami’。"
+    "preferred": "这一紫红叶品种通常被认为是对 ‘Bloodgood’ 的改良，在叶形和生长习性上与 ‘Fireglow’ 相似，但表现不及后者突出。 其叶片比 ‘Fireglow’ 略大，每个裂片基部较窄，形似瓶颈。 大型五裂或七裂叶开展，色泽鲜亮紫红，深裂至接近叶基四分之三处。 叶片长可达 8-9 厘米，宽 9-12 厘米。 裂片宽卵形，先端细长尖锐，中部宽 2-2. 5 厘米，但在裂片连接处会明显收窄至 0. 5-1 厘米。 细长的紫色叶柄长 2. 5-5 厘米。 植株形成狭窄直立的乔木，最终可高达 5-6 米。 有时在目录中也见作 ‘Margaret B’。 后半段原文存在明显 OCR 混乱，内容大意应为另一品种描述：叶片深裂，几乎达叶基，长 5-7 厘米、宽 5-9 厘米；各裂片为长卵形，先端延伸成极尖锐的尖头，叶缘具显著重锯齿。 新叶初展时呈深红色，偶尔带强烈粉色调，随后色泽减淡，但至晚春叶缘仍保留红色。 成熟叶以绿色为底，但常有密集斑纹，以至几乎呈现另一种综合色效果。 植株可形成高约 4 米的大型灌木。 该品种名有时误拼为 ‘Musa kagami’。"
   },
   "has_mrmaple": false,
   "herter": {

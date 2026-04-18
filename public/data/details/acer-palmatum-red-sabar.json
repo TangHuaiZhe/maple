@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer palmatum 'Red Sabar' 意为 \"红军刀\"，直立型 红色日本枫树，但与其他 红色 日本枫树相比，其 冠幅较小 。 叶裂纤细，叶边锯齿边不明显，叶裂基部靠一个点链接。 直立 的树形 以及尖锐的叶子是 它 得名的原因。秋天的颜色从深红色到猩红色。 成年树高 达到 3m 、 冠幅 1. 5 m 。"
+    "preferred": "Acer palmatum 'Red Sabar' 意为 \"红军刀\"，直立型 红色日本枫树，但与其他 红色 日本枫树相比，其 冠幅较小 。 叶裂纤细，叶边锯齿边不明显，叶裂基部靠一个点链接。 直立 的树形 以及尖锐的叶子是 它 得名的原因。 秋天的颜色从深红色到猩红色。 成年树高 达到 3m 、 冠幅 1. 5 m 。"
   },
   "images": {
     "count": 8,
@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -33,7 +34,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "红叶",
       "title": "Red Sabar-Acer palmatum 'Red Sabar'",
-      "description": "Acer palmatum 'Red Sabar' 意为 \"红军刀\"，直立型 红色日本枫树，但与其他 红色 日本枫树相比，其 冠幅较小 。 叶裂纤细，叶边锯齿边不明显，叶裂基部靠一个点链接。 直立 的树形 以及尖锐的叶子是 它 得名的原因。秋天的颜色从深红色到猩红色。 成年树高 达到 3m 、 冠幅 1. 5 m 。",
+      "description": "Acer palmatum 'Red Sabar' 意为 \"红军刀\"，直立型 红色日本枫树，但与其他 红色 日本枫树相比，其 冠幅较小 。 叶裂纤细，叶边锯齿边不明显，叶裂基部靠一个点链接。 直立 的树形 以及尖锐的叶子是 它 得名的原因。 秋天的颜色从深红色到猩红色。 成年树高 达到 3m 、 冠幅 1. 5 m 。",
       "image_count": 8
     }
   ],
@@ -57,7 +58,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer palmatum 'Red Sabar' 意为 \"红军刀\"，直立型 红色日本枫树，但与其他 红色 日本枫树相比，其 冠幅较小 。 叶裂纤细，叶边锯齿边不明显，叶裂基部靠一个点链接。 直立 的树形 以及尖锐的叶子是 它 得名的原因。秋天的颜色从深红色到猩红色。 成年树高 达到 3m 、 冠幅 1. 5 m 。"
+    "preferred": "Acer palmatum 'Red Sabar' 意为 \"红军刀\"，直立型 红色日本枫树，但与其他 红色 日本枫树相比，其 冠幅较小 。 叶裂纤细，叶边锯齿边不明显，叶裂基部靠一个点链接。 直立 的树形 以及尖锐的叶子是 它 得名的原因。 秋天的颜色从深红色到猩红色。 成年树高 达到 3m 、 冠幅 1. 5 m 。"
   },
   "has_mrmaple": false
 }

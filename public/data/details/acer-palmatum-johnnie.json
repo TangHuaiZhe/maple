@@ -20,9 +20,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-johnnie/01-acer-palmatum-johnnies-pink-883582.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-johnnie/01-acer-palmatum-johnnies-pink-883582.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-johnnie/01-acer-palmatum-johnnies-pink-883582.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -42,6 +47,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/367168/acer-palmatum-johnnies-pink-(p)/details",
       "botanical_name": "Acer palmatum 'Johnnie's Pink' (P)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Johnnie's Pink' Rare Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Johnnie'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-johnnies-pink",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -60,7 +74,7 @@
     "红叶",
     "鸡爪槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -117,6 +131,49 @@
   },
   "has_mrmaple": false,
   "descriptions_zh": {
-    "preferred": "即 Johnnie's Pink。春季新叶呈鲜亮的粉红至粉红红色，随后转为带黄色底调的橙红色，入夏后逐渐转绿，秋季再现黄橙色。叶片较小且裂刻较深，季相变化鲜明。"
+    "preferred": "即 Johnnie's Pink。 春季新叶呈鲜亮的粉红至粉红红色，随后转为带黄色底调的橙红色，入夏后逐渐转绿，秋季再现黄橙色。 叶片较小且裂刻较深，季相变化鲜明。"
+  },
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-johnnies-pink",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-johnnie/01-acer-palmatum-johnnies-pink-883582.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-johnnie/01-acer-palmatum-johnnies-pink-883582.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Johnnie's Pink' Rare Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-johnnies-pink",
+        "botanical_name": "Acer Palmatum 'Johnnie'",
+        "common_name": "Johnnie",
+        "description_text": "Introduced by the great Harold Johnson of Tallassee, Alabama who truly helped spread the love of maples throughout the Southeastern U.S. and named for the love of his life, his wife Johnnie. 'Johnnie's Pink' emerges light pink in spring before bronzing and then turning green for summer. 10 Year Size: Height: 6-8 Feet Width: 3-5 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Johnnie",
+        "match_score": 367,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-johnnies-pink-883582.jpg?v=1658490639",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-johnnies-pink",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-johnnie/01-acer-palmatum-johnnies-pink-883582.jpg",
+          "bytes": 37805,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:52.295Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-johnnie/01-acer-palmatum-johnnies-pink-883582.jpg"
+      ]
+    }
   }
 }

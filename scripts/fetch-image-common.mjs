@@ -11,6 +11,7 @@ const DEFAULT_RETRIES = 3;
 export const herterImagesRoot = path.join(sourceRoot, "Resource/园艺/raw/herter-images");
 export const ncsuImagesRoot = path.join(sourceRoot, "Resource/园艺/raw/ncsu-images");
 export const coniferImagesRoot = path.join(sourceRoot, "Resource/园艺/raw/coniferkingdom-images");
+export const jmacImagesRoot = path.join(sourceRoot, "Resource/园艺/raw/jmac-images");
 
 const HTML_ENTITY_MAP = {
   amp: "&",

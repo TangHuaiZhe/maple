@@ -23,10 +23,17 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-yuri-hime/01-Acer-palmatum-Yuri-hime-Sport-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-yuri-hime/02-Acer-palmatum-Yuri-hime-Sport-1-e1676580043426.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-yuri-hime/02-Acer-palmatum-Yuri-hime-Sport-1-e1676580043426.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-yuri-hime/01-Acer-palmatum-Yuri-hime-Sport-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-yuri-hime/02-Acer-palmatum-Yuri-hime-Sport-1-e1676580043426.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -43,6 +50,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/283127/acer-palmatum-yuri-hime-(dw)/details",
       "botanical_name": "Acer palmatum 'Yuri-hime' (Dw)",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum [‘Yuri hime’ sport] Japanese Maple",
+      "botanical_name": "Acer palmatum 'Yuri hime'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-yuri-hime-sport-japanese-maple/",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -57,7 +73,7 @@
     "Yuri hime",
     "Yuri-hime"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -113,7 +129,63 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这个小型品种是最矮生的品种之一，因年生枝条节间极短，叶片紧密覆于株丛表面。叶片形态为非常狭长的延长卵形，先端渐尖并拉成长长的尖尾。细致的叶缘具细锯齿。叶柄细长，长度与叶片近乎相等，使叶片能够层层下覆、彼此叠压。叶色为较鲜明但偏浅的绿色，生长季保持性良好，但秋色并不特别出众。由于每年生长量十分有限，这种极小型灌木较难繁殖。虽然植株十分小巧，但看起来相当耐寒，也能耐全日照及开阔暴露环境。若能获得，是微型景观如高山园中的珍品。"
+    "preferred": "这个小型品种是最矮生的品种之一，因年生枝条节间极短，叶片紧密覆于株丛表面。 叶片形态为非常狭长的延长卵形，先端渐尖并拉成长长的尖尾。 细致的叶缘具细锯齿。 叶柄细长，长度与叶片近乎相等，使叶片能够层层下覆、彼此叠压。 叶色为较鲜明但偏浅的绿色，生长季保持性良好，但秋色并不特别出众。 由于每年生长量十分有限，这种极小型灌木较难繁殖。 虽然植株十分小巧，但看起来相当耐寒，也能耐全日照及开阔暴露环境。 若能获得，是微型景观如高山园中的珍品。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-yuri-hime-sport-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-yuri-hime/01-Acer-palmatum-Yuri-hime-Sport-2.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-yuri-hime/01-Acer-palmatum-Yuri-hime-Sport-2.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-yuri-hime/02-Acer-palmatum-Yuri-hime-Sport-1-e1676580043426.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum [‘Yuri hime’ sport] Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-yuri-hime-sport-japanese-maple/",
+        "botanical_name": "Acer palmatum 'Yuri hime'",
+        "common_name": "Yuri hime",
+        "description_text": "Acer palmatum ['Yuri hime' sport] Japanese Maple for Sale at Best Price. The fall color is orange and red. Shop Online from Conifer Kingdom.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum yuri hime",
+        "match_score": 260
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2022/07/Acer-palmatum-Yuri-hime-Sport-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-yuri-hime-sport-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-yuri-hime/01-Acer-palmatum-Yuri-hime-Sport-2.jpg",
+          "bytes": 262304,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:27:22.835Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2022/07/Acer-palmatum-Yuri-hime-Sport-1-e1676580043426.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-yuri-hime-sport-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-yuri-hime/02-Acer-palmatum-Yuri-hime-Sport-1-e1676580043426.jpg",
+          "bytes": 354427,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:27:23.653Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-yuri-hime/01-Acer-palmatum-Yuri-hime-Sport-2.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-yuri-hime/02-Acer-palmatum-Yuri-hime-Sport-1-e1676580043426.jpg"
+      ]
+    }
+  }
 }

@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "宝贝精灵 由泰隆 ·巴克霍兹培育，也是精灵系列中的一个品种， 以叶色上染有整片粉红紫及淡绿色的叶脉为其特色。在春天开花，呈深琥珀色至红色，带有绿色 叶 脉。 随着气温升高， 叶子褪色为酒红色，最终变成绿色， 秋季橙红色。宝贝精灵 是日本枫树 精灵 系列中最矮的一个，成年树大约只有1.8 m 左右 ， 树冠宽阔，和它的高度一样。 宝贝精灵属于 精灵 系列 ，此系列还有以下品种点击查看"
+    "preferred": "宝贝精灵 由泰隆 ·巴克霍兹培育，也是精灵系列中的一个品种， 以叶色上染有整片粉红紫及淡绿色的叶脉为其特色。 在春天开花，呈深琥珀色至红色，带有绿色 叶 脉。 随着气温升高， 叶子褪色为酒红色，最终变成绿色， 秋季橙红色。 宝贝精灵 是日本枫树 精灵 系列中最矮的一个，成年树大约只有1. 8 m 左右 ， 树冠宽阔，和它的高度一样。 宝贝精灵属于 精灵 系列 ，此系列还有以下品种点击查看"
   },
   "images": {
     "count": 7,
@@ -20,9 +20,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-baby-ghost/01-acer-palmatum-baby-ghost-225096.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-baby-ghost/01-acer-palmatum-baby-ghost-225096.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-baby-ghost/01-acer-palmatum-baby-ghost-225096.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,8 +38,17 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "脉叶",
       "title": "宝贝精灵 Acer Palmatum 'Baby Ghost'",
-      "description": "宝贝精灵 由泰隆 ·巴克霍兹培育，也是精灵系列中的一个品种， 以叶色上染有整片粉红紫及淡绿色的叶脉为其特色。在春天开花，呈深琥珀色至红色，带有绿色 叶 脉。 随着气温升高， 叶子褪色为酒红色，最终变成绿色， 秋季橙红色。宝贝精灵 是日本枫树 精灵 系列中最矮的一个，成年树大约只有1.8 m 左右 ， 树冠宽阔，和它的高度一样。 宝贝精灵属于 精灵 系列 ，此系列还有以下品种点击查看",
+      "description": "宝贝精灵 由泰隆 ·巴克霍兹培育，也是精灵系列中的一个品种， 以叶色上染有整片粉红紫及淡绿色的叶脉为其特色。 在春天开花，呈深琥珀色至红色，带有绿色 叶 脉。 随着气温升高， 叶子褪色为酒红色，最终变成绿色， 秋季橙红色。 宝贝精灵 是日本枫树 精灵 系列中最矮的一个，成年树大约只有1. 8 m 左右 ， 树冠宽阔，和它的高度一样。 宝贝精灵属于 精灵 系列 ，此系列还有以下品种点击查看",
       "image_count": 7
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Baby Ghost' Reticulated Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Baby Ghost'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-baby-ghost",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -51,13 +65,56 @@
     "脉叶",
     "鸡爪槭"
   ],
-  "source_count": 1,
+  "source_count": 2,
   "has_web": true,
   "has_book": false,
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "宝贝精灵 由泰隆 ·巴克霍兹培育，也是精灵系列中的一个品种， 以叶色上染有整片粉红紫及淡绿色的叶脉为其特色。在春天开花，呈深琥珀色至红色，带有绿色 叶 脉。 随着气温升高， 叶子褪色为酒红色，最终变成绿色， 秋季橙红色。宝贝精灵 是日本枫树 精灵 系列中最矮的一个，成年树大约只有1.8 m 左右 ， 树冠宽阔，和它的高度一样。 宝贝精灵属于 精灵 系列 ，此系列还有以下品种点击查看"
+    "preferred": "宝贝精灵 由泰隆 ·巴克霍兹培育，也是精灵系列中的一个品种， 以叶色上染有整片粉红紫及淡绿色的叶脉为其特色。 在春天开花，呈深琥珀色至红色，带有绿色 叶 脉。 随着气温升高， 叶子褪色为酒红色，最终变成绿色， 秋季橙红色。 宝贝精灵 是日本枫树 精灵 系列中最矮的一个，成年树大约只有1. 8 m 左右 ， 树冠宽阔，和它的高度一样。 宝贝精灵属于 精灵 系列 ，此系列还有以下品种点击查看"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-baby-ghost",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-baby-ghost/01-acer-palmatum-baby-ghost-225096.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-baby-ghost/01-acer-palmatum-baby-ghost-225096.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Baby Ghost' Reticulated Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-baby-ghost",
+        "botanical_name": "Acer Palmatum 'Baby Ghost'",
+        "common_name": "Baby Ghost",
+        "description_text": "Acer palmatum ‘Baby Ghost’ is the smallest of the “Ghost” series of reticulated Japanese maples. ‘Baby Ghost’ first leafs out with an amber color leaf that transitions to red. Leaves then fade to burgundy and ultimately to green which maintains throughout the summer. Fall color is orange-red. ‘Baby Ghost’ has excellent reticulated variegation in early spring, but that mostly fades for the duration of the summer. 10 Year Size: Height: 4-6 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Baby Ghost",
+        "match_score": 369,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-baby-ghost-225096.jpg?v=1658490547",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-baby-ghost",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-baby-ghost/01-acer-palmatum-baby-ghost-225096.jpg",
+          "bytes": 500216,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:20.657Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-baby-ghost/01-acer-palmatum-baby-ghost-225096.jpg"
+      ]
+    }
+  }
 }

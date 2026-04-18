@@ -25,9 +25,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.jpg",
+      "/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.jpg",
+      "/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -52,6 +59,15 @@
       "group": "palmatum",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Korean Gem' Rare Japanese Maple",
+      "botanical_name": "Acer palmatum 'Korean Gem'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-korean-gem",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -70,7 +86,7 @@
     "Korean Gem",
     "Koreanum"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -98,9 +114,66 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "本书早期版本曾将这株枫树归于自然变种 Acer palmatum var. koreanum，《Maples of the World》中则列于 'Koreanum' 名下。Acer palmatum var. coreanum 是 Takenoshin Nakai 于 1914 年赋予这一原产韩国及邻近岛屿自然类型的名称。但该名称所依据的是一个花瓣缺失的异常标本，因此按 1959 年《植物命名法规》属于非法名称，后来被并入 A. palmatum subsp. palmatum。由于同名自然群体变异较大，且自 1959 年起栽培品种不再允许使用拉丁名，这个 Hillier 克隆后来改名为 'Korean Gem'。这一优秀的绿色 palmatum 品种秋色极为出色，从黄色到橙色不等，有时还会混有红色。嫩枝呈深红色，尤其在秋冬季更为明显。叶片鲜亮浅绿，春季叶缘有极窄且很淡的红色镶边。叶 5 或 7 裂，长宽 6-10 厘米，裂片约分离至叶基的三分之二处，并向外辐射展开。裂片呈卵形，先端渐尖，边缘具细密重锯齿。叶柄为红色，长可达 4 厘米。'Korean Gem' 生长健旺且耐寒，可形成直立、圆头状的中型至大型乔木，高可达 7 米。经过适当修剪，也可培养成圆头状的矮生小乔木。"
+    "preferred": "本书早期版本曾将这株枫树归于自然变种 Acer palmatum var. koreanum，《Maples of the World》中则列于 'Koreanum' 名下。 Acer palmatum var. coreanum 是 Takenoshin Nakai 于 1914 年赋予这一原产韩国及邻近岛屿自然类型的名称。 但该名称所依据的是一个花瓣缺失的异常标本，因此按 1959 年《植物命名法规》属于非法名称，后来被并入 A. palmatum subsp. palmatum。 由于同名自然群体变异较大，且自 1959 年起栽培品种不再允许使用拉丁名，这个 Hillier 克隆后来改名为 'Korean Gem'。 这一优秀的绿色 palmatum 品种秋色极为出色，从黄色到橙色不等，有时还会混有红色。 嫩枝呈深红色，尤其在秋冬季更为明显。 叶片鲜亮浅绿，春季叶缘有极窄且很淡的红色镶边。 叶 5 或 7 裂，长宽 6-10 厘米，裂片约分离至叶基的三分之二处，并向外辐射展开。 裂片呈卵形，先端渐尖，边缘具细密重锯齿。 叶柄为红色，长可达 4 厘米。 'Korean Gem' 生长健旺且耐寒，可形成直立、圆头状的中型至大型乔木，高可达 7 米。 经过适当修剪，也可培养成圆头状的矮生小乔木。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-korean-gem",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Korean Gem' Rare Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-korean-gem",
+        "botanical_name": "Acer palmatum 'Korean Gem'",
+        "common_name": "Korean Gem",
+        "description_text": "Acer palmatum ‘Korean Gem’ is a nice broad leaf Japanese maple that has more of a spreading habit than the majority of broad leaf Japanese Maples. ‘Korean Gem’ has nice green leaves that are contrasted by dark colored bark. Fall color is a vibrant orange-red. 10 Year Size: Height: 6-8 feet Width: 6-8 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Korean Gem",
+        "match_score": 369,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-korean-gem-271000.jpg?v=1658491056",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-korean-gem",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.jpg",
+          "bytes": 263662,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:58.713Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-korean-gem-688937.jpg?v=1658491056",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-korean-gem",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.jpg",
+          "bytes": 343328,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:00.481Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.jpg"
+      ]
+    }
+  }
 }

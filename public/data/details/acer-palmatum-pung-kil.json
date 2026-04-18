@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "庞克是 是由韩国人育种并推广的 细叶 品种 ，类似于 \"Red Pygmy\"（红色霹雳），但庞克叶子更长更窄一些。它有 风之翼的美称，叶子呈竹叶状 ， 3 到 5 叶裂，叶裂狭窄细长和竹叶 相似。春叶深红色，光照充足情况下会变成紫红色，色彩可以保持到夏天。夏季遮荫情况下，会适当返绿。秋天变成鲜红色。庞克来自于 A. palmatum f. atropurpureum的幼苗，它的名字曾被错误的拼写成 \"Pung Kill\"。 直立性生长，但是生长速度较慢，成年树可达2 到 3米。"
+    "preferred": "庞克是 是由韩国人育种并推广的 细叶 品种 ，类似于 \"Red Pygmy\"（红色霹雳），但庞克叶子更长更窄一些。 它有 风之翼的美称，叶子呈竹叶状 ， 3 到 5 叶裂，叶裂狭窄细长和竹叶 相似。 春叶深红色，光照充足情况下会变成紫红色，色彩可以保持到夏天。 夏季遮荫情况下，会适当返绿。 秋天变成鲜红色。 庞克来自于 A. palmatum f. atropurpureum的幼苗，它的名字曾被错误的拼写成 \"Pung Kill\"。 直立性生长，但是生长速度较慢，成年树可达2 到 3米。"
   },
   "images": {
     "count": 11,
@@ -53,6 +53,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-pung-kil-japanese-maple/27-Acer_palmatum_Pung_kil_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066830.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-pung-kil-japanese-maple/01-Acer_palmatum_Pung_kil_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066804.jpg",
@@ -98,7 +99,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "竹叶",
       "title": "庞克 Acer Palmatum 'Pung Kil'",
-      "description": "庞克是 是由韩国人育种并推广的 细叶 品种 ，类似于 \"Red Pygmy\"（红色霹雳），但庞克叶子更长更窄一些。它有 风之翼的美称，叶子呈竹叶状 ， 3 到 5 叶裂，叶裂狭窄细长和竹叶 相似。春叶深红色，光照充足情况下会变成紫红色，色彩可以保持到夏天。夏季遮荫情况下，会适当返绿。秋天变成鲜红色。庞克来自于 A. palmatum f. atropurpureum的幼苗，它的名字曾被错误的拼写成 \"Pung Kill\"。 直立性生长，但是生长速度较慢，成年树可达2 到 3米。",
+      "description": "庞克是 是由韩国人育种并推广的 细叶 品种 ，类似于 \"Red Pygmy\"（红色霹雳），但庞克叶子更长更窄一些。 它有 风之翼的美称，叶子呈竹叶状 ， 3 到 5 叶裂，叶裂狭窄细长和竹叶 相似。 春叶深红色，光照充足情况下会变成紫红色，色彩可以保持到夏天。 夏季遮荫情况下，会适当返绿。 秋天变成鲜红色。 庞克来自于 A. palmatum f. atropurpureum的幼苗，它的名字曾被错误的拼写成 \"Pung Kill\"。 直立性生长，但是生长速度较慢，成年树可达2 到 3米。",
       "image_count": 11
     },
     {
@@ -210,7 +211,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "庞克是 是由韩国人育种并推广的 细叶 品种 ，类似于 \"Red Pygmy\"（红色霹雳），但庞克叶子更长更窄一些。它有 风之翼的美称，叶子呈竹叶状 ， 3 到 5 叶裂，叶裂狭窄细长和竹叶 相似。春叶深红色，光照充足情况下会变成紫红色，色彩可以保持到夏天。夏季遮荫情况下，会适当返绿。秋天变成鲜红色。庞克来自于 A. palmatum f. atropurpureum的幼苗，它的名字曾被错误的拼写成 \"Pung Kill\"。 直立性生长，但是生长速度较慢，成年树可达2 到 3米。"
+    "preferred": "庞克是 是由韩国人育种并推广的 细叶 品种 ，类似于 \"Red Pygmy\"（红色霹雳），但庞克叶子更长更窄一些。 它有 风之翼的美称，叶子呈竹叶状 ， 3 到 5 叶裂，叶裂狭窄细长和竹叶 相似。 春叶深红色，光照充足情况下会变成紫红色，色彩可以保持到夏天。 夏季遮荫情况下，会适当返绿。 秋天变成鲜红色。 庞克来自于 A. palmatum f. atropurpureum的幼苗，它的名字曾被错误的拼写成 \"Pung Kill\"。 直立性生长，但是生长速度较慢，成年树可达2 到 3米。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -232,7 +233,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
     },
-    "description": "小型、花瓶形、慢生的落叶灌木状小乔木，高约 3 米。叶片具 7 个细长的带状裂片，早春为浅红色，夏季转为深红，且叶色保持性好；秋季呈现金黄与红紫色秋色。春季开不显眼的小型紫红色花，成下垂簇状，之后结带红晕的翅果。"
+    "description": "小型、花瓶形、慢生的落叶灌木状小乔木，高约 3 米。 叶片具 7 个细长的带状裂片，早春为浅红色，夏季转为深红，且叶色保持性好；秋季呈现金黄与红紫色秋色。 春季开不显眼的小型紫红色花，成下垂簇状，之后结带红晕的翅果。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -326,7 +327,7 @@
           "XLSALE",
           "XMAS23"
         ],
-        "description_text": "Acer palmatum 'Pung Kil' Rare Pung kil Japanese Maple Zones 5-9 This Korean introduction of a Japanese maple has one of the darkest foliage of the wind swept Japanese maples. We love how these thin red strap leaves flow in the wind. In the early spring, 'Pung Kil' leafs out as a deep red, which holds fairly well throughout most of the summer. Fall colors are bright oranges to crimson reds. 'Pung kil' is a slow grower reaching about 6-7 ft in 10 years. 'Pung kil' is an ideal red linearilobum Japanese maple for any yard because of its ability to hold its color well and because of the slow growth rate. Named after Mr. Pung Kil of Chollipo Arboretum in South Korea. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent. The photos on this page without a MrMaple logo were taken by Talon Buchholz and cannot be used without expressed written consent from the owner.",
+        "description_text": "Acer palmatum 'Pung Kil' Rare Pung kil Japanese Maple Zones 5-9 This Korean introduction of a Japanese maple has one of the darkest foliage of the wind swept Japanese maples. We love how these thin red strap leaves flow in the wind. In the early spring, 'Pung Kil' leafs out as a deep red, which holds fairly well throughout most of the summer. Fall colors are bright oranges to crimson reds. 'Pung kil' is a slow grower reaching about 6-7 ft in 10 years. 'Pung kil' is an ideal red linearilobum Japanese maple for any yard because of its ability to hold its color well and because of the slow growth rate. Named after Mr. Pung Kil of Chollipo Arboretum in South Korea.",
         "published_at": "2025-11-27T09:00:10-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

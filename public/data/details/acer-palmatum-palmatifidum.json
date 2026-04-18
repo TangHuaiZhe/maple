@@ -17,7 +17,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "The name means \"cascading Dissectum ricelike leaf.\" leaves green 'Peaches and Cream' summer The spring fotone liage emerges a cream to greenish cream with a This soft rose-red around the edges. The veins are coning, spicuous and of a contrasting deep green. Fall reach color ranges from yellow to buff with darker tips. very The medium-sized leaves are deeply divided into and five to seven ovate lobes with tapered, sharply pointed tips. The margins are very coarsely 'Pink toothed. The teeth have sharp tips pointing in var- Dissectum ious directions, causing the margins to look like a natum' prickly holly leaf. The green leafstalks are short and color stout, and the slender shoots are a light green. This are pretty but delicate selection forms a small tree or veins, shrub about 10 ft. (3 m) high and wide. ing FILIGREE"
+    "preferred": "The name means \"cascading Dissectum ricelike leaf. \" leaves green 'Peaches and Cream' summer The spring fotone liage emerges a cream to greenish cream with a This soft rose-red around the edges. The veins are coning, spicuous and of a contrasting deep green. Fall reach color ranges from yellow to buff with darker tips. very The medium-sized leaves are deeply divided into and five to seven ovate lobes with tapered, sharply pointed tips. The margins are very coarsely 'Pink toothed. The teeth have sharp tips pointing in var- Dissectum ious directions, causing the margins to look like a natum' prickly holly leaf. The green leafstalks are short and color stout, and the slender shoots are a light green. This are pretty but delicate selection forms a small tree or veins, shrub about 10 ft. (3 m) high and wide. ing FILIGREE"
   },
   "images": {
     "count": 0,
@@ -31,6 +31,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-palmatifidum-momiji_kaede/01-sepa12171.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-palmatifidum/01-sepa12171.jpg",
@@ -231,7 +232,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "大型、生长缓慢的落叶乔木，高可达约 15 米，具大型、深裂的深绿色叶片。春季于展叶前开出小型黄绿色花，之后结出典型的翅果。秋季叶色转为金黄色和红色。",
+    "description": "大型、生长缓慢的落叶乔木，高可达约 15 米，具大型、深裂的深绿色叶片。 春季于展叶前开出小型黄绿色花，之后结出典型的翅果。 秋季叶色转为金黄色和红色。",
     "attributes": {
       "suggested_uses": "适合建筑感种植、低维护花园、乡村风或自然式花园、野生动物友好型花园"
     },
@@ -242,7 +243,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "其名称意为“下垂的 Dissectum 米粒状叶”。'Peaches and Cream' 春季新叶展开时为乳白至带绿色调的乳白色，叶缘带柔和的玫瑰红。叶脉明显，为对比鲜明的深绿色。秋色由黄色至浅褐黄色，叶尖颜色较深。叶片中等大小，深裂为 5-7 个卵形裂片，先端渐尖且尖锐。叶缘具非常粗大的锯齿，齿端尖锐并朝不同方向伸展，使叶缘看起来像多刺的冬青叶。绿色叶柄短而粗壮，细长新梢为浅绿色。该品种形成小乔木或灌木，高宽约 10 英尺（3 米）。 'Pendulum Julian' 属于 FILIGREE' Group—red。大型 7 裂叶春季为古铜绿色并带红色叶脉，随后转为深紫红色，后期则呈锈绿色并带红色叶背。秋色为鲜艳的深红橙色。植株姿态明显下垂且开展，幼株需及早设支撑，培养至所需高度。"
+    "preferred": "其名称意为“下垂的 Dissectum 米粒状叶”。 'Peaches and Cream' 春季新叶展开时为乳白至带绿色调的乳白色，叶缘带柔和的玫瑰红。 叶脉明显，为对比鲜明的深绿色。 秋色由黄色至浅褐黄色，叶尖颜色较深。 叶片中等大小，深裂为 5-7 个卵形裂片，先端渐尖且尖锐。 叶缘具非常粗大的锯齿，齿端尖锐并朝不同方向伸展，使叶缘看起来像多刺的冬青叶。 绿色叶柄短而粗壮，细长新梢为浅绿色。 该品种形成小乔木或灌木，高宽约 10 英尺（3 米）。 'Pendulum Julian' 属于 FILIGREE' Group—red。 大型 7 裂叶春季为古铜绿色并带红色叶脉，随后转为深紫红色，后期则呈锈绿色并带红色叶背。 秋色为鲜艳的深红橙色。 植株姿态明显下垂且开展，幼株需及早设支撑，培养至所需高度。"
   },
   "has_mrmaple": false,
   "mrmaple": null

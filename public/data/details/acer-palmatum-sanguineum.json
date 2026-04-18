@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -111,7 +112,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "在命名史上，不同作者对这一名称的使用极为混乱，其正确用法已难以厘清。它主要曾被用于指称 Acer palmatum f. purpureum 的一个选株，其春叶为血红色或橙红色，而非较深的暗红或栗红色调。Charles Lemaire 于 1867 年将其描述为“血红色选株”后，一些商业苗圃显然繁殖了不同类型，因此在各收藏中可见以 'Sanguineum' 为名的不同变异。故此名称现已不宜继续使用，尤其是在已有多个优良红叶掌状槭品种可供选择的情况下。该品种还曾以 'Latifolium Purpureum'、'Rubro-latifolium' 和 'Septemlobum Sanguineum' 之名流通。"
+    "preferred": "在命名史上，不同作者对这一名称的使用极为混乱，其正确用法已难以厘清。 它主要曾被用于指称 Acer palmatum f. purpureum 的一个选株，其春叶为血红色或橙红色，而非较深的暗红或栗红色调。 Charles Lemaire 于 1867 年将其描述为“血红色选株”后，一些商业苗圃显然繁殖了不同类型，因此在各收藏中可见以 'Sanguineum' 为名的不同变异。 故此名称现已不宜继续使用，尤其是在已有多个优良红叶掌状槭品种可供选择的情况下。 该品种还曾以 'Latifolium Purpureum'、'Rubro-latifolium' 和 'Septemlobum Sanguineum' 之名流通。"
   },
   "has_mrmaple": false
 }

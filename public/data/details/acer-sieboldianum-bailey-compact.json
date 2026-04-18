@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -48,7 +49,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "该矮生品种株形致密紧凑。叶形是 Vertrees 类型的典型特征，与该亚种相似，但略小。秋季叶色转为鲜亮而有光泽的红色。'Bailey Compact' 非常适合小型庭院或作容器栽培。株高较低。"
+    "preferred": "该矮生品种株形致密紧凑。 叶形是 Vertrees 类型的典型特征，与该亚种相似，但略小。 秋季叶色转为鲜亮而有光泽的红色。 'Bailey Compact' 非常适合小型庭院或作容器栽培。 株高较低。"
   },
   "has_mrmaple": false
 }

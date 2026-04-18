@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "与'Beni Hoshi' 为异名同株， 起源于 1979 年， 1992 年由 Del Loucks 引入日本枫树苗圃，并在 1996 年推出，通常以 'Beni Hoshi' 出售，翻译为 \"红宝石之星\"。 春叶为亮红色， 带有一层油膜感，后续转为深栗色， 夏季变为 桃橙色，遮阴情况下，变成绿色，新稍为红色，秋天为亮黄色到橙色。成熟叶子圆润，像一个胖乎乎的星星，叶形略扭曲，一般为 7 裂叶。 直立性矮生品种，生长速度较慢，成年株可达1.5 m 。"
+    "preferred": "与'Beni Hoshi' 为异名同株， 起源于 1979 年， 1992 年由 Del Loucks 引入日本枫树苗圃，并在 1996 年推出，通常以 'Beni Hoshi' 出售，翻译为 \"红宝石之星\"。 春叶为亮红色， 带有一层油膜感，后续转为深栗色， 夏季变为 桃橙色，遮阴情况下，变成绿色，新稍为红色，秋天为亮黄色到橙色。 成熟叶子圆润，像一个胖乎乎的星星，叶形略扭曲，一般为 7 裂叶。 直立性矮生品种，生长速度较慢，成年株可达1. 5 m 。"
   },
   "images": {
     "count": 8,
@@ -19,10 +19,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-ruby-star/01-Acer-palmatum-Ruby-Star-Specimen-1093-2.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-ruby-star/01-Acer-palmatum-Ruby-Star-Specimen-1093-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-ruby-star/01-Acer-palmatum-Ruby-Star-Specimen-1093-2.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,7 +38,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "矮生",
       "title": "红宝石之星 Acer Palmatum 'Ruby Star'",
-      "description": "与'Beni Hoshi' 为异名同株， 起源于 1979 年， 1992 年由 Del Loucks 引入日本枫树苗圃，并在 1996 年推出，通常以 'Beni Hoshi' 出售，翻译为 \"红宝石之星\"。 春叶为亮红色， 带有一层油膜感，后续转为深栗色， 夏季变为 桃橙色，遮阴情况下，变成绿色，新稍为红色，秋天为亮黄色到橙色。成熟叶子圆润，像一个胖乎乎的星星，叶形略扭曲，一般为 7 裂叶。 直立性矮生品种，生长速度较慢，成年株可达1.5 m 。",
+      "description": "与'Beni Hoshi' 为异名同株， 起源于 1979 年， 1992 年由 Del Loucks 引入日本枫树苗圃，并在 1996 年推出，通常以 'Beni Hoshi' 出售，翻译为 \"红宝石之星\"。 春叶为亮红色， 带有一层油膜感，后续转为深栗色， 夏季变为 桃橙色，遮阴情况下，变成绿色，新稍为红色，秋天为亮黄色到橙色。 成熟叶子圆润，像一个胖乎乎的星星，叶形略扭曲，一般为 7 裂叶。 直立性矮生品种，生长速度较慢，成年株可达1. 5 m 。",
       "image_count": 8
     },
     {
@@ -41,6 +46,15 @@
       "rhs_id": 222264,
       "detail_url": "https://www.rhs.org.uk/plants/222264/acer-palmatum-ruby-star/details",
       "botanical_name": "Acer palmatum 'Ruby Star'",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Ruby Star’ Specimen 1093",
+      "botanical_name": "Acer Palmatum 'Ruby Star'",
+      "detail_url": "https://www.coniferkingdom.com/specimen-1093-acer-palmatum-ruby-star/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -60,7 +74,7 @@
     "红宝石之星 Acer Palmatum 'Ruby Star'",
     "鸡爪槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -116,7 +130,49 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "与'Beni Hoshi' 为异名同株， 起源于 1979 年， 1992 年由 Del Loucks 引入日本枫树苗圃，并在 1996 年推出，通常以 'Beni Hoshi' 出售，翻译为 \"红宝石之星\"。 春叶为亮红色， 带有一层油膜感，后续转为深栗色， 夏季变为 桃橙色，遮阴情况下，变成绿色，新稍为红色，秋天为亮黄色到橙色。成熟叶子圆润，像一个胖乎乎的星星，叶形略扭曲，一般为 7 裂叶。 直立性矮生品种，生长速度较慢，成年株可达1.5 m 。"
+    "preferred": "与'Beni Hoshi' 为异名同株， 起源于 1979 年， 1992 年由 Del Loucks 引入日本枫树苗圃，并在 1996 年推出，通常以 'Beni Hoshi' 出售，翻译为 \"红宝石之星\"。 春叶为亮红色， 带有一层油膜感，后续转为深栗色， 夏季变为 桃橙色，遮阴情况下，变成绿色，新稍为红色，秋天为亮黄色到橙色。 成熟叶子圆润，像一个胖乎乎的星星，叶形略扭曲，一般为 7 裂叶。 直立性矮生品种，生长速度较慢，成年株可达1. 5 m 。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/specimen-1093-acer-palmatum-ruby-star/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ruby-star/01-Acer-palmatum-Ruby-Star-Specimen-1093-2.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ruby-star/01-Acer-palmatum-Ruby-Star-Specimen-1093-2.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Ruby Star’ Specimen 1093",
+        "product_url": "https://www.coniferkingdom.com/specimen-1093-acer-palmatum-ruby-star/",
+        "botanical_name": "Acer Palmatum 'Ruby Star'",
+        "common_name": "Ruby Star",
+        "description_text": "This dwarf upright Japanese maple is highly prized for its incredibly cute, star-shaped foliage. Bright red in spring, the leaves turn green during summer.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum ruby star",
+        "match_score": 260
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2015/10/Acer-palmatum-Ruby-Star-Specimen-1093-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/specimen-1093-acer-palmatum-ruby-star/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ruby-star/01-Acer-palmatum-Ruby-Star-Specimen-1093-2.jpg",
+          "bytes": 455327,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:19.315Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ruby-star/01-Acer-palmatum-Ruby-Star-Specimen-1093-2.jpg"
+      ]
+    }
+  }
 }

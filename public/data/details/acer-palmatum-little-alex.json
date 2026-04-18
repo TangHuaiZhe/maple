@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer palmatum 'Little Alex' Rare Japanese Maple Zones 5-9 Acer palmatum ‘Little Alex’ bursts with cherry-red foliage in spring, deepens to rich maroon in summer, and finishes the season with bright red fall color. This compact selection grows to about 4ft by 4ft in 10 years and originated as a witches’-broom discovered by Bob McCaffrey, who affectionately refers to all dwarf mutations as “blessings.” ‘Little Alex’ is being offered on MrMaple for the very first time."
+    "preferred": "Acer palmatum 'Little Alex' Rare Japanese Maple Zones 5-9 Acer palmatum ‘Little Alex’ bursts with cherry-red foliage in spring, deepens to rich maroon in summer, and finishes the season with bright red fall color. This compact selection grows to about 4ft by 4ft in 10 years and originated as a witches’-broom discovered by Bob McCaffrey, who affectionately refers to all dwarf mutations as “blessings. ” ‘Little Alex’ is being offered on MrMaple for the very first time."
   },
   "images": {
     "count": 0,
@@ -26,6 +26,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-little-alex-japanese-maple/01-Screenshot2025-11-17at2.35.41PM.png",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-little-alex-japanese-maple/01-Screenshot2025-11-17at2.35.41PM.png",
@@ -70,7 +71,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer palmatum 'Little Alex' 稀有日本枫，适生分区 5-9。Acer palmatum 'Little Alex' 春季叶色迸发出樱桃红，夏季加深为浓郁的栗红色，生长季末则以鲜红秋色收尾。该紧凑型品种 10 年约可长至 4 英尺高、4 英尺宽，起源于 Bob McCaffrey 发现的一枝扫帚状芽变；他亲切地把所有矮化突变都称作“blessings”。'Little Alex' 此次是在 MrMaple 上首次发售。数量有限！！由于我们拥有上千个日本枫品种，单个品种通常库存不多。我们建议您尽快购买心仪的日本枫，因为部分精选品种常常很快售罄。照片由 Agustin Coello-Vera 拍摄。"
+    "preferred": "Acer palmatum 'Little Alex' 稀有日本枫，适生分区 5-9。 Acer palmatum 'Little Alex' 春季叶色迸发出樱桃红，夏季加深为浓郁的栗红色，生长季末则以鲜红秋色收尾。 该紧凑型品种 10 年约可长至 4 英尺高、4 英尺宽，起源于 Bob McCaffrey 发现的一枝扫帚状芽变；他亲切地把所有矮化突变都称作“blessings”。 'Little Alex' 此次是在 MrMaple 上首次发售。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -121,7 +122,7 @@
           "Zones & Conditions_Zone 8",
           "Zones & Conditions_Zone 9"
         ],
-        "description_text": "Acer palmatum 'Little Alex' Rare Japanese Maple Zones 5-9 Acer palmatum ‘Little Alex’ bursts with cherry-red foliage in spring, deepens to rich maroon in summer, and finishes the season with bright red fall color. This compact selection grows to about 4ft by 4ft in 10 years and originated as a witches’-broom discovered by Bob McCaffrey, who affectionately refers to all dwarf mutations as “blessings.” ‘Little Alex’ is being offered on MrMaple for the very first time.",
+        "description_text": "Acer palmatum 'Little Alex' Rare Japanese Maple Zones 5-9 Acer palmatum ‘Little Alex’ bursts with cherry-red foliage in spring, deepens to rich maroon in summer, and finishes the season with bright red fall color. This compact selection grows to about 4ft by 4ft in 10 years and originated as a witches’-broom discovered by Bob McCaffrey, who affectionately refers to all dwarf mutations as “blessings. ” ‘Little Alex’ is being offered on MrMaple for the very first time.",
         "published_at": "2026-04-02T10:00:15-04:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

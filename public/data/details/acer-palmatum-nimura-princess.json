@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "丹村公主是一款矮小紧凑的品种 ， 春天 新叶会带有白色的绒毛，成熟叶子呈现深紫红色，和绿色的 茎形成鲜明的对比，夏季 返绿 ， 但新稍是红色， 秋季变 橙红橙黄色。成熟叶一般为 5 叶裂， 叶裂细长， 边缘略带锯齿。 比较耐寒， 生长缓慢，成年树高 约 1.5-2 m 。"
+    "preferred": "丹村公主是一款矮小紧凑的品种 ， 春天 新叶会带有白色的绒毛，成熟叶子呈现深紫红色，和绿色的 茎形成鲜明的对比，夏季 返绿 ， 但新稍是红色， 秋季变 橙红橙黄色。 成熟叶一般为 5 叶裂， 叶裂细长， 边缘略带锯齿。 比较耐寒， 生长缓慢，成年树高 约 1. 5-2 m 。"
   },
   "images": {
     "count": 6,
@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -33,7 +34,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "矮生",
       "title": "丹村公主 Acer Palmatum 'Nimura Princess'",
-      "description": "丹村公主是一款矮小紧凑的品种 ， 春天 新叶会带有白色的绒毛，成熟叶子呈现深紫红色，和绿色的 茎形成鲜明的对比，夏季 返绿 ， 但新稍是红色， 秋季变 橙红橙黄色。成熟叶一般为 5 叶裂， 叶裂细长， 边缘略带锯齿。 比较耐寒， 生长缓慢，成年树高 约 1.5-2 m 。",
+      "description": "丹村公主是一款矮小紧凑的品种 ， 春天 新叶会带有白色的绒毛，成熟叶子呈现深紫红色，和绿色的 茎形成鲜明的对比，夏季 返绿 ， 但新稍是红色， 秋季变 橙红橙黄色。 成熟叶一般为 5 叶裂， 叶裂细长， 边缘略带锯齿。 比较耐寒， 生长缓慢，成年树高 约 1. 5-2 m 。",
       "image_count": 6
     },
     {
@@ -79,7 +80,7 @@
     "cultivar_names": [
       "Nimura Princess"
     ],
-    "description": "A slow-growing, compact, hardy, deciduous tree to around 2.5m in height. Deeply lobed foliage emerges bright green in the spring, turning to dark purple-red in contrast against the green stems, then eventually to orange, yellow and red in autumn",
+    "description": "A slow-growing, compact, hardy, deciduous tree to around 2. 5m in height. Deeply lobed foliage emerges bright green in the spring, turning to dark purple-red in contrast against the green stems, then eventually to orange, yellow and red in autumn",
     "dimensions": {
       "height": "2.5-4 metres",
       "spread": "2.5-4 metres",
@@ -120,7 +121,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "丹村公主是一款矮小紧凑的品种 ， 春天 新叶会带有白色的绒毛，成熟叶子呈现深紫红色，和绿色的 茎形成鲜明的对比，夏季 返绿 ， 但新稍是红色， 秋季变 橙红橙黄色。成熟叶一般为 5 叶裂， 叶裂细长， 边缘略带锯齿。 比较耐寒， 生长缓慢，成年树高 约 1.5-2 m 。"
+    "preferred": "丹村公主是一款矮小紧凑的品种 ， 春天 新叶会带有白色的绒毛，成熟叶子呈现深紫红色，和绿色的 茎形成鲜明的对比，夏季 返绿 ， 但新稍是红色， 秋季变 橙红橙黄色。 成熟叶一般为 5 叶裂， 叶裂细长， 边缘略带锯齿。 比较耐寒， 生长缓慢，成年树高 约 1. 5-2 m 。"
   },
   "rhs_zh": {
     "growing_conditions": {
@@ -138,7 +139,7 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "生长缓慢、株形紧凑、耐寒的落叶小乔木，高约 2.5 米。深裂叶春季萌发时鲜绿色，随后转为深紫红色，与绿色枝条形成对比，秋季最终转为橙色、黄色和红色。"
+    "description": "生长缓慢、株形紧凑、耐寒的落叶小乔木，高约 2. 5 米。 深裂叶春季萌发时鲜绿色，随后转为深紫红色，与绿色枝条形成对比，秋季最终转为橙色、黄色和红色。"
   },
   "has_mrmaple": false
 }

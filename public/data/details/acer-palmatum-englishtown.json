@@ -24,9 +24,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-englishtown/01-acer-palmatum-englishtown-206007.jpg",
+      "/jmac-images/acer-palmatum-englishtown/02-acer-palmatum-englishtown-888716.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-englishtown/02-acer-palmatum-englishtown-888716.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-englishtown/01-acer-palmatum-englishtown-206007.jpg",
+      "/jmac-images/acer-palmatum-englishtown/02-acer-palmatum-englishtown-888716.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -43,6 +50,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/196216/acer-palmatum-englishtown-(dw)/details",
       "botanical_name": "Acer palmatum 'Englishtown' (Dw)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Englishtown' Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Englishtown'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-englishtown",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -55,7 +71,7 @@
     "Acer palmatum 'Englishtown' (Dw)",
     "Englishtown"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -111,7 +127,64 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一来自新泽西的罕见小叶紫红色矮生品种，源于扫帚芽变，外观与 'Shaina' 略为相似，但其生长极为缓慢、株形狭窄直立，是主要区别。在正常庭园条件下，约需 10 年才能长到 2 英尺（60 厘米）高。其名称是为纪念最初选育出该品种的城市。"
+    "preferred": "这一来自新泽西的罕见小叶紫红色矮生品种，源于扫帚芽变，外观与 'Shaina' 略为相似，但其生长极为缓慢、株形狭窄直立，是主要区别。 在正常庭园条件下，约需 10 年才能长到 2 英尺（60 厘米）高。 其名称是为纪念最初选育出该品种的城市。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-englishtown",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-englishtown/01-acer-palmatum-englishtown-206007.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-englishtown/01-acer-palmatum-englishtown-206007.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-englishtown/02-acer-palmatum-englishtown-888716.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Englishtown' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-englishtown",
+        "botanical_name": "Acer palmatum 'Englishtown'",
+        "common_name": "Englishtown",
+        "description_text": "Acer palmatum ‘Englishtown’ is an excellent, upright growing tree for tight spaces or smaller landscapes. ‘Englishtown’ is a dwarf Japanese maple that doesn’t typically have the same compact, shrubby habit of other dwarfs. ‘Englishtown’ will have a more tree like shape while remaining relatively small. ‘Englsihtown’ has dark red leaves in the spring that will usually keep their color very well into the summer. Fall color is a bright red. ‘Englishtown’ is a perfect Japanese maple for just about anyone due to its small stature and good color. 10 Year Size: Height: 4-6 feet Width: 3-4 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Englishtown",
+        "match_score": 371,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-englishtown-206007.jpg?v=1658490644",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-englishtown",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-englishtown/01-acer-palmatum-englishtown-206007.jpg",
+          "bytes": 261120,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:09.056Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-englishtown-888716.jpg?v=1658490644",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-englishtown",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-englishtown/02-acer-palmatum-englishtown-888716.jpg",
+          "bytes": 1224154,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:11.556Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-englishtown/01-acer-palmatum-englishtown-206007.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-englishtown/02-acer-palmatum-englishtown-888716.jpg"
+      ]
+    }
+  }
 }

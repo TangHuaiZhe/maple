@@ -29,6 +29,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-pendulum-julian-momiji_kaede/01-elbo62366.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-pendulum-julian/01-elbo62366.jpg",
@@ -91,7 +92,7 @@
     "cultivar_names": [
       "Pendulum Julian"
     ],
-    "description": "A deciduous shrub or small tree, with a weeping habit forming a low mound to around 1.5m high and 2m wide. Deeply-cut leaves, divided into fine feathery lobes, emerge reddish purple in the spring, turning deep green and bronze in summer, and then striking shades of yellow, orange and red in the autumn",
+    "description": "A deciduous shrub or small tree, with a weeping habit forming a low mound to around 1. 5m high and 2m wide. Deeply-cut leaves, divided into fine feathery lobes, emerge reddish purple in the spring, turning deep green and bronze in summer, and then striking shades of yellow, orange and red in the autumn",
     "dimensions": {
       "height": "1-1.5 metres",
       "spread": "1.5-2.5 metres",
@@ -216,14 +217,14 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶灌木或小乔木，枝姿下垂，形成低矮圆 mound，约高 1.5 米、宽 2 米。叶片深裂，分裂成细致羽毛状裂片，春季展叶时呈红紫色，夏季转为深绿色并带青铜色调，秋季则变为醒目的黄色、橙色和红色。",
+    "description": "落叶灌木或小乔木，枝姿下垂，形成低矮圆 mound，约高 1. 5 米、宽 2 米。 叶片深裂，分裂成细致羽毛状裂片，春季展叶时呈红紫色，夏季转为深绿色并带青铜色调，秋季则变为醒目的黄色、橙色和红色。",
     "attributes": {
       "suggested_uses": "造型植物、城市/庭院花园、乡村/自然式花园、花境与花坛、低养护、庭院/容器植物",
       "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
     }
   },
   "descriptions_zh": {
-    "preferred": "这个红叶裂叶品种的叶片，在深裂裂片上的锯齿不如某些其他裂叶品种那样细密明显。实际上，部分老枝会长出裂片近披针形、叶缘深刻的叶片，使该品种在形态上接近绿色类型 'Palmatifidum'。初展的新叶呈青铜绿色并具绿色叶脉，夏季转为深紫红色。此色泽在夏季维持良好，之后逐渐变为带红色底调的锈绿色；秋季则呈现十分鲜明的深红橙色组合。叶片大小在裂叶品种中属中等，长宽约 7 至 10 厘米。7 个裂片向外辐射舒展，叶柄坚实，长 2 至 3 厘米。植株具明显下垂性，幼株需及早立桩引高，以达到所需高度；枝条先向外开展，再向下垂落。它是一个非常耐寒的类型，可耐 -18°C。老株甚至能在厚重冰层覆盖下存活。Henry Hohman 曾将该品种收藏多年，他可能于 20 世纪 30 年代初从日本横滨苗圃购得。该名称曾被误拼作"
+    "preferred": "这个红叶裂叶品种的叶片，在深裂裂片上的锯齿不如某些其他裂叶品种那样细密明显。 实际上，部分老枝会长出裂片近披针形、叶缘深刻的叶片，使该品种在形态上接近绿色类型 'Palmatifidum'。 初展的新叶呈青铜绿色并具绿色叶脉，夏季转为深紫红色。 此色泽在夏季维持良好，之后逐渐变为带红色底调的锈绿色；秋季则呈现十分鲜明的深红橙色组合。 叶片大小在裂叶品种中属中等，长宽约 7 至 10 厘米。 7 个裂片向外辐射舒展，叶柄坚实，长 2 至 3 厘米。 植株具明显下垂性，幼株需及早立桩引高，以达到所需高度；枝条先向外开展，再向下垂落。 它是一个非常耐寒的类型，可耐 -18°C。 老株甚至能在厚重冰层覆盖下存活。 Henry Hohman 曾将该品种收藏多年，他可能于 20 世纪 30 年代初从日本横滨苗圃购得。 该名称曾被误拼作"
   },
   "has_mrmaple": false,
   "mrmaple": null

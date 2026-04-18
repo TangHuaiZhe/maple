@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "三日月 由美国巴克霍兹苗圃的苗圃主泰隆 ·巴克霍兹选育并 推广， 是经典的脉叶品种。 三日月发芽较早，叶裂长且窄，春天叶色为明亮的 红粉色 ，并有紫红色的脉纹，非常吸睛 。 夏天变为奶绿色，并有绿色的脉纹，秋天为金黄色 。三日月的 三季 色彩 都非常亮眼，生长速度中等，午后需要 适当 遮阴，成年株 高 可达 3米左右。"
+    "preferred": "三日月 由美国巴克霍兹苗圃的苗圃主泰隆 ·巴克霍兹选育并 推广， 是经典的脉叶品种。 三日月发芽较早，叶裂长且窄，春天叶色为明亮的 红粉色 ，并有紫红色的脉纹，非常吸睛 。 夏天变为奶绿色，并有绿色的脉纹，秋天为金黄色 。 三日月的 三季 色彩 都非常亮眼，生长速度中等，午后需要 适当 遮阴，成年株 高 可达 3米左右。"
   },
   "images": {
     "count": 7,
@@ -131,6 +131,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-mikazuki-japanese-maple/38-Acer_palmatum_Mikazuki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064268.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-mikazuki-japanese-maple/01-Acer_palmatum_Mikazuki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064168.jpg",
@@ -255,7 +256,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "脉叶",
       "title": "三日月 Acer Palmatum 'Mikazuki'",
-      "description": "三日月 由美国巴克霍兹苗圃的苗圃主泰隆 ·巴克霍兹选育并 推广， 是经典的脉叶品种。 三日月发芽较早，叶裂长且窄，春天叶色为明亮的 红粉色 ，并有紫红色的脉纹，非常吸睛 。 夏天变为奶绿色，并有绿色的脉纹，秋天为金黄色 。三日月的 三季 色彩 都非常亮眼，生长速度中等，午后需要 适当 遮阴，成年株 高 可达 3米左右。",
+      "description": "三日月 由美国巴克霍兹苗圃的苗圃主泰隆 ·巴克霍兹选育并 推广， 是经典的脉叶品种。 三日月发芽较早，叶裂长且窄，春天叶色为明亮的 红粉色 ，并有紫红色的脉纹，非常吸睛 。 夏天变为奶绿色，并有绿色的脉纹，秋天为金黄色 。 三日月的 三季 色彩 都非常亮眼，生长速度中等，午后需要 适当 遮阴，成年株 高 可达 3米左右。",
       "image_count": 7
     },
     {
@@ -368,7 +369,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "三日月 由美国巴克霍兹苗圃的苗圃主泰隆 ·巴克霍兹选育并 推广， 是经典的脉叶品种。 三日月发芽较早，叶裂长且窄，春天叶色为明亮的 红粉色 ，并有紫红色的脉纹，非常吸睛 。 夏天变为奶绿色，并有绿色的脉纹，秋天为金黄色 。三日月的 三季 色彩 都非常亮眼，生长速度中等，午后需要 适当 遮阴，成年株 高 可达 3米左右。"
+    "preferred": "三日月 由美国巴克霍兹苗圃的苗圃主泰隆 ·巴克霍兹选育并 推广， 是经典的脉叶品种。 三日月发芽较早，叶裂长且窄，春天叶色为明亮的 红粉色 ，并有紫红色的脉纹，非常吸睛 。 夏天变为奶绿色，并有绿色的脉纹，秋天为金黄色 。 三日月的 三季 色彩 都非常亮眼，生长速度中等，午后需要 适当 遮阴，成年株 高 可达 3米左右。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -390,7 +391,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
     },
-    "description": "直立、丛生的落叶灌木状小乔木，高约 3 米。叶片深裂，由细长裂片组成，春季初展时呈鲜粉色并带绿色叶脉，夏季转为淡绿色、叶脉较深，秋季则变为鲜橙色并保留绿色叶脉。春季开不显眼的小型紫红色花，下垂成簇，之后结带红晕的翅果。"
+    "description": "直立、丛生的落叶灌木状小乔木，高约 3 米。 叶片深裂，由细长裂片组成，春季初展时呈鲜粉色并带绿色叶脉，夏季转为淡绿色、叶脉较深，秋季则变为鲜橙色并保留绿色叶脉。 春季开不显眼的小型紫红色花，下垂成簇，之后结带红晕的翅果。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -562,7 +563,7 @@
           "VDAYSALE25",
           "VDAYSALE26"
         ],
-        "description_text": "Acer palmatum 'Mikazuki' Reticulated Variegated Crescent Moon Japanese Maple Zones 5-9 ‘Mikazuki’ leafs out in the early spring with a bright pink-red leaf accented by deep reddish-purple veining that gives a great contrast to the leaf, making this Japanese maple tree extremely appealing. Each leaf is heavily divided, more so than any of the other reticulated veined types in this category of Japanese maples. This is where this tree gets its name which translates as “crescent moon”. By mid-summer, ‘Mikazuki’ will turn to greenish-cream accented by deep-green veining. Autumn colors of this Japanese maple are bright golden yellows to oranges. ‘Mikazuki’ will reach 10 ft tall by 7 ft wide in 15 years making it a great mid-sized tree for the garden. In the South, protection from the hot afternoon sun will increase the length of its spring display of pink-red on this Japanese maple. This tree is an excellent addition to any garden and every collection. 10 GALLON TREE SHIPS WITHOUT POT DUE TO BOX SIZE CONSTRAINTS",
+        "description_text": "Acer palmatum 'Mikazuki' Reticulated Variegated Crescent Moon Japanese Maple Zones 5-9 ‘Mikazuki’ leafs out in the early spring with a bright pink-red leaf accented by deep reddish-purple veining that gives a great contrast to the leaf, making this Japanese maple tree extremely appealing. Each leaf is heavily divided, more so than any of the other reticulated veined types in this category of Japanese maples. This is where this tree gets its name which translates as “crescent moon”. By mid-summer, ‘Mikazuki’ will turn to greenish-cream accented by deep-green veining. Autumn colors of this Japanese maple are bright golden yellows to oranges. ‘Mikazuki’ will reach 10 ft tall by 7 ft wide in 15 years making it a great mid-sized tree for the garden. In the South, protection from the hot afternoon sun will increase the length of its spring display of pink-red on this Japanese maple.",
         "published_at": "2026-04-01T09:00:07-04:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",
@@ -1394,7 +1395,7 @@
           "VDAYSALE25",
           "VDAYSALE26"
         ],
-        "description_text": "Acer palmatum 'Mikazuki' Reticulated Variegated Crescent Moon Japanese Maple Zones 5-9 ‘Mikazuki’ leafs out in the early spring with a bright pink-red leaf accented by deep reddish-purple veining that gives a great contrast to the leaf, making this Japanese maple tree extremely appealing. Each leaf is heavily divided, more so than any of the other reticulated veined types in this category of Japanese maples. This is where this tree gets its name which translates as “crescent moon”. By mid-summer, ‘Mikazuki’ will turn to greenish-cream accented by deep-green veining. Autumn colors of this Japanese maple are bright golden yellows to oranges. ‘Mikazuki’ will reach 10 ft tall by 7 ft wide in 15 years making it a great mid-sized tree for the garden. In the South, protection from the hot afternoon sun will increase the length of its spring display of pink-red on this Japanese maple. This tree is an excellent addition to any garden and every collection. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent. The photos on this page without a MrMaple logo were taken by Talon Buchholz and cannot be used without expressed written consent from the owner.",
+        "description_text": "Acer palmatum 'Mikazuki' Reticulated Variegated Crescent Moon Japanese Maple Zones 5-9 ‘Mikazuki’ leafs out in the early spring with a bright pink-red leaf accented by deep reddish-purple veining that gives a great contrast to the leaf, making this Japanese maple tree extremely appealing. Each leaf is heavily divided, more so than any of the other reticulated veined types in this category of Japanese maples. This is where this tree gets its name which translates as “crescent moon”. By mid-summer, ‘Mikazuki’ will turn to greenish-cream accented by deep-green veining. Autumn colors of this Japanese maple are bright golden yellows to oranges. ‘Mikazuki’ will reach 10 ft tall by 7 ft wide in 15 years making it a great mid-sized tree for the garden. In the South, protection from the hot afternoon sun will increase the length of its spring display of pink-red on this Japanese maple.",
         "published_at": "2026-01-12T14:13:14-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

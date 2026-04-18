@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "The main feature of this Australian cultivar is the unusual sequence of color changes throughout the growing season. The leaves emerge green in the spring and slowly become reddish green, then bronze-green through the summer, turning fiery red in the fall. 'Berrima Bridge' grows vigorously in the early years, eventually forming a domed mound 8-13 ft. (2.5-4 m) tall. The name honors the nursery which introduced this plant. BRIDGE'"
+    "preferred": "The main feature of this Australian cultivar is the unusual sequence of color changes throughout the growing season. The leaves emerge green in the spring and slowly become reddish green, then bronze-green through the summer, turning fiery red in the fall. 'Berrima Bridge' grows vigorously in the early years, eventually forming a domed mound 8-13 ft. (2. 5-4 m) tall. The name honors the nursery which introduced this plant. BRIDGE'"
   },
   "images": {
     "count": 0,
@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-berrima-bridge/01-acer-palmatum-berrima-bridge-901471.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-berrima-bridge/01-acer-palmatum-berrima-bridge-901471.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-berrima-bridge/01-acer-palmatum-berrima-bridge-901471.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/178916/acer-palmatum-berrima-bridge-(d)/details",
       "botanical_name": "Acer palmatum 'Berrima Bridge' (D)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Berrima Bridge' Lace Leaf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Berrima Bridge'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-berriman-bridge",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -55,7 +69,7 @@
     "Acer palmatum 'Berrima Bridge' (D)",
     "Berrima Bridge"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -111,7 +125,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一澳大利亚品种的主要特征，是整个生长季中不同寻常的连续叶色变化。春季叶片初展为绿色，随后逐渐变为带红调的绿色，夏季转为铜绿色，秋季则变成火焰般的鲜红色。‘Berrima Bridge’ 幼年期长势较旺，最终形成圆顶状灌丛，高 8–13 英尺（约 2.5–4 米）。其名称是为了纪念引入该品种的苗圃。"
+    "preferred": "这一澳大利亚品种的主要特征，是整个生长季中不同寻常的连续叶色变化。 春季叶片初展为绿色，随后逐渐变为带红调的绿色，夏季转为铜绿色，秋季则变成火焰般的鲜红色。 ‘Berrima Bridge’ 幼年期长势较旺，最终形成圆顶状灌丛，高 8–13 英尺（约 2. 5–4 米）。 其名称是为了纪念引入该品种的苗圃。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-berriman-bridge",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-berrima-bridge/01-acer-palmatum-berrima-bridge-901471.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-berrima-bridge/01-acer-palmatum-berrima-bridge-901471.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Berrima Bridge' Lace Leaf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-berriman-bridge",
+        "botanical_name": "Acer palmatum 'Berrima Bridge'",
+        "common_name": "Berrima Bridge",
+        "description_text": "Acer palmatum ‘Berrima Bridge’ is a dainty little lace leaf Japanese Maple with delicate leaves and a low, spreading growth habit. Leaves on ‘Berrima Bridge’ emerge with an orange-peach color in the spring before settling into an attractive green color throughout the summer. Fall color is a bright fiery red color that stands out even among other great fall color Japanese Maples. 10 Year Size: Height: 3-5 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Berrima Bridge",
+        "match_score": 363,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-berrima-bridge-901471.jpg?v=1658490546",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-berriman-bridge",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-berrima-bridge/01-acer-palmatum-berrima-bridge-901471.jpg",
+          "bytes": 567874,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:23.813Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-berrima-bridge/01-acer-palmatum-berrima-bridge-901471.jpg"
+      ]
+    }
+  }
 }

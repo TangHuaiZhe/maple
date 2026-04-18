@@ -20,9 +20,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-sieboldianum-sode-no-uchi/01-acer-sieboldianum-sode-no-uchi-119545.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-sieboldianum-sode-no-uchi/01-acer-sieboldianum-sode-no-uchi-119545.jpg",
+    "public_paths": [
+      "/jmac-images/acer-sieboldianum-sode-no-uchi/01-acer-sieboldianum-sode-no-uchi-119545.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -39,6 +44,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/45303/acer-sieboldianum-sode-no-uchi/details",
       "botanical_name": "Acer sieboldianum 'Sode-no-uchi'",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer sieboldianum 'Sode no uchi' Full Moon Japanese Maple",
+      "botanical_name": "Acer sieboldianum 'Sode-no-uchi'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-sode-no-uchi",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -50,7 +64,7 @@
     "Acer sieboldianum 'Sode-no-uchi'",
     "Sode-no-uchi"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -106,7 +120,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这个矮生栽培品种拥有该种各类型中最小的叶片。叶色鲜亮浅绿，整个夏季保持良好。秋色以明亮的黄色为主，并带红色色调。叶片有 7 至 9 个裂片，均匀向外放射，至少裂至叶基的一半。该品种株形优美，通常形成圆整灌丛，在日本很受盆景爱好者欢迎，因为几乎无需修剪。它适合多种栽植方式，尤其适用于高山园和庭院容器栽培。 Acer tataricum subsp. ginnala Amur maple 东北槭是最耐寒的小型槭树之一。其通常形成多干、穹顶状的大灌木或小乔木，高可达约 26 英尺（8 米）。该树种栽培上较少出问题，且能适应大多数生长条件。其小至中等大小的叶片为 3 裂，中间裂片呈长圆三角形，明显比两侧短裂片更突出且更长。裂片先端尖，叶缘具粗齿。生长季叶色始终鲜绿，质地耐久，并能耐全日照。秋色极为壮观，呈鲜猩红色。另一个优点是从初夏开始会大量结成串的鲜红色果实。东北槭原产于中国东北、满洲、朝鲜北部及日本列岛。亚种名 ginnala 同时也是这种槭树的地方名称。"
+    "preferred": "这个矮生栽培品种拥有该种各类型中最小的叶片。 叶色鲜亮浅绿，整个夏季保持良好。 秋色以明亮的黄色为主，并带红色色调。 叶片有 7 至 9 个裂片，均匀向外放射，至少裂至叶基的一半。 该品种株形优美，通常形成圆整灌丛，在日本很受盆景爱好者欢迎，因为几乎无需修剪。 它适合多种栽植方式，尤其适用于高山园和庭院容器栽培。 Acer tataricum subsp. ginnala Amur maple 东北槭是最耐寒的小型槭树之一。 其通常形成多干、穹顶状的大灌木或小乔木，高可达约 26 英尺（8 米）。 该树种栽培上较少出问题，且能适应大多数生长条件。 其小至中等大小的叶片为 3 裂，中间裂片呈长圆三角形，明显比两侧短裂片更突出且更长。 裂片先端尖，叶缘具粗齿。 生长季叶色始终鲜绿，质地耐久，并能耐全日照。 秋色极为壮观，呈鲜猩红色。 另一个优点是从初夏开始会大量结成串的鲜红色果实。 东北槭原产于中国东北、满洲、朝鲜北部及日本列岛。 亚种名 ginnala 同时也是这种槭树的地方名称。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-sode-no-uchi",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-sode-no-uchi/01-acer-sieboldianum-sode-no-uchi-119545.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-sode-no-uchi/01-acer-sieboldianum-sode-no-uchi-119545.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer sieboldianum 'Sode no uchi' Full Moon Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-sode-no-uchi",
+        "botanical_name": "Acer sieboldianum 'Sode-no-uchi'",
+        "common_name": "Sode-no-uchi",
+        "description_text": "Acer sieboldianum ‘Sode no uchi’ is a hardy, cold tolerant Japanese maple. ‘Sode no uchi’ is a medium growing Japanese maple. ‘Sode no uchi’ leafs out with light green leaves in the spring. These leaves darken as the temperatures get warmer. When fall arrives, ‘Sode no uchi’ puts on a show with vibrant yellow and orange leaves. 10 Year Size: Height: 8-10 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Sode-no-uchi",
+        "match_score": 370,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-sieboldianum-sode-no-uchi-119545.jpg?v=1658490884",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-sode-no-uchi",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-sode-no-uchi/01-acer-sieboldianum-sode-no-uchi-119545.jpg",
+          "bytes": 244766,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:59.017Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-sode-no-uchi/01-acer-sieboldianum-sode-no-uchi-119545.jpg"
+      ]
+    }
+  }
 }

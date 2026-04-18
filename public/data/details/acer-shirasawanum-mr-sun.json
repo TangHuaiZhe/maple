@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "这一独特的变型由著名的育种家泰隆巴克霍茨培育，其叶片大小与寻常的白泽槭无异，但是其他方面却无一相同。其叶裂7-9裂，分裂位置低于叶片的一半，裂叶狭长呈三角状，叶尖向外延伸，叶缘内卷，长长的叶尖同样向右下方卷曲。此外位于中间的裂叶较短，表明这一品种一部分血缘来自女巫扫帚型枫树(wiches'-broom)。它的第三个特征是叶片、叶柄、枝条都是明亮的绿色。此外它所结的翅果也非常多。(有资料显示Mr.sun是白泽槭的金隐和鸡爪槭特朋宝的杂交后代。具体有待考证)"
+    "preferred": "这一独特的变型由著名的育种家泰隆巴克霍茨培育，其叶片大小与寻常的白泽槭无异，但是其他方面却无一相同。 其叶裂7-9裂，分裂位置低于叶片的一半，裂叶狭长呈三角状，叶尖向外延伸，叶缘内卷，长长的叶尖同样向右下方卷曲。 此外位于中间的裂叶较短，表明这一品种一部分血缘来自女巫扫帚型枫树(wiches'-broom)。 它的第三个特征是叶片、叶柄、枝条都是明亮的绿色。 此外它所结的翅果也非常多。 (有资料显示Mr. sun是白泽槭的金隐和鸡爪槭特朋宝的杂交后代。 具体有待考证)"
   },
   "images": {
     "count": 6,
@@ -19,10 +19,21 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-shirasawanum-mr-sun/01-Acer_shirasawanum_Mr._Sun3__81599__33590.1553988682.1280.1280.jpg",
+      "/coniferkingdom-images/acer-shirasawanum-mr-sun/02-Acer_shirasawanum_Mr._Sun4__54790__84766.1553988682.1280.1280.jpg",
+      "/coniferkingdom-images/acer-shirasawanum-mr-sun/03-Acer_shirasawanum_Mr._Sun5__28337__41527.1553988682.1280.1280.jpg",
+      "/coniferkingdom-images/acer-shirasawanum-mr-sun/04-Acer_shirasawanum_Mr._Sun2__69618__12589.1553988682.1280.1280.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-shirasawanum-mr-sun/04-Acer_shirasawanum_Mr._Sun2__69618__12589.1553988682.1280.1280.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-shirasawanum-mr-sun/01-Acer_shirasawanum_Mr._Sun3__81599__33590.1553988682.1280.1280.jpg",
+      "/coniferkingdom-images/acer-shirasawanum-mr-sun/02-Acer_shirasawanum_Mr._Sun4__54790__84766.1553988682.1280.1280.jpg",
+      "/coniferkingdom-images/acer-shirasawanum-mr-sun/03-Acer_shirasawanum_Mr._Sun5__28337__41527.1553988682.1280.1280.jpg",
+      "/coniferkingdom-images/acer-shirasawanum-mr-sun/04-Acer_shirasawanum_Mr._Sun2__69618__12589.1553988682.1280.1280.jpg"
+    ],
+    "public_count": 4
   },
   "sources": [
     {
@@ -33,7 +44,7 @@
       "top_group_name": "羽扇槭",
       "second_group_name": "白泽槭",
       "title": "MR.SUN Acer Shirasawanum 'Mr Sun'",
-      "description": "这一独特的变型由著名的育种家泰隆巴克霍茨培育，其叶片大小与寻常的白泽槭无异，但是其他方面却无一相同。其叶裂7-9裂，分裂位置低于叶片的一半，裂叶狭长呈三角状，叶尖向外延伸，叶缘内卷，长长的叶尖同样向右下方卷曲。此外位于中间的裂叶较短，表明这一品种一部分血缘来自女巫扫帚型枫树(wiches'-broom)。它的第三个特征是叶片、叶柄、枝条都是明亮的绿色。此外它所结的翅果也非常多。(有资料显示Mr.sun是白泽槭的金隐和鸡爪槭特朋宝的杂交后代。具体有待考证)",
+      "description": "这一独特的变型由著名的育种家泰隆巴克霍茨培育，其叶片大小与寻常的白泽槭无异，但是其他方面却无一相同。 其叶裂7-9裂，分裂位置低于叶片的一半，裂叶狭长呈三角状，叶尖向外延伸，叶缘内卷，长长的叶尖同样向右下方卷曲。 此外位于中间的裂叶较短，表明这一品种一部分血缘来自女巫扫帚型枫树(wiches'-broom)。 它的第三个特征是叶片、叶柄、枝条都是明亮的绿色。 此外它所结的翅果也非常多。 (有资料显示Mr. sun是白泽槭的金隐和鸡爪槭特朋宝的杂交后代。 具体有待考证)",
       "image_count": 6
     },
     {
@@ -41,6 +52,15 @@
       "rhs_id": 325219,
       "detail_url": "https://www.rhs.org.uk/plants/325219/acer-shirasawanum-mr-sun/details",
       "botanical_name": "Acer shirasawanum 'Mr Sun'",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer shirasawanum ‘Mr. Sun’ Japanese Maple",
+      "botanical_name": "Acer Shirasawanum 'Mr Sun'",
+      "detail_url": "https://www.coniferkingdom.com/acer-shirasawanum-mr-sun-japanese-maple/",
+      "image_count": 4,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -62,7 +82,7 @@
     "白泽槭",
     "羽扇槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -120,7 +140,91 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一独特的变型由著名的育种家泰隆巴克霍茨培育，其叶片大小与寻常的白泽槭无异，但是其他方面却无一相同。其叶裂7-9裂，分裂位置低于叶片的一半，裂叶狭长呈三角状，叶尖向外延伸，叶缘内卷，长长的叶尖同样向右下方卷曲。此外位于中间的裂叶较短，表明这一品种一部分血缘来自女巫扫帚型枫树(wiches'-broom)。它的第三个特征是叶片、叶柄、枝条都是明亮的绿色。此外它所结的翅果也非常多。(有资料显示Mr.sun是白泽槭的金隐和鸡爪槭特朋宝的杂交后代。具体有待考证)"
+    "preferred": "这一独特的变型由著名的育种家泰隆巴克霍茨培育，其叶片大小与寻常的白泽槭无异，但是其他方面却无一相同。 其叶裂7-9裂，分裂位置低于叶片的一半，裂叶狭长呈三角状，叶尖向外延伸，叶缘内卷，长长的叶尖同样向右下方卷曲。 此外位于中间的裂叶较短，表明这一品种一部分血缘来自女巫扫帚型枫树(wiches'-broom)。 它的第三个特征是叶片、叶柄、枝条都是明亮的绿色。 此外它所结的翅果也非常多。 (有资料显示Mr. sun是白泽槭的金隐和鸡爪槭特朋宝的杂交后代。 具体有待考证)"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-shirasawanum-mr-sun-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 4,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/01-Acer_shirasawanum_Mr._Sun3__81599__33590.1553988682.1280.1280.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/01-Acer_shirasawanum_Mr._Sun3__81599__33590.1553988682.1280.1280.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/02-Acer_shirasawanum_Mr._Sun4__54790__84766.1553988682.1280.1280.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/03-Acer_shirasawanum_Mr._Sun5__28337__41527.1553988682.1280.1280.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/04-Acer_shirasawanum_Mr._Sun2__69618__12589.1553988682.1280.1280.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer shirasawanum ‘Mr. Sun’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-shirasawanum-mr-sun-japanese-maple/",
+        "botanical_name": "Acer Shirasawanum 'Mr Sun'",
+        "common_name": "Mr Sun",
+        "description_text": "Acer shirasawanum ‘Mr. Sun’ Japanese Maple has glossy green leaves have rolled lobe margins. The fall color is orange-red and gold. Shop now online at best price.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer shirasawanum mr sun",
+        "match_score": 261
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/01/Acer_shirasawanum_Mr._Sun3__81599__33590.1553988682.1280.1280.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-shirasawanum-mr-sun-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/01-Acer_shirasawanum_Mr._Sun3__81599__33590.1553988682.1280.1280.jpg",
+          "bytes": 108413,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:32.097Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/01/Acer_shirasawanum_Mr._Sun4__54790__84766.1553988682.1280.1280.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-shirasawanum-mr-sun-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/02-Acer_shirasawanum_Mr._Sun4__54790__84766.1553988682.1280.1280.jpg",
+          "bytes": 129658,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:32.556Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/01/Acer_shirasawanum_Mr._Sun5__28337__41527.1553988682.1280.1280.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-shirasawanum-mr-sun-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/03-Acer_shirasawanum_Mr._Sun5__28337__41527.1553988682.1280.1280.jpg",
+          "bytes": 125275,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:33.289Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 4,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/01/Acer_shirasawanum_Mr._Sun2__69618__12589.1553988682.1280.1280.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-shirasawanum-mr-sun-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/04-Acer_shirasawanum_Mr._Sun2__69618__12589.1553988682.1280.1280.jpg",
+          "bytes": 152120,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:34.161Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 4,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/01-Acer_shirasawanum_Mr._Sun3__81599__33590.1553988682.1280.1280.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/02-Acer_shirasawanum_Mr._Sun4__54790__84766.1553988682.1280.1280.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/03-Acer_shirasawanum_Mr._Sun5__28337__41527.1553988682.1280.1280.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-mr-sun/04-Acer_shirasawanum_Mr._Sun2__69618__12589.1553988682.1280.1280.jpg"
+      ]
+    }
+  }
 }

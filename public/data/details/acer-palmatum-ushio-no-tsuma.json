@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "很久以前就存在的一个日系品种，它的特点是叶子在后 期会从 7 叶裂变成 3 叶裂。春天是亮绿色，夏天深绿， 秋天橙红色。枝条非常有特点，一年四季是红色的。"
+    "preferred": "很久以前就存在的一个日系品种，它的特点是叶子在后 期会从 7 叶裂变成 3 叶裂。 春天是亮绿色，夏天深绿， 秋天橙红色。 枝条非常有特点，一年四季是红色的。"
   },
   "images": {
     "count": 6,
@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -33,7 +34,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "绿叶",
       "title": "丑之爪Acer Palmatum 'Ushio No Tsuma'",
-      "description": "很久以前就存在的一个日系品种，它的特点是叶子在后 期会从 7 叶裂变成 3 叶裂。春天是亮绿色，夏天深绿， 秋天橙红色。枝条非常有特点，一年四季是红色的。",
+      "description": "很久以前就存在的一个日系品种，它的特点是叶子在后 期会从 7 叶裂变成 3 叶裂。 春天是亮绿色，夏天深绿， 秋天橙红色。 枝条非常有特点，一年四季是红色的。",
       "image_count": 6
     },
     {
@@ -118,7 +119,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "很久以前就存在的一个日系品种，它的特点是叶子在后 期会从 7 叶裂变成 3 叶裂。春天是亮绿色，夏天深绿， 秋天橙红色。枝条非常有特点，一年四季是红色的。"
+    "preferred": "很久以前就存在的一个日系品种，它的特点是叶子在后 期会从 7 叶裂变成 3 叶裂。 春天是亮绿色，夏天深绿， 秋天橙红色。 枝条非常有特点，一年四季是红色的。"
   },
   "has_mrmaple": false
 }

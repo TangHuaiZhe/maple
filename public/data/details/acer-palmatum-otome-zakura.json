@@ -23,10 +23,17 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-otome-zakura/01-Otome-Zakura-2010r.jpg",
+      "/coniferkingdom-images/acer-palmatum-otome-zakura/02-Acer-palmatum-Otome-zakura-rotated.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-otome-zakura/02-Acer-palmatum-Otome-zakura-rotated.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-otome-zakura/01-Otome-Zakura-2010r.jpg",
+      "/coniferkingdom-images/acer-palmatum-otome-zakura/02-Acer-palmatum-Otome-zakura-rotated.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -43,6 +50,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/111512/acer-palmatum-otome-zakura-(p)/details",
       "botanical_name": "Acer palmatum 'Otome-zakura' (P)",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Otome zakura’ Japanese Maple",
+      "botanical_name": "Acer palmatum 'Otome zakura'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-otome-zakura-japanese-maple/",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -57,7 +73,7 @@
     "Otome zakura",
     "Otome-zakura"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -113,7 +129,63 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是一种半矮生小乔木，春季叶色极为鲜艳，同一株上可同时出现大小两类叶片。大叶有时着生于生长旺盛的新梢上，呈 5 裂或 7 裂的典型 palmatum 形态。裂片明显向外放射，分裂深达叶基的约三分之二。中央裂片较大，侧裂片则小得多。每个裂片通常为卵形，先端延长成尖锐长尾；叶缘具浅锯齿。老枝上的叶片则不同。春季新叶展开时，叶色为极醒目的亮火焰红至粉焰色，这种颜色可维持数周，随后转为栗红。随着夏季推进，叶片会混入绿色阴调。秋色中也会出现一些粉色，与夏末渐退的叶色交织。该品种为矮性树种，幼年在强势生长或高强度栽培条件下可抽生很长的强旺枝，并主要形成掌状叶；较为独特的叶形则主要出现在老枝或较弱势枝条上。该品种非常出众且极具观赏性。其名称曾被误拼作"
+    "preferred": "这是一种半矮生小乔木，春季叶色极为鲜艳，同一株上可同时出现大小两类叶片。 大叶有时着生于生长旺盛的新梢上，呈 5 裂或 7 裂的典型 palmatum 形态。 裂片明显向外放射，分裂深达叶基的约三分之二。 中央裂片较大，侧裂片则小得多。 每个裂片通常为卵形，先端延长成尖锐长尾；叶缘具浅锯齿。 老枝上的叶片则不同。 春季新叶展开时，叶色为极醒目的亮火焰红至粉焰色，这种颜色可维持数周，随后转为栗红。 随着夏季推进，叶片会混入绿色阴调。 秋色中也会出现一些粉色，与夏末渐退的叶色交织。 该品种为矮性树种，幼年在强势生长或高强度栽培条件下可抽生很长的强旺枝，并主要形成掌状叶；较为独特的叶形则主要出现在老枝或较弱势枝条上。 该品种非常出众且极具观赏性。 其名称曾被误拼作"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-otome-zakura-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-otome-zakura/01-Otome-Zakura-2010r.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-otome-zakura/01-Otome-Zakura-2010r.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-otome-zakura/02-Acer-palmatum-Otome-zakura-rotated.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Otome zakura’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-otome-zakura-japanese-maple/",
+        "botanical_name": "Acer palmatum 'Otome zakura'",
+        "common_name": "Otome zakura",
+        "description_text": "A small, palmate leafed maple with new leaves that emerge scarlet in spring. Summer coloring is green with red coloring returning for fall.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum otome zakura",
+        "match_score": 263
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2023/08/Otome-Zakura-2010r.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-otome-zakura-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-otome-zakura/01-Otome-Zakura-2010r.jpg",
+          "bytes": 507256,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:58.441Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2023/08/Acer-palmatum-Otome-zakura-rotated.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-otome-zakura-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-otome-zakura/02-Acer-palmatum-Otome-zakura-rotated.jpg",
+          "bytes": 463041,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:59.313Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-otome-zakura/01-Otome-Zakura-2010r.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-otome-zakura/02-Acer-palmatum-Otome-zakura-rotated.jpg"
+      ]
+    }
+  }
 }

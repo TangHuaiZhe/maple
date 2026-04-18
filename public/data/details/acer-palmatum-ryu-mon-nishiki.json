@@ -15,7 +15,7 @@
     "variegated"
   ],
   "descriptions": {
-    "preferred": "The green foliage of this variegate has white or yellowish irregular areas composed of small markings. The new growth in the spring develops with reddish or pinkish tones.Sometimesthenewgrowth(includingnewshoots) is quite pink, but less so than with certain other cultivars. Later, the leaves tend to become dull and the variegations are not as pronounced. The medium-sized leaves are flat-surfaced and usually about 5 cm long and broad. The lobes are five or seven, rather irregular, and not uniformly separated or divided, so that they vary somewhat in size. This upright-growing small tree or tall bush probably does not exceed 3 m at maturity. The growth is rather twiggy and multibranched."
+    "preferred": "The green foliage of this variegate has white or yellowish irregular areas composed of small markings. The new growth in the spring develops with reddish or pinkish tones. Sometimesthenewgrowth(includingnewshoots) is quite pink, but less so than with certain other cultivars. Later, the leaves tend to become dull and the variegations are not as pronounced. The medium-sized leaves are flat-surfaced and usually about 5 cm long and broad. The lobes are five or seven, rather irregular, and not uniformly separated or divided, so that they vary somewhat in size. This upright-growing small tree or tall bush probably does not exceed 3 m at maturity. The growth is rather twiggy and multibranched."
   },
   "images": {
     "count": 0,
@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -113,7 +114,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该斑叶品种的绿色叶面上分布有不规则的白色或微黄色斑区，由细小斑点组成。春季新梢和新叶萌发时常带红色或粉色调；有时新生长部位（包括新枝）会明显呈粉色，但不如某些其他品种那样强烈。之后叶色往往趋于暗淡，斑锦也不再十分明显。叶片中等大小，表面平展，通常长宽约 5 厘米。裂片为 5 裂或 7 裂，形态较不规则，分裂不均，因此大小略有变化。植株为直立生长的小乔木或高大灌木，成熟后可能不超过 3 米。枝条较细密，多分枝。"
+    "preferred": "该斑叶品种的绿色叶面上分布有不规则的白色或微黄色斑区，由细小斑点组成。 春季新梢和新叶萌发时常带红色或粉色调；有时新生长部位（包括新枝）会明显呈粉色，但不如某些其他品种那样强烈。 之后叶色往往趋于暗淡，斑锦也不再十分明显。 叶片中等大小，表面平展，通常长宽约 5 厘米。 裂片为 5 裂或 7 裂，形态较不规则，分裂不均，因此大小略有变化。 植株为直立生长的小乔木或高大灌木，成熟后可能不超过 3 米。 枝条较细密，多分枝。"
   },
   "has_mrmaple": false
 }

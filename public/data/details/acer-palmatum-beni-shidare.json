@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "This cultivar, whose name means \"red cascading,\" has the typical form and color of the red dissectums. The name appears to be the common term in Japan for the red form of dissectum. This usage would compare to the English usage of \"dissectum atropurpureum.\" However, it is felt that a superior clone was originally selected, and the material received from original sources is of excellent quality and color. Therefore, the cultivar status should be retained for this particular clone. Archives, Corvallis contrasted with such cultivars as"
+    "preferred": "This cultivar, whose name means \"red cascading,\" has the typical form and color of the red dissectums. The name appears to be the common term in Japan for the red form of dissectum. This usage would compare to the English usage of \"dissectum atropurpureum. \" However, it is felt that a superior clone was originally selected, and the material received from original sources is of excellent quality and color. Therefore, the cultivar status should be retained for this particular clone. Archives, Corvallis contrasted with such cultivars as"
   },
   "images": {
     "count": 4,
@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-beni-shidare/01-acer-palmatum-beni-shidare-169605.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-beni-shidare/01-acer-palmatum-beni-shidare-169605.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-beni-shidare/01-acer-palmatum-beni-shidare-169605.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -37,7 +42,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "羽毛枫",
       "title": "赤枝垂 Acer Palmatum 'Beni Shidare'",
-      "description": "赤枝垂是一款非常经典的红色羽毛枫品种。春天红色的 叶片和绿色的叶柄，夏天变成青铜绿色，秋天首先变成 明亮的黄色接着变成橙红色。成年树高约 1.5 米。",
+      "description": "赤枝垂是一款非常经典的红色羽毛枫品种。 春天红色的 叶片和绿色的叶柄，夏天变成青铜绿色，秋天首先变成 明亮的黄色接着变成橙红色。 成年树高约 1. 5 米。",
       "image_count": 4
     },
     {
@@ -53,6 +58,15 @@
       "rhs_id": 306920,
       "detail_url": "https://www.rhs.org.uk/plants/306920/acer-palmatum-beni-shidare-(d)/details",
       "botanical_name": "Acer palmatum 'Beni-shidare' (D)",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Beni shidare' Red Lace Leaf Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Beni Shidare'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-beni-shidare",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -76,7 +90,7 @@
     "赤枝垂 Acer Palmatum 'Beni Shidare'",
     "鸡爪槭"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -132,7 +146,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该品种名意为“红枝垂”，在形态与叶色上都具有典型红叶 dissectum 类品种的特征。这个名称在日本似乎常作为红叶 dissectum 形态的通称，其用法类似英语中的“dissectum atropurpureum”。不过，一般认为最初曾选育出一个更优良的克隆，而来自原始来源的材料在品质和叶色方面都很出色，因此这一特定克隆仍应保留其品种地位。其性状可与 'Crimson Queen' 等品种对比。植株习性始终为明显下垂。老株可形成至少 5 米高、6 米宽的 mound 状树冠；日本一些极老株甚至高、宽都超过 7 米。'Dissectum Atropurpureum' 曾被列为 'Beni shidare' 的异名，但由于此前许多具有红色 dissectum 叶的实生苗都被冠以该名，现已变得缺乏意义且容易误导。"
+    "preferred": "该品种名意为“红枝垂”，在形态与叶色上都具有典型红叶 dissectum 类品种的特征。 这个名称在日本似乎常作为红叶 dissectum 形态的通称，其用法类似英语中的“dissectum atropurpureum”。 不过，一般认为最初曾选育出一个更优良的克隆，而来自原始来源的材料在品质和叶色方面都很出色，因此这一特定克隆仍应保留其品种地位。 其性状可与 'Crimson Queen' 等品种对比。 植株习性始终为明显下垂。 老株可形成至少 5 米高、6 米宽的 mound 状树冠；日本一些极老株甚至高、宽都超过 7 米。 'Dissectum Atropurpureum' 曾被列为 'Beni shidare' 的异名，但由于此前许多具有红色 dissectum 叶的实生苗都被冠以该名，现已变得缺乏意义且容易误导。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-beni-shidare",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-beni-shidare/01-acer-palmatum-beni-shidare-169605.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-beni-shidare/01-acer-palmatum-beni-shidare-169605.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Beni shidare' Red Lace Leaf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-beni-shidare",
+        "botanical_name": "Acer Palmatum 'Beni Shidare'",
+        "common_name": "Beni shidare",
+        "description_text": "Acer palmatum ‘Beni shidare’ is one of the most pendulous varieties we grow. It has deep purple red color in spring and maintains its color well into summer before turning bronze and then green. Fall color is bright red and striking. This is probably one of the oldest red dissectum forms, as the name simply means red cascading, at one time all red weeping forms were given this name. Over time a superior clone must have been selected and remains in production today. Very old plants with this name still exist in Japan that are over 15 feet tall and 20 feet wide. 10 year size: Height: 3-4 Feet Width 5-7 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Beni shidare",
+        "match_score": 371,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-beni-shidare-169605.jpg?v=1658490542",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-beni-shidare",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-beni-shidare/01-acer-palmatum-beni-shidare-169605.jpg",
+          "bytes": 56772,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:22:21.568Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-beni-shidare/01-acer-palmatum-beni-shidare-169605.jpg"
+      ]
+    }
+  }
 }

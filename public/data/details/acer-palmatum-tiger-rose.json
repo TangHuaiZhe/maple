@@ -15,7 +15,7 @@
     "variegated"
   ],
   "descriptions": {
-    "preferred": "Originating in Oregon from a seedling of 'Azuma murasaki', this lovely variegated cultivar has the cascading shoots and semipendulous habit of 'Omure yama'. The deeply divided leaves have fingerlike lobes with crinkled edges. The new leaves emerge in the spring colored rose with pink tinges, becoming creamy white with green veins and margins for the summer. 'Tiger Rose' reaches 10 ft. (3 m) tall in 10 years and spreads 4 ft. (1.3 m) wide."
+    "preferred": "Originating in Oregon from a seedling of 'Azuma murasaki', this lovely variegated cultivar has the cascading shoots and semipendulous habit of 'Omure yama'. The deeply divided leaves have fingerlike lobes with crinkled edges. The new leaves emerge in the spring colored rose with pink tinges, becoming creamy white with green veins and margins for the summer. 'Tiger Rose' reaches 10 ft. (3 m) tall in 10 years and spreads 4 ft. (1. 3 m) wide."
   },
   "images": {
     "count": 7,
@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-tiger-rose/01-acer-palmatum-tiger-rose-156447.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-tiger-rose/01-acer-palmatum-tiger-rose-156447.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-tiger-rose/01-acer-palmatum-tiger-rose-156447.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -37,7 +42,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "脉叶",
       "title": "老虎玫瑰 Acer Palmatum 'Tiger Rose'",
-      "description": "由美国的邦普博士选育命名并推广，从 Acer palmatum 'Azuma murasaki'-东紫的种子选育而来，Tiger是因为脉叶上的条纹看上去像老虎斑，Rose是因为早春所展现的粉色调很像玫瑰色，因此而得名。春天为玫红色，色彩保持时间短，快速退化为亮绿色的老虎纹色，但常有小范围的玫红色斑点分布其上，秋天变为橙红色或者橙黄色，生长速度一般，夏季午后适当遮阴，成年株高可达3.6米左右。",
+      "description": "由美国的邦普博士选育命名并推广，从 Acer palmatum 'Azuma murasaki'-东紫的种子选育而来，Tiger是因为脉叶上的条纹看上去像老虎斑，Rose是因为早春所展现的粉色调很像玫瑰色，因此而得名。 春天为玫红色，色彩保持时间短，快速退化为亮绿色的老虎纹色，但常有小范围的玫红色斑点分布其上，秋天变为橙红色或者橙黄色，生长速度一般，夏季午后适当遮阴，成年株高可达3. 6米左右。",
       "image_count": 7
     },
     {
@@ -53,6 +58,15 @@
       "rhs_id": 222266,
       "detail_url": "https://www.rhs.org.uk/plants/222266/acer-palmatum-tiger-rose-(m)/details",
       "botanical_name": "Acer palmatum 'Tiger Rose' (M)",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Tiger Rose' Reticulated Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Tiger Rose'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tiger-rose",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -72,7 +86,7 @@
     "脉叶",
     "鸡爪槭"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -128,7 +142,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一优美的锦叶品种起源于美国俄勒冈，由 'Azuma murasaki' 的实生苗选育而来；其下垂枝条与半垂生习性类似 'Omure yama'。叶片深裂，裂片如手指状，边缘呈皱波状。春季新叶呈玫瑰色并带粉色调，夏季则转为乳白色，叶脉与叶缘保持绿色。'Tiger Rose' 在 10 年内可长至 10 英尺（约 3 米）高，开展约 4 英尺（约 1.3 米）宽。"
+    "preferred": "这一优美的锦叶品种起源于美国俄勒冈，由 'Azuma murasaki' 的实生苗选育而来；其下垂枝条与半垂生习性类似 'Omure yama'。 叶片深裂，裂片如手指状，边缘呈皱波状。 春季新叶呈玫瑰色并带粉色调，夏季则转为乳白色，叶脉与叶缘保持绿色。 'Tiger Rose' 在 10 年内可长至 10 英尺（约 3 米）高，开展约 4 英尺（约 1. 3 米）宽。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tiger-rose",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tiger-rose/01-acer-palmatum-tiger-rose-156447.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tiger-rose/01-acer-palmatum-tiger-rose-156447.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Tiger Rose' Reticulated Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tiger-rose",
+        "botanical_name": "Acer Palmatum 'Tiger Rose'",
+        "common_name": "Tiger Rose",
+        "description_text": "Acer palmatum ‘Tiger Rose’ has light green leaves that first emerge with a slight red cast. When the red fades away the cream colored leaves are heavily contrasted with the dark green veins. Slow growing and slightly pendulous this elegant cultivar, which preders partial shade, has many uses in the garden. Fall color is orange. 'Tiger Rose' was found by Dr. Forest Bump of Forest Grove, Oregon and named after his wife Rose. 10 year size: Height: 4-6 Feet Width: 4-6 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Tiger Rose",
+        "match_score": 369,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-tiger-rose-156447.jpg?v=1658490875",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tiger-rose",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tiger-rose/01-acer-palmatum-tiger-rose-156447.jpg",
+          "bytes": 59241,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:25:08.184Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tiger-rose/01-acer-palmatum-tiger-rose-156447.jpg"
+      ]
+    }
+  }
 }

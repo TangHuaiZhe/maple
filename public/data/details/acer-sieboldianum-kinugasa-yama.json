@@ -20,9 +20,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg",
+    "public_paths": [
+      "/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -39,6 +44,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/83059/acer-sieboldianum-kinugasayama/details",
       "botanical_name": "Acer sieboldianum 'Kinugasayama'",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer sieboldianum 'Kinugasa yama' Cold Tolerant Japanese Maple",
+      "botanical_name": "Acer sieboldianum 'Kinugasa yama'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-kinugasa-yama",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -53,7 +67,7 @@
     "Kinugasa yama",
     "Kinugasayama"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -109,7 +123,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "叶色为独特的蓝绿色，且叶面密被银色茸毛。秋色为鲜亮橙色与红色的混合。中等大小的叶片具 7 至 9 个裂片，裂至至少叶基的一半。'Kinugasa yama' 为株形敦实、圆头的小乔木，高可达 20 至 23 英尺（6 至 7 米）。其名称意为“丝伞”，指叶片具丝质般的茸毛。"
+    "preferred": "叶色为独特的蓝绿色，且叶面密被银色茸毛。 秋色为鲜亮橙色与红色的混合。 中等大小的叶片具 7 至 9 个裂片，裂至至少叶基的一半。 'Kinugasa yama' 为株形敦实、圆头的小乔木，高可达 20 至 23 英尺（6 至 7 米）。 其名称意为“丝伞”，指叶片具丝质般的茸毛。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-kinugasa-yama",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer sieboldianum 'Kinugasa yama' Cold Tolerant Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-kinugasa-yama",
+        "botanical_name": "Acer sieboldianum 'Kinugasa yama'",
+        "common_name": "Kinugasa yama",
+        "description_text": "Acer sieboldianum ‘Kinugasa yama’ is a medium sized, upright growing Japanese maple with large green leaves. ‘Kinugasa yama’ is fast growing, cold tolerant tree with bright orange-red fall color. 10 Year Size: Height: 10-12 feet Width: 6- 8 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Kinugasa yama",
+        "match_score": 372,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-sieboldianum-kinugasa-yama-275580.jpg?v=1658490831",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-kinugasa-yama",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg",
+          "bytes": 307998,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:57.432Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg"
+      ]
+    }
+  }
 }

@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "薄绿是日本的岸田于 1988 年在日本东京发现的是一款 非常稀少的品种，春天首先出现橙色的叶片接着会变成 明亮的金黄色，随着季节变化在夏季会变成黄绿色，秋 天橙红色。成年树高约 3-4 米。"
+    "preferred": "薄绿是日本的岸田于 1988 年在日本东京发现的是一款 非常稀少的品种，春天首先出现橙色的叶片接着会变成 明亮的金黄色，随着季节变化在夏季会变成黄绿色，秋 天橙红色。 成年树高约 3-4 米。"
   },
   "images": {
     "count": 7,
@@ -20,9 +20,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-usu-midori/01-acer-palmatum-usu-midori-322666.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-usu-midori/01-acer-palmatum-usu-midori-322666.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-usu-midori/01-acer-palmatum-usu-midori-322666.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,7 +38,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "绿叶",
       "title": "薄绿Acer Palmatum 'Usu Midori'",
-      "description": "薄绿是日本的岸田于 1988 年在日本东京发现的是一款 非常稀少的品种，春天首先出现橙色的叶片接着会变成 明亮的金黄色，随着季节变化在夏季会变成黄绿色，秋 天橙红色。成年树高约 3-4 米。",
+      "description": "薄绿是日本的岸田于 1988 年在日本东京发现的是一款 非常稀少的品种，春天首先出现橙色的叶片接着会变成 明亮的金黄色，随着季节变化在夏季会变成黄绿色，秋 天橙红色。 成年树高约 3-4 米。",
       "image_count": 7
     },
     {
@@ -41,6 +46,15 @@
       "rhs_id": 196333,
       "detail_url": "https://www.rhs.org.uk/plants/196333/acer-palmatum-usu-midori/details",
       "botanical_name": "Acer palmatum 'Usu-midori'",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Usu midori' Green Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Usu Midori'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-usu-midori",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -62,7 +76,7 @@
     "薄绿Acer Palmatum 'Usu Midori'",
     "鸡爪槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -118,7 +132,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "薄绿是日本的岸田于 1988 年在日本东京发现的是一款 非常稀少的品种，春天首先出现橙色的叶片接着会变成 明亮的金黄色，随着季节变化在夏季会变成黄绿色，秋 天橙红色。成年树高约 3-4 米。"
+    "preferred": "薄绿是日本的岸田于 1988 年在日本东京发现的是一款 非常稀少的品种，春天首先出现橙色的叶片接着会变成 明亮的金黄色，随着季节变化在夏季会变成黄绿色，秋 天橙红色。 成年树高约 3-4 米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-usu-midori",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-usu-midori/01-acer-palmatum-usu-midori-322666.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-usu-midori/01-acer-palmatum-usu-midori-322666.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Usu midori' Green Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-usu-midori",
+        "botanical_name": "Acer Palmatum 'Usu Midori'",
+        "common_name": "Usu Midori",
+        "description_text": "Acer palmatum 'Usu midori' emerges in the early spring with peachy orange colors to the leaves. These leaves eventually mature to a bright yellow color. The color of the leaves stays light as the turn a light green, chartreuse color in the summer. The fall color is a showy orange-red. 'Usu midori' has very much has a vertical, upright habit and is a fast grower. 10 Year Size: Height: 10-12 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Usu Midori",
+        "match_score": 369,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-usu-midori-322666.jpg?v=1658490825",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-usu-midori",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-usu-midori/01-acer-palmatum-usu-midori-322666.jpg",
+          "bytes": 395980,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:25:15.844Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-usu-midori/01-acer-palmatum-usu-midori-322666.jpg"
+      ]
+    }
+  }
 }

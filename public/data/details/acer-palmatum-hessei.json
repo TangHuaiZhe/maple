@@ -26,6 +26,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-hessei/01-visi69017.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-hessei/01-visi69017.jpg"
@@ -103,7 +104,7 @@
       "Laciniatum Purpureum",
       "Septemlobum Purpureum"
     ],
-    "description": "A deciduous shrub or small tree, to around 1.2m high, with a spreading habit and deeply cut leaves divided to the base into long narrow lobes. Leaves emerge strongly flushed with red, and deepen to olive green and purple-bronze over summer before turning bright red again in autumn",
+    "description": "A deciduous shrub or small tree, to around 1. 2m high, with a spreading habit and deeply cut leaves divided to the base into long narrow lobes. Leaves emerge strongly flushed with red, and deepen to olive green and purple-bronze over summer before turning bright red again in autumn",
     "dimensions": {
       "height": "1-1.5 metres",
       "spread": "1-1.5 metres",
@@ -186,10 +187,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶灌木或小乔木，高约 1.2 米，株形开展。叶片深裂至基部，形成细长裂片。新叶萌发时带有明显红晕，夏季逐渐转为橄榄绿色与紫铜色，秋季再度变为鲜红色。"
+    "description": "落叶灌木或小乔木，高约 1. 2 米，株形开展。 叶片深裂至基部，形成细长裂片。 新叶萌发时带有明显红晕，夏季逐渐转为橄榄绿色与紫铜色，秋季再度变为鲜红色。"
   },
   "descriptions_zh": {
-    "preferred": "该类型的深裂红叶通常由七个裂片组成，裂片细长狭窄，几乎分裂至叶基。每个裂片呈细长披针形，叶缘具锯齿。裂片长 8–9 厘米，彼此靠拢，因此叶片视觉上显得长于宽，尽管展开宽度可达 7 厘米。叶片略下垂，使植株呈现出如带状般的效果。该品种宽度资料原文残缺。偶尔修剪即可很好地整形。'Hessei' 是一个耐寒性良好的品种，枝条与主枝都较为粗壮。其繁殖并不容易，因为嫁接后愈合较慢。它还曾以 'Atropurpureum Lacinatum'、'Elegans Atropurpureum'、'Elegans Purpureum' 和 'Lacinatum Purpureum' 等名称流传，但这些名称均为非法名。"
+    "preferred": "该类型的深裂红叶通常由七个裂片组成，裂片细长狭窄，几乎分裂至叶基。 每个裂片呈细长披针形，叶缘具锯齿。 裂片长 8–9 厘米，彼此靠拢，因此叶片视觉上显得长于宽，尽管展开宽度可达 7 厘米。 叶片略下垂，使植株呈现出如带状般的效果。 该品种宽度资料原文残缺。 偶尔修剪即可很好地整形。 'Hessei' 是一个耐寒性良好的品种，枝条与主枝都较为粗壮。 其繁殖并不容易，因为嫁接后愈合较慢。 它还曾以 'Atropurpureum Lacinatum'、'Elegans Atropurpureum'、'Elegans Purpureum' 和 'Lacinatum Purpureum' 等名称流传，但这些名称均为非法名。"
   },
   "has_mrmaple": false
 }

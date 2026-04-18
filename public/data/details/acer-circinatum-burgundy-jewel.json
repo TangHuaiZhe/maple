@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "勃艮第珠宝春天的叶子带有明亮的橙色，配上红色的枝干，异常的漂亮。在充足的光照下，叶片会逐渐变成深红色，甚至会出现独特的黑紫色。夏季在遮阴的情况下，会轻微的返绿。秋天是橙红色的，成年树高大约为 3米。"
+    "preferred": "勃艮第珠宝春天的叶子带有明亮的橙色，配上红色的枝干，异常的漂亮。 在充足的光照下，叶片会逐渐变成深红色，甚至会出现独特的黑紫色。 夏季在遮阴的情况下，会轻微的返绿。 秋天是橙红色的，成年树高大约为 3米。"
   },
   "images": {
     "count": 7,
@@ -19,10 +19,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-circinatum-burgundy-jewel/01-Acer-circinatum-Burgundy-Jewel-Specimen-2368-1.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-circinatum-burgundy-jewel/01-Acer-circinatum-Burgundy-Jewel-Specimen-2368-1.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-circinatum-burgundy-jewel/01-Acer-circinatum-Burgundy-Jewel-Specimen-2368-1.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,7 +38,7 @@
       "top_group_name": "藤槭",
       "second_group_name": "勃艮第珠宝",
       "title": "勃艮第珠宝 Acer Circinatum 'Burgundy Jewel'",
-      "description": "勃艮第珠宝春天的叶子带有明亮的橙色，配上红色的枝干，异常的漂亮。在充足的光照下，叶片会逐渐变成深红色，甚至会出现独特的黑紫色。夏季在遮阴的情况下，会轻微的返绿。秋天是橙红色的，成年树高大约为 3米。",
+      "description": "勃艮第珠宝春天的叶子带有明亮的橙色，配上红色的枝干，异常的漂亮。 在充足的光照下，叶片会逐渐变成深红色，甚至会出现独特的黑紫色。 夏季在遮阴的情况下，会轻微的返绿。 秋天是橙红色的，成年树高大约为 3米。",
       "image_count": 7
     },
     {
@@ -41,6 +46,15 @@
       "rhs_id": 298473,
       "detail_url": "https://www.rhs.org.uk/plants/298473/acer-circinatum-burgundy-jewel/details",
       "botanical_name": "Acer circinatum 'Burgundy Jewel'",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer circinatum ‘Burgundy Jewel’ Specimen 2368",
+      "botanical_name": "Acer Circinatum 'Burgundy Jewel'",
+      "detail_url": "https://www.coniferkingdom.com/acer-circinatum-burgundy-jewel-specimen-2368/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -61,7 +75,7 @@
     "勃艮第珠宝 Acer Circinatum 'Burgundy Jewel'",
     "藤槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -119,7 +133,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "勃艮第珠宝春天的叶子带有明亮的橙色，配上红色的枝干，异常的漂亮。在充足的光照下，叶片会逐渐变成深红色，甚至会出现独特的黑紫色。夏季在遮阴的情况下，会轻微的返绿。秋天是橙红色的，成年树高大约为 3米。"
+    "preferred": "勃艮第珠宝春天的叶子带有明亮的橙色，配上红色的枝干，异常的漂亮。 在充足的光照下，叶片会逐渐变成深红色，甚至会出现独特的黑紫色。 夏季在遮阴的情况下，会轻微的返绿。 秋天是橙红色的，成年树高大约为 3米。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -133,7 +147,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感珊瑚斑枝枯病、黄萎病、槭树叶灼病和蜜环菌根腐病。"
     },
-    "description": "开展、丛生的落叶小乔木，高约 5 米；叶片近圆形，7 至 9 裂，春季呈紫红色，整个夏季色泽保持良好，秋季转为亮橙色和猩红红色。春季开具下垂伞形花序的酒红色与白色装饰性花朵。",
+    "description": "开展、丛生的落叶小乔木，高约 5 米；叶片近圆形，7 至 9 裂，春季呈紫红色，整个夏季色泽保持良好，秋季转为亮橙色和猩红红色。 春季开具下垂伞形花序的酒红色与白色装饰性花朵。",
     "attributes": {
       "suggested_uses": "城市/庭院花园、滨海花园、乡村/自然式花园"
     },
@@ -143,5 +157,47 @@
       "propagation": "可于冬末采用嫁接繁殖，或于初夏进行软枝扦插繁殖。"
     }
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-circinatum-burgundy-jewel-specimen-2368/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-circinatum-burgundy-jewel/01-Acer-circinatum-Burgundy-Jewel-Specimen-2368-1.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-circinatum-burgundy-jewel/01-Acer-circinatum-Burgundy-Jewel-Specimen-2368-1.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer circinatum ‘Burgundy Jewel’ Specimen 2368",
+        "product_url": "https://www.coniferkingdom.com/acer-circinatum-burgundy-jewel-specimen-2368/",
+        "botanical_name": "Acer Circinatum 'Burgundy Jewel'",
+        "common_name": "Burgundy Jewel",
+        "description_text": "Large burgundy leaves are more colorful in full sun. Fall colors are brilliant red to orange. Shop now!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer circinatum burgundy jewel",
+        "match_score": 267
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2024/06/Acer-circinatum-Burgundy-Jewel-Specimen-2368-1.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-circinatum-burgundy-jewel-specimen-2368/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-circinatum-burgundy-jewel/01-Acer-circinatum-Burgundy-Jewel-Specimen-2368-1.jpg",
+          "bytes": 660882,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:51.081Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-circinatum-burgundy-jewel/01-Acer-circinatum-Burgundy-Jewel-Specimen-2368-1.jpg"
+      ]
+    }
+  }
 }

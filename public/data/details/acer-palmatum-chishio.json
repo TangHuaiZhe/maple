@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This cultivar is one of a large group of maples which have brilliant crimson spring foliage. Appropriately, the name 'Chishio' means \"blood.\" During the summer it turnsanormalgreen.Then,inthefall,itdevelopsorangered tones of varying intensity, depending on the season. The fiveor seven-lobed leaves are of the palmatum type. They are 5-6 cm long and wide, and are divided twothirds of the way to the leaf base. Each lobe is rather narrow, ovate-lanceolate and with slightly toothed margins. The slender petiole is about 3 cm long. 'Chishio' is slow growing and does not exceed 4 m tall Archives, Corvallis a tinge of orange in the scarlet rather than being red scarlet. Since it is among the hardier cultivars, it is a desirable garden plant where a small tree is needed. It is reported that there was, in the ancient days in Japan, a cultivar called"
+    "preferred": "This cultivar is one of a large group of maples which have brilliant crimson spring foliage. Appropriately, the name 'Chishio' means \"blood. \" During the summer it turnsanormalgreen. Then,inthefall,itdevelopsorangered tones of varying intensity, depending on the season. The fiveor seven-lobed leaves are of the palmatum type. They are 5-6 cm long and wide, and are divided twothirds of the way to the leaf base. Each lobe is rather narrow, ovate-lanceolate and with slightly toothed margins. The slender petiole is about 3 cm long. 'Chishio' is slow growing and does not exceed 4 m tall Archives, Corvallis a tinge of orange in the scarlet rather than being red scarlet. Since it is among the hardier cultivars, it is a desirable garden plant where a small tree is needed. It is reported that there was, in the ancient days in Japan, a cultivar called"
   },
   "images": {
     "count": 0,
@@ -24,9 +24,18 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-chishio/01-acer-palmatum-chishio-535009.jpg",
+      "/jmac-images/acer-palmatum-chishio/02-acer-palmatum-chishio-995063.jpg",
+      "/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-chishio/01-acer-palmatum-chishio-535009.jpg",
+      "/jmac-images/acer-palmatum-chishio/02-acer-palmatum-chishio-995063.jpg",
+      "/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.jpg"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -51,6 +60,15 @@
       "group": "palmatum",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Chishio' Corallinum Japanese Maple",
+      "botanical_name": "Acer palmatum 'Chishio'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-chishio",
+      "image_count": 3,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -65,7 +83,7 @@
     "Chishio",
     "Japanese maple 'Chishio'"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -140,11 +158,82 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
     },
-    "description": "小型、生长缓慢的落叶乔木，最终高约 4 米，枝条细密。叶 5 裂，长宽均约 6 厘米，叶缘具锯齿；春季新叶呈鲜艳深红色，夏季转绿，秋季再发展为深浅不一的橙色和红色。春季开不显眼的红紫色花，之后可能结带翅的紫色果实。"
+    "description": "小型、生长缓慢的落叶乔木，最终高约 4 米，枝条细密。 叶 5 裂，长宽均约 6 厘米，叶缘具锯齿；春季新叶呈鲜艳深红色，夏季转绿，秋季再发展为深浅不一的橙色和红色。 春季开不显眼的红紫色花，之后可能结带翅的紫色果实。"
   },
   "descriptions_zh": {
-    "preferred": "该品种属于一大类春叶鲜亮深绯红的槭树。顾名思义，'Chishio' 的名称意为“血”。夏季叶色转为正常绿色。到了秋季，则会根据当年季节条件呈现出深浅不一的橙红色调。叶片为典型 palmatum 型，5 或 7 裂，长宽均为 5–6 厘米，分裂深度约达叶基的三分之二。每一裂片较狭，为卵状披针形，叶缘略具锯齿。细长叶柄长约 3 厘米。'Chishio' 生长缓慢，高度不超过 4 米。Archives, Corvallis。猩红色中常带一丝橙调，而非纯正鲜红。由于它属于较耐寒的品种之一，因此在需要小型乔木的庭园中很受欢迎。据称，日本古时曾有一个名为 'Yashio' 的品种，外观与 'Chishio' 十分相似。后者更新、色彩也更鲜艳，因此"
+    "preferred": "该品种属于一大类春叶鲜亮深绯红的槭树。 顾名思义，'Chishio' 的名称意为“血”。 夏季叶色转为正常绿色。 到了秋季，则会根据当年季节条件呈现出深浅不一的橙红色调。 叶片为典型 palmatum 型，5 或 7 裂，长宽均为 5–6 厘米，分裂深度约达叶基的三分之二。 每一裂片较狭，为卵状披针形，叶缘略具锯齿。 细长叶柄长约 3 厘米。 'Chishio' 生长缓慢，高度不超过 4 米。 Archives, Corvallis。 猩红色中常带一丝橙调，而非纯正鲜红。 由于它属于较耐寒的品种之一，因此在需要小型乔木的庭园中很受欢迎。 据称，日本古时曾有一个名为 'Yashio' 的品种，外观与 'Chishio' 十分相似。 后者更新、色彩也更鲜艳，因此"
   },
   "has_mrmaple": false,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-chishio",
+    "matched_product_count": 1,
+    "local_file_count": 3,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/01-acer-palmatum-chishio-535009.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/01-acer-palmatum-chishio-535009.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/02-acer-palmatum-chishio-995063.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Chishio' Corallinum Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-chishio",
+        "botanical_name": "Acer palmatum 'Chishio'",
+        "common_name": "Chishio",
+        "description_text": "Very nice small shrub type maple that will grow as wide as tall, 'Chishio' emerges in spring with red tips to the leaves before turning green for the summer. Leaves are very small. Fall color ranges from red and yellow to orange. 10 Year Size: Height: 3-4 Feet Width: 3-4 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Chishio",
+        "match_score": 367,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-chishio-535009.jpg?v=1658490521",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-chishio",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/01-acer-palmatum-chishio-535009.jpg",
+          "bytes": 45754,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:22:35.076Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-chishio-995063.jpg?v=1658490521",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-chishio",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/02-acer-palmatum-chishio-995063.jpg",
+          "bytes": 36796,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:22:35.672Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-chishio-383695.jpg?v=1658490521",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-chishio",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.jpg",
+          "bytes": 345610,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:38.051Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 3,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/01-acer-palmatum-chishio-535009.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/02-acer-palmatum-chishio-995063.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.jpg"
+      ]
+    }
+  }
 }

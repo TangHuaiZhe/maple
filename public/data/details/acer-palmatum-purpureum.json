@@ -16,7 +16,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "This old British cultivar has medium-sized leaves, which are a deep purple-red in the spring and early summer, becoming a bronze-green in late summer, then turning a bright scarlet in the fall. The leaves are moderately deeply divided into seven ovate lobes with pointed tips and evenly toothed margins. The small basal lobes are held at right angles to the leafstalks. 'Purpureum' is slow-growing and upright with a dense round-headed crown. It reaches 16 ft. (5 m) high and wide. The name Acer means \"purple.\" Gelderen. AUTUMN LACE"
+    "preferred": "This old British cultivar has medium-sized leaves, which are a deep purple-red in the spring and early summer, becoming a bronze-green in late summer, then turning a bright scarlet in the fall. The leaves are moderately deeply divided into seven ovate lobes with pointed tips and evenly toothed margins. The small basal lobes are held at right angles to the leafstalks. 'Purpureum' is slow-growing and upright with a dense round-headed crown. It reaches 16 ft. (5 m) high and wide. The name Acer means \"purple. \" Gelderen. AUTUMN LACE"
   },
   "images": {
     "count": 0,
@@ -25,6 +25,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -142,10 +143,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "生长缓慢的直立小乔木，高约 5 米。叶长宽约 7-8 厘米，通常分为约 7 个裂片；新叶深紫红色，色泽可较好保持至夏季，夏末转为铜绿色，秋季则变为鲜亮的猩红色。春季开不显眼的红紫色花，随后可能结带翅的紫色果实。"
+    "description": "生长缓慢的直立小乔木，高约 5 米。 叶长宽约 7-8 厘米，通常分为约 7 个裂片；新叶深紫红色，色泽可较好保持至夏季，夏末转为铜绿色，秋季则变为鲜亮的猩红色。 春季开不显眼的红紫色花，随后可能结带翅的紫色果实。"
   },
   "descriptions_zh": {
-    "preferred": "这个古老的英国栽培品种叶片中等大小，春季和初夏呈深紫红色，至夏末转为古铜绿色，秋季再变为鲜亮猩红色。叶片中度深裂为 7 个卵形裂片，裂片先端尖，叶缘具整齐锯齿。基部小裂片与叶柄大致成直角。'Purpureum' 生长缓慢，株形直立，树冠致密呈圆头状，高宽可达 16 英尺（5 米）。“Acer” 这一名称意为“紫色”。 'AUTUMN LACE'，Autumn Lace' Group—green，是一个非常出色的线裂型品种，以夏季鲜绿色叶片及枝梢端带红铜色的新叶著称。秋色尤为特别，会由橙色转为鲜艳的红色。大叶深裂为 7 个裂片，裂片本身再分裂成粗锯齿状小裂片。该品种形成宽阔的瀑布状圆 mound，高可达 10-13 英尺（3-4 米），冠幅 13-16 英尺（4-5 米）。"
+    "preferred": "这个古老的英国栽培品种叶片中等大小，春季和初夏呈深紫红色，至夏末转为古铜绿色，秋季再变为鲜亮猩红色。 叶片中度深裂为 7 个卵形裂片，裂片先端尖，叶缘具整齐锯齿。 基部小裂片与叶柄大致成直角。 'Purpureum' 生长缓慢，株形直立，树冠致密呈圆头状，高宽可达 16 英尺（5 米）。 “Acer” 这一名称意为“紫色”。 'AUTUMN LACE'，Autumn Lace' Group—green，是一个非常出色的线裂型品种，以夏季鲜绿色叶片及枝梢端带红铜色的新叶著称。 秋色尤为特别，会由橙色转为鲜艳的红色。 大叶深裂为 7 个裂片，裂片本身再分裂成粗锯齿状小裂片。 该品种形成宽阔的瀑布状圆 mound，高可达 10-13 英尺（3-4 米），冠幅 13-16 英尺（4-5 米）。"
   },
   "has_mrmaple": false,
   "mrmaple": null

@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -158,7 +159,7 @@
     "growing_conditions": {
       "hardiness": "H6（耐寒，可耐受极寒冬季）"
     },
-    "description": "落叶性、直立型日本枫，株高约 3–4 米，枝条细密。叶片细长，通常为 5 裂，色泽明亮而偏深绿，有时为 3 裂或 7 裂，叶长可达 9 厘米；春夏季能较好保持叶色，秋季转黄。适合做盆景培养。",
+    "description": "落叶性、直立型日本枫，株高约 3–4 米，枝条细密。 叶片细长，通常为 5 裂，色泽明亮而偏深绿，有时为 3 裂或 7 裂，叶长可达 9 厘米；春夏季能较好保持叶色，秋季转黄。 适合做盆景培养。",
     "attributes": {
       "suggested_uses": "城市庭院花园、乡村风或自然式花园、花境与花坛、庭院容器栽培",
       "hort_group_description": "此 linearilobum 组的槭树具有细长、带状的裂片，叶缘具浅锯齿。"
@@ -174,7 +175,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "叶片呈 Linearilobum Group 特有的细长狭带状外形。多为 5 裂，有时为 3 裂或 7 裂，长 6-9 厘米，宽可达 8 厘米。每个裂片呈带状，宽不超过 5-10 毫米。裂片常下垂，整体呈现下泻感。叶缘可为全缘，或略具细齿。幼年叶则为深裂 matsumurae 型，裂片较宽，呈卵形并具齿。叶柄长 2-4 厘米。叶色鲜明而较深的绿色，整个生长季持色性良好。随着秋季临近，State University Archives, Corvallis 也将其用于盆景栽培。其同物异名、别名、不同拼写及误拼很多，包括 'Fingerlobe'、'Lineare'、"
+    "preferred": "叶片呈 Linearilobum Group 特有的细长狭带状外形。 多为 5 裂，有时为 3 裂或 7 裂，长 6-9 厘米，宽可达 8 厘米。 每个裂片呈带状，宽不超过 5-10 毫米。 裂片常下垂，整体呈现下泻感。 叶缘可为全缘，或略具细齿。 幼年叶则为深裂 matsumurae 型，裂片较宽，呈卵形并具齿。 叶柄长 2-4 厘米。 叶色鲜明而较深的绿色，整个生长季持色性良好。 随着秋季临近，State University Archives, Corvallis 也将其用于盆景栽培。 其同物异名、别名、不同拼写及误拼很多，包括 'Fingerlobe'、'Lineare'、"
   },
   "has_mrmaple": false,
   "mrmaple": null

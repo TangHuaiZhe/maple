@@ -16,7 +16,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "The glory of this cultivar comes with a burst of color in the fall. It is a bright orange tinged with red. The season starts in the spring with the new leaves a yellowish green color, then turning a darker green as they finally develop. The leaves usually have (five or) seven deeply divided and Corvallis This stocky-growing, low tree tends to become as wide as it is tall. The branches are thick and sturdy. Old specimens reach heights of 3 m or more. 'Elegans' is a good, hardy, trouble-free plant and is useful when a short tree is desired for background planting. Other names under which this cultivar has been known are 'Heptalobum Elegans',"
+    "preferred": "The glory of this cultivar comes with a burst of color in the fall. It is a bright orange tinged with red. The season starts in the spring with the new leaves a yellowish green color, then turning a darker green as they finally develop. The leaves usually have (five or) seven deeply divided and Corvallis This stocky-growing, low tree tends to become as wide as it is tall. The branches are thick and sturdy. Old specimens reach heights of 3 m or more. Other names under which this cultivar has been known are 'Heptalobum Elegans',"
   },
   "images": {
     "count": 10,
@@ -30,6 +30,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-elegans/02-RHS_RHS-0002723_7032.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-elegans/01-RHS_WSYD0013334_7032.JPG",
@@ -48,7 +49,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "绿叶",
       "title": "雅丽格斯Acer Palmatum 'Elegans'",
-      "description": "Elegans 在春天是温和的绿色与鲑鱼粉色的碰撞，其 精致的掌状叶在夏季变成绿色，然后又在秋季呈现 出金黄色、橙色和红色之间的缤纷色彩。有 5-7 个 叶裂，叶裂深至基部，叶边缘有清晰的锯齿状，成 年树高约 3 米左右。",
+      "description": "Elegans 在春天是温和的绿色与鲑鱼粉色的碰撞，其 精致的掌状叶在夏季变成绿色，然后又在秋季呈现 出金黄色、橙色和红色之间的缤纷色彩。 有 5-7 个 叶裂，叶裂深至基部，叶边缘有清晰的锯齿状，成 年树高约 3 米左右。",
       "image_count": 10
     },
     {
@@ -235,7 +236,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一品种最出彩之处在于秋季迸发出的色彩，呈鲜亮的橙色并带红晕。春季开始时，新叶为黄绿色，随后逐渐转为较深的绿色。叶片通常为 5 裂或 7 裂，裂刻较深。这一株形敦实、低矮的小乔木，冠幅往往与株高相当。枝条粗壮坚实，老株高度可达 3 米或以上。'Elegans' 是一个优良、耐寒、少病害、管理省心的品种，适合用作背景种植中的低矮乔木。该品种还曾以 'Heptalobum Elegans'、'Pinnatum' 和 'Septemlobum Elegans' 等名称流通。"
+    "preferred": "这一品种最出彩之处在于秋季迸发出的色彩，呈鲜亮的橙色并带红晕。 春季开始时，新叶为黄绿色，随后逐渐转为较深的绿色。 叶片通常为 5 裂或 7 裂，裂刻较深。 这一株形敦实、低矮的小乔木，冠幅往往与株高相当。 枝条粗壮坚实，老株高度可达 3 米或以上。 'Elegans' 是一个优良、耐寒、少病害、管理省心的品种，适合用作背景种植中的低矮乔木。 该品种还曾以 'Heptalobum Elegans'、'Pinnatum' 和 'Septemlobum Elegans' 等名称流通。"
   },
   "rhs_zh": {
     "dimensions": {

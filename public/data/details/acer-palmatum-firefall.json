@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer palmatum dissectum 'Firefall' Weeping Red Japanese Maple Zones 5-9 'Firefall' is a weeping red laceleaf Japanese maple that is going to shock the world as a weeping red Japanese maple. 'Firefall' is a cherry red in the spring. Instead of maroon, 'Firefall' is a brighter red throughout late spring and early summer. 'Firefall' may turn to a maroon by mid-to-late summer. Fall color on 'Firefall' is on fire in the fall with a bright orange red. 'Firefall' may reach 4-5 ft in height by 5-6 ft in width in 10 years. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent."
+    "preferred": "Acer palmatum dissectum 'Firefall' Weeping Red Japanese Maple Zones 5-9 'Firefall' is a weeping red laceleaf Japanese maple that is going to shock the world as a weeping red Japanese maple. 'Firefall' is a cherry red in the spring. Instead of maroon, 'Firefall' is a brighter red throughout late spring and early summer. 'Firefall' may turn to a maroon by mid-to-late summer. Fall color on 'Firefall' is on fire in the fall with a bright orange red. 'Firefall' may reach 4-5 ft in height by 5-6 ft in width in 10 years."
   },
   "images": {
     "count": 0,
@@ -46,6 +46,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-firefall-weeping-red-japanese-maple/20-Acer_palmatum_Firefall_Weeping_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053359.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-firefall-weeping-red-japanese-maple/01-Acer_palmatum_Firefall_Weeping_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053349.jpg",
@@ -110,7 +111,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer palmatum dissectum 'Firefall' 垂枝红叶日本枫，适生分区 5-9。'Firefall' 是一个垂枝型红叶羽裂日本枫，作为垂枝红叶品种，它的表现十分惊艳。'Firefall' 春季叶色为樱桃红。不同于偏栗红色的类型，'Firefall' 在晚春至初夏期间一直保持更为明亮的红色。到夏季中后期，它可能会转为栗红色。秋季叶色如火般鲜明，呈亮橙红色。'Firefall' 在 10 年内可长至约 4-5 英尺高、5-6 英尺宽。带有 MrMaple 标志的照片归 MrMaple.com 所有，未经明确书面许可不得使用。数量有限！！由于我们拥有上千个日本枫品种，每个品种通常库存不多。我们建议您尽快购买心仪的日本枫，因为某些品种常常很快售罄。"
+    "preferred": "Acer palmatum dissectum 'Firefall' 垂枝红叶日本枫，适生分区 5-9。 'Firefall' 是一个垂枝型红叶羽裂日本枫，作为垂枝红叶品种，它的表现十分惊艳。 'Firefall' 春季叶色为樱桃红。 不同于偏栗红色的类型，'Firefall' 在晚春至初夏期间一直保持更为明亮的红色。 到夏季中后期，它可能会转为栗红色。 秋季叶色如火般鲜明，呈亮橙红色。 'Firefall' 在 10 年内可长至约 4-5 英尺高、5-6 英尺宽。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -194,7 +195,7 @@
           "VDAYSALE26",
           "weeklywhammy"
         ],
-        "description_text": "Acer palmatum dissectum 'Firefall' Weeping Red Japanese Maple Zones 5-9 'Firefall' is a weeping red laceleaf Japanese maple that is going to shock the world as a weeping red Japanese maple. 'Firefall' is a cherry red in the spring. Instead of maroon, 'Firefall' is a brighter red throughout late spring and early summer. 'Firefall' may turn to a maroon by mid-to-late summer. Fall color on 'Firefall' is on fire in the fall with a bright orange red. 'Firefall' may reach 4-5 ft in height by 5-6 ft in width in 10 years. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent.",
+        "description_text": "Acer palmatum dissectum 'Firefall' Weeping Red Japanese Maple Zones 5-9 'Firefall' is a weeping red laceleaf Japanese maple that is going to shock the world as a weeping red Japanese maple. 'Firefall' is a cherry red in the spring. Instead of maroon, 'Firefall' is a brighter red throughout late spring and early summer. 'Firefall' may turn to a maroon by mid-to-late summer. Fall color on 'Firefall' is on fire in the fall with a bright orange red. 'Firefall' may reach 4-5 ft in height by 5-6 ft in width in 10 years.",
         "published_at": "2026-02-19T10:00:02-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

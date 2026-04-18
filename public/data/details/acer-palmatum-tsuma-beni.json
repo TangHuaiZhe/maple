@@ -19,10 +19,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-tsuma-beni/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-tsuma-beni/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-tsuma-beni/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,7 +38,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "爪斑",
       "title": "爪红—Acer palmatum 'Tsuma beni'",
-      "description": "爪红最早的记录出现在 1882 年。在春天绿色的叶边缘 和叶尖会有明亮的紫红色，这种色彩可以一直持续到初 夏，在夏天叶子会转绿，秋天的色彩会有非常明亮的红 色。成年树高约 2.5 米。",
+      "description": "爪红最早的记录出现在 1882 年。 在春天绿色的叶边缘 和叶尖会有明亮的紫红色，这种色彩可以一直持续到初 夏，在夏天叶子会转绿，秋天的色彩会有非常明亮的红 色。 成年树高约 2. 5 米。",
       "image_count": 4
     },
     {
@@ -49,6 +54,15 @@
       "rhs_id": 73425,
       "detail_url": "https://www.rhs.org.uk/plants/73425/acer-palmatum-tsuma-gaki-(a)/details",
       "botanical_name": "Acer palmatum 'Tsuma-gaki' (A)",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Tsuma gaki’ Specimen 1127",
+      "botanical_name": "Acer palmatum 'Tsuma beni'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-tsuma-gaki-specimen-1127/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -76,7 +90,7 @@
     "爪红—Acer palmatum 'Tsuma beni'",
     "鸡爪槭"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -137,7 +151,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "叶片展开时常略向下垂，使整株外观更显柔和。春季叶色为柔和的黄绿色。裂片尖端带有柿红至浅紫红的混合色调。夏季转为深绿色，秋季则呈深红色。中等大小的叶片具五个卵形裂片，渐尖成细长尖端，自叶基向上约一半处分裂。叶缘均匀、轻微具齿。该枫树形成圆整株形，高和冠幅均可达 10 英尺（3 米）。"
+    "preferred": "叶片展开时常略向下垂，使整株外观更显柔和。 春季叶色为柔和的黄绿色。 裂片尖端带有柿红至浅紫红的混合色调。 夏季转为深绿色，秋季则呈深红色。 中等大小的叶片具五个卵形裂片，渐尖成细长尖端，自叶基向上约一半处分裂。 叶缘均匀、轻微具齿。 该枫树形成圆整株形，高和冠幅均可达 10 英尺（3 米）。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -151,7 +165,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "生长缓慢，株形紧凑圆整，可形成灌木或小乔木。掌状叶具 5-7 个椭圆形裂片，春季展叶时为黄绿色，裂片尖端带红紫色，夏季转为较深的绿色，秋季变红。",
+    "description": "生长缓慢，株形紧凑圆整，可形成灌木或小乔木。 掌状叶具 5-7 个椭圆形裂片，春季展叶时为黄绿色，裂片尖端带红紫色，夏季转为较深的绿色，秋季变红。",
     "attributes": {
       "suggested_uses": "城市/庭院花园、乡村/自然式花园、花境与花坛、低维护、露台/容器植物、结构型植物",
       "hort_group_description": "此 amoenum 类群中的 Acer 品种具有大型掌状叶，叶缘具细锯齿。"
@@ -162,5 +176,47 @@
       "propagation": "可采用嫁接、嫩枝扦插或压条繁殖"
     }
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-tsuma-gaki-specimen-1127/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tsuma-beni/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tsuma-beni/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Tsuma gaki’ Specimen 1127",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-tsuma-gaki-specimen-1127/",
+        "botanical_name": "Acer palmatum 'Tsuma beni'",
+        "common_name": "Tsuma beni",
+        "description_text": "Yellow-green leaves emerge cupped with burgundy-orange tips. It looks as if the entire tree is unfolding soft flowers (the leaves) - others have described it as flocking birds.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "tsuma gaki",
+        "match_score": 249
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/02/Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-tsuma-gaki-specimen-1127/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tsuma-beni/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg",
+          "bytes": 542057,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:27:01.123Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tsuma-beni/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg"
+      ]
+    }
+  }
 }

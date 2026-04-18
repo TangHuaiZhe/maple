@@ -24,9 +24,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-tsukuba-ne/01-acer-palmatum-tsukubane-275373.jpg",
+      "/jmac-images/acer-palmatum-tsukuba-ne/02-acer-palmatum-tsukubane-420663.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-tsukuba-ne/02-acer-palmatum-tsukubane-420663.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-tsukuba-ne/01-acer-palmatum-tsukubane-275373.jpg",
+      "/jmac-images/acer-palmatum-tsukuba-ne/02-acer-palmatum-tsukubane-420663.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -51,6 +58,15 @@
       "group": "palmatum",
       "color_group": "red",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Tsukubane' Green Japanese Maple",
+      "botanical_name": "Acer palmatum 'Tsukuba ne'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tsukubane",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -69,7 +85,7 @@
     "Tsukuba ne",
     "Tsukubane"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -96,9 +112,66 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "该品种的红叶具 7 枚裂片，裂深达叶基的三分之二以上。裂片在中部靠拢，末端则向外放射展开。叶片长 4-8 厘米，宽 5-9 厘米；新梢生长旺盛时可形成更大的叶片。叶质较薄，近半透明，叶基多为截形。裂片宽卵形，渐尖成细长尖端。叶缘具规则而细致的锯齿。叶柄长 3-4 厘米。春季新叶为浅红色，每枚裂片中央带绿色调；随后很快转为更深的砖红色，成熟后呈深绿带红。绿色主脉非常显眼。至夏末，叶片转为浓绿色，并略带深红色晕。秋色为鲜艳的橙红至深红色。Corvallis"
+    "preferred": "该品种的红叶具 7 枚裂片，裂深达叶基的三分之二以上。 裂片在中部靠拢，末端则向外放射展开。 叶片长 4-8 厘米，宽 5-9 厘米；新梢生长旺盛时可形成更大的叶片。 叶质较薄，近半透明，叶基多为截形。 裂片宽卵形，渐尖成细长尖端。 叶缘具规则而细致的锯齿。 叶柄长 3-4 厘米。 春季新叶为浅红色，每枚裂片中央带绿色调；随后很快转为更深的砖红色，成熟后呈深绿带红。 绿色主脉非常显眼。 至夏末，叶片转为浓绿色，并略带深红色晕。 秋色为鲜艳的橙红至深红色。 Corvallis"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tsukubane",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsukuba-ne/01-acer-palmatum-tsukubane-275373.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsukuba-ne/01-acer-palmatum-tsukubane-275373.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsukuba-ne/02-acer-palmatum-tsukubane-420663.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Tsukubane' Green Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tsukubane",
+        "botanical_name": "Acer palmatum 'Tsukuba ne'",
+        "common_name": "Tsukuba ne",
+        "description_text": "In early spring leaves emerge red with green center in sunny locations. In more shade the leaves are green with red tint on the lobes. Either way they are totally green in a matter of days. However, the reason to grow this tree is for the wonderful bright red fall color. 'Tsukubane' is fast growing and becomes a large round topped specimen with age. Older trees regularly achieve heights of more than 25 feet. The Japanese name means ridge on Mount Tsukuba. 10 Year Size: Height: 12-15 Feet Width: 8-10 feet Our 1 Gallon and 3 Gallon sizes are available for shipping and in store pickup. Our larger sizes (7 Gallon and bigger) are only available for in store pickup.",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Tsukuba ne",
+        "match_score": 369,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-tsukubane-275373.jpg?v=1658490958",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tsukubane",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsukuba-ne/01-acer-palmatum-tsukubane-275373.jpg",
+          "bytes": 40175,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:25:09.224Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-tsukubane-420663.jpg?v=1658490958",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tsukubane",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsukuba-ne/02-acer-palmatum-tsukubane-420663.jpg",
+          "bytes": 87771,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:25:10.222Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsukuba-ne/01-acer-palmatum-tsukubane-275373.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsukuba-ne/02-acer-palmatum-tsukubane-420663.jpg"
+      ]
+    }
+  }
 }

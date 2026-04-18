@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-matsugae/01-acer-palmatum-matsugae-511002.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-matsugae/01-acer-palmatum-matsugae-511002.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-matsugae/01-acer-palmatum-matsugae-511002.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -50,6 +55,15 @@
       "page_range": "171",
       "group": "palmatum",
       "color_group": "variegated",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Matsugae' Variegated Japanese Maple",
+      "botanical_name": "Acer palmatum 'Matsugae'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-matsugae",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -75,7 +89,7 @@
     "Matsu-ga-e",
     "Matsugae"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -107,9 +121,52 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "这一斑叶类型是较早的老品种之一，也是非常令人满意的园林景观植物。叶片底色为深绿，近乎蓝绿色。斑锦有数种类型，包括 fukurin fu（沿裂片边缘）、fukurin kuzure（不规则斑锦）或 hoso fukurin（窄边斑）。斑纹为白色或乳白色，但春季会覆上或混入深玫红色。到夏末，这些颜色会略有减弱，但秋季会使所有斑锦部位的深玫红色更加鲜明。叶片极不规则，几乎每一片都略有不同。基本为五裂，叶长 3-4 厘米，横向展开约 4 厘米。狭长裂片分裂约达叶基的四分之三处，在通往先端的中部略宽，末端收为纤细尖端。每个裂片最宽处为 5-10 毫米。裂片有时呈镰刀形，尤其在斑锦较重时更明显。偶尔单个裂片会较宽，近长卵形。叶缘深裂且不均匀，具缺刻、锯齿，或两者兼有。'Matsugae' 的色彩更为浓郁。其株形比"
+    "preferred": "这一斑叶类型是较早的老品种之一，也是非常令人满意的园林景观植物。 叶片底色为深绿，近乎蓝绿色。 斑锦有数种类型，包括 fukurin fu（沿裂片边缘）、fukurin kuzure（不规则斑锦）或 hoso fukurin（窄边斑）。 斑纹为白色或乳白色，但春季会覆上或混入深玫红色。 到夏末，这些颜色会略有减弱，但秋季会使所有斑锦部位的深玫红色更加鲜明。 叶片极不规则，几乎每一片都略有不同。 基本为五裂，叶长 3-4 厘米，横向展开约 4 厘米。 狭长裂片分裂约达叶基的四分之三处，在通往先端的中部略宽，末端收为纤细尖端。 每个裂片最宽处为 5-10 毫米。 裂片有时呈镰刀形，尤其在斑锦较重时更明显。 偶尔单个裂片会较宽，近长卵形。 叶缘深裂且不均匀，具缺刻、锯齿，或两者兼有。 'Matsugae' 的色彩更为浓郁。 其株形比"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-matsugae",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-matsugae/01-acer-palmatum-matsugae-511002.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-matsugae/01-acer-palmatum-matsugae-511002.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Matsugae' Variegated Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-matsugae",
+        "botanical_name": "Acer palmatum 'Matsugae'",
+        "common_name": "Matsugae",
+        "description_text": "We find 'Matsugae' to be a very dependable variegated cultivar in the southeast. In spring it opens with cream and rose markings along its irregular shaped medium green leaves. In summer the rose color fades away and the cream turns pure white leaving beautifully contrasting variegation all summer long. Red petioles also add to the overall appearance of 'Matsugae'. This is a very old cultivar with a name that means 'the pine branch' which is hard to understand for a variegated cultivar. This plant is similar to 'Kagiri nishiki' but is faster growing and has better variegation. Fall color is usually orange. 10 year size: Height: 8-10 Feet Width: 10-12 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Matsugae",
+        "match_score": 368,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-matsugae-511002.jpg?v=1658491083",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-matsugae",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-matsugae/01-acer-palmatum-matsugae-511002.jpg",
+          "bytes": 45239,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:24:09.808Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-matsugae/01-acer-palmatum-matsugae-511002.jpg"
+      ]
+    }
+  }
 }

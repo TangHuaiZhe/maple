@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -109,7 +110,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是一株生长健旺、枝叶致密的灌木状小乔木，高可达 20 英尺（6 米）。叶片较小，裂片短而先端钝尖。春叶为清晰的粉红红色，主脉黄绿色；夏季转为全绿，秋季则完全变红。"
+    "preferred": "这是一株生长健旺、枝叶致密的灌木状小乔木，高可达 20 英尺（6 米）。 叶片较小，裂片短而先端钝尖。 春叶为清晰的粉红红色，主脉黄绿色；夏季转为全绿，秋季则完全变红。"
   },
   "has_mrmaple": false
 }

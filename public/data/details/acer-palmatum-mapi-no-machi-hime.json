@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This desirable green dwarf is very like the popular 'Kiyohime' with similar growth habit, leaves, and coloring. It is considered by some references to be synonymous with 'Little Princess', a dwarf introduction attributed to the late Jim Russell at Castle Howard in Northumberland, England. The small palmatum-type leaves are a lovely light yellow green edged with pink orange when they first appear in the spring, becoming light to medium green with a darker bronze-red edging which sometimes persists through the summer. The color changes to orange red in the fall. The five-lobed leaves are 3.5-4 cm long and 4-4.5 cm wide. They are divided to about three-quarters of the way to the leaf base, with the lobes spread out like a star. Each lobe is ovate with a tail-like tip and with clearly double-serrated margins. The short, slender pink-red petioles are 1-1.5 cm long. This plant forms a small, round densely branched shrub, estimated to reach about 2 m tall and wide when fully grown. It is becoming popular in Europe and is readily available in the trade. Unfortunately, it has not yet been possible to trace its origins, or the true relationships, if any, between"
+    "preferred": "This desirable green dwarf is very like the popular 'Kiyohime' with similar growth habit, leaves, and coloring. It is considered by some references to be synonymous with 'Little Princess', a dwarf introduction attributed to the late Jim Russell at Castle Howard in Northumberland, England. The small palmatum-type leaves are a lovely light yellow green edged with pink orange when they first appear in the spring, becoming light to medium green with a darker bronze-red edging which sometimes persists through the summer. The color changes to orange red in the fall. The five-lobed leaves are 3. 5-4 cm long and 4-4. 5 cm wide. They are divided to about three-quarters of the way to the leaf base, with the lobes spread out like a star. Each lobe is ovate with a tail-like tip and with clearly double-serrated margins. The short, slender pink-red petioles are 1-1. 5 cm long. This plant forms a small, round densely branched shrub, estimated to reach about 2 m tall and wide when fully grown. It is becoming popular in Europe and is readily available in the trade. Unfortunately, it has not yet been possible to trace its origins, or the true relationships, if any, between"
   },
   "images": {
     "count": 0,
@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -83,7 +84,7 @@
     "cultivar_names": [
       "Mapi-no-machi-hime"
     ],
-    "description": "A small, dense, compact, shrub-like tree to about 1.2m in height and spread. The leaves are light green, edged with red when young, turning orange and red in autumn",
+    "description": "A small, dense, compact, shrub-like tree to about 1. 2m in height and spread. The leaves are light green, edged with red when young, turning orange and red in autumn",
     "dimensions": {
       "height": "1-1.5 metres",
       "spread": "1-1.5 metres",
@@ -142,10 +143,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "小型、致密、紧凑、近灌木状的小乔木，高和冠幅约 1.2 米。叶片浅绿色，幼叶边缘带红色，秋季转为橙色和红色。"
+    "description": "小型、致密、紧凑、近灌木状的小乔木，高和冠幅约 1. 2 米。 叶片浅绿色，幼叶边缘带红色，秋季转为橙色和红色。"
   },
   "descriptions_zh": {
-    "preferred": "这一优良的绿色矮生品种与常见的 'Kiyohime' 十分相似，生长习性、叶形及叶色都接近。部分资料认为它与 'Little Princess' 为同物异名；后者是一种矮生品种，据称由英国诺森伯兰郡 Castle Howard 的已故 Jim Russell 引入。其小型 palmatum 型叶片在春季初展时呈优美的浅黄绿色，边缘带粉橙色，随后转为浅至中绿色，并具较深的古铜红色镶边，这种边色有时可持续整个夏季。秋季叶色转为橙红色。叶片 5 裂，长 3.5 至 4 厘米，宽 4 至 4.5 厘米，分裂深达叶基约四分之三，裂片呈星状展开。每个裂片为卵形，先端有尾状延伸，叶缘具清晰的重锯齿。粉红红色叶柄短而纤细，长 1 至 1.5 厘米。植株形成小型、圆整、分枝密集的灌木，估计完全成熟后高和冠幅均约 2 米。该品种在欧洲日益流行，苗木市场上也较易购得。遗憾的是，目前仍无法追溯其确切起源，也无法厘清"
+    "preferred": "这一优良的绿色矮生品种与常见的 'Kiyohime' 十分相似，生长习性、叶形及叶色都接近。 部分资料认为它与 'Little Princess' 为同物异名；后者是一种矮生品种，据称由英国诺森伯兰郡 Castle Howard 的已故 Jim Russell 引入。 其小型 palmatum 型叶片在春季初展时呈优美的浅黄绿色，边缘带粉橙色，随后转为浅至中绿色，并具较深的古铜红色镶边，这种边色有时可持续整个夏季。 秋季叶色转为橙红色。 叶片 5 裂，长 3. 5 至 4 厘米，宽 4 至 4. 5 厘米，分裂深达叶基约四分之三，裂片呈星状展开。 每个裂片为卵形，先端有尾状延伸，叶缘具清晰的重锯齿。 粉红红色叶柄短而纤细，长 1 至 1. 5 厘米。 植株形成小型、圆整、分枝密集的灌木，估计完全成熟后高和冠幅均约 2 米。 该品种在欧洲日益流行，苗木市场上也较易购得。 遗憾的是，目前仍无法追溯其确切起源，也无法厘清"
   },
   "has_mrmaple": false,
   "mrmaple": null

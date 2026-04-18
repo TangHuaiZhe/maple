@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -100,7 +101,7 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "该品种于 1970 年自日本引入荷兰，数年后又由 Maplewood Nursery 从荷兰引入美国，最初名称为 'Atropurpureum Superbum'。由于拉丁文与英文混用，根据国际命名规则属于不合法名称，因此后改名为 'Attraction'。该品种为实生选育品种。其叶色比一般实生苗更深，且持色性更好。叶片通常 7 裂，偶有 5 裂，裂片可分离至距叶基约 2 厘米处。裂片为长卵形，外端渐尖成锐尖。叶缘内侧约三分之一较平滑，外侧约三分之二则具尖锐且整齐的锯齿。叶片长 6 至 9 厘米，宽可达 11 厘米。叶柄坚挺，为红色，长 4-5 厘米。叶色为深紫红或栗红色，新叶时期色泽最鲜明，入夏后颜色更深。其叶色虽不及"
+    "preferred": "该品种于 1970 年自日本引入荷兰，数年后又由 Maplewood Nursery 从荷兰引入美国，最初名称为 'Atropurpureum Superbum'。 由于拉丁文与英文混用，根据国际命名规则属于不合法名称，因此后改名为 'Attraction'。 该品种为实生选育品种。 其叶色比一般实生苗更深，且持色性更好。 叶片通常 7 裂，偶有 5 裂，裂片可分离至距叶基约 2 厘米处。 裂片为长卵形，外端渐尖成锐尖。 叶缘内侧约三分之一较平滑，外侧约三分之二则具尖锐且整齐的锯齿。 叶片长 6 至 9 厘米，宽可达 11 厘米。 叶柄坚挺，为红色，长 4-5 厘米。 叶色为深紫红或栗红色，新叶时期色泽最鲜明，入夏后颜色更深。 其叶色虽不及"
   },
   "has_mrmaple": false,
   "rhs_zh": null,

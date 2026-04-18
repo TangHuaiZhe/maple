@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "'Brocade' is another of the very fine red dissectums and is similar to 'Ornatum'. The differences in many of the to a green red and bronze later in the summer. It is a pleasant bronzing, not as harsh as some other cultivars. Fall coloration is usually bright red to crimson blended softly with orange. The multidissected sevenor ninelobed leaves are of medium size, 6-10 cm long and at least as wide. This form cascades and eventually makes a large rounded bush 3 m high and 3.5 m wide."
+    "preferred": "'Brocade' is another of the very fine red dissectums and is similar to 'Ornatum'. The differences in many of the to a green red and bronze later in the summer. It is a pleasant bronzing, not as harsh as some other cultivars. Fall coloration is usually bright red to crimson blended softly with orange. The multidissected sevenor ninelobed leaves are of medium size, 6-10 cm long and at least as wide. This form cascades and eventually makes a large rounded bush 3 m high and 3. 5 m wide."
   },
   "images": {
     "count": 0,
@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/45044/acer-palmatum-brocade-(d)/details",
       "botanical_name": "Acer palmatum 'Brocade' (D)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Brocade' Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Brocade'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-brocade-dwarf-japanese-maple-pre-order",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -56,7 +70,7 @@
     "Acer palmatum 'Brocade' (D)",
     "Brocade"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -114,7 +128,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "'Brocade' 是另一种非常优秀的红叶羽毛枫类型，与 'Ornatum' 相似。两者在许多方面的差异较为细微；其叶色到夏季后期会逐渐转为带绿色调的红铜色。这种铜化色泽柔和悦目，不像某些其他品种那样生硬。秋色通常为鲜红至深绯红，并柔和混有橙色。叶片深裂多次，通常具 7 或 9 裂，中等大小，长 6-10 厘米，宽度至少相当。该品种枝姿下垂开展，最终形成大型圆拱形灌木，高约 3 米，宽约 3.5 米。"
+    "preferred": "'Brocade' 是另一种非常优秀的红叶羽毛枫类型，与 'Ornatum' 相似。 两者在许多方面的差异较为细微；其叶色到夏季后期会逐渐转为带绿色调的红铜色。 这种铜化色泽柔和悦目，不像某些其他品种那样生硬。 秋色通常为鲜红至深绯红，并柔和混有橙色。 叶片深裂多次，通常具 7 或 9 裂，中等大小，长 6-10 厘米，宽度至少相当。 该品种枝姿下垂开展，最终形成大型圆拱形灌木，高约 3 米，宽约 3. 5 米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-brocade-dwarf-japanese-maple-pre-order",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Brocade' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-brocade-dwarf-japanese-maple-pre-order",
+        "botanical_name": "Acer palmatum 'Brocade'",
+        "common_name": "Brocade",
+        "description_text": "Acer palmatum ‘Brocade’ is an exceptional laceleaf Japanese maple, prized for its dramatic weeping habit and ever-changing foliage color. In spring, new growth emerges a brilliant orange-red, gradually deepening to rich dark red before softening into red-green tones for summer. Fresh flushes of orange-red new growth continue to appear through the season, adding layers of color and texture. In autumn, ‘Brocade’ truly lives up to its name, turning glowing shades of bright orange infused with red—often showing even stronger orange fall color than the popular ‘Orangeola,’ though ‘Brocade’ was introduced earlier. One of the defining characteristics of ‘Brocade’ is its intensely cascading habit. This is one of the most strongly weeping laceleaf varieties available—so much so that, left unstaked, it will creep and flow across the ground, forming a low, spreading mound. Over ten years it typically reaches 1–1.5 feet tall and about 6 feet wide, creating a beautiful carpet of fine, lacy foliage. For a more architectural look, stake ‘Brocade’ to 3–4 feet and allow the branches to cascade downward in dramatic layers. This variety combines spectacular color with a uniquely strong weeping form, making it a standout focal point in rock gardens, near water features, or in the foreground of mixed plantings.",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Brocade",
+        "match_score": 367,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg?v=1721476096",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-brocade-dwarf-japanese-maple-pre-order",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg",
+          "bytes": 273080,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:24.504Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg"
+      ]
+    }
+  }
 }

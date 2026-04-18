@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer shirasawanum 'Purple Umbrella' 紫伞 紫伞是Crispin Silva发现并引进的叶形较大的白泽槭品种，新长出来的叶子大且呈伞状，叶子有对称的、宽阔的拱形裂片。春天叶子呈深紫色、紫红色，后续紫色慢慢蜕变成古铜色，但是叶边缘为紫色，色彩非常迷幻，秋天的颜色通常是鲜红色到深色。成年高度大约在2.5-3m左右。"
+    "preferred": "Acer shirasawanum 'Purple Umbrella' 紫伞 紫伞是Crispin Silva发现并引进的叶形较大的白泽槭品种，新长出来的叶子大且呈伞状，叶子有对称的、宽阔的拱形裂片。 春天叶子呈深紫色、紫红色，后续紫色慢慢蜕变成古铜色，但是叶边缘为紫色，色彩非常迷幻，秋天的颜色通常是鲜红色到深色。 成年高度大约在2. 5-3m左右。"
   },
   "images": {
     "count": 9,
@@ -58,6 +58,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-shirasawanum-purple-umbrella-japanese-maple/04-Acer_shirasawanum_Purple_Umbrella_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074613.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-shirasawanum-purple-umbrella-japanese-maple/01-Acer_shirasawanum_Purple_Umbrella_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074602.jpg",
@@ -109,7 +110,7 @@
       "top_group_name": "羽扇槭",
       "second_group_name": "白泽槭",
       "title": "紫伞—Acer palmatum 'Purple Umbrella'",
-      "description": "Acer shirasawanum 'Purple Umbrella' 紫伞 紫伞是Crispin Silva发现并引进的叶形较大的白泽槭品种，新长出来的叶子大且呈伞状，叶子有对称的、宽阔的拱形裂片。春天叶子呈深紫色、紫红色，后续紫色慢慢蜕变成古铜色，但是叶边缘为紫色，色彩非常迷幻，秋天的颜色通常是鲜红色到深色。成年高度大约在2.5-3m左右。",
+      "description": "Acer shirasawanum 'Purple Umbrella' 紫伞 紫伞是Crispin Silva发现并引进的叶形较大的白泽槭品种，新长出来的叶子大且呈伞状，叶子有对称的、宽阔的拱形裂片。 春天叶子呈深紫色、紫红色，后续紫色慢慢蜕变成古铜色，但是叶边缘为紫色，色彩非常迷幻，秋天的颜色通常是鲜红色到深色。 成年高度大约在2. 5-3m左右。",
       "image_count": 9
     },
     {
@@ -146,7 +147,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer shirasawanum 'Purple Umbrella' 紫伞 紫伞是Crispin Silva发现并引进的叶形较大的白泽槭品种，新长出来的叶子大且呈伞状，叶子有对称的、宽阔的拱形裂片。春天叶子呈深紫色、紫红色，后续紫色慢慢蜕变成古铜色，但是叶边缘为紫色，色彩非常迷幻，秋天的颜色通常是鲜红色到深色。成年高度大约在2.5-3m左右。"
+    "preferred": "Acer shirasawanum 'Purple Umbrella' 紫伞 紫伞是Crispin Silva发现并引进的叶形较大的白泽槭品种，新长出来的叶子大且呈伞状，叶子有对称的、宽阔的拱形裂片。 春天叶子呈深紫色、紫红色，后续紫色慢慢蜕变成古铜色，但是叶边缘为紫色，色彩非常迷幻，秋天的颜色通常是鲜红色到深色。 成年高度大约在2. 5-3m左右。"
   },
   "has_mrmaple": true,
   "mrmaple": {

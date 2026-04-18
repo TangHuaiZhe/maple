@@ -11,6 +11,7 @@ const sourceMrMapleImages = path.join(sourceRoot, "Resource/园艺/raw/mrmaple-i
 const sourceHerterImages = path.join(sourceRoot, "Resource/园艺/raw/herter-images");
 const sourceNcsuImages = path.join(sourceRoot, "Resource/园艺/raw/ncsu-images");
 const sourceConiferImages = path.join(sourceRoot, "Resource/园艺/raw/coniferkingdom-images");
+const sourceJmacImages = path.join(sourceRoot, "Resource/园艺/raw/jmac-images");
 const targetJson = path.join(appRoot, "public/data/merged-cultivars.json");
 const targetCatalogJson = path.join(appRoot, "public/data/catalog.json");
 const targetMetaJson = path.join(appRoot, "public/data/meta.json");
@@ -21,6 +22,7 @@ const targetMrMapleImages = path.join(appRoot, "public/mrmaple-images");
 const targetHerterImages = path.join(appRoot, "public/herter-images");
 const targetNcsuImages = path.join(appRoot, "public/ncsu-images");
 const targetConiferImages = path.join(appRoot, "public/coniferkingdom-images");
+const targetJmacImages = path.join(appRoot, "public/jmac-images");
 const RHS_AWARD_SELECTIONS = [
   { id: "acer-palmatum-bloodgood", displayName: "Bloodgood", chineseName: "血红", awardGroup: "山红叶" },
   { id: "acer-palmatum-osakazuk", displayName: "Osakazuki", chineseName: "大盃", awardGroup: "山红叶" },
@@ -84,6 +86,10 @@ function toNcsuPublicImagePath(imagePath) {
 
 function toConiferPublicImagePath(imagePath) {
   return toPublicImagePath(imagePath, "Resource/园艺/raw/coniferkingdom-images/", "/coniferkingdom-images");
+}
+
+function toJmacPublicImagePath(imagePath) {
+  return toPublicImagePath(imagePath, "Resource/园艺/raw/jmac-images/", "/jmac-images");
 }
 
 function uniquePaths(paths) {
@@ -157,6 +163,49 @@ function getKnownCultivarTokens(record) {
   );
 }
 
+function removePromotionalSentences(text) {
+  const sentencePattern = /[^.!?。！？]+[.!?。！？]?/g;
+  const promotionalSentencePatterns = [
+    /\bfocal point\b/i,
+    /\bbackground planting\b/i,
+    /\bperfect .* any garden\b/i,
+    /\bexcellent addition .* garden\b/i,
+    /\bgreat addition .* garden\b/i,
+    /\bexcellent choice\b/i,
+    /\bshop now\b/i,
+    /\bdon['’]t miss\b/i,
+    /\bbetter act fast\b/i,
+    /\bfor maple fanatics and casual gardeners alike\b/i,
+    /\bfavorite(?:s)? to photograph\b/i,
+    /\bsure to add\b/i,
+    /\bbecome one of (?:our )?favorite/i,
+    /\bbring the timeless beauty\b/i,
+    /\bfor your garden today\b/i,
+    /\badds? a touch of elegance\b/i,
+    /\bstriking visual impact\b/i,
+    /\bexcellent addition .* collection\b/i,
+    /花园中的视觉焦点/,
+    /庭园中的视觉焦点/,
+    /园林中的视觉焦点/,
+    /视觉焦点/,
+    /作为(?:庭园|花园)焦点/,
+    /任何庭园中的优秀补充/,
+    /优秀补充/,
+    /不要错过/,
+    /请尽快下单/,
+    /适合作为庭园观赏植物/,
+  ];
+
+  const sentences = String(text || "").match(sentencePattern) || [String(text || "")];
+  const filtered = sentences.filter((sentence) => {
+    const trimmed = sentence.trim();
+    if (!trimmed) return false;
+    return !promotionalSentencePatterns.some((pattern) => pattern.test(trimmed));
+  });
+
+  return filtered.join(" ").replace(/\s+/g, " ").trim();
+}
+
 function cleanDescriptionText(text, record) {
   if (!hasContent(text)) return "";
 
@@ -178,9 +227,55 @@ function cleanDescriptionText(text, record) {
     /\bThis chapter presents\b/i,
   ];
 
+  const commerceTailBreaks = [
+    /数量有限/i,
+    /由于我们拥有上千个日本枫品种/i,
+    /单个品种通常库存不多/i,
+    /每个品种通常库存不多/i,
+    /请尽快下单，以免售罄/i,
+    /建议您(?:在看到心仪品种时)?及时购买/i,
+    /我们建议您尽快购买/i,
+    /部分(?:选育)?品种经常很快售罄/i,
+    /某些品种常常很快售罄/i,
+    /10 加仑规格植株发货时不带盆/i,
+    /请注意，您的 10 加仑植株到货时将不含容器/i,
+    /请提前做好接收无容器 10 加仑植株的准备/i,
+    /\bLimited Quantities Available\b/i,
+    /\bWe have thousands of Japanese maples\b/i,
+    /\bBetter act fast before they are gone\b/i,
+    /\bWe suggest you buy\b/i,
+    /\bsell out quickly\b/i,
+    /\b10 GALLON TREE SHIPS WITHOUT POT\b/i,
+  ];
+  const rightsTailBreaks = [
+    /带有\s*MrMaple\s*标志的照片归\s*MrMaple\.com\s*所有/i,
+    /本页无\s*MrMaple\s*标志的照片由.*拍摄/i,
+    /未经明确书面许可不得使用/i,
+    /归\s*MrMaple\.com\s*所有/i,
+    /本页不带\s*MrMaple\s*标志的照片由.*拍摄/i,
+    /\bThe photo\(s\) with a MrMaple logo are owned by MrMaple\.com\b/i,
+    /\bThe photos on this page without a MrMaple logo were taken by\b/i,
+    /\bcannot be used without expressed written consent\b/i,
+    /\bwithout expressed written consent from the owner\b/i,
+  ];
+
   structuralBreaks.forEach((pattern) => {
     const match = cleaned.match(pattern);
     if (match?.index && match.index > 180) {
+      cleaned = cleaned.slice(0, match.index).trim();
+    }
+  });
+
+  commerceTailBreaks.forEach((pattern) => {
+    const match = cleaned.match(pattern);
+    if (match?.index && match.index > 80) {
+      cleaned = cleaned.slice(0, match.index).trim();
+    }
+  });
+
+  rightsTailBreaks.forEach((pattern) => {
+    const match = cleaned.match(pattern);
+    if (match?.index && match.index > 80) {
       cleaned = cleaned.slice(0, match.index).trim();
     }
   });
@@ -201,7 +296,7 @@ function cleanDescriptionText(text, record) {
     }
   }
 
-  return cleaned.replace(/\s+/g, " ").trim();
+  return removePromotionalSentences(cleaned).replace(/\s+/g, " ").trim();
 }
 
 function getDescriptionPenalty(text) {
@@ -322,6 +417,7 @@ function getEditorialCover(record) {
     ...(record.images.public_herter_paths || []),
     ...(record.images.public_ncsu_paths || []),
     ...(record.images.public_conifer_paths || []),
+    ...(record.images.public_jmac_paths || []),
   ])[0] || null;
 }
 
@@ -332,6 +428,7 @@ function getCoverSource(record, cover) {
   if ((record.images.public_herter_paths || []).includes(cover)) return "Herter";
   if ((record.images.public_ncsu_paths || []).includes(cover)) return "NCSU";
   if ((record.images.public_conifer_paths || []).includes(cover)) return "Conifer Kingdom";
+  if ((record.images.public_jmac_paths || []).includes(cover)) return "Japanese Maples & Conifers";
   return "No Image";
 }
 
@@ -447,6 +544,7 @@ const COVER_SOURCE_PRIORITY = {
   herter: 3,
   ncsu: 2,
   conifer: 1,
+  jmac: 1,
 };
 const imageMetadataCache = new Map();
 
@@ -636,6 +734,7 @@ async function buildCoverCandidates(record) {
     { recordKey: "herter", scoreKey: "herter", toPublic: toHerterPublicImagePath },
     { recordKey: "ncsu", scoreKey: "ncsu", toPublic: toNcsuPublicImagePath },
     { recordKey: "conifer_kingdom", scoreKey: "conifer", toPublic: toConiferPublicImagePath },
+    { recordKey: "jmac", scoreKey: "jmac", toPublic: toJmacPublicImagePath },
   ];
 
   const candidates = [];
@@ -713,6 +812,9 @@ async function syncJson() {
       public_conifer_paths: uniquePaths(
         (((record.conifer_kingdom || {}).local_files) || []).map((item) => toConiferPublicImagePath(item)),
       ),
+      public_jmac_paths: uniquePaths(
+        (((record.jmac || {}).local_files) || []).map((item) => toJmacPublicImagePath(item)),
+      ),
     },
   }));
   const records = await Promise.all(recordsWithPublicImages.map(async (record) => {
@@ -722,6 +824,7 @@ async function syncJson() {
       ...(record.images.public_herter_paths || []),
       ...(record.images.public_ncsu_paths || []),
       ...(record.images.public_conifer_paths || []),
+      ...(record.images.public_jmac_paths || []),
     ]);
     const bestCoverPath = await pickBestCoverPath(record);
     return {
@@ -782,6 +885,7 @@ const linkResults = await Promise.all([
   syncDirLink(sourceHerterImages, targetHerterImages).then((linked) => ["herter-images", linked]),
   syncDirLink(sourceNcsuImages, targetNcsuImages).then((linked) => ["ncsu-images", linked]),
   syncDirLink(sourceConiferImages, targetConiferImages).then((linked) => ["coniferkingdom-images", linked]),
+  syncDirLink(sourceJmacImages, targetJmacImages).then((linked) => ["jmac-images", linked]),
 ]);
 const linkedDirs = linkResults.filter(([, linked]) => linked).map(([name]) => name);
 const skippedDirs = linkResults.filter(([, linked]) => !linked).map(([name]) => name);

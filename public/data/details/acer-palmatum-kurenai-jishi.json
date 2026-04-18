@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "日系矮生品种，由著名的 日本枫树专家 矢野正善先生培育， 于2008 年引入美国 ， Kurenai 的意思是深红色， Jishi 通常指狮子。叶子 和 狮子头 相似，中等大小， 有微微卷曲 ，因此得名， 春天 叶子 呈现鲜红色，随后在夏季变成暗红色，秋天橙红橙黄色。 节间紧凑，枝干粗壮， 赋予 它 一种独特的庄重外观 ， 成年树高约1-1.5 m 。"
+    "preferred": "日系矮生品种，由著名的 日本枫树专家 矢野正善先生培育， 于2008 年引入美国 ， Kurenai 的意思是深红色， Jishi 通常指狮子。 叶子 和 狮子头 相似，中等大小， 有微微卷曲 ，因此得名， 春天 叶子 呈现鲜红色，随后在夏季变成暗红色，秋天橙红橙黄色。 节间紧凑，枝干粗壮， 赋予 它 一种独特的庄重外观 ， 成年树高约1-1. 5 m 。"
   },
   "images": {
     "count": 8,
@@ -19,10 +19,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-kurenai-jishi/01-Acer-palmatum-Kurenai-jishi-Specimen-1940-1.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-kurenai-jishi/01-Acer-palmatum-Kurenai-jishi-Specimen-1940-1.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-kurenai-jishi/01-Acer-palmatum-Kurenai-jishi-Specimen-1940-1.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,7 +38,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "矮生",
       "title": "红狮子 Acer Palmatum 'Kurenai Jishi'",
-      "description": "日系矮生品种，由著名的 日本枫树专家 矢野正善先生培育， 于2008 年引入美国 ， Kurenai 的意思是深红色， Jishi 通常指狮子。叶子 和 狮子头 相似，中等大小， 有微微卷曲 ，因此得名， 春天 叶子 呈现鲜红色，随后在夏季变成暗红色，秋天橙红橙黄色。 节间紧凑，枝干粗壮， 赋予 它 一种独特的庄重外观 ， 成年树高约1-1.5 m 。",
+      "description": "日系矮生品种，由著名的 日本枫树专家 矢野正善先生培育， 于2008 年引入美国 ， Kurenai 的意思是深红色， Jishi 通常指狮子。 叶子 和 狮子头 相似，中等大小， 有微微卷曲 ，因此得名， 春天 叶子 呈现鲜红色，随后在夏季变成暗红色，秋天橙红橙黄色。 节间紧凑，枝干粗壮， 赋予 它 一种独特的庄重外观 ， 成年树高约1-1. 5 m 。",
       "image_count": 8
     },
     {
@@ -41,6 +46,15 @@
       "rhs_id": 366970,
       "detail_url": "https://www.rhs.org.uk/plants/366970/acer-palmatum-kurenai-jishi-(dw)/details",
       "botanical_name": "Acer palmatum 'Kurenai-jishi' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Kurenai jishi’ Specimen 1940",
+      "botanical_name": "Acer Palmatum 'Kurenai Jishi'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-kurenai-jishi-specimen-1940/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -62,7 +76,7 @@
     "红狮子 Acer Palmatum 'Kurenai Jishi'",
     "鸡爪槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -118,7 +132,49 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "日系矮生品种，由著名的 日本枫树专家 矢野正善先生培育， 于2008 年引入美国 ， Kurenai 的意思是深红色， Jishi 通常指狮子。叶子 和 狮子头 相似，中等大小， 有微微卷曲 ，因此得名， 春天 叶子 呈现鲜红色，随后在夏季变成暗红色，秋天橙红橙黄色。 节间紧凑，枝干粗壮， 赋予 它 一种独特的庄重外观 ， 成年树高约1-1.5 m 。"
+    "preferred": "日系矮生品种，由著名的 日本枫树专家 矢野正善先生培育， 于2008 年引入美国 ， Kurenai 的意思是深红色， Jishi 通常指狮子。 叶子 和 狮子头 相似，中等大小， 有微微卷曲 ，因此得名， 春天 叶子 呈现鲜红色，随后在夏季变成暗红色，秋天橙红橙黄色。 节间紧凑，枝干粗壮， 赋予 它 一种独特的庄重外观 ， 成年树高约1-1. 5 m 。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-kurenai-jishi-specimen-1940/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-kurenai-jishi/01-Acer-palmatum-Kurenai-jishi-Specimen-1940-1.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-kurenai-jishi/01-Acer-palmatum-Kurenai-jishi-Specimen-1940-1.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Kurenai jishi’ Specimen 1940",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-kurenai-jishi-specimen-1940/",
+        "botanical_name": "Acer Palmatum 'Kurenai Jishi'",
+        "common_name": "Kurenai Jishi",
+        "description_text": "Red-green leaves on this densely-branched, compact maple are held very close to the stems. Fall color is a bright red color. Shop now!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum kurenai jishi",
+        "match_score": 264
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/02/Acer-palmatum-Kurenai-jishi-Specimen-1940-1.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-kurenai-jishi-specimen-1940/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-kurenai-jishi/01-Acer-palmatum-Kurenai-jishi-Specimen-1940-1.jpg",
+          "bytes": 531782,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:20.889Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-kurenai-jishi/01-Acer-palmatum-Kurenai-jishi-Specimen-1940-1.jpg"
+      ]
+    }
+  }
 }

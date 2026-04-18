@@ -20,9 +20,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -35,6 +40,15 @@
       "title": "红宝石蕾丝Acer palmatum 'Ruby Lace'",
       "description": "",
       "image_count": 1
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Ruby Lace' Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Ruby Lace'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ruby-lace",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -51,13 +65,56 @@
     "蕾丝系列",
     "鸡爪槭"
   ],
-  "source_count": 1,
+  "source_count": 2,
   "has_web": true,
   "has_book": false,
   "has_rhs": false,
   "rhs": null,
   "has_mrmaple": false,
   "descriptions_zh": {
-    "preferred": "小型细裂日本枫，叶色常从春季的鲜红或宝石红开始，夏季维持深红到酒红色调，秋季再转为明亮的红色。叶形细致，适合作为容器或小庭院中的彩叶焦点。"
+    "preferred": "小型细裂日本枫，叶色常从春季的鲜红或宝石红开始，夏季维持深红到酒红色调，秋季再转为明亮的红色。 叶形细致，适合作为容器或小庭院中的彩叶焦点。"
+  },
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ruby-lace",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Ruby Lace' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ruby-lace",
+        "botanical_name": "Acer palmatum 'Ruby Lace'",
+        "common_name": "Ruby Lace",
+        "description_text": "Acer palmatum 'Ruby Lace' is a gorgeous lace leaf Japanese maple with a bright, ruby red color to the foliage in the spring. This color does fade a bit in the summer. The leaves turn to a bright yellow to orange in the fall, which is a very unusual fall color for a Japanese maple with red spring foliage. 'Ruby Lace' is a fast growing lace leaf Japanese maple with a low, spreading habit. 10 Year Size: Height: 3-5 feet Width: 5-7 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Ruby Lace",
+        "match_score": 368,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic?v=1651199238",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ruby-lace",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic",
+          "bytes": 1241958,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:49.892Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic"
+      ]
+    }
   }
 }

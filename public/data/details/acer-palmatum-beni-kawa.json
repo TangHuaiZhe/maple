@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "红皮是一款经典的观枝品种， 冬季枝条的色彩极为动人 。 就像永不过时的 \"珊瑚阁（Sango kaku）\"一样，当年生枝条在冬季是明亮的红色，这种色彩可以持续到第二年。\"红皮\"叶片萌发的时间比\"珊瑚阁\"晚两周，长势也要慢些。 红皮 叶片大小中等， 5 到 7裂 ， 裂叶阔卵形，叶缘为寻常的重锯齿。叶柄短而纤细，呈粉色至红色。 春天叶片呈 嫩 绿色，叶缘带有淡红色。夏季是亮绿色， 秋季叶片 呈现迷人的金黄色到橙色， 与其红色的枝条形成强烈的对比。因此无论是冬季观杆，还是用于景观的核心区域， \"红皮\"都非常迷人。它的品种名意为\"红色的树皮\" 。 它可以长成直立的灌木或小乔木， 成年 株高 约为 4到 5米 。"
+    "preferred": "红皮是一款经典的观枝品种， 冬季枝条的色彩极为动人 。 就像永不过时的 \"珊瑚阁（Sango kaku）\"一样，当年生枝条在冬季是明亮的红色，这种色彩可以持续到第二年。 \"红皮\"叶片萌发的时间比\"珊瑚阁\"晚两周，长势也要慢些。 红皮 叶片大小中等， 5 到 7裂 ， 裂叶阔卵形，叶缘为寻常的重锯齿。 叶柄短而纤细，呈粉色至红色。 春天叶片呈 嫩 绿色，叶缘带有淡红色。 夏季是亮绿色， 秋季叶片 呈现迷人的金黄色到橙色， 与其红色的枝条形成强烈的对比。 因此无论是冬季观杆，还是用于景观的核心区域， \"红皮\"都非常迷人。 它的品种名意为\"红色的树皮\" 。 它可以长成直立的灌木或小乔木， 成年 株高 约为 4到 5米 。"
   },
   "images": {
     "count": 10,
@@ -20,9 +20,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-beni-kawa/01-acer-palmatum-beni-kawa-802511.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-beni-kawa/01-acer-palmatum-beni-kawa-802511.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-beni-kawa/01-acer-palmatum-beni-kawa-802511.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,7 +38,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "观枝",
       "title": "红皮 Acer Palmatum 'Beni Kawa'",
-      "description": "红皮是一款经典的观枝品种， 冬季枝条的色彩极为动人 。 就像永不过时的 \"珊瑚阁（Sango kaku）\"一样，当年生枝条在冬季是明亮的红色，这种色彩可以持续到第二年。\"红皮\"叶片萌发的时间比\"珊瑚阁\"晚两周，长势也要慢些。 红皮 叶片大小中等， 5 到 7裂 ， 裂叶阔卵形，叶缘为寻常的重锯齿。叶柄短而纤细，呈粉色至红色。 春天叶片呈 嫩 绿色，叶缘带有淡红色。夏季是亮绿色， 秋季叶片 呈现迷人的金黄色到橙色， 与其红色的枝条形成强烈的对比。因此无论是冬季观杆，还是用于景观的核心区域， \"红皮\"都非常迷人。它的品种名意为\"红色的树皮\" 。 它可以长成直立的灌木或小乔木， 成年 株高 约为 4到 5米 。",
+      "description": "红皮是一款经典的观枝品种， 冬季枝条的色彩极为动人 。 就像永不过时的 \"珊瑚阁（Sango kaku）\"一样，当年生枝条在冬季是明亮的红色，这种色彩可以持续到第二年。 \"红皮\"叶片萌发的时间比\"珊瑚阁\"晚两周，长势也要慢些。 红皮 叶片大小中等， 5 到 7裂 ， 裂叶阔卵形，叶缘为寻常的重锯齿。 叶柄短而纤细，呈粉色至红色。 春天叶片呈 嫩 绿色，叶缘带有淡红色。 夏季是亮绿色， 秋季叶片 呈现迷人的金黄色到橙色， 与其红色的枝条形成强烈的对比。 因此无论是冬季观杆，还是用于景观的核心区域， \"红皮\"都非常迷人。 它的品种名意为\"红色的树皮\" 。 它可以长成直立的灌木或小乔木， 成年 株高 约为 4到 5米 。",
       "image_count": 10
     },
     {
@@ -41,6 +46,15 @@
       "rhs_id": 46878,
       "detail_url": "https://www.rhs.org.uk/plants/46878/acer-palmatum-beni-kawa-(p)/details",
       "botanical_name": "Acer palmatum 'Beni-kawa' (P)",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Beni kawa' Coral Bark Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Beni Kawa'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-beni-kawa",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -64,7 +78,7 @@
     "观枝",
     "鸡爪槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -122,7 +136,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "红皮是一款经典的观枝品种， 冬季枝条的色彩极为动人 。 就像永不过时的 \"珊瑚阁（Sango kaku）\"一样，当年生枝条在冬季是明亮的红色，这种色彩可以持续到第二年。\"红皮\"叶片萌发的时间比\"珊瑚阁\"晚两周，长势也要慢些。 红皮 叶片大小中等， 5 到 7裂 ， 裂叶阔卵形，叶缘为寻常的重锯齿。叶柄短而纤细，呈粉色至红色。 春天叶片呈 嫩 绿色，叶缘带有淡红色。夏季是亮绿色， 秋季叶片 呈现迷人的金黄色到橙色， 与其红色的枝条形成强烈的对比。因此无论是冬季观杆，还是用于景观的核心区域， \"红皮\"都非常迷人。它的品种名意为\"红色的树皮\" 。 它可以长成直立的灌木或小乔木， 成年 株高 约为 4到 5米 。"
+    "preferred": "红皮是一款经典的观枝品种， 冬季枝条的色彩极为动人 。 就像永不过时的 \"珊瑚阁（Sango kaku）\"一样，当年生枝条在冬季是明亮的红色，这种色彩可以持续到第二年。 \"红皮\"叶片萌发的时间比\"珊瑚阁\"晚两周，长势也要慢些。 红皮 叶片大小中等， 5 到 7裂 ， 裂叶阔卵形，叶缘为寻常的重锯齿。 叶柄短而纤细，呈粉色至红色。 春天叶片呈 嫩 绿色，叶缘带有淡红色。 夏季是亮绿色， 秋季叶片 呈现迷人的金黄色到橙色， 与其红色的枝条形成强烈的对比。 因此无论是冬季观杆，还是用于景观的核心区域， \"红皮\"都非常迷人。 它的品种名意为\"红色的树皮\" 。 它可以长成直立的灌木或小乔木， 成年 株高 约为 4到 5米 。"
   },
   "rhs_zh": {
     "growing_conditions": {
@@ -141,7 +155,50 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶小乔木，高约 3-4 米，与流行品种 'Sango Kaku' 相似，冬季枝条呈鲜明的珊瑚红色。叶片 5 裂，初展时粉黄色，夏季转绿，秋季变黄；春季开小型带红色调的花，秋季结翅果。"
+    "description": "落叶小乔木，高约 3-4 米，与流行品种 'Sango Kaku' 相似，冬季枝条呈鲜明的珊瑚红色。 叶片 5 裂，初展时粉黄色，夏季转绿，秋季变黄；春季开小型带红色调的花，秋季结翅果。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-beni-kawa",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-beni-kawa/01-acer-palmatum-beni-kawa-802511.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-beni-kawa/01-acer-palmatum-beni-kawa-802511.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Beni kawa' Coral Bark Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-beni-kawa",
+        "botanical_name": "Acer Palmatum 'Beni Kawa'",
+        "common_name": "Beni Kawa",
+        "description_text": "An upright vase shaped form of coral bark maple. The bark is usually more red in winter compared to the salmon color of it's more famous cousin 'Sango kaku'. 'Beni kawa' also tends to be slightly wider and shorter. You will sometimes see 'Beni kawa' spelled as 'Beni gawa', this is due to a translation error when it was first brought to the U.S. and some growers have never corrected the mistake. Fall color ranges from yellow to orange and usually is an attractive combination of both. The foliage would like a little break from the summer sun in hotter climates, but the more winter sun the tree gets the more intense the bark color will be. 10 Year size: Height: 12-14 Feet Width: 8-10 Feet Spring Color: Green Summer Color: Green Fall Color: Orange Sun Tolerance: Full Planting: Elevated, Well Drained Soil",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Beni Kawa",
+        "match_score": 368,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-beni-kawa-802511.jpg?v=1658490540",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-beni-kawa",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-beni-kawa/01-acer-palmatum-beni-kawa-802511.jpg",
+          "bytes": 62651,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:22:20.948Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-beni-kawa/01-acer-palmatum-beni-kawa-802511.jpg"
+      ]
+    }
+  }
 }

@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "This cultivar has dark black-red foliage when in its prime in the early season. It may bronze out with greenish undertones later in the season, especially in full sun. The leaf has five, or sometimes seven, lobes, widely separated, verynarrow,anddividedcompletelytothebase.Themidrib of each lobe is green. The lobes of leaves on mature Corvallis plant might be classed as a tall shrub rather than a small tree, reaching a height of 4 m. It is a very desirable form, contrasting with the more round-headed cultivars in the Linearilobum Group, such as"
+    "preferred": "This cultivar has dark black-red foliage when in its prime in the early season. It may bronze out with greenish undertones later in the season, especially in full sun. The leaf has five, or sometimes seven, lobes, widely separated, verynarrow,anddividedcompletelytothebase. Themidrib of each lobe is green. The lobes of leaves on mature Corvallis plant might be classed as a tall shrub rather than a small tree, reaching a height of 4 m. It is a very desirable form, contrasting with the more round-headed cultivars in the Linearilobum Group, such as"
   },
   "images": {
     "count": 0,
@@ -26,6 +26,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/herter-images/acer-palmatum-atrolineare/01-atrolineare.jpg",
     "public_paths": [
       "/herter-images/acer-palmatum-atrolineare/01-atrolineare.jpg"
@@ -121,7 +122,7 @@
       "Pendulum Angustilobum",
       "Scolopendriifolium Rubrum"
     ],
-    "description": "A graceful small, deciduous tree about 3.m tall, with delicate slender-lobed, ribbon-like leaves, dark red when young, aging to bronze-green in summer then turning red and orange in autumn; ideal for bonsai training",
+    "description": "A graceful small, deciduous tree about 3. m tall, with delicate slender-lobed, ribbon-like leaves, dark red when young, aging to bronze-green in summer then turning red and orange in autumn; ideal for bonsai training",
     "dimensions": {
       "height": "2.5-4 metres",
       "spread": "1.5-2.5 metres",
@@ -180,7 +181,7 @@
     "description": "姿态优雅的小型落叶乔木，高约 3 米；叶片纤细狭裂，呈带状，新叶深红色，夏季逐渐转为铜绿色，秋季变为红色与橙色；非常适合制作盆景"
   },
   "descriptions_zh": {
-    "preferred": "该品种在生长季早期状态最佳时，叶色呈深黑红色。季节后期可能转为带绿色底调的古铜色，尤其是在全日照条件下更为明显。叶片有 5 裂，有时 7 裂，裂片分离较大，极狭长，并一直深裂至叶基。每个裂片的中脉为绿色。Corvallis 栽培的成熟植株，其叶裂片可能会被归为 Linearilobum Group 中较高大的灌木状类型，而非小乔木，高度可达 4 m。它是一个非常优良的类型，与 Linearilobum Group 中冠形更圆的品种，如 'Red Pygmy' 和 'Villa Taranto'，形成鲜明对比。'Atrolineare' 还曾以 'Akano-hichi gosan'、"
+    "preferred": "该品种在生长季早期状态最佳时，叶色呈深黑红色。 季节后期可能转为带绿色底调的古铜色，尤其是在全日照条件下更为明显。 叶片有 5 裂，有时 7 裂，裂片分离较大，极狭长，并一直深裂至叶基。 每个裂片的中脉为绿色。 Corvallis 栽培的成熟植株，其叶裂片可能会被归为 Linearilobum Group 中较高大的灌木状类型，而非小乔木，高度可达 4 m。 它是一个非常优良的类型，与 Linearilobum Group 中冠形更圆的品种，如 'Red Pygmy' 和 'Villa Taranto'，形成鲜明对比。 'Atrolineare' 还曾以 'Akano-hichi gosan'、"
   },
   "has_mrmaple": false,
   "mrmaple": null,

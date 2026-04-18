@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "This dwarf dense bush has small, very thick, shiny, evergreen leaves. The lobes are short, rounded, and blunt-tipped. The new leaves are an attractive red-brown, becoming green for the summer, before turning yellow to orange in the fall. The name means \"palace.\""
+    "preferred": "This dwarf dense bush has small, very thick, shiny, evergreen leaves. The lobes are short, rounded, and blunt-tipped. The new leaves are an attractive red-brown, becoming green for the summer, before turning yellow to orange in the fall. The name means \"palace. \""
   },
   "images": {
     "count": 0,
@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -116,7 +117,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这株矮性致密灌木具小型、极厚、具光泽的常绿叶。裂片短、圆钝，先端不尖。新叶呈迷人的红褐色，夏季转绿，秋季再转为黄色至橙色。其名称意为“宫殿”。"
+    "preferred": "这株矮性致密灌木具小型、极厚、具光泽的常绿叶。 裂片短、圆钝，先端不尖。 新叶呈迷人的红褐色，夏季转绿，秋季再转为黄色至橙色。 其名称意为“宫殿”。"
   },
   "has_mrmaple": false
 }

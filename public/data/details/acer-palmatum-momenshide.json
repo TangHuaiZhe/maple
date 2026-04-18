@@ -13,7 +13,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "other The leaves of this cultivar look very much like 'Hagoromo', but the lobes are not deeply incised. Also, 'Momenshide' is a smaller plant. The leaves have practically no petioles (only a few millimeters long) and are attached almost directly to the twig. They are five lobed, occasionally three lobed, and 3-5 cm long including 1-1.5 cm of bare \"petiole-like\" base. Each lobe is oblong-ovate, tapering to a blunt point. The lobe base tapers abruptly for the last 1 cm to the width of the main vein, so that it appears to have its own petiole. The lobes do not lie flat but twist slightly on different planes. Each lobe is from 1.5 to 2 cm wide at the broadest point but, with lobes overlapping, the leaves may appear to be only 4-5 cm wide. The entire effect is feathery foliage. The margins are only slightly toothed and irregular. The foliage is reddish in the spring, but soon changes to a deep, rich green. The veins are somewhat prominent and give a slight textured look to the surface. In the fall, the bright yellow colors add to the beauty of the garden. This cultivar assumes an upright bush shape and will probably not reach more than 3-4 m at maturity. It Corvallis is 'Yu\\shide'."
+    "preferred": "other The leaves of this cultivar look very much like 'Hagoromo', but the lobes are not deeply incised. Also, 'Momenshide' is a smaller plant. The leaves have practically no petioles (only a few millimeters long) and are attached almost directly to the twig. They are five lobed, occasionally three lobed, and 3-5 cm long including 1-1. 5 cm of bare \"petiole-like\" base. Each lobe is oblong-ovate, tapering to a blunt point. The lobe base tapers abruptly for the last 1 cm to the width of the main vein, so that it appears to have its own petiole. The lobes do not lie flat but twist slightly on different planes. Each lobe is from 1. 5 to 2 cm wide at the broadest point but, with lobes overlapping, the leaves may appear to be only 4-5 cm wide. The entire effect is feathery foliage. The margins are only slightly toothed and irregular. The foliage is reddish in the spring, but soon changes to a deep, rich green. The veins are somewhat prominent and give a slight textured look to the surface. In the fall, the bright yellow colors add to the beauty of the garden. This cultivar assumes an upright bush shape and will probably not reach more than 3-4 m at maturity. It Corvallis is 'Yu\\shide'."
   },
   "images": {
     "count": 0,
@@ -22,9 +22,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-momenshide/01-acer-palmatum-momenshide-685284.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-momenshide/01-acer-palmatum-momenshide-685284.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-momenshide/01-acer-palmatum-momenshide-685284.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -40,6 +45,15 @@
       "rhs_id": 130417,
       "detail_url": "https://www.rhs.org.uk/plants/130417/acer-palmatum-momenshide/details",
       "botanical_name": "Acer palmatum 'Momenshide'",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Momenshide' Feather Leaf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Momenshide'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-momenshide",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -60,7 +74,7 @@
     "Yuhshide",
     "Yushide"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -121,7 +135,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "其他：该品种的叶片外观与 'Hagoromo' 非常相似，但裂片切入不深。另外，'Momenshide' 株型更小。叶片几乎无叶柄（仅数毫米长），几乎直接着生于枝条上。叶为五裂，偶有三裂，连同 1-1.5 厘米裸露的“似叶柄”基部在内，叶长 3-5 厘米。每一裂片为长椭圆状卵形，先端渐尖但较钝。裂片基部最后约 1 厘米处突然收窄至主脉宽度，因此看起来像各自带有小叶柄。各裂片并不平展，而是在不同平面上略有扭转。每裂片最宽处为 1.5-2 厘米，但由于裂片彼此重叠，整叶看起来可能仅宽 4-5 厘米。整体效果呈羽毛状叶姿。叶缘仅略具不规则浅齿。春季叶色带红，随后很快转为深而浓的绿色。叶脉略为隆起，使叶面略带质感。秋季明亮的黄色更增园中观赏性。该品种呈直立灌木状，成熟时可能不会超过 3-4 米。它在 Corvallis 记载为 'Yu\\shide'。"
+    "preferred": "其他：该品种的叶片外观与 'Hagoromo' 非常相似，但裂片切入不深。 另外，'Momenshide' 株型更小。 叶片几乎无叶柄（仅数毫米长），几乎直接着生于枝条上。 叶为五裂，偶有三裂，连同 1-1. 5 厘米裸露的“似叶柄”基部在内，叶长 3-5 厘米。 每一裂片为长椭圆状卵形，先端渐尖但较钝。 裂片基部最后约 1 厘米处突然收窄至主脉宽度，因此看起来像各自带有小叶柄。 各裂片并不平展，而是在不同平面上略有扭转。 每裂片最宽处为 1. 5-2 厘米，但由于裂片彼此重叠，整叶看起来可能仅宽 4-5 厘米。 整体效果呈羽毛状叶姿。 叶缘仅略具不规则浅齿。 春季叶色带红，随后很快转为深而浓的绿色。 叶脉略为隆起，使叶面略带质感。 秋季明亮的黄色更增园中观赏性。 该品种呈直立灌木状，成熟时可能不会超过 3-4 米。 它在 Corvallis 记载为 'Yu\\shide'。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-momenshide",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-momenshide/01-acer-palmatum-momenshide-685284.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-momenshide/01-acer-palmatum-momenshide-685284.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Momenshide' Feather Leaf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-momenshide",
+        "botanical_name": "Acer palmatum 'Momenshide'",
+        "common_name": "Momenshide",
+        "description_text": "Acer palmatum 'Momenshide' is a green Japanese maple with a feathery sessilifolium shape to the leaves. This is a very unusual leaf shape among Japanese maples. 'Momenshide' will grow to be about eight feet tall and six feet wide. 'Momenshide' will be green spring and summer and orange in the fall. 10 Year Size: Height: 8-10 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Momenshide",
+        "match_score": 370,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-momenshide-685284.jpg?v=1658490833",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-momenshide",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-momenshide/01-acer-palmatum-momenshide-685284.jpg",
+          "bytes": 378830,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:22.510Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-momenshide/01-acer-palmatum-momenshide-685284.jpg"
+      ]
+    }
+  }
 }

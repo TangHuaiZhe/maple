@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This cultivar has the same stunning deep yellow-orange fall color as 'Ho¯gyoku', with the leaves similar in shape but Acer smaller. The summer color is a medium green. Gregory. POND' Olsen. Vertrees. Gregory. The growth habit is exactly opposite that of 'Ho¯gyoku', about one and a half times as wide as tall—141⁄2 ft. (4.5 m) wide and 10 ft. (3 m) tall."
+    "preferred": "This cultivar has the same stunning deep yellow-orange fall color as 'Ho¯gyoku', with the leaves similar in shape but Acer smaller. The summer color is a medium green. Gregory. POND' Olsen. Vertrees. Gregory. The growth habit is exactly opposite that of 'Ho¯gyoku', about one and a half times as wide as tall—141⁄2 ft. (4. 5 m) wide and 10 ft. (3 m) tall."
   },
   "images": {
     "count": 0,
@@ -26,6 +26,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-golden-pond/01-Web_Use-_KOT4620_12970.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-golden-pond/01-Web_Use-_KOT4620_12970.jpg"
@@ -78,7 +79,7 @@
     "cultivar_names": [
       "Golden Pond"
     ],
-    "description": "A small tree up to 3m high and 4.5m wide, with finely toothed, medium-sized, seven-lobed leaves, which are mid-green, tinged with bronze in spring, and turn deep golden yellow in autumn, and tiny, purple-red flowers in small, pendent corymbs in spring followed by red-winged fruit in late summer",
+    "description": "A small tree up to 3m high and 4. 5m wide, with finely toothed, medium-sized, seven-lobed leaves, which are mid-green, tinged with bronze in spring, and turn deep golden yellow in autumn, and tiny, purple-red flowers in small, pendent corymbs in spring followed by red-winged fruit in late summer",
     "dimensions": {
       "height": "2.5-4 metres",
       "spread": "4-8 metres",
@@ -156,7 +157,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "小乔木，高可达 3 米、冠幅可达 4.5 米；叶片中等大小，7 裂，具细锯齿，春季中绿色并带铜色晕，秋季转为深金黄色。春季开极小的紫红色花，成下垂的小型伞房花序；夏末结红色翅果。",
+    "description": "小乔木，高可达 3 米、冠幅可达 4. 5 米；叶片中等大小，7 裂，具细锯齿，春季中绿色并带铜色晕，秋季转为深金黄色。 春季开极小的紫红色花，成下垂的小型伞房花序；夏末结红色翅果。",
     "attributes": {
       "suggested_uses": "低养护，适合坡岸与斜坡，城市/庭院花园，乡村式/自然式花园，花境与花坛，绿篱/屏障栽植",
       "hort_group_description": "此 amoenum 类群中的 Acer 品种具有大型掌状叶，叶缘具细锯齿。"
@@ -168,7 +169,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该品种具有与 'Ho¯gyoku' 同样惊艳的深黄橙色秋叶，叶形相似，但叶片更小。夏季叶色为中绿色。其生长习性与 'Ho¯gyoku' 恰好相反，冠幅约为株高的 1.5 倍，即宽 14 1/2 英尺（4.5 米）、高 10 英尺（3 米）。"
+    "preferred": "该品种具有与 'Ho¯gyoku' 同样惊艳的深黄橙色秋叶，叶形相似，但叶片更小。 夏季叶色为中绿色。 其生长习性与 'Ho¯gyoku' 恰好相反，冠幅约为株高的 1. 5 倍，即宽 14 1/2 英尺（4. 5 米）、高 10 英尺（3 米）。"
   },
   "has_mrmaple": false
 }

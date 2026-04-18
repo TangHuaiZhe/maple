@@ -15,7 +15,7 @@
     "variegated"
   ],
   "descriptions": {
-    "preferred": "The mediumsized to large leaves have mainly seven deeply divided lobes with long tail-like tips and crinkled, coarsely toothed margins. The spring leaves emerge a light pink to blushed amber with a network of green veins, changing to whitish green with dark green veins for the summer. The shoots and leafstalks are a bright crimson. Fall color is a vivid red. This cultivar grows into a small to medium-sized bush. It needs some protection from hot sun and drying winds. The name means \"marsh plover.\""
+    "preferred": "The mediumsized to large leaves have mainly seven deeply divided lobes with long tail-like tips and crinkled, coarsely toothed margins. The spring leaves emerge a light pink to blushed amber with a network of green veins, changing to whitish green with dark green veins for the summer. The shoots and leafstalks are a bright crimson. Fall color is a vivid red. This cultivar grows into a small to medium-sized bush. It needs some protection from hot sun and drying winds. The name means \"marsh plover. \""
   },
   "images": {
     "count": 0,
@@ -44,6 +44,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/copy-of-acer-palmatum-sawa-chidori-japanese-maple/01-FOR_PICKUP_ONLY_Acer_palmatum_Sawa_chidori_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2092227.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-sawa-chidori-japanese-maple/01-Acer_palmatum_Sawa_chidori_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068437.jpg",
@@ -179,7 +180,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "叶片中等至大型，多为 7 深裂，裂片先端具长尾状尖端，叶缘皱曲并具粗大锯齿。春叶萌发时呈浅粉色至带粉晕的琥珀色，带绿色叶脉；夏季转为白绿色，叶脉为深绿色。嫩枝和叶柄鲜绯红色。秋色鲜红。该品种生长为小至中型灌木。需要适当避开烈日和干热风。其名称意为“沼泽鸻”。"
+    "preferred": "叶片中等至大型，多为 7 深裂，裂片先端具长尾状尖端，叶缘皱曲并具粗大锯齿。 春叶萌发时呈浅粉色至带粉晕的琥珀色，带绿色叶脉；夏季转为白绿色，叶脉为深绿色。 嫩枝和叶柄鲜绯红色。 秋色鲜红。 该品种生长为小至中型灌木。 需要适当避开烈日和干热风。 其名称意为“沼泽鸻”。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -255,7 +256,7 @@
           "VDAYSALE25",
           "VDAYSALE26"
         ],
-        "description_text": "Acer palmatum 'Sawa chidori' Variegated Sawa chidori Japanese Maple Zones 5-9 'Sawa chidori' leafs out with a creamy pink to green leaves with darker rich green veins. This type of \"ghost variegation\" is quite attractive and gives a great spring interest. As the leaves mature later in the summer, more chlorophyll comes into the leaf giving more green to the leaf. Acer palmatum 'Sawa chidori' was found as a chance amoenum seedling in Japan in the Shizuoka Prefecture in Japan and introduced into cultivation in 1988. 'Sawa chidori' may reach 8 ft in height in 15 years. Fall color on 'Sawa chidori' is a bright red. We recommend giving 'Sawa chidori' protection from the hot afternoon sun. 10 GALLON TREE SHIPS WITHOUT POT DUE TO BOX SIZE CONSTRAINTS",
+        "description_text": "Acer palmatum 'Sawa chidori' Variegated Sawa chidori Japanese Maple Zones 5-9 'Sawa chidori' leafs out with a creamy pink to green leaves with darker rich green veins. This type of \"ghost variegation\" is quite attractive and gives a great spring interest. As the leaves mature later in the summer, more chlorophyll comes into the leaf giving more green to the leaf. Acer palmatum 'Sawa chidori' was found as a chance amoenum seedling in Japan in the Shizuoka Prefecture in Japan and introduced into cultivation in 1988. 'Sawa chidori' may reach 8 ft in height in 15 years. Fall color on 'Sawa chidori' is a bright red. We recommend giving 'Sawa chidori' protection from the hot afternoon sun.",
         "published_at": "2025-11-28T09:00:21-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

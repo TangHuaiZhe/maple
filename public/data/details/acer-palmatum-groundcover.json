@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "The leaves of this useful small-leaved dwarf are deeply divided and have five narrow large-toothed lobes. The leaves are 3-4 cm long and 4-5 cm wide. The lobes are narrow-ovate with long pointed tips, 5-7 mm wide at the widest point, and divided to within 3-4 mm of the leaf base. The margins have relatively large coarse teeth. The threadlike short petioles are 1-1.5 cm long. The foliage is medium green with the leaf tips and outer margins tinged pink to red bronze. This cultivar is aptly named, growing into a very dense twiggy plant which hugs the ground. It reaches 0.6 m tall and 1-1.2 m wide."
+    "preferred": "The leaves of this useful small-leaved dwarf are deeply divided and have five narrow large-toothed lobes. The leaves are 3-4 cm long and 4-5 cm wide. The lobes are narrow-ovate with long pointed tips, 5-7 mm wide at the widest point, and divided to within 3-4 mm of the leaf base. The margins have relatively large coarse teeth. The threadlike short petioles are 1-1. 5 cm long. The foliage is medium green with the leaf tips and outer margins tinged pink to red bronze. This cultivar is aptly named, growing into a very dense twiggy plant which hugs the ground. It reaches 0. 6 m tall and 1-1. 2 m wide."
   },
   "images": {
     "count": 0,
@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -86,7 +87,7 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "这是一种很实用的小叶矮生品种，叶片深裂，具 5 枚狭长且具大齿的裂片。叶长 3-4 厘米，宽 4-5 厘米。裂片为狭卵形，先端长尖，最宽处约 5-7 毫米，分裂深达距叶基仅 3-4 毫米处。叶缘具较大而粗的锯齿。细线状的短叶柄长 1-1.5 厘米。叶色中绿，叶尖及外缘带粉色至红铜色晕染。这个品种名称十分贴切，植株生长极为致密，多细枝，紧贴地面展开。成熟时高约 0.6 米，幅宽 1-1.2 米。"
+    "preferred": "这是一种很实用的小叶矮生品种，叶片深裂，具 5 枚狭长且具大齿的裂片。 叶长 3-4 厘米，宽 4-5 厘米。 裂片为狭卵形，先端长尖，最宽处约 5-7 毫米，分裂深达距叶基仅 3-4 毫米处。 叶缘具较大而粗的锯齿。 细线状的短叶柄长 1-1. 5 厘米。 叶色中绿，叶尖及外缘带粉色至红铜色晕染。 这个品种名称十分贴切，植株生长极为致密，多细枝，紧贴地面展开。 成熟时高约 0. 6 米，幅宽 1-1. 2 米。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,

@@ -28,6 +28,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-beni-komachi-momiji_kaede/01-visi46199.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-beni-komachi/01-visi46199.jpg",
@@ -90,7 +91,7 @@
     "cultivar_names": [
       "Beni-komachi"
     ],
-    "description": "A small, multi-branched, twiggy cultivar growing to about 2.5-3m tall, with leaves very deeply divided into five slender, curved lobes, delicate and vibrant red when young, becoming red-purple, then greenish-red in summer as the leaf matures, before turning scarlet in autumn",
+    "description": "A small, multi-branched, twiggy cultivar growing to about 2. 5-3m tall, with leaves very deeply divided into five slender, curved lobes, delicate and vibrant red when young, becoming red-purple, then greenish-red in summer as the leaf matures, before turning scarlet in autumn",
     "dimensions": {
       "height": "2.5-4 metres",
       "spread": "1.5-2.5 metres",
@@ -184,10 +185,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "一个小型、多分枝、细枝密生的栽培品种，高约 2.5-3 米。叶片深裂，通常为 5 枚细长弯曲的裂片；新叶纤细而呈鲜艳红色，随后转为红紫色，夏季叶片成熟后变为带绿色调的红色，秋季转为猩红色。"
+    "description": "一个小型、多分枝、细枝密生的栽培品种，高约 2. 5-3 米。 叶片深裂，通常为 5 枚细长弯曲的裂片；新叶纤细而呈鲜艳红色，随后转为红紫色，夏季叶片成熟后变为带绿色调的红色，秋季转为猩红色。"
   },
   "descriptions_zh": {
-    "preferred": "这是一种半矮生植株，叶色鲜红，极为独特。每片叶有 5 裂，裂片几乎一直分离到叶基部。裂片开展而舒展，基部两裂片斜向后伸。各裂片狭长，呈披针形，但并非两侧平行；外半部渐尖，最终形成极锐的先端。叶缘具不规则但十分明显的锯齿。裂片向侧面或向下卷曲，或两者兼有；裂片两侧略向上弯，某些时候几乎形成浅槽状。整体叶片尺寸变化较大，小叶约 3-5 厘米长宽，大叶约 5-7 厘米长。不过，即使裂片长度可达 7 厘米，其宽度也从不超过 3-5 毫米。新叶初展时质感纤秀，呈鲜亮的深绯红色。随着叶片成熟，浓烈色泽逐渐加深，老叶变为带绿色调的红色，叶缘仍保留深红色镶边。秋季叶色再次转为猩红色。Corvallis 这一品种并不广为人知，且较难繁殖。偶尔会出现返祖现象，叶片非常接近"
+    "preferred": "这是一种半矮生植株，叶色鲜红，极为独特。 每片叶有 5 裂，裂片几乎一直分离到叶基部。 裂片开展而舒展，基部两裂片斜向后伸。 各裂片狭长，呈披针形，但并非两侧平行；外半部渐尖，最终形成极锐的先端。 叶缘具不规则但十分明显的锯齿。 裂片向侧面或向下卷曲，或两者兼有；裂片两侧略向上弯，某些时候几乎形成浅槽状。 整体叶片尺寸变化较大，小叶约 3-5 厘米长宽，大叶约 5-7 厘米长。 不过，即使裂片长度可达 7 厘米，其宽度也从不超过 3-5 毫米。 新叶初展时质感纤秀，呈鲜亮的深绯红色。 随着叶片成熟，浓烈色泽逐渐加深，老叶变为带绿色调的红色，叶缘仍保留深红色镶边。 秋季叶色再次转为猩红色。 Corvallis 这一品种并不广为人知，且较难繁殖。 偶尔会出现返祖现象，叶片非常接近"
   },
   "has_mrmaple": false,
   "mrmaple": null

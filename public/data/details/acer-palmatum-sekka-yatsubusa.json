@@ -23,10 +23,23 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/01-Acer-palmatum-Sekka-yatsubusa.jpg",
+      "/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/02-Acer-palmatum-Sekka-yatsubusa-Specimen-1091.jpg",
+      "/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/03-Specimen-1091-Acer-palmatum-Sekka-yatsubusa-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/04-Specimen-1091-Acer-palmatum-Sekka-yatsubusa.jpg",
+      "/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/05-Acer-palmatum-Sekka-yatsubusa-2.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/03-Specimen-1091-Acer-palmatum-Sekka-yatsubusa-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/01-Acer-palmatum-Sekka-yatsubusa.jpg",
+      "/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/02-Acer-palmatum-Sekka-yatsubusa-Specimen-1091.jpg",
+      "/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/03-Specimen-1091-Acer-palmatum-Sekka-yatsubusa-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/04-Specimen-1091-Acer-palmatum-Sekka-yatsubusa.jpg",
+      "/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/05-Acer-palmatum-Sekka-yatsubusa-2.jpg"
+    ],
+    "public_count": 5
   },
   "sources": [
     {
@@ -42,6 +55,15 @@
       "rhs_id": 114943,
       "detail_url": "https://www.rhs.org.uk/plants/114943/acer-palmatum-sekka-yatsubusa-(p)/details",
       "botanical_name": "Acer palmatum 'Sekka-yatsubusa' (P)",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Sekka yatsubusa’ Japanese Maple",
+      "botanical_name": "Acer palmatum 'Sekka yatsubusa'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-sekka-yatsubusa-japanese-maple/",
+      "image_count": 5,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -59,7 +81,7 @@
     "Sekka yatsubusa",
     "Sekka-yatsubusa"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -133,10 +155,108 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "一类致密、多分枝的落叶槭树，最终高约 3 米。其芽体常簇生，形成带有扭曲感和簇状层叠叶丛的独特株形。叶片有光泽，深绿色，幼叶边缘带红色，秋季转为黄色至金色调；非常适合盆景造型。"
+    "description": "一类致密、多分枝的落叶槭树，最终高约 3 米。 其芽体常簇生，形成带有扭曲感和簇状层叠叶丛的独特株形。 叶片有光泽，深绿色，幼叶边缘带红色，秋季转为黄色至金色调；非常适合盆景造型。"
   },
   "descriptions_zh": {
-    "preferred": "这种矮生灌木与其他矮生品种不同之处，在于叶裂片更狭。叶片小而有光泽，深绿色，深裂为 5 枚长卵形裂片，先端渐尖。叶缘仅有极浅的锯齿，细小齿端微微上翘，使叶缘呈现轻微起皱的外观。红色叶柄细长，新叶边缘带锈色，秋色为黄色。叶节间短，叶簇生。‘Sekka yatsubusa’ 可长至 10 英尺（3 米）高，耐寒，且较能适应全日照。该品种适合用于假山园、盆景和小型种植。其名称意为“会转红的矮生株”，应是指春季叶色。 ‘Shaina’：Palmatum Group，红叶类。该紧凑直立型品种，圆形叶片密集着生于短枝上成簇。春季鲜红，夏季转为深紫红，且能较好保持叶色，至秋季再转亮绯红。叶 5 裂，裂片深裂，狭长卵形，先端尖。许多中央裂片缩短，顶端圆钝，这是由巫枝变异而来的植株常见特征。‘Shaina’ 最终形成致密的球形灌木，高可达 10 英尺（3 米）或更高，适合容器栽培和假山园。 ‘Sharp’s Pygmy’：Pygmy Group，绿叶类。其小型绿色叶片秋季转深橙至猩红。叶片明显长于宽，5 枚狭长、深裂的裂片呈带状，裂尖常下垂。中央裂片始终明显长于其余裂片，而小型基部裂片与叶柄成较大角度展开。叶缘具较宽锯齿。短而细的叶柄及新梢为绿色。‘Sharp’s Pygmy’ 形成叶幕紧密、紧凑而低矮开展的小乔木，高约 3 英尺（1 米）。几乎无需修剪或整形，便可呈现盆景般姿态，是十分出色的矮生品种。‘Akita yatsubusa’ 在叶形和株形上与 ‘Sharp’s Pygmy’ 相似，但枝条为深褐色。"
+    "preferred": "这种矮生灌木与其他矮生品种不同之处，在于叶裂片更狭。 叶片小而有光泽，深绿色，深裂为 5 枚长卵形裂片，先端渐尖。 叶缘仅有极浅的锯齿，细小齿端微微上翘，使叶缘呈现轻微起皱的外观。 红色叶柄细长，新叶边缘带锈色，秋色为黄色。 叶节间短，叶簇生。 ‘Sekka yatsubusa’ 可长至 10 英尺（3 米）高，耐寒，且较能适应全日照。 该品种适合用于假山园、盆景和小型种植。 其名称意为“会转红的矮生株”，应是指春季叶色。 ‘Shaina’：Palmatum Group，红叶类。 该紧凑直立型品种，圆形叶片密集着生于短枝上成簇。 春季鲜红，夏季转为深紫红，且能较好保持叶色，至秋季再转亮绯红。 叶 5 裂，裂片深裂，狭长卵形，先端尖。 许多中央裂片缩短，顶端圆钝，这是由巫枝变异而来的植株常见特征。 ‘Shaina’ 最终形成致密的球形灌木，高可达 10 英尺（3 米）或更高，适合容器栽培和假山园。 ‘Sharp’s Pygmy’：Pygmy Group，绿叶类。 其小型绿色叶片秋季转深橙至猩红。 叶片明显长于宽，5 枚狭长、深裂的裂片呈带状，裂尖常下垂。 中央裂片始终明显长于其余裂片，而小型基部裂片与叶柄成较大角度展开。 叶缘具较宽锯齿。 短而细的叶柄及新梢为绿色。 ‘Sharp’s Pygmy’ 形成叶幕紧密、紧凑而低矮开展的小乔木，高约 3 英尺（1 米）。 几乎无需修剪或整形，便可呈现盆景般姿态，是十分出色的矮生品种。 ‘Akita yatsubusa’ 在叶形和株形上与 ‘Sharp’s Pygmy’ 相似，但枝条为深褐色。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-sekka-yatsubusa-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 5,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/01-Acer-palmatum-Sekka-yatsubusa.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/01-Acer-palmatum-Sekka-yatsubusa.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/02-Acer-palmatum-Sekka-yatsubusa-Specimen-1091.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/03-Specimen-1091-Acer-palmatum-Sekka-yatsubusa-2.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/04-Specimen-1091-Acer-palmatum-Sekka-yatsubusa.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/05-Acer-palmatum-Sekka-yatsubusa-2.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Sekka yatsubusa’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-sekka-yatsubusa-japanese-maple/",
+        "botanical_name": "Acer palmatum 'Sekka yatsubusa'",
+        "common_name": "Sekka yatsubusa",
+        "description_text": "A dwarf dark green with compressed leaves giving a layered look. An excellent choice for a rock garden. Shop online now!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum sekka yatsubusa",
+        "match_score": 266
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/Acer-palmatum-Sekka-yatsubusa.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-sekka-yatsubusa-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/01-Acer-palmatum-Sekka-yatsubusa.jpg",
+          "bytes": 379513,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:32.977Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/Acer-palmatum-Sekka-yatsubusa-Specimen-1091.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-sekka-yatsubusa-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/02-Acer-palmatum-Sekka-yatsubusa-Specimen-1091.jpg",
+          "bytes": 617018,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:34.140Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/Specimen-1091-Acer-palmatum-Sekka-yatsubusa-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-sekka-yatsubusa-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/03-Specimen-1091-Acer-palmatum-Sekka-yatsubusa-2.jpg",
+          "bytes": 870863,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:35.100Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 4,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/Specimen-1091-Acer-palmatum-Sekka-yatsubusa.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-sekka-yatsubusa-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/04-Specimen-1091-Acer-palmatum-Sekka-yatsubusa.jpg",
+          "bytes": 646008,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:35.865Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 5,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/Acer-palmatum-Sekka-yatsubusa-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-sekka-yatsubusa-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/05-Acer-palmatum-Sekka-yatsubusa-2.jpg",
+          "bytes": 351850,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:36.381Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 5,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/01-Acer-palmatum-Sekka-yatsubusa.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/02-Acer-palmatum-Sekka-yatsubusa-Specimen-1091.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/03-Specimen-1091-Acer-palmatum-Sekka-yatsubusa-2.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/04-Specimen-1091-Acer-palmatum-Sekka-yatsubusa.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sekka-yatsubusa/05-Acer-palmatum-Sekka-yatsubusa-2.jpg"
+      ]
+    }
+  }
 }

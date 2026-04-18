@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "The beautiful leaves of this cultivar are seven lobed, with the two basal lobes very small and angled backward to- Corvallis and irregularly double toothed. The lobe shape approaches that of the green dissectum 'Palmatifidum'. Although the leaf is of the Matsumurae Group, it aspires to be a dissectum, but does not quite make it! The leaf has a lovely feathery appearance and is 4-6 cm long and 5-6 cm wide. The slender petioles are 2-4 cm long. The new foliage emerges with a brilliant red tone which lasts into late spring. During the early summer the leaves turn green, but the tips and edges remain tinged red. The green is lighter under shade. Fall colors range from gold to crimson. 'Shigure bato' is not a rapid-growing cultivar. Although it forms an upright bush, it only attains up to 3 m high at maturity, spreading its branches outward so that it may be as wide as tall. It is tender and not easily propagated. The name 'Shigure bato' means \"late fall rain.\""
+    "preferred": "The beautiful leaves of this cultivar are seven lobed, with the two basal lobes very small and angled backward to- Corvallis and irregularly double toothed. The lobe shape approaches that of the green dissectum 'Palmatifidum'. Although the leaf is of the Matsumurae Group, it aspires to be a dissectum, but does not quite make it! The leaf has a lovely feathery appearance and is 4-6 cm long and 5-6 cm wide. The slender petioles are 2-4 cm long. The new foliage emerges with a brilliant red tone which lasts into late spring. During the early summer the leaves turn green, but the tips and edges remain tinged red. The green is lighter under shade. Fall colors range from gold to crimson. 'Shigure bato' is not a rapid-growing cultivar. Although it forms an upright bush, it only attains up to 3 m high at maturity, spreading its branches outward so that it may be as wide as tall. It is tender and not easily propagated. The name 'Shigure bato' means \"late fall rain. \""
   },
   "images": {
     "count": 0,
@@ -23,10 +23,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-shigure-bato/01-Acer-palmatum-Shigure-bato-Specimen-2206.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-shigure-bato/01-Acer-palmatum-Shigure-bato-Specimen-2206.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-shigure-bato/01-Acer-palmatum-Shigure-bato-Specimen-2206.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -42,6 +47,15 @@
       "rhs_id": 104659,
       "detail_url": "https://www.rhs.org.uk/plants/104659/acer-palmatum-shigure-bato-(m)/details",
       "botanical_name": "Acer palmatum 'Shigure-bato' (M)",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Shigure bato’ Specimen 2206",
+      "botanical_name": "Acer palmatum 'Shigure bato'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-shigure-bato-specimen-2206/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -59,7 +73,7 @@
     "Shigure bato",
     "Shigure-bato"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -133,10 +147,52 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶、直立型日本枫，高和冠幅约 3 米。叶片羽状细裂，7 裂，各裂片狭长延伸，渐尖成细长叶尖；春季鲜红，夏季转绿，秋色为金黄至绯红。"
+    "description": "落叶、直立型日本枫，高和冠幅约 3 米。 叶片羽状细裂，7 裂，各裂片狭长延伸，渐尖成细长叶尖；春季鲜红，夏季转绿，秋色为金黄至绯红。"
   },
   "descriptions_zh": {
-    "preferred": "该品种叶片秀美，具七裂，其中两个基部裂片很小并向后反折，叶缘不规则重锯齿。裂片形态接近绿色羽裂型 dissectum 品种 'Palmatifidum'。尽管其叶片归入 Matsumurae Group，但它颇有 dissectum 的风姿，只是还未完全达到那种程度。叶片具有优美的羽毛状观感，长 4 至 6 厘米，宽 5 至 6 厘米。细长叶柄长 2 至 4 厘米。新叶展开时呈艳丽红色，可持续至晚春。初夏时叶片转绿，但叶尖与叶缘仍保留红色晕染。遮阴条件下叶色更浅。秋色从金黄到深红不等。'Shigure bato' 生长速度不快。虽形成直立灌丛，但成熟时通常仅高达 3 米，同时枝条向外伸展，因此株幅可与株高相当。该品种较娇嫩，繁殖也不容易。'Shigure bato' 名称意为“深秋之雨”。"
+    "preferred": "该品种叶片秀美，具七裂，其中两个基部裂片很小并向后反折，叶缘不规则重锯齿。 裂片形态接近绿色羽裂型 dissectum 品种 'Palmatifidum'。 尽管其叶片归入 Matsumurae Group，但它颇有 dissectum 的风姿，只是还未完全达到那种程度。 叶片具有优美的羽毛状观感，长 4 至 6 厘米，宽 5 至 6 厘米。 细长叶柄长 2 至 4 厘米。 新叶展开时呈艳丽红色，可持续至晚春。 初夏时叶片转绿，但叶尖与叶缘仍保留红色晕染。 遮阴条件下叶色更浅。 秋色从金黄到深红不等。 'Shigure bato' 生长速度不快。 虽形成直立灌丛，但成熟时通常仅高达 3 米，同时枝条向外伸展，因此株幅可与株高相当。 该品种较娇嫩，繁殖也不容易。 'Shigure bato' 名称意为“深秋之雨”。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-shigure-bato-specimen-2206/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigure-bato/01-Acer-palmatum-Shigure-bato-Specimen-2206.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigure-bato/01-Acer-palmatum-Shigure-bato-Specimen-2206.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Shigure bato’ Specimen 2206",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-shigure-bato-specimen-2206/",
+        "botanical_name": "Acer palmatum 'Shigure bato'",
+        "common_name": "Shigure bato",
+        "description_text": "The leaves of this Japanese maple, which are somewhat dissected, produce a feathery appearance and a beautiful progression of color. Shop online now!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum shigure bato",
+        "match_score": 263
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2022/07/Acer-palmatum-Shigure-bato-Specimen-2206.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-shigure-bato-specimen-2206/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigure-bato/01-Acer-palmatum-Shigure-bato-Specimen-2206.jpg",
+          "bytes": 660636,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:49.548Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigure-bato/01-Acer-palmatum-Shigure-bato-Specimen-2206.jpg"
+      ]
+    }
+  }
 }

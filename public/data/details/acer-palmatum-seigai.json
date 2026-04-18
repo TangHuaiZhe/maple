@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "The brilliant scarlet spring foliage is the most attractive feature. The small moderately deeply divided leaves have five to seven lobes narrowing rapidly to sharp points. Margins are toothed. Spring color is bright crimson, lasting about a month, before the leaves Acer change to a bronze-green to blue-green and then the green of late summer, becoming flame-red in the fall. This hardy cultivar eventually makes a small upright tree or large shrub up to 13 ft. (4 m) tall. It is quite popular for bonsai. The name means \"a blue cliff.\""
+    "preferred": "The brilliant scarlet spring foliage is the most attractive feature. The small moderately deeply divided leaves have five to seven lobes narrowing rapidly to sharp points. Margins are toothed. Spring color is bright crimson, lasting about a month, before the leaves Acer change to a bronze-green to blue-green and then the green of late summer, becoming flame-red in the fall. This hardy cultivar eventually makes a small upright tree or large shrub up to 13 ft. (4 m) tall. It is quite popular for bonsai. The name means \"a blue cliff. \""
   },
   "images": {
     "count": 0,
@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -118,7 +119,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "其最迷人的特征是春季鲜艳的猩红色新叶。叶片较小，中等偏深裂，具 5-7 裂，裂片迅速渐尖成锐尖，叶缘具齿。春叶为鲜亮的深红色，可维持约一个月，之后叶色转为铜绿色至蓝绿色，再于夏末变绿，秋季则转为火焰红。本品种耐寒，最终可形成高达 13 英尺（4 米）的小型直立乔木或大型灌木，也非常适合制作盆景。其名称意为“蓝色的崖壁”。"
+    "preferred": "其最迷人的特征是春季鲜艳的猩红色新叶。 叶片较小，中等偏深裂，具 5-7 裂，裂片迅速渐尖成锐尖，叶缘具齿。 春叶为鲜亮的深红色，可维持约一个月，之后叶色转为铜绿色至蓝绿色，再于夏末变绿，秋季则转为火焰红。 本品种耐寒，最终可形成高达 13 英尺（4 米）的小型直立乔木或大型灌木，也非常适合制作盆景。 其名称意为“蓝色的崖壁”。"
   },
   "has_mrmaple": false
 }

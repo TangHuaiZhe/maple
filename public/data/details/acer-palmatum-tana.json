@@ -24,9 +24,18 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.jpg",
+      "/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.jpg",
+      "/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.jpg",
+      "/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.jpg",
+      "/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.jpg"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -51,6 +60,15 @@
       "group": "amoenum",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Tana'",
+      "botanical_name": "Acer palmatum 'Tana'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tana",
+      "image_count": 3,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -63,7 +81,7 @@
     "Acer palmatum 'Tana' (A)",
     "Tana"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -86,9 +104,80 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "'Tana' 这一名称意为“层架”，指的是该品种枝条与叶片所呈现出的层层叠叠效果。其叶色优美，为浅绿至黄绿色。每个裂片顶端都带有明显的紫红色，类似 'Shigarami'，但色泽没有那么深。该颜色会自裂片顶端向后并沿叶缘延伸。中等大小的叶片具 5 或 7 个裂片，明显向外放射。叶长 4-6 厘米，宽 6-8 厘米，但生长旺盛的幼年枝条上的叶片会大得多。裂片裂至叶基约一半，呈宽卵形，渐尖。叶缘仅有极浅的锯齿，并略向上卷。坚挺的叶柄长 4 厘米。叶片和新梢多呈水平展开，枝条横向生长，因此形成该品种特有的层状效果。 'Tana' 生长势强，为直立型品种，几年内即可长到 6 米高。其后向上生长不多，转而形成圆顶状、树冠开展的株形。'Tana' 与"
+    "preferred": "'Tana' 这一名称意为“层架”，指的是该品种枝条与叶片所呈现出的层层叠叠效果。 其叶色优美，为浅绿至黄绿色。 每个裂片顶端都带有明显的紫红色，类似 'Shigarami'，但色泽没有那么深。 该颜色会自裂片顶端向后并沿叶缘延伸。 中等大小的叶片具 5 或 7 个裂片，明显向外放射。 叶长 4-6 厘米，宽 6-8 厘米，但生长旺盛的幼年枝条上的叶片会大得多。 裂片裂至叶基约一半，呈宽卵形，渐尖。 叶缘仅有极浅的锯齿，并略向上卷。 坚挺的叶柄长 4 厘米。 叶片和新梢多呈水平展开，枝条横向生长，因此形成该品种特有的层状效果。 'Tana' 生长势强，为直立型品种，几年内即可长到 6 米高。 其后向上生长不多，转而形成圆顶状、树冠开展的株形。 'Tana' 与"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tana",
+    "matched_product_count": 1,
+    "local_file_count": 3,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Tana'",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tana",
+        "botanical_name": "Acer palmatum 'Tana'",
+        "common_name": "Tana",
+        "description_text": "Acer palmatum Tana has nice star looking leaves. They emerge in the spring green with an amazing purple/red/pink tip, making a great contrast against the green. In fall, 'Tana' put on a show of orange to red leaves. It's a midsized tree, growing 10 feet tall and around 6 feet wide",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Tana",
+        "match_score": 364,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-tana-191460.jpg?v=1721476406",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tana",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.jpg",
+          "bytes": 192690,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:25:01.906Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-tana-810558.jpg?v=1721476406",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tana",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.jpg",
+          "bytes": 229012,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:25:03.295Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-tana-267196.jpg?v=1721476406",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tana",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.jpg",
+          "bytes": 265656,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:25:04.737Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 3,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.jpg"
+      ]
+    }
+  }
 }

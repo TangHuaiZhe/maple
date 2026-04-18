@@ -27,6 +27,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-pixie/02-visi69081.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-pixie/01-visi69082.jpg",
@@ -80,7 +81,7 @@
     "cultivar_names": [
       "Pixie"
     ],
-    "description": "A small, upright, slow-growing tree ultimately to about 2.5m tall and 2m across. The leaves have seven, toothed, tapering lobes opening pink in spring, turning purple-red for summer and bright scarlet in autumn. Small green flowers in spring are followed by winged, red fruit in autumn",
+    "description": "A small, upright, slow-growing tree ultimately to about 2. 5m tall and 2m across. The leaves have seven, toothed, tapering lobes opening pink in spring, turning purple-red for summer and bright scarlet in autumn. Small green flowers in spring are followed by winged, red fruit in autumn",
     "dimensions": {
       "height": "1.5-2.5 metres",
       "spread": "1.5-2.5 metres",
@@ -181,10 +182,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "小型直立、慢生乔木，最终高约 2.5 m，冠幅约 2 m。叶片具 7 个具齿、渐尖的裂片，春季展叶为粉色，夏季转为紫红色，秋季变为鲜亮猩红色。春季开绿色小花，秋季结红色翅果。"
+    "description": "小型直立、慢生乔木，最终高约 2. 5 m，冠幅约 2 m。 叶片具 7 个具齿、渐尖的裂片，春季展叶为粉色，夏季转为紫红色，秋季变为鲜亮猩红色。 春季开绿色小花，秋季结红色翅果。"
   },
   "descriptions_zh": {
-    "preferred": "该品种可能是由 'Bloodgood' 产生的芽变，整体与其相似，但生长更矮，叶裂更深。新叶呈鲜亮的粉红红色，夏季转为深红，秋季则变为炽烈的猩红色。叶片深裂，分为 5 至 7 个宽展的广卵形裂片，先端细长尖锐。叶缘具粗而整齐的锯齿。粉红色叶柄细长而坚挺。'Pixie' 形成致密、圆头状灌木，株高和冠幅可达 6 1/2 英尺（2 米）。相似的 'Skeeter's Broom' 也同样是由 'Bloodgood' 的丛枝变异产生，但其裂片略长。短而圆钝的情况不只出现在中央裂片，任何裂片都可能如此。"
+    "preferred": "该品种可能是由 'Bloodgood' 产生的芽变，整体与其相似，但生长更矮，叶裂更深。 新叶呈鲜亮的粉红红色，夏季转为深红，秋季则变为炽烈的猩红色。 叶片深裂，分为 5 至 7 个宽展的广卵形裂片，先端细长尖锐。 叶缘具粗而整齐的锯齿。 粉红色叶柄细长而坚挺。 'Pixie' 形成致密、圆头状灌木，株高和冠幅可达 6 1/2 英尺（2 米）。 相似的 'Skeeter's Broom' 也同样是由 'Bloodgood' 的丛枝变异产生，但其裂片略长。 短而圆钝的情况不只出现在中央裂片，任何裂片都可能如此。"
   },
   "has_mrmaple": false
 }

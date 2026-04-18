@@ -23,10 +23,23 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-watnong/01-1.-Acer-palmatum-Watnong-with-Hosta.jpg",
+      "/coniferkingdom-images/acer-palmatum-watnong/02-Acer-palmatum-Watnong.jpg",
+      "/coniferkingdom-images/acer-palmatum-watnong/03-23.-Acer-palmatum-Watnong.jpg",
+      "/coniferkingdom-images/acer-palmatum-watnong/04-Acer-palmatum-Watnong-15-gal.jpg",
+      "/coniferkingdom-images/acer-palmatum-watnong/05-Acer-palmatum-Watnong-Specimen-2228.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-watnong/04-Acer-palmatum-Watnong-15-gal.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-watnong/01-1.-Acer-palmatum-Watnong-with-Hosta.jpg",
+      "/coniferkingdom-images/acer-palmatum-watnong/02-Acer-palmatum-Watnong.jpg",
+      "/coniferkingdom-images/acer-palmatum-watnong/03-23.-Acer-palmatum-Watnong.jpg",
+      "/coniferkingdom-images/acer-palmatum-watnong/04-Acer-palmatum-Watnong-15-gal.jpg",
+      "/coniferkingdom-images/acer-palmatum-watnong/05-Acer-palmatum-Watnong-Specimen-2228.jpg"
+    ],
+    "public_count": 5
   },
   "sources": [
     {
@@ -43,6 +56,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/178918/acer-palmatum-watnong-(d)/details",
       "botanical_name": "Acer palmatum 'Watnong' (D)",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Watnong’ Japanese Maple",
+      "botanical_name": "Acer palmatum 'Watnong'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-watnong-japanese-maple/",
+      "image_count": 5,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -55,7 +77,7 @@
     "Acer palmatum 'Watnong' (D)",
     "Watnong"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -111,7 +133,105 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这株来自新泽西、颇具观赏性的 laceleaf 品种，叶片中等大小，兼具较知名红叶品种 'Baldsmith' 的色彩表现，以及绿叶品种 'Chantilly Lace' 那种细致深裂的蕾丝状质感。新叶鲜红，随后转为鲑粉色，入夏后变为覆有绿色底色的粉红至红色。秋色为亮橙色至猩红色。整个夏季都会持续抽生红色新叶，与老叶的粉绿底色形成迷人对比。在全日照条件下，这些变化中的色彩更为醒目。'Watnong' 形成一株姿态优美的植株。"
+    "preferred": "这株来自新泽西、颇具观赏性的 laceleaf 品种，叶片中等大小，兼具较知名红叶品种 'Baldsmith' 的色彩表现，以及绿叶品种 'Chantilly Lace' 那种细致深裂的蕾丝状质感。 新叶鲜红，随后转为鲑粉色，入夏后变为覆有绿色底色的粉红至红色。 秋色为亮橙色至猩红色。 整个夏季都会持续抽生红色新叶，与老叶的粉绿底色形成迷人对比。 在全日照条件下，这些变化中的色彩更为醒目。 'Watnong' 形成一株姿态优美的植株。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-watnong-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 5,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/01-1.-Acer-palmatum-Watnong-with-Hosta.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/01-1.-Acer-palmatum-Watnong-with-Hosta.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/02-Acer-palmatum-Watnong.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/03-23.-Acer-palmatum-Watnong.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/04-Acer-palmatum-Watnong-15-gal.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/05-Acer-palmatum-Watnong-Specimen-2228.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Watnong’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-watnong-japanese-maple/",
+        "botanical_name": "Acer palmatum 'Watnong'",
+        "common_name": "Watnong",
+        "description_text": "Dissectum. Spring leaves are bright pink-red, becoming pink-green, then green for summer. New growth, is pink-red against the green existing foliage.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum watnong",
+        "match_score": 259
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/1.-Acer-palmatum-Watnong-with-Hosta.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-watnong-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/01-1.-Acer-palmatum-Watnong-with-Hosta.jpg",
+          "bytes": 349023,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:27:06.865Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/Acer-palmatum-Watnong.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-watnong-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/02-Acer-palmatum-Watnong.jpg",
+          "bytes": 427508,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:27:07.581Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/23.-Acer-palmatum-Watnong.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-watnong-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/03-23.-Acer-palmatum-Watnong.jpg",
+          "bytes": 21213,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:27:08.181Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 4,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/Acer-palmatum-Watnong-15-gal.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-watnong-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/04-Acer-palmatum-Watnong-15-gal.jpg",
+          "bytes": 559482,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:27:09.010Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 5,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/Acer-palmatum-Watnong-Specimen-2228.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-watnong-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/05-Acer-palmatum-Watnong-Specimen-2228.jpg",
+          "bytes": 449195,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:27:09.759Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 5,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/01-1.-Acer-palmatum-Watnong-with-Hosta.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/02-Acer-palmatum-Watnong.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/03-23.-Acer-palmatum-Watnong.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/04-Acer-palmatum-Watnong-15-gal.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-watnong/05-Acer-palmatum-Watnong-Specimen-2228.jpg"
+      ]
+    }
+  }
 }

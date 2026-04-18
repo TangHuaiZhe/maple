@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "This outstanding cultivar was a chance seedling selected by J. R. P. van Hoey Smith at the Trompenburg Arboretum, Rotterdam, Netherlands, and introduced by Firma C. Esveld, Boskoop, Netherlands. It is popular wherever it is grown. The unusual leaves have seven or nine lobes and are 6-8cmlongand9-12cmacross.Thelobesseparatedeeply to within 1 cm of the leaf base. They radiate laterally and evenly, giving the appearance of fingers extended from a hand. Each lobe is oblong-ovate. However, the edges roll down for three-quarters of the way, almost forming atube. The remaining quarter flattens todisplay the deeply serrated margins. The tips of the lobes turn slightly down on mature leaves. This extraordinary leaf Corvallis coloration of crimson completes a colorful year. This upright-growing cultivar—strong but not unruly —reaches 6-8 m high and 4-5 m wide. The parent plant at the Trompenburg Arboretum shows a tendency to broaden as it grows older. The branches begin to extend laterally, with the fingerlike leaves reaching outward and down. This cultivar has become a favorite for landscaping."
+    "preferred": "This outstanding cultivar was a chance seedling selected by J. R. P. van Hoey Smith at the Trompenburg Arboretum, Rotterdam, Netherlands, and introduced by Firma C. Esveld, Boskoop, Netherlands. It is popular wherever it is grown. The unusual leaves have seven or nine lobes and are 6-8cmlongand9-12cmacross. Thelobesseparatedeeply to within 1 cm of the leaf base. They radiate laterally and evenly, giving the appearance of fingers extended from a hand. Each lobe is oblong-ovate. However, the edges roll down for three-quarters of the way, almost forming atube. The remaining quarter flattens todisplay the deeply serrated margins. The tips of the lobes turn slightly down on mature leaves. This extraordinary leaf Corvallis coloration of crimson completes a colorful year. This upright-growing cultivar—strong but not unruly —reaches 6-8 m high and 4-5 m wide. The parent plant at the Trompenburg Arboretum shows a tendency to broaden as it grows older. The branches begin to extend laterally, with the fingerlike leaves reaching outward and down. This cultivar has become a favorite for landscaping."
   },
   "images": {
     "count": 0,
@@ -88,6 +88,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-trompenburg/03-visi69112.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-trompenburg/01-GWIS394.jpg",
@@ -340,10 +341,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶灌木或小乔木。叶片狭窄，7 裂，叶缘反卷；春季呈深红紫色，夏季转趋偏绿，秋季为橙红色。"
+    "description": "落叶灌木或小乔木。 叶片狭窄，7 裂，叶缘反卷；春季呈深红紫色，夏季转趋偏绿，秋季为橙红色。"
   },
   "descriptions_zh": {
-    "preferred": "这一杰出品种是 J. R. P. van Hoey Smith 在荷兰鹿特丹 Trompenburg Arboretum 从实生苗中偶然选出的，并由荷兰 Boskoop 的 Firma C. Esveld 引入。凡有栽培之处，皆颇受欢迎。其叶形独特，叶片具 7 或 9 个裂片，长 6-8 厘米、宽 9-12 厘米。裂片深裂，距叶基仅约 1 厘米，向两侧均匀放射展开，形如手掌伸出的手指。每个裂片为长卵形，但其边缘有约四分之三向下卷曲，几乎形成管状；其余四分之一则平展，从而显露出深锯齿状叶缘。成熟叶的裂片先端会略向下弯。这样非凡的叶形，再加上秋季转为深绯红色，使其全年观赏性极强。该品种生长直立，长势强健但不过分散乱，可达 6-8 米高、4-5 米宽。Trompenburg Arboretum 的母株随着树龄增加会逐渐开展，枝条开始向侧方伸展，手指状叶片则向外并略向下展开。该品种已成为园林绿化中的经典选择。"
+    "preferred": "这一杰出品种是 J. R. P. van Hoey Smith 在荷兰鹿特丹 Trompenburg Arboretum 从实生苗中偶然选出的，并由荷兰 Boskoop 的 Firma C. Esveld 引入。 凡有栽培之处，皆颇受欢迎。 其叶形独特，叶片具 7 或 9 个裂片，长 6-8 厘米、宽 9-12 厘米。 裂片深裂，距叶基仅约 1 厘米，向两侧均匀放射展开，形如手掌伸出的手指。 每个裂片为长卵形，但其边缘有约四分之三向下卷曲，几乎形成管状；其余四分之一则平展，从而显露出深锯齿状叶缘。 成熟叶的裂片先端会略向下弯。 这样非凡的叶形，再加上秋季转为深绯红色，使其全年观赏性极强。 该品种生长直立，长势强健但不过分散乱，可达 6-8 米高、4-5 米宽。 Trompenburg Arboretum 的母株随着树龄增加会逐渐开展，枝条开始向侧方伸展，手指状叶片则向外并略向下展开。 该品种已成为园林绿化中的经典选择。"
   },
   "has_mrmaple": true,
   "mrmaple": {

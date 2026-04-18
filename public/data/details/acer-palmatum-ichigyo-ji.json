@@ -26,6 +26,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-ichigyo-ji/01-RHS_WSYD0017931_11428.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-ichigyo-ji/01-RHS_WSYD0017931_11428.JPG"
@@ -41,7 +42,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "黄叶",
       "title": "一行寺Acer Palmatum 'Ichigyoji'",
-      "description": "一行寺是一款非常稀少的枫树品种，在市面上不常见。 春天金黄色，夏季会返绿，秋天一棵树上会出现金色、 橙色和猩红色。叶型和红灯笼很像，成年树高约 3-4 米。",
+      "description": "一行寺是一款非常稀少的枫树品种，在市面上不常见。 春天金黄色，夏季会返绿，秋天一棵树上会出现金色、 橙色和猩红色。 叶型和红灯笼很像，成年树高约 3-4 米。",
       "image_count": 8
     },
     {
@@ -166,7 +167,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "除了极其鲜亮的黄色或橙色秋叶外，'Ichigyo¯ji' 与红叶品种 'Osakazuki' 很相似。夏季时，大型 7 裂叶呈悦目的绿色。裂片宽卵形，先端尖锐，边缘略具锯齿。裂片约在接近叶基一半处相连。树形直立而开展，成熟后形成圆头状，树高可达 23 英尺（7 米）。日本作者建议将 'Ichigyo¯ji' 与 'Osakazuki' 相邻种植，以便充分欣赏其秋季绚烂色彩。'Ichigyo¯ji' 的名称源自一座寺庙。"
+    "preferred": "除了极其鲜亮的黄色或橙色秋叶外，'Ichigyo¯ji' 与红叶品种 'Osakazuki' 很相似。 夏季时，大型 7 裂叶呈悦目的绿色。 裂片宽卵形，先端尖锐，边缘略具锯齿。 裂片约在接近叶基一半处相连。 树形直立而开展，成熟后形成圆头状，树高可达 23 英尺（7 米）。 日本作者建议将 'Ichigyo¯ji' 与 'Osakazuki' 相邻种植，以便充分欣赏其秋季绚烂色彩。 'Ichigyo¯ji' 的名称源自一座寺庙。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -187,7 +188,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "大型丛生灌木或开展型小乔木，树冠圆整，高宽均可达约 6 米。叶片较大，7 裂，绿色，叶幅可达 15 厘米，秋季转为明亮的橙色和黄色。春季开簇生小型红花，之后结红色果实。",
+    "description": "大型丛生灌木或开展型小乔木，树冠圆整，高宽均可达约 6 米。 叶片较大，7 裂，绿色，叶幅可达 15 厘米，秋季转为明亮的橙色和黄色。 春季开簇生小型红花，之后结红色果实。",
     "attributes": {
       "suggested_uses": "城市/庭院花园，低维护花园，露台/容器植物，岩石园，建筑感栽植，乡村/自然式花园",
       "hort_group_description": "此 amoenum 类群中的 Acer 品种具有大型掌状叶，叶缘具细锯齿。"

@@ -15,7 +15,7 @@
     "variegated"
   ],
   "descriptions": {
-    "preferred": "The spring leaves are a delightful amber with a network of dark veins, the colors becoming darker through the summer. The large, deeply divided leaves have five to seven ovate lobes with long-pointed tips and fairly evenly toothed but slightly crumpled margins. This cultivar from Oregon forms a semiupright tree to about 13 ft. (4 m) tall and 8 ft. (2.5 m) wide. It adds another attractive color to the garden landscape."
+    "preferred": "The spring leaves are a delightful amber with a network of dark veins, the colors becoming darker through the summer. The large, deeply divided leaves have five to seven ovate lobes with long-pointed tips and fairly evenly toothed but slightly crumpled margins. This cultivar from Oregon forms a semiupright tree to about 13 ft. (4 m) tall and 8 ft. (2. 5 m) wide. It adds another attractive color to the garden landscape."
   },
   "images": {
     "count": 8,
@@ -32,6 +32,7 @@
       "/coniferkingdom-images/acer-palmatum-amber-ghost/04-Acer-palmatum-Amber-Ghost-11.jpg",
       "/coniferkingdom-images/acer-palmatum-amber-ghost/05-Acer-palmatum-Amber-Ghost-2.jpg"
     ],
+    "public_jmac_paths": [],
     "public_cover_path": "/coniferkingdom-images/acer-palmatum-amber-ghost/05-Acer-palmatum-Amber-Ghost-2.jpg",
     "public_paths": [
       "/herter-images/acer-palmatum-amber-ghost/01-amberghost.jpg",
@@ -52,7 +53,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "脉叶",
       "title": "琥珀精灵 Acer Palmatum 'Amber Ghost'",
-      "description": "美国俄勒冈州巴克霍兹苗圃泰隆 · 巴克霍兹育种，一般来说槭树都是以春天的叶色或者秋天的叶色来命名，但是琥珀精灵是以夏天的叶色来命名来。春叶为珊瑚粉色并有绿色的脉纹，夏季转为琥珀色，秋季为绯红色或者橙黄色，色彩丰富， 新抽稍为紫色，生长强健，春秋两季可全日照，夏季午后遮阴，成年可达4m 左右高度。 琥珀 精灵属于 精灵 系列 ，此系列还有以下品种点击查看",
+      "description": "美国俄勒冈州巴克霍兹苗圃泰隆 · 巴克霍兹育种，一般来说槭树都是以春天的叶色或者秋天的叶色来命名，但是琥珀精灵是以夏天的叶色来命名来。 春叶为珊瑚粉色并有绿色的脉纹，夏季转为琥珀色，秋季为绯红色或者橙黄色，色彩丰富， 新抽稍为紫色，生长强健，春秋两季可全日照，夏季午后遮阴，成年可达4m 左右高度。 琥珀 精灵属于 精灵 系列 ，此系列还有以下品种点击查看",
       "image_count": 8
     },
     {
@@ -169,7 +170,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "春叶呈悦目的琥珀色，并带有深色叶脉网络；到夏季颜色会逐渐加深。大型深裂叶具 5 至 7 枚卵形裂片，先端长尖，叶缘锯齿较均匀，且略带皱褶。该品种来自俄勒冈，形成半直立树形，高约 13 英尺（4 米），宽约 8 英尺（2.5 米）。可为庭园景观增添一种迷人的色彩。"
+    "preferred": "春叶呈悦目的琥珀色，并带有深色叶脉网络；到夏季颜色会逐渐加深。 大型深裂叶具 5 至 7 枚卵形裂片，先端长尖，叶缘锯齿较均匀，且略带皱褶。 该品种来自俄勒冈，形成半直立树形，高约 13 英尺（4 米），宽约 8 英尺（2. 5 米）。 可为庭园景观增添一种迷人的色彩。"
   },
   "has_mrmaple": false,
   "herter": {

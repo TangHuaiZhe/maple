@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This lovely dwarf probably originated in the 1970s with the late Jim Caperci, a nurseryman in Seattle, Washington. It is like a dwarf 'Corallinum' with small leaves of a coral or light pink color, becoming a medium to light green for the summer and then turning a golden color in the fall. The small fiveor seven-lobed typical palmatum leaves are 3.5-4 cm long and 4-5 cm wide. The ovate lobes are divided about two-thirds of the way to the leaf base and are 8-10 mm wide at the broadest point in the lower third. The pretty, very slender petioles are 2-2.5 cm long. When young, 'Caperci Dwarf' has a long slender leader and horizontal branching pattern. As it matures it becomes an upright rounded shrub, reaching about 1.5 m tall. This cultivar is sometimes misspelled"
+    "preferred": "This lovely dwarf probably originated in the 1970s with the late Jim Caperci, a nurseryman in Seattle, Washington. It is like a dwarf 'Corallinum' with small leaves of a coral or light pink color, becoming a medium to light green for the summer and then turning a golden color in the fall. The small fiveor seven-lobed typical palmatum leaves are 3. 5-4 cm long and 4-5 cm wide. The ovate lobes are divided about two-thirds of the way to the leaf base and are 8-10 mm wide at the broadest point in the lower third. The pretty, very slender petioles are 2-2. 5 cm long. When young, 'Caperci Dwarf' has a long slender leader and horizontal branching pattern. As it matures it becomes an upright rounded shrub, reaching about 1. 5 m tall. This cultivar is sometimes misspelled"
   },
   "images": {
     "count": 0,
@@ -24,9 +24,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.heic",
+      "/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.heic"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.heic",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.heic",
+      "/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.heic"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -43,6 +50,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/269429/acer-palmatum-caperci-dwarf-(dw)/details",
       "botanical_name": "Acer palmatum 'Caperci Dwarf' (Dw)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Caperci Dwarf' Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Caperci Dwarf'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-caperci-dwarf-dwarf-japanese-maple",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -55,7 +71,7 @@
     "Acer palmatum 'Caperci Dwarf' (Dw)",
     "Caperci Dwarf"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -111,7 +127,64 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一可爱的矮生品种很可能起源于 20 世纪 70 年代，由美国华盛顿州西雅图已故苗圃人 Jim Caperci 选育。它有些像矮化的 ‘Corallinum’，叶片较小，春季呈珊瑚色或浅粉色，夏季转为中绿至浅绿，秋季再变为金黄色。小型叶片为典型 palmatum 叶形，五裂或七裂，长 3.5-4 厘米，宽 4-5 厘米。卵形裂片约裂至叶基的三分之二处，在下部三分之一处最宽，宽 8-10 毫米。纤细秀美的叶柄长 2-2.5 厘米。幼年时期，‘Caperci Dwarf’常有细长主干，分枝较平展；成熟后形成直立圆头灌木，高约 1.5 米。该品种有时会被误拼为 ‘Capersi Dwarf’。后文疑为另一品种资料残段：叶宽可达 18 厘米。叶片强健而醒目，裂至叶基三分之二以上，卵形裂片渐尖，叶缘具重锯齿。春季旺盛生长会形成非常大的叶片，而老枝上的叶会略小。春叶为浓郁深暗紫红色，叶背深绿色；夏季紫红色中会显现绿色底色。秋季转为浓郁的焦橙色和黄橙色。该品种成熟后为中型开展树形，与更鲜亮的红叶或绿叶品种可形成强烈色彩对比。"
+    "preferred": "这一可爱的矮生品种很可能起源于 20 世纪 70 年代，由美国华盛顿州西雅图已故苗圃人 Jim Caperci 选育。 它有些像矮化的 ‘Corallinum’，叶片较小，春季呈珊瑚色或浅粉色，夏季转为中绿至浅绿，秋季再变为金黄色。 小型叶片为典型 palmatum 叶形，五裂或七裂，长 3. 5-4 厘米，宽 4-5 厘米。 卵形裂片约裂至叶基的三分之二处，在下部三分之一处最宽，宽 8-10 毫米。 纤细秀美的叶柄长 2-2. 5 厘米。 幼年时期，‘Caperci Dwarf’常有细长主干，分枝较平展；成熟后形成直立圆头灌木，高约 1. 5 米。 该品种有时会被误拼为 ‘Capersi Dwarf’。 后文疑为另一品种资料残段：叶宽可达 18 厘米。 叶片强健而醒目，裂至叶基三分之二以上，卵形裂片渐尖，叶缘具重锯齿。 春季旺盛生长会形成非常大的叶片，而老枝上的叶会略小。 春叶为浓郁深暗紫红色，叶背深绿色；夏季紫红色中会显现绿色底色。 秋季转为浓郁的焦橙色和黄橙色。 该品种成熟后为中型开展树形，与更鲜亮的红叶或绿叶品种可形成强烈色彩对比。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-caperci-dwarf-dwarf-japanese-maple",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.heic",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.heic",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.heic"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Caperci Dwarf' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-caperci-dwarf-dwarf-japanese-maple",
+        "botanical_name": "Acer palmatum 'Caperci Dwarf'",
+        "common_name": "Caperci Dwarf",
+        "description_text": "Acer palmatum 'Caperci Dwarf' is a dwarf Japanese maple with a compact growth habit. The leaves of 'Caperci dwarf' are green with red edges in the spring. These leaves then turn yellow to orange in the fall. 10 Year Size: Height: 2-3 feet Width: 2-3 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Caperci Dwarf",
+        "match_score": 372,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-0090.heic?v=1721160476",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-caperci-dwarf-dwarf-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.heic",
+          "bytes": 1551186,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:30.341Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-0091.heic?v=1721160477",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-caperci-dwarf-dwarf-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.heic",
+          "bytes": 1599030,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:34.380Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.heic",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.heic"
+      ]
+    }
+  }
 }

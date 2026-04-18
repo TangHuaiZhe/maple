@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -114,7 +115,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "不同于多数 Acer circinatum 品种仅具浅裂叶片，'Monroe' 的叶片为深裂型。五至七个裂片一直分离至叶基，每个主裂片两侧又深裂，几乎达到中脉。这些次级裂片具锯齿，使叶缘显得极不规则。该品种植株强健，形成直立灌木，高可达 13 英尺（4 米），随着树龄增长，株形会变得更大、更宽展。"
+    "preferred": "不同于多数 Acer circinatum 品种仅具浅裂叶片，'Monroe' 的叶片为深裂型。 五至七个裂片一直分离至叶基，每个主裂片两侧又深裂，几乎达到中脉。 这些次级裂片具锯齿，使叶缘显得极不规则。 该品种植株强健，形成直立灌木，高可达 13 英尺（4 米），随着树龄增长，株形会变得更大、更宽展。"
   },
   "has_mrmaple": false
 }

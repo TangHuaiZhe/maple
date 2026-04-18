@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "简称伍德，也可写作 \"Elmwoodie\" 或 \"Elmwoodii\" ，是一款直立生长的日本枫树，叶子深裂，有明显的的脉叶结构，成年株高 2-3 m 。春天的叶子呈淡绿色，还会带一点棕红色，阳光下形成一种不寻常而美丽的锈色，叶脉为深棕色。夏天浅绿和深绿交织在一起，呈现渐变的效果，秋天的色彩是金橙色，在寂寥萧瑟的庭院里是夺目的存在，但又和其他的景观充分融合，不显突兀。伍德在每个季节都有一树多色的表现，喜欢色彩层次丰富的朋友不容错过，相信它一定能够为你带来惊喜。"
+    "preferred": "简称伍德，也可写作 \"Elmwoodie\" 或 \"Elmwoodii\" ，是一款直立生长的日本枫树，叶子深裂，有明显的的脉叶结构，成年株高 2-3 m 。 春天的叶子呈淡绿色，还会带一点棕红色，阳光下形成一种不寻常而美丽的锈色，叶脉为深棕色。 夏天浅绿和深绿交织在一起，呈现渐变的效果，秋天的色彩是金橙色，在寂寥萧瑟的庭院里是夺目的存在，但又和其他的景观充分融合，不显突兀。 伍德在每个季节都有一树多色的表现，喜欢色彩层次丰富的朋友不容错过，相信它一定能够为你带来惊喜。"
   },
   "images": {
     "count": 8,
@@ -19,10 +19,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-elmwood/01-Acer-palmatum-Elmwood-Specimen-1936.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-elmwood/01-Acer-palmatum-Elmwood-Specimen-1936.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-elmwood/01-Acer-palmatum-Elmwood-Specimen-1936.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,7 +38,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "脉叶",
       "title": "艾姆伍德 Acer Palmatum 'Elmwood'",
-      "description": "简称伍德，也可写作 \"Elmwoodie\" 或 \"Elmwoodii\" ，是一款直立生长的日本枫树，叶子深裂，有明显的的脉叶结构，成年株高 2-3 m 。春天的叶子呈淡绿色，还会带一点棕红色，阳光下形成一种不寻常而美丽的锈色，叶脉为深棕色。夏天浅绿和深绿交织在一起，呈现渐变的效果，秋天的色彩是金橙色，在寂寥萧瑟的庭院里是夺目的存在，但又和其他的景观充分融合，不显突兀。伍德在每个季节都有一树多色的表现，喜欢色彩层次丰富的朋友不容错过，相信它一定能够为你带来惊喜。",
+      "description": "简称伍德，也可写作 \"Elmwoodie\" 或 \"Elmwoodii\" ，是一款直立生长的日本枫树，叶子深裂，有明显的的脉叶结构，成年株高 2-3 m 。 春天的叶子呈淡绿色，还会带一点棕红色，阳光下形成一种不寻常而美丽的锈色，叶脉为深棕色。 夏天浅绿和深绿交织在一起，呈现渐变的效果，秋天的色彩是金橙色，在寂寥萧瑟的庭院里是夺目的存在，但又和其他的景观充分融合，不显突兀。 伍德在每个季节都有一树多色的表现，喜欢色彩层次丰富的朋友不容错过，相信它一定能够为你带来惊喜。",
       "image_count": 8
     },
     {
@@ -41,6 +46,15 @@
       "rhs_id": 366903,
       "detail_url": "https://www.rhs.org.uk/plants/366903/acer-palmatum-elmwood-(v)/details",
       "botanical_name": "Acer palmatum 'Elmwood' (v)",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Elmwood’ Specimen 1936",
+      "botanical_name": "Acer Palmatum 'Elmwood'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-elmwood-specimen-1936/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -60,7 +74,7 @@
     "艾姆伍德 Acer Palmatum 'Elmwood'",
     "鸡爪槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -116,7 +130,49 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "简称伍德，也可写作 \"Elmwoodie\" 或 \"Elmwoodii\" ，是一款直立生长的日本枫树，叶子深裂，有明显的的脉叶结构，成年株高 2-3 m 。春天的叶子呈淡绿色，还会带一点棕红色，阳光下形成一种不寻常而美丽的锈色，叶脉为深棕色。夏天浅绿和深绿交织在一起，呈现渐变的效果，秋天的色彩是金橙色，在寂寥萧瑟的庭院里是夺目的存在，但又和其他的景观充分融合，不显突兀。伍德在每个季节都有一树多色的表现，喜欢色彩层次丰富的朋友不容错过，相信它一定能够为你带来惊喜。"
+    "preferred": "简称伍德，也可写作 \"Elmwoodie\" 或 \"Elmwoodii\" ，是一款直立生长的日本枫树，叶子深裂，有明显的的脉叶结构，成年株高 2-3 m 。 春天的叶子呈淡绿色，还会带一点棕红色，阳光下形成一种不寻常而美丽的锈色，叶脉为深棕色。 夏天浅绿和深绿交织在一起，呈现渐变的效果，秋天的色彩是金橙色，在寂寥萧瑟的庭院里是夺目的存在，但又和其他的景观充分融合，不显突兀。 伍德在每个季节都有一树多色的表现，喜欢色彩层次丰富的朋友不容错过，相信它一定能够为你带来惊喜。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-elmwood-specimen-1936/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-elmwood/01-Acer-palmatum-Elmwood-Specimen-1936.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-elmwood/01-Acer-palmatum-Elmwood-Specimen-1936.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Elmwood’ Specimen 1936",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-elmwood-specimen-1936/",
+        "botanical_name": "Acer Palmatum 'Elmwood'",
+        "common_name": "Elmwood",
+        "description_text": "Consistent variegation decorates the large, light green to light brown (and all the colors between), deeply divided leaves of this small, upright broad Japanese maple.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum elmwood",
+        "match_score": 259
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/02/Acer-palmatum-Elmwood-Specimen-1936.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-elmwood-specimen-1936/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-elmwood/01-Acer-palmatum-Elmwood-Specimen-1936.jpg",
+          "bytes": 495708,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:00.077Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-elmwood/01-Acer-palmatum-Elmwood-Specimen-1936.jpg"
+      ]
+    }
+  }
 }

@@ -25,9 +25,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -63,6 +68,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/81792/acer-palmatum-nishiki-gawa-(p)/details",
       "botanical_name": "Acer palmatum 'Nishiki-gawa' (P)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Nishiki gawa' Rough Bark Japanese Maple",
+      "botanical_name": "Acer palmatum",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-nishiki-gawa",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -92,7 +106,7 @@
     "锦川Acer palmatum'Nishiki gawa'",
     "鸡爪槭"
   ],
-  "source_count": 4,
+  "source_count": 5,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -174,10 +188,53 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "丛生、直立的落叶小乔木，高约 6 米，以其粗糙如松的树皮著称；树龄增长后，树皮增厚并呈栓皮状。掌状 7 裂叶长 4 至 5 厘米，春季萌发时浅绿色，边缘带淡淡红晕，夏季转为鲜绿色，秋季则变为浓黄色。"
+    "description": "丛生、直立的落叶小乔木，高约 6 米，以其粗糙如松的树皮著称；树龄增长后，树皮增厚并呈栓皮状。 掌状 7 裂叶长 4 至 5 厘米，春季萌发时浅绿色，边缘带淡淡红晕，夏季转为鲜绿色，秋季则变为浓黄色。"
   },
   "descriptions_zh": {
-    "preferred": "本品种最突出的特征是粗糙如松树的树皮，因此也被称为 'Pine Bark Maple'。其树皮常被比作日本黑松 Pinus thunbergii 的树皮。植株越老，树皮越粗糙，逐渐变得非常栓皮化，厚实的树皮上形成粗大的纵向不规则裂纹。这一特征在幼年繁殖株上并不明显，通常在 2 至 3 年后开始形成。老株的树皮会变得很厚并呈扭曲状。其粗皮特征比品种 'Arakawa'（异名 'Rough Bark Maple'）更加显著。正常掌状叶通常 7 裂，其中基部两个裂片很小。长卵形裂片渐尖，分裂深达叶基约三分之二。对这样的小叶而言，叶缘锯齿相当明显，叶片长宽约 4 至 5 厘米。春叶浅绿色，边缘带淡红晕；成熟叶转为鲜绿色，秋季变为明亮的黄色。株形直立但较丛生，成熟后为丛生状小乔木，高可达 6 米。在日本已广泛用于盆景培养，且非常适合频繁修剪与整形。"
+    "preferred": "本品种最突出的特征是粗糙如松树的树皮，因此也被称为 'Pine Bark Maple'。 其树皮常被比作日本黑松 Pinus thunbergii 的树皮。 植株越老，树皮越粗糙，逐渐变得非常栓皮化，厚实的树皮上形成粗大的纵向不规则裂纹。 这一特征在幼年繁殖株上并不明显，通常在 2 至 3 年后开始形成。 老株的树皮会变得很厚并呈扭曲状。 其粗皮特征比品种 'Arakawa'（异名 'Rough Bark Maple'）更加显著。 正常掌状叶通常 7 裂，其中基部两个裂片很小。 长卵形裂片渐尖，分裂深达叶基约三分之二。 对这样的小叶而言，叶缘锯齿相当明显，叶片长宽约 4 至 5 厘米。 春叶浅绿色，边缘带淡红晕；成熟叶转为鲜绿色，秋季变为明亮的黄色。 株形直立但较丛生，成熟后为丛生状小乔木，高可达 6 米。 在日本已广泛用于盆景培养，且非常适合频繁修剪与整形。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-nishiki-gawa",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Nishiki gawa' Rough Bark Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-nishiki-gawa",
+        "botanical_name": "Acer palmatum",
+        "common_name": "Nishiki gawa",
+        "description_text": "Acer palmatum ‘Nishiki gawa’ is an upright growing Japanese maple with green leaves. The most remarkable thing about ‘Nishiki gawa’ is the rough, pine bark the tree develops with age. This is a very unique look compared to the majority of Japanese maples that have smooth bark. ‘Nishiki gawa’ has a vibrant orange fall color. 10 Year Size: Height: 10-12 feet Width: 6-8 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Nishiki gawa",
+        "match_score": 371,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-nishiki-gawa-451660.jpg?v=1658490853",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-nishiki-gawa",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg",
+          "bytes": 430088,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:28.165Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg"
+      ]
+    }
+  }
 }

@@ -26,6 +26,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-murasaki-kiyohime/01-PUB0007301_11439.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-murasaki-kiyohime/01-PUB0007301_11439.jpg"
@@ -87,7 +88,7 @@
       "Murasaki-kiyohime",
       "Murasaki-kyohim"
     ],
-    "description": "A spreading, dwarf shrub to 1.2m tall and 1.5m wide. Green-yellow leaves emerge in spring, tipped and edged with red, maturing to a glossy, dark green colour again with purple-red margins. Autumn leaf colours include yellow, orange and bronze. Small reddish-purple flowers in spring are followed by red, winged fruits",
+    "description": "A spreading, dwarf shrub to 1. 2m tall and 1. 5m wide. Green-yellow leaves emerge in spring, tipped and edged with red, maturing to a glossy, dark green colour again with purple-red margins. Autumn leaf colours include yellow, orange and bronze. Small reddish-purple flowers in spring are followed by red, winged fruits",
     "dimensions": {
       "height": "1-1.5 metres",
       "spread": "1-1.5 metres",
@@ -174,10 +175,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "开展性的矮生灌木，高约 1.2 米，冠幅约 1.5 米。春季新叶黄绿色，叶尖和叶缘带红色，成熟后转为有光泽的深绿色，叶缘仍带紫红色。秋叶颜色包括黄色、橙色和青铜色。春季开小型红紫色花，随后结红色翅果。"
+    "description": "开展性的矮生灌木，高约 1. 2 米，冠幅约 1. 5 米。 春季新叶黄绿色，叶尖和叶缘带红色，成熟后转为有光泽的深绿色，叶缘仍带紫红色。 秋叶颜色包括黄色、橙色和青铜色。 春季开小型红紫色花，随后结红色翅果。"
   },
   "descriptions_zh": {
-    "preferred": "这也是一个矮生品种，观赏价值很高，但并不广为人知。叶片分为五裂，自中心开张放射。叶基近截形。成熟叶长 3-5 厘米，宽 4-5 厘米；在容器栽培条件下叶片往往更小。每一裂片为卵状披针形，渐尖并延伸成锐尖先端。裂片分离至距叶基约四分之三处。中央裂片非常突出，尤其在新叶上常更为明显。叶缘外半部具齿，内半部平滑。新叶呈非常浅的黄绿色，但叶缘周围重度着生一圈鲜亮的紫红色宽边。这种紫红色在边缘最浓，逐渐向叶片内部过渡。叶片成熟后转为纯绿色。叶面常可见极淡的细小白色斑点。Archives, Corvallis 记载其株型为直立，随株龄增长可达约 1 米高。"
+    "preferred": "这也是一个矮生品种，观赏价值很高，但并不广为人知。 叶片分为五裂，自中心开张放射。 叶基近截形。 成熟叶长 3-5 厘米，宽 4-5 厘米；在容器栽培条件下叶片往往更小。 每一裂片为卵状披针形，渐尖并延伸成锐尖先端。 裂片分离至距叶基约四分之三处。 中央裂片非常突出，尤其在新叶上常更为明显。 叶缘外半部具齿，内半部平滑。 新叶呈非常浅的黄绿色，但叶缘周围重度着生一圈鲜亮的紫红色宽边。 这种紫红色在边缘最浓，逐渐向叶片内部过渡。 叶片成熟后转为纯绿色。 叶面常可见极淡的细小白色斑点。 Archives, Corvallis 记载其株型为直立，随株龄增长可达约 1 米高。"
   },
   "has_mrmaple": false
 }

@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "Each small leaf is fivelobed, with the center lobe noticeably longer. The lobes are ovate-lanceolate and deeply divided. The sharp lobe tips tend to turn downward. The margins are toothed. The leafstalks are a rich green tinged with pink. Early spring leaves are beautiful. The edges are tinged with orange-red, which is lightly and delicately shaded into the light green leaf center. The summer foliage is a rich green, turning yellow-orange in the fall. 'Kiyohime' is a sturdy, vigorous plant, suitable for container and bonsai culture. It can form a dense roundish bush 61⁄2 ft. (2 m) high. The name means \"yellow-leaved dwarf.\""
+    "preferred": "Each small leaf is fivelobed, with the center lobe noticeably longer. The lobes are ovate-lanceolate and deeply divided. The sharp lobe tips tend to turn downward. The margins are toothed. The leafstalks are a rich green tinged with pink. Early spring leaves are beautiful. The edges are tinged with orange-red, which is lightly and delicately shaded into the light green leaf center. The summer foliage is a rich green, turning yellow-orange in the fall. 'Kiyohime' is a sturdy, vigorous plant, suitable for container and bonsai culture. It can form a dense roundish bush 61⁄2 ft. (2 m) high. The name means \"yellow-leaved dwarf. \""
   },
   "images": {
     "count": 0,
@@ -31,6 +31,7 @@
       "/ncsu-images/acer-palmatum-kiyohime/06-Acer_palmatum_Kiyoh_003SGkFrJsPt.jpeg"
     ],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/ncsu-images/acer-palmatum-kiyohime/01-Acer_palmatum_Kiyohi_83PZMxhHvlS5.jpe",
     "public_paths": [
       "/ncsu-images/acer-palmatum-kiyohime/01-Acer_palmatum_Kiyohi_83PZMxhHvlS5.jpe",
@@ -177,10 +178,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
     },
-    "description": "生长势较强、株丛紧密的矮生灌木，高度和冠幅均可达 2 米。叶片较小，5 裂，春季萌发时为浅绿色，叶缘带橙红色晕染；夏季成熟为浓绿色，秋季转为黄橙色。"
+    "description": "生长势较强、株丛紧密的矮生灌木，高度和冠幅均可达 2 米。 叶片较小，5 裂，春季萌发时为浅绿色，叶缘带橙红色晕染；夏季成熟为浓绿色，秋季转为黄橙色。"
   },
   "descriptions_zh": {
-    "preferred": "每片小叶为五裂，中裂片明显较长。裂片呈卵状披针形，分裂较深。尖锐的裂片先端常向下弯。叶缘具锯齿。叶柄浓绿色并带粉色。早春新叶十分美观，叶缘染有橙红色，并轻柔地渐晕入浅绿色的叶片中央。夏季叶色浓绿，秋季转为黄橙色。'Kiyohime' 是一个结实而长势旺盛的品种，适合容器栽培和盆景栽培。可形成高约 2 米、近圆形且致密的灌丛。其名称意为“黄叶矮生”。"
+    "preferred": "每片小叶为五裂，中裂片明显较长。 裂片呈卵状披针形，分裂较深。 尖锐的裂片先端常向下弯。 叶缘具锯齿。 叶柄浓绿色并带粉色。 早春新叶十分美观，叶缘染有橙红色，并轻柔地渐晕入浅绿色的叶片中央。 夏季叶色浓绿，秋季转为黄橙色。 'Kiyohime' 是一个结实而长势旺盛的品种，适合容器栽培和盆景栽培。 可形成高约 2 米、近圆形且致密的灌丛。 其名称意为“黄叶矮生”。"
   },
   "has_mrmaple": false,
   "ncsu": {

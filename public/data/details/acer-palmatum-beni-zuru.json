@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "The orange-yellow spring foliage is similar to that of 'Akane'. The small green leaves have mainly five long-ovate deeply divided lobes with coarsely toothed margins. In the spring, the leaves emerge a bright orange-pink-red with yellow midribs, changing slowly from the center to orange-yellow, then yellow, and finally light green for the rest of the summer, and eventually turning red in the fall. This small cultivar is ideally suited for container and bonsai culture. The name means \"red swan.\""
+    "preferred": "The orange-yellow spring foliage is similar to that of 'Akane'. The small green leaves have mainly five long-ovate deeply divided lobes with coarsely toothed margins. In the spring, the leaves emerge a bright orange-pink-red with yellow midribs, changing slowly from the center to orange-yellow, then yellow, and finally light green for the rest of the summer, and eventually turning red in the fall. This small cultivar is ideally suited for container and bonsai culture. The name means \"red swan. \""
   },
   "images": {
     "count": 0,
@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -113,7 +114,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "春季的橙黄色新叶与 ‘Akane’ 相似。成熟小叶为绿色，通常具 5 个狭长卵形、分裂较深的裂片，边缘具粗锯齿。春季展叶时呈鲜亮的橙粉红至红色，中脉为黄色；随后从叶片中央开始缓慢转为橙黄色，再变黄，最终在整个夏季保持浅绿色，秋季则转为红色。这一小型品种非常适合盆栽与盆景培养。其名意为“红天鹅”。"
+    "preferred": "春季的橙黄色新叶与 ‘Akane’ 相似。 成熟小叶为绿色，通常具 5 个狭长卵形、分裂较深的裂片，边缘具粗锯齿。 春季展叶时呈鲜亮的橙粉红至红色，中脉为黄色；随后从叶片中央开始缓慢转为橙黄色，再变黄，最终在整个夏季保持浅绿色，秋季则转为红色。 这一小型品种非常适合盆栽与盆景培养。 其名意为“红天鹅”。"
   },
   "has_mrmaple": false
 }

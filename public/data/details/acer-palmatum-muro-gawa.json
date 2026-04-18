@@ -25,9 +25,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-muro-gawa/01-acer-palmatum-muro-gawa-996997.jpg",
+      "/jmac-images/acer-palmatum-muro-gawa/02-acer-palmatum-muro-gawa-955620.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-muro-gawa/02-acer-palmatum-muro-gawa-955620.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-muro-gawa/01-acer-palmatum-muro-gawa-996997.jpg",
+      "/jmac-images/acer-palmatum-muro-gawa/02-acer-palmatum-muro-gawa-955620.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -52,6 +59,15 @@
       "group": "palmatum",
       "color_group": "red",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Muro gawa' Red Japanese Maple",
+      "botanical_name": "Acer palmatum 'Muro gawa'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-muro-gawa",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -66,7 +82,7 @@
     "Muro gawa",
     "Murogawa"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -89,9 +105,66 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "这个强健品种能为庭园带来丰富色彩。春季至初夏，叶色为醒目的橙红色，与绿色叶脉形成鲜明对比。随着季节推进，色调转为锈绿色，至夏末则变为深古铜绿色。秋色为橙红至深红。叶片较大、中度深裂，具 7 至 9 裂，裂片长卵形，各裂片先端渐尖成细尖，叶缘具锯齿。绿色叶柄细长。'Muro gawa' 耐寒且长势较强，成年后树冠顶部圆整，外围枝条下垂，高可达 20 英尺（6 米），冠幅 10-13 英尺（3-4 米）。其名称源自日本中部的室生川。"
+    "preferred": "这个强健品种能为庭园带来丰富色彩。 春季至初夏，叶色为醒目的橙红色，与绿色叶脉形成鲜明对比。 随着季节推进，色调转为锈绿色，至夏末则变为深古铜绿色。 秋色为橙红至深红。 叶片较大、中度深裂，具 7 至 9 裂，裂片长卵形，各裂片先端渐尖成细尖，叶缘具锯齿。 绿色叶柄细长。 'Muro gawa' 耐寒且长势较强，成年后树冠顶部圆整，外围枝条下垂，高可达 20 英尺（6 米），冠幅 10-13 英尺（3-4 米）。 其名称源自日本中部的室生川。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-muro-gawa",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-muro-gawa/01-acer-palmatum-muro-gawa-996997.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-muro-gawa/01-acer-palmatum-muro-gawa-996997.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-muro-gawa/02-acer-palmatum-muro-gawa-955620.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Muro gawa' Red Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-muro-gawa",
+        "botanical_name": "Acer palmatum 'Muro gawa'",
+        "common_name": "Muro gawa",
+        "description_text": "In early spring the palmate leaves emerge pinkish red with green veins giving the entire round topped small tree a stately appearance. As spring progresses the leaves change from that pink cast to bright red, then orange red all the time putting on a show. In cooler climates the colors last well into the summer before eventually turning first bronze and then green this happens quite early if you live in a hotter climate. In fall the show begins again with wonderful shades of red, orange and sometimes even yellow. The name comes from the Muro river in Japan. 10 Tear size: Height: 8-10 Feet Width: 8-10 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Muro gawa",
+        "match_score": 368,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-muro-gawa-996997.jpg?v=1658490909",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-muro-gawa",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-muro-gawa/01-acer-palmatum-muro-gawa-996997.jpg",
+          "bytes": 51996,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:24:23.524Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-muro-gawa-955620.jpg?v=1658490909",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-muro-gawa",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-muro-gawa/02-acer-palmatum-muro-gawa-955620.jpg",
+          "bytes": 132736,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:24:24.638Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-muro-gawa/01-acer-palmatum-muro-gawa-996997.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-muro-gawa/02-acer-palmatum-muro-gawa-955620.jpg"
+      ]
+    }
+  }
 }

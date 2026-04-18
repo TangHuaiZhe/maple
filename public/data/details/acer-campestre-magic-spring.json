@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "魔幻春天是由Andre van Nijnatten于1997年在Acer campestre 'Royal Ruby'皇家红宝石上发现的突变品种。魔幻春天叶子颜色随着时间的推移会发生不寻常的变化：幼叶呈深红色，然后逐渐变为橙色，最后呈现出大理石花纹。最好的观赏期为春末夏初，那时有成熟的锦叶和色彩鲜艳的嫩芽，与浅绿的底色形成鲜明对比。秋天呈现出温暖的橙色。它长得不是很快，很少超过3m的高度。可耐受低至-27°。"
+    "preferred": "魔幻春天是由Andre van Nijnatten于1997年在Acer campestre 'Royal Ruby'皇家红宝石上发现的突变品种。 魔幻春天叶子颜色随着时间的推移会发生不寻常的变化：幼叶呈深红色，然后逐渐变为橙色，最后呈现出大理石花纹。 最好的观赏期为春末夏初，那时有成熟的锦叶和色彩鲜艳的嫩芽，与浅绿的底色形成鲜明对比。 秋天呈现出温暖的橙色。 它长得不是很快，很少超过3m的高度。 可耐受低至-27°。"
   },
   "images": {
     "count": 5,
@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -33,7 +34,7 @@
       "top_group_name": "栓皮槭",
       "second_group_name": "魔幻春天",
       "title": "魔幻春天 Acer Campestre 'Magic Spring'",
-      "description": "魔幻春天是由Andre van Nijnatten于1997年在Acer campestre 'Royal Ruby'皇家红宝石上发现的突变品种。魔幻春天叶子颜色随着时间的推移会发生不寻常的变化：幼叶呈深红色，然后逐渐变为橙色，最后呈现出大理石花纹。最好的观赏期为春末夏初，那时有成熟的锦叶和色彩鲜艳的嫩芽，与浅绿的底色形成鲜明对比。秋天呈现出温暖的橙色。它长得不是很快，很少超过3m的高度。可耐受低至-27°。",
+      "description": "魔幻春天是由Andre van Nijnatten于1997年在Acer campestre 'Royal Ruby'皇家红宝石上发现的突变品种。 魔幻春天叶子颜色随着时间的推移会发生不寻常的变化：幼叶呈深红色，然后逐渐变为橙色，最后呈现出大理石花纹。 最好的观赏期为春末夏初，那时有成熟的锦叶和色彩鲜艳的嫩芽，与浅绿的底色形成鲜明对比。 秋天呈现出温暖的橙色。 它长得不是很快，很少超过3m的高度。 可耐受低至-27°。",
       "image_count": 5
     }
   ],
@@ -56,7 +57,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "魔幻春天是由Andre van Nijnatten于1997年在Acer campestre 'Royal Ruby'皇家红宝石上发现的突变品种。魔幻春天叶子颜色随着时间的推移会发生不寻常的变化：幼叶呈深红色，然后逐渐变为橙色，最后呈现出大理石花纹。最好的观赏期为春末夏初，那时有成熟的锦叶和色彩鲜艳的嫩芽，与浅绿的底色形成鲜明对比。秋天呈现出温暖的橙色。它长得不是很快，很少超过3m的高度。可耐受低至-27°。"
+    "preferred": "魔幻春天是由Andre van Nijnatten于1997年在Acer campestre 'Royal Ruby'皇家红宝石上发现的突变品种。 魔幻春天叶子颜色随着时间的推移会发生不寻常的变化：幼叶呈深红色，然后逐渐变为橙色，最后呈现出大理石花纹。 最好的观赏期为春末夏初，那时有成熟的锦叶和色彩鲜艳的嫩芽，与浅绿的底色形成鲜明对比。 秋天呈现出温暖的橙色。 它长得不是很快，很少超过3m的高度。 可耐受低至-27°。"
   },
   "has_mrmaple": false
 }

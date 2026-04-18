@@ -27,6 +27,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-crataegifolium-little-gem/01-vaem11133.jpg",
     "public_paths": [
       "/rhs-images/acer-crataegifolium-little-gem/01-vaem11133.jpg",
@@ -178,13 +179,13 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "一种紧凑型落叶灌木或矮生小乔木，高约 1 米，株型开展，形成圆丘状树冠。叶片较小、宽圆并具裂片，呈绿色。新叶萌发时为浅绿色，有时叶缘带淡粉色，夏季转为深绿色，秋季再转为橙色和红色。",
+    "description": "一种紧凑型落叶灌木或矮生小乔木，高约 1 米，株型开展，形成圆丘状树冠。 叶片较小、宽圆并具裂片，呈绿色。 新叶萌发时为浅绿色，有时叶缘带淡粉色，夏季转为深绿色，秋季再转为橙色和红色。",
     "attributes": {
       "suggested_uses": "适合用于城市/庭院花园、乡村/自然式花园、花境与花坛、低维护栽培，以及露台/容器栽培。"
     }
   },
   "descriptions_zh": {
-    "preferred": "这一优美的矮生品种具极小而近圆形的叶片，通常为七至九裂，裂片呈卵状三角形，位于叶片下部，叶缘具浅锯齿。叶色为浅绿色，叶面略有细微皱褶。秋色为橙色与深红色。该品种形成紧凑、圆整的灌木，株高与冠幅均可达约 1 米。"
+    "preferred": "这一优美的矮生品种具极小而近圆形的叶片，通常为七至九裂，裂片呈卵状三角形，位于叶片下部，叶缘具浅锯齿。 叶色为浅绿色，叶面略有细微皱褶。 秋色为橙色与深红色。 该品种形成紧凑、圆整的灌木，株高与冠幅均可达约 1 米。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -235,7 +236,7 @@
           "VDAYSALE25",
           "VDAYSALE26"
         ],
-        "description_text": "Acer circinatum 'Little Gem' Dwarf Alleyne Cook Vine Maple Japanese Maple Zones 6-9 Morning Sun to Afternoon Shade 'Little Gem' is a witches' broom on an Acer circinatum that was found by Alleyene Cook, head gardener of Stanley Park in Vancouver, B.C. Alleyene Cook was discussing this witches' broom with Harold Greer, who thought J.D. Vertrees may be interested in propagating this broom. Cook sent cuttings and eventually Vertrees named this selection 'Little Gem'. Others have known this dwarf selection as",
+        "description_text": "Acer circinatum 'Little Gem' Dwarf Alleyne Cook Vine Maple Japanese Maple Zones 6-9 Morning Sun to Afternoon Shade 'Little Gem' is a witches' broom on an Acer circinatum that was found by Alleyene Cook, head gardener of Stanley Park in Vancouver, B. C. Alleyene Cook was discussing this witches' broom with Harold Greer, who thought J. D. Vertrees may be interested in propagating this broom. Cook sent cuttings and eventually Vertrees named this selection 'Little Gem'. Others have known this dwarf selection as",
         "published_at": "2025-11-20T09:00:22-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

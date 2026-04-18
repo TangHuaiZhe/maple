@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -111,7 +112,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "‘Barrier Bergman’ 生长缓慢且株形紧凑，叶片细裂。鲜亮的粉红红色新叶与较老的紫红色至青铜红色叶片形成迷人对比。在半阴环境下栽培时，植株常会显现青铜绿色调。秋色为橙红色。该品种最终形成致密的圆丘状株形，且耐寒性出乎意料地好。"
+    "preferred": "‘Barrier Bergman’ 生长缓慢且株形紧凑，叶片细裂。 鲜亮的粉红红色新叶与较老的紫红色至青铜红色叶片形成迷人对比。 在半阴环境下栽培时，植株常会显现青铜绿色调。 秋色为橙红色。 该品种最终形成致密的圆丘状株形，且耐寒性出乎意料地好。"
   },
   "has_mrmaple": false
 }

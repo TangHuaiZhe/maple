@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -52,7 +53,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "秋色是该品种最突出的观赏特征，叶片会转为深红色，并点缀金色或橙色斑驳。绿色叶片整个夏季都能保持良好叶色，在园林景观中表现悦目。七裂叶片具细长叶柄，叶柄长约 3 厘米。这一中等偏强生长的品种最终会形成高可达 4 米、开展较宽的大型灌木，而非明显直立的乔木。"
+    "preferred": "秋色是该品种最突出的观赏特征，叶片会转为深红色，并点缀金色或橙色斑驳。 绿色叶片整个夏季都能保持良好叶色，在园林景观中表现悦目。 七裂叶片具细长叶柄，叶柄长约 3 厘米。 这一中等偏强生长的品种最终会形成高可达 4 米、开展较宽的大型灌木，而非明显直立的乔木。"
   },
   "has_mrmaple": false
 }

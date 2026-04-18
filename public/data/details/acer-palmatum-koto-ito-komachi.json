@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "Of the many thousands of seedlings produced at Maplewood Nursery, including those by hand hybridization, this one is the most unusual. The plant is extremely dwarf. The original was a chance seedling which remained very tiny for the first three years. It was not until the tiny tips were grafted onto vigorous understock that it began to get any size at all. The most growth that it has been possible to force on any one graft in a season was about 15 cm. Most grafts make an annual growth of 5-6 cm. The shoots are sturdy for the size, and the leaf nodes are very close together—often only a few millimeters apart—thus making the foliage quite dense. The leaves usually have five extremely long, narrow lobes, but many have only three lobes. The margins are not toothed but slightly wavy. Each lobe is only 1 mm at the widest point, and narrows to half that at the base, little more than the width of the midrib. In length each lobe is about 5 cm, and the lobes join at the leaf base. The total spread across the leaves is 11 cm. The leaves do not lie in the same plane, and each one has a different curl to the lobes. The petiole, which is quite fine, is 1.5-2 cm long. scion wood is measured only in millimeters or, at the most, 2 cm. I was pleased to have Hideo Suzuki of Japan view this plant and suggest the name which we have assigned to it. While he visited Maplewood Nursery, he suggested the name 'Koto ito komachi' which can be interpreted as \"old harp string\" or \"beautiful little girl.\" The leaves are like harp strings, and this cultivar is Maplewood's \"beautiful little girl.\" The word komachi is also a horticultural term for \"dwarf.\""
+    "preferred": "Of the many thousands of seedlings produced at Maplewood Nursery, including those by hand hybridization, this one is the most unusual. The plant is extremely dwarf. The original was a chance seedling which remained very tiny for the first three years. It was not until the tiny tips were grafted onto vigorous understock that it began to get any size at all. The most growth that it has been possible to force on any one graft in a season was about 15 cm. Most grafts make an annual growth of 5-6 cm. The shoots are sturdy for the size, and the leaf nodes are very close together—often only a few millimeters apart—thus making the foliage quite dense. The leaves usually have five extremely long, narrow lobes, but many have only three lobes. The margins are not toothed but slightly wavy. Each lobe is only 1 mm at the widest point, and narrows to half that at the base, little more than the width of the midrib. In length each lobe is about 5 cm, and the lobes join at the leaf base. The total spread across the leaves is 11 cm. The leaves do not lie in the same plane, and each one has a different curl to the lobes. The petiole, which is quite fine, is 1. 5-2 cm long. scion wood is measured only in millimeters or, at the most, 2 cm. I was pleased to have Hideo Suzuki of Japan view this plant and suggest the name which we have assigned to it. While he visited Maplewood Nursery, he suggested the name 'Koto ito komachi' which can be interpreted as \"old harp string\" or \"beautiful little girl. \" The leaves are like harp strings, and this cultivar is Maplewood's \"beautiful little girl. \" The word komachi is also a horticultural term for \"dwarf. \""
   },
   "images": {
     "count": 0,
@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-koto-ito-komachi/01-acer-palmatum-koto-ito-komachi-394910.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-koto-ito-komachi/01-acer-palmatum-koto-ito-komachi-394910.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-koto-ito-komachi/01-acer-palmatum-koto-ito-komachi-394910.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -51,6 +56,15 @@
       "group": "dwarf",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Koto ito komachi' Thread Leaf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Koto ito komachi'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-ito-komachi",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -67,7 +81,7 @@
     "Koto ito komachi",
     "Koto-ito-komachi"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -142,11 +156,54 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "一种极矮生且极为罕见的落叶槭，最终高约 30 至 60 厘米。叶片极狭长，略有卷曲，3 至 5 裂，近乎丝状，浅绿色，秋季转为黄橙色。"
+    "description": "一种极矮生且极为罕见的落叶槭，最终高约 30 至 60 厘米。 叶片极狭长，略有卷曲，3 至 5 裂，近乎丝状，浅绿色，秋季转为黄橙色。"
   },
   "descriptions_zh": {
-    "preferred": "在 Maplewood Nursery 培育出的数以千计的实生苗中，包括人工杂交所得者，这一株是最不寻常的。植株极为矮小。原株是一株偶然获得的实生苗，在最初三年一直非常微小。直到将其细小枝梢嫁接到长势旺盛的砧木上后，才开始稍有生长。迄今能够促成单个嫁接株在一个生长季内达到的最大生长量约为 15 厘米，而多数嫁接株每年仅生长 5-6 厘米。枝条就其尺寸而言相当结实，叶节间距极短，常仅数毫米，因此叶幕十分致密。叶片通常具五个极长而狭窄的裂片，但也有不少仅三裂。叶缘无锯齿，仅略呈波状。每个裂片在最宽处仅约 1 毫米，向基部收窄至其一半，几乎只比中脉略宽。各裂片长度约 5 厘米，并在叶基处相连；全叶展开宽度约 11 厘米。叶片并不处于同一平面，每片叶的裂片卷曲姿态也各不相同。叶柄十分纤细，长 1.5-2 厘米。接穗木的长度通常仅以毫米计，最多也不过 2 厘米。我很高兴日本的铃木秀夫先生曾亲自查看这株植物，并建议采用我们后来赋予它的名称。在他访问 Maplewood Nursery 期间，提出名称 'Koto ito komachi'，可解释为“古琴弦”或“美丽的小女孩”。其叶片细如琴弦，而这一品种正是 Maplewood 的“美丽小女孩”。在园艺语境中，komachi 也有“矮生”之意。"
+    "preferred": "在 Maplewood Nursery 培育出的数以千计的实生苗中，包括人工杂交所得者，这一株是最不寻常的。 植株极为矮小。 原株是一株偶然获得的实生苗，在最初三年一直非常微小。 直到将其细小枝梢嫁接到长势旺盛的砧木上后，才开始稍有生长。 迄今能够促成单个嫁接株在一个生长季内达到的最大生长量约为 15 厘米，而多数嫁接株每年仅生长 5-6 厘米。 枝条就其尺寸而言相当结实，叶节间距极短，常仅数毫米，因此叶幕十分致密。 叶片通常具五个极长而狭窄的裂片，但也有不少仅三裂。 叶缘无锯齿，仅略呈波状。 每个裂片在最宽处仅约 1 毫米，向基部收窄至其一半，几乎只比中脉略宽。 各裂片长度约 5 厘米，并在叶基处相连；全叶展开宽度约 11 厘米。 叶片并不处于同一平面，每片叶的裂片卷曲姿态也各不相同。 叶柄十分纤细，长 1. 5-2 厘米。 接穗木的长度通常仅以毫米计，最多也不过 2 厘米。 我很高兴日本的铃木秀夫先生曾亲自查看这株植物，并建议采用我们后来赋予它的名称。 在他访问 Maplewood Nursery 期间，提出名称 'Koto ito komachi'，可解释为“古琴弦”或“美丽的小女孩”。 其叶片细如琴弦，而这一品种正是 Maplewood 的“美丽小女孩”。 在园艺语境中，komachi 也有“矮生”之意。"
   },
   "has_mrmaple": false,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-ito-komachi",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-ito-komachi/01-acer-palmatum-koto-ito-komachi-394910.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-ito-komachi/01-acer-palmatum-koto-ito-komachi-394910.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Koto ito komachi' Thread Leaf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-ito-komachi",
+        "botanical_name": "Acer palmatum 'Koto ito komachi'",
+        "common_name": "Koto ito komachi",
+        "description_text": "Acer palmatum ‘Koto ito Komachi’ is a small linearlobum found as a chance seedling and introduced by J.D. Vertrees. Most leaves have 5 lobes some have only 3. Young vigorous plants may have course foliage but older plants display the characteristic very fine almost hairlike foliage. Very rare in the nursery trade as their are many plants sold under this name that are not the same cultivar. The Japanese name means old 5 string harp. Komachi can also be a horticultural term for dwarf. Fall color is yellow to orange. 10 year size: Height: 4-6 Feet Width: 3-4 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Koto ito komachi",
+        "match_score": 374,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-koto-ito-komachi-394910.jpg?v=1658490848",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-ito-komachi",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-ito-komachi/01-acer-palmatum-koto-ito-komachi-394910.jpg",
+          "bytes": 38681,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:24:01.875Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-ito-komachi/01-acer-palmatum-koto-ito-komachi-394910.jpg"
+      ]
+    }
+  }
 }

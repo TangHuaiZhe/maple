@@ -20,9 +20,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-nishiki-yamato/01-acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-682666.jpg",
+      "/jmac-images/acer-palmatum-nishiki-yamato/02-acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-665824.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-nishiki-yamato/02-acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-665824.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-nishiki-yamato/01-acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-682666.jpg",
+      "/jmac-images/acer-palmatum-nishiki-yamato/02-acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-665824.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -41,6 +48,15 @@
       "rhs_id": 299802,
       "detail_url": "https://www.rhs.org.uk/plants/299802/acer-palmatum-nishiki-yamato/details",
       "botanical_name": "Acer palmatum 'Nishiki-yamato'",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Nishiki yamato' Rough Bark Japanese Maple",
+      "botanical_name": "Acer palmatum 'Nishiki Yamato'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-nishiki-yamato-rough-bark-japanese-maple",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -64,7 +80,7 @@
     "锦大和Acer palmatum 'Nishiki Yamato'",
     "鸡爪槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -123,6 +139,63 @@
   },
   "has_mrmaple": false,
   "descriptions_zh": {
-    "preferred": "生长较快的荒皮系日本枫，树皮会随年龄增长形成类似松树皮的粗糙木栓质感。春叶偏亮绿并可带些棕粉色调，夏季转为稳定的绿色，秋季转为鲜明的橙红到火红色，兼具树皮与秋色观赏性。"
+    "preferred": "生长较快的荒皮系日本枫，树皮会随年龄增长形成类似松树皮的粗糙木栓质感。 春叶偏亮绿并可带些棕粉色调，夏季转为稳定的绿色，秋季转为鲜明的橙红到火红色，兼具树皮与秋色观赏性。"
+  },
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-nishiki-yamato-rough-bark-japanese-maple",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-yamato/01-acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-682666.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-yamato/01-acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-682666.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-yamato/02-acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-665824.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Nishiki yamato' Rough Bark Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-nishiki-yamato-rough-bark-japanese-maple",
+        "botanical_name": "Acer palmatum 'Nishiki Yamato'",
+        "common_name": "Nishiki Yamato",
+        "description_text": "Acer palmatum 'Nishiki yamato' is a fast growing Japanese maple that develops rough rough bark similar to a pine tree as it ages. 'Nishiki yamato' has bright green leaves in the spring that darken to a solid green in the summer. These leaves then turn to a bright orange to red in the fall. 'Nishiki yamato' is a very fast growing tree and develops its rough bark quicker than many other rough bark Japanese maples as well. 10 Year Size: Height: 8-10 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Nishiki Yamato",
+        "match_score": 373,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-682666.jpg?v=1721476341",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-nishiki-yamato-rough-bark-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-yamato/01-acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-682666.jpg",
+          "bytes": 163268,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:28.831Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-665824.jpg?v=1721476341",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-nishiki-yamato-rough-bark-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-yamato/02-acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-665824.jpg",
+          "bytes": 379618,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:30.972Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-yamato/01-acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-682666.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-yamato/02-acer-palmatum-nishiki-yamato-rough-bark-japanese-maple-665824.jpg"
+      ]
+    }
   }
 }

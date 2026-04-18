@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "矮生品种，由宾夕法尼亚州的 William Schwartz 育种并 命名。春天是一个浅绿色，夏季是深绿色，春夏带有紫 边，秋天黄色至橙色。和三河八房相似，但是节间更加 紧凑，长势极为缓慢，成年树高 0.6m，冠幅约 1 米左右， 树形自然成圆冠状，适合做盆景，非常耐寒。 ‍"
+    "preferred": "矮生品种，由宾夕法尼亚州的 William Schwartz 育种并 命名。 春天是一个浅绿色，夏季是深绿色，春夏带有紫 边，秋天黄色至橙色。 和三河八房相似，但是节间更加 紧凑，长势极为缓慢，成年树高 0. 6m，冠幅约 1 米左右， 树形自然成圆冠状，适合做盆景，非常耐寒。 ‍"
   },
   "images": {
     "count": 9,
@@ -20,9 +20,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-tattoo/01-acer-palmatum-tattoo-589052.jpg",
+      "/jmac-images/acer-palmatum-tattoo/02-acer-palmatum-tattoo-614451.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-tattoo/01-acer-palmatum-tattoo-589052.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-tattoo/01-acer-palmatum-tattoo-589052.jpg",
+      "/jmac-images/acer-palmatum-tattoo/02-acer-palmatum-tattoo-614451.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -33,8 +40,17 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "三河系列",
       "title": "Tattoo- Acer palmatum ‘Tattoo‘",
-      "description": "矮生品种，由宾夕法尼亚州的 William Schwartz 育种并 命名。春天是一个浅绿色，夏季是深绿色，春夏带有紫 边，秋天黄色至橙色。和三河八房相似，但是节间更加 紧凑，长势极为缓慢，成年树高 0.6m，冠幅约 1 米左右， 树形自然成圆冠状，适合做盆景，非常耐寒。 ‍",
+      "description": "矮生品种，由宾夕法尼亚州的 William Schwartz 育种并 命名。 春天是一个浅绿色，夏季是深绿色，春夏带有紫 边，秋天黄色至橙色。 和三河八房相似，但是节间更加 紧凑，长势极为缓慢，成年树高 0. 6m，冠幅约 1 米左右， 树形自然成圆冠状，适合做盆景，非常耐寒。 ‍",
       "image_count": 9
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Tattoo' Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Tattoo'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tattoo",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -51,13 +67,70 @@
     "三河系列",
     "鸡爪槭"
   ],
-  "source_count": 1,
+  "source_count": 2,
   "has_web": true,
   "has_book": false,
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "矮生品种，由宾夕法尼亚州的 William Schwartz 育种并 命名。春天是一个浅绿色，夏季是深绿色，春夏带有紫 边，秋天黄色至橙色。和三河八房相似，但是节间更加 紧凑，长势极为缓慢，成年树高 0.6m，冠幅约 1 米左右， 树形自然成圆冠状，适合做盆景，非常耐寒。 ‍"
+    "preferred": "矮生品种，由宾夕法尼亚州的 William Schwartz 育种并 命名。 春天是一个浅绿色，夏季是深绿色，春夏带有紫 边，秋天黄色至橙色。 和三河八房相似，但是节间更加 紧凑，长势极为缓慢，成年树高 0. 6m，冠幅约 1 米左右， 树形自然成圆冠状，适合做盆景，非常耐寒。 ‍"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tattoo",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tattoo/01-acer-palmatum-tattoo-589052.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tattoo/01-acer-palmatum-tattoo-589052.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tattoo/02-acer-palmatum-tattoo-614451.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Tattoo' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tattoo",
+        "botanical_name": "Acer palmatum 'Tattoo'",
+        "common_name": "Tattoo",
+        "description_text": "Acer palmatum ‘Tattoo’ is a fantastic dwarf Japanese maple with similar characteristics to ‘Mikawa Yatsabusa’. While similar, ‘Tattoo’ grows slower, stays smaller, and has more deeply divided leaves than ‘Mikawa yatsabusa’. ‘Tattoo’ leafs out with lime green leaves in the spring that turn to a dark green by summer. Fall color is then yellow to orange. Acer palmatum ‘Tattoo’ is one of our very favorite dwarf Japanese maples, and it is very hard to come by. 10 Year size: Height: 2-3 feet Width: 2-3 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Tattoo",
+        "match_score": 366,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-tattoo-589052.jpg?v=1658490949",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tattoo",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tattoo/01-acer-palmatum-tattoo-589052.jpg",
+          "bytes": 501368,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:25:05.571Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-tattoo-614451.jpg?v=1658490949",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tattoo",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tattoo/02-acer-palmatum-tattoo-614451.jpg",
+          "bytes": 426844,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:25:07.025Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tattoo/01-acer-palmatum-tattoo-589052.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tattoo/02-acer-palmatum-tattoo-614451.jpg"
+      ]
+    }
+  }
 }

@@ -67,6 +67,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-waterfall/01-phbe06755.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-waterfall/01-phbe06755.jpg",
@@ -145,7 +146,7 @@
       "source": "herter",
       "name": "Waterfall Cascading Japanese Maple",
       "detail_url": "https://japanesemaple.net/product/waterfall-cascading-japanese-maple/",
-      "description": "The Waterfall Japanese Maple is a striking tree known for its graceful, cascading branches and vibrant foliage. With its unique weeping form, this tree creates a stunning visual impact in any garden or landscape. Its delicately lacy leaves emerge in soft green in the spring, transforming into shades of gold and orange in the autumn, providing beautiful colour throughout the seasons. The Waterfall’s slow-growing, cascading nature makes it an excellent choice for creating a serene, tranquil atmosphere in your garden. The variety of Waterfall Japanese maple for sale typically reaches a height of 2 to 3 meters, making it ideal for small to medium-sized spaces. Its graceful, sweeping branches and refined appearance also make it perfect for container planting, allowing it to be enjoyed on patios, decks, or in courtyards. Whether used as a focal point or as part of a larger landscape design, the Waterfall Japanese Maple adds a touch of elegance and sophistication. The Waterfall Japanese Maple thrives in well-drained, slightly acidic soil and partial shade. It’s a low-maintenance tree once established, requiring minimal pruning and care. At Herter Nursery, we offer high-quality Waterfall Japanese Maples that are carefully nurtured to ensure vibrant, healthy trees for your garden. Shop now to bring the timeless beauty of the Waterfall Japanese Maple to your landscape.",
+      "description": "The Waterfall Japanese Maple is a striking tree known for its graceful, cascading branches and vibrant foliage. With its unique weeping form, this tree creates a stunning visual impact in any garden or landscape. Its delicately lacy leaves emerge in soft green in the spring, transforming into shades of gold and orange in the autumn, providing beautiful colour throughout the seasons. The variety of Waterfall Japanese maple for sale typically reaches a height of 2 to 3 meters, making it ideal for small to medium-sized spaces. Its graceful, sweeping branches and refined appearance also make it perfect for container planting, allowing it to be enjoyed on patios, decks, or in courtyards. The Waterfall Japanese Maple thrives in well-drained, slightly acidic soil and partial shade. It’s a low-maintenance tree once established, requiring minimal pruning and care. At Herter Nursery, we offer high-quality Waterfall Japanese Maples that are carefully nurtured to ensure vibrant, healthy trees for your garden.",
       "group": "All Japanese Maples / Lace Leaf Japanese Maples",
       "image_count": 1,
       "matched_product_count": 1,
@@ -185,7 +186,7 @@
     "cultivar_names": [
       "Waterfall"
     ],
-    "description": "A deciduous shrub or small tree, to around 2.5m high, with a weeping habit forming a dense mound of lacy foliage. Leaves are bright green, and deeply cut into narrow, feathery lobes, turning bright shades of yellow, orange and red in the autumn",
+    "description": "A deciduous shrub or small tree, to around 2. 5m high, with a weeping habit forming a dense mound of lacy foliage. Leaves are bright green, and deeply cut into narrow, feathery lobes, turning bright shades of yellow, orange and red in the autumn",
     "dimensions": {
       "height": "1.5-2.5 metres",
       "spread": "2.5-4 metres",
@@ -267,14 +268,14 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶灌木或小乔木，高约 2.5 米，具明显垂枝习性，可形成由细 laceleaf 状叶丛构成的致密圆 mound。叶片鲜绿色，深裂为狭窄、羽毛状裂片，秋季转为明亮的黄色、橙色和红色。",
+    "description": "落叶灌木或小乔木，高约 2. 5 米，具明显垂枝习性，可形成由细 laceleaf 状叶丛构成的致密圆 mound。 叶片鲜绿色，深裂为狭窄、羽毛状裂片，秋季转为明亮的黄色、橙色和红色。",
     "attributes": {
       "suggested_uses": "适合用于造型景观、城市／庭院花园、乡村风／自然式花园、低维护花园，以及露台／容器栽培。",
       "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
     }
   },
   "descriptions_zh": {
-    "preferred": "叶片较大于多数 dissectum 类品种，但其余特征较为典型。叶通常分裂为 7 至 9 裂，每裂片狭长，并深裂近中脉。其鉴别特征在于裂片彼此靠拢，因此整体呈瀑布般下垂，观感更为流畅飘逸。叶色鲜绿，较耐全日照。秋色为明亮的金黄色，并晕染绯红。该品种既耐寒又优美。最初的新泽西原株高 10 英尺（3 米），冠幅 13 英尺（4 米）。"
+    "preferred": "叶片较大于多数 dissectum 类品种，但其余特征较为典型。 叶通常分裂为 7 至 9 裂，每裂片狭长，并深裂近中脉。 其鉴别特征在于裂片彼此靠拢，因此整体呈瀑布般下垂，观感更为流畅飘逸。 叶色鲜绿，较耐全日照。 秋色为明亮的金黄色，并晕染绯红。 该品种既耐寒又优美。 最初的新泽西原株高 10 英尺（3 米），冠幅 13 英尺（4 米）。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -384,7 +385,7 @@
           "weeklywhammy",
           "XMAS23"
         ],
-        "description_text": "Acer palmatum dissectum 'Waterfall' Weeping Green Laceleaf Japanese Maple Zones 5-9 'Waterfall' is a great weeping green laceleaf Japanese maple with a show in the fall. This Japanese maple tree is very heat tolerant and can grow in either sun or shade conditions. 'Waterfall' has very pendulous and its cascading look that gives it its name. The leaf is slightly larger than many other green dissectums. This tree can grow slightly wider than it does tall reaching 5 ft in height by 6 ft in width in 10 years. The ‘Waterfall’ Japanese maple makes an excellent large potted patio tree but can also be used as specimen plant in any landscape. The spring color is a bright almost neon green and the fall color ranges from yellow to gold. After years of observation, we believe ‘Waterfall’ and ‘Viridis’ to now be the exact same cultivar in the nursery trade today. The original ‘Waterfall’ was likely a ‘Viridis’ that happened to be at waterfall at a state park in New Jersey. We still sell both cultivars as both are popular names people know this selection by. 10 GALLON TREE SHIPS WITHOUT POT DUE TO BOX SIZE CONSTRAINTS",
+        "description_text": "Acer palmatum dissectum 'Waterfall' Weeping Green Laceleaf Japanese Maple Zones 5-9 'Waterfall' is a great weeping green laceleaf Japanese maple with a show in the fall. This Japanese maple tree is very heat tolerant and can grow in either sun or shade conditions. 'Waterfall' has very pendulous and its cascading look that gives it its name. The leaf is slightly larger than many other green dissectums. This tree can grow slightly wider than it does tall reaching 5 ft in height by 6 ft in width in 10 years. The ‘Waterfall’ Japanese maple makes an excellent large potted patio tree but can also be used as specimen plant in any landscape. The spring color is a bright almost neon green and the fall color ranges from yellow to gold. After years of observation, we believe ‘Waterfall’ and ‘Viridis’ to now be the exact same cultivar in the nursery trade today. The original ‘Waterfall’ was likely a ‘Viridis’ that happened to be at waterfall at a state park in New Jersey. We still sell both cultivars as both are popular names people know this selection by.",
         "published_at": "2026-01-23T09:00:06-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

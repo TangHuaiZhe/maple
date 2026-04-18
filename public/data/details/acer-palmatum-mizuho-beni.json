@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This very attractive addition to the 'Katsura' group of cultivars has colorful orange-yellow spring foliage. The leaves have a dark pink edging which merges into the orange-yellow background. The fiveor seven-lobed medium green leaves are fairly uniform in shape and color. They are characterized by the large coarse, almost sublobulate, triangular-pointed double teeth around the margins. Each leaf is divided up to three-quarters of the way to the leaf base, with the lobes well separated. The leaves measure 4.5-5.5 cm long 'Mizuho beni' is similar to"
+    "preferred": "This very attractive addition to the 'Katsura' group of cultivars has colorful orange-yellow spring foliage. The leaves have a dark pink edging which merges into the orange-yellow background. The fiveor seven-lobed medium green leaves are fairly uniform in shape and color. They are characterized by the large coarse, almost sublobulate, triangular-pointed double teeth around the margins. Each leaf is divided up to three-quarters of the way to the leaf base, with the lobes well separated. The leaves measure 4. 5-5. 5 cm long 'Mizuho beni' is similar to"
   },
   "images": {
     "count": 0,
@@ -23,10 +23,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-mizuho-beni/01-Acer-palmatum-Mizuho-beni-Specimen-1806-resized.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-mizuho-beni/01-Acer-palmatum-Mizuho-beni-Specimen-1806-resized.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-mizuho-beni/01-Acer-palmatum-Mizuho-beni-Specimen-1806-resized.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/134937/acer-palmatum-mizuho-beni-(p)/details",
       "botanical_name": "Acer palmatum 'Mizuho-beni' (P)",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Mizuho beni’ Specimen 1806",
+      "botanical_name": "Acer palmatum 'Mizuho beni'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-mizuho-beni-specimen-1806/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -57,7 +71,7 @@
     "Mizuho beni",
     "Mizuho-beni"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -113,7 +127,49 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是 ‘Katsura’ 类群中一个非常迷人的品种，春叶呈色彩鲜明的橙黄色。叶缘带深粉色镶边，并逐渐融入橙黄色底色中。五裂或七裂叶为中绿色，叶形与叶色相当整齐一致。其显著特征是叶缘具大型、粗重、近似浅裂状的三角尖头重锯齿。每片叶自叶基向上分裂达约四分之三，裂片彼此分离明显。叶片长 4.5-5.5 厘米。‘Mizuho beni’ 在叶形、大小、色彩以及生长习性和长势方面与 ‘Katsura’ 相似，但锯齿明显得多。不过，更重要的区别在于它萌叶时间正常，比 ‘Katsura’ 晚约两到三周，因此较不易受早春霜冻和寒风损伤。该引种名有时被误拼为 ‘Mitsuho beni’。Mizuho 是日本女性名字。"
+    "preferred": "这是 ‘Katsura’ 类群中一个非常迷人的品种，春叶呈色彩鲜明的橙黄色。 叶缘带深粉色镶边，并逐渐融入橙黄色底色中。 五裂或七裂叶为中绿色，叶形与叶色相当整齐一致。 其显著特征是叶缘具大型、粗重、近似浅裂状的三角尖头重锯齿。 每片叶自叶基向上分裂达约四分之三，裂片彼此分离明显。 叶片长 4. 5-5. 5 厘米。 ‘Mizuho beni’ 在叶形、大小、色彩以及生长习性和长势方面与 ‘Katsura’ 相似，但锯齿明显得多。 不过，更重要的区别在于它萌叶时间正常，比 ‘Katsura’ 晚约两到三周，因此较不易受早春霜冻和寒风损伤。 该引种名有时被误拼为 ‘Mitsuho beni’。 Mizuho 是日本女性名字。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-mizuho-beni-specimen-1806/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-mizuho-beni/01-Acer-palmatum-Mizuho-beni-Specimen-1806-resized.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-mizuho-beni/01-Acer-palmatum-Mizuho-beni-Specimen-1806-resized.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Mizuho beni’ Specimen 1806",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-mizuho-beni-specimen-1806/",
+        "botanical_name": "Acer palmatum 'Mizuho beni'",
+        "common_name": "Mizuho beni",
+        "description_text": "Small, orange-green leaves have a fantastic coloration in early spring. The color persists through the summer with the newer growth being most vibrant.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum mizuho beni",
+        "match_score": 262
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/02/Acer-palmatum-Mizuho-beni-Specimen-1806-resized.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-mizuho-beni-specimen-1806/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-mizuho-beni/01-Acer-palmatum-Mizuho-beni-Specimen-1806-resized.jpg",
+          "bytes": 281731,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:30.127Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-mizuho-beni/01-Acer-palmatum-Mizuho-beni-Specimen-1806-resized.jpg"
+      ]
+    }
+  }
 }

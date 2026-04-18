@@ -27,6 +27,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/herter-images/acer-palmatum-spring-delight/01-springdelight2.jpg",
     "public_paths": [
       "/herter-images/acer-palmatum-spring-delight/01-springdelight2.jpg"
@@ -42,7 +43,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "羽毛枫",
       "title": "春日喜悦 Acer Palmatum 'Spring Delight'",
-      "description": "由美国俄勒冈州巴克霍兹苗圃的苗圃主泰隆·巴克霍兹 培育并推广，翠绿枝垂的种子实生苗选育而来，春天新 叶为黄色并有粉红色的叶尖，黄色持续时间略短，快速 变为绿色，五月新稍为棕黄色或者棕红色，和绿色的老 叶形成鲜明的对比，秋季为橙黄色或者纯黄色，生长强 劲，叶型略大，可全日照，成年株可达 1.8 米。",
+      "description": "由美国俄勒冈州巴克霍兹苗圃的苗圃主泰隆·巴克霍兹 培育并推广，翠绿枝垂的种子实生苗选育而来，春天新 叶为黄色并有粉红色的叶尖，黄色持续时间略短，快速 变为绿色，五月新稍为棕黄色或者棕红色，和绿色的老 叶形成鲜明的对比，秋季为橙黄色或者纯黄色，生长强 劲，叶型略大，可全日照，成年株可达 1. 8 米。",
       "image_count": 7
     },
     {
@@ -114,7 +115,7 @@
     "cultivar_names": [
       "Spring Delight"
     ],
-    "description": "A slow-growing, deciduous Japanese maple about 2.5m tall, with a strongly cascading habit forming a dome at maturity. Leaves have 7 to 9-lobes, are finely dissected and very narrow, emerging pale green edged red, in spring, becoming bright green in summer, then turning gold with an occasional splash of crimson in autumn",
+    "description": "A slow-growing, deciduous Japanese maple about 2. 5m tall, with a strongly cascading habit forming a dome at maturity. Leaves have 7 to 9-lobes, are finely dissected and very narrow, emerging pale green edged red, in spring, becoming bright green in summer, then turning gold with an occasional splash of crimson in autumn",
     "dimensions": {
       "height": "1.5-2.5 metres",
       "spread": "1.5-2.5 metres",
@@ -155,7 +156,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是一个偶然获得的 dissectum 实生苗，可能以 'Viridis' 为亲本。春季新叶展开时尤为美丽。初生叶片为浅绿色，叶缘带红，色彩搭配十分悦目，这种效果可持续整个春季并延续至初夏。 在所有红叶重裂类型中，'Stella Rossa' 是意大利米兰附近 Fratelli Gilardelli 苗圃于 20 世纪 60 年代后期选育出的较早品种之一。其幼叶呈极具观赏性的粉红红色，随后转为深紫红色，并能很好地保持整个夏季及初秋，秋季再转为鲜红色。其叶色与 'Dissectum Nigrum' 相似，但深红色保持时间更长。叶片 7 裂，深裂且细裂，长宽均为 9-12 厘米。每个裂片向基部明显变窄，最下部 1-1.5 厘米仅剩中脉。裂片上部约四分之三处分裂为较宽、较平展的小裂片，边缘具精细锯齿。叶柄为红色。 这一大叶型栽培品种是红叶 Matsumurae Group 中的优良品种之一。叶片 7 裂（最大的叶片有时会出现额外 2 个极小裂片），长 7-9 厘米，宽 9-12 厘米，深裂几近叶基。裂片为长卵形，在中部最宽处宽 1-1.5 厘米，在裂片结合处缩窄至 2-5 毫米。裂片外端逐渐收尖成细长锐尖。各裂片分离明显。外侧边缘具重锯齿，齿端尖且略呈钩状；内侧边缘平滑。叶柄红色，长 2.5-4 厘米。春季叶色为鲜紫红色。初夏时叶片加深，近黑红或极深栗紫色。仲夏至秋季，颜色逐渐转为深绿红或褐红色。 绿色重裂型"
+    "preferred": "这是一个偶然获得的 dissectum 实生苗，可能以 'Viridis' 为亲本。 春季新叶展开时尤为美丽。 初生叶片为浅绿色，叶缘带红，色彩搭配十分悦目，这种效果可持续整个春季并延续至初夏。 在所有红叶重裂类型中，'Stella Rossa' 是意大利米兰附近 Fratelli Gilardelli 苗圃于 20 世纪 60 年代后期选育出的较早品种之一。 其幼叶呈极具观赏性的粉红红色，随后转为深紫红色，并能很好地保持整个夏季及初秋，秋季再转为鲜红色。 其叶色与 'Dissectum Nigrum' 相似，但深红色保持时间更长。 叶片 7 裂，深裂且细裂，长宽均为 9-12 厘米。 每个裂片向基部明显变窄，最下部 1-1. 5 厘米仅剩中脉。 裂片上部约四分之三处分裂为较宽、较平展的小裂片，边缘具精细锯齿。 叶柄为红色。 这一大叶型栽培品种是红叶 Matsumurae Group 中的优良品种之一。 叶片 7 裂（最大的叶片有时会出现额外 2 个极小裂片），长 7-9 厘米，宽 9-12 厘米，深裂几近叶基。 裂片为长卵形，在中部最宽处宽 1-1. 5 厘米，在裂片结合处缩窄至 2-5 毫米。 裂片外端逐渐收尖成细长锐尖。 各裂片分离明显。 外侧边缘具重锯齿，齿端尖且略呈钩状；内侧边缘平滑。 叶柄红色，长 2. 5-4 厘米。 春季叶色为鲜紫红色。 初夏时叶片加深，近黑红或极深栗紫色。 仲夏至秋季，颜色逐渐转为深绿红或褐红色。 绿色重裂型"
   },
   "rhs_zh": {
     "growing_conditions": {
@@ -174,7 +175,7 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "生长缓慢的落叶性日本枫，株高约 2.5 米，枝姿强烈下垂，成熟时形成圆拱形树冠。叶片 7 至 9 裂，深裂且裂片极狭长；春季新叶淡绿，边缘带红；夏季转为鲜绿色；秋季变为金黄色，间或染有深红色。"
+    "description": "生长缓慢的落叶性日本枫，株高约 2. 5 米，枝姿强烈下垂，成熟时形成圆拱形树冠。 叶片 7 至 9 裂，深裂且裂片极狭长；春季新叶淡绿，边缘带红；夏季转为鲜绿色；秋季变为金黄色，间或染有深红色。"
   },
   "has_mrmaple": false,
   "herter": {

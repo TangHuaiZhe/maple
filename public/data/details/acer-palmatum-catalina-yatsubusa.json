@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -58,6 +59,6 @@
   "rhs": null,
   "has_mrmaple": false,
   "descriptions_zh": {
-    "preferred": "极矮生、致密的三河系品种，叶片细小而层层紧凑。春季新叶常带黄橙色调，夏季转绿，秋季再现黄、橙到红色变化，适合盆景、容器和狭小空间。"
+    "preferred": "极矮生、致密的三河系品种，叶片细小而层层紧凑。 春季新叶常带黄橙色调，夏季转绿，秋季再现黄、橙到红色变化，适合盆景、容器和狭小空间。"
   }
 }

@@ -23,10 +23,21 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-akane/01-Acer-palmatum-Akane-5.jpg",
+      "/coniferkingdom-images/acer-palmatum-akane/02-Acer-palmatum-Akane-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-akane/03-Acer-palmatum-Akane-4.jpg",
+      "/coniferkingdom-images/acer-palmatum-akane/04-Acer-palmatum-Akane-3.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-akane/02-Acer-palmatum-Akane-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-akane/01-Acer-palmatum-Akane-5.jpg",
+      "/coniferkingdom-images/acer-palmatum-akane/02-Acer-palmatum-Akane-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-akane/03-Acer-palmatum-Akane-4.jpg",
+      "/coniferkingdom-images/acer-palmatum-akane/04-Acer-palmatum-Akane-3.jpg"
+    ],
+    "public_count": 4
   },
   "sources": [
     {
@@ -37,7 +48,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "黄叶",
       "title": "茜Acer Palmatum 'Akane'",
-      "description": "日系品种，由日本的司园艺推广，春叶色为橙黄色， 会有粉色的叶边及黄色的主叶脉，观赏效果佳，色彩 持久，可以一直保持到入夏，夏季变为黄绿色，秋季 为橙黄色或红色。生长速度稍慢，矮性，分支能力强， 午后需要遮阴，不喜酸雨，雨淋后容易出现黑色或者 灰色的斑点，矢野先生的\"Book of Maples\"上建议 不要从顶部浇水或者淋雨以防真菌滋生，成年株可达 1.8 米左右高度。",
+      "description": "日系品种，由日本的司园艺推广，春叶色为橙黄色， 会有粉色的叶边及黄色的主叶脉，观赏效果佳，色彩 持久，可以一直保持到入夏，夏季变为黄绿色，秋季 为橙黄色或红色。 生长速度稍慢，矮性，分支能力强， 午后需要遮阴，不喜酸雨，雨淋后容易出现黑色或者 灰色的斑点，矢野先生的\"Book of Maples\"上建议 不要从顶部浇水或者淋雨以防真菌滋生，成年株可达 1. 8 米左右高度。",
       "image_count": 7
     },
     {
@@ -62,6 +73,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/134609/acer-palmatum-akane-(p)/details",
       "botanical_name": "Acer palmatum 'Akane' (P)",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Akane’ Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Akane'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-akane-japanese-maple/",
+      "image_count": 4,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -82,7 +102,7 @@
     "鸡爪槭",
     "黄叶"
   ],
-  "source_count": 4,
+  "source_count": 5,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -140,13 +160,13 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "palmatum-green 这个小型 palmatum 品种属于一类以亮丽春叶著称的栽培品种，与著名的 'Katsura' 同组。新叶展开时呈醒目的橙金色，叶缘渐染为深粉色。其橙色比 'Katsura' 更浓烈，并与鲜珊瑚红色的叶柄和新梢形成良好对比。春季叶色可维持近一个月，随后转为深而明净的黄色，再逐渐变为浅绿色。秋色为橙黄并带微红晕，但并不算特别突出。叶片较小，多为 5 裂，偶有 7 裂，通常长大于宽，长 4-4.5 厘米、宽 3.5-4 厘米，深裂达叶基约四分之三。裂片呈卵状三角形，先端尖，长约 3 厘米，在下部三分之一处最宽约 1.2 厘米，至裂片连接处收窄至 5-6 毫米。叶缘具明显锯齿。其叶片比"
+    "preferred": "palmatum-green 这个小型 palmatum 品种属于一类以亮丽春叶著称的栽培品种，与著名的 'Katsura' 同组。 新叶展开时呈醒目的橙金色，叶缘渐染为深粉色。 其橙色比 'Katsura' 更浓烈，并与鲜珊瑚红色的叶柄和新梢形成良好对比。 春季叶色可维持近一个月，随后转为深而明净的黄色，再逐渐变为浅绿色。 秋色为橙黄并带微红晕，但并不算特别突出。 叶片较小，多为 5 裂，偶有 7 裂，通常长大于宽，长 4-4. 5 厘米、宽 3. 5-4 厘米，深裂达叶基约四分之三。 裂片呈卵状三角形，先端尖，长约 3 厘米，在下部三分之一处最宽约 1. 2 厘米，至裂片连接处收窄至 5-6 毫米。 叶缘具明显锯齿。 其叶片比"
   },
   "rhs_zh": {
     "growing_conditions": {
       "hardiness": "H6（耐寒，可耐受极寒冬季）"
     },
-    "description": "紧凑型落叶小乔木，高约 2-3 米。小型叶片 5 至 7 裂，春季萌发时呈醒目的橙金色，叶缘渐染深粉色；至晚春逐渐转为深而明净的黄色，夏季后期则变为浅黄绿色，秋季再转为粉色和橙色。",
+    "description": "紧凑型落叶小乔木，高约 2-3 米。 小型叶片 5 至 7 裂，春季萌发时呈醒目的橙金色，叶缘渐染深粉色；至晚春逐渐转为深而明净的黄色，夏季后期则变为浅黄绿色，秋季再转为粉色和橙色。",
     "attributes": {
       "suggested_uses": "城市/庭院花园，乡村/自然式花园，露台/容器植物，花境及花坛",
       "hort_group_description": "本 palmatum 组的槭树叶片较小，呈掌状，边缘具粗锯齿。"
@@ -161,5 +181,89 @@
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     }
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-akane-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 4,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/01-Acer-palmatum-Akane-5.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/01-Acer-palmatum-Akane-5.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/02-Acer-palmatum-Akane-2.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/03-Acer-palmatum-Akane-4.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/04-Acer-palmatum-Akane-3.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Akane’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-akane-japanese-maple/",
+        "botanical_name": "Acer Palmatum 'Akane'",
+        "common_name": "Akane",
+        "description_text": "Golden-orange spring leaves glow on red petioles and delicate branching. The Japanese translation of Akane means \"glowing evening sky",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum akane",
+        "match_score": 257
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/11/Acer-palmatum-Akane-5.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-akane-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/01-Acer-palmatum-Akane-5.jpg",
+          "bytes": 190733,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:36.998Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/11/Acer-palmatum-Akane-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-akane-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/02-Acer-palmatum-Akane-2.jpg",
+          "bytes": 513984,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:37.617Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/11/Acer-palmatum-Akane-4.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-akane-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/03-Acer-palmatum-Akane-4.jpg",
+          "bytes": 137414,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:38.192Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 4,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/11/Acer-palmatum-Akane-3.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-akane-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/04-Acer-palmatum-Akane-3.jpg",
+          "bytes": 162238,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:38.480Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 4,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/01-Acer-palmatum-Akane-5.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/02-Acer-palmatum-Akane-2.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/03-Acer-palmatum-Akane-4.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-akane/04-Acer-palmatum-Akane-3.jpg"
+      ]
+    }
+  }
 }

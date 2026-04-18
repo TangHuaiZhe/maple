@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -122,6 +123,6 @@
   },
   "has_mrmaple": false,
   "descriptions_zh": {
-    "preferred": "荒皮系品种，兼具粗糙树皮与柔和叶色观赏性。树皮会随树龄增长而逐渐木栓化开裂；春叶常带黄绿色调，随后转绿，秋季呈现温暖的黄色到橙色。"
+    "preferred": "荒皮系品种，兼具粗糙树皮与柔和叶色观赏性。 树皮会随树龄增长而逐渐木栓化开裂；春叶常带黄绿色调，随后转绿，秋季呈现温暖的黄色到橙色。"
   }
 }

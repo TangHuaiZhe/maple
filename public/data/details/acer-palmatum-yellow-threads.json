@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer palmatum 'Yellow Threads' Rare Buchholz Nursery Introduction Japanese Maple Zones 5-9 'Yellow Threads' is perhaps one of the newest selections from Buchholz Nursery. The yellow-green spring color is stunning on thin strap-like leaves. According to Talon's site, 'Yellow Threads' develops a broad canopy, but makes a nice mid-size tree reaching 8 ft in height by 6 ft in width in 10 years. Fall color doesn't disappoint with bright yellow and orange. Only a limited number of these available. Get one before they are gone! The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent. The photos on this page without a MrMaple logo were taken by Talon Buchholz and cannot be used without expressed written consent from the owner."
+    "preferred": "Acer palmatum 'Yellow Threads' Rare Buchholz Nursery Introduction Japanese Maple Zones 5-9 'Yellow Threads' is perhaps one of the newest selections from Buchholz Nursery. The yellow-green spring color is stunning on thin strap-like leaves. According to Talon's site, 'Yellow Threads' develops a broad canopy, but makes a nice mid-size tree reaching 8 ft in height by 6 ft in width in 10 years. Fall color doesn't disappoint with bright yellow and orange. Only a limited number of these available. Get one before they are gone!"
   },
   "images": {
     "count": 0,
@@ -90,6 +90,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-yellow-threads-rare-japanese-maple/08-Acer.palmatum.Yellow_Threads.2.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-yellow-threads-rare-japanese-maple/01-image_ae3d2bb2-ccbc-4af1-bf56-829bb67771c7.jpg",
@@ -198,7 +199,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer palmatum 'Yellow Threads' 稀有 Buchholz Nursery 引种日本枫，适生区 5-9。'Yellow Threads' 可能是 Buchholz Nursery 最新选育品种之一。其春季叶色呈黄绿色，细长如带状的叶片观赏性极佳。根据 Talon 网站的信息，'Yellow Threads' 可形成较宽的树冠，但整体仍属中型树，10 年约高 8 英尺、宽 6 英尺。秋色同样出色，可呈鲜亮的黄色和橙色。现有数量有限，售完即止。带有 MrMaple 标识的照片归 MrMaple.com 所有，未经明确书面许可不得使用。本页未带 MrMaple 标识的照片由 Talon Buchholz 拍摄，未经所有者明确书面许可不得使用。数量有限。由于我们拥有上千个日本枫品种，每个品种通常库存不多，建议尽快购买心仪品种，因为部分选育品种经常很快售罄。"
+    "preferred": "Acer palmatum 'Yellow Threads' 稀有 Buchholz Nursery 引种日本枫，适生区 5-9。 'Yellow Threads' 可能是 Buchholz Nursery 最新选育品种之一。 其春季叶色呈黄绿色，细长如带状的叶片观赏性极佳。 根据 Talon 网站的信息，'Yellow Threads' 可形成较宽的树冠，但整体仍属中型树，10 年约高 8 英尺、宽 6 英尺。 秋色同样出色，可呈鲜亮的黄色和橙色。 现有"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -325,7 +326,7 @@
           "VDAYSALE25",
           "VDAYSALE26"
         ],
-        "description_text": "Acer palmatum 'Yellow Threads' Rare Buchholz Nursery Introduction Japanese Maple Zones 5-9 'Yellow Threads' is perhaps one of the newest selections from Buchholz Nursery. The yellow-green spring color is stunning on thin strap-like leaves. According to Talon's site, 'Yellow Threads' develops a broad canopy, but makes a nice mid-size tree reaching 8 ft in height by 6 ft in width in 10 years. Fall color doesn't disappoint with bright yellow and orange. Only a limited number of these available. Get one before they are gone! The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent. The photos on this page without a MrMaple logo were taken by Talon Buchholz and cannot be used without expressed written consent from the owner.",
+        "description_text": "Acer palmatum 'Yellow Threads' Rare Buchholz Nursery Introduction Japanese Maple Zones 5-9 'Yellow Threads' is perhaps one of the newest selections from Buchholz Nursery. The yellow-green spring color is stunning on thin strap-like leaves. According to Talon's site, 'Yellow Threads' develops a broad canopy, but makes a nice mid-size tree reaching 8 ft in height by 6 ft in width in 10 years. Fall color doesn't disappoint with bright yellow and orange. Only a limited number of these available. Get one before they are gone!",
         "published_at": "2026-04-01T09:00:22-04:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

@@ -28,6 +28,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-atropurpureum/03-visi33890.jpg",
     "public_paths": [
       "/rhs-images/acer-atropurpureum/01-GWIS384.jpg",
@@ -215,10 +216,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
     },
-    "description": "小型乔木，株形丛生紧密；叶片呈青铜绯红色，约分为 7 裂，秋季转为鲜艳亮红色。春季开不显眼的红紫色花，之后可能结带翅的紫色果实"
+    "description": "小型乔木，株形丛生紧密；叶片呈青铜绯红色，约分为 7 裂，秋季转为鲜艳亮红色。 春季开不显眼的红紫色花，之后可能结带翅的紫色果实"
   },
   "descriptions_zh": {
-    "preferred": "该品种叶片的红色调表明它属于 Acer palmatum 的一个红叶类型。叶片具 5 或 7 个裂片，叶长和叶宽约 4-10 cm。裂片分裂深度约达叶基部的三分之二至四分之三，形状为卵形至卵状披针形，先端尖锐。Corvallis 的记载中指出，它早期可被命名为 Acer palmatum f. atropurpureum。这个名称最初对应的植株，很可能是一个优良克隆，来源于荷兰 Woudenberg 的 Constant Wattez 老苗圃（van Gelderen et al. 1994）。它可形成分枝良好的树形，高 8-10 m。叶片多为 5 裂，春季呈浓郁紫红色，初夏颜色加深，秋季转为鲜亮猩红色。然而，由于许多苗圃将该名称泛用于任何红叶实生选株，这一名称已被严重泛化，几乎失去实际意义。正是在这些红叶实生苗中，后来选出了许多优秀品种，如"
+    "preferred": "该品种叶片的红色调表明它属于 Acer palmatum 的一个红叶类型。 叶片具 5 或 7 个裂片，叶长和叶宽约 4-10 cm。 裂片分裂深度约达叶基部的三分之二至四分之三，形状为卵形至卵状披针形，先端尖锐。 Corvallis 的记载中指出，它早期可被命名为 Acer palmatum f. atropurpureum。 这个名称最初对应的植株，很可能是一个优良克隆，来源于荷兰 Woudenberg 的 Constant Wattez 老苗圃（van Gelderen et al. 1994）。 它可形成分枝良好的树形，高 8-10 m。 叶片多为 5 裂，春季呈浓郁紫红色，初夏颜色加深，秋季转为鲜亮猩红色。 然而，由于许多苗圃将该名称泛用于任何红叶实生选株，这一名称已被严重泛化，几乎失去实际意义。 正是在这些红叶实生苗中，后来选出了许多优秀品种，如"
   },
   "has_mrmaple": false
 }

@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -111,7 +112,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是一个叶形奇特的小型、紧凑、直立性矮生品种，约 5 年可长至 2 英尺（60 厘米）左右。它类似于 'Wabito' 的矮化型，叶色同样为深绿色。叶片较小，分裂极深，裂成纤细狭长、近似带状的裂片。常带红晕的叶缘具不规则而钝的齿，并略呈皱褶。其名称意为“河马”，是对其起源英国苗圃名称的双关。"
+    "preferred": "这是一个叶形奇特的小型、紧凑、直立性矮生品种，约 5 年可长至 2 英尺（60 厘米）左右。 它类似于 'Wabito' 的矮化型，叶色同样为深绿色。 叶片较小，分裂极深，裂成纤细狭长、近似带状的裂片。 常带红晕的叶缘具不规则而钝的齿，并略呈皱褶。 其名称意为“河马”，是对其起源英国苗圃名称的双关。"
   },
   "has_mrmaple": false
 }

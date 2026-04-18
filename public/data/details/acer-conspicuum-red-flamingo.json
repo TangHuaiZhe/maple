@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "红火烈鸟又称作红佛朗明哥，是一款一年四季都可以观赏的枫树品种。2000 年左右在荷兰 WJHoofman 苗圃中发现的。初春带 有深红色的嫩芽和白色条纹的树皮，叶子呈鲜艳的粉红 色条纹，带有白色斑点，耐寒至零下 20 度。"
+    "preferred": "红火烈鸟又称作红佛朗明哥，是一款一年四季都可以观赏的枫树品种。 2000 年左右在荷兰 WJHoofman 苗圃中发现的。 初春带 有深红色的嫩芽和白色条纹的树皮，叶子呈鲜艳的粉红 色条纹，带有白色斑点，耐寒至零下 20 度。"
   },
   "images": {
     "count": 8,
@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -33,7 +34,7 @@
       "top_group_name": "蛇皮槭",
       "second_group_name": "红火烈鸟",
       "title": "红火烈鸟 Acer Conspicuum 'Red Flamingo'",
-      "description": "红火烈鸟又称作红佛朗明哥，是一款一年四季都可以观赏的枫树品种。2000 年左右在荷兰 WJHoofman 苗圃中发现的。初春带 有深红色的嫩芽和白色条纹的树皮，叶子呈鲜艳的粉红 色条纹，带有白色斑点，耐寒至零下 20 度。",
+      "description": "红火烈鸟又称作红佛朗明哥，是一款一年四季都可以观赏的枫树品种。 2000 年左右在荷兰 WJHoofman 苗圃中发现的。 初春带 有深红色的嫩芽和白色条纹的树皮，叶子呈鲜艳的粉红 色条纹，带有白色斑点，耐寒至零下 20 度。",
       "image_count": 8
     },
     {
@@ -138,7 +139,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "红火烈鸟又称作红佛朗明哥，是一款一年四季都可以观赏的枫树品种。2000 年左右在荷兰 WJHoofman 苗圃中发现的。初春带 有深红色的嫩芽和白色条纹的树皮，叶子呈鲜艳的粉红 色条纹，带有白色斑点，耐寒至零下 20 度。"
+    "preferred": "红火烈鸟又称作红佛朗明哥，是一款一年四季都可以观赏的枫树品种。 2000 年左右在荷兰 WJHoofman 苗圃中发现的。 初春带 有深红色的嫩芽和白色条纹的树皮，叶子呈鲜艳的粉红 色条纹，带有白色斑点，耐寒至零下 20 度。"
   },
   "has_mrmaple": false
 }

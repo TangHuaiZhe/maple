@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "约旦也叫乔丹，是由金隐的实生种子选育而来的品种，来自意大利的 Fratelli Gilardelli苗圃，Jordan是Giordano的英文音译，是这个苗圃其中一位所有者的名字。约旦有\"赛金隐\"的美称，春天是金黄色的，在充足的光照下叶缘为红粉色。春日多晒叶色会变白，需要及时遮阴，避免出现日灼现象。夏季转为黄绿色，秋天是橙红色的。约旦直立性很强，长势旺盛，成年树高度可达4米。"
+    "preferred": "约旦也叫乔丹，是由金隐的实生种子选育而来的品种，来自意大利的 Fratelli Gilardelli苗圃，Jordan是Giordano的英文音译，是这个苗圃其中一位所有者的名字。 约旦有\"赛金隐\"的美称，春天是金黄色的，在充足的光照下叶缘为红粉色。 春日多晒叶色会变白，需要及时遮阴，避免出现日灼现象。 夏季转为黄绿色，秋天是橙红色的。 约旦直立性很强，长势旺盛，成年树高度可达4米。"
   },
   "images": {
     "count": 8,
@@ -37,6 +37,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-shirasawanum-jordan-golden-full-moon-japanese-maple/09-Jordan_29.JPG",
     "public_paths": [
       "/rhs-images/acer-shirasawanum-jordan/01-JFAcershirasawanumJordan1.JPG",
@@ -66,7 +67,7 @@
       "top_group_name": "羽扇槭",
       "second_group_name": "白泽槭",
       "title": "约旦 Acer Shirasawanum 'Jordan'",
-      "description": "约旦也叫乔丹，是由金隐的实生种子选育而来的品种，来自意大利的 Fratelli Gilardelli苗圃，Jordan是Giordano的英文音译，是这个苗圃其中一位所有者的名字。约旦有\"赛金隐\"的美称，春天是金黄色的，在充足的光照下叶缘为红粉色。春日多晒叶色会变白，需要及时遮阴，避免出现日灼现象。夏季转为黄绿色，秋天是橙红色的。约旦直立性很强，长势旺盛，成年树高度可达4米。",
+      "description": "约旦也叫乔丹，是由金隐的实生种子选育而来的品种，来自意大利的 Fratelli Gilardelli苗圃，Jordan是Giordano的英文音译，是这个苗圃其中一位所有者的名字。 约旦有\"赛金隐\"的美称，春天是金黄色的，在充足的光照下叶缘为红粉色。 春日多晒叶色会变白，需要及时遮阴，避免出现日灼现象。 夏季转为黄绿色，秋天是橙红色的。 约旦直立性很强，长势旺盛，成年树高度可达4米。",
       "image_count": 8
     },
     {
@@ -213,7 +214,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "约旦也叫乔丹，是由金隐的实生种子选育而来的品种，来自意大利的 Fratelli Gilardelli苗圃，Jordan是Giordano的英文音译，是这个苗圃其中一位所有者的名字。约旦有\"赛金隐\"的美称，春天是金黄色的，在充足的光照下叶缘为红粉色。春日多晒叶色会变白，需要及时遮阴，避免出现日灼现象。夏季转为黄绿色，秋天是橙红色的。约旦直立性很强，长势旺盛，成年树高度可达4米。"
+    "preferred": "约旦也叫乔丹，是由金隐的实生种子选育而来的品种，来自意大利的 Fratelli Gilardelli苗圃，Jordan是Giordano的英文音译，是这个苗圃其中一位所有者的名字。 约旦有\"赛金隐\"的美称，春天是金黄色的，在充足的光照下叶缘为红粉色。 春日多晒叶色会变白，需要及时遮阴，避免出现日灼现象。 夏季转为黄绿色，秋天是橙红色的。 约旦直立性很强，长势旺盛，成年树高度可达4米。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -234,7 +235,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "小型、慢生、直立的乔木，最终高和冠幅可达 3 米。叶片呈扇形，具 11 个短裂片，春季新叶展开时为淡橙色，夏季转为酸橙绿色，秋季变为橙红色。春季开细小的紫红色花，晚夏结出显著的红色带翅果，果实高举于叶幕之上。"
+    "description": "小型、慢生、直立的乔木，最终高和冠幅可达 3 米。 叶片呈扇形，具 11 个短裂片，春季新叶展开时为淡橙色，夏季转为酸橙绿色，秋季变为橙红色。 春季开细小的紫红色花，晚夏结出显著的红色带翅果，果实高举于叶幕之上。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -261,7 +262,7 @@
         "title": "Acer shirasawanum 'Jordan' Golden Full Moon Japanese Maple",
         "handle": "buy-acer-shirasawanum-jordan-golden-full-moon-japanese-maple",
         "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-jordan-golden-full-moon-japanese-maple",
-        "description_text": "Acer shirasawanum 'Jordan' Jordan Golden Full Moon Japanese Maple Zones 5-9 Acer shirasawanum ‘Jordan’ is a superb yellow cultivar that can brighten any garden. This exciting new selection has better color and more vigor than several of its golden predecessors. It was found by Fratelli Gilardelli of Gilardelli Nursery in Italy and was named after his son. ‘Jordan’ may boast the brightest yellow shades of all Japanese maple cultivars in early spring. This bright yellow coloration is often outlined with a light border of red. Autumn colors are amazing shades or deep maroon and orange. ‘Jordan’ is listed as an Acer shirasawanum but may actually be an Acer shirasawanum x palmatum hybrid. This would explain its vigor and heat tolerance. ‘Jordan’ will typically reach 10-12 ft in 15 years. We recommend late day shade for the best colors. This is certainly a Japanese maple that brings the 'wow' factor for color and texture. We recommend ‘Jordan’ as the perfect tree to contrast deep maroons or to be used as a focal point planting. You may need sunglasses in the early spring for all the bright neon yellow color ‘Jordan’ will shine in your garden. Trees were potted from large liners to gallons in this spring and may not have completely filled out their pots.",
+        "description_text": "Acer shirasawanum 'Jordan' Jordan Golden Full Moon Japanese Maple Zones 5-9 Acer shirasawanum ‘Jordan’ is a superb yellow cultivar that can brighten any garden. This exciting new selection has better color and more vigor than several of its golden predecessors. It was found by Fratelli Gilardelli of Gilardelli Nursery in Italy and was named after his son. ‘Jordan’ may boast the brightest yellow shades of all Japanese maple cultivars in early spring. This bright yellow coloration is often outlined with a light border of red. Autumn colors are amazing shades or deep maroon and orange. ‘Jordan’ is listed as an Acer shirasawanum but may actually be an Acer shirasawanum x palmatum hybrid. This would explain its vigor and heat tolerance. ‘Jordan’ will typically reach 10-12 ft in 15 years. We recommend late day shade for the best colors. This is certainly a Japanese maple that brings the 'wow' factor for color and texture. You may need sunglasses in the early spring for all the bright neon yellow color ‘Jordan’ will shine in your garden. Trees were potted from large liners to gallons in this spring and may not have completely filled out their pots.",
         "image_count": 12,
         "match_method": "search_html",
         "match_score": 152,

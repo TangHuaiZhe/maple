@@ -15,7 +15,7 @@
     "variegated"
   ],
   "descriptions": {
-    "preferred": "The basic color of this variegated cultivar is light, bright green. The new leaves are edged with orange and red. The sunago fu (sand-dusted) form of variegation consists of Corvallis from the center, giving a definite palmate appearance. Occasionally, they are irregularly curved. Shoots are crimson. Fall colors graduate through the yellows into the orange tones. The leaves vary from 2 to 2.5 cm long and 3 cm wide on mature foliage of older wood. Some leaves are as much as 5 cm long and 6 cm wide on vigorous young shoots. This short shrub is of twiggy, slightly cascading habit and makes a dense but lacy plant. It is a cultivar of almost dwarf structure, with small foliage and, for best appearance, should not be overfertilized. It probably reaches 2.5 m or a little more at maturity. It is a desirable small landscape plant and also adapts very well to container culture."
+    "preferred": "The basic color of this variegated cultivar is light, bright green. The new leaves are edged with orange and red. The sunago fu (sand-dusted) form of variegation consists of Corvallis from the center, giving a definite palmate appearance. Occasionally, they are irregularly curved. Shoots are crimson. Fall colors graduate through the yellows into the orange tones. The leaves vary from 2 to 2. 5 cm long and 3 cm wide on mature foliage of older wood. Some leaves are as much as 5 cm long and 6 cm wide on vigorous young shoots. This short shrub is of twiggy, slightly cascading habit and makes a dense but lacy plant. It is a cultivar of almost dwarf structure, with small foliage and, for best appearance, should not be overfertilized. It probably reaches 2. 5 m or a little more at maturity. It is a desirable small landscape plant and also adapts very well to container culture."
   },
   "images": {
     "count": 0,
@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -51,6 +56,15 @@
       "group": "palmatum",
       "color_group": "variegated",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Koshibori nishiki' Variegated Japanese Maple",
+      "botanical_name": "Acer palmatum 'Koshibori nishiki'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koshibori-nishiki",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -65,7 +79,7 @@
     "Koshibori nishiki",
     "Koshibori-nishiki"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -88,9 +102,52 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "这类斑叶品种的基本叶色为明亮浅绿色，新叶边缘带橙色与红色。其 sunago fu（砂吹斑）型锦斑由极细小的淡色斑点组成，使叶片呈现明确的掌状观感；偶尔叶片会出现不规则弯曲。嫩枝为深红色。秋叶经黄色系列逐渐转入橙色调。成熟老枝上的叶片通常长 2 至 2.5 厘米、宽约 3 厘米；生长旺盛的新梢上，有些叶片可达长 5 厘米、宽 6 厘米。该矮生灌木枝条细密，株形略下垂，整体致密而不失轻盈通透，近于侏儒型结构，叶片细小；为保持最佳观赏效果，不宜施肥过多。成熟后株高大约可达 2.5 米或略高。适合作为小型园景植物，也非常适于容器栽培。"
+    "preferred": "这类斑叶品种的基本叶色为明亮浅绿色，新叶边缘带橙色与红色。 其 sunago fu（砂吹斑）型锦斑由极细小的淡色斑点组成，使叶片呈现明确的掌状观感；偶尔叶片会出现不规则弯曲。 嫩枝为深红色。 秋叶经黄色系列逐渐转入橙色调。 成熟老枝上的叶片通常长 2 至 2. 5 厘米、宽约 3 厘米；生长旺盛的新梢上，有些叶片可达长 5 厘米、宽 6 厘米。 该矮生灌木枝条细密，株形略下垂，整体致密而不失轻盈通透，近于侏儒型结构，叶片细小；为保持最佳观赏效果，不宜施肥过多。 成熟后株高大约可达 2. 5 米或略高。 适合作为小型园景植物，也非常适于容器栽培。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koshibori-nishiki",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Koshibori nishiki' Variegated Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koshibori-nishiki",
+        "botanical_name": "Acer palmatum 'Koshibori nishiki'",
+        "common_name": "Koshibori nishiki",
+        "description_text": "Acer palmatum ‘Koshibori nishiki’ is a beautiful variegated Japanese maple with a light dusting of white and yellow variegation across the regularly green foliage. ‘Koshibori nishiki’ has very small green leaves that display the nice variegation. As with many variegated trees not every leaf will display this variegation. ‘Koshibori nishiki’ will grow into a medium size tree and should be protected from the hot afternoon sun. 10 Year Size: Height: 8-10 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Koshibori nishiki",
+        "match_score": 376,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-koshibori-nishiki-826943.jpg?v=1658491054",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koshibori-nishiki",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg",
+          "bytes": 205944,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:01.140Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg"
+      ]
+    }
+  }
 }

@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "Several green-leaved dissectums of good form are sold under this cultivar name. All of them have deeply dissected green foliage and form vigorous, strongly cascading shrubs of typical broadly mounded shape, Acer reaching up to 13 ft. (4 m) tall. The green summer color turns to gold, often red, in the fall. The name means \"green.\""
+    "preferred": "Several green-leaved dissectums of good form are sold under this cultivar name. All of them have deeply dissected green foliage and form vigorous, strongly cascading shrubs of typical broadly mounded shape, Acer reaching up to 13 ft. (4 m) tall. The green summer color turns to gold, often red, in the fall. The name means \"green. \""
   },
   "images": {
     "count": 7,
@@ -118,6 +118,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/copy-of-acer-palmatum-viridis-japanese-maple/24-FOR_PICKUP_ONLY_Acer_palmatum_Viridis_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2093816.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-viridis/01-RHS_RHS-0002726_8220.JPG",
@@ -223,7 +224,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "羽毛枫",
       "title": "翠绿枝垂 Acer Palmatum 'Viridis'",
-      "description": "翠绿枝垂枝条柔软，分支能力强。 春天是明亮的黄绿色，夏季是一种成熟的浓绿色，秋季色彩呈现金色橙色或者深红色。 叶裂一般呈现 7-9 裂，每个叶裂都靠基部连接。生长较为缓慢，成年 树高 1.5m，冠幅 1.5 米左右 ， 非常适合种植在庭院和池塘边，营造静谧的氛围感。",
+      "description": "翠绿枝垂枝条柔软，分支能力强。 春天是明亮的黄绿色，夏季是一种成熟的浓绿色，秋季色彩呈现金色橙色或者深红色。 叶裂一般呈现 7-9 裂，每个叶裂都靠基部连接。 生长较为缓慢，成年 树高 1. 5m，冠幅 1. 5 米左右 ， 非常适合种植在庭院和池塘边，营造静谧的氛围感。",
       "image_count": 7
     },
     {
@@ -271,7 +272,7 @@
       "source": "herter",
       "name": "Viridis Green Lace Leaf Japanese Maple",
       "detail_url": "https://japanesemaple.net/product/viridis-green-lace-leaf-japanese-maple/",
-      "description": "Green lace leaf maple, canopies, size gets to about 9-12 ft tall and wide. Very nice gold fall colors. Viridis is a very hardy grower , one of the fastest lace leaf maples. It has one of the broadest canopies of all Japanese maples. This is the favorite of someone looking for a green, lacy, japanese maple. The fall colors are the icing on the cake for this maple. Viridis Japanese Maple can withstand full sun, and can keep its bright color throughout the summer season. Please email us at jherter@twave.net with any questions, and thanks for looking.",
+      "description": "Green lace leaf maple, canopies, size gets to about 9-12 ft tall and wide. Very nice gold fall colors. Viridis is a very hardy grower , one of the fastest lace leaf maples. It has one of the broadest canopies of all Japanese maples. This is the favorite of someone looking for a green, lacy, japanese maple. The fall colors are the icing on the cake for this maple. Viridis Japanese Maple can withstand full sun, and can keep its bright color throughout the summer season. Please email us at jherter@twave. net with any questions, and thanks for looking.",
       "group": "All Japanese Maples / Lace Leaf Japanese Maples",
       "image_count": 1,
       "matched_product_count": 1,
@@ -411,7 +412,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "市场上有数个叶形优良的绿叶羽裂类品种以此名称出售。它们都具深裂的绿色叶片，形成生长旺盛、强烈下垂的灌木，树形为典型的宽圆拱丘状，高可达 13 英尺（4 米）。夏季绿色叶色至秋季转为金黄色，且常带红色。其名称意为“绿色”。"
+    "preferred": "市场上有数个叶形优良的绿叶羽裂类品种以此名称出售。 它们都具深裂的绿色叶片，形成生长旺盛、强烈下垂的灌木，树形为典型的宽圆拱丘状，高可达 13 英尺（4 米）。 夏季绿色叶色至秋季转为金黄色，且常带红色。 其名称意为“绿色”。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -430,7 +431,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病和溃疡病。"
     },
-    "description": "植株姿态低矮开展，常为多主干。叶片裂得极深，几乎呈撕裂状。春夏季保持绿色，但秋色表现良好。春季开的红色花虽不张扬，却别具观赏性；随后结成本属典型的翅果。",
+    "description": "植株姿态低矮开展，常为多主干。 叶片裂得极深，几乎呈撕裂状。 春夏季保持绿色，但秋色表现良好。 春季开的红色花虽不张扬，却别具观赏性；随后结成本属典型的翅果。",
     "attributes": {
       "suggested_uses": "乡村庭园/自然式庭园、建筑式庭园、城市/庭院花园、低维护花园、露台/容器植物、岩石园"
     }
@@ -592,7 +593,7 @@
           "XLSALE",
           "XMAS23"
         ],
-        "description_text": "Acer palmatum dissectum 'Viridis' Weeping Green Viridis Laceleaf Japanese Maple Zones 5-9 'Viridis' is a classic dwarf green Japanese maple selection with a cascading form. The 'Viridis' Japanese maple can reach 5-6 ft tall by 5-6 ft wide in 10 years. This 'Viridis' laceleaf Japanese maple leafs out as a bright chartreuse green that holds until the leaves mature to a rich green by mid-summer. In autumn, the 'Viridis' Japanese maple tree turns to a bright golden yellow to orange. This classic 'Viridis' Japanese maple tree is excellent to provide contrast against red Japanese maples. You can use 'Viridis' as a background plant or as a focal point planting. Because of the dwarf cascading habit of 'Viridis', this Japanese maple makes an excellent tree for small space in the landscape or even for container planting. This can allow you to expand your garden with the beauty of a weeping green laceleaf Japanese maple. After years of observation, we believe ‘Waterfall’ and ‘Viridis’ to now be the exact same cultivar in the nursery trade today. The original ‘Waterfall’ was likely a ‘Viridis’ that happened to be at waterfall at a state park in New Jersey. We still sell both cultivars as both are popular names people know this selection by. 10 GALLON TREE SHIPS WITHOUT POT DUE TO BOX SIZE CONSTRAINTS",
+        "description_text": "Acer palmatum dissectum 'Viridis' Weeping Green Viridis Laceleaf Japanese Maple Zones 5-9 'Viridis' is a classic dwarf green Japanese maple selection with a cascading form. The 'Viridis' Japanese maple can reach 5-6 ft tall by 5-6 ft wide in 10 years. This 'Viridis' laceleaf Japanese maple leafs out as a bright chartreuse green that holds until the leaves mature to a rich green by mid-summer. In autumn, the 'Viridis' Japanese maple tree turns to a bright golden yellow to orange. This classic 'Viridis' Japanese maple tree is excellent to provide contrast against red Japanese maples. Because of the dwarf cascading habit of 'Viridis', this Japanese maple makes an excellent tree for small space in the landscape or even for container planting. This can allow you to expand your garden with the beauty of a weeping green laceleaf Japanese maple. After years of observation, we believe ‘Waterfall’ and ‘Viridis’ to now be the exact same cultivar in the nursery trade today. The original ‘Waterfall’ was likely a ‘Viridis’ that happened to be at waterfall at a state park in New Jersey. We still sell both cultivars as both are popular names people know this selection by.",
         "published_at": "2025-11-20T09:00:21-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",
@@ -1322,7 +1323,7 @@
           "VDAYSALE26",
           "XMAS23"
         ],
-        "description_text": "Acer palmatum dissectum 'Viridis' Weeping Green Viridis Laceleaf Japanese Maple Zones 5-9 'Viridis' is a classic dwarf green Japanese maple selection with a cascading form. The 'Viridis' Japanese maple can reach 4-5 ft tall by 4-5 ft wide in 10 years. This 'Viridis' laceleaf Japanese maple leafs out as a bright chartreuse green that holds until the leaves mature to a rich green by mid-summer. In autumn, the 'Viridis' Japanese maple tree turns to a bright golden yellow to orange. This classic 'Viridis' Japanese maple tree is excellent to provide contrast against red Japanese maples. You can use 'Viridis' as a background plant or as a focal point planting. Because of the dwarf cascading habit of 'Viridis', this Japanese maple makes an excellent tree for small space in the landscape or even for container planting. This can allow you to expand your garden with the beauty of a weeping green laceleaf Japanese maple. These 10 gallon trees are for local pickup only, we cannot ship them because they are too big. The MrMaple Nursery is located in East Flat Rock, NC. Please contact us to arrange a pickup time.",
+        "description_text": "Acer palmatum dissectum 'Viridis' Weeping Green Viridis Laceleaf Japanese Maple Zones 5-9 'Viridis' is a classic dwarf green Japanese maple selection with a cascading form. The 'Viridis' Japanese maple can reach 4-5 ft tall by 4-5 ft wide in 10 years. This 'Viridis' laceleaf Japanese maple leafs out as a bright chartreuse green that holds until the leaves mature to a rich green by mid-summer. In autumn, the 'Viridis' Japanese maple tree turns to a bright golden yellow to orange. This classic 'Viridis' Japanese maple tree is excellent to provide contrast against red Japanese maples. Because of the dwarf cascading habit of 'Viridis', this Japanese maple makes an excellent tree for small space in the landscape or even for container planting. This can allow you to expand your garden with the beauty of a weeping green laceleaf Japanese maple. These 10 gallon trees are for local pickup only, we cannot ship them because they are too big. The MrMaple Nursery is located in East Flat Rock, NC. Please contact us to arrange a pickup time.",
         "published_at": "2024-04-17T13:43:11-04:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

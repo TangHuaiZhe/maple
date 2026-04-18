@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "The vigorous long new shoots or \"tentacles\" of this attractive red dissectum arch outward and downward to give it the name 'Octopus'. The new leaves are pink red with a narrow greenish band down the middle of each lobe, becoming a darker plum red, then a coppery red with a greenish tinge along the midrib as the leaf develops in early summer. The color turns to a bright crimson-red in the fall. The deeply dissected medium-sized leaves vary from 7 to 8 cm long and from 8 to 11 cm broad. The lobes are 1-2 cm wide and are themselves deeply dissected and conspicuously toothed. The teeth have many sharppointed tips. The slender orange-red petioles are 1.5-3 cm long. Like most dissectums, this strong-growing plant grows into a broad dome with pendulous shoots and foliage, reaching about 2-5 m high and 3-3.5 m wide as it matures. However, because of the uneven growth of the current shoots, varying between 1 and almost 2 m long, the outer circumference is more irregular."
+    "preferred": "The vigorous long new shoots or \"tentacles\" of this attractive red dissectum arch outward and downward to give it the name 'Octopus'. The new leaves are pink red with a narrow greenish band down the middle of each lobe, becoming a darker plum red, then a coppery red with a greenish tinge along the midrib as the leaf develops in early summer. The color turns to a bright crimson-red in the fall. The deeply dissected medium-sized leaves vary from 7 to 8 cm long and from 8 to 11 cm broad. The lobes are 1-2 cm wide and are themselves deeply dissected and conspicuously toothed. The teeth have many sharppointed tips. The slender orange-red petioles are 1. 5-3 cm long. Like most dissectums, this strong-growing plant grows into a broad dome with pendulous shoots and foliage, reaching about 2-5 m high and 3-3. 5 m wide as it matures. However, because of the uneven growth of the current shoots, varying between 1 and almost 2 m long, the outer circumference is more irregular."
   },
   "images": {
     "count": 0,
@@ -23,10 +23,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-octopus/01-Acer-palmatum-Octopus-Specimen-1158-1.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-octopus/01-Acer-palmatum-Octopus-Specimen-1158-1.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-octopus/01-Acer-palmatum-Octopus-Specimen-1158-1.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -51,6 +56,15 @@
       "group": "dissectum",
       "color_group": "red",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Octopus’ Specimen 1158",
+      "botanical_name": "Acer palmatum 'Octopus'",
+      "detail_url": "https://www.coniferkingdom.com/specimen-1158-acer-palmatum-octopus/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -65,7 +79,7 @@
     "Japanese maple 'Octopus'",
     "Octopus"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -91,9 +105,51 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "这一迷人的红色 Dissectum 品种，其强健而细长的新梢或“触手”向外并向下拱垂，因此得名 'Octopus'。新叶呈粉红红色，每个裂片中央有一条狭窄的绿色带，随后转为更深的李子红；到初夏叶片发育过程中，又变为带铜色的红色，且中脉附近略带绿色。秋季叶色转为鲜亮的深红色。深裂的中等大小叶片长 7-8 厘米，宽 8-11 厘米。裂片宽 1-2 厘米，自身又进一步深裂，并具明显锯齿；锯齿先端多而尖锐。细长的橙红色叶柄长 1.5-3 厘米。与大多数 Dissectum 品种一样，该品种生长势较强，成熟后形成宽阔的圆拱形树冠，枝叶下垂，高约 2-5 米，宽约 3-3.5 米。不过，由于当年生枝条生长不均，长度从 1 米到近 2 米不等，外缘轮廓会显得较不规则。"
+    "preferred": "这一迷人的红色 Dissectum 品种，其强健而细长的新梢或“触手”向外并向下拱垂，因此得名 'Octopus'。 新叶呈粉红红色，每个裂片中央有一条狭窄的绿色带，随后转为更深的李子红；到初夏叶片发育过程中，又变为带铜色的红色，且中脉附近略带绿色。 秋季叶色转为鲜亮的深红色。 深裂的中等大小叶片长 7-8 厘米，宽 8-11 厘米。 裂片宽 1-2 厘米，自身又进一步深裂，并具明显锯齿；锯齿先端多而尖锐。 细长的橙红色叶柄长 1. 5-3 厘米。 与大多数 Dissectum 品种一样，该品种生长势较强，成熟后形成宽阔的圆拱形树冠，枝叶下垂，高约 2-5 米，宽约 3-3. 5 米。 不过，由于当年生枝条生长不均，长度从 1 米到近 2 米不等，外缘轮廓会显得较不规则。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/specimen-1158-acer-palmatum-octopus/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-octopus/01-Acer-palmatum-Octopus-Specimen-1158-1.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-octopus/01-Acer-palmatum-Octopus-Specimen-1158-1.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Octopus’ Specimen 1158",
+        "product_url": "https://www.coniferkingdom.com/specimen-1158-acer-palmatum-octopus/",
+        "botanical_name": "Acer palmatum 'Octopus'",
+        "common_name": "Octopus",
+        "description_text": "This purple-red laceleaf Japanese maple has long, vigorous new shoots that reach outward like the arms of an octopus and produce a broad dome with an irregular circumference.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum octopus",
+        "match_score": 259
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2015/10/Acer-palmatum-Octopus-Specimen-1158-1.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/specimen-1158-acer-palmatum-octopus/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-octopus/01-Acer-palmatum-Octopus-Specimen-1158-1.jpg",
+          "bytes": 816686,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:50.339Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-octopus/01-Acer-palmatum-Octopus-Specimen-1158-1.jpg"
+      ]
+    }
+  }
 }

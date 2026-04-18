@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer palmatum 'Peridot Flame' Rare Peridot Flame Japanese Maple Zones 5-9 'Peridot Flame' has a light peach spring color maturing to an olive green. Fall color can range from a pure yellow to an orange-red 'Peridot Flame' is a vigorous grower that may reach 10-12 ft in 10 years. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent. The photos on this page without a MrMaple logo were taken by Talon Buchholz and cannot be used without expressed written consent from the owner"
+    "preferred": "Acer palmatum 'Peridot Flame' Rare Peridot Flame Japanese Maple Zones 5-9 'Peridot Flame' has a light peach spring color maturing to an olive green. Fall color can range from a pure yellow to an orange-red 'Peridot Flame' is a vigorous grower that may reach 10-12 ft in 10 years."
   },
   "images": {
     "count": 0,
@@ -53,6 +53,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-peridot-flame-japanese-maple/28-Acer_palmatum_Peridot_Flame_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066460.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-peridot-flame-japanese-maple/01-Acer_palmatum_Peridot_Flame_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066451.jpg",
@@ -124,7 +125,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer palmatum 'Peridot Flame'，珍稀日本枫，适生区 5-9。‘Peridot Flame’ 春季叶色为浅桃色，随后成熟为橄榄绿色。秋季叶色可从纯黄色变化到橙红色。‘Peridot Flame’ 长势旺盛，10 年可达 10-12 英尺。带有 MrMaple 标识的照片归 MrMaple.com 所有，未经明确书面许可不得使用。本页无 MrMaple 标识的照片由 Talon Buchholz 拍摄，未经所有者明确书面许可不得使用。数量有限！！由于我们拥有上千个日本枫品种，单个品种通常库存不多。建议您看到心仪品种及时购买，因为部分精选品种常常很快售罄。"
+    "preferred": "Acer palmatum 'Peridot Flame'，珍稀日本枫，适生区 5-9。 ‘Peridot Flame’ 春季叶色为浅桃色，随后成熟为橄榄绿色。 秋季叶色可从纯黄色变化到橙红色。 ‘Peridot Flame’ 长势旺盛，10 年可达 10-12 英尺。 带有 MrMaple 标识的照片"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -202,7 +203,7 @@
           "Type_Japanese Maple",
           "VDAYSALE26"
         ],
-        "description_text": "Acer palmatum 'Peridot Flame' Rare Peridot Flame Japanese Maple Zones 5-9 'Peridot Flame' has a light peach spring color maturing to an olive green. Fall color can range from a pure yellow to an orange-red 'Peridot Flame' is a vigorous grower that may reach 10-12 ft in 10 years. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent. The photos on this page without a MrMaple logo were taken by Talon Buchholz and cannot be used without expressed written consent from the owner",
+        "description_text": "Acer palmatum 'Peridot Flame' Rare Peridot Flame Japanese Maple Zones 5-9 'Peridot Flame' has a light peach spring color maturing to an olive green. Fall color can range from a pure yellow to an orange-red 'Peridot Flame' is a vigorous grower that may reach 10-12 ft in 10 years.",
         "published_at": "2025-12-25T10:00:03-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "一款非常独特的带有锦叶的矮生品种。春天绿色的叶子 上面会有粉色的锦叶，夏季锦叶会变成白色。"
+    "preferred": "一款非常独特的带有锦叶的矮生品种。 春天绿色的叶子 上面会有粉色的锦叶，夏季锦叶会变成白色。"
   },
   "images": {
     "count": 2,
@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -33,7 +34,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "三河系列",
       "title": "雪小猫Acer Palmatum 'Sonw Kitty'",
-      "description": "一款非常独特的带有锦叶的矮生品种。春天绿色的叶子 上面会有粉色的锦叶，夏季锦叶会变成白色。",
+      "description": "一款非常独特的带有锦叶的矮生品种。 春天绿色的叶子 上面会有粉色的锦叶，夏季锦叶会变成白色。",
       "image_count": 2
     }
   ],
@@ -57,7 +58,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "一款非常独特的带有锦叶的矮生品种。春天绿色的叶子 上面会有粉色的锦叶，夏季锦叶会变成白色。"
+    "preferred": "一款非常独特的带有锦叶的矮生品种。 春天绿色的叶子 上面会有粉色的锦叶，夏季锦叶会变成白色。"
   },
   "has_mrmaple": false
 }

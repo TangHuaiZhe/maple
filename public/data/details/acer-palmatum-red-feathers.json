@@ -19,10 +19,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-red-feathers/01-Acer-palmatum-Red-Feathers-Specimen-2236-1.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-red-feathers/01-Acer-palmatum-Red-Feathers-Specimen-2236-1.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-red-feathers/01-Acer-palmatum-Red-Feathers-Specimen-2236-1.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -41,6 +46,15 @@
       "rhs_id": 206486,
       "detail_url": "https://www.rhs.org.uk/plants/206486/acer-palmatum-red-feather-(d)/details",
       "botanical_name": "Acer palmatum 'Red Feather' (D)",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Red Feathers’ 24″ Std Specimen 2236",
+      "botanical_name": "Acer Palmatum 'Red Feathers'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-red-feathers-specimen-2236/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -64,7 +78,7 @@
     "羽毛枫",
     "鸡爪槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -81,7 +95,7 @@
     "cultivar_names": [
       "Red Feather"
     ],
-    "description": "A small, deciduous Japanese maple about 1m tall and 1.5m wide, with a cascading or weeping habit, and forming a mound of finely dissected, feathery leaves that emerge very red in spring, then turning darker red with a greenish tinge in summer, before becoming crimson in autumn",
+    "description": "A small, deciduous Japanese maple about 1m tall and 1. 5m wide, with a cascading or weeping habit, and forming a mound of finely dissected, feathery leaves that emerge very red in spring, then turning darker red with a greenish tinge in summer, before becoming crimson in autumn",
     "dimensions": {
       "height": "0.5-1 metres",
       "spread": "1-1.5 metres",
@@ -138,7 +152,49 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "一种小型落叶日本枫，高约 1 米、宽约 1.5 米，具瀑布状或垂枝生长习性，形成由 finely dissected 的羽毛状叶片构成的圆 mound。春季新叶鲜红，夏季转为较深的红色并带绿色调，秋季则变为深红色。"
+    "description": "一种小型落叶日本枫，高约 1 米、宽约 1. 5 米，具瀑布状或垂枝生长习性，形成由 finely dissected 的羽毛状叶片构成的圆 mound。 春季新叶鲜红，夏季转为较深的红色并带绿色调，秋季则变为深红色。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-red-feathers-specimen-2236/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-red-feathers/01-Acer-palmatum-Red-Feathers-Specimen-2236-1.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-red-feathers/01-Acer-palmatum-Red-Feathers-Specimen-2236-1.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Red Feathers’ 24″ Std Specimen 2236",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-red-feathers-specimen-2236/",
+        "botanical_name": "Acer Palmatum 'Red Feathers'",
+        "common_name": "Red Feathers",
+        "description_text": "Dissectum. A very finely dissected form similar to 'Red Filigree Lace' but faster growing. Shop now!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum red feathers",
+        "match_score": 263
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2022/10/Acer-palmatum-Red-Feathers-Specimen-2236-1.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-red-feathers-specimen-2236/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-red-feathers/01-Acer-palmatum-Red-Feathers-Specimen-2236-1.jpg",
+          "bytes": 564459,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:05.155Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-red-feathers/01-Acer-palmatum-Red-Feathers-Specimen-2236-1.jpg"
+      ]
+    }
+  }
 }

@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer palmatum 'Ruby de Sofia' Light Pink Pastel Reticulated Variegated Japanese Maple Zones 5-9 'Ruby de Sofia’ is a newer introduction that is extremely unique. ‘Ruby de Sofia’ leafs out in the spring with a light pink to white reticulated variegation. During the summer these leaves turn green. The habit is extremely special with hooking branches and an arching and contorted-like habit. Every time the branch hooks, it creates a Ruby-like knot like appearance on trunk. These round statutes and the ruby red fall color is where ‘Ruby de Sofia’ gets it Ruby name. This selection was found by our good friend, Angel Mendoza, and named after his daughter, Sofia. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent."
+    "preferred": "Acer palmatum 'Ruby de Sofia' Light Pink Pastel Reticulated Variegated Japanese Maple Zones 5-9 'Ruby de Sofia’ is a newer introduction that is extremely unique. ‘Ruby de Sofia’ leafs out in the spring with a light pink to white reticulated variegation. During the summer these leaves turn green. The habit is extremely special with hooking branches and an arching and contorted-like habit. Every time the branch hooks, it creates a Ruby-like knot like appearance on trunk. These round statutes and the ruby red fall color is where ‘Ruby de Sofia’ gets it Ruby name. This selection was found by our good friend, Angel Mendoza, and named after his daughter, Sofia."
   },
   "images": {
     "count": 0,
@@ -84,6 +84,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/acer-palmatum-ruby-de-sofia-japanese-maple/36-IMG_0811_4605b810-890a-46d7-91f4-05d25af2b5aa.jpg",
     "public_paths": [
       "/mrmaple-images/acer-palmatum-ruby-de-sofia-japanese-maple/01-IMG_2134.jpg",
@@ -186,7 +187,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer palmatum 'Ruby de Sofia' 淡粉色粉彩网斑锦日本枫，适生分区 5-9。'Ruby de Sofia' 是较新的引种品种，极具独特性。春季展叶时，叶片呈淡粉至白色的网状锦斑；入夏后叶色转绿。其树形尤为特别，枝条常呈钩状，整体具拱形并略带扭曲感。每当枝条形成弯钩时，枝干上会形成类似红宝石结节的外观。这些圆润的节状形态以及秋季的宝石红叶色，正是 'Ruby de Sofia' 名称中“Ruby”的由来。该品种由我们的好友 Angel Mendoza 发现，并以其女儿 Sofia 命名。带有 MrMaple 标志的照片归 MrMaple.com 所有，未经明确书面许可不得使用。数量有限。由于我们拥有上千个日本枫品种，单个品种通常库存不多；部分选育品种常会很快售罄，建议尽早购买心仪品种。"
+    "preferred": "Acer palmatum 'Ruby de Sofia' 淡粉色粉彩网斑锦日本枫，适生分区 5-9。 'Ruby de Sofia' 是较新的引种品种，极具独特性。 春季展叶时，叶片呈淡粉至白色的网状锦斑；入夏后叶色转绿。 其树形尤为特别，枝条常呈钩状，整体具拱形并略带扭曲感。 每当枝条形成弯钩时，枝干上会形成类似红宝石结节的外观。 这些圆润的节状形态以及秋季的宝石红叶色，正是 'Ruby de Sofia' 名称中“Ruby”的由来。 该品种由我们的好友 Angel Mendoza 发现，并以其女儿 Sofia 命名。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -296,7 +297,7 @@
           "VDAYSALE25",
           "VDAYSALE26"
         ],
-        "description_text": "Acer palmatum 'Ruby de Sofia' Light Pink Pastel Reticulated Variegated Japanese Maple Zones 5-9 'Ruby de Sofia’ is a newer introduction that is extremely unique. ‘Ruby de Sofia’ leafs out in the spring with a light pink to white reticulated variegation. During the summer these leaves turn green. The habit is extremely special with hooking branches and an arching and contorted-like habit. Every time the branch hooks, it creates a Ruby-like knot like appearance on trunk. These round statutes and the ruby red fall color is where ‘Ruby de Sofia’ gets it Ruby name. This selection was found by our good friend, Angel Mendoza, and named after his daughter, Sofia. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent.",
+        "description_text": "Acer palmatum 'Ruby de Sofia' Light Pink Pastel Reticulated Variegated Japanese Maple Zones 5-9 'Ruby de Sofia’ is a newer introduction that is extremely unique. ‘Ruby de Sofia’ leafs out in the spring with a light pink to white reticulated variegation. During the summer these leaves turn green. The habit is extremely special with hooking branches and an arching and contorted-like habit. Every time the branch hooks, it creates a Ruby-like knot like appearance on trunk. These round statutes and the ruby red fall color is where ‘Ruby de Sofia’ gets it Ruby name. This selection was found by our good friend, Angel Mendoza, and named after his daughter, Sofia.",
         "published_at": "2025-12-30T10:00:06-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

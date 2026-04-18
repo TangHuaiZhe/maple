@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "The foliage of this interesting small cultivar is a yellowish green to a bright green. Fall colors are pleasing yellows of different intensities. The small to medium-sized leaves are five-lobed but decidedly non-uniform. Some lobes are narrow with deeply and irregularly toothed, even lobulate, margins. A few leaves are the typical palmate shape but with very deeply toothed margins. These extremes, plus all variations between, can occur on the same plant. The red leafstalks are short and stiff. 'Maiko' makes an upright shrub up to 10 ft. (3 m) tall. After vigorous early growth, it broadens as it matures. The name means \"dancing doll.\""
+    "preferred": "The foliage of this interesting small cultivar is a yellowish green to a bright green. Fall colors are pleasing yellows of different intensities. The small to medium-sized leaves are five-lobed but decidedly non-uniform. Some lobes are narrow with deeply and irregularly toothed, even lobulate, margins. A few leaves are the typical palmate shape but with very deeply toothed margins. These extremes, plus all variations between, can occur on the same plant. The red leafstalks are short and stiff. 'Maiko' makes an upright shrub up to 10 ft. (3 m) tall. After vigorous early growth, it broadens as it matures. The name means \"dancing doll. \""
   },
   "images": {
     "count": 0,
@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -111,7 +112,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一有趣的小型品种，叶色从黄绿色到鲜绿色不等。秋季呈现不同深浅层次的黄色，观赏效果佳。叶片小到中等，5 裂，但形态明显不整齐。有些裂片狭长，叶缘深且不规则具锯齿，甚至呈浅裂状；也有少数叶片接近典型掌状，但叶缘具极深锯齿。这些极端形态及其中间过渡类型，常可同时出现在同一株植株上。红色叶柄短而硬挺。'Maiko' 生长为直立灌木，高可达 10 英尺（3 米）。幼年生长较旺，成熟后逐渐开展。其名称意为“舞姬”或“舞动的人偶”。"
+    "preferred": "这一有趣的小型品种，叶色从黄绿色到鲜绿色不等。 秋季呈现不同深浅层次的黄色，观赏效果佳。 叶片小到中等，5 裂，但形态明显不整齐。 有些裂片狭长，叶缘深且不规则具锯齿，甚至呈浅裂状；也有少数叶片接近典型掌状，但叶缘具极深锯齿。 这些极端形态及其中间过渡类型，常可同时出现在同一株植株上。 红色叶柄短而硬挺。 'Maiko' 生长为直立灌木，高可达 10 英尺（3 米）。 幼年生长较旺，成熟后逐渐开展。 其名称意为“舞姬”或“舞动的人偶”。"
   },
   "has_mrmaple": false
 }

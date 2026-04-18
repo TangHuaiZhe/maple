@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "This cultivar has graceful and colorful red foliage and forms a small neat, compact, rounded bush, making it The elongate-ovate lobes have long, slender tail-like tips and are 12-15 mm wide at the broadest point in the middle, narrowing to 3-5 mm at the lobe junctions which are within 10 mm of the leaf base. The margins are regularlyserratedwithnumerousfinenarrow-pointedteeth. The short red petioles are 1-3.5 cm long. The lobe tips tend to curve downwards slightly like, as the Greer Gardens (Eugene, Oregon) catalog so aptly puts it, \"a relaxed hand.\" 'Oregon Sunset' is a good small tree for limited space."
+    "preferred": "This cultivar has graceful and colorful red foliage and forms a small neat, compact, rounded bush, making it The elongate-ovate lobes have long, slender tail-like tips and are 12-15 mm wide at the broadest point in the middle, narrowing to 3-5 mm at the lobe junctions which are within 10 mm of the leaf base. The margins are regularlyserratedwithnumerousfinenarrow-pointedteeth. The short red petioles are 1-3. 5 cm long. The lobe tips tend to curve downwards slightly like, as the Greer Gardens (Eugene, Oregon) catalog so aptly puts it, \"a relaxed hand. \" 'Oregon Sunset' is a good small tree for limited space."
   },
   "images": {
     "count": 11,
@@ -76,6 +76,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-oregon-sunset/02-elbo62057.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-oregon-sunset/01-elbo62065.jpg",
@@ -140,7 +141,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "红叶",
       "title": "俄勒冈日落 Acer Palmatum 'Oregon Sunset'",
-      "description": "俄勒冈日落具有 非常 出色的春季和秋季色彩 ，春天是 叶子呈柔和的红色，很快变成 紫 红色 。夏季会适当返绿， 到了秋天变成 日落光辉般的橙红橙黄色调 。 叶子中等大小，具有 5-7裂，叶边缘有锯齿。叶片呈 长卵状披针形 ，叶尖微微向下弯曲。生长紧凑、圆润，是盆景造型和小型花园的理想选择， 成年树高约2米。",
+      "description": "俄勒冈日落具有 非常 出色的春季和秋季色彩 ，春天是 叶子呈柔和的红色，很快变成 紫 红色 。 夏季会适当返绿， 到了秋天变成 日落光辉般的橙红橙黄色调 。 叶子中等大小，具有 5-7裂，叶边缘有锯齿。 叶片呈 长卵状披针形 ，叶尖微微向下弯曲。 生长紧凑、圆润，是盆景造型和小型花园的理想选择， 成年树高约2米。",
       "image_count": 11
     },
     {
@@ -207,7 +208,7 @@
     "cultivar_names": [
       "Oregon Sunset"
     ],
-    "description": "A compact deciduous shrub or small tree, to around 1.5m high, with a upright then spreading habit and deeply lobed leaves that emerge reddish and mature to deep olive and plum tones, before turning bright orange-red in autumn",
+    "description": "A compact deciduous shrub or small tree, to around 1. 5m high, with a upright then spreading habit and deeply lobed leaves that emerge reddish and mature to deep olive and plum tones, before turning bright orange-red in autumn",
     "dimensions": {
       "height": "1-1.5 metres",
       "spread": "1.5-2.5 metres",
@@ -289,7 +290,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该品种叶色红艳而富于变化，姿态优雅，可形成小型、整齐、紧凑、圆头状灌木，因此非常适合空间有限的种植环境。其裂片为狭长卵形，先端细长如尾，裂片中部最宽处为 12–15 mm，向下收窄，在距叶基 10 mm 以内的裂片连接处仅 3–5 mm 宽。叶缘规则锯齿状，具许多细而尖的齿。红色短叶柄长 1–3.5 cm。裂片先端常略向下弯曲，正如 Greer Gardens（俄勒冈州尤金）目录中贴切描述的那样，如同“放松的手”。‘Oregon Sunset’ 是适合小空间栽植的优良小乔木。"
+    "preferred": "该品种叶色红艳而富于变化，姿态优雅，可形成小型、整齐、紧凑、圆头状灌木，因此非常适合空间有限的种植环境。 其裂片为狭长卵形，先端细长如尾，裂片中部最宽处为 12–15 mm，向下收窄，在距叶基 10 mm 以内的裂片连接处仅 3–5 mm 宽。 叶缘规则锯齿状，具许多细而尖的齿。 红色短叶柄长 1–3. 5 cm。 裂片先端常略向下弯曲，正如 Greer Gardens（俄勒冈州尤金）目录中贴切描述的那样，如同“放松的手”。 ‘Oregon Sunset’ 是适合小空间栽植的优良小乔木。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -311,7 +312,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "紧凑型落叶灌木或小乔木，高约 1.5 米，株形先直立后开展；叶片深裂，新叶带红色，成熟后呈深橄榄色与李紫色调，秋季转为鲜亮的橙红色。"
+    "description": "紧凑型落叶灌木或小乔木，高约 1. 5 米，株形先直立后开展；叶片深裂，新叶带红色，成熟后呈深橄榄色与李紫色调，秋季转为鲜亮的橙红色。"
   },
   "has_mrmaple": true,
   "mrmaple": {

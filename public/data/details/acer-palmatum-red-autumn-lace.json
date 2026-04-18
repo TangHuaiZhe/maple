@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This outstanding dissectum from the Fratelli Gilardelli Nursery near Milan, Italy, is noted for the varying tones of green of the summer foliage with bronzed and redtinged new leaves at the shoot tips. The new leaves to about 1 mm at the leaf base. The green petioles are 3.5-4 cm long. This cultivar forms a broad cascading mound up to 3-4 m tall with a spread of 4-5 m."
+    "preferred": "This outstanding dissectum from the Fratelli Gilardelli Nursery near Milan, Italy, is noted for the varying tones of green of the summer foliage with bronzed and redtinged new leaves at the shoot tips. The new leaves to about 1 mm at the leaf base. The green petioles are 3. 5-4 cm long. This cultivar forms a broad cascading mound up to 3-4 m tall with a spread of 4-5 m."
   },
   "images": {
     "count": 0,
@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -114,7 +115,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是意大利米兰附近 Fratelli Gilardelli 苗圃选育的一款极出色的 dissectum 类型品种，其特点是夏季叶色呈现深浅不一的绿色，而枝梢顶端的新叶则带铜色与红色晕染。新叶在叶基部裂至距基部约 1 毫米处。绿色叶柄长 3.5 至 4 厘米。该品种形成宽广、下垂堆丘状树形，高约 3 至 4 米，冠幅可达 4 至 5 米。"
+    "preferred": "这是意大利米兰附近 Fratelli Gilardelli 苗圃选育的一款极出色的 dissectum 类型品种，其特点是夏季叶色呈现深浅不一的绿色，而枝梢顶端的新叶则带铜色与红色晕染。 新叶在叶基部裂至距基部约 1 毫米处。 绿色叶柄长 3. 5 至 4 厘米。 该品种形成宽广、下垂堆丘状树形，高约 3 至 4 米，冠幅可达 4 至 5 米。"
   },
   "has_mrmaple": false
 }

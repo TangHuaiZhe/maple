@@ -25,9 +25,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-the-bishop/01-acer-palmatum-the-bishop-900184.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-the-bishop/01-acer-palmatum-the-bishop-900184.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-the-bishop/01-acer-palmatum-the-bishop-900184.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -52,6 +57,15 @@
       "group": "palmatum",
       "color_group": "red",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'The Bishop' Red Japanese Maple",
+      "botanical_name": "Acer palmatum 'The Bishop'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-the-bishop",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -64,7 +78,7 @@
     "Acer palmatum 'The Bishop' (A)",
     "The Bishop"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -87,9 +101,52 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "这株枫树是已故 Henry Hohman 晚期选育的品种之一。Hohman 善于从中筛选出适合繁殖的优良植株，这也是他广为人知的长处之一。'The Bishop' 的叶片为七裂，分裂较深，紫红色，形态介于 Palmatum Group 与 Matsumurae Group 之间。叶长 6-7 厘米，宽 7-8 厘米，叶柄纤细，长 4-5 厘米。裂片向外伸展，自叶基向上约四分之三处分裂。每个裂片呈长椭圆状卵形，渐尖成细长尖端。叶缘均匀且细密具锯齿。春季紫红色鲜明，直到夏末才略带古铜色。秋色为极佳的深红色。该品种生长直立，长势强健且耐寒，成熟时可达 4 米高。"
+    "preferred": "这株枫树是已故 Henry Hohman 晚期选育的品种之一。 Hohman 善于从中筛选出适合繁殖的优良植株，这也是他广为人知的长处之一。 'The Bishop' 的叶片为七裂，分裂较深，紫红色，形态介于 Palmatum Group 与 Matsumurae Group 之间。 叶长 6-7 厘米，宽 7-8 厘米，叶柄纤细，长 4-5 厘米。 裂片向外伸展，自叶基向上约四分之三处分裂。 每个裂片呈长椭圆状卵形，渐尖成细长尖端。 叶缘均匀且细密具锯齿。 春季紫红色鲜明，直到夏末才略带古铜色。 秋色为极佳的深红色。 该品种生长直立，长势强健且耐寒，成熟时可达 4 米高。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-the-bishop",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-the-bishop/01-acer-palmatum-the-bishop-900184.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-the-bishop/01-acer-palmatum-the-bishop-900184.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'The Bishop' Red Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-the-bishop",
+        "botanical_name": "Acer palmatum 'The Bishop'",
+        "common_name": "The Bishop",
+        "description_text": "'The Bishop' was selected by Henry Hoehman at Kingsville Nurseries in Maryland. Spring color is a very nice red turning first bronze and then green by mid summer. Fast growing this tree can reach up to 20 feet tall. Fall color is brilliant red. 10 Year Size: Height 10-12 Feet Width 6-8 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "The Bishop",
+        "match_score": 369,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-the-bishop-900184.jpg?v=1658490961",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-the-bishop",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-the-bishop/01-acer-palmatum-the-bishop-900184.jpg",
+          "bytes": 42031,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:25:07.623Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-the-bishop/01-acer-palmatum-the-bishop-900184.jpg"
+      ]
+    }
+  }
 }

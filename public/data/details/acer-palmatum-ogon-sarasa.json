@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "The color combination and leaf shape identify this interesting plant. Spring leaves are brick-red brushed over a deep green background, with contrasting light green midribs. Each leaf varies in intensity. In late summer, the leaves become a bronze-green. Fall colors are bright orange and crimson. Each mediumsized leaf is deeply divided into seven elongateelliptical lobes which gradually taper to narrow SARASA' - points. The lobe sides are curved upward, creating a shallow trough. This plant forms a tall shrub up to 23 ft. (7 m) tall and 10 ft. (3 m) wide. The name means \"gold calico cloth.\" -"
+    "preferred": "The color combination and leaf shape identify this interesting plant. Spring leaves are brick-red brushed over a deep green background, with contrasting light green midribs. Each leaf varies in intensity. In late summer, the leaves become a bronze-green. Fall colors are bright orange and crimson. Each mediumsized leaf is deeply divided into seven elongateelliptical lobes which gradually taper to narrow SARASA' - points. The lobe sides are curved upward, creating a shallow trough. This plant forms a tall shrub up to 23 ft. (7 m) tall and 10 ft. (3 m) wide. The name means \"gold calico cloth. \" -"
   },
   "images": {
     "count": 0,
@@ -23,10 +23,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-ogon-sarasa/01-Acer-palmatum-Ogon-sarasa-Specimen-1817-2.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-ogon-sarasa/01-Acer-palmatum-Ogon-sarasa-Specimen-1817-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-ogon-sarasa/01-Acer-palmatum-Ogon-sarasa-Specimen-1817-2.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/77145/acer-palmatum-ogon-sarasa-(a)/details",
       "botanical_name": "Acer palmatum 'Ōgon-sarasa' (A)",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Ogon sarasa’ Specimen 1817",
+      "botanical_name": "Acer palmatum 'Ogon sarasa'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-ogon-sarasa-specimen-1817/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -57,7 +71,7 @@
     "Ogon sarasa",
     "Ōgon-sarasa"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -113,7 +127,49 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这种有趣的植株可通过其叶形与叶色组合加以识别。春叶为砖红色，底色为深绿色，并带有对比鲜明的浅绿色中脉；每片叶的色彩强度略有差异。至夏末，叶片转为古铜绿色。秋色为鲜橙色与深红色。每片中等大小的叶片深裂为 7 个长椭圆形裂片，逐渐收尖成狭长尖端。裂片两侧向上弯曲，形成浅槽状。该品种形成高大灌木，高可达 7 米，宽约 3 米。其名称意为“金色印花布”。"
+    "preferred": "这种有趣的植株可通过其叶形与叶色组合加以识别。 春叶为砖红色，底色为深绿色，并带有对比鲜明的浅绿色中脉；每片叶的色彩强度略有差异。 至夏末，叶片转为古铜绿色。 秋色为鲜橙色与深红色。 每片中等大小的叶片深裂为 7 个长椭圆形裂片，逐渐收尖成狭长尖端。 裂片两侧向上弯曲，形成浅槽状。 该品种形成高大灌木，高可达 7 米，宽约 3 米。 其名称意为“金色印花布”。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-ogon-sarasa-specimen-1817/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ogon-sarasa/01-Acer-palmatum-Ogon-sarasa-Specimen-1817-2.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ogon-sarasa/01-Acer-palmatum-Ogon-sarasa-Specimen-1817-2.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Ogon sarasa’ Specimen 1817",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-ogon-sarasa-specimen-1817/",
+        "botanical_name": "Acer palmatum 'Ogon sarasa'",
+        "common_name": "Ogon sarasa",
+        "description_text": "The name of this tall, shrubby Japanese maple means \"gold calico cloth\", a reference to the diversity of both leaf color and shape. Shop now!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum ogon sarasa",
+        "match_score": 262
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2018/06/Acer-palmatum-Ogon-sarasa-Specimen-1817-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-ogon-sarasa-specimen-1817/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ogon-sarasa/01-Acer-palmatum-Ogon-sarasa-Specimen-1817-2.jpg",
+          "bytes": 579154,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:53.186Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ogon-sarasa/01-Acer-palmatum-Ogon-sarasa-Specimen-1817-2.jpg"
+      ]
+    }
+  }
 }

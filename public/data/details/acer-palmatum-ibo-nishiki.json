@@ -24,9 +24,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-ibo-nishiki/01-acer-palmatum-ibo-nishiki-205268.jpg",
+      "/jmac-images/acer-palmatum-ibo-nishiki/02-acer-palmatum-ibo-nishiki-450608.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-ibo-nishiki/02-acer-palmatum-ibo-nishiki-450608.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-ibo-nishiki/01-acer-palmatum-ibo-nishiki-205268.jpg",
+      "/jmac-images/acer-palmatum-ibo-nishiki/02-acer-palmatum-ibo-nishiki-450608.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -51,6 +58,15 @@
       "group": "palmatum",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Ibo nishiki' Rough Bark Japanese Maple",
+      "botanical_name": "Acer palmatum 'Ibo nishiki'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ibo-nishiki",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -65,7 +81,7 @@
     "Ibo nishiki",
     "Ibo-nishiki"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -88,9 +104,66 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "这是一种高大生长型品种，属于粗皮类。Ibo 是日语中表示“疣状”的词之一，点出了该品种树皮的有趣特征。其疣状突起多呈长椭圆形皮孔状，形成较慢，通常出现在 3 年生或更老的枝条上。它们彼此融合的速度也很慢，往往先分散存在数年，之后才逐渐连成较大的粗糙斑块。与其他一些粗皮品种相比，它的表现并不算特别醒目。中间树皮颜色为良好的绿色。 叶片长宽约 3-8 厘米，多为 7 裂，偶有 5 裂，分裂深度约达叶基的三分之二。裂片长卵形，叶缘具明显粗锯齿。春叶为鲜浅绿色，叶缘带古铜色晕染。秋色从黄橙色到深绯红色不等。该品种生长势较强，具典型的 palmatum 直立株形。其疣状树皮对收集奇特类型的爱好者颇具吸引力。该名称曾被误拼为"
+    "preferred": "这是一种高大生长型品种，属于粗皮类。 Ibo 是日语中表示“疣状”的词之一，点出了该品种树皮的有趣特征。 其疣状突起多呈长椭圆形皮孔状，形成较慢，通常出现在 3 年生或更老的枝条上。 它们彼此融合的速度也很慢，往往先分散存在数年，之后才逐渐连成较大的粗糙斑块。 与其他一些粗皮品种相比，它的表现并不算特别醒目。 中间树皮颜色为良好的绿色。 叶片长宽约 3-8 厘米，多为 7 裂，偶有 5 裂，分裂深度约达叶基的三分之二。 裂片长卵形，叶缘具明显粗锯齿。 春叶为鲜浅绿色，叶缘带古铜色晕染。 秋色从黄橙色到深绯红色不等。 该品种生长势较强，具典型的 palmatum 直立株形。 其疣状树皮对收集奇特类型的爱好者颇具吸引力。 该名称曾被误拼为"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ibo-nishiki",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ibo-nishiki/01-acer-palmatum-ibo-nishiki-205268.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ibo-nishiki/01-acer-palmatum-ibo-nishiki-205268.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ibo-nishiki/02-acer-palmatum-ibo-nishiki-450608.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Ibo nishiki' Rough Bark Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ibo-nishiki",
+        "botanical_name": "Acer palmatum 'Ibo nishiki'",
+        "common_name": "Ibo nishiki",
+        "description_text": "This is another of the cork bark maples highly prized by bonsai enthusiast. 'Ibo nishiki' means \"warty bark\", however the fissures in the bark of this small tree do not appear as deep as in some other rough bark varieties such as 'Nishi gawa' or 'Arakawa'. This gives the bark of 'Ibo nishiki' a more subtle appearance. Like many other rough bark varieties it usually takes several years for the warty bark to start to appear. Fall color varies from year to year but is normally a beautiful mix of yellow, orange and even red. 10 Tear size: Height:12-14 Feet Width: 10-12 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Ibo nishiki",
+        "match_score": 370,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ibo-nishiki-205268.jpg?v=1658490630",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ibo-nishiki",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ibo-nishiki/01-acer-palmatum-ibo-nishiki-205268.jpg",
+          "bytes": 53587,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:38.099Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ibo-nishiki-450608.jpg?v=1658490630",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ibo-nishiki",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ibo-nishiki/02-acer-palmatum-ibo-nishiki-450608.jpg",
+          "bytes": 102234,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:39.010Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ibo-nishiki/01-acer-palmatum-ibo-nishiki-205268.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ibo-nishiki/02-acer-palmatum-ibo-nishiki-450608.jpg"
+      ]
+    }
+  }
 }

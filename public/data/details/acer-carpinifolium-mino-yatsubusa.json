@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -109,7 +110,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "其叶形不寻常，不似典型槭树叶，为三裂。中央裂片狭长，先端尖锐，叶缘具不规则缺刻，且常向上卷起形成槽状；两侧裂片短而粗钝，靠近叶基，并自叶柄处向两侧展开。叶片浓绿而有光泽，秋季转为鲜艳的猩红色与橙色。该品种耐寒，形成致密、圆整的小型灌木。"
+    "preferred": "其叶形不寻常，不似典型槭树叶，为三裂。 中央裂片狭长，先端尖锐，叶缘具不规则缺刻，且常向上卷起形成槽状；两侧裂片短而粗钝，靠近叶基，并自叶柄处向两侧展开。 叶片浓绿而有光泽，秋季转为鲜艳的猩红色与橙色。 该品种耐寒，形成致密、圆整的小型灌木。"
   },
   "has_mrmaple": false
 }

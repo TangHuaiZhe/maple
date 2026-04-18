@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Kobayashi （ 1975 ）在仔细研究了芽鳞、叶片和枝干上的毛以及其他特征之后，认为它应该属于 Sieboldianum （小叶羽团扇）。叶子的轮廓是圆形的， 7-9 裂，叶裂深至叶基部的一半，叶边缘锯齿较为尖锐。新叶褶皱状，浅绿色和淡黄色边缘的短毛覆盖在整个叶面上。夏季的时候，叶片上的毛会消失，但 2-3cm 的叶柄上还覆盖着毛。秋季是金色的，也会带有深红色。平均叶子长 4-7cm ，宽 4-7cm ，但也会有较大的叶子。成年树高约 3-4 米。"
+    "preferred": "Kobayashi （ 1975 ）在仔细研究了芽鳞、叶片和枝干上的毛以及其他特征之后，认为它应该属于 Sieboldianum （小叶羽团扇）。 叶子的轮廓是圆形的， 7-9 裂，叶裂深至叶基部的一半，叶边缘锯齿较为尖锐。 新叶褶皱状，浅绿色和淡黄色边缘的短毛覆盖在整个叶面上。 夏季的时候，叶片上的毛会消失，但 2-3cm 的叶柄上还覆盖着毛。 秋季是金色的，也会带有深红色。 平均叶子长 4-7cm ，宽 4-7cm ，但也会有较大的叶子。 成年树高约 3-4 米。"
   },
   "images": {
     "count": 6,
@@ -20,9 +20,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-sieboldianum-mikasa-yama/01-acer-sieboldianum-mikasa-yama-639619.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-sieboldianum-mikasa-yama/01-acer-sieboldianum-mikasa-yama-639619.jpg",
+    "public_paths": [
+      "/jmac-images/acer-sieboldianum-mikasa-yama/01-acer-sieboldianum-mikasa-yama-639619.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,7 +38,7 @@
       "top_group_name": "羽扇槭",
       "second_group_name": "小叶羽团扇",
       "title": "三笠山 Acer Sieboldianum 'Mikasa Yama'",
-      "description": "Kobayashi （ 1975 ）在仔细研究了芽鳞、叶片和枝干上的毛以及其他特征之后，认为它应该属于 Sieboldianum （小叶羽团扇）。叶子的轮廓是圆形的， 7-9 裂，叶裂深至叶基部的一半，叶边缘锯齿较为尖锐。新叶褶皱状，浅绿色和淡黄色边缘的短毛覆盖在整个叶面上。夏季的时候，叶片上的毛会消失，但 2-3cm 的叶柄上还覆盖着毛。秋季是金色的，也会带有深红色。平均叶子长 4-7cm ，宽 4-7cm ，但也会有较大的叶子。成年树高约 3-4 米。",
+      "description": "Kobayashi （ 1975 ）在仔细研究了芽鳞、叶片和枝干上的毛以及其他特征之后，认为它应该属于 Sieboldianum （小叶羽团扇）。 叶子的轮廓是圆形的， 7-9 裂，叶裂深至叶基部的一半，叶边缘锯齿较为尖锐。 新叶褶皱状，浅绿色和淡黄色边缘的短毛覆盖在整个叶面上。 夏季的时候，叶片上的毛会消失，但 2-3cm 的叶柄上还覆盖着毛。 秋季是金色的，也会带有深红色。 平均叶子长 4-7cm ，宽 4-7cm ，但也会有较大的叶子。 成年树高约 3-4 米。",
       "image_count": 6
     },
     {
@@ -41,6 +46,15 @@
       "rhs_id": 383642,
       "detail_url": "https://www.rhs.org.uk/plants/383642/acer-sieboldianum-mikasa-yama/details",
       "botanical_name": "Acer sieboldianum 'Mikasa-yama'",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer sieboldianum 'Mikasa yama' Full Moon Japanese Maple",
+      "botanical_name": "Acer Sieboldianum 'Mikasa Yama'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-mikasa-yama",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -68,7 +82,7 @@
     "小叶羽团扇",
     "羽扇槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -128,7 +142,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "Kobayashi （ 1975 ）在仔细研究了芽鳞、叶片和枝干上的毛以及其他特征之后，认为它应该属于 Sieboldianum （小叶羽团扇）。叶子的轮廓是圆形的， 7-9 裂，叶裂深至叶基部的一半，叶边缘锯齿较为尖锐。新叶褶皱状，浅绿色和淡黄色边缘的短毛覆盖在整个叶面上。夏季的时候，叶片上的毛会消失，但 2-3cm 的叶柄上还覆盖着毛。秋季是金色的，也会带有深红色。平均叶子长 4-7cm ，宽 4-7cm ，但也会有较大的叶子。成年树高约 3-4 米。"
+    "preferred": "Kobayashi （ 1975 ）在仔细研究了芽鳞、叶片和枝干上的毛以及其他特征之后，认为它应该属于 Sieboldianum （小叶羽团扇）。 叶子的轮廓是圆形的， 7-9 裂，叶裂深至叶基部的一半，叶边缘锯齿较为尖锐。 新叶褶皱状，浅绿色和淡黄色边缘的短毛覆盖在整个叶面上。 夏季的时候，叶片上的毛会消失，但 2-3cm 的叶柄上还覆盖着毛。 秋季是金色的，也会带有深红色。 平均叶子长 4-7cm ，宽 4-7cm ，但也会有较大的叶子。 成年树高约 3-4 米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-mikasa-yama",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-mikasa-yama/01-acer-sieboldianum-mikasa-yama-639619.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-mikasa-yama/01-acer-sieboldianum-mikasa-yama-639619.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer sieboldianum 'Mikasa yama' Full Moon Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-mikasa-yama",
+        "botanical_name": "Acer Sieboldianum 'Mikasa Yama'",
+        "common_name": "Mikasa Yama",
+        "description_text": "Acer sieboldianum ‘Mikasa yama’ is a narrow growing full moon Japanese maple. Like most Acer sieboldianums, ‘Mikasa yama’ is extremely hardy in most conditions. ‘Mikasa yama’ has a decidedly upright habit with sturdy branches. ‘Mikasa yama’ has silky green leaves in the spring and summer. These leaves then turn a vibrant orange in the fall 10 Year Size: Height: 10-12 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Mikasa Yama",
+        "match_score": 370,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-sieboldianum-mikasa-yama-639619.jpg?v=1658490825",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-mikasa-yama",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-mikasa-yama/01-acer-sieboldianum-mikasa-yama-639619.jpg",
+          "bytes": 240548,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:13.390Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-mikasa-yama/01-acer-sieboldianum-mikasa-yama-639619.jpg"
+      ]
+    }
+  }
 }

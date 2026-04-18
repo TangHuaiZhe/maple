@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "Describing the leaf of this cultivar is very difficult because no two leaves are alike. The translation of 'Mama' is \"any which way\" or \"doing as one pleases.\" In today's vernacular this could mean \"doing your own thing.\" The foliage does just this. The bright green leaves are classed as five lobed. There the uniformity stops. Some leaves have seven lobes, or as few as three lobes. The leaves have the following shapes: five long, narrow lobes separated entirely to the leaf base with margins irregularly toothed, and appearing wind-tattered; three broad lobes separated shallowly plus two lobes long, narrow, completely separated, and with very \"tattered\" margins. Other leaves have all these combinations or any variation conceivable. Each leaf is beautifulblendof yellow-orangecombinationsinthefall. This plant is usually well branched, even twiggy. Occasionally,strongshootsdevelop.Theplantmaturesat3-4 m as a tall bush form. It is still rather rare in nurseries."
+    "preferred": "Describing the leaf of this cultivar is very difficult because no two leaves are alike. The translation of 'Mama' is \"any which way\" or \"doing as one pleases. \" In today's vernacular this could mean \"doing your own thing. \" The foliage does just this. The bright green leaves are classed as five lobed. There the uniformity stops. Some leaves have seven lobes, or as few as three lobes. The leaves have the following shapes: five long, narrow lobes separated entirely to the leaf base with margins irregularly toothed, and appearing wind-tattered; three broad lobes separated shallowly plus two lobes long, narrow, completely separated, and with very \"tattered\" margins. Other leaves have all these combinations or any variation conceivable. Each leaf is beautifulblendof yellow-orangecombinationsinthefall. This plant is usually well branched, even twiggy. Occasionally,strongshootsdevelop. Theplantmaturesat3-4 m as a tall bush form. It is still rather rare in nurseries."
   },
   "images": {
     "count": 0,
@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/79154/acer-palmatum-mama-(p)/details",
       "botanical_name": "Acer palmatum 'Mama' (P)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Mama' Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Mama'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mama",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -55,7 +69,7 @@
     "Acer palmatum 'Mama' (P)",
     "Mama"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -111,7 +125,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这个品种的叶片极难描述，因为几乎没有两片叶是完全相同的。'Mama' 可译作“随意”或“任性而为”；用今天的话说，大致相当于“按自己的方式来”。它的叶片确实如此。鲜绿色叶通常归为 5 裂型，但一致性也仅止于此。有些叶为 7 裂，有些则仅 3 裂。叶形变化包括：5 条狭长裂片，完全分离至叶基，边缘不规则具齿，看起来仿佛被风撕裂；也有叶片为 3 个较宽的浅裂裂片，加上 2 个狭长裂片，后者完全分离且边缘极为“破碎”。其他叶片则可能呈现上述各种组合，或几乎任何可以想见的变异。每一片叶在秋季都呈现美丽的黄橙色混合色调。该品种通常分枝良好，甚至枝条细密成丛；偶尔也会抽生强旺枝。植株成熟后为高大灌木形，高约 3-4 米。在苗圃中仍相当少见。"
+    "preferred": "这个品种的叶片极难描述，因为几乎没有两片叶是完全相同的。 'Mama' 可译作“随意”或“任性而为”；用今天的话说，大致相当于“按自己的方式来”。 它的叶片确实如此。 鲜绿色叶通常归为 5 裂型，但一致性也仅止于此。 有些叶为 7 裂，有些则仅 3 裂。 叶形变化包括：5 条狭长裂片，完全分离至叶基，边缘不规则具齿，看起来仿佛被风撕裂；也有叶片为 3 个较宽的浅裂裂片，加上 2 个狭长裂片，后者完全分离且边缘极为“破碎”。 其他叶片则可能呈现上述各种组合，或几乎任何可以想见的变异。 每一片叶在秋季都呈现美丽的黄橙色混合色调。 该品种通常分枝良好，甚至枝条细密成丛；偶尔也会抽生强旺枝。 植株成熟后为高大灌木形，高约 3-4 米。 在苗圃中仍相当少见。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mama",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Mama' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mama",
+        "botanical_name": "Acer palmatum 'Mama'",
+        "common_name": "Mama",
+        "description_text": "Acer palmatum 'Mama' is a small, upright Japanese maple with very irregular leaves. The leaves of 'Mama' are cut and dissected in a multitude of ways giving the overall texture of the tree a very different look. 'Mama' will be green in the spring and summer. 'Mama' looks great in the fall too with yellow to red fall color. 10 Year Size: Height: 4-6 feet Width: 3-5 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Mama",
+        "match_score": 364,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-mama-382118.jpg?v=1658490832",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mama",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg",
+          "bytes": 487450,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:09.277Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg"
+      ]
+    }
+  }
 }

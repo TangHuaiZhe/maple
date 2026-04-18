@@ -25,6 +25,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -89,7 +90,7 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "春叶展开时带粉红色或橙红色调，随着叶片成熟并转为浅绿色，这种色泽仍会沿叶缘保留。秋色尤为出众，呈鲜艳的深红至火红色。中等大小的叶片具 5 至 7 枚中度较深分裂的细长披针形裂片，逐渐收尖成锐尖，叶缘为重锯齿。该品种为直立生长、树冠开展的槭树，高可达 16 英尺（5 米）。"
+    "preferred": "春叶展开时带粉红色或橙红色调，随着叶片成熟并转为浅绿色，这种色泽仍会沿叶缘保留。 秋色尤为出众，呈鲜艳的深红至火红色。 中等大小的叶片具 5 至 7 枚中度较深分裂的细长披针形裂片，逐渐收尖成锐尖，叶缘为重锯齿。 该品种为直立生长、树冠开展的槭树，高可达 16 英尺（5 米）。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,

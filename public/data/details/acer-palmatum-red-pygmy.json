@@ -24,6 +24,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-red-pygmy/01-WSY0025539_4561.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-red-pygmy/01-WSY0025539_4561.jpg",
@@ -183,7 +184,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "生长缓慢的小型落叶灌木，形成圆 mound 状株形。叶片红紫色，通常分为七个狭长、近乎无齿的裂片；春季开小型紫色花。"
+    "description": "生长缓慢的小型落叶灌木，形成圆 mound 状株形。 叶片红紫色，通常分为七个狭长、近乎无齿的裂片；春季开小型紫色花。"
   },
   "has_mrmaple": false,
   "herter": {

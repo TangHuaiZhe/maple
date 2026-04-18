@@ -24,9 +24,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-takao/01-acer-palmatum-takao-496010.jpg",
+      "/jmac-images/acer-palmatum-takao/02-acer-palmatum-takao-329382.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-takao/02-acer-palmatum-takao-329382.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-takao/01-acer-palmatum-takao-496010.jpg",
+      "/jmac-images/acer-palmatum-takao/02-acer-palmatum-takao-329382.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -51,6 +58,15 @@
       "group": "palmatum",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Takao' Green Upright Japanese Maple",
+      "botanical_name": "Acer palmatum 'Takao'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-takao",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -63,7 +79,7 @@
     "Acer palmatum 'Takao' (P)",
     "Takao"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -86,9 +102,66 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "这一古老品种的记载可追溯至 1690 年和 1710 年。Acer palmatum 在日语中曾被称作 takao momiji，而叶形格外优美的植株则被称为 takao。该品种也曾以 'Oh momiji'、'Takao momiji' 和 'Takawo momiji' 之名流传，并曾被误拼为 'Tokao'。早期文献将其描述为绿叶、7 裂型，叶长 6 至 6.5 厘米，宽度略大于长度。自日本引入荷兰的植株则据称为 5 裂。裂片为长圆状披针形，先端渐尖成细长锐尖，叶缘具锯齿。'Takao' 以鲜黄至金黄的秋色闻名。植株长势强健，树形直立、圆头，成熟时可高达 9 米。"
+    "preferred": "这一古老品种的记载可追溯至 1690 年和 1710 年。 Acer palmatum 在日语中曾被称作 takao momiji，而叶形格外优美的植株则被称为 takao。 该品种也曾以 'Oh momiji'、'Takao momiji' 和 'Takawo momiji' 之名流传，并曾被误拼为 'Tokao'。 早期文献将其描述为绿叶、7 裂型，叶长 6 至 6. 5 厘米，宽度略大于长度。 自日本引入荷兰的植株则据称为 5 裂。 裂片为长圆状披针形，先端渐尖成细长锐尖，叶缘具锯齿。 'Takao' 以鲜黄至金黄的秋色闻名。 植株长势强健，树形直立、圆头，成熟时可高达 9 米。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-takao",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-takao/01-acer-palmatum-takao-496010.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-takao/01-acer-palmatum-takao-496010.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-takao/02-acer-palmatum-takao-329382.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Takao' Green Upright Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-takao",
+        "botanical_name": "Acer palmatum 'Takao'",
+        "common_name": "Takao",
+        "description_text": "'Takao' has been a favorite in Japan since 1690. Large green leaves and a beautiful and graceful growth habit make this a nice tree for any garden. However, the amazing yellow to orange fall color is what has kept this tree popular for well over 300 years. 10 Year size: Height: 8-10 Feet Width: 8-10 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Takao",
+        "match_score": 365,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-takao-496010.jpg?v=1658490872",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-takao",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-takao/01-acer-palmatum-takao-496010.jpg",
+          "bytes": 46521,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:25:00.083Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-takao-329382.jpg?v=1658490872",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-takao",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-takao/02-acer-palmatum-takao-329382.jpg",
+          "bytes": 176214,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:25:00.999Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-takao/01-acer-palmatum-takao-496010.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-takao/02-acer-palmatum-takao-329382.jpg"
+      ]
+    }
+  }
 }

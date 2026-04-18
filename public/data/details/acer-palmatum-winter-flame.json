@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This outstanding New Zealand cultivar was introduced by Duncan and Davies Nursery of New Zealand, and is a dwarf, compact bushy form of 'Sango kaku', but with more deeply divided leaves. It has small to medium-sized seven-lobed deeply divided leaves which are 4.5-6.5 cm long and wide. The three middle lobes are ovate-triangular with tail-like pointed tips, 10-15 mm wide at the broadest point in the lower third, narrowing to 3-4 mm at the lobe junctions which are within 5 mm of the leaf base. The small but distinct basal lobes are angled backward and outward. The slender red petioles are 1.5-3.5 cm long. 'Winter Flame', like"
+    "preferred": "This outstanding New Zealand cultivar was introduced by Duncan and Davies Nursery of New Zealand, and is a dwarf, compact bushy form of 'Sango kaku', but with more deeply divided leaves. It has small to medium-sized seven-lobed deeply divided leaves which are 4. 5-6. 5 cm long and wide. The three middle lobes are ovate-triangular with tail-like pointed tips, 10-15 mm wide at the broadest point in the lower third, narrowing to 3-4 mm at the lobe junctions which are within 5 mm of the leaf base. The small but distinct basal lobes are angled backward and outward. The slender red petioles are 1. 5-3. 5 cm long. 'Winter Flame', like"
   },
   "images": {
     "count": 0,
@@ -27,6 +27,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-winter-flame/01-Web_Use-_KOT9321%5B1%5D_12300.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-winter-flame/01-Web_Use-_KOT9321%5B1%5D_12300.jpg",
@@ -182,10 +183,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶性小至中型乔木或灌木，树形圆整，高约 3 米，嫩枝呈珊瑚红色。其五裂叶春季萌发时为青柠绿色，夏季渐深为中绿色，秋季转为黄色和橙色调。春季开小型红花，随后结红色翅果。"
+    "description": "落叶性小至中型乔木或灌木，树形圆整，高约 3 米，嫩枝呈珊瑚红色。 其五裂叶春季萌发时为青柠绿色，夏季渐深为中绿色，秋季转为黄色和橙色调。 春季开小型红花，随后结红色翅果。"
   },
   "descriptions_zh": {
-    "preferred": "这一出色的新西兰品种由新西兰 Duncan and Davies Nursery 引入，是 'Sango kaku' 的矮生、紧凑、丛生型，但叶片分裂更深。其叶片小至中等大小，具 7 个深裂裂片，长宽均为 4.5 至 6.5 厘米。中间 3 个裂片为卵状三角形，具尾状尖端，在下部三分之一最宽处宽 10 至 15 毫米，于裂片连接处收窄至 3 至 4 毫米，而该连接处距叶基不足 5 毫米。基部裂片虽小但清晰可辨，向后并向外伸展。细长红色叶柄长 1.5 至 3.5 厘米。'Winter Flame' 与 'Sango kaku' 一样，春叶为柔和的浅黄绿色，与粉红至红色新枝形成优美对比；夏季叶色转浅绿，秋季变为黄、橙、红混杂的斑驳色，最终呈浅深红色。它与"
+    "preferred": "这一出色的新西兰品种由新西兰 Duncan and Davies Nursery 引入，是 'Sango kaku' 的矮生、紧凑、丛生型，但叶片分裂更深。 其叶片小至中等大小，具 7 个深裂裂片，长宽均为 4. 5 至 6. 5 厘米。 中间 3 个裂片为卵状三角形，具尾状尖端，在下部三分之一最宽处宽 10 至 15 毫米，于裂片连接处收窄至 3 至 4 毫米，而该连接处距叶基不足 5 毫米。 基部裂片虽小但清晰可辨，向后并向外伸展。 细长红色叶柄长 1. 5 至 3. 5 厘米。 'Winter Flame' 与 'Sango kaku' 一样，春叶为柔和的浅黄绿色，与粉红至红色新枝形成优美对比；夏季叶色转浅绿，秋季变为黄、橙、红混杂的斑驳色，最终呈浅深红色。 它与"
   },
   "has_mrmaple": false
 }

@@ -24,9 +24,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
+      "/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
+      "/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -51,6 +58,15 @@
       "group": "Palmatum",
       "color_group": "variegated",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Ao kanzashi' Variegated Japanese Maple",
+      "botanical_name": "Acer palmatum 'Ao kanzashi'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ao-kanzashi-variegated-japanese-maple",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -65,7 +81,7 @@
     "Acer palmatum",
     "Acer palmatum 'Ao kanzashi'"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -88,9 +104,66 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "这是一种小型至中型乔木或灌木，具斑叶。其叶形、斑锦特征和株型都与 'Tennyo-no-hoshi' 非常相似，因此一度被怀疑为同物异名。但它起源于日本，叶片略小，生长更为紧凑。叶缘浅奶油绿色的斑锦在日照下不像 'Tennyo-no-hoshi' 那样容易转粉。'Ao kanzashi' 形成分枝密集的直立小乔木，高可达 4 米，树冠顶部开展，形态与 'Butterfly' 相似。'Ao kanzashi' 也曾以 'Oa hanzashi' 之名流传。"
+    "preferred": "这是一种小型至中型乔木或灌木，具斑叶。 其叶形、斑锦特征和株型都与 'Tennyo-no-hoshi' 非常相似，因此一度被怀疑为同物异名。 但它起源于日本，叶片略小，生长更为紧凑。 叶缘浅奶油绿色的斑锦在日照下不像 'Tennyo-no-hoshi' 那样容易转粉。 'Ao kanzashi' 形成分枝密集的直立小乔木，高可达 4 米，树冠顶部开展，形态与 'Butterfly' 相似。 'Ao kanzashi' 也曾以 'Oa hanzashi' 之名流传。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ao-kanzashi-variegated-japanese-maple",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Ao kanzashi' Variegated Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ao-kanzashi-variegated-japanese-maple",
+        "botanical_name": "Acer palmatum 'Ao kanzashi'",
+        "common_name": "Ao kanzashi",
+        "description_text": "Acer palmatum 'Ao kanzashi' is a variegated Japanese maple with very small leaves. These small leaves have a light variegation along the edges of the leaves. At times in the spring these variegated edges can be a red color, but most of the year the edges are a creamy white or light green color. Fall color is an impressive orange and red. 10 Year Size: Height: 10-12 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Ao kanzashi",
+        "match_score": 370,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg?v=1685183102",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ao-kanzashi-variegated-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
+          "bytes": 355312,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:16.814Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.jpg?v=1685183102",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ao-kanzashi-variegated-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.jpg",
+          "bytes": 266246,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:18.179Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.jpg"
+      ]
+    }
+  }
 }

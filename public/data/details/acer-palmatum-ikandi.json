@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Ikandi，发音为\"eye candy\"，非常甜蜜的名字。它 是从 Acer palmatum 'Alpenweiss'（白色阿尔卑斯）选育 出来的，而 Alpenweiss 来源于日笠山，所以 Ikandi 与日笠山很相似。在著名的《Japanese Maples》中 对 Alpenweiss 的介绍是：与日笠山相似但比它小， 颜色更加鲜艳。继承 Alpenweiss 并与日笠山隔代相 传 ,Ikandi 的春天的粉色更显著，更诱人。Ikandi 在 春天比其他枫树更早地出叶，叶子首先出现带有橙 色边缘的黄绿色，很快变成充满活力的鲑鱼粉红 色，带有绿色的叶脉。在叶脉周围出现绿色和白色 之前，'Ikandi 的叶子几乎完全变成粉红色。到夏天， 粉红色的杂色逐渐变成绿色和乳白色。秋天会变成 橙色到红色。需要注意的是，Ikandi 幼树颜色并不 饱满突出，随着树龄的增加，锦叶的表现会更加强烈。"
+    "preferred": "Ikandi，发音为\"eye candy\"，非常甜蜜的名字。 它 是从 Acer palmatum 'Alpenweiss'（白色阿尔卑斯）选育 出来的，而 Alpenweiss 来源于日笠山，所以 Ikandi 与日笠山很相似。 在著名的《Japanese Maples》中 对 Alpenweiss 的介绍是：与日笠山相似但比它小， 颜色更加鲜艳。 继承 Alpenweiss 并与日笠山隔代相 传 ,Ikandi 的春天的粉色更显著，更诱人。 Ikandi 在 春天比其他枫树更早地出叶，叶子首先出现带有橙 色边缘的黄绿色，很快变成充满活力的鲑鱼粉红 色，带有绿色的叶脉。 在叶脉周围出现绿色和白色 之前，'Ikandi 的叶子几乎完全变成粉红色。 到夏天， 粉红色的杂色逐渐变成绿色和乳白色。 秋天会变成 橙色到红色。 需要注意的是，Ikandi 幼树颜色并不 饱满突出，随着树龄的增加，锦叶的表现会更加强烈。"
   },
   "images": {
     "count": 7,
@@ -20,9 +20,18 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
+      "/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.jpg",
+      "/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
+      "/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.jpg",
+      "/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.jpg"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -33,7 +42,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "脉斑叶",
       "title": "Ikandi Acer Palmatum 'Ikandi'",
-      "description": "Ikandi，发音为\"eye candy\"，非常甜蜜的名字。它 是从 Acer palmatum 'Alpenweiss'（白色阿尔卑斯）选育 出来的，而 Alpenweiss 来源于日笠山，所以 Ikandi 与日笠山很相似。在著名的《Japanese Maples》中 对 Alpenweiss 的介绍是：与日笠山相似但比它小， 颜色更加鲜艳。继承 Alpenweiss 并与日笠山隔代相 传 ,Ikandi 的春天的粉色更显著，更诱人。Ikandi 在 春天比其他枫树更早地出叶，叶子首先出现带有橙 色边缘的黄绿色，很快变成充满活力的鲑鱼粉红 色，带有绿色的叶脉。在叶脉周围出现绿色和白色 之前，'Ikandi 的叶子几乎完全变成粉红色。到夏天， 粉红色的杂色逐渐变成绿色和乳白色。秋天会变成 橙色到红色。需要注意的是，Ikandi 幼树颜色并不 饱满突出，随着树龄的增加，锦叶的表现会更加强烈。",
+      "description": "Ikandi，发音为\"eye candy\"，非常甜蜜的名字。 它 是从 Acer palmatum 'Alpenweiss'（白色阿尔卑斯）选育 出来的，而 Alpenweiss 来源于日笠山，所以 Ikandi 与日笠山很相似。 在著名的《Japanese Maples》中 对 Alpenweiss 的介绍是：与日笠山相似但比它小， 颜色更加鲜艳。 继承 Alpenweiss 并与日笠山隔代相 传 ,Ikandi 的春天的粉色更显著，更诱人。 Ikandi 在 春天比其他枫树更早地出叶，叶子首先出现带有橙 色边缘的黄绿色，很快变成充满活力的鲑鱼粉红 色，带有绿色的叶脉。 在叶脉周围出现绿色和白色 之前，'Ikandi 的叶子几乎完全变成粉红色。 到夏天， 粉红色的杂色逐渐变成绿色和乳白色。 秋天会变成 橙色到红色。 需要注意的是，Ikandi 幼树颜色并不 饱满突出，随着树龄的增加，锦叶的表现会更加强烈。",
       "image_count": 7
     },
     {
@@ -41,6 +50,15 @@
       "rhs_id": 366944,
       "detail_url": "https://www.rhs.org.uk/plants/366944/acer-palmatum-ikandi-(p-v)/details",
       "botanical_name": "Acer palmatum 'Ikandi' (P/v)",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Ikandi' Variegated Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Ikandi'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ikandi",
+      "image_count": 3,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -58,7 +76,7 @@
     "脉斑叶",
     "鸡爪槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -114,7 +132,78 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "Ikandi，发音为\"eye candy\"，非常甜蜜的名字。它 是从 Acer palmatum 'Alpenweiss'（白色阿尔卑斯）选育 出来的，而 Alpenweiss 来源于日笠山，所以 Ikandi 与日笠山很相似。在著名的《Japanese Maples》中 对 Alpenweiss 的介绍是：与日笠山相似但比它小， 颜色更加鲜艳。继承 Alpenweiss 并与日笠山隔代相 传 ,Ikandi 的春天的粉色更显著，更诱人。Ikandi 在 春天比其他枫树更早地出叶，叶子首先出现带有橙 色边缘的黄绿色，很快变成充满活力的鲑鱼粉红 色，带有绿色的叶脉。在叶脉周围出现绿色和白色 之前，'Ikandi 的叶子几乎完全变成粉红色。到夏天， 粉红色的杂色逐渐变成绿色和乳白色。秋天会变成 橙色到红色。需要注意的是，Ikandi 幼树颜色并不 饱满突出，随着树龄的增加，锦叶的表现会更加强烈。"
+    "preferred": "Ikandi，发音为\"eye candy\"，非常甜蜜的名字。 它 是从 Acer palmatum 'Alpenweiss'（白色阿尔卑斯）选育 出来的，而 Alpenweiss 来源于日笠山，所以 Ikandi 与日笠山很相似。 在著名的《Japanese Maples》中 对 Alpenweiss 的介绍是：与日笠山相似但比它小， 颜色更加鲜艳。 继承 Alpenweiss 并与日笠山隔代相 传 ,Ikandi 的春天的粉色更显著，更诱人。 Ikandi 在 春天比其他枫树更早地出叶，叶子首先出现带有橙 色边缘的黄绿色，很快变成充满活力的鲑鱼粉红 色，带有绿色的叶脉。 在叶脉周围出现绿色和白色 之前，'Ikandi 的叶子几乎完全变成粉红色。 到夏天， 粉红色的杂色逐渐变成绿色和乳白色。 秋天会变成 橙色到红色。 需要注意的是，Ikandi 幼树颜色并不 饱满突出，随着树龄的增加，锦叶的表现会更加强烈。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ikandi",
+    "matched_product_count": 1,
+    "local_file_count": 3,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Ikandi' Variegated Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ikandi",
+        "botanical_name": "Acer Palmatum 'Ikandi'",
+        "common_name": "Ikandi",
+        "description_text": "Acer palmatum ‘Ikandi’ is an extremely variegated Japanese maple discovered as a chance seedling from Acer palmatum ‘Alpenweiss’ by Talon Buchholz. The leaves on ‘Ikandi emerge almost entirely pink before the green and white develop around the veins. The pink variegation fades to green and creamy white by summer time and eventually will turn orange to red in the fall. ‘Ikandi’ needs to be protected from the hot afternoon sun, but morning or dappled sun help to provide excellent color to the variegated leaves in the spring. Variegated leaves on ‘Ikandi’ develop more as it matures, so be patient with this one and you will reap the beautiful benefits in the long run. ‘Ikandi’ will grow into a small to medium sized tree that should only reach eight to ten feet tall at maturity. 10 Year Size: Height: 8-10 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Ikandi",
+        "match_score": 366,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ikandi-925792.jpg?v=1658490625",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ikandi",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
+          "bytes": 290224,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:39.876Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ikandi-631462.jpg?v=1658490625",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ikandi",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.jpg",
+          "bytes": 221152,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:41.035Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ikandi-911642.jpg?v=1658490625",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ikandi",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.jpg",
+          "bytes": 207162,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:42.226Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 3,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.jpg"
+      ]
+    }
+  }
 }

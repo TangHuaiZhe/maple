@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This dwarf shrub has small leaves of the palmatum type which have red edges and tips when young, becoming an 'Shishigashira' lengthens the color season in fall. Photo courtesy of Oregon State University Archives, Corvallis narrowing to 5-8 mm at the lobe junctions. The margins are deeply and evenly double toothed. The long, very slender petioles are 1.5-3.5 cm long. The growth habit is similar to that of"
+    "preferred": "This dwarf shrub has small leaves of the palmatum type which have red edges and tips when young, becoming an 'Shishigashira' lengthens the color season in fall. Photo courtesy of Oregon State University Archives, Corvallis narrowing to 5-8 mm at the lobe junctions. The margins are deeply and evenly double toothed. The long, very slender petioles are 1. 5-3. 5 cm long. The growth habit is similar to that of"
   },
   "images": {
     "count": 0,
@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-shishio-hime/01-acer-palmatum-shishio-hime-399594.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-shishio-hime/01-acer-palmatum-shishio-hime-399594.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-shishio-hime/01-acer-palmatum-shishio-hime-399594.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/269441/acer-palmatum-shishio-hime-(dw)/details",
       "botanical_name": "Acer palmatum 'Shishio-hime' (Dw)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Shishio hime' Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Shishio hime'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-shishio-hime",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -57,7 +71,7 @@
     "Shishio hime",
     "Shishio-hime"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -113,7 +127,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该矮生灌木具 palmatum 型小叶，幼叶时叶缘和叶尖带红色，从而延长了秋季观色期。叶片在裂片连接处收窄至 5-8 毫米。叶缘深且均匀地呈重锯齿。细长叶柄长 1.5-3.5 厘米。其生长习性与 'Murasaki kiyohime' 相似，但体型更小，形成低矮、开展的矮生灌木。初期枝叶致密、生长缓慢，10 年后约高 0.8 米、宽 1.2 米；不过在早年阶段，幼年枝条可长达 10-12 厘米，随植株老化则明显缩短。最终它会成为较为强健的矮生品种之一。非常适合容器栽培和盆景。关于名称 'Shishio hime' 的正确性仍有一些疑问，也不确定是否应拼作"
+    "preferred": "该矮生灌木具 palmatum 型小叶，幼叶时叶缘和叶尖带红色，从而延长了秋季观色期。 叶片在裂片连接处收窄至 5-8 毫米。 叶缘深且均匀地呈重锯齿。 细长叶柄长 1. 5-3. 5 厘米。 其生长习性与 'Murasaki kiyohime' 相似，但体型更小，形成低矮、开展的矮生灌木。 初期枝叶致密、生长缓慢，10 年后约高 0. 8 米、宽 1. 2 米；不过在早年阶段，幼年枝条可长达 10-12 厘米，随植株老化则明显缩短。 最终它会成为较为强健的矮生品种之一。 非常适合容器栽培和盆景。 关于名称 'Shishio hime' 的正确性仍有一些疑问，也不确定是否应拼作"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-shishio-hime",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-shishio-hime/01-acer-palmatum-shishio-hime-399594.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-shishio-hime/01-acer-palmatum-shishio-hime-399594.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Shishio hime' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-shishio-hime",
+        "botanical_name": "Acer palmatum 'Shishio hime'",
+        "common_name": "Shishio hime",
+        "description_text": "Acer palmatum ‘Shishio hime’ is a very nice, small Japanese maple that will grow much wider than tall, forming a low mound with age. 'Shishio hime' emerges in spring with Red tips to the leaves before turning green for the summer. The leaves become smaller each year as the plant matures. Older specimens have some of the smallest leaves of any Acer palmatum. The foliage is also extremely dense. Fall color ranges from red and yellow to orange. 10 year size: Height: 1-3 Feet Width: 4-6 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Shishio hime",
+        "match_score": 371,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-shishio-hime-399594.jpg?v=1658491059",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-shishio-hime",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-shishio-hime/01-acer-palmatum-shishio-hime-399594.jpg",
+          "bytes": 51055,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:24:57.587Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-shishio-hime/01-acer-palmatum-shishio-hime-399594.jpg"
+      ]
+    }
+  }
 }

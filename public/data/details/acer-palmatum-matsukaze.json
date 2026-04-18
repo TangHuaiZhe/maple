@@ -28,6 +28,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-matsukaze-momiji_kaede/01-vaem04980.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-matsukaze/01-vaem04980.jpg",
@@ -176,13 +177,13 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
     },
-    "description": "生长旺盛，形成宽展、灌木状小乔木，高约 4 米，枝条优雅下垂。春季新叶为古铜红至紫红色，并具鲜绿色叶脉；夏季转为浓绿色；秋季再变为深红与绯红色。",
+    "description": "生长旺盛，形成宽展、灌木状小乔木，高约 4 米，枝条优雅下垂。 春季新叶为古铜红至紫红色，并具鲜绿色叶脉；夏季转为浓绿色；秋季再变为深红与绯红色。",
     "attributes": {
       "suggested_uses": "城市/庭院花园、乡村/自然式花园、野生动物友好型花园"
     }
   },
   "descriptions_zh": {
-    "preferred": "这一深裂品种是极具观赏价值的园林树种。春叶色彩十分醒目，为铜红色至紫红色，鲜绿色叶脉增添了特殊的观赏效果。夏季叶色转为浓绿色，秋季再转为浓郁的洋红色和深红色。叶长 7-8 厘米，深裂，具 7 个细长、狭窄的椭圆状卵形裂片，裂片渐尖成长而纤细的尖端。各裂片往往彼此靠拢而非向外放射，因此整叶展开宽度仅 8-9 厘米。裂片在距叶基约 5 毫米处相连。叶缘具重锯齿。叶柄细长，长约 4-5 厘米。该品种生长势旺盛，在快速生长的幼株上，部分新梢可长 0.5-1 米，而老枝上的生长则短得多。‘Matsukaze’ 一名意为“松风”，是日本 12 至 13 世纪著名能剧之一的标题。由于其株型近似 dissectum 类型，且叶片极狭、深裂，‘Matsukaze’ 也曾以 ‘Dissectum Matsukaze’、‘Machi kaze’ 和 ‘Pendulum Matsukaze’ 等名称流通。其名称也曾被误拼为 ‘Matsukase’。"
+    "preferred": "这一深裂品种是极具观赏价值的园林树种。 春叶色彩十分醒目，为铜红色至紫红色，鲜绿色叶脉增添了特殊的观赏效果。 夏季叶色转为浓绿色，秋季再转为浓郁的洋红色和深红色。 叶长 7-8 厘米，深裂，具 7 个细长、狭窄的椭圆状卵形裂片，裂片渐尖成长而纤细的尖端。 各裂片往往彼此靠拢而非向外放射，因此整叶展开宽度仅 8-9 厘米。 裂片在距叶基约 5 毫米处相连。 叶缘具重锯齿。 叶柄细长，长约 4-5 厘米。 该品种生长势旺盛，在快速生长的幼株上，部分新梢可长 0. 5-1 米，而老枝上的生长则短得多。 ‘Matsukaze’ 一名意为“松风”，是日本 12 至 13 世纪著名能剧之一的标题。 由于其株型近似 dissectum 类型，且叶片极狭、深裂，‘Matsukaze’ 也曾以 ‘Dissectum Matsukaze’、‘Machi kaze’ 和 ‘Pendulum Matsukaze’ 等名称流通。 其名称也曾被误拼为 ‘Matsukase’。"
   },
   "has_mrmaple": false,
   "mrmaple": null

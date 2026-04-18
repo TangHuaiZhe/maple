@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "由美国俄勒冈州巴克霍兹苗圃培育，一款矮生直立生长的品种，春季 叶子是浅青铜绿色， 带有淡黄色的锦叶，在 初夏至仲夏时最为明显 ，叶边缘有明显的浅黄色锦叶， 秋天颜色从黄色到橙色。 叶裂深，每个叶裂细长，叶边缘略 卷曲、皱缩 ，枝干茂盛，冠幅圆润茂密。成年高度大约在 1.5m 左右，冠幅约为 1m 。"
+    "preferred": "由美国俄勒冈州巴克霍兹苗圃培育，一款矮生直立生长的品种，春季 叶子是浅青铜绿色， 带有淡黄色的锦叶，在 初夏至仲夏时最为明显 ，叶边缘有明显的浅黄色锦叶， 秋天颜色从黄色到橙色。 叶裂深，每个叶裂细长，叶边缘略 卷曲、皱缩 ，枝干茂盛，冠幅圆润茂密。 成年高度大约在 1. 5m 左右，冠幅约为 1m 。"
   },
   "images": {
     "count": 6,
@@ -20,9 +20,22 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
+      "/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.heic",
+      "/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.heic",
+      "/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.heic",
+      "/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.heic"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
+      "/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.heic",
+      "/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.heic",
+      "/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.heic",
+      "/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.heic"
+    ],
+    "public_count": 5
   },
   "sources": [
     {
@@ -33,7 +46,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "矮生",
       "title": "Dr.Seuss Acer Palmatum 'Dr.Seuss'",
-      "description": "由美国俄勒冈州巴克霍兹苗圃培育，一款矮生直立生长的品种，春季 叶子是浅青铜绿色， 带有淡黄色的锦叶，在 初夏至仲夏时最为明显 ，叶边缘有明显的浅黄色锦叶， 秋天颜色从黄色到橙色。 叶裂深，每个叶裂细长，叶边缘略 卷曲、皱缩 ，枝干茂盛，冠幅圆润茂密。成年高度大约在 1.5m 左右，冠幅约为 1m 。",
+      "description": "由美国俄勒冈州巴克霍兹苗圃培育，一款矮生直立生长的品种，春季 叶子是浅青铜绿色， 带有淡黄色的锦叶，在 初夏至仲夏时最为明显 ，叶边缘有明显的浅黄色锦叶， 秋天颜色从黄色到橙色。 叶裂深，每个叶裂细长，叶边缘略 卷曲、皱缩 ，枝干茂盛，冠幅圆润茂密。 成年高度大约在 1. 5m 左右，冠幅约为 1m 。",
       "image_count": 6
     },
     {
@@ -41,6 +54,15 @@
       "rhs_id": 359645,
       "detail_url": "https://www.rhs.org.uk/plants/359645/acer-palmatum-dr-seuss-(l)/details",
       "botanical_name": "Acer palmatum 'Dr Seuss' (L)",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Dr. Seuss' Variegated Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Dr.Seuss'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
+      "image_count": 5,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -60,7 +82,7 @@
     "矮生",
     "鸡爪槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -116,7 +138,106 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "由美国俄勒冈州巴克霍兹苗圃培育，一款矮生直立生长的品种，春季 叶子是浅青铜绿色， 带有淡黄色的锦叶，在 初夏至仲夏时最为明显 ，叶边缘有明显的浅黄色锦叶， 秋天颜色从黄色到橙色。 叶裂深，每个叶裂细长，叶边缘略 卷曲、皱缩 ，枝干茂盛，冠幅圆润茂密。成年高度大约在 1.5m 左右，冠幅约为 1m 。"
+    "preferred": "由美国俄勒冈州巴克霍兹苗圃培育，一款矮生直立生长的品种，春季 叶子是浅青铜绿色， 带有淡黄色的锦叶，在 初夏至仲夏时最为明显 ，叶边缘有明显的浅黄色锦叶， 秋天颜色从黄色到橙色。 叶裂深，每个叶裂细长，叶边缘略 卷曲、皱缩 ，枝干茂盛，冠幅圆润茂密。 成年高度大约在 1. 5m 左右，冠幅约为 1m 。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
+    "matched_product_count": 1,
+    "local_file_count": 5,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.heic",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.heic",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.heic",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.heic"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Dr. Seuss' Variegated Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
+        "botanical_name": "Acer Palmatum 'Dr.Seuss'",
+        "common_name": "Dr.Seuss",
+        "description_text": "Acer palmatum ‘Dr. Seuss’ is a very unique Japanese maple with unusual leaves with an irregular shape. These leaves also have a unique light green on dark green variegation. At it’s peak this variegation is a creamy white on top of the darker green foliage. At other times the variegation can be quite subtle. These strange shaped leaves turn to a vibrant orange in the fall. 10 Year Size: Height: 6-8 feet Width 3-4 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Dr.Seuss",
+        "match_score": 367,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1298.heic?v=1721162154",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
+          "bytes": 1882200,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:49.176Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1296.heic?v=1721162154",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.heic",
+          "bytes": 1800896,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:53.709Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1295.heic?v=1721162154",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.heic",
+          "bytes": 815544,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:57.144Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 4,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1297.heic?v=1721162154",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.heic",
+          "bytes": 1507946,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:00.876Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 5,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1299.heic?v=1721162153",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.heic",
+          "bytes": 1087202,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:04.408Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 5,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.heic",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.heic",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.heic",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.heic"
+      ]
+    }
+  }
 }

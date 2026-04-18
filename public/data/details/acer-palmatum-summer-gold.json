@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "夏金，由意大利米兰 的 Fratelli Ghiradelli 哥拉德利苗圃选育并推广，夏金是 鸡爪槭和白泽槭的杂交品种，具有典型的白泽槭特性， 叶圆且种子直立向上，而非鸡爪槭式的下垂式生长， 夏金春叶为明亮的黄色，并有红色的叶边，超级漂亮。 黄叶系列，夏季为黄绿色，目前唯一的夏季黄叶品种， 秋季为橙色或者火红色。生长健壮，可全日照，成年 树可达 3 米左右高度。"
+    "preferred": "夏金，由意大利米兰 的 Fratelli Ghiradelli 哥拉德利苗圃选育并推广，夏金是 鸡爪槭和白泽槭的杂交品种，具有典型的白泽槭特性， 叶圆且种子直立向上，而非鸡爪槭式的下垂式生长， 夏金春叶为明亮的黄色，并有红色的叶边，超级漂亮。 黄叶系列，夏季为黄绿色，目前唯一的夏季黄叶品种， 秋季为橙色或者火红色。 生长健壮，可全日照，成年 树可达 3 米左右高度。"
   },
   "images": {
     "count": 10,
@@ -94,6 +94,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-summer-gold/02-visi69110.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-summer-gold/01-elbo62067.jpg",
@@ -180,7 +181,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "黄叶",
       "title": "夏金Acer Palmatum 'Summer Gold'",
-      "description": "夏金，由意大利米兰 的 Fratelli Ghiradelli 哥拉德利苗圃选育并推广，夏金是 鸡爪槭和白泽槭的杂交品种，具有典型的白泽槭特性， 叶圆且种子直立向上，而非鸡爪槭式的下垂式生长， 夏金春叶为明亮的黄色，并有红色的叶边，超级漂亮。 黄叶系列，夏季为黄绿色，目前唯一的夏季黄叶品种， 秋季为橙色或者火红色。生长健壮，可全日照，成年 树可达 3 米左右高度。",
+      "description": "夏金，由意大利米兰 的 Fratelli Ghiradelli 哥拉德利苗圃选育并推广，夏金是 鸡爪槭和白泽槭的杂交品种，具有典型的白泽槭特性， 叶圆且种子直立向上，而非鸡爪槭式的下垂式生长， 夏金春叶为明亮的黄色，并有红色的叶边，超级漂亮。 黄叶系列，夏季为黄绿色，目前唯一的夏季黄叶品种， 秋季为橙色或者火红色。 生长健壮，可全日照，成年 树可达 3 米左右高度。",
       "image_count": 10
     },
     {
@@ -321,7 +322,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "夏金，由意大利米兰 的 Fratelli Ghiradelli 哥拉德利苗圃选育并推广，夏金是 鸡爪槭和白泽槭的杂交品种，具有典型的白泽槭特性， 叶圆且种子直立向上，而非鸡爪槭式的下垂式生长， 夏金春叶为明亮的黄色，并有红色的叶边，超级漂亮。 黄叶系列，夏季为黄绿色，目前唯一的夏季黄叶品种， 秋季为橙色或者火红色。生长健壮，可全日照，成年 树可达 3 米左右高度。"
+    "preferred": "夏金，由意大利米兰 的 Fratelli Ghiradelli 哥拉德利苗圃选育并推广，夏金是 鸡爪槭和白泽槭的杂交品种，具有典型的白泽槭特性， 叶圆且种子直立向上，而非鸡爪槭式的下垂式生长， 夏金春叶为明亮的黄色，并有红色的叶边，超级漂亮。 黄叶系列，夏季为黄绿色，目前唯一的夏季黄叶品种， 秋季为橙色或者火红色。 生长健壮，可全日照，成年 树可达 3 米左右高度。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -343,7 +344,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "小型、缓慢生长的直立树种，树冠圆整，最终高和冠幅均可达 2 米。叶片 7 裂，春季展叶时为粉色，夏季转为青柠绿至黄色并带细窄红边，秋季则呈金黄色并带橙色和红色晕染。春季开不显眼的小花，秋季在叶幕上方可见红色翅果。"
+    "description": "小型、缓慢生长的直立树种，树冠圆整，最终高和冠幅均可达 2 米。 叶片 7 裂，春季展叶时为粉色，夏季转为青柠绿至黄色并带细窄红边，秋季则呈金黄色并带橙色和红色晕染。 春季开不显眼的小花，秋季在叶幕上方可见红色翅果。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -450,7 +451,7 @@
           "VDAYSALE26",
           "XMAS23"
         ],
-        "description_text": "Acer palmatum 'Summer Gold' Golden Yellow - Heat Tolerant Japanese Maple Zones 5-9 'Summer Gold' leafs out as bright chartreuse to yellow green with a red border. The leaf on 'Summer Gold' brightens to gold as the summer progresses providing a dynamic contrast with both red and green maples. This may be one the most heat tolerant selections of the golden leaf types as this maple does not show any burn when grown in full sun in the mountains of North Carolina. Fall color is a deep bright orange to fiery red. This Italian selection by Ghiradelli Nursery is a summer delight in the garden. 'Summer Gold' will reach 6-8 ft in 10 years making it the perfect mid-sized golden tree for your garden or landscape. These 10 gallon trees are for local pickup only, we cannot ship them because they are too big. The MrMaple Nursery is located in East Flat Rock, NC. Please contact us to arrange a pickup time. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent. The photos on this page without a MrMaple logo were taken by Talon Buchholz and cannot be used without expressed written consent from the owner.",
+        "description_text": "Acer palmatum 'Summer Gold' Golden Yellow - Heat Tolerant Japanese Maple Zones 5-9 'Summer Gold' leafs out as bright chartreuse to yellow green with a red border. The leaf on 'Summer Gold' brightens to gold as the summer progresses providing a dynamic contrast with both red and green maples. This may be one the most heat tolerant selections of the golden leaf types as this maple does not show any burn when grown in full sun in the mountains of North Carolina. Fall color is a deep bright orange to fiery red. This Italian selection by Ghiradelli Nursery is a summer delight in the garden. 'Summer Gold' will reach 6-8 ft in 10 years making it the perfect mid-sized golden tree for your garden or landscape. These 10 gallon trees are for local pickup only, we cannot ship them because they are too big. The MrMaple Nursery is located in East Flat Rock, NC. Please contact us to arrange a pickup time.",
         "published_at": "2025-11-24T09:00:16-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

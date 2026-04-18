@@ -34,6 +34,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/04-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071859.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-yezo-nishiki-japanese-maple/01-Acer_palmatum_Yezo_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071854.jpg",
@@ -170,10 +171,10 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶日本枫，色彩极为艳丽，初期树形直立，后期渐开展，成熟时高约6-7米。叶片7裂，裂片渐尖，先端锐尖；春季叶色鲜亮红紫，初夏颜色加深，夏末转为红铜色，秋季则呈鲜艳的深红色与猩红色。"
+    "description": "落叶日本枫，色彩极为艳丽，初期树形直立，后期渐开展，成熟时高约6-7米。 叶片7裂，裂片渐尖，先端锐尖；春季叶色鲜亮红紫，初夏颜色加深，夏末转为红铜色，秋季则呈鲜艳的深红色与猩红色。"
   },
   "descriptions_zh": {
-    "preferred": "这是一个色彩极为出众的品种，春季叶色为浓艳明亮的红紫色，随着夏季推进颜色逐渐加深。夏末叶片转为红铜色，但在深阴环境下会偏绿。秋色则为鲜丽的深红色和猩红色。叶片通常为7裂，质地较厚实，长5-7厘米，宽可达9厘米。叶基近截形。裂片约分离至叶基的一半处。每个裂片为卵状渐尖形，先端渐尖成锐 point。叶缘细密且均匀具锯齿。红色叶柄细长但不柔弱，长3-4厘米。该树直立开展，25年可达6-7米高。幼株生长迅速，之后转缓。Corvallis matsumurae -variegated 这是一个生长较高、红叶且偶有斑锦的品种。我在 Maplewood 观察其6年后，将其命名并登记为"
+    "preferred": "这是一个色彩极为出众的品种，春季叶色为浓艳明亮的红紫色，随着夏季推进颜色逐渐加深。 夏末叶片转为红铜色，但在深阴环境下会偏绿。 秋色则为鲜丽的深红色和猩红色。 叶片通常为7裂，质地较厚实，长5-7厘米，宽可达9厘米。 叶基近截形。 裂片约分离至叶基的一半处。 每个裂片为卵状渐尖形，先端渐尖成锐 point。 叶缘细密且均匀具锯齿。 红色叶柄细长但不柔弱，长3-4厘米。 该树直立开展，25年可达6-7米高。 幼株生长迅速，之后转缓。 Corvallis matsumurae -variegated 这是一个生长较高、红叶且偶有斑锦的品种。 我在 Maplewood 观察其6年后，将其命名并登记为"
   },
   "has_mrmaple": true,
   "mrmaple": {

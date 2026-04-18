@@ -23,10 +23,17 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-autumn-fire/01-Acer-palmatum-Herbstfeuer-1.jpg",
+      "/coniferkingdom-images/acer-palmatum-autumn-fire/02-Acer-palmatum-Herbstfeuer-2.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-autumn-fire/02-Acer-palmatum-Herbstfeuer-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-autumn-fire/01-Acer-palmatum-Herbstfeuer-1.jpg",
+      "/coniferkingdom-images/acer-palmatum-autumn-fire/02-Acer-palmatum-Herbstfeuer-2.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -51,6 +58,15 @@
       "group": "dissectum",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Herbstfeuer’ Autumn Fire Hybrid Maple",
+      "botanical_name": "Acer palmatum 'Autumn Fire'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-herbstfeue-autumn-fire-hybrid-maple/",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -63,7 +79,7 @@
     "Acer palmatum 'Autumn Fire' (D)",
     "Autumn Fire"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -86,9 +102,65 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "这一绿色 dissectum 类型起源于 1979 年的一株偶发实生苗，由美国俄勒冈州尤金的 Del's Japanese Maple Nursery 繁殖并推广，于 1996 年完成登记。它与多数绿色 dissectum 品种不同之处在于株形为半直立，而非通常的圆拱形。正如其名称所示，该品种最突出的特点是中绿色叶片在秋季会转为鲜艳亮红色。新梢叶为浅黄绿色，边缘带粉色，与较深绿色的老叶形成悦目的对比。叶片较大、分裂很深，通常具 7 或 9 裂，质感较粗，长 10 至 11 厘米、宽 11 至 13 厘米。其裂片本身不像多数 laceleaf 类型那样分裂得极细。10 年后株高约 2 米，但冠幅扩展更宽。"
+    "preferred": "这一绿色 dissectum 类型起源于 1979 年的一株偶发实生苗，由美国俄勒冈州尤金的 Del's Japanese Maple Nursery 繁殖并推广，于 1996 年完成登记。 它与多数绿色 dissectum 品种不同之处在于株形为半直立，而非通常的圆拱形。 正如其名称所示，该品种最突出的特点是中绿色叶片在秋季会转为鲜艳亮红色。 新梢叶为浅黄绿色，边缘带粉色，与较深绿色的老叶形成悦目的对比。 叶片较大、分裂很深，通常具 7 或 9 裂，质感较粗，长 10 至 11 厘米、宽 11 至 13 厘米。 其裂片本身不像多数 laceleaf 类型那样分裂得极细。 10 年后株高约 2 米，但冠幅扩展更宽。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-herbstfeue-autumn-fire-hybrid-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-autumn-fire/01-Acer-palmatum-Herbstfeuer-1.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-autumn-fire/01-Acer-palmatum-Herbstfeuer-1.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-autumn-fire/02-Acer-palmatum-Herbstfeuer-2.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Herbstfeuer’ Autumn Fire Hybrid Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-herbstfeue-autumn-fire-hybrid-maple/",
+        "botanical_name": "Acer palmatum 'Autumn Fire'",
+        "common_name": "Autumn Fire",
+        "description_text": "Discover Acer palmatum 'Herbstfeuer' at Conifer Kingdom. Fall in love with this stunning hybrid maple, known as Autumn Fire. Shop now for vibrant foliage!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "autumn fire",
+        "match_score": 250
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2023/04/Acer-palmatum-Herbstfeuer-1.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-herbstfeue-autumn-fire-hybrid-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-autumn-fire/01-Acer-palmatum-Herbstfeuer-1.jpg",
+          "bytes": 277600,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:46.598Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2023/04/Acer-palmatum-Herbstfeuer-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-herbstfeue-autumn-fire-hybrid-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-autumn-fire/02-Acer-palmatum-Herbstfeuer-2.jpg",
+          "bytes": 330111,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:46.951Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-autumn-fire/01-Acer-palmatum-Herbstfeuer-1.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-autumn-fire/02-Acer-palmatum-Herbstfeuer-2.jpg"
+      ]
+    }
+  }
 }

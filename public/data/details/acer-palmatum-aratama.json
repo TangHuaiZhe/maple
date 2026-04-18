@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "This highly desirable dwarf shrub has small bright red foliage varying from brick-red in the older leaves to light purple-red in the new leaves. During the summer a green tinge often appears along the midribs, giving an interesting two-tone effect. The five to seven leaf lobes are long-ovate with long, tapering points and well-toothed margins. The moderately deeply divided leaves have flat bases, and the center lobes are often shortened. Originating as a witches' broom of 'Koi murasaki', this cultivar forms a round, dense, twiggy, shrubby plant with the leaves lying rather flat along the twigs. It Acer reaches 3-5 ft. (1-1.5 m) tall in 10 years and is suitable for the small garden landscape. It takes full sun very well. The name means \"uncut gem.\""
+    "preferred": "This highly desirable dwarf shrub has small bright red foliage varying from brick-red in the older leaves to light purple-red in the new leaves. During the summer a green tinge often appears along the midribs, giving an interesting two-tone effect. The five to seven leaf lobes are long-ovate with long, tapering points and well-toothed margins. The moderately deeply divided leaves have flat bases, and the center lobes are often shortened. Originating as a witches' broom of 'Koi murasaki', this cultivar forms a round, dense, twiggy, shrubby plant with the leaves lying rather flat along the twigs. It Acer reaches 3-5 ft. (1-1. 5 m) tall in 10 years and is suitable for the small garden landscape. It takes full sun very well. The name means \"uncut gem. \""
   },
   "images": {
     "count": 10,
@@ -23,10 +23,21 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-aratama/01-Acer-palmatum-Aratama-2r.jpg",
+      "/coniferkingdom-images/acer-palmatum-aratama/02-Acer-palmatum-Aratama-1r.jpg",
+      "/coniferkingdom-images/acer-palmatum-aratama/03-Acer-palmatum-Aratama-2rr.jpg",
+      "/coniferkingdom-images/acer-palmatum-aratama/04-Acer-palmatum-Aratama-1rr.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-aratama/02-Acer-palmatum-Aratama-1r.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-aratama/01-Acer-palmatum-Aratama-2r.jpg",
+      "/coniferkingdom-images/acer-palmatum-aratama/02-Acer-palmatum-Aratama-1r.jpg",
+      "/coniferkingdom-images/acer-palmatum-aratama/03-Acer-palmatum-Aratama-2rr.jpg",
+      "/coniferkingdom-images/acer-palmatum-aratama/04-Acer-palmatum-Aratama-1rr.jpg"
+    ],
+    "public_count": 4
   },
   "sources": [
     {
@@ -37,7 +48,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "矮生",
       "title": "Aratama-Acer palmatum 'Aratama'",
-      "description": "\"Aratama\"— 荒玉是一款可爱的矮生的紧凑型日本枫树，自然成球的树型长势非常适合花园，阳台种植。成年树高约1.5米。 \"Aratama\"源自\"Ko murasaki\"，因其浓密、短而紧密的分枝而备受青睐。\"Aratama\"在日语中的意思是\"未切割的宝石\"。 春季早发叶，新叶为鲜红色到了春末逐渐变成酒红色，如果种植在遮荫处，为青铜绿色；夏季返绿，秋天橙红色。",
+      "description": "\"Aratama\"— 荒玉是一款可爱的矮生的紧凑型日本枫树，自然成球的树型长势非常适合花园，阳台种植。 成年树高约1. 5米。 \"Aratama\"源自\"Ko murasaki\"，因其浓密、短而紧密的分枝而备受青睐。 \"Aratama\"在日语中的意思是\"未切割的宝石\"。 春季早发叶，新叶为鲜红色到了春末逐渐变成酒红色，如果种植在遮荫处，为青铜绿色；夏季返绿，秋天橙红色。",
       "image_count": 10
     },
     {
@@ -53,6 +64,15 @@
       "rhs_id": 111284,
       "detail_url": "https://www.rhs.org.uk/plants/111284/acer-palmatum-aratama-(dw)/details",
       "botanical_name": "Acer palmatum 'Aratama' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Aratama’ Japanese Maple",
+      "botanical_name": "Acer palmatum 'Aratama'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-aratama-japanese-maple/",
+      "image_count": 4,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -74,7 +94,7 @@
     "红叶",
     "鸡爪槭"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -130,7 +150,91 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这种极受欢迎的矮生灌木，叶片较小，色泽鲜红，老叶呈砖红色，新叶呈浅紫红色。夏季时主脉附近常会泛出绿色，形成有趣的双色效果。叶片通常5至7裂，裂片为长卵形，先端细长渐尖，叶缘具明显锯齿。叶片中等偏深裂，叶基平展，中间裂片常较短。该品种源自 'Koi murasaki' 的丛生变异（witches' broom），植株呈圆形、紧密、枝条细密的灌木状，叶片较平展地贴伏于小枝上。10 年内可长至 3-5 英尺（1-1.5 米）高，适合小型庭园栽植。对全日照的耐受性很好。其名称意为“未经切琢的宝石”。"
+    "preferred": "这种极受欢迎的矮生灌木，叶片较小，色泽鲜红，老叶呈砖红色，新叶呈浅紫红色。 夏季时主脉附近常会泛出绿色，形成有趣的双色效果。 叶片通常5至7裂，裂片为长卵形，先端细长渐尖，叶缘具明显锯齿。 叶片中等偏深裂，叶基平展，中间裂片常较短。 该品种源自 'Koi murasaki' 的丛生变异（witches' broom），植株呈圆形、紧密、枝条细密的灌木状，叶片较平展地贴伏于小枝上。 10 年内可长至 3-5 英尺（1-1. 5 米）高，适合小型庭园栽植。 对全日照的耐受性很好。 其名称意为“未经切琢的宝石”。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-aratama-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 4,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/01-Acer-palmatum-Aratama-2r.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/01-Acer-palmatum-Aratama-2r.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/02-Acer-palmatum-Aratama-1r.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/03-Acer-palmatum-Aratama-2rr.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/04-Acer-palmatum-Aratama-1rr.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Aratama’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-aratama-japanese-maple/",
+        "botanical_name": "Acer palmatum 'Aratama'",
+        "common_name": "Aratama",
+        "description_text": "Spring leaves emerge in brilliant red bunches on this dwarf maple. A unique variety which has beautiful yellow-orange fall color. Shop now!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum aratama",
+        "match_score": 259
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2023/04/Acer-palmatum-Aratama-2r.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-aratama-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/01-Acer-palmatum-Aratama-2r.jpg",
+          "bytes": 205826,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:43.677Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2023/04/Acer-palmatum-Aratama-1r.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-aratama-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/02-Acer-palmatum-Aratama-1r.jpg",
+          "bytes": 351213,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:44.054Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2023/04/Acer-palmatum-Aratama-2rr.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-aratama-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/03-Acer-palmatum-Aratama-2rr.jpg",
+          "bytes": 292436,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:44.573Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 4,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2023/04/Acer-palmatum-Aratama-1rr.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-aratama-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/04-Acer-palmatum-Aratama-1rr.jpg",
+          "bytes": 225659,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:45.077Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 4,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/01-Acer-palmatum-Aratama-2r.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/02-Acer-palmatum-Aratama-1r.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/03-Acer-palmatum-Aratama-2rr.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-aratama/04-Acer-palmatum-Aratama-1rr.jpg"
+      ]
+    }
+  }
 }

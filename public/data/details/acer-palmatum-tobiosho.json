@@ -23,10 +23,17 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-tobiosho/01-Acer-palmatum-Tobiosho-fall-leaves.jpg",
+      "/coniferkingdom-images/acer-palmatum-tobiosho/02-Acer-palmatum-Tobiosho-1-v.1.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-tobiosho/02-Acer-palmatum-Tobiosho-1-v.1.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-tobiosho/01-Acer-palmatum-Tobiosho-fall-leaves.jpg",
+      "/coniferkingdom-images/acer-palmatum-tobiosho/02-Acer-palmatum-Tobiosho-1-v.1.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -51,6 +58,15 @@
       "group": "palmatum",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Tobiosho’ Japanese Maple",
+      "botanical_name": "Acer palmatum 'Tobiosho'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-tobiosho-japanese-maple/",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -65,7 +81,7 @@
     "Japanese maple 'Tobiosho'",
     "Tobiosho"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -91,9 +107,65 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "该品种在秋季会因鲜艳的猩红色而格外出彩。叶片较小，深裂为 5 个卵形裂片，裂片先端呈尾状延伸，叶缘具明显锯齿。红色叶柄坚挺而细长。'Tobiosho' 最终长成一株直立、树冠宽阔的中型乔木。其名称来自选育出它的那位苗圃经营者。 'Toyama nishiki'：Dissectum Group，斑叶型。叶片底色为紫红至偏绿的红色。有些叶片几乎不见斑锦，有些叶片在春季初展时则几乎全粉。多数斑锦表现为裂片上的粉色或白色区块，或与叶面底色交融，变化极为丰富。由于叶片容易日灼，栽植于半阴处时，色彩通常更浓且保持性更好。中等大小的叶片有 7 至 9 个裂片，二回深裂，深达中脉，质感细致如蕾丝。这个较娇嫩、并不十分强健的槭树品种需要较多照料。其名称可译作“富山锦”。"
+    "preferred": "该品种在秋季会因鲜艳的猩红色而格外出彩。 叶片较小，深裂为 5 个卵形裂片，裂片先端呈尾状延伸，叶缘具明显锯齿。 红色叶柄坚挺而细长。 'Tobiosho' 最终长成一株直立、树冠宽阔的中型乔木。 其名称来自选育出它的那位苗圃经营者。 'Toyama nishiki'：Dissectum Group，斑叶型。 叶片底色为紫红至偏绿的红色。 有些叶片几乎不见斑锦，有些叶片在春季初展时则几乎全粉。 多数斑锦表现为裂片上的粉色或白色区块，或与叶面底色交融，变化极为丰富。 由于叶片容易日灼，栽植于半阴处时，色彩通常更浓且保持性更好。 中等大小的叶片有 7 至 9 个裂片，二回深裂，深达中脉，质感细致如蕾丝。 这个较娇嫩、并不十分强健的槭树品种需要较多照料。 其名称可译作“富山锦”。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-tobiosho-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tobiosho/01-Acer-palmatum-Tobiosho-fall-leaves.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tobiosho/01-Acer-palmatum-Tobiosho-fall-leaves.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tobiosho/02-Acer-palmatum-Tobiosho-1-v.1.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Tobiosho’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-tobiosho-japanese-maple/",
+        "botanical_name": "Acer palmatum 'Tobiosho'",
+        "common_name": "Tobiosho",
+        "description_text": "A medium sized maple with green palmate leaves that are green in the summertime and turn wonderful colors in the fall. Overall form is upright with a rounded canopy.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum tobiosho",
+        "match_score": 260
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2024/11/Acer-palmatum-Tobiosho-fall-leaves.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-tobiosho-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tobiosho/01-Acer-palmatum-Tobiosho-fall-leaves.jpg",
+          "bytes": 543421,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:57.958Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2024/11/Acer-palmatum-Tobiosho-1-v.1.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-tobiosho-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tobiosho/02-Acer-palmatum-Tobiosho-1-v.1.jpg",
+          "bytes": 822185,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:59.070Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tobiosho/01-Acer-palmatum-Tobiosho-fall-leaves.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tobiosho/02-Acer-palmatum-Tobiosho-1-v.1.jpg"
+      ]
+    }
+  }
 }

@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "The distinct yellowgreen foliage makes this cultivar worthwhile. The green tones of the large leaves darken as summer progresses. Fall color is yellow, occasionally tinged orange. The five to seven deeply separated lobes are incised and toothed along the margins but not as deeply cut to the midrib as in most dissectums. This plant is very vigorous and matures at 8 ft. (2.5 m) high and 10 ft. (3 m) wide. The name means \"yellowish.\""
+    "preferred": "The distinct yellowgreen foliage makes this cultivar worthwhile. The green tones of the large leaves darken as summer progresses. Fall color is yellow, occasionally tinged orange. The five to seven deeply separated lobes are incised and toothed along the margins but not as deeply cut to the midrib as in most dissectums. This plant is very vigorous and matures at 8 ft. (2. 5 m) high and 10 ft. (3 m) wide. The name means \"yellowish. \""
   },
   "images": {
     "count": 0,
@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -161,10 +162,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
     },
-    "description": "开展、灌木状小乔木，高约 2 米、宽约 3 米，枝条下垂呈瀑布状。叶片蕾丝状，7 裂，深裂至叶基，春季为柔和的黄绿色，夏季绿色逐渐加深，秋季转为黄色并带橙色调。"
+    "description": "开展、灌木状小乔木，高约 2 米、宽约 3 米，枝条下垂呈瀑布状。 叶片蕾丝状，7 裂，深裂至叶基，春季为柔和的黄绿色，夏季绿色逐渐加深，秋季转为黄色并带橙色调。"
   },
   "descriptions_zh": {
-    "preferred": "这一品种的独特黄绿色叶色使其颇具栽培价值。随着夏季推进，大型叶片中的绿色调会逐渐加深。秋色为黄色，偶尔带橙色晕染。叶具 5 至 7 个深度分离的裂片，边缘具裂刻和锯齿，但不像多数 Dissectum 类型那样深切至中脉。植株生长非常旺盛，成熟时高约 8 英尺（2.5 米），幅约 10 英尺（3 米）。“其名意为‘微黄’。”"
+    "preferred": "这一品种的独特黄绿色叶色使其颇具栽培价值。 随着夏季推进，大型叶片中的绿色调会逐渐加深。 秋色为黄色，偶尔带橙色晕染。 叶具 5 至 7 个深度分离的裂片，边缘具裂刻和锯齿，但不像多数 Dissectum 类型那样深切至中脉。 植株生长非常旺盛，成熟时高约 8 英尺（2. 5 米），幅约 10 英尺（3 米）。 “其名意为‘微黄’。 ”"
   },
   "has_mrmaple": false
 }

@@ -19,10 +19,17 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-allen/01-Acer-palmatum-Allens-Gold-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-allen/02-Acer-palmatum-Allens-Gold-1.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-allen/01-Acer-palmatum-Allens-Gold-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-allen/01-Acer-palmatum-Allens-Gold-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-allen/02-Acer-palmatum-Allens-Gold-1.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -35,6 +42,15 @@
       "title": "金色艾伦Acer Palmatum'Allen's Gold'",
       "description": "",
       "image_count": 2
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Allen’s Gold’ Japanese Maple",
+      "botanical_name": "Acer Palmatum",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-allens-gold-japanese-maple/",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -51,13 +67,69 @@
     "金色艾伦Acer Palmatum'Allen's Gold'",
     "鸡爪槭"
   ],
-  "source_count": 1,
+  "source_count": 2,
   "has_web": true,
   "has_book": false,
   "has_rhs": false,
   "rhs": null,
   "has_mrmaple": false,
   "descriptions_zh": {
-    "preferred": "疑为 Allen's Gold。春季新叶呈明亮橙黄色，常配以珊瑚红色叶柄与嫩枝；夏季转为黄绿色，秋季再转金黄。树形直立，适合作为小型庭院中的亮色焦点。"
+    "preferred": "疑为 Allen's Gold。 春季新叶呈明亮橙黄色，常配以珊瑚红色叶柄与嫩枝；夏季转为黄绿色，秋季再转金黄。 树形直立，适合作为小型庭院中的亮色焦点。"
+  },
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-allens-gold-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-allen/01-Acer-palmatum-Allens-Gold-2.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-allen/01-Acer-palmatum-Allens-Gold-2.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-allen/02-Acer-palmatum-Allens-Gold-1.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Allen’s Gold’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-allens-gold-japanese-maple/",
+        "botanical_name": "Acer Palmatum",
+        "common_name": "Allen",
+        "description_text": "Leaves are a brilliant orange-yellow first thing in the spring, giving this rough-bark Japanese maple a stunning appearance compared to the similar 'Arakawa'.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "allen",
+        "match_score": 245
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2022/04/Acer-palmatum-Allens-Gold-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-allens-gold-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-allen/01-Acer-palmatum-Allens-Gold-2.jpg",
+          "bytes": 170119,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:40.041Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2022/04/Acer-palmatum-Allens-Gold-1.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-allens-gold-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-allen/02-Acer-palmatum-Allens-Gold-1.jpg",
+          "bytes": 242056,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:40.420Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-allen/01-Acer-palmatum-Allens-Gold-2.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-allen/02-Acer-palmatum-Allens-Gold-1.jpg"
+      ]
+    }
   }
 }

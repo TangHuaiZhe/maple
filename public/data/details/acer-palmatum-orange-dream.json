@@ -117,6 +117,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-orange-dream/04-visi68442.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-orange-dream/01-RHS_WSYD0003721_6689.JPG",
@@ -413,10 +414,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "中等大小、丛生状落叶灌木，高可达 3 米；叶色随季节变化，春季黄色，夏季带绿色，秋季橙黄色。树皮鲜绿色，夏季开红紫色花，之后可能结红色果实。"
+    "description": "中等大小、丛生状落叶灌木，高可达 3 米；叶色随季节变化，春季黄色，夏季带绿色，秋季橙黄色。 树皮鲜绿色，夏季开红紫色花，之后可能结红色果实。"
   },
   "descriptions_zh": {
-    "preferred": "这个优美的品种由意大利米兰附近的 Fratelli Gilardelli 苗圃于 20 世纪 80 年代后期引入，是近年一批因清新春叶色而被选育的 Acer palmatum 品种之一。其新叶萌发时呈清新的橙色，很快转为柠檬黄色，叶缘与叶尖带橙色晕染。它与广受欢迎的 'Katsura' 相似，但展叶不那么早，因此较不易遭受早春寒潮伤害。此外，其叶片鲜黄色保持时间更久，直到夏末仍缓慢转为黄绿色，叶缘往往还略带淡红色。秋季则转为明亮的金黄色。 细长的新梢颜色由悦目的红色到浅绿色不等，仅有淡淡的条纹。七裂叶略宽于长，长 4 至 7 厘米、宽 4.5 至 8 厘米，裂片分裂深度达叶基的约 2/3 至 3/4。卵形裂片具短尾状尖端，长 3.5 至 5.5 厘米，中部宽 2 至 2.5 厘米，向先端渐狭。估计成熟后株高可达 3 至 4 米。与大多数浅色叶品种一样，以半阴环境栽培最佳，且不宜失水干旱，否则叶片可能皱缩。不过，它已被证明比"
+    "preferred": "这个优美的品种由意大利米兰附近的 Fratelli Gilardelli 苗圃于 20 世纪 80 年代后期引入，是近年一批因清新春叶色而被选育的 Acer palmatum 品种之一。 其新叶萌发时呈清新的橙色，很快转为柠檬黄色，叶缘与叶尖带橙色晕染。 它与广受欢迎的 'Katsura' 相似，但展叶不那么早，因此较不易遭受早春寒潮伤害。 此外，其叶片鲜黄色保持时间更久，直到夏末仍缓慢转为黄绿色，叶缘往往还略带淡红色。 秋季则转为明亮的金黄色。 细长的新梢颜色由悦目的红色到浅绿色不等，仅有淡淡的条纹。 七裂叶略宽于长，长 4 至 7 厘米、宽 4. 5 至 8 厘米，裂片分裂深度达叶基的约 2/3 至 3/4。 卵形裂片具短尾状尖端，长 3. 5 至 5. 5 厘米，中部宽 2 至 2. 5 厘米，向先端渐狭。 估计成熟后株高可达 3 至 4 米。 与大多数浅色叶品种一样，以半阴环境栽培最佳，且不宜失水干旱，否则叶片可能皱缩。 不过，它已被证明比"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -565,7 +566,7 @@
           "XLSALE",
           "XMAS23"
         ],
-        "description_text": "Acer palmatum 'Orange Dream' Orange Dream Yellow Japanese Maple Tree Zones 5-9 'Orange Dream' is a beautiful Japanese maple with exceptional color. The leaves of 'Orange Dream' leaf out in the early spring with bright golden leaves that are outlined in bright orange red. This color contrast is striking. 'Orange Dream' is excellent as a focal point planting or when planted in combination with deep maroon Japanese maples. 'Orange Dream' can also be used to brighten dark spots in the garden. In hotter climates, we recommend giving 'Orange Dream' protection from the hot afternoon sun for best color. Fall colors are bright oranges to red. 'Orange Dream' is an Italian introduction from Gilardelli Nursery. 'Orange Dream' may reach 10 ft in 15 years becoming denser and more shrub-like with time.",
+        "description_text": "Acer palmatum 'Orange Dream' Orange Dream Yellow Japanese Maple Tree Zones 5-9 'Orange Dream' is a beautiful Japanese maple with exceptional color. The leaves of 'Orange Dream' leaf out in the early spring with bright golden leaves that are outlined in bright orange red. This color contrast is striking. 'Orange Dream' can also be used to brighten dark spots in the garden. In hotter climates, we recommend giving 'Orange Dream' protection from the hot afternoon sun for best color. Fall colors are bright oranges to red. 'Orange Dream' is an Italian introduction from Gilardelli Nursery. 'Orange Dream' may reach 10 ft in 15 years becoming denser and more shrub-like with time.",
         "published_at": "2026-04-09T10:00:15-04:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

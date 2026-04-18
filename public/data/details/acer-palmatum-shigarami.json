@@ -16,7 +16,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "The name of this cultivar means \"posts in a river or stream to which boats are tied.\" The spring foliage is a bright green, with the tips of the lobes a light purple which shades a short distance back along each margin. The contrast is quite noticeable. As the leaf matures, the outer half of each lobe becomes purple. Later, in summer, the leaf becomes solid green. Fall colors are rich yellow and orange suffused with red. The seven-lobed leaves are 4-6 cm long and 6-8 cm wide. The lobes radiate stiffly outward, with the two very small basal lobes angled back along the petiole. Each lobe separates two-thirds of the way to the leaf base and has a long-ovate shape with almost parallel sides in the lower part, tapering gradually to a sharp tip. The sides of the lobes tend to turn upwards from the midrib, forming a slight trough. The margins are almost smooth with the horizontal branches give it a layered appearance. After many years it reaches a height of 4 m. The close similarity of 'Shigarami' to 'Tana' has created a slight confusion between the two cultivars. The narrower, parallel-sided lobes and deeper divisions in the leaves of 'Shigarami' distinguish it from 'Tana' which has broader triangular lobes and divisions to about halfway. This cultivar has also been known under the name 'Saku' which may not be synonymous."
+    "preferred": "The name of this cultivar means \"posts in a river or stream to which boats are tied. \" The spring foliage is a bright green, with the tips of the lobes a light purple which shades a short distance back along each margin. The contrast is quite noticeable. As the leaf matures, the outer half of each lobe becomes purple. Later, in summer, the leaf becomes solid green. Fall colors are rich yellow and orange suffused with red. The seven-lobed leaves are 4-6 cm long and 6-8 cm wide. The lobes radiate stiffly outward, with the two very small basal lobes angled back along the petiole. Each lobe separates two-thirds of the way to the leaf base and has a long-ovate shape with almost parallel sides in the lower part, tapering gradually to a sharp tip. The sides of the lobes tend to turn upwards from the midrib, forming a slight trough. The margins are almost smooth with the horizontal branches give it a layered appearance. After many years it reaches a height of 4 m. The close similarity of 'Shigarami' to 'Tana' has created a slight confusion between the two cultivars. The narrower, parallel-sided lobes and deeper divisions in the leaves of 'Shigarami' distinguish it from 'Tana' which has broader triangular lobes and divisions to about halfway. This cultivar has also been known under the name 'Saku' which may not be synonymous."
   },
   "images": {
     "count": 0,
@@ -24,10 +24,25 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-shigarami/01-1.-Acer-palmatum-Shigarami-nishiki-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-shigarami/02-Acer-palmatum-Shigarami-nishiki-004.jpg",
+      "/coniferkingdom-images/acer-palmatum-shigarami/03-Acer-palmatum-Shigarami-nishiki.jpg",
+      "/coniferkingdom-images/acer-palmatum-shigarami/04-Acer_palmatum_Shigarami_nishiki-001__07126.jpg",
+      "/coniferkingdom-images/acer-palmatum-shigarami/05-SPECIMEN-1207-ACER-PALMATUM-SHIGARAMI-1.jpg",
+      "/coniferkingdom-images/acer-palmatum-shigarami/06-Acer-palmatum-Shigarami-5.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-shigarami/06-Acer-palmatum-Shigarami-5.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-shigarami/01-1.-Acer-palmatum-Shigarami-nishiki-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-shigarami/02-Acer-palmatum-Shigarami-nishiki-004.jpg",
+      "/coniferkingdom-images/acer-palmatum-shigarami/03-Acer-palmatum-Shigarami-nishiki.jpg",
+      "/coniferkingdom-images/acer-palmatum-shigarami/04-Acer_palmatum_Shigarami_nishiki-001__07126.jpg",
+      "/coniferkingdom-images/acer-palmatum-shigarami/05-SPECIMEN-1207-ACER-PALMATUM-SHIGARAMI-1.jpg",
+      "/coniferkingdom-images/acer-palmatum-shigarami/06-Acer-palmatum-Shigarami-5.jpg"
+    ],
+    "public_count": 6
   },
   "sources": [
     {
@@ -52,6 +67,15 @@
       "group": "palmatum",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Shigarami’ Japanese Maple",
+      "botanical_name": "Acer palmatum 'Shigarami'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-shigarami-japanese-maple/",
+      "image_count": 6,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -68,7 +92,7 @@
     "Saku",
     "Shigarami"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -95,9 +119,121 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "该品种名称意为“河流或溪流中系船的桩柱”。春叶鲜绿色，裂片尖端带浅紫色，并沿每个裂片边缘向后延伸一小段，色彩对比相当明显。叶片成熟后，每个裂片的外半部会变为紫色。到夏季后期，叶片转为纯绿色。秋色为浓艳的黄色和橙色，并带红晕。七裂叶长 4 至 6 厘米，宽 6 至 8 厘米。裂片硬挺地向外放射展开，两个很小的基部裂片向后斜指叶柄方向。每个裂片裂至叶基约三分之二处，形状为长卵形，下半部两侧近乎平行，向上逐渐收尖。裂片两侧常自中脉处向上翻卷，形成浅浅的槽状。叶缘近乎平滑。水平展开的枝条使其具有层叠感。多年后株高可达 4 米。'Shigarami' 与 'Tana' 非常相似，因此两者之间曾有些混淆。'Shigarami' 的裂片更狭、两侧更平行，且叶裂更深；而 'Tana' 的裂片较宽、呈三角形，裂刻约达一半。该品种也曾以 'Saku' 之名流传，但两者未必为同物异名。"
+    "preferred": "该品种名称意为“河流或溪流中系船的桩柱”。 春叶鲜绿色，裂片尖端带浅紫色，并沿每个裂片边缘向后延伸一小段，色彩对比相当明显。 叶片成熟后，每个裂片的外半部会变为紫色。 到夏季后期，叶片转为纯绿色。 秋色为浓艳的黄色和橙色，并带红晕。 七裂叶长 4 至 6 厘米，宽 6 至 8 厘米。 裂片硬挺地向外放射展开，两个很小的基部裂片向后斜指叶柄方向。 每个裂片裂至叶基约三分之二处，形状为长卵形，下半部两侧近乎平行，向上逐渐收尖。 裂片两侧常自中脉处向上翻卷，形成浅浅的槽状。 叶缘近乎平滑。 水平展开的枝条使其具有层叠感。 多年后株高可达 4 米。 'Shigarami' 与 'Tana' 非常相似，因此两者之间曾有些混淆。 'Shigarami' 的裂片更狭、两侧更平行，且叶裂更深；而 'Tana' 的裂片较宽、呈三角形，裂刻约达一半。 该品种也曾以 'Saku' 之名流传，但两者未必为同物异名。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-shigarami-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 6,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/01-1.-Acer-palmatum-Shigarami-nishiki-2.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/01-1.-Acer-palmatum-Shigarami-nishiki-2.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/02-Acer-palmatum-Shigarami-nishiki-004.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/03-Acer-palmatum-Shigarami-nishiki.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/04-Acer_palmatum_Shigarami_nishiki-001__07126.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/05-SPECIMEN-1207-ACER-PALMATUM-SHIGARAMI-1.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/06-Acer-palmatum-Shigarami-5.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Shigarami’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-shigarami-japanese-maple/",
+        "botanical_name": "Acer palmatum 'Shigarami'",
+        "common_name": "Shigarami",
+        "description_text": "Shigarami nishiki Japanese Maple is a slow-growing shrubby Japanese maple with petite. Hardy to USDA zones 6 to 9. Shop online now!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum shigarami",
+        "match_score": 261
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/1.-Acer-palmatum-Shigarami-nishiki-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-shigarami-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/01-1.-Acer-palmatum-Shigarami-nishiki-2.jpg",
+          "bytes": 417573,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:41.187Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/Acer-palmatum-Shigarami-nishiki-004.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-shigarami-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/02-Acer-palmatum-Shigarami-nishiki-004.jpg",
+          "bytes": 244370,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:41.953Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/Acer-palmatum-Shigarami-nishiki.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-shigarami-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/03-Acer-palmatum-Shigarami-nishiki.jpg",
+          "bytes": 753211,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:43.190Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 4,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/Acer_palmatum_Shigarami_nishiki-001__07126.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-shigarami-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/04-Acer_palmatum_Shigarami_nishiki-001__07126.jpg",
+          "bytes": 680282,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:44.729Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 5,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/SPECIMEN-1207-ACER-PALMATUM-SHIGARAMI-1.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-shigarami-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/05-SPECIMEN-1207-ACER-PALMATUM-SHIGARAMI-1.jpg",
+          "bytes": 787894,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:46.274Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 6,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2020/12/Acer-palmatum-Shigarami-5.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-shigarami-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/06-Acer-palmatum-Shigarami-5.jpg",
+          "bytes": 275196,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:46.874Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 6,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/01-1.-Acer-palmatum-Shigarami-nishiki-2.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/02-Acer-palmatum-Shigarami-nishiki-004.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/03-Acer-palmatum-Shigarami-nishiki.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/04-Acer_palmatum_Shigarami_nishiki-001__07126.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/05-SPECIMEN-1207-ACER-PALMATUM-SHIGARAMI-1.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-shigarami/06-Acer-palmatum-Shigarami-5.jpg"
+      ]
+    }
+  }
 }

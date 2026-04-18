@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-kurabu-yama/01-acer-palmatum-kurabu-yama-upright-japanese-maple-2933081.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-kurabu-yama/01-acer-palmatum-kurabu-yama-upright-japanese-maple-2933081.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-kurabu-yama/01-acer-palmatum-kurabu-yama-upright-japanese-maple-2933081.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -37,7 +42,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "红叶",
       "title": "暗部山Acer Palmatum 'Kurabu Yama'",
-      "description": "暗部山最早记载于 1882 年，春天新叶茶粉色随着季节 变化会转绿，夏天变成深绿，秋天先变黄，然后变成明 亮的橙色和深红色。成年树高约 2-3 米。",
+      "description": "暗部山最早记载于 1882 年，春天新叶茶粉色随着季节 变化会转绿，夏天变成深绿，秋天先变黄，然后变成明 亮的橙色和深红色。 成年树高约 2-3 米。",
       "image_count": 8
     },
     {
@@ -62,6 +67,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/155904/acer-palmatum-kurabu-yama-(m)/details",
       "botanical_name": "Acer palmatum 'Kurabu-yama' (M)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Kurabu yama' Upright Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Kurabu Yama'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-kurabu-yama-upright-japanese-maple",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -84,7 +98,7 @@
     "红叶",
     "鸡爪槭"
   ],
-  "source_count": 4,
+  "source_count": 5,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -140,7 +154,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这个鲜为人知的品种值得获得更多关注。其叶片七裂，裂至叶基；每个裂片为长卵形，两侧裂片明显较窄，叶缘锯齿较锐。叶长 5 至 6 厘米、宽约 6 厘米，质地良好，触感较厚。春梢呈红褐色或深锈色，入夏后转为浓深的绿色。秋色可呈黄色、橙色与深红色调，因此在庭园中十分醒目。植株并非高大的直立乔木，株高和冠幅约可达 4 米。另有一种深绿色叶型，叶片较小而色深，每个裂片边缘紧密向上并向内卷曲，叶背灰绿色，整叶近似星形。叶虽为七裂，但基部两裂片向上杯卷，因而视觉上近似五裂。各裂片细长、渐尖，由于边缘内卷几乎在中央相接，整体看起来像尖细的小管。裂片边缘原有锯齿，但因内卷而不明显；叶尖极锐，且常带钩。该类型与"
+    "preferred": "这个鲜为人知的品种值得获得更多关注。 其叶片七裂，裂至叶基；每个裂片为长卵形，两侧裂片明显较窄，叶缘锯齿较锐。 叶长 5 至 6 厘米、宽约 6 厘米，质地良好，触感较厚。 春梢呈红褐色或深锈色，入夏后转为浓深的绿色。 秋色可呈黄色、橙色与深红色调，因此在庭园中十分醒目。 植株并非高大的直立乔木，株高和冠幅约可达 4 米。 另有一种深绿色叶型，叶片较小而色深，每个裂片边缘紧密向上并向内卷曲，叶背灰绿色，整叶近似星形。 叶虽为七裂，但基部两裂片向上杯卷，因而视觉上近似五裂。 各裂片细长、渐尖，由于边缘内卷几乎在中央相接，整体看起来像尖细的小管。 裂片边缘原有锯齿，但因内卷而不明显；叶尖极锐，且常带钩。 该类型与"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-kurabu-yama-upright-japanese-maple",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-kurabu-yama/01-acer-palmatum-kurabu-yama-upright-japanese-maple-2933081.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-kurabu-yama/01-acer-palmatum-kurabu-yama-upright-japanese-maple-2933081.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Kurabu yama' Upright Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-kurabu-yama-upright-japanese-maple",
+        "botanical_name": "Acer Palmatum 'Kurabu Yama'",
+        "common_name": "Kurabu yama",
+        "description_text": "",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Kurabu yama",
+        "match_score": 370,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-kurabu-yama-upright-japanese-maple-2933081.jpg?v=1754693610",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-kurabu-yama-upright-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-kurabu-yama/01-acer-palmatum-kurabu-yama-upright-japanese-maple-2933081.jpg",
+          "bytes": 307282,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:08.401Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-kurabu-yama/01-acer-palmatum-kurabu-yama-upright-japanese-maple-2933081.jpg"
+      ]
+    }
+  }
 }

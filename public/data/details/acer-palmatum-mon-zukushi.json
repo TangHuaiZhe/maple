@@ -43,6 +43,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/05-Acer_palmatum_Mon_zukushi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064691.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-mon-zukushi-japanese-maple/01-8CA9C323-938D-42B9-B8C2-A9C1EAC5D395.jpg",
@@ -187,10 +188,10 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "生长旺盛的落叶槭树，高约 5 米。叶片质地较坚挺，开展，掌状五裂，长可达 7 厘米；春季初展时为黄绿色并带红晕，夏季转为鲜亮纯绿色，秋季则变为明丽的橙红色。"
+    "description": "生长旺盛的落叶槭树，高约 5 米。 叶片质地较坚挺，开展，掌状五裂，长可达 7 厘米；春季初展时为黄绿色并带红晕，夏季转为鲜亮纯绿色，秋季则变为明丽的橙红色。"
   },
   "descriptions_zh": {
-    "preferred": "该品种是 Palmatum Group 中另一类绿叶型品种。叶色为明亮悦目的浅绿色。生长季初期呈淡黄绿色并带红色调，叶脉有时也隐约带红，随后很快转为均匀的绿色。叶质较坚实，但不厚重。秋色为鲜艳的橙红色。叶片呈开张的掌状，具五枚向外放射的裂片，偶尔基部裂片会再生出一个小副裂片。叶长约 7 厘米，展开宽约 8 厘米。每一裂片为平滑的卵形，渐尖并延伸成细长尖端。裂片分离至距叶基约三分之二处。叶缘具极细的锯齿。叶柄挺硬，长 2-3 厘米。该品种长势较强，耐寒性好，株高可达 5 米。"
+    "preferred": "该品种是 Palmatum Group 中另一类绿叶型品种。 叶色为明亮悦目的浅绿色。 生长季初期呈淡黄绿色并带红色调，叶脉有时也隐约带红，随后很快转为均匀的绿色。 叶质较坚实，但不厚重。 秋色为鲜艳的橙红色。 叶片呈开张的掌状，具五枚向外放射的裂片，偶尔基部裂片会再生出一个小副裂片。 叶长约 7 厘米，展开宽约 8 厘米。 每一裂片为平滑的卵形，渐尖并延伸成细长尖端。 裂片分离至距叶基约三分之二处。 叶缘具极细的锯齿。 叶柄挺硬，长 2-3 厘米。 该品种长势较强，耐寒性好，株高可达 5 米。"
   },
   "has_mrmaple": true,
   "mrmaple": {

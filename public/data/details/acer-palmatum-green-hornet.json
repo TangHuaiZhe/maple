@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-green-hornet/01-acer-palmatum-green-hornet-825298.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-green-hornet/01-acer-palmatum-green-hornet-825298.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-green-hornet/01-acer-palmatum-green-hornet-825298.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/222270/acer-palmatum-green-hornet-(d)/details",
       "botanical_name": "Acer palmatum 'Green Hornet' (D)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Green Hornet' Green Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Green Hornet'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-hornet",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -55,7 +69,7 @@
     "Acer palmatum 'Green Hornet' (D)",
     "Green Hornet"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -111,7 +125,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "'Green Hornet' 具细致如蕾丝般的裂叶，其特别之处在于它是少数秋色可呈出色红色的绿色 dissectum 品种。春叶绿色并带橙色晕，夏季转为清新的绿色，秋季则变为亮丽鲜红。夏季绿色叶丛与整个生长季不断抽生的橙晕绿色新梢形成鲜明对比。该品种早期生长势很强，枝条细长、边缘舒展并具下垂感，最终形成宽阔的蘑菇状树冠，高可达约 10 英尺（3 米）。 文段后半部分存在明显 OCR 串页与混排噪声，内容应混入了多个绿色系日本枫品种的描述，包含 'Green Lace'、'Green Mist'、'Green Star' 及绿色型 'Trompenburg' 等名称。可辨识的要点如下："
+    "preferred": "'Green Hornet' 具细致如蕾丝般的裂叶，其特别之处在于它是少数秋色可呈出色红色的绿色 dissectum 品种。 春叶绿色并带橙色晕，夏季转为清新的绿色，秋季则变为亮丽鲜红。 夏季绿色叶丛与整个生长季不断抽生的橙晕绿色新梢形成鲜明对比。 该品种早期生长势很强，枝条细长、边缘舒展并具下垂感，最终形成宽阔的蘑菇状树冠，高可达约 10 英尺（3 米）。 文段后半部分存在明显 OCR 串页与混排噪声，内容应混入了多个绿色系日本枫品种的描述，包含 'Green Lace'、'Green Mist'、'Green Star' 及绿色型 'Trompenburg' 等名称。 可辨识的要点如下："
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-hornet",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-hornet/01-acer-palmatum-green-hornet-825298.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-hornet/01-acer-palmatum-green-hornet-825298.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Green Hornet' Green Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-hornet",
+        "botanical_name": "Acer palmatum 'Green Hornet'",
+        "common_name": "Green Hornet",
+        "description_text": "'Green Hornet' is unusually fast growing for a lace leaf maple and because of this it can benefit greatly from pruning or training when young to get it started in the right direction. Shoots on newly grafted plants may grow 2 feet or more the first year. As the plant ages its vigorous growth becomes an asset creating a graceful plant with long arching branches. Spring growth is lime green sometimes with orange margins when placed in more sun, however at least partial shade is preferred in hotter climates. Fall color is stunning and bright red which is quite rare for green dissectums which usually display yellow to orange fall color. 10 Year Size: Height: 4-6 Feet Width: 7-9 Feet Spring Color: Lime Green Summer Color: Green Fall Color: Red Sun Tolerance: Partial Planting: Elevated, Well Drained Soil",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Green Hornet",
+        "match_score": 371,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-green-hornet-825298.jpg?v=1658490840",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-hornet",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-hornet/01-acer-palmatum-green-hornet-825298.jpg",
+          "bytes": 60337,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:29.011Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-hornet/01-acer-palmatum-green-hornet-825298.jpg"
+      ]
+    }
+  }
 }

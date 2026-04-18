@@ -20,9 +20,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg",
+    "public_paths": [
+      "/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -41,6 +46,15 @@
       "rhs_id": 503419,
       "detail_url": "https://www.rhs.org.uk/plants/503419/acer-arctic-jade-(isiajpbr)-(jack-frost-series)/details",
       "botanical_name": "Acer Arctic Jade ('Isiaj'PBR) (Jack Frost Series)",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer x pseudosieboldianum 'Arctic Jade'",
+      "botanical_name": "Acer Pseudosieboldianum 'Arctic Jade'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-x-pseudosieboldianum-arctic-jade",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -67,7 +81,7 @@
     "北极杰德Acer Pseudosieboldianum 'Arctic Jade'",
     "紫花槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -140,7 +154,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感珊瑚斑枝枯病、黄萎病、槭树叶灼病和蜜环菌根腐病。"
     },
-    "description": "落叶杂交槭树（A. palmatum × A. pseudosieboldianum），高约 6 米，分枝结构优美。叶片很大，中绿色，深裂；春季新叶呈清新绿色，秋季转为浓橙色和红色。培育此品种是为了在严酷气候条件下替代耐寒性较差的日本枫。",
+    "description": "落叶杂交槭树（A. palmatum × A. pseudosieboldianum），高约 6 米，分枝结构优美。 叶片很大，中绿色，深裂；春季新叶呈清新绿色，秋季转为浓橙色和红色。 培育此品种是为了在严酷气候条件下替代耐寒性较差的日本枫。",
     "attributes": {
       "suggested_uses": "城市/庭院花园、滨海花园、乡村/自然式花园"
     },
@@ -150,5 +164,48 @@
       "propagation": "可于冬末采用嫁接繁殖，或于初夏进行软枝扦插繁殖。"
     }
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-x-pseudosieboldianum-arctic-jade",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer x pseudosieboldianum 'Arctic Jade'",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-x-pseudosieboldianum-arctic-jade",
+        "botanical_name": "Acer Pseudosieboldianum 'Arctic Jade'",
+        "common_name": "Arctic Jade",
+        "description_text": "",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Arctic Jade",
+        "match_score": 370,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-x-pseudosieboldianum-arctic-jade-403268.jpg?v=1744198769",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-x-pseudosieboldianum-arctic-jade",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg",
+          "bytes": 318144,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:19.515Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg"
+      ]
+    }
+  }
 }

@@ -19,10 +19,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-katsura-hime/01-Acer-palmatum-Katsura-hime-3.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-katsura-hime/01-Acer-palmatum-Katsura-hime-3.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-katsura-hime/01-Acer-palmatum-Katsura-hime-3.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -41,6 +46,15 @@
       "rhs_id": 517415,
       "detail_url": "https://www.rhs.org.uk/plants/517415/acer-palmatum-katsura-hime-(p)/details",
       "botanical_name": "Acer palmatum 'Katsura-hime' (P)",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Katsura hime’ Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Katsura Hime'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-katsura-hime-japanese-maple/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -64,7 +78,7 @@
     "鸡爪槭",
     "黄叶"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -81,7 +95,7 @@
     "cultivar_names": [
       "Katsura-hime"
     ],
-    "description": "A hardy, dwarf, deciduous tree to around 2.5m, smaller than 'Katsura'. Deeply lobed foliage emerges bright yellow-orange edged with red in the spring, turning to pale green in summer then yellow and orange in the autumn",
+    "description": "A hardy, dwarf, deciduous tree to around 2. 5m, smaller than 'Katsura'. Deeply lobed foliage emerges bright yellow-orange edged with red in the spring, turning to pale green in summer then yellow and orange in the autumn",
     "dimensions": {
       "height": "1.5-2.5 metres",
       "spread": "1.5-2.5 metres",
@@ -141,7 +155,49 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "耐寒的矮生落叶小乔木，高约 2.5 米，比 'Katsura' 更小。叶片深裂，春季萌发时呈鲜亮的黄橙色，边缘带红，夏季转为淡绿色，秋季则变为黄色和橙色。"
+    "description": "耐寒的矮生落叶小乔木，高约 2. 5 米，比 'Katsura' 更小。 叶片深裂，春季萌发时呈鲜亮的黄橙色，边缘带红，夏季转为淡绿色，秋季则变为黄色和橙色。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-katsura-hime-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-katsura-hime/01-Acer-palmatum-Katsura-hime-3.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-katsura-hime/01-Acer-palmatum-Katsura-hime-3.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Katsura hime’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-katsura-hime-japanese-maple/",
+        "botanical_name": "Acer Palmatum 'Katsura Hime'",
+        "common_name": "Katsura Hime",
+        "description_text": "A slightly slower-growing version of 'Katsura', having similarly-colored foliage and a slightly denser habit. Shop online now!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum katsura hime",
+        "match_score": 263
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2024/11/Acer-palmatum-Katsura-hime-3.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-katsura-hime-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-katsura-hime/01-Acer-palmatum-Katsura-hime-3.jpg",
+          "bytes": 819000,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:14.629Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-katsura-hime/01-Acer-palmatum-Katsura-hime-3.jpg"
+      ]
+    }
+  }
 }

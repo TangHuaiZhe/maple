@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "流泉来自于日本安京市著名的小林苗圃，是非常经典的爪叶枝垂枫，最初被命名为 \"Ryu sei\"，翻译过来就是\"龙魂\"。早春新叶是黄绿色的，夏季变成深绿色，秋天是漂亮的橙色到红色。枝条自然下垂形似瀑布，微风拂过，掌状的星星叶层层叠叠好似浪花波动，独特的意境常常被用于盆景造型和景观设计中。流泉长势抗性都非常好，非常适合枫友将其作为入门款枫树。 流 泉 属于 枝垂系列 ，此系列有以下品种点击查看 ‍"
+    "preferred": "流泉来自于日本安京市著名的小林苗圃，是非常经典的爪叶枝垂枫，最初被命名为 \"Ryu sei\"，翻译过来就是\"龙魂\"。 早春新叶是黄绿色的，夏季变成深绿色，秋天是漂亮的橙色到红色。 枝条自然下垂形似瀑布，微风拂过，掌状的星星叶层层叠叠好似浪花波动，独特的意境常常被用于盆景造型和景观设计中。 流泉长势抗性都非常好，非常适合枫友将其作为入门款枫树。 流 泉 属于 枝垂系列 ，此系列有以下品种点击查看 ‍"
   },
   "images": {
     "count": 13,
@@ -92,6 +92,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/06-image_904b09e2-6df1-45aa-8f5b-60d6a6c7c3b5.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-ryusen/01-phbe06757.jpg",
@@ -176,7 +177,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "爪叶枝垂",
       "title": "流泉 Acer Palmatum 'Ryusen'",
-      "description": "流泉来自于日本安京市著名的小林苗圃，是非常经典的爪叶枝垂枫，最初被命名为 \"Ryu sei\"，翻译过来就是\"龙魂\"。早春新叶是黄绿色的，夏季变成深绿色，秋天是漂亮的橙色到红色。枝条自然下垂形似瀑布，微风拂过，掌状的星星叶层层叠叠好似浪花波动，独特的意境常常被用于盆景造型和景观设计中。流泉长势抗性都非常好，非常适合枫友将其作为入门款枫树。 流 泉 属于 枝垂系列 ，此系列有以下品种点击查看 ‍",
+      "description": "流泉来自于日本安京市著名的小林苗圃，是非常经典的爪叶枝垂枫，最初被命名为 \"Ryu sei\"，翻译过来就是\"龙魂\"。 早春新叶是黄绿色的，夏季变成深绿色，秋天是漂亮的橙色到红色。 枝条自然下垂形似瀑布，微风拂过，掌状的星星叶层层叠叠好似浪花波动，独特的意境常常被用于盆景造型和景观设计中。 流泉长势抗性都非常好，非常适合枫友将其作为入门款枫树。 流 泉 属于 枝垂系列 ，此系列有以下品种点击查看 ‍",
       "image_count": 13
     },
     {
@@ -324,7 +325,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "流泉来自于日本安京市著名的小林苗圃，是非常经典的爪叶枝垂枫，最初被命名为 \"Ryu sei\"，翻译过来就是\"龙魂\"。早春新叶是黄绿色的，夏季变成深绿色，秋天是漂亮的橙色到红色。枝条自然下垂形似瀑布，微风拂过，掌状的星星叶层层叠叠好似浪花波动，独特的意境常常被用于盆景造型和景观设计中。流泉长势抗性都非常好，非常适合枫友将其作为入门款枫树。 流 泉 属于 枝垂系列 ，此系列有以下品种点击查看 ‍"
+    "preferred": "流泉来自于日本安京市著名的小林苗圃，是非常经典的爪叶枝垂枫，最初被命名为 \"Ryu sei\"，翻译过来就是\"龙魂\"。 早春新叶是黄绿色的，夏季变成深绿色，秋天是漂亮的橙色到红色。 枝条自然下垂形似瀑布，微风拂过，掌状的星星叶层层叠叠好似浪花波动，独特的意境常常被用于盆景造型和景观设计中。 流泉长势抗性都非常好，非常适合枫友将其作为入门款枫树。 流 泉 属于 枝垂系列 ，此系列有以下品种点击查看 ‍"
   },
   "rhs_zh": {
     "dimensions": {
@@ -345,7 +346,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "小型、缓慢生长的垂枝树形，最终可达高 2 米、宽 1 米，枝条向下垂挂。叶片 5 裂，鲜绿色，秋季转为红、黄、橙相间。春季开不显眼的绿色小花，秋季结红色翅果。"
+    "description": "小型、缓慢生长的垂枝树形，最终可达高 2 米、宽 1 米，枝条向下垂挂。 叶片 5 裂，鲜绿色，秋季转为红、黄、橙相间。 春季开不显眼的绿色小花，秋季结红色翅果。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -475,7 +476,7 @@
           "VDAYSALE26",
           "XMAS23"
         ],
-        "description_text": "Acer palmatum 'Ryusen' PP#18,501 Rare Weeping Japanese Maple Zones 5-9 Acer palmatum ‘Ryusen’ is an exciting new pendulous Japanese maple with palmate foliage and an amazing shape. A recent introduction from Kobayashi Nursery in Japan, this small, elegant tree adds a unique form with an exotic appeal to the landscape. This weeping Japanese maple was originally named 'Ryu sei', which translates as \"dragon spirit\". In early spring, ‘Ryusen’ displays bright shades of chartreuse green. The beautiful chartreuse green new growth accents older growth with smooth dark green foliage throughout the summer months. An amazing fall color change highlights this weeping maple form. The ‘Ryusen’ Japanese maple has autumn leaves that reach shades of bright reds to deep oranges. This amazing small form of weeping Japanese maple is extremely pendulous. This unique shape makes it extremely malleable to the creativity of the gardener. By growing ‘Ryusen’ will grow to its typical form and this tree reaches around 5-6 ft in 15 years. Staking a central leader can greatly change the form by adding height and unique branching. Your gardening creativity with ‘Ryusen’ can be as big (or small) as your imagination allows. We have even seen ‘Ryusen’ grown upside down from a hanging basket to add a new unique perspective to weeping Japanese maples. The weeping ‘Ryusen’ Japanese maple is very heat tolerant and durable. This elegant tree can handle full sun up to zone 8 and makes an excellent addition for zones 5-9. Yes, this vigorous tree does great with shade as well and brings amazing shape, color and texture. ‘Ryusen’ is great for: container patio planting, bonsai and small garden areas. As a staked tree, ‘Ryusen’ make a great focal point plants in the landscape. Add ‘Ryusen’ to a bank to provide a unique cascading beauty or near a water feature to accentuate its graceful pendulous form. This is a great choice for a durable and elegant tree that brings an exceptional unique form. The versatility of this Japanese maple truly gives the gardener a new way to explore creative options. If you are looking for a striking pendulous tree that brings big fall color, select the weeping ‘Ryusen’ Japanese maple for your garden today!",
+        "description_text": "Acer palmatum 'Ryusen' PP#18,501 Rare Weeping Japanese Maple Zones 5-9 Acer palmatum ‘Ryusen’ is an exciting new pendulous Japanese maple with palmate foliage and an amazing shape. A recent introduction from Kobayashi Nursery in Japan, this small, elegant tree adds a unique form with an exotic appeal to the landscape. This weeping Japanese maple was originally named 'Ryu sei', which translates as \"dragon spirit\". In early spring, ‘Ryusen’ displays bright shades of chartreuse green. The beautiful chartreuse green new growth accents older growth with smooth dark green foliage throughout the summer months. An amazing fall color change highlights this weeping maple form. The ‘Ryusen’ Japanese maple has autumn leaves that reach shades of bright reds to deep oranges. This amazing small form of weeping Japanese maple is extremely pendulous. This unique shape makes it extremely malleable to the creativity of the gardener. By growing ‘Ryusen’ will grow to its typical form and this tree reaches around 5-6 ft in 15 years. Staking a central leader can greatly change the form by adding height and unique branching. Your gardening creativity with ‘Ryusen’ can be as big (or small) as your imagination allows. We have even seen ‘Ryusen’ grown upside down from a hanging basket to add a new unique perspective to weeping Japanese maples. The weeping ‘Ryusen’ Japanese maple is very heat tolerant and durable. This elegant tree can handle full sun up to zone 8 and makes an excellent addition for zones 5-9. Yes, this vigorous tree does great with shade as well and brings amazing shape, color and texture. ‘Ryusen’ is great for: container patio planting, bonsai and small garden areas. Add ‘Ryusen’ to a bank to provide a unique cascading beauty or near a water feature to accentuate its graceful pendulous form. This is a great choice for a durable and elegant tree that brings an exceptional unique form. The versatility of this Japanese maple truly gives the gardener a new way to explore creative options.",
         "published_at": "2026-04-01T09:00:18-04:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

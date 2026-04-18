@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This plant is quite similar to 'Shinobuga oka', except that it is more pendulous in habit and rarely grows taller than 2.5 m. The branches tend to droop and give a round bush effect, in contrast to the other members of the Linearilobum Group which tend to be upright. The deep green leaves are mostly seven lobed. The lobes are very long and narrow like a blade of grass, and about 3-5 mm wide and up to 8 cm long. They turn yellow in the fall, sometimes to a deep gold. Japan as"
+    "preferred": "This plant is quite similar to 'Shinobuga oka', except that it is more pendulous in habit and rarely grows taller than 2. 5 m. The branches tend to droop and give a round bush effect, in contrast to the other members of the Linearilobum Group which tend to be upright. The deep green leaves are mostly seven lobed. The lobes are very long and narrow like a blade of grass, and about 3-5 mm wide and up to 8 cm long. They turn yellow in the fall, sometimes to a deep gold. Japan as"
   },
   "images": {
     "count": 0,
@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -149,7 +150,7 @@
     "growing_conditions": {
       "hardiness": "H6（耐寒，可耐受极寒冬季）"
     },
-    "description": "落叶性、直立型日本枫，株高约 3–4 米，枝条细密。叶片细长，通常为 5 裂，色泽明亮而偏深绿，有时为 3 裂或 7 裂，叶长可达 9 厘米；春夏季能较好保持叶色，秋季转黄。适合做盆景培养。",
+    "description": "落叶性、直立型日本枫，株高约 3–4 米，枝条细密。 叶片细长，通常为 5 裂，色泽明亮而偏深绿，有时为 3 裂或 7 裂，叶长可达 9 厘米；春夏季能较好保持叶色，秋季转黄。 适合做盆景培养。",
     "attributes": {
       "suggested_uses": "城市庭院花园、乡村风或自然式花园、花境与花坛、庭院容器栽培",
       "hort_group_description": "此 linearilobum 组的槭树具有细长、带状的裂片，叶缘具浅锯齿。"
@@ -165,7 +166,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该品种与 ‘Shinobuga oka’ 十分相似，但株形更为下垂，且高度很少超过 2.5 米。枝条倾向下垂，形成圆拱形灌丛效果；这与 Linearilobum Group 其他通常较直立的成员形成对比。叶片深绿色，多为七裂。裂片极长而狭，形如草叶，宽约 3–5 毫米，长可达 8 厘米。秋季转黄，有时呈深金黄色。在日本称作 ‘Ao meshime-no-uchi shidare’。"
+    "preferred": "该品种与 ‘Shinobuga oka’ 十分相似，但株形更为下垂，且高度很少超过 2. 5 米。 枝条倾向下垂，形成圆拱形灌丛效果；这与 Linearilobum Group 其他通常较直立的成员形成对比。 叶片深绿色，多为七裂。 裂片极长而狭，形如草叶，宽约 3–5 毫米，长可达 8 厘米。 秋季转黄，有时呈深金黄色。 在日本称作 ‘Ao meshime-no-uchi shidare’。"
   },
   "has_mrmaple": false
 }

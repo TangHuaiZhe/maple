@@ -19,10 +19,19 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-hubble/01-Acer-palmatum-Hubbles-Super-Cork.jpg",
+      "/coniferkingdom-images/acer-palmatum-hubble/02-Acer-palmatum-Hubbles-Super-Cork-1.jpg",
+      "/coniferkingdom-images/acer-palmatum-hubble/03-Acer-palmatum-Hubbles-Super-Cork-2.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-hubble/01-Acer-palmatum-Hubbles-Super-Cork.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-hubble/01-Acer-palmatum-Hubbles-Super-Cork.jpg",
+      "/coniferkingdom-images/acer-palmatum-hubble/02-Acer-palmatum-Hubbles-Super-Cork-1.jpg",
+      "/coniferkingdom-images/acer-palmatum-hubble/03-Acer-palmatum-Hubbles-Super-Cork-2.jpg"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -35,6 +44,15 @@
       "title": "哈伯的超级栓皮Acer palmatum'Hubble's Super Cork'",
       "description": "",
       "image_count": 2
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Hubble Super Cork’ Pinebark Japanese Maple",
+      "botanical_name": "Acer palmatum",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-hubble-super-cork-pinebark-japanese-maple/",
+      "image_count": 3,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -50,13 +68,83 @@
     "荒皮系列",
     "鸡爪槭"
   ],
-  "source_count": 1,
+  "source_count": 2,
   "has_web": true,
   "has_book": false,
   "has_rhs": false,
   "rhs": null,
   "has_mrmaple": false,
   "descriptions_zh": {
-    "preferred": "疑为 Hubble's Super Cork。以极明显、出现较早的栓皮树皮闻名，枝干粗糙开裂，冬季观赏性很强。树形多为直立型，适合作为强调枝干质感的标本树。"
+    "preferred": "疑为 Hubble's Super Cork。 以极明显、出现较早的栓皮树皮闻名，枝干粗糙开裂，冬季观赏性很强。 树形多为直立型，适合作为强调枝干质感的标本树。"
+  },
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-hubble-super-cork-pinebark-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 3,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hubble/01-Acer-palmatum-Hubbles-Super-Cork.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hubble/01-Acer-palmatum-Hubbles-Super-Cork.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hubble/02-Acer-palmatum-Hubbles-Super-Cork-1.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hubble/03-Acer-palmatum-Hubbles-Super-Cork-2.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Hubble Super Cork’ Pinebark Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-hubble-super-cork-pinebark-japanese-maple/",
+        "botanical_name": "Acer palmatum",
+        "common_name": "Hubble",
+        "description_text": "Experience the enchantment of Acer palmatum 'Hubble Super Cork' at Conifer Kingdom. Immerse yourself in the captivating beauty of this Japanese Maple variety.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "hubble",
+        "match_score": 246
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2022/11/Acer-palmatum-Hubbles-Super-Cork.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-hubble-super-cork-pinebark-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hubble/01-Acer-palmatum-Hubbles-Super-Cork.jpg",
+          "bytes": 709817,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:09.024Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2022/11/Acer-palmatum-Hubbles-Super-Cork-1.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-hubble-super-cork-pinebark-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hubble/02-Acer-palmatum-Hubbles-Super-Cork-1.jpg",
+          "bytes": 226793,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:09.681Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2022/11/Acer-palmatum-Hubbles-Super-Cork-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-hubble-super-cork-pinebark-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hubble/03-Acer-palmatum-Hubbles-Super-Cork-2.jpg",
+          "bytes": 342505,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:10.412Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 3,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hubble/01-Acer-palmatum-Hubbles-Super-Cork.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hubble/02-Acer-palmatum-Hubbles-Super-Cork-1.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hubble/03-Acer-palmatum-Hubbles-Super-Cork-2.jpg"
+      ]
+    }
   }
 }

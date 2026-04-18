@@ -27,6 +27,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-autumn-glory-japanese-maple/01-Acer_palmatum_Autumn_Glory_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043600.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-autumn-glory-japanese-maple/01-Acer_palmatum_Autumn_Glory_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043600.jpg"
@@ -142,10 +143,10 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "小型落叶开展性乔木，高约 3-4 米，于德文郡 Yelverton 的 The Garden House 因其秋色而被选出。夏季叶为掌状 7 裂，呈青铜绿色；秋季转为浅而明亮的火红色。"
+    "description": "小型落叶开展性乔木，高约 3-4 米，于德文郡 Yelverton 的 The Garden House 因其秋色而被选出。 夏季叶为掌状 7 裂，呈青铜绿色；秋季转为浅而明亮的火红色。"
   },
   "descriptions_zh": {
-    "preferred": "这一比利时品种以其优美的秋色表现而著称。‘Autumn Glory’ 的典型中型叶片深裂为 5 至 7 裂，叶缘具粗锯齿。春叶黄绿色，叶缘带粉红至红色晕染，随后在夏季转为中绿色，秋季再转为鲜艳的深绯红色。‘Autumn Glory’ 形成小型、宽幅、直立生长的乔木，高可达 20 英尺（6 米）。"
+    "preferred": "这一比利时品种以其优美的秋色表现而著称。 ‘Autumn Glory’ 的典型中型叶片深裂为 5 至 7 裂，叶缘具粗锯齿。 春叶黄绿色，叶缘带粉红至红色晕染，随后在夏季转为中绿色，秋季再转为鲜艳的深绯红色。 ‘Autumn Glory’ 形成小型、宽幅、直立生长的乔木，高可达 20 英尺（6 米）。"
   },
   "has_mrmaple": true,
   "mrmaple": {

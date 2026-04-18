@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-shirasawanum-albolimbatum/02-Web_Use-MAR0030015_11557.jpg",
     "public_paths": [
       "/rhs-images/acer-shirasawanum-albolimbatum/01-MAR0030014_11557.jpg",
@@ -201,7 +202,7 @@
     "growing_conditions": {
       "sunlight": "全日照，半阴"
     },
-    "description": "生长缓慢、直立的落叶小乔木，高约 8 米；老枝和树干为绿色，并具白色条纹。3 裂绿色叶在春夏季带有白色斑点及白色镶边，秋季转为红、橙、黄等色调。春季开簇生黄绿色花。",
+    "description": "生长缓慢、直立的落叶小乔木，高约 8 米；老枝和树干为绿色，并具白色条纹。 3 裂绿色叶在春夏季带有白色斑点及白色镶边，秋季转为红、橙、黄等色调。 春季开簇生黄绿色花。",
     "attributes": {
       "suggested_uses": "城市/庭院花园、建筑景观、滨海花园、乡村/自然式花园"
     },
@@ -216,7 +217,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "叶片大小和形状与原种基本一致，但其深绿色叶片上的白色斑锦多少变化很大。叶缘通常带有浅色晕边，有时仅为极细的一圈；另一些叶片上则可见散布的斑点与斑块，甚至扩展至整片叶面。有些叶片则完全不带斑锦。该树生长缓慢、直立，较原种更小，成熟约 33-39 英尺（10-12 米）。异名：'Hatsu yuki'。"
+    "preferred": "叶片大小和形状与原种基本一致，但其深绿色叶片上的白色斑锦多少变化很大。 叶缘通常带有浅色晕边，有时仅为极细的一圈；另一些叶片上则可见散布的斑点与斑块，甚至扩展至整片叶面。 有些叶片则完全不带斑锦。 该树生长缓慢、直立，较原种更小，成熟约 33-39 英尺（10-12 米）。 异名：'Hatsu yuki'。"
   },
   "has_mrmaple": false
 }

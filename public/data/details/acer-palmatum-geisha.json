@@ -15,7 +15,7 @@
     "variegated"
   ],
   "descriptions": {
-    "preferred": "In the spring, the deeply divided leaves are delicate shades of pink to light cream, sparsely flecked with dark green and medium green spots and small patches. The creamy areas turn a pale yellow-green and the main veins become green in the summer, but the Acer attractive pink tones persist. The medium-sized leaves are divided into five to seven narrowly ovate lobes with tail-like pointed tips and coarsely toothed margins. The leaves are intermediate in shape between palmate and straplike. The short, slender leafstalks are pink. 'Geisha' is a slowgrowing bushy tree, eventually reaching 8 ft. (2.5 m) tall. It is distinct, unusual, and somewhat delicate, needing protection and semishade. It makes a fine patio plant and is ideal for containers. The name means \"young dancing girl.\""
+    "preferred": "In the spring, the deeply divided leaves are delicate shades of pink to light cream, sparsely flecked with dark green and medium green spots and small patches. The creamy areas turn a pale yellow-green and the main veins become green in the summer, but the Acer attractive pink tones persist. The medium-sized leaves are divided into five to seven narrowly ovate lobes with tail-like pointed tips and coarsely toothed margins. The leaves are intermediate in shape between palmate and straplike. The short, slender leafstalks are pink. 'Geisha' is a slowgrowing bushy tree, eventually reaching 8 ft. (2. 5 m) tall. It is distinct, unusual, and somewhat delicate, needing protection and semishade. It makes a fine patio plant and is ideal for containers. The name means \"young dancing girl. \""
   },
   "images": {
     "count": 0,
@@ -24,9 +24,24 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-geisha/01-acer-palmatum-geisha-716580.jpg",
+      "/jmac-images/acer-palmatum-geisha/02-acer-palmatum-geisha-487368.jpg",
+      "/jmac-images/acer-palmatum-geisha/03-acer-palmatum-geisha-380036.jpg",
+      "/jmac-images/acer-palmatum-geisha/04-acer-palmatum-geisha-934043.jpg",
+      "/jmac-images/acer-palmatum-geisha/05-acer-palmatum-geisha-263279.jpg",
+      "/jmac-images/acer-palmatum-geisha/06-acer-palmatum-geisha-488079.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-geisha/05-acer-palmatum-geisha-263279.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-geisha/01-acer-palmatum-geisha-716580.jpg",
+      "/jmac-images/acer-palmatum-geisha/02-acer-palmatum-geisha-487368.jpg",
+      "/jmac-images/acer-palmatum-geisha/03-acer-palmatum-geisha-380036.jpg",
+      "/jmac-images/acer-palmatum-geisha/04-acer-palmatum-geisha-934043.jpg",
+      "/jmac-images/acer-palmatum-geisha/05-acer-palmatum-geisha-263279.jpg",
+      "/jmac-images/acer-palmatum-geisha/06-acer-palmatum-geisha-488079.jpg"
+    ],
+    "public_count": 6
   },
   "sources": [
     {
@@ -43,6 +58,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/209953/acer-palmatum-geisha-(dw)/details",
       "botanical_name": "Acer palmatum 'Geisha' (Dw)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Geisha' Variegated Japanese Maple",
+      "botanical_name": "Acer palmatum 'Geisha'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-geisha",
+      "image_count": 6,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -55,7 +79,7 @@
     "Acer palmatum 'Geisha' (Dw)",
     "Geisha"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -111,7 +135,120 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "春季时，其深裂叶呈细腻的粉色至浅乳白色，上面稀疏散布深绿色和中绿色小斑点及小斑块。到夏季，乳白色部分会转为淡黄绿色，主脉变绿，但迷人的粉色调仍可持续。中等大小的叶片分为 5 至 7 个狭卵形裂片，裂片先端呈尾状渐尖，叶缘具粗锯齿。叶形介于掌状叶与带状叶之间。短而细的叶柄为粉色。'Geisha' 生长缓慢，株形丛生，最终可达 8 英尺（2.5 米）高。其性状鲜明、少见，且略显娇嫩，需加以保护并置于半阴环境。很适合作为庭院观赏植物，也非常适合容器栽培。其名称意为“年轻的舞女”。 'Germaine's Gyration' 属于 Dissectum Group，为绿色系。该羽裂叶品种的生长势强于多数 Dissectum 类型，长而下垂的枝条呈扭转和波浪状，因此名称中有 “gyration” 之意。叶片较大、质感较粗，具 7 至 9 个裂片，深裂后又再分裂成次级裂片，但裂刻不如多数 Dissectum 品种那样深；次级裂片本身也具粗锯齿。夏季叶色为深绿色，秋季转为美丽的黄色、橙色和红色。植株形成瀑布状、蘑菇形的堆状树冠，宽度远大于高度。其名称是为纪念著名俄勒冈苗圃家族成员 Germaine Iseli。"
+    "preferred": "春季时，其深裂叶呈细腻的粉色至浅乳白色，上面稀疏散布深绿色和中绿色小斑点及小斑块。 到夏季，乳白色部分会转为淡黄绿色，主脉变绿，但迷人的粉色调仍可持续。 中等大小的叶片分为 5 至 7 个狭卵形裂片，裂片先端呈尾状渐尖，叶缘具粗锯齿。 叶形介于掌状叶与带状叶之间。 短而细的叶柄为粉色。 'Geisha' 生长缓慢，株形丛生，最终可达 8 英尺（2. 5 米）高。 其性状鲜明、少见，且略显娇嫩，需加以保护并置于半阴环境。 很适合作为庭院观赏植物，也非常适合容器栽培。 其名称意为“年轻的舞女”。 'Germaine's Gyration' 属于 Dissectum Group，为绿色系。 该羽裂叶品种的生长势强于多数 Dissectum 类型，长而下垂的枝条呈扭转和波浪状，因此名称中有 “gyration” 之意。 叶片较大、质感较粗，具 7 至 9 个裂片，深裂后又再分裂成次级裂片，但裂刻不如多数 Dissectum 品种那样深；次级裂片本身也具粗锯齿。 夏季叶色为深绿色，秋季转为美丽的黄色、橙色和红色。 植株形成瀑布状、蘑菇形的堆状树冠，宽度远大于高度。 其名称是为纪念著名俄勒冈苗圃家族成员 Germaine Iseli。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-geisha",
+    "matched_product_count": 1,
+    "local_file_count": 6,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/01-acer-palmatum-geisha-716580.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/01-acer-palmatum-geisha-716580.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/02-acer-palmatum-geisha-487368.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/03-acer-palmatum-geisha-380036.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/04-acer-palmatum-geisha-934043.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/05-acer-palmatum-geisha-263279.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/06-acer-palmatum-geisha-488079.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Geisha' Variegated Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-geisha",
+        "botanical_name": "Acer palmatum 'Geisha'",
+        "common_name": "Geisha",
+        "description_text": "A dwarf pink variegated maple with irregularly shaped leaves originally from New Zealand, 'Geisha' is perfect for maple fanatics and casual gardeners alike. In spring leaves emerge a stunning pink often with green spots and sometimes with odd misshapen partially purple leaves. In summer the leaves change to green with cream markings. Fall color is orange. 'Geisha' requires protection from hot afternoon sun. 10 year size: Height: 8-10Feet Width: 6-8 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Geisha",
+        "match_score": 366,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-geisha-716580.jpg?v=1658490634",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-geisha",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/01-acer-palmatum-geisha-716580.jpg",
+          "bytes": 51059,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:14.947Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-geisha-487368.jpg?v=1658490634",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-geisha",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/02-acer-palmatum-geisha-487368.jpg",
+          "bytes": 33456,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:15.441Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-geisha-380036.jpg?v=1658490634",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-geisha",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/03-acer-palmatum-geisha-380036.jpg",
+          "bytes": 64046,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:16.328Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 4,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-geisha-934043.jpg?v=1658490634",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-geisha",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/04-acer-palmatum-geisha-934043.jpg",
+          "bytes": 287206,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:17.877Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 5,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-geisha-263279.jpg?v=1658490634",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-geisha",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/05-acer-palmatum-geisha-263279.jpg",
+          "bytes": 318274,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:19.547Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 6,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-geisha-488079.jpg?v=1658490634",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-geisha",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/06-acer-palmatum-geisha-488079.jpg",
+          "bytes": 276836,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:20.762Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 6,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/01-acer-palmatum-geisha-716580.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/02-acer-palmatum-geisha-487368.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/03-acer-palmatum-geisha-380036.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/04-acer-palmatum-geisha-934043.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/05-acer-palmatum-geisha-263279.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-geisha/06-acer-palmatum-geisha-488079.jpg"
+      ]
+    }
+  }
 }

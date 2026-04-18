@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-uncle-ghost/01-acer-palmatum-uncle-ghost-268892.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-uncle-ghost/01-acer-palmatum-uncle-ghost-268892.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-uncle-ghost/01-acer-palmatum-uncle-ghost-268892.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/239408/acer-palmatum-uncle-ghost-(m)/details",
       "botanical_name": "Acer palmatum 'Uncle Ghost' (M)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Uncle Ghost' Reticulated Japanese Maple",
+      "botanical_name": "Acer palmatum 'Uncle Ghost'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-uncle-ghost",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -55,7 +69,7 @@
     "Acer palmatum 'Uncle Ghost' (M)",
     "Uncle Ghost"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -111,7 +125,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是 Oregon Ghost 系列品种之一，叶形和叶片大小与其著名亲本 'Beni shigitatsu sawa' 相似，但叶面为较浅的灰白绿色底，上覆绿色叶脉网络。它在春季和初夏尤为出色，此时嫩叶自外缘带有粉色晕染。据估计可形成开展的灌木状小乔木，高可达 10 英尺（3 米），需要在午后阳光下给予一定遮护。"
+    "preferred": "这是 Oregon Ghost 系列品种之一，叶形和叶片大小与其著名亲本 'Beni shigitatsu sawa' 相似，但叶面为较浅的灰白绿色底，上覆绿色叶脉网络。 它在春季和初夏尤为出色，此时嫩叶自外缘带有粉色晕染。 据估计可形成开展的灌木状小乔木，高可达 10 英尺（3 米），需要在午后阳光下给予一定遮护。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-uncle-ghost",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-uncle-ghost/01-acer-palmatum-uncle-ghost-268892.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-uncle-ghost/01-acer-palmatum-uncle-ghost-268892.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Uncle Ghost' Reticulated Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-uncle-ghost",
+        "botanical_name": "Acer palmatum 'Uncle Ghost'",
+        "common_name": "Uncle Ghost",
+        "description_text": "Acer palmatum ‘Uncle Ghost’ is a very rare and fantastic reticulated variety of Japanese maple. Displaying dark veins on top of pink foliage, ‘Uncle Ghost’ really stands out in the spring. As temperatures rise, the leaves of ‘Uncle Ghost’ turns from peachy to light green. The leaves then turn orange-red in the fall. Acer palmatum ‘Uncle Ghost’ is a shorter growing upright Japanese maple that will only reach about 6 feet tall at maturity. 10 Year Size: Height: 6-8 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Uncle Ghost",
+        "match_score": 370,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-uncle-ghost-268892.jpg?v=1658490838",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-uncle-ghost",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-uncle-ghost/01-acer-palmatum-uncle-ghost-268892.jpg",
+          "bytes": 290331,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:25:14.395Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-uncle-ghost/01-acer-palmatum-uncle-ghost-268892.jpg"
+      ]
+    }
+  }
 }

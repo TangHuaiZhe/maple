@@ -52,6 +52,7 @@ const UI_STRINGS = {
       ncsu: "NCSU",
       mrMaple: "Mr Maple",
       conifer: "Conifer Kingdom",
+      jmac: "Japanese Maples & Conifers",
     },
     lightbox: {
       dialogSuffix: "图片预览",
@@ -68,7 +69,7 @@ const UI_STRINGS = {
       categoryLabel: "一级分类",
       allCategories: "全部",
       result: (count) => `结果：${count} 条`,
-      note: "首页卡片封面优先使用 RHS、Mr Maple、Herter、NCSU 和 Conifer Kingdom 图片。",
+      note: "首页卡片封面优先使用 RHS、Mr Maple、Herter、NCSU、Conifer Kingdom 和 Japanese Maples & Conifers 图片。",
       totalLabel: "品种总数",
       currentLabel: "当前结果",
       editorialLabel: "RHS / Mr Maple / Herter / NCSU 封面",
@@ -124,7 +125,7 @@ const UI_STRINGS = {
       unmatched: "未匹配",
       sources: "来源",
       gallery: "图片画廊",
-      galleryNote: "详情页保留全部已同步图片，包含 RHS、Mr Maple、Herter、NCSU 和 Conifer Kingdom 素材。",
+      galleryNote: "详情页保留全部已同步图片，包含 RHS、Mr Maple、Herter、NCSU、Conifer Kingdom 和 Japanese Maples & Conifers 素材。",
       noImages: "当前条目没有可用图片。",
       imageProgress: (shown, total) => `已显示 ${shown} / ${total} 张图片`,
       descriptionSummary: "简介",
@@ -161,6 +162,7 @@ const UI_STRINGS = {
       ncsu: "NCSU",
       mrMaple: "Mr Maple",
       conifer: "Conifer Kingdom",
+      jmac: "Japanese Maples & Conifers",
     },
     lightbox: {
       dialogSuffix: "Image Preview",
@@ -177,7 +179,7 @@ const UI_STRINGS = {
       categoryLabel: "Top Category",
       allCategories: "All",
       result: (count) => `Results: ${count}`,
-      note: "Catalog cards prefer RHS, Mr Maple, Herter, NCSU, and Conifer Kingdom imagery.",
+      note: "Catalog cards prefer RHS, Mr Maple, Herter, NCSU, Conifer Kingdom, and Japanese Maples & Conifers imagery.",
       totalLabel: "Total Cultivars",
       currentLabel: "Current Results",
       editorialLabel: "RHS / Mr Maple / Herter / NCSU Covers",
@@ -233,7 +235,7 @@ const UI_STRINGS = {
       unmatched: "Not Matched",
       sources: "Sources",
       gallery: "Image Gallery",
-      galleryNote: "The detail page keeps all synced imagery from RHS, Mr Maple, Herter, NCSU, and Conifer Kingdom.",
+      galleryNote: "The detail page keeps all synced imagery from RHS, Mr Maple, Herter, NCSU, Conifer Kingdom, and Japanese Maples & Conifers.",
       noImages: "No images are available for this entry.",
       imageProgress: (shown, total) => `Showing ${shown} / ${total} images`,
       descriptionSummary: "Overview",
@@ -386,6 +388,7 @@ function resolveRecordAssetPaths(record) {
     "public_herter_paths",
     "public_ncsu_paths",
     "public_conifer_paths",
+    "public_jmac_paths",
   ];
 
   const nextImages = record.images
@@ -591,6 +594,7 @@ function getEditorialCover(item) {
     ...(item.images?.public_herter_paths || []),
     ...(item.images?.public_ncsu_paths || []),
     ...(item.images?.public_conifer_paths || []),
+    ...(item.images?.public_jmac_paths || []),
   ])[0] || null;
 }
 
@@ -605,6 +609,7 @@ function hasSupplementalImages(item) {
     ...(item?.images?.public_herter_paths || []),
     ...(item?.images?.public_ncsu_paths || []),
     ...(item?.images?.public_conifer_paths || []),
+    ...(item?.images?.public_jmac_paths || []),
   ].length > 0;
 }
 
@@ -615,6 +620,7 @@ function getVisibleImagePaths(item) {
     ...(item?.images?.public_herter_paths || []),
     ...(item?.images?.public_ncsu_paths || []),
     ...(item?.images?.public_conifer_paths || []),
+    ...(item?.images?.public_jmac_paths || []),
   ]);
 }
 
@@ -655,6 +661,7 @@ function getCoverSourceKey(item, cover) {
     if (normalizedSource.includes("herter")) return "herter";
     if (normalizedSource.includes("ncsu")) return "ncsu";
     if (normalizedSource.includes("mr")) return "mrMaple";
+    if (normalizedSource.includes("japanese maples & conifers")) return "jmac";
     return "none";
   }
   if ((item.images?.public_rhs_paths || []).includes(cover)) return "rhs";
@@ -662,6 +669,7 @@ function getCoverSourceKey(item, cover) {
   if ((item.images?.public_ncsu_paths || []).includes(cover)) return "ncsu";
   if ((item.images?.public_mrmaple_paths || []).includes(cover)) return "mrMaple";
   if ((item.images?.public_conifer_paths || []).includes(cover)) return "conifer";
+  if ((item.images?.public_jmac_paths || []).includes(cover)) return "jmac";
   return "none";
 }
 
@@ -1647,35 +1655,6 @@ function DetailPage({ locale, strings, favoriteIds, onToggleFavorite }) {
   const sizeSummary = getSizeSummary(rhs, rhsEnglish, locale);
   const detailTraits = getDetailTraits(item, locale, rhsLabels);
   const chineseAliases = getChineseAliases(item);
-  const rhsDimensionItems = rhs
-    ? [
-        [rhsLabels.chineseName, item.chinese_name || "—"],
-        [rhsLabels.botanicalName, rhsEnglish?.botanical_name],
-        [rhsLabels.height, getLocalizedRhsValue(locale, rhs.dimensions?.height, rhsEnglish?.dimensions?.height, { measurement: true })],
-        [rhsLabels.spread, getLocalizedRhsValue(locale, rhs.dimensions?.spread, rhsEnglish?.dimensions?.spread, { measurement: true })],
-        [rhsLabels.timeToFullHeight, getLocalizedRhsValue(locale, rhs.dimensions?.time_to_full_height, rhsEnglish?.dimensions?.time_to_full_height, { measurement: true })],
-        [rhsLabels.hardiness, getLocalizedRhsValue(locale, rhs.growing_conditions?.hardiness, rhsEnglish?.growing_conditions?.hardiness)],
-        [rhsLabels.sunlight, getLocalizedRhsValue(locale, rhs.growing_conditions?.sunlight, rhsEnglish?.growing_conditions?.sunlight)],
-        [rhsLabels.soilType, getLocalizedRhsValue(locale, rhs.growing_conditions?.soil_type, rhsEnglish?.growing_conditions?.soil_type)],
-        [rhsLabels.aspect, getLocalizedRhsValue(locale, rhs.growing_conditions?.aspect, rhsEnglish?.growing_conditions?.aspect)],
-        [rhsLabels.moisture, getLocalizedRhsValue(locale, rhs.growing_conditions?.moisture, rhsEnglish?.growing_conditions?.moisture)],
-        [rhsLabels.ph, getLocalizedRhsValue(locale, rhs.growing_conditions?.ph, rhsEnglish?.growing_conditions?.ph)],
-        [rhsLabels.exposure, getLocalizedRhsValue(locale, rhs.growing_conditions?.exposure, rhsEnglish?.growing_conditions?.exposure)],
-      ]
-    : [];
-  const rhsCareItems = rhs
-    ? [
-        [rhsLabels.cultivation, getLocalizedRhsValue(locale, rhs.care?.cultivation, rhsEnglish?.care?.cultivation)],
-        [rhsLabels.pruning, getLocalizedRhsValue(locale, rhs.care?.pruning, rhsEnglish?.care?.pruning)],
-        [rhsLabels.propagation, getLocalizedRhsValue(locale, rhs.care?.propagation, rhsEnglish?.care?.propagation)],
-        [rhsLabels.pest, getLocalizedRhsValue(locale, rhs.resistance?.pest, rhsEnglish?.resistance?.pest)],
-        [rhsLabels.disease, getLocalizedRhsValue(locale, rhs.resistance?.disease, rhsEnglish?.resistance?.disease)],
-        [rhsLabels.suggestedUses, getLocalizedRhsValue(locale, rhs.attributes?.suggested_uses, rhsEnglish?.attributes?.suggested_uses)],
-        [rhsLabels.habit, getLocalizedRhsValue(locale, rhs.attributes?.habit, rhsEnglish?.attributes?.habit)],
-        [rhsLabels.plantType, getLocalizedRhsValue(locale, rhs.attributes?.plant_type, rhsEnglish?.attributes?.plant_type)],
-        [rhsLabels.foliage, getLocalizedRhsValue(locale, rhs.attributes?.foliage, rhsEnglish?.attributes?.foliage)],
-      ]
-    : [];
 
   function openPreview(imagePath) {
     const index = previewImages.indexOf(imagePath);
@@ -1815,29 +1794,8 @@ function DetailPage({ locale, strings, favoriteIds, onToggleFavorite }) {
                 [strings.detail.webGroup, item.web_group || "—"],
                 [strings.detail.size, sizeSummary || "—"],
                 [strings.detail.imageCount, galleryImages.length],
-                [strings.detail.sourceCount, item.source_count],
-                [strings.detail.rhsMatched, item.has_rhs ? strings.detail.matched : strings.detail.unmatched],
               ]}
             />
-          </article>
-
-          <article className="detail-card">
-            <h2>{strings.detail.sources}</h2>
-            <div className="source-stack">
-              {(item.sources || []).map((source) => (
-                <div
-                  key={`${source.source}-${source.name || source.detail_id || source.rhs_id || source.botanical_name}`}
-                  className="source-item"
-                >
-                  <strong>{source.source}</strong>
-                  {source.name ? <p>{source.name}</p> : null}
-                  {source.botanical_name ? <p>{source.botanical_name}</p> : null}
-                  {source.page_range ? <p>{locale === "en" ? `Pages: ${source.page_range}` : `页码：${source.page_range}`}</p> : null}
-                  {source.group ? <p>{locale === "en" ? `Group: ${source.group}` : `分组：${source.group}`}</p> : null}
-                  {source.detail_url ? <a href={source.detail_url} target="_blank" rel="noreferrer">{locale === "en" ? "Open Detail Page" : "打开详情页"}</a> : null}
-                </div>
-              ))}
-            </div>
           </article>
         </section>
 
@@ -1904,30 +1862,6 @@ function DetailPage({ locale, strings, favoriteIds, onToggleFavorite }) {
                 </label>
               </>
             ) : null}
-          </section>
-        ) : null}
-
-        {rhs ? (
-          <section className="detail-grid">
-            <article className="detail-card">
-              <h2>{rhsLabels.dimensionsHeading}</h2>
-              <DefinitionList items={rhsDimensionItems} />
-            </article>
-
-            <article className="detail-card">
-              <h2>{rhsLabels.careHeading}</h2>
-              <div className="rhs-stack">
-                {rhsCareItems.filter(([, value]) => value).map(([label, value]) => (
-                  <div key={label} className="rhs-item">
-                    <strong>{label}</strong>
-                    <p>{value}</p>
-                  </div>
-                ))}
-              </div>
-              <p className="detail-note">
-                {rhsLabels.note}
-              </p>
-            </article>
           </section>
         ) : null}
 

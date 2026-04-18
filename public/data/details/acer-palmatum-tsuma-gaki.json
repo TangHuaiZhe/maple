@@ -24,10 +24,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-tsuma-gaki/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-tsuma-gaki/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-tsuma-gaki/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -38,7 +43,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "爪斑",
       "title": "爪柿 Acer Palmatum 'Tsuma Gaki'",
-      "description": "经典的日系爪斑品种，春天新叶为明黄色，叶尖和边 缘为红色，红色叶尖会一直保持到夏天，黄色的基调 会逐渐转变为绿色，秋季转变为红色，以七叶裂为主， 生长速度略慢，耐修剪，是非常好的盆景品种，午后 需要适当遮阴，成年株可达 2.5 米左右。",
+      "description": "经典的日系爪斑品种，春天新叶为明黄色，叶尖和边 缘为红色，红色叶尖会一直保持到夏天，黄色的基调 会逐渐转变为绿色，秋季转变为红色，以七叶裂为主， 生长速度略慢，耐修剪，是非常好的盆景品种，午后 需要适当遮阴，成年株可达 2. 5 米左右。",
       "image_count": 4
     },
     {
@@ -62,6 +67,15 @@
       "rhs_id": 73425,
       "detail_url": "https://www.rhs.org.uk/plants/73425/acer-palmatum-tsuma-gaki-(a)/details",
       "botanical_name": "Acer palmatum 'Tsuma-gaki' (A)",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Tsuma gaki’ Specimen 1127",
+      "botanical_name": "Acer Palmatum 'Tsuma Gaki'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-tsuma-gaki-specimen-1127/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -91,7 +105,7 @@
     "爪柿 Acer Palmatum 'Tsuma Gaki'",
     "鸡爪槭"
   ],
-  "source_count": 4,
+  "source_count": 5,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -152,7 +166,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该品种与 'Tsuma beni' 极为相似，常与之混淆。其春季叶色阶段十分接近。叶片展开时常自叶柄处略微下垂，使整株外观显得更柔和。此时叶色为非常柔和的黄绿色。裂片尖端带有一种难以准确描述的综合色调。颜色范围从 Corvallis 处原文残缺可推测，应描述其尖端着色变化。叶片自叶基向上约一半处分裂。叶缘均匀且轻微具锯齿。该枫树不是高大型品种，而是形成圆整株形，高和冠幅均可达 3 米。由于名称、叶形和株形相近，'Tsuma gaki' 与 'Tsuma beni' 容易混淆，但它们是两个不同的品种。'Tsuma gaki' 也曾被误拼为 'Tsuma gari'。"
+    "preferred": "该品种与 'Tsuma beni' 极为相似，常与之混淆。 其春季叶色阶段十分接近。 叶片展开时常自叶柄处略微下垂，使整株外观显得更柔和。 此时叶色为非常柔和的黄绿色。 裂片尖端带有一种难以准确描述的综合色调。 颜色范围从 Corvallis 处原文残缺可推测，应描述其尖端着色变化。 叶片自叶基向上约一半处分裂。 叶缘均匀且轻微具锯齿。 该枫树不是高大型品种，而是形成圆整株形，高和冠幅均可达 3 米。 由于名称、叶形和株形相近，'Tsuma gaki' 与 'Tsuma beni' 容易混淆，但它们是两个不同的品种。 'Tsuma gaki' 也曾被误拼为 'Tsuma gari'。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -166,7 +180,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "生长缓慢，株形紧凑圆整，可形成灌木或小乔木。掌状叶具 5-7 个椭圆形裂片，春季展叶时为黄绿色，裂片尖端带红紫色，夏季转为较深的绿色，秋季变红。",
+    "description": "生长缓慢，株形紧凑圆整，可形成灌木或小乔木。 掌状叶具 5-7 个椭圆形裂片，春季展叶时为黄绿色，裂片尖端带红紫色，夏季转为较深的绿色，秋季变红。",
     "attributes": {
       "suggested_uses": "城市/庭院花园、乡村/自然式花园、花境与花坛、低维护、露台/容器植物、结构型植物",
       "hort_group_description": "此 amoenum 类群中的 Acer 品种具有大型掌状叶，叶缘具细锯齿。"
@@ -177,5 +191,47 @@
       "propagation": "可采用嫁接、嫩枝扦插或压条繁殖"
     }
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-tsuma-gaki-specimen-1127/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tsuma-gaki/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tsuma-gaki/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Tsuma gaki’ Specimen 1127",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-tsuma-gaki-specimen-1127/",
+        "botanical_name": "Acer Palmatum 'Tsuma Gaki'",
+        "common_name": "Tsuma gaki",
+        "description_text": "Yellow-green leaves emerge cupped with burgundy-orange tips. It looks as if the entire tree is unfolding soft flowers (the leaves) - others have described it as flocking birds.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum tsuma gaki",
+        "match_score": 261
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/02/Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-tsuma-gaki-specimen-1127/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tsuma-gaki/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg",
+          "bytes": 542057,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:27:02.771Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tsuma-gaki/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg"
+      ]
+    }
+  }
 }

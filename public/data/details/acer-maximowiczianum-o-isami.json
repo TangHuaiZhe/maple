@@ -20,9 +20,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-maximowiczianum-o-isami/01-acer-japonicum-o-isami-620483.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-maximowiczianum-o-isami/01-acer-japonicum-o-isami-620483.jpg",
+    "public_paths": [
+      "/jmac-images/acer-maximowiczianum-o-isami/01-acer-japonicum-o-isami-620483.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -38,6 +43,15 @@
       "rhs_id": 97645,
       "detail_url": "https://www.rhs.org.uk/plants/97645/acer-japonicum-o-isami/details",
       "botanical_name": "Acer japonicum 'Ō-isami'",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer japonicum 'O isami' Full Moon Japanese Maple",
+      "botanical_name": "Acer maximowiczianum 'O isami'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-japonicum-o-isami",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -59,7 +73,7 @@
     "downy Japanese maple 'Ō-isami'",
     "Ō-isami"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -136,13 +150,56 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
     },
-    "description": "圆头状落叶乔木，高约 7-8 米，枝条粗壮厚实。叶片具 9-11 裂，展开宽可达 20 厘米，裂片先端渐尖且深裂。幼叶为淡黄绿色，成熟后转为浓绿色并可持续至秋季，随后呈现火焰般的红色、黄色与猩红色。春季开不显眼的红紫色花，之后可能结带翅的红色果实。",
+    "description": "圆头状落叶乔木，高约 7-8 米，枝条粗壮厚实。 叶片具 9-11 裂，展开宽可达 20 厘米，裂片先端渐尖且深裂。 幼叶为淡黄绿色，成熟后转为浓绿色并可持续至秋季，随后呈现火焰般的红色、黄色与猩红色。 春季开不显眼的红紫色花，之后可能结带翅的红色果实。",
     "attributes": {
       "suggested_uses": "适合乡村庭园/自然式庭园、野生动物友好型花园"
     }
   },
   "descriptions_zh": {
-    "preferred": "大型圆形叶的裂片约分裂至叶基的一半。裂片渐尖的末端具深缺刻。新叶浅黄绿色，随后转为浓绿色，并能一直保持到秋季而不易发生日灼。秋色为红色与黄色的混合色。该品种生长强健，形成圆头状中型乔木，高可达 7 至 8 米或更高。"
+    "preferred": "大型圆形叶的裂片约分裂至叶基的一半。 裂片渐尖的末端具深缺刻。 新叶浅黄绿色，随后转为浓绿色，并能一直保持到秋季而不易发生日灼。 秋色为红色与黄色的混合色。 该品种生长强健，形成圆头状中型乔木，高可达 7 至 8 米或更高。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-japonicum-o-isami",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-maximowiczianum-o-isami/01-acer-japonicum-o-isami-620483.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-maximowiczianum-o-isami/01-acer-japonicum-o-isami-620483.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer japonicum 'O isami' Full Moon Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-japonicum-o-isami",
+        "botanical_name": "Acer maximowiczianum 'O isami'",
+        "common_name": "O isami",
+        "description_text": "Foliage on this japonicum emerges light green in spring becoming darker in summer. This vigorous grower forms a nice round topped tree. Older specimens can reach 25 to 30 feet. Fall color is a wonderful blend of red, yellow and orange. 10 Year Size: Height: 12-14 Feet Width: 8-10 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "O isami",
+        "match_score": 366,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-japonicum-o-isami-620483.jpg?v=1658490555",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-japonicum-o-isami",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-maximowiczianum-o-isami/01-acer-japonicum-o-isami-620483.jpg",
+          "bytes": 323785,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:24:33.084Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-maximowiczianum-o-isami/01-acer-japonicum-o-isami-620483.jpg"
+      ]
+    }
+  }
 }

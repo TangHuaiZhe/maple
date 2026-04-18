@@ -16,7 +16,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "The spring foliage is light 'Sho¯ red, changing to a distinctive bright red for sum- Palmatum mer, and turning scarlet in the fall. The mediumone sized leaves have seven widely radiating lobes dispring vided almost to the base. Each lobe is long-ovate gray-green tapering to a long sharp tip. The margins are variegation finely toothed. The short leafstalks and shoots creating are red tinged with brown. 'Sho¯jo¯ nomura' forms irregularly an upright rounded tree up to 16 ft. (5 m) tall. five The name means \"beautiful red-faced monkey.\" sharply coarse-toothed."
+    "preferred": "The spring foliage is light 'Sho¯ red, changing to a distinctive bright red for sum- Palmatum mer, and turning scarlet in the fall. The mediumone sized leaves have seven widely radiating lobes dispring vided almost to the base. Each lobe is long-ovate gray-green tapering to a long sharp tip. The margins are variegation finely toothed. The short leafstalks and shoots creating are red tinged with brown. 'Sho¯jo¯ nomura' forms irregularly an upright rounded tree up to 16 ft. (5 m) tall. five The name means \"beautiful red-faced monkey. \" sharply coarse-toothed."
   },
   "images": {
     "count": 0,
@@ -24,10 +24,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-sho-jo-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-sho-jo-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-sho-jo-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -52,6 +57,15 @@
       "group": "Amoenum",
       "color_group": "red",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Shojo nomura’ Japanese Maple",
+      "botanical_name": "Acer palmatum 'Sho\\jo\\ nomura'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-shojo-nomura-japanese-maple/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -71,7 +85,7 @@
     "Acer palmatum 'Sho¯ jo¯ nomura'",
     "Sho¯ jo¯ nomura"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -143,11 +157,53 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "一种落叶、直立型日本枫，高约 3 米。叶片强烈放射状展开，7 裂，每裂片渐尖至锐尖。春季新叶呈浅古铜红至紫红色，夏季转为带鲜橙红晕的绿色，秋季则变为鲜猩红色；其名称意为“美丽的红脸猴”."
+    "description": "一种落叶、直立型日本枫，高约 3 米。 叶片强烈放射状展开，7 裂，每裂片渐尖至锐尖。 春季新叶呈浅古铜红至紫红色，夏季转为带鲜橙红晕的绿色，秋季则变为鲜猩红色；其名称意为“美丽的红脸猴”."
   },
   "descriptions_zh": {
-    "preferred": "春季新叶呈浅‘Sho¯ red’，夏季转为鲜明的亮红色，秋季变为猩红色。中等大小的叶片有 7 个向外放射、几乎裂至叶基的裂片。每个裂片均为长卵形，渐尖成细长锐尖，边缘具细锯齿。短叶柄与新梢带红色并略染褐色。‘Sho¯jo¯ nomura’ 形成不规则的直立圆头小乔木，高可达 16 英尺（5 米）。其名意为“美丽的红脸猴”。 ‘Sho¯ jo¯ shidare’ 属于 Beni Dissectum Group，红叶型。春叶为栗紫红色，叶脉带深绿色晕染；夏季叶色加深为深栗红色，与短叶柄和新梢的颜色相呼应。叶片深裂为 7 至 9 个裂片，边缘不规则具齿。该品种耐寒性略弱，形成高大的垂枝型树形，高可达 10 英尺（3 米）。其名意为“红脸猴”。 ‘jo¯-no-mai’ 属于 variegated Group。‘Sho¯jo¯-no-mai’ 是斑叶 palmatum 中较优秀的品种之一，叶色鲜明。叶片底色为中等至浅绿色，配以迷人的深粉色叶缘；这种斑锦常使裂片尖端向外反卷，呈现悦目的迎风姿态。小型叶片形态优美，深裂成长卵形裂片，裂片尖端常弯曲且具尖头，边缘有明显粗齿。该品种在生长势、树形和叶片方面与 ‘shichihenge’ 很相似，但不同之处在于其春季叶片具有纯粉色斑锦。其名意为“起舞的红脸猴”。"
+    "preferred": "春季新叶呈浅‘Sho¯ red’，夏季转为鲜明的亮红色，秋季变为猩红色。 中等大小的叶片有 7 个向外放射、几乎裂至叶基的裂片。 每个裂片均为长卵形，渐尖成细长锐尖，边缘具细锯齿。 短叶柄与新梢带红色并略染褐色。 ‘Sho¯jo¯ nomura’ 形成不规则的直立圆头小乔木，高可达 16 英尺（5 米）。 其名意为“美丽的红脸猴”。 ‘Sho¯ jo¯ shidare’ 属于 Beni Dissectum Group，红叶型。 春叶为栗紫红色，叶脉带深绿色晕染；夏季叶色加深为深栗红色，与短叶柄和新梢的颜色相呼应。 叶片深裂为 7 至 9 个裂片，边缘不规则具齿。 该品种耐寒性略弱，形成高大的垂枝型树形，高可达 10 英尺（3 米）。 其名意为“红脸猴”。 ‘jo¯-no-mai’ 属于 variegated Group。 ‘Sho¯jo¯-no-mai’ 是斑叶 palmatum 中较优秀的品种之一，叶色鲜明。 叶片底色为中等至浅绿色，配以迷人的深粉色叶缘；这种斑锦常使裂片尖端向外反卷，呈现悦目的迎风姿态。 小型叶片形态优美，深裂成长卵形裂片，裂片尖端常弯曲且具尖头，边缘有明显粗齿。 该品种在生长势、树形和叶片方面与 ‘shichihenge’ 很相似，但不同之处在于其春季叶片具有纯粉色斑锦。 其名意为“起舞的红脸猴”。"
   },
   "has_mrmaple": false,
-  "mrmaple": null
+  "mrmaple": null,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-shojo-nomura-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sho-jo-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sho-jo-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Shojo nomura’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-shojo-nomura-japanese-maple/",
+        "botanical_name": "Acer palmatum 'Sho\\jo\\ nomura'",
+        "common_name": "Sho\\jo\\ nomura",
+        "description_text": "Discover the stunning beauty of Acer Palmatum 'Shojo Nomura' Japanese Maple. Explore our wide selection of exquisite plants and enhance your garden today!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum sho jo nomura",
+        "match_score": 263
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2023/06/Acer_palmatum_Shojo_nomura-2__85083.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-shojo-nomura-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sho-jo-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg",
+          "bytes": 122211,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:52.319Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-sho-jo-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg"
+      ]
+    }
+  }
 }

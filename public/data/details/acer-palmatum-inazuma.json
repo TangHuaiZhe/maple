@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "The large leaves are of a rich, deep purple-red with green veins in the spring and early summer. As they mature, they become a dark purple with green tinges, eventually turning a stunning bright red-crimson in the fall. The deeply divided leaves have seven long, ovate-lanceolate, widely separated lobes with clearly toothed margins. This hardy cultivar is vigorous and forms a tall, rounded shrub or tree with cascading foliage, up to 33 ft. (10 m) high and 16-20 ft. (5-6 m) wide. The name means \"thunderer.\""
+    "preferred": "The large leaves are of a rich, deep purple-red with green veins in the spring and early summer. As they mature, they become a dark purple with green tinges, eventually turning a stunning bright red-crimson in the fall. The deeply divided leaves have seven long, ovate-lanceolate, widely separated lobes with clearly toothed margins. This hardy cultivar is vigorous and forms a tall, rounded shrub or tree with cascading foliage, up to 33 ft. (10 m) high and 16-20 ft. (5-6 m) wide. The name means \"thunderer. \""
   },
   "images": {
     "count": 0,
@@ -27,6 +27,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-inazuma/02-visi69064.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-inazuma/01-visi69065.jpg",
@@ -181,10 +182,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶乔木，高可达约 10 米。叶为掌状，深裂成长而渐尖的裂片。春季新叶鲜亮的红紫色，随后转为深紫并带橄榄绿色调，秋季变为深绯红色。具翅果在秋季也带红色。"
+    "description": "落叶乔木，高可达约 10 米。 叶为掌状，深裂成长而渐尖的裂片。 春季新叶鲜亮的红紫色，随后转为深紫并带橄榄绿色调，秋季变为深绯红色。 具翅果在秋季也带红色。"
   },
   "descriptions_zh": {
-    "preferred": "春季至初夏时，大型叶片呈浓郁的深紫红色，叶脉为绿色；随着叶片成熟，逐渐变为深紫色并带绿色调，最终在秋季转为惊艳的鲜亮深红色。叶片深裂，具 7 个狭长的卵状披针形裂片，裂片彼此分离较开，边缘有明显锯齿。该耐寒品种生长势强，形成高大、圆整的灌木或小乔木，枝叶有下垂感，高可达 33 英尺（10 米），冠幅 16 至 20 英尺（5 至 6 米）。其名称意为“雷鸣者”。"
+    "preferred": "春季至初夏时，大型叶片呈浓郁的深紫红色，叶脉为绿色；随着叶片成熟，逐渐变为深紫色并带绿色调，最终在秋季转为惊艳的鲜亮深红色。 叶片深裂，具 7 个狭长的卵状披针形裂片，裂片彼此分离较开，边缘有明显锯齿。 该耐寒品种生长势强，形成高大、圆整的灌木或小乔木，枝叶有下垂感，高可达 33 英尺（10 米），冠幅 16 至 20 英尺（5 至 6 米）。 其名称意为“雷鸣者”。"
   },
   "has_mrmaple": false
 }

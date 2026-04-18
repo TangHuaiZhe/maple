@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "草莓精灵， 按照音译名字为 ： 奥尔森的冰冻草莓，因其叶色为草莓色并有银白色的霜冻底色而得名， 所以也称为：糖霜草莓。由 美国的哈里 · 奥尔森选育命名并推广， 是 赤鸭立泽的种子培育而来 。 春叶为红色 或 粉色的草莓色调 ， 并 带 有紫红色的脉纹， 多晒会带有白色，出现白色需要遮阴，以免灼伤。 夏季以白色和绿色为主，但新叶 为粉红色 ，秋天的颜色变亮为红色和铁锈橙色。生长速度较慢，枝软，矮生，午后需要遮阴，成年株可达1.5 m 左右高度。 草莓精灵属于 精灵 系列 ，此系列还有以下品种点击查看"
+    "preferred": "草莓精灵， 按照音译名字为 ： 奥尔森的冰冻草莓，因其叶色为草莓色并有银白色的霜冻底色而得名， 所以也称为：糖霜草莓。 由 美国的哈里 · 奥尔森选育命名并推广， 是 赤鸭立泽的种子培育而来 。 春叶为红色 或 粉色的草莓色调 ， 并 带 有紫红色的脉纹， 多晒会带有白色，出现白色需要遮阴，以免灼伤。 夏季以白色和绿色为主，但新叶 为粉红色 ，秋天的颜色变亮为红色和铁锈橙色。 生长速度较慢，枝软，矮生，午后需要遮阴，成年株可达1. 5 m 左右高度。 草莓精灵属于 精灵 系列 ，此系列还有以下品种点击查看"
   },
   "images": {
     "count": 9,
@@ -20,9 +20,18 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-olsen/01-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-317875.jpg",
+      "/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.jpg",
+      "/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-olsen/01-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-317875.jpg",
+      "/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.jpg",
+      "/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -33,7 +42,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "脉叶",
       "title": "草莓精灵 Acer Palmatum 'Olsen's Frosted Purple'",
-      "description": "草莓精灵， 按照音译名字为 ： 奥尔森的冰冻草莓，因其叶色为草莓色并有银白色的霜冻底色而得名， 所以也称为：糖霜草莓。由 美国的哈里 · 奥尔森选育命名并推广， 是 赤鸭立泽的种子培育而来 。 春叶为红色 或 粉色的草莓色调 ， 并 带 有紫红色的脉纹， 多晒会带有白色，出现白色需要遮阴，以免灼伤。 夏季以白色和绿色为主，但新叶 为粉红色 ，秋天的颜色变亮为红色和铁锈橙色。生长速度较慢，枝软，矮生，午后需要遮阴，成年株可达1.5 m 左右高度。 草莓精灵属于 精灵 系列 ，此系列还有以下品种点击查看",
+      "description": "草莓精灵， 按照音译名字为 ： 奥尔森的冰冻草莓，因其叶色为草莓色并有银白色的霜冻底色而得名， 所以也称为：糖霜草莓。 由 美国的哈里 · 奥尔森选育命名并推广， 是 赤鸭立泽的种子培育而来 。 春叶为红色 或 粉色的草莓色调 ， 并 带 有紫红色的脉纹， 多晒会带有白色，出现白色需要遮阴，以免灼伤。 夏季以白色和绿色为主，但新叶 为粉红色 ，秋天的颜色变亮为红色和铁锈橙色。 生长速度较慢，枝软，矮生，午后需要遮阴，成年株可达1. 5 m 左右高度。 草莓精灵属于 精灵 系列 ，此系列还有以下品种点击查看",
       "image_count": 9
     },
     {
@@ -41,6 +50,15 @@
       "rhs_id": 367023,
       "detail_url": "https://www.rhs.org.uk/plants/367023/acer-palmatum-olsens-frosted-strawberry-(p)/details",
       "botanical_name": "Acer palmatum 'Olsen's Frosted Strawberry' (P)",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Olsen's Frosted Strawberry' Reticulated Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Olsen'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple",
+      "image_count": 3,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -60,7 +78,7 @@
     "草莓精灵 Acer Palmatum 'Olsen's Frosted Purple'",
     "鸡爪槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -116,7 +134,78 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "草莓精灵， 按照音译名字为 ： 奥尔森的冰冻草莓，因其叶色为草莓色并有银白色的霜冻底色而得名， 所以也称为：糖霜草莓。由 美国的哈里 · 奥尔森选育命名并推广， 是 赤鸭立泽的种子培育而来 。 春叶为红色 或 粉色的草莓色调 ， 并 带 有紫红色的脉纹， 多晒会带有白色，出现白色需要遮阴，以免灼伤。 夏季以白色和绿色为主，但新叶 为粉红色 ，秋天的颜色变亮为红色和铁锈橙色。生长速度较慢，枝软，矮生，午后需要遮阴，成年株可达1.5 m 左右高度。 草莓精灵属于 精灵 系列 ，此系列还有以下品种点击查看"
+    "preferred": "草莓精灵， 按照音译名字为 ： 奥尔森的冰冻草莓，因其叶色为草莓色并有银白色的霜冻底色而得名， 所以也称为：糖霜草莓。 由 美国的哈里 · 奥尔森选育命名并推广， 是 赤鸭立泽的种子培育而来 。 春叶为红色 或 粉色的草莓色调 ， 并 带 有紫红色的脉纹， 多晒会带有白色，出现白色需要遮阴，以免灼伤。 夏季以白色和绿色为主，但新叶 为粉红色 ，秋天的颜色变亮为红色和铁锈橙色。 生长速度较慢，枝软，矮生，午后需要遮阴，成年株可达1. 5 m 左右高度。 草莓精灵属于 精灵 系列 ，此系列还有以下品种点击查看"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple",
+    "matched_product_count": 1,
+    "local_file_count": 3,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/01-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-317875.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/01-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-317875.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Olsen's Frosted Strawberry' Reticulated Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple",
+        "botanical_name": "Acer Palmatum 'Olsen'",
+        "common_name": "Olsen",
+        "description_text": "Harry Olsen discovered this selection as a seedling from Aka shigitatsu sawa. This is one of the brightest of the reticulated varieties. The pink colors in spring are unmatched but will become muted in summer especially in hot climates where it should be provided protection from afternoon sun. Fall color is orange. Deeply divided serrated leaves add to the appeal. The habit is upright and spreading. 10 year size: Height: 5-7 Feet Width: 4-6 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Olsen",
+        "match_score": 365,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-317875.jpg?v=1680913741",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/01-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-317875.jpg",
+          "bytes": 40483,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:24:40.236Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.jpg?v=1680913741",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.jpg",
+          "bytes": 37930,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:40.704Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg?v=1685395058",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg",
+          "bytes": 406826,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:42.212Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 3,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/01-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-317875.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg"
+      ]
+    }
+  }
 }

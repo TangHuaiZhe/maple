@@ -25,9 +25,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-satsuki-beni/01-acer-palmatum-satsuki-beni-346664.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-satsuki-beni/01-acer-palmatum-satsuki-beni-346664.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-satsuki-beni/01-acer-palmatum-satsuki-beni-346664.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -38,7 +43,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "爪斑",
       "title": "五月红Acer Palmatum 'Satsuki Beni'",
-      "description": "经典的大红叶，带有圆形肥叶，打开时像扇子一样打褶。 柠檬绿的叶子在春天长出红色的尖端，然后在仲夏褪 色成完全的绿色。在秋天，叶子在秋天变成橙红色。 比大多数其他日本枫树品种生长速度更快，并且变得 更大，成年树高可达 4-5 米，树冠宽阔，耐寒性好。",
+      "description": "经典的大红叶，带有圆形肥叶，打开时像扇子一样打褶。 柠檬绿的叶子在春天长出红色的尖端，然后在仲夏褪 色成完全的绿色。 在秋天，叶子在秋天变成橙红色。 比大多数其他日本枫树品种生长速度更快，并且变得 更大，成年树高可达 4-5 米，树冠宽阔，耐寒性好。",
       "image_count": 4
     },
     {
@@ -62,6 +67,15 @@
       "rhs_id": 131412,
       "detail_url": "https://www.rhs.org.uk/plants/131412/acer-palmatum-satsuki-beni-(m)/details",
       "botanical_name": "Acer palmatum 'Satsuki-beni' (M)",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Satsuki Beni' Green Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Satsuki Beni'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-satsuki-beni",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -87,7 +101,7 @@
     "爪斑",
     "鸡爪槭"
   ],
-  "source_count": 4,
+  "source_count": 5,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -145,7 +159,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是一个生长强健、树形直立的大型树种，秋色表现良好。其叶片使植株呈现结实稳健的观感。其名称意为“五月红”，但春季叶色其实是浓健的绿色，到盛夏也不会明显变深。真正出彩的时期在秋季，整株会转为鲜艳的火焰红和深红色。'Satsuki beni' 适合作为园林景观中的背景树，也可作为为高山植物提供遮荫的覆盖树。20 年后高度可能达到 8 米。其名称有时也拼作 'Satzuki beni'。"
+    "preferred": "这是一个生长强健、树形直立的大型树种，秋色表现良好。 其叶片使植株呈现结实稳健的观感。 其名称意为“五月红”，但春季叶色其实是浓健的绿色，到盛夏也不会明显变深。 真正出彩的时期在秋季，整株会转为鲜艳的火焰红和深红色。 'Satsuki beni' 适合作为园林景观中的背景树，也可作为为高山植物提供遮荫的覆盖树。 20 年后高度可能达到 8 米。 其名称有时也拼作 'Satzuki beni'。"
   },
   "rhs_zh": {
     "growing_conditions": {
@@ -164,7 +178,50 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "强健、直立的落叶小乔木，生长缓慢，最终高约 8 米。叶片宽大，7 裂，绿色，叶缘近乎平滑，叶长可达 6 厘米，秋季转为明亮的火焰色与深绯红色。"
+    "description": "强健、直立的落叶小乔木，生长缓慢，最终高约 8 米。 叶片宽大，7 裂，绿色，叶缘近乎平滑，叶长可达 6 厘米，秋季转为明亮的火焰色与深绯红色。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-satsuki-beni",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-satsuki-beni/01-acer-palmatum-satsuki-beni-346664.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-satsuki-beni/01-acer-palmatum-satsuki-beni-346664.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Satsuki Beni' Green Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-satsuki-beni",
+        "botanical_name": "Acer Palmatum 'Satsuki Beni'",
+        "common_name": "Satsuki beni",
+        "description_text": "Spring is a wonderful time for Acer palmatum ‘Satsuki Beni’ as chartreuse leaves are adorned with red highlights at the tips. ‘Satsuki beni’ is a strong grower, older plants can attain 25 feet or more. Fall color is red and fantastic most years. 10 Year size: Height: 10-12 Feet Width: 5-7 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Satsuki beni",
+        "match_score": 371,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-satsuki-beni-346664.jpg?v=1658490992",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-satsuki-beni",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-satsuki-beni/01-acer-palmatum-satsuki-beni-346664.jpg",
+          "bytes": 32149,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:24:55.481Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-satsuki-beni/01-acer-palmatum-satsuki-beni-346664.jpg"
+      ]
+    }
+  }
 }

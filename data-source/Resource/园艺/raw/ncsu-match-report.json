@@ -1,17 +1,218 @@
 {
-  "generated_at": "2026-04-16T08:20:17.507Z",
-  "total_candidates": 1,
-  "matched": [
+  "generated_at": "2026-04-18T08:53:55.592Z",
+  "total_candidates": 191,
+  "matched": [],
+  "unmatched": [
     {
-      "id": "acer-palmatum-kiyohime",
-      "display_name": "Kiyohime",
-      "detail_url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-kiyohime/",
-      "page_title": "Acer palmatum 'Kiyohime'",
-      "match_query": "acer palmatum kiyohime",
-      "match_score": 434,
-      "image_count": 6,
-      "downloaded_count": 6
+      "id": "acer-palmatum-akegarasu",
+      "display_name": "Akegarasu",
+      "top_results": []
+    },
+    {
+      "id": "acer-akita-yatsubusa",
+      "display_name": "Akita yatsubusa",
+      "top_results": []
+    },
+    {
+      "id": "acer-palmatum-ao-kanzashi",
+      "display_name": "Ao kanzashi",
+      "top_results": []
+    },
+    {
+      "id": "acer-ao-shidare",
+      "display_name": "Ao shidare",
+      "top_results": []
+    },
+    {
+      "id": "acer-ao-shime-no-uchi-shidare",
+      "display_name": "Ao shime-no-uchi shidare",
+      "top_results": []
+    },
+    {
+      "id": "acer-palmatum-arakawa-momiji",
+      "display_name": "Arakawa momiji",
+      "top_results": [
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-atropurpureum/",
+          "title": "Acer palmatum 'Atropurpureum'",
+          "match_query": "acer palmatum",
+          "score": 8
+        },
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-bloodgood/",
+          "title": "Acer palmatum 'Bloodgood'",
+          "match_query": "acer palmatum",
+          "score": 8
+        },
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-kiyohime/",
+          "title": "Acer palmatum 'Kiyohime'",
+          "match_query": "acer palmatum",
+          "score": 8
+        },
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-mikawa-yatsubusa/",
+          "title": "Acer palmatum 'Mikawa yatsubusa'",
+          "match_query": "acer palmatum",
+          "score": 8
+        },
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-osakazuki/",
+          "title": "Acer palmatum 'Osakazuki'",
+          "match_query": "acer palmatum",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "id": "acer-palmatum-arakawa-ukon",
+      "display_name": "Arakawa Ukon",
+      "top_results": [
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-atropurpureum/",
+          "title": "Acer palmatum 'Atropurpureum'",
+          "match_query": "acer palmatum",
+          "score": 8
+        },
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-bloodgood/",
+          "title": "Acer palmatum 'Bloodgood'",
+          "match_query": "acer palmatum",
+          "score": 8
+        },
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-kiyohime/",
+          "title": "Acer palmatum 'Kiyohime'",
+          "match_query": "acer palmatum",
+          "score": 8
+        },
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-mikawa-yatsubusa/",
+          "title": "Acer palmatum 'Mikawa yatsubusa'",
+          "match_query": "acer palmatum",
+          "score": 8
+        },
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-osakazuki/",
+          "title": "Acer palmatum 'Osakazuki'",
+          "match_query": "acer palmatum",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "id": "acer-pseudosieboldianum-arctic-jade",
+      "display_name": "Arctic Jade",
+      "top_results": []
+    },
+    {
+      "id": "acer-palmatum-attraction",
+      "display_name": "Attraction",
+      "reason": "detail_page_not_specific",
+      "detail_url": "https://plants.ces.ncsu.edu/plants/buddleja-davidii-attraction/",
+      "page_title": "Buddleja davidii 'Attraction'"
+    },
+    {
+      "id": "acer-palmatum-aureo-variegatum",
+      "display_name": "Aureo-variegatum",
+      "top_results": [
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-atropurpureum/",
+          "title": "Acer palmatum 'Atropurpureum'",
+          "match_query": "acer palmatum",
+          "score": 8
+        },
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-bloodgood/",
+          "title": "Acer palmatum 'Bloodgood'",
+          "match_query": "acer palmatum",
+          "score": 8
+        },
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-kiyohime/",
+          "title": "Acer palmatum 'Kiyohime'",
+          "match_query": "acer palmatum",
+          "score": 8
+        },
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-mikawa-yatsubusa/",
+          "title": "Acer palmatum 'Mikawa yatsubusa'",
+          "match_query": "acer palmatum",
+          "score": 8
+        },
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum-osakazuki/",
+          "title": "Acer palmatum 'Osakazuki'",
+          "match_query": "acer palmatum",
+          "score": 8
+        }
+      ]
+    },
+    {
+      "id": "acer-palmatum-autumn-fire",
+      "display_name": "Autumn Fire",
+      "reason": "detail_page_not_specific",
+      "detail_url": "https://plants.ces.ncsu.edu/plants/cotoneaster-salicifolius-autumn-fire/",
+      "page_title": "Cotoneaster salicifolius 'Autumn Fire'"
+    },
+    {
+      "id": "acer-palmatum-autumn-flame",
+      "display_name": "Autumn Flame",
+      "top_results": [
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/miscanthus-purpurascens/",
+          "title": "Miscanthus 'Purpurascens'",
+          "match_query": "autumn flame",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "acer-palmatum-autumn-red",
+      "display_name": "Autumn Red",
+      "top_results": []
+    },
+    {
+      "id": "acer-sieboldianum-bailey-compact",
+      "display_name": "Bailey Compact",
+      "top_results": [
+        {
+          "url": "https://plants.ces.ncsu.edu/plants/acer-sieboldianum/",
+          "title": "Acer sieboldianum",
+          "match_query": "acer sieboldianum",
+          "score": -72
+        }
+      ]
+    },
+    {
+      "id": "acer-palmatum-barrie-bergman",
+      "display_name": "Barrie Bergman",
+      "top_results": []
+    },
+    {
+      "id": "acer-palmatum-beni-hoshi",
+      "display_name": "Beni hoshi",
+      "top_results": []
+    },
+    {
+      "id": "acer-palmatum-beni-kumo-no-su",
+      "display_name": "Beni kumo-no-su",
+      "top_results": []
+    },
+    {
+      "id": "acer-palmatum-beni-ubi-gohon",
+      "display_name": "Beni ubi gohon",
+      "top_results": []
+    },
+    {
+      "id": "acer-palmatum-beni-yatsubusa",
+      "display_name": "Beni yatsubusa",
+      "top_results": []
+    },
+    {
+      "id": "acer-palmatum-beni-zuru",
+      "display_name": "Beni zuru",
+      "top_results": []
     }
-  ],
-  "unmatched": []
+  ]
 }

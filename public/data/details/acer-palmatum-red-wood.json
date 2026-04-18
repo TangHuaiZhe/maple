@@ -26,6 +26,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-red-wood/01-mebr00224.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-red-wood/01-mebr00224.jpg"
@@ -164,10 +165,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶灌木或小乔木，高约 4 米。鲜明的红色枝干与深裂叶片形成强烈对比；春季新叶明亮的青柠绿色，成熟后转为中绿色，秋季则变为淡黄色、蜜桃色和粉色。"
+    "description": "落叶灌木或小乔木，高约 4 米。 鲜明的红色枝干与深裂叶片形成强烈对比；春季新叶明亮的青柠绿色，成熟后转为中绿色，秋季则变为淡黄色、蜜桃色和粉色。"
   },
   "descriptions_zh": {
-    "preferred": "这一源自俄勒冈州的品种以色彩鲜明的冬季枝皮而著称。其珊瑚红色新梢与广受欢迎的 'Sango kaku' 相似，且可保持色彩达两年。叶片较小，通常五至七裂，春季呈浅黄绿色，夏季转为清新的绿色，秋季则变成金黄色，并带有粉色和红色晕染。'Red Wood' 形成直立树形，高可达 13 英尺（4 米）。它是极佳的园景树种，也适合容器栽培。Acer"
+    "preferred": "这一源自俄勒冈州的品种以色彩鲜明的冬季枝皮而著称。 其珊瑚红色新梢与广受欢迎的 'Sango kaku' 相似，且可保持色彩达两年。 叶片较小，通常五至七裂，春季呈浅黄绿色，夏季转为清新的绿色，秋季则变成金黄色，并带有粉色和红色晕染。 'Red Wood' 形成直立树形，高可达 13 英尺（4 米）。 它是极佳的园景树种，也适合容器栽培。 Acer"
   },
   "has_mrmaple": false
 }

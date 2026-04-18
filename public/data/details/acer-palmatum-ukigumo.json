@@ -100,6 +100,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-ukigumo/01-RHS_RHS-0001392_10168.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-ukigumo/01-RHS_RHS-0001392_10168.JPG",
@@ -186,7 +187,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "锦叶",
       "title": "浮云 Acer Palmatum 'Ukigumo'",
-      "description": "浮云的基本叶色为浅绿色，在边缘有淡淡的粉红色， 叶面上还会散落着一些绿色斑点。但浮云出锦需要 温差，一般北方会更适合浮云。秋天橙黄色。浮云 的叶子一般是 5 裂，叶片开张，叶裂很深，出锦的 叶片会向下或向侧面卷曲。生长速度一般，成年树 高大约 3 米。",
+      "description": "浮云的基本叶色为浅绿色，在边缘有淡淡的粉红色， 叶面上还会散落着一些绿色斑点。 但浮云出锦需要 温差，一般北方会更适合浮云。 秋天橙黄色。 浮云 的叶子一般是 5 裂，叶片开张，叶裂很深，出锦的 叶片会向下或向侧面卷曲。 生长速度一般，成年树 高大约 3 米。",
       "image_count": 13
     },
     {
@@ -229,7 +230,7 @@
       "source": "herter",
       "name": "Ukigumo Variegated Japanese Maple",
       "detail_url": "https://japanesemaple.net/product/ukigumo-variegated-japanese-maple/",
-      "description": "The Ukigumo Japanese Maple is a stunning variegated variety known for its striking foliage and unique appearance. Often referred to as the “Floating Cloud” maple due to its light, airy feel, the Ukigumo features leaves that emerge as a soft green with creamy white variegation, creating a beautiful contrast. As the season progresses, the colors transform, with the leaves transitioning to shades of pink, white, and green, offering a constantly changing visual display throughout the year. The UkigumoJapanese maple available for sale is perfect for those looking to add an unusual and eye-catching element to their garden or landscape. Typically growing to a height of 2.5 to 3 meters, the Ukigumo is well-suited for small to medium-sized gardens, as well as container planting. Its delicate, finely dissected leaves and compact size make it an excellent choice for accenting other plants or creating a serene focal point. The Ukigumo thrives in well-drained soil and partial shade, and it is relatively low-maintenance once established. Its unique variegation makes it a standout tree that can elevate any landscape, whether in a Japanese-inspired garden, a contemporary setting, or as part of a mixed border. At Herter Nursery, we offer healthy, carefully nurtured UkigumoJapanese maple available for saleto add lasting beauty to your garden. Order now.",
+      "description": "The Ukigumo Japanese Maple is a stunning variegated variety known for its striking foliage and unique appearance. Often referred to as the “Floating Cloud” maple due to its light, airy feel, the Ukigumo features leaves that emerge as a soft green with creamy white variegation, creating a beautiful contrast. As the season progresses, the colors transform, with the leaves transitioning to shades of pink, white, and green, offering a constantly changing visual display throughout the year. The UkigumoJapanese maple available for sale is perfect for those looking to add an unusual and eye-catching element to their garden or landscape. Typically growing to a height of 2. 5 to 3 meters, the Ukigumo is well-suited for small to medium-sized gardens, as well as container planting. The Ukigumo thrives in well-drained soil and partial shade, and it is relatively low-maintenance once established. Its unique variegation makes it a standout tree that can elevate any landscape, whether in a Japanese-inspired garden, a contemporary setting, or as part of a mixed border. At Herter Nursery, we offer healthy, carefully nurtured UkigumoJapanese maple available for saleto add lasting beauty to your garden. Order now.",
       "group": "All Japanese Maples / Variegated Leaf Japanese Maple",
       "image_count": 1,
       "matched_product_count": 1,
@@ -370,7 +371,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "其名称意为“浮云”，指叶片上细腻的斑锦变化，仿佛由极其细小的斑点构成。多数叶片会以不同程度分布白色或粉色斑点，有时会融合成较大的色块；也有些叶片几乎全白或浅粉。整体色彩并不艳俗，而是十分柔和。五裂叶长宽均为 4-6 厘米。裂片向外舒展，分裂至叶基约四分之三处，裂片为长卵形，先端锐尖。着色较重的裂片往往不平展，可能向下或向侧面卷曲，且常有扭转和波浪状起伏。叶缘细密且规则具锯齿。该品种生长不快，枝条较短，且略多分枝，形成半致密株形。‘Ukigumo’ 最终可长成高大灌木，许多年后高度约可达 3 米。"
+    "preferred": "其名称意为“浮云”，指叶片上细腻的斑锦变化，仿佛由极其细小的斑点构成。 多数叶片会以不同程度分布白色或粉色斑点，有时会融合成较大的色块；也有些叶片几乎全白或浅粉。 整体色彩并不艳俗，而是十分柔和。 五裂叶长宽均为 4-6 厘米。 裂片向外舒展，分裂至叶基约四分之三处，裂片为长卵形，先端锐尖。 着色较重的裂片往往不平展，可能向下或向侧面卷曲，且常有扭转和波浪状起伏。 叶缘细密且规则具锯齿。 该品种生长不快，枝条较短，且略多分枝，形成半致密株形。 ‘Ukigumo’ 最终可长成高大灌木，许多年后高度约可达 3 米。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -388,7 +389,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶性、丛生型小至中型灌木，最终高度约 3 米。叶片 5 裂，略有扭曲，春季萌发时以白色为主，叶尖及局部带粉色晕染；成熟后转为绿色，并带有大量白色与粉色斑驳及镶边。",
+    "description": "落叶性、丛生型小至中型灌木，最终高度约 3 米。 叶片 5 裂，略有扭曲，春季萌发时以白色为主，叶尖及局部带粉色晕染；成熟后转为绿色，并带有大量白色与粉色斑驳及镶边。",
     "care": {
       "cultivation": "宜栽植于保水性良好且排水通畅的土壤中，并选择避风环境。叶色在半阴条件下表现最佳；若土壤湿度稳定充足，也可耐受全日照。土壤缺水或暴露过度都可能导致叶片焦枯。更多日本枫树栽培建议。",
       "pruning": "修剪第 1 组：晚秋至隆冬期间进行",

@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -52,7 +53,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "该品种在叶形和树姿上与 'Bloodgood' 非常相似，但生长较慢，最终体量仅为后者的一半。'Italy Red' 树势非常健壮，耐风、耐晒，最终形成一株高约 3 米的小型直立乔木。对于 'Bloodgood' 过于高大的花园环境来说，它是一个值得考虑的替代品。原始母株生长于加利福尼亚州 Laytonville 的 Mountain Maples Nursery，该苗圃由 Don 和 Nancy Fiers 经营，他们是从 Maplewood Nursery 获得该品种的。据推测，它最初来自意大利，因此得名。该品种也曾被误拼为 'Haly Red'。"
+    "preferred": "该品种在叶形和树姿上与 'Bloodgood' 非常相似，但生长较慢，最终体量仅为后者的一半。 'Italy Red' 树势非常健壮，耐风、耐晒，最终形成一株高约 3 米的小型直立乔木。 对于 'Bloodgood' 过于高大的花园环境来说，它是一个值得考虑的替代品。 原始母株生长于加利福尼亚州 Laytonville 的 Mountain Maples Nursery，该苗圃由 Don 和 Nancy Fiers 经营，他们是从 Maplewood Nursery 获得该品种的。 据推测，它最初来自意大利，因此得名。 该品种也曾被误拼为 'Haly Red'。"
   },
   "has_mrmaple": false
 }

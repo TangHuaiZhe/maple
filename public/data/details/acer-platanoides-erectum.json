@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer platanoides 'Erectum' Columar Norway Maple Zones 4-7 Acer platanoides ‘Erectum’ is an upright, columnar form of the Norway maple known for its strong vertical habit and symmetrical shape. Its dark green leaves create a dense canopy that turns a striking golden-yellow in fall, making it an excellent choice for narrow spaces, entryways, or formal landscapes. Adaptable to a wide range of soils and urban conditions, it requires minimal maintenance and responds well to light pruning. In 10 years, it typically reaches 15–20 ft tall and 5 ft wide, maintaining its tidy, architectural form while providing year-round structure and seasonal interest. Acer platanoides does not ship to CT, ME, MA, and NH."
+    "preferred": "Acer platanoides 'Erectum' Columar Norway Maple Zones 4-7 Acer platanoides ‘Erectum’ is an upright, columnar form of the Norway maple known for its strong vertical habit and symmetrical shape. Adaptable to a wide range of soils and urban conditions, it requires minimal maintenance and responds well to light pruning. In 10 years, it typically reaches 15–20 ft tall and 5 ft wide, maintaining its tidy, architectural form while providing year-round structure and seasonal interest. Acer platanoides does not ship to CT, ME, MA, and NH."
   },
   "images": {
     "count": 0,
@@ -25,6 +25,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/acer-platanoides-erectum-columnar-norway-maple/04-Erectum_-09222025-4.jpg",
     "public_paths": [
       "/mrmaple-images/acer-platanoides-erectum-columnar-norway-maple/01-Erectum_-09222025-1.jpg",
@@ -68,7 +69,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer platanoides 'Erectum' 柱形挪威槭，适生区 4-7。Acer platanoides ‘Erectum’ 是挪威槭的直立柱形品种，以强劲的纵向生长势和对称树形著称。其深绿色叶片形成致密树冠，秋季转为醒目的金黄色，是狭窄空间、入口区域或规则式景观中的优良选择。对多种土壤和城市环境适应性强，养护需求低，也适合轻度修剪。10 年内通常可长至 15-20 英尺高、约 5 英尺宽，始终保持整洁而富建筑感的树形，全年都有结构美感并兼具季相变化。Acer platanoides 不配送至 CT、ME、MA 和 NH。数量有限。由于我们拥有上千个日本枫品种，每个品种通常库存不多，建议尽快购买心仪品种，因为部分选育品种经常很快售罄。"
+    "preferred": "Acer platanoides 'Erectum' 柱形挪威槭，适生区 4-7。 Acer platanoides ‘Erectum’ 是挪威槭的直立柱形品种，以强劲的纵向生长势和对称树形著称。 其深绿色叶片形成致密树冠，秋季转为醒目的金黄色，是狭窄空间、入口区域或规则式景观中的优良选择。 对多种土壤和城市环境适应性强，养护需求低，也适合轻度修剪。 10 年内通常可长至 15-20 英尺高、约 5 英尺宽，始终保持整洁而富建筑感的树形，全年都有结构美感并兼具季相变化。 Acer platanoides 不配送至 CT、ME、MA 和 NH。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -103,7 +104,7 @@
           "Type_Japanese Maple",
           "VDAYSALE26"
         ],
-        "description_text": "Acer platanoides 'Erectum' Columar Norway Maple Zones 4-7 Acer platanoides ‘Erectum’ is an upright, columnar form of the Norway maple known for its strong vertical habit and symmetrical shape. Its dark green leaves create a dense canopy that turns a striking golden-yellow in fall, making it an excellent choice for narrow spaces, entryways, or formal landscapes. Adaptable to a wide range of soils and urban conditions, it requires minimal maintenance and responds well to light pruning. In 10 years, it typically reaches 15–20 ft tall and 5 ft wide, maintaining its tidy, architectural form while providing year-round structure and seasonal interest. Acer platanoides does not ship to CT, ME, MA, and NH.",
+        "description_text": "Acer platanoides 'Erectum' Columar Norway Maple Zones 4-7 Acer platanoides ‘Erectum’ is an upright, columnar form of the Norway maple known for its strong vertical habit and symmetrical shape. Adaptable to a wide range of soils and urban conditions, it requires minimal maintenance and responds well to light pruning. In 10 years, it typically reaches 15–20 ft tall and 5 ft wide, maintaining its tidy, architectural form while providing year-round structure and seasonal interest. Acer platanoides does not ship to CT, ME, MA, and NH.",
         "published_at": "2025-12-04T10:00:15-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

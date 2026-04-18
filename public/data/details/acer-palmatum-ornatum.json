@@ -27,6 +27,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-ornatum-momiji_kaede/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-ornatum/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG",
@@ -191,14 +192,14 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "'Ornatum' 株形圆整，叶片细长且具深裂，幼叶为古铜红色，随后渐转带绿色，秋季变为深绯红色。最终高度可达 3 米。",
+    "description": "'Ornatum' 株形圆整，叶片细长且具深裂，幼叶为古铜红色，随后渐转带绿色，秋季变为深绯红色。 最终高度可达 3 米。",
     "attributes": {
       "suggested_uses": "城市/庭院花园，滨海花园，乡村花园/自然式花园，庭院/容器植物",
       "hort_group_description": "dissectum 组的槭树具有细致、羽毛状、深裂的叶片，叶缘具细锯齿。"
     }
   },
   "descriptions_zh": {
-    "preferred": "其春叶呈颇具特色的红色；与其他红叶裂叶品种如 'Crimson Queen'、'Dissectum Nigrum' 或 'Inaba shidare' 相比，更偏青铜红。这种明亮色调在园景中十分醒目。至夏末叶色转带绿色调，秋季则呈显著的深绯红色。叶片具典型裂叶型特征，由 7 个极狭长的裂片组成；每个裂片再分裂为深裂的侧裂片，而每个侧裂片本身又具深锯齿。主裂片长 6 至 7 厘米，但叶片总展开幅仅 5 至 9 厘米，因为许多叶片不像 'Inaba shidare' 和 'Palmatifidum' 那样充分开展。绿色叶柄长 3 至 4 厘米。极老植株可高达 3 米以上，但通常形成隆起状树冠，冠幅为 3 至 4 米。这个来自欧洲的古老品种曾因叶色调独特而广受欢迎；不过，随着更深色且保色性更好的选育品种出现，其受欢迎程度有所下降。它仍然能在园景中提供良好的色彩对比，且耐寒。它曾以多个名称流通，如"
+    "preferred": "其春叶呈颇具特色的红色；与其他红叶裂叶品种如 'Crimson Queen'、'Dissectum Nigrum' 或 'Inaba shidare' 相比，更偏青铜红。 这种明亮色调在园景中十分醒目。 至夏末叶色转带绿色调，秋季则呈显著的深绯红色。 叶片具典型裂叶型特征，由 7 个极狭长的裂片组成；每个裂片再分裂为深裂的侧裂片，而每个侧裂片本身又具深锯齿。 主裂片长 6 至 7 厘米，但叶片总展开幅仅 5 至 9 厘米，因为许多叶片不像 'Inaba shidare' 和 'Palmatifidum' 那样充分开展。 绿色叶柄长 3 至 4 厘米。 极老植株可高达 3 米以上，但通常形成隆起状树冠，冠幅为 3 至 4 米。 这个来自欧洲的古老品种曾因叶色调独特而广受欢迎；不过，随着更深色且保色性更好的选育品种出现，其受欢迎程度有所下降。 它仍然能在园景中提供良好的色彩对比，且耐寒。 它曾以多个名称流通，如"
   },
   "has_mrmaple": false,
   "mrmaple": null

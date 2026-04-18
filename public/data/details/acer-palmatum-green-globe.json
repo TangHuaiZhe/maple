@@ -24,9 +24,18 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-green-globe/01-IMG-1310.heic",
+      "/jmac-images/acer-palmatum-green-globe/02-IMG-1308.heic",
+      "/jmac-images/acer-palmatum-green-globe/03-IMG-1309.heic"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-green-globe/02-IMG-1308.heic",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-green-globe/01-IMG-1310.heic",
+      "/jmac-images/acer-palmatum-green-globe/02-IMG-1308.heic",
+      "/jmac-images/acer-palmatum-green-globe/03-IMG-1309.heic"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -51,6 +60,15 @@
       "group": "dissectum",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Green Globe' Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Green Globe'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-globe",
+      "image_count": 3,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -65,7 +83,7 @@
     "Green Globe",
     "Japanese maple 'Green Globe'"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -137,11 +155,82 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶性小乔木，高、宽约 3 米，树形自然圆整。叶片细裂如羽毛，具 5 至 7 裂，春季萌发时呈粉铜色，夏季转绿，秋季变为金黄色至橙色。"
+    "description": "落叶性小乔木，高、宽约 3 米，树形自然圆整。 叶片细裂如羽毛，具 5 至 7 裂，春季萌发时呈粉铜色，夏季转绿，秋季变为金黄色至橙色。"
   },
   "descriptions_zh": {
-    "preferred": "正如其名 'Green Globe' 所示，这一来自意大利米兰附近 Fratelli Gilardelli 苗圃的绿色线裂叶品种，倾向形成圆整的球状树形。它不具多数 dissectum 类品种典型的下垂习性。春季新叶初展时色彩迷人，最初的玫瑰色随后转为乳白色调，并很快变成清新的祖母绿色。整个夏季均能保持此色，秋季转黄。新梢和叶柄为颇具观赏性的中绿色。叶片 7 裂、深裂，长 7-9 厘米，宽 9-10 厘米。裂片一直分裂至叶基，靠近基部约 1 厘米处收窄至与中脉近似的宽度。各主裂片本身又深裂，距中脉仅约 2-3 毫米。这些次裂片边缘具细锯齿。叶柄长 2-3 厘米。该品种生长旺盛、树形圆整，估计成株高 4-5 米，冠幅 3-4 米。由于 'Green Globe' 为圆整树形而非瀑布状下垂，因此其嫁接位较低，不像一般 dissectum 品种那样接位较高。该品种另有名称"
+    "preferred": "正如其名 'Green Globe' 所示，这一来自意大利米兰附近 Fratelli Gilardelli 苗圃的绿色线裂叶品种，倾向形成圆整的球状树形。 它不具多数 dissectum 类品种典型的下垂习性。 春季新叶初展时色彩迷人，最初的玫瑰色随后转为乳白色调，并很快变成清新的祖母绿色。 整个夏季均能保持此色，秋季转黄。 新梢和叶柄为颇具观赏性的中绿色。 叶片 7 裂、深裂，长 7-9 厘米，宽 9-10 厘米。 裂片一直分裂至叶基，靠近基部约 1 厘米处收窄至与中脉近似的宽度。 各主裂片本身又深裂，距中脉仅约 2-3 毫米。 这些次裂片边缘具细锯齿。 叶柄长 2-3 厘米。 该品种生长旺盛、树形圆整，估计成株高 4-5 米，冠幅 3-4 米。 由于 'Green Globe' 为圆整树形而非瀑布状下垂，因此其嫁接位较低，不像一般 dissectum 品种那样接位较高。 该品种另有名称"
   },
   "has_mrmaple": false,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-globe",
+    "matched_product_count": 1,
+    "local_file_count": 3,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/01-IMG-1310.heic",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/01-IMG-1310.heic",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/02-IMG-1308.heic",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/03-IMG-1309.heic"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Green Globe' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-globe",
+        "botanical_name": "Acer palmatum 'Green Globe'",
+        "common_name": "Green Globe",
+        "description_text": "Acer palmatum ‘Green Globe’ is a green, lace leaf Japanese maple that does not have as much of a weeping habit as most lace leaf Japanese maples. ‘Green Globe’ has green leaves in the spring and summer. Fall color is yellow to orange. ‘Green Globe’ has an upright and spreading habit that forms a short, round topped tree. 10 Year Size: Height: 6-8 feet Width: 6-8 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Green Globe",
+        "match_score": 370,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1310.heic?v=1721162239",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-globe",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/01-IMG-1310.heic",
+          "bytes": 961342,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:21.893Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1308.heic?v=1721162239",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-globe",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/02-IMG-1308.heic",
+          "bytes": 1046430,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:25.069Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1309.heic?v=1721162239",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-globe",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/03-IMG-1309.heic",
+          "bytes": 712286,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:28.462Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 3,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/01-IMG-1310.heic",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/02-IMG-1308.heic",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/03-IMG-1309.heic"
+      ]
+    }
+  }
 }

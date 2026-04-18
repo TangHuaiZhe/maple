@@ -47,6 +47,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-okushimo-japanese-maple/01-Acer_palmatum_Okushimo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065349.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-okushimo/01-E_KOS3826.jpg",
@@ -82,7 +83,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "异型叶",
       "title": "置霜Acer Palmatum 'Okushimo'",
-      "description": "最早记载出现在 1704 年。叶片会微微往上卷。春天棕色， 夏季返绿到了秋天就会变成橙红橙黄色。叶型较小。",
+      "description": "最早记载出现在 1704 年。 叶片会微微往上卷。 春天棕色， 夏季返绿到了秋天就会变成橙红橙黄色。 叶型较小。",
       "image_count": 9
     },
     {
@@ -223,7 +224,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这种槭树最突出的羽状特征包括形态奇特的叶片、舒展而直立的树形，以及极为美丽的金色秋叶，某些时候几乎带有荧光感。夏季叶色为浓绿色。较小的叶片有 5 至 7 裂，裂片中度至较深分裂，并僵直地向外放射。每个裂片呈披针形，渐尖为类似 'Omato' 的尖锐硬质叶尖。耐人寻味的是，略带钝缺刻的裂缘向上卷起，几乎形成渐细的管状，裂片顶端也向上翘起。坚硬的叶柄呈粉红红色，新梢为绿色。这种挺直直立、花瓶状树形的树势强健，常可长到 26 英尺（8 米）或更高，适于园林种植，紧凑的株形也适合盆景。'Kurui jishi' 与 'Okushimo' 相似，但叶片和树形更小，仅高约 6 1/2 英尺（2 米）；其名称可解释为“狂狮”。 Group—green。类似"
+    "preferred": "这种槭树最突出的羽状特征包括形态奇特的叶片、舒展而直立的树形，以及极为美丽的金色秋叶，某些时候几乎带有荧光感。 夏季叶色为浓绿色。 较小的叶片有 5 至 7 裂，裂片中度至较深分裂，并僵直地向外放射。 每个裂片呈披针形，渐尖为类似 'Omato' 的尖锐硬质叶尖。 耐人寻味的是，略带钝缺刻的裂缘向上卷起，几乎形成渐细的管状，裂片顶端也向上翘起。 坚硬的叶柄呈粉红红色，新梢为绿色。 这种挺直直立、花瓶状树形的树势强健，常可长到 26 英尺（8 米）或更高，适于园林种植，紧凑的株形也适合盆景。 'Kurui jishi' 与 'Okushimo' 相似，但叶片和树形更小，仅高约 6 1/2 英尺（2 米）；其名称可解释为“狂狮”。 Group—green。 类似"
   },
   "rhs_zh": {
     "growing_conditions": {
@@ -309,7 +310,7 @@
           "Type_Japanese Maple",
           "Use_Bonsai"
         ],
-        "description_text": "Acer palmatum 'Okushimo' Unique Okushimo Japanese Maple Zones 5-9 Okushimo is a very unusual upright green Japanese maple. This Japanese maple tree has a light green leaf and the edges curl upright creating a unique look. The growth habit is upright and forms a great vase shape that can be very useful in the landscape. The fall color ranges from yellow to deep orange. The tree is vigorous and grows well in sun or shade. Typically reaches 15–20 ft tall and about 10–15 ft wide in 10–15 years. The height can reach up to 20 ft over time and even at maturity retains the great narrow vase-like shape. The name ‘Okushimo’ means “salt and pepper”. This is a very old Japanese maple cultivar that is under used because people are not informed about it. The unusual leaf structure and great color make ‘Okushimo’ a very complimentary addition when planted next to other cultivars or used as focal point planting. Plant this Japanese maple in your landscape for that beautiful conversation piece all your garden visitors will be talking about.",
+        "description_text": "Acer palmatum 'Okushimo' Unique Okushimo Japanese Maple Zones 5-9 Okushimo is a very unusual upright green Japanese maple. This Japanese maple tree has a light green leaf and the edges curl upright creating a unique look. The growth habit is upright and forms a great vase shape that can be very useful in the landscape. The fall color ranges from yellow to deep orange. The tree is vigorous and grows well in sun or shade. Typically reaches 15–20 ft tall and about 10–15 ft wide in 10–15 years. The height can reach up to 20 ft over time and even at maturity retains the great narrow vase-like shape. The name ‘Okushimo’ means “salt and pepper”. This is a very old Japanese maple cultivar that is under used because people are not informed about it. Plant this Japanese maple in your landscape for that beautiful conversation piece all your garden visitors will be talking about.",
         "published_at": "2026-01-27T10:14:52-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

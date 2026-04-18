@@ -16,7 +16,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "Probably a cross between Acer palmatum and A. circinatum, this cultivar has sevento nine-lobed circular leaves with broadly ovate lobes and pointed tips. The stiff stout leafstalks are red. The leaves are dark green during the summer, becoming green with bronze and purple tones in late summer. In the fall, this German cultivar comes into its own, turning an outstanding orange. It is very vigorous, densely branched, upright, wide-spreading, and reaching 16-20 ft. (5-6 m) tall and about as wide. The name means \"autumn fire.\""
+    "preferred": "Probably a cross between Acer palmatum and A. circinatum, this cultivar has sevento nine-lobed circular leaves with broadly ovate lobes and pointed tips. The stiff stout leafstalks are red. The leaves are dark green during the summer, becoming green with bronze and purple tones in late summer. In the fall, this German cultivar comes into its own, turning an outstanding orange. It is very vigorous, densely branched, upright, wide-spreading, and reaching 16-20 ft. (5-6 m) tall and about as wide. The name means \"autumn fire. \""
   },
   "images": {
     "count": 6,
@@ -25,9 +25,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-circinatum-herbstfeuer/01-acer-palmatum-herbstfeuer-557511.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-circinatum-herbstfeuer/01-acer-palmatum-herbstfeuer-557511.jpg",
+    "public_paths": [
+      "/jmac-images/acer-circinatum-herbstfeuer/01-acer-palmatum-herbstfeuer-557511.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -38,7 +43,7 @@
       "top_group_name": "藤槭",
       "second_group_name": "秋火",
       "title": "秋火 Acer Circinatum 'Herbstfeuer'",
-      "description": "秋火是在德国发现的鸡爪槭和藤槭的杂交品种， Herbstfeuer 这个名字的意思是 \" 秋天的火 \" 。它是由德国苗圃管理员 Andreas Bartel 偶然间发现的，在 1985 年被 Andreas Bartels 注册为 \"Herbstfeuer\" 。叶子中等大小，一般为 7-9 裂，裂片深至 1/2 处，叶型很圆润。秋火春夏叶子都为绿色，秋天是非常绚烂的橙色和红色，正如它的名字一样。成年树高大约 5 到 6 米。",
+      "description": "秋火是在德国发现的鸡爪槭和藤槭的杂交品种， Herbstfeuer 这个名字的意思是 \" 秋天的火 \" 。 它是由德国苗圃管理员 Andreas Bartel 偶然间发现的，在 1985 年被 Andreas Bartels 注册为 \"Herbstfeuer\" 。 叶子中等大小，一般为 7-9 裂，裂片深至 1/2 处，叶型很圆润。 秋火春夏叶子都为绿色，秋天是非常绚烂的橙色和红色，正如它的名字一样。 成年树高大约 5 到 6 米。",
       "image_count": 6
     },
     {
@@ -63,6 +68,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/191979/acer-palmatum-herbstfeuer-(p)/details",
       "botanical_name": "Acer palmatum 'Herbstfeuer' (P)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Herbstfeuer' Fast Growing Japanese Maple",
+      "botanical_name": "Acer Circinatum 'Herbstfeuer'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-herbstfeuer",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -80,7 +94,7 @@
     "秋火 Acer Circinatum 'Herbstfeuer'",
     "藤槭"
   ],
-  "source_count": 4,
+  "source_count": 5,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -136,7 +150,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该品种很可能是 Acer palmatum 与 A. circinatum 的杂交后代，叶片近圆形，具 7 至 9 个裂片，裂片宽卵形，先端尖。坚硬粗壮的叶柄为红色。夏季叶色为深绿色，到夏末转为绿色并带青铜色和紫色调。到了秋季，这个德国品种才真正展现风采，转为十分出色的橙色。其生长势很强，分枝密，树形直立而开展，高约 16-20 英尺（5-6 米），冠幅也大致相当。其名称意为“秋火”。 'Hessei' 属 Acer Matsumurae Group，红叶型。叶片 7 裂，裂片极深，中等大小。每个裂片狭长，边缘具锯齿。叶片略下垂，使植株呈现带状飘垂感。春季至初夏叶色为浓郁的紫红色，随后转为带绿的青铜色。秋色为鲜艳的深红色。"
+    "preferred": "该品种很可能是 Acer palmatum 与 A. circinatum 的杂交后代，叶片近圆形，具 7 至 9 个裂片，裂片宽卵形，先端尖。 坚硬粗壮的叶柄为红色。 夏季叶色为深绿色，到夏末转为绿色并带青铜色和紫色调。 到了秋季，这个德国品种才真正展现风采，转为十分出色的橙色。 其生长势很强，分枝密，树形直立而开展，高约 16-20 英尺（5-6 米），冠幅也大致相当。 其名称意为“秋火”。 'Hessei' 属 Acer Matsumurae Group，红叶型。 叶片 7 裂，裂片极深，中等大小。 每个裂片狭长，边缘具锯齿。 叶片略下垂，使植株呈现带状飘垂感。 春季至初夏叶色为浓郁的紫红色，随后转为带绿的青铜色。 秋色为鲜艳的深红色。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-herbstfeuer",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-circinatum-herbstfeuer/01-acer-palmatum-herbstfeuer-557511.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-circinatum-herbstfeuer/01-acer-palmatum-herbstfeuer-557511.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Herbstfeuer' Fast Growing Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-herbstfeuer",
+        "botanical_name": "Acer Circinatum 'Herbstfeuer'",
+        "common_name": "Herbstfeuer",
+        "description_text": "Acer palmatum ‘Herbstfeuer’ is a fast, upright growing Japanese maple with large, round leaves. In German, the name means Autumn fire and 'Herbstfeuer' certainly lives up to its name with its fiery red and orange colors in the fall. In spring, the large rounded leaves, held on red petioles, appear very light green with a white pubescence before turning dark green for summer. The growth habit is decidedly upright when young, becoming more rounded with age. Though listed as a palmatum there is some speculation that this may be a palmatum - circinatum cross. 10 Year size: Height: 10-12 Feet Width: 4-6 Feet Our 1 Gallon and 3 Gallon sizes are available for shipping and in store pickup. Our larger sizes (7 Gallon and bigger) are only available for in store pickup.",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Herbstfeuer",
+        "match_score": 371,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-herbstfeuer-557511.jpg?v=1658490651",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-herbstfeuer",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-circinatum-herbstfeuer/01-acer-palmatum-herbstfeuer-557511.jpg",
+          "bytes": 40882,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:36.047Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-circinatum-herbstfeuer/01-acer-palmatum-herbstfeuer-557511.jpg"
+      ]
+    }
+  }
 }

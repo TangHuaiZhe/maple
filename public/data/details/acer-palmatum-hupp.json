@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "哈博的红柳树 以新泽西州里弗顿的艾德伍德 ·哈博 的名字 命名， 1992年 由美国宾夕 法尼亚州红色枫树苗圃的迪克 ·沃尔夫推广。 是一款 非常经典的竹叶品种，由于其叶裂长且窄，和柳叶一样而得名 ，和红竹的表现相似。 春天新叶为亮红色，夏天变为褐红色 ，在遮阴情况下会变成 绿色，秋天为 明亮的 深红色 。它的名字曾被错误的拼成 \" Hu bb 's Red Willow \" 。 生长 强健，抗性佳，成年株 高 可达 3.5米左右。"
+    "preferred": "哈博的红柳树 以新泽西州里弗顿的艾德伍德 ·哈博 的名字 命名， 1992年 由美国宾夕 法尼亚州红色枫树苗圃的迪克 ·沃尔夫推广。 是一款 非常经典的竹叶品种，由于其叶裂长且窄，和柳叶一样而得名 ，和红竹的表现相似。 春天新叶为亮红色，夏天变为褐红色 ，在遮阴情况下会变成 绿色，秋天为 明亮的 深红色 。 它的名字曾被错误的拼成 \" Hu bb 's Red Willow \" 。 生长 强健，抗性佳，成年株 高 可达 3. 5米左右。"
   },
   "images": {
     "count": 8,
@@ -19,10 +19,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-hupp/01-Acer-palmatum-Hupps-Dwarf-Specimen-1692-1.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-hupp/01-Acer-palmatum-Hupps-Dwarf-Specimen-1692-1.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-hupp/01-Acer-palmatum-Hupps-Dwarf-Specimen-1692-1.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,7 +38,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "竹叶",
       "title": "哈博的红柳树 Acer Palmatum 'Hupp's Red Willow'",
-      "description": "哈博的红柳树 以新泽西州里弗顿的艾德伍德 ·哈博 的名字 命名， 1992年 由美国宾夕 法尼亚州红色枫树苗圃的迪克 ·沃尔夫推广。 是一款 非常经典的竹叶品种，由于其叶裂长且窄，和柳叶一样而得名 ，和红竹的表现相似。 春天新叶为亮红色，夏天变为褐红色 ，在遮阴情况下会变成 绿色，秋天为 明亮的 深红色 。它的名字曾被错误的拼成 \" Hu bb 's Red Willow \" 。 生长 强健，抗性佳，成年株 高 可达 3.5米左右。",
+      "description": "哈博的红柳树 以新泽西州里弗顿的艾德伍德 ·哈博 的名字 命名， 1992年 由美国宾夕 法尼亚州红色枫树苗圃的迪克 ·沃尔夫推广。 是一款 非常经典的竹叶品种，由于其叶裂长且窄，和柳叶一样而得名 ，和红竹的表现相似。 春天新叶为亮红色，夏天变为褐红色 ，在遮阴情况下会变成 绿色，秋天为 明亮的 深红色 。 它的名字曾被错误的拼成 \" Hu bb 's Red Willow \" 。 生长 强健，抗性佳，成年株 高 可达 3. 5米左右。",
       "image_count": 8
     },
     {
@@ -41,6 +46,15 @@
       "rhs_id": 307445,
       "detail_url": "https://www.rhs.org.uk/plants/307445/acer-palmatum-hupps-red-willow/details",
       "botanical_name": "Acer palmatum 'Hupp's Red Willow'",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Hupp’s Dwarf’ Specimen 1692",
+      "botanical_name": "Acer Palmatum 'Hupp'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-hupps-dwarf-specimen-1692/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -62,7 +76,7 @@
     "竹叶",
     "鸡爪槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -120,7 +134,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "哈博的红柳树 以新泽西州里弗顿的艾德伍德 ·哈博 的名字 命名， 1992年 由美国宾夕 法尼亚州红色枫树苗圃的迪克 ·沃尔夫推广。 是一款 非常经典的竹叶品种，由于其叶裂长且窄，和柳叶一样而得名 ，和红竹的表现相似。 春天新叶为亮红色，夏天变为褐红色 ，在遮阴情况下会变成 绿色，秋天为 明亮的 深红色 。它的名字曾被错误的拼成 \" Hu bb 's Red Willow \" 。 生长 强健，抗性佳，成年株 高 可达 3.5米左右。"
+    "preferred": "哈博的红柳树 以新泽西州里弗顿的艾德伍德 ·哈博 的名字 命名， 1992年 由美国宾夕 法尼亚州红色枫树苗圃的迪克 ·沃尔夫推广。 是一款 非常经典的竹叶品种，由于其叶裂长且窄，和柳叶一样而得名 ，和红竹的表现相似。 春天新叶为亮红色，夏天变为褐红色 ，在遮阴情况下会变成 绿色，秋天为 明亮的 深红色 。 它的名字曾被错误的拼成 \" Hu bb 's Red Willow \" 。 生长 强健，抗性佳，成年株 高 可达 3. 5米左右。"
   },
   "rhs_zh": {
     "growing_conditions": {
@@ -138,7 +152,49 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "一株小型落叶乔木，高约 3 米，树形呈花瓶状，整体姿态似柳。叶片细长，具轻微缺刻的 5 裂，叶色紫红，秋季转为火焰般的橙红色。"
+    "description": "一株小型落叶乔木，高约 3 米，树形呈花瓶状，整体姿态似柳。 叶片细长，具轻微缺刻的 5 裂，叶色紫红，秋季转为火焰般的橙红色。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-hupps-dwarf-specimen-1692/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hupp/01-Acer-palmatum-Hupps-Dwarf-Specimen-1692-1.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hupp/01-Acer-palmatum-Hupps-Dwarf-Specimen-1692-1.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Hupp’s Dwarf’ Specimen 1692",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-hupps-dwarf-specimen-1692/",
+        "botanical_name": "Acer Palmatum 'Hupp'",
+        "common_name": "Hupp",
+        "description_text": "Curled leaves are edged in beautiful orange-red color in spring. The majority of the foliage changes to a light-green color by mid-summer.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum hupp",
+        "match_score": 256
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2022/10/Acer-palmatum-Hupps-Dwarf-Specimen-1692-1.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-hupps-dwarf-specimen-1692/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hupp/01-Acer-palmatum-Hupps-Dwarf-Specimen-1692-1.jpg",
+          "bytes": 468542,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:12.449Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-hupp/01-Acer-palmatum-Hupps-Dwarf-Specimen-1692-1.jpg"
+      ]
+    }
+  }
 }

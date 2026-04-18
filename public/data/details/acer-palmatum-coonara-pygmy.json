@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "Dense and round, up to 5 ft. (1.5 m) tall and broad, this beautiful little bush has bright green leaves. The small leaves are fivelobed, each lobe broad-ovate and acuminate, with a sharp tip. The margins are toothed, sometimes bluntly so. The leaves turn a beautiful pastel yellow-orange-pink before changing to a Acer bright deep pink in the fall, perfectly matching Vertrees. PYGMY' the deep coral-pink shoots. 'Coonara Pygmy' forms a natural globe shape without much pruning, is vigorous without being unruly, and has attractive foliage in all seasons. It is also valuable as a bonsai plant. Otis."
+    "preferred": "Dense and round, up to 5 ft. (1. 5 m) tall and broad, this beautiful little bush has bright green leaves. The small leaves are fivelobed, each lobe broad-ovate and acuminate, with a sharp tip. The margins are toothed, sometimes bluntly so. The leaves turn a beautiful pastel yellow-orange-pink before changing to a Acer bright deep pink in the fall, perfectly matching Vertrees. PYGMY' the deep coral-pink shoots. 'Coonara Pygmy' forms a natural globe shape without much pruning, is vigorous without being unruly, and has attractive foliage in all seasons. It is also valuable as a bonsai plant. Otis."
   },
   "images": {
     "count": 0,
@@ -24,9 +24,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-coonara-pygmy/01-acer-palmatum-coonora-pygmy-226915.jpg",
+      "/jmac-images/acer-palmatum-coonara-pygmy/02-acer-palmatum-coonora-pygmy-195252.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-coonara-pygmy/02-acer-palmatum-coonora-pygmy-195252.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-coonara-pygmy/01-acer-palmatum-coonora-pygmy-226915.jpg",
+      "/jmac-images/acer-palmatum-coonara-pygmy/02-acer-palmatum-coonora-pygmy-195252.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -43,6 +50,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/83670/acer-palmatum-coonara-pygmy-(dw)/details",
       "botanical_name": "Acer palmatum 'Coonara Pygmy' (Dw)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Coonara pygmy' Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Coonara Pygmy'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-coonora-pygmy",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -57,7 +73,7 @@
     "Coonara Pygmy",
     "Japanese maple 'Coonara Pygmy'"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -74,7 +90,7 @@
     "cultivar_names": [
       "Coonara Pygmy"
     ],
-    "description": "Rounded, deciduous, dwarf bush about 1.5m in height and width, with a dense cover of 5-lobed bright green leaves, 2cm long and wide on old wood and 3-4cm long on new stems, turning colours of yellow-orange then deep pink in autumn. Inconspicuous red-purple flowers in spring may be followed by winged, red fruits",
+    "description": "Rounded, deciduous, dwarf bush about 1. 5m in height and width, with a dense cover of 5-lobed bright green leaves, 2cm long and wide on old wood and 3-4cm long on new stems, turning colours of yellow-orange then deep pink in autumn. Inconspicuous red-purple flowers in spring may be followed by winged, red fruits",
     "dimensions": {
       "height": "1-1.5 metres",
       "spread": "1-1.5 metres",
@@ -131,10 +147,67 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
     },
-    "description": "落叶性矮生灌木，株形圆整，高约 1.5 米、冠幅约 1.5 米，枝叶稠密。叶鲜绿色，5 裂，老枝上的叶长宽约 2 厘米，新梢上的叶长 3-4 厘米。秋季叶色先转黄橙色，随后变为深粉色。春季开不显眼的红紫色花，之后可能结带翅的红色果实。"
+    "description": "落叶性矮生灌木，株形圆整，高约 1. 5 米、冠幅约 1. 5 米，枝叶稠密。 叶鲜绿色，5 裂，老枝上的叶长宽约 2 厘米，新梢上的叶长 3-4 厘米。 秋季叶色先转黄橙色，随后变为深粉色。 春季开不显眼的红紫色花，之后可能结带翅的红色果实。"
   },
   "descriptions_zh": {
-    "preferred": "株形紧密圆整，高和冠幅均可达 5 英尺（1.5 米），是一种非常优美的小型灌木，叶片鲜绿色。小叶为五裂，裂片宽卵形并具渐尖先端，尖端锐利。叶缘具锯齿，有时较钝。叶片先转为柔和的粉彩黄、橙、粉色，入秋后再变为鲜亮的深粉色，与其深珊瑚粉色的新梢相得益彰，和 Vertrees 的描述一致。‘Coonara Pygmy’ 几乎无需修剪即可自然形成球形树冠，生长健旺而不紊乱，四季叶色均具观赏性，也很适合作盆景材料。Otis."
+    "preferred": "株形紧密圆整，高和冠幅均可达 5 英尺（1. 5 米），是一种非常优美的小型灌木，叶片鲜绿色。 小叶为五裂，裂片宽卵形并具渐尖先端，尖端锐利。 叶缘具锯齿，有时较钝。 叶片先转为柔和的粉彩黄、橙、粉色，入秋后再变为鲜亮的深粉色，与其深珊瑚粉色的新梢相得益彰，和 Vertrees 的描述一致。 ‘Coonara Pygmy’ 几乎无需修剪即可自然形成球形树冠，生长健旺而不紊乱，四季叶色均具观赏性，也很适合作盆景材料。 Otis."
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-coonora-pygmy",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-coonara-pygmy/01-acer-palmatum-coonora-pygmy-226915.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-coonara-pygmy/01-acer-palmatum-coonora-pygmy-226915.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-coonara-pygmy/02-acer-palmatum-coonora-pygmy-195252.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Coonara pygmy' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-coonora-pygmy",
+        "botanical_name": "Acer palmatum 'Coonara Pygmy'",
+        "common_name": "Coonara Pygmy",
+        "description_text": "The new green leaves appear brushed with pink and gold in early spring on this little witches broom from Australia. 'Coonara Pygmy' forms a very dense irregular shaped small shrub at maturity. Fall color is a nice blend of reds and yellows and very good for a dwarf. Great for rock gardens, bonsai or containers 10 Year Size: Height: 2-3 Feet Width: 3-4 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Coonara Pygmy",
+        "match_score": 362,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-coonora-pygmy-226915.jpg?v=1658490533",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-coonora-pygmy",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-coonara-pygmy/01-acer-palmatum-coonora-pygmy-226915.jpg",
+          "bytes": 66659,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:22:38.546Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-coonora-pygmy-195252.jpg?v=1658490533",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-coonora-pygmy",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-coonara-pygmy/02-acer-palmatum-coonora-pygmy-195252.jpg",
+          "bytes": 52777,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:22:39.401Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-coonara-pygmy/01-acer-palmatum-coonora-pygmy-226915.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-coonara-pygmy/02-acer-palmatum-coonora-pygmy-195252.jpg"
+      ]
+    }
+  }
 }

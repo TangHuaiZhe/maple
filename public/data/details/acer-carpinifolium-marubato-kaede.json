@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -109,7 +110,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "叶片鲜亮有光泽的绿色，中裂片明显较长，先端钝，外侧三分之一处具短而钝的侧裂片。秋色为明艳的橙红色。该品种耐寒性好，生长为直立、圆头状小乔木，高可达 30 英尺（9 米）。"
+    "preferred": "叶片鲜亮有光泽的绿色，中裂片明显较长，先端钝，外侧三分之一处具短而钝的侧裂片。 秋色为明艳的橙红色。 该品种耐寒性好，生长为直立、圆头状小乔木，高可达 30 英尺（9 米）。"
   },
   "has_mrmaple": false
 }

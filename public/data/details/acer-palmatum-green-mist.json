@@ -20,9 +20,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-green-mist/01-IMG-1312.heic",
+      "/jmac-images/acer-palmatum-green-mist/02-IMG-1313.heic"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-green-mist/02-IMG-1313.heic",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-green-mist/01-IMG-1312.heic",
+      "/jmac-images/acer-palmatum-green-mist/02-IMG-1313.heic"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -38,6 +45,15 @@
       "rhs_id": 124213,
       "detail_url": "https://www.rhs.org.uk/plants/124213/acer-palmatum-green-mist-(d)/details",
       "botanical_name": "Acer palmatum 'Green Mist' (D)",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Green Mist' Green Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Green Mist'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-mist",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -58,7 +74,7 @@
     "Greenmist",
     "Japanese maple 'Green Mist'"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -139,7 +155,64 @@
     "description": "一株小型落叶乔木，高约 2-3 米，枝态极为疏松下垂；层叠枝条上着生极细裂的 5 至 7 裂叶，春季展叶时为柔和的淡绿色，夏季转为稍深的绿色，秋季变为鲜亮的黄橙色。"
   },
   "descriptions_zh": {
-    "preferred": "其叶通常 5 至 7 裂，深裂，且各裂片本身又进一步羽状细裂，几乎达到中脉。叶缘具弓形伸展但较狭窄、先端尖锐的锯齿。植株形成紧凑而不规则的团状树形，枝条下垂。其命名与叶色有关。属红叶类。这个独特的半直立型品种，几乎可视为常绿叶品种 'Seiryu¯' 的红叶对应类型。春季叶色与 'Crimson' 类似，整个夏季都能较好保持这种紫红色，随后逐渐带上青铜色与绿色底调，秋季转为深猩红色。大叶深裂至基部，裂片本身也深度缺刻。叶缘具较粗但狭窄、细尖的锯齿。叶柄基部膨大。其深红色树皮十分美观，并覆有密集的纵向粉白色条纹。'Lion...' 为生长势强的小乔木，高可达 11-13 英尺（3.5-4 米）。与"
+    "preferred": "其叶通常 5 至 7 裂，深裂，且各裂片本身又进一步羽状细裂，几乎达到中脉。 叶缘具弓形伸展但较狭窄、先端尖锐的锯齿。 植株形成紧凑而不规则的团状树形，枝条下垂。 其命名与叶色有关。 属红叶类。 这个独特的半直立型品种，几乎可视为常绿叶品种 'Seiryu¯' 的红叶对应类型。 春季叶色与 'Crimson' 类似，整个夏季都能较好保持这种紫红色，随后逐渐带上青铜色与绿色底调，秋季转为深猩红色。 大叶深裂至基部，裂片本身也深度缺刻。 叶缘具较粗但狭窄、细尖的锯齿。 叶柄基部膨大。 其深红色树皮十分美观，并覆有密集的纵向粉白色条纹。 'Lion. ' 为生长势强的小乔木，高可达 11-13 英尺（3. 5-4 米）。 与"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-mist",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/01-IMG-1312.heic",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/01-IMG-1312.heic",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/02-IMG-1313.heic"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Green Mist' Green Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-mist",
+        "botanical_name": "Acer palmatum 'Green Mist'",
+        "common_name": "Green Mist",
+        "description_text": "Acer palmatum ‘Green Mist’ is one of the most beautiful and elegant of all the green lace leaf Japanese maple trees. It forms a graceful cascading tree with fine, delicate foliage that really looks like a cloud of green mist. Fall color is a vibrant orange. 10 Year Size: Height: 4-6 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Green Mist",
+        "match_score": 369,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1312.heic?v=1721162341",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-mist",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/01-IMG-1312.heic",
+          "bytes": 947572,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:32.730Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1313.heic?v=1721162342",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-mist",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/02-IMG-1313.heic",
+          "bytes": 971240,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:35.594Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/01-IMG-1312.heic",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/02-IMG-1313.heic"
+      ]
+    }
+  }
 }

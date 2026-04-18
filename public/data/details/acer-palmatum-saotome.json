@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This small-leaved cultivar forms a semidwarf bushshaped plant, maturing at 2.5-3 m tall. The leaves are a pale yellow green with a rather thin texture and a slight hint of rusty red on the extreme edges. They measure about 4 cm long and 4-5 cm across. Each leaf is divided three-quarters of the way to the leaf base into five lanceolate lobes which terminate in long, slender, sharp tips. The two basal lobes often have tiny spur lobes. The lobe edges bend slightly upwards, and the margins are irregularly toothed. The name 'Saotome' means \"rice-planting girl.\""
+    "preferred": "This small-leaved cultivar forms a semidwarf bushshaped plant, maturing at 2. 5-3 m tall. The leaves are a pale yellow green with a rather thin texture and a slight hint of rusty red on the extreme edges. They measure about 4 cm long and 4-5 cm across. Each leaf is divided three-quarters of the way to the leaf base into five lanceolate lobes which terminate in long, slender, sharp tips. The two basal lobes often have tiny spur lobes. The lobe edges bend slightly upwards, and the margins are irregularly toothed. The name 'Saotome' means \"rice-planting girl. \""
   },
   "images": {
     "count": 0,
@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/194998/acer-palmatum-sa-otome-(p)/details",
       "botanical_name": "Acer palmatum 'Sa-otome' (P)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Saotome' Green Japanese Maple",
+      "botanical_name": "Acer palmatum 'Saotome'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-saotome",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -57,7 +71,7 @@
     "Sa-otome",
     "Saotome"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -113,7 +127,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该小叶品种形成半矮性、灌木状株型，成熟时高约 2.5-3 米。叶片为淡黄绿色，质地较薄，最外缘略带一丝锈红色。叶长约 4 厘米，宽约 4-5 厘米。每片叶自叶基向上约四分之三处分裂为 5 枚披针形裂片，裂片先端细长而尖锐。两枚基部裂片常带有极小的副裂片。裂片边缘略向上卷，叶缘具不规则锯齿。'Saotome' 一名意为“插秧姑娘”。"
+    "preferred": "该小叶品种形成半矮性、灌木状株型，成熟时高约 2. 5-3 米。 叶片为淡黄绿色，质地较薄，最外缘略带一丝锈红色。 叶长约 4 厘米，宽约 4-5 厘米。 每片叶自叶基向上约四分之三处分裂为 5 枚披针形裂片，裂片先端细长而尖锐。 两枚基部裂片常带有极小的副裂片。 裂片边缘略向上卷，叶缘具不规则锯齿。 'Saotome' 一名意为“插秧姑娘”。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-saotome",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Saotome' Green Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-saotome",
+        "botanical_name": "Acer palmatum 'Saotome'",
+        "common_name": "Saotome",
+        "description_text": "Acer palmatum 'Saotome' is an upright growing Japanese maple tree with broad, green leaves. 'Saotome' is a vigorous grower with a decidedly upright habit. The broad, flat leaves emerge bright green in the spring and turn a darker green in the summer. Fall color is ranged from yellow to orange. 'Saotome' will develop into an elegant small to medium upright green Japanese maple tree. 10 Year Size: Height: 12-14 feet Width: 6-8 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Saotome",
+        "match_score": 367,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-saotome-394095.jpg?v=1665409070",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-saotome",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg",
+          "bytes": 160446,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:54.819Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg"
+      ]
+    }
+  }
 }

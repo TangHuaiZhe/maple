@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This lovely dwarf is the green equivalent of 'Beni hime', being similar in leaf shape and size and growth rate. New foliage is yellow, with bronzed edges and tips, before turning dark green. The yellow-bronze new growth overlying the dark green older foliage continues throughout the growing season. The small five-lobed leaves, 2-2.5 cm long and 2.5-3 cm wide, are divided up to two-thirds of the way to the leaf base. Each lobe is broadly ovate, irregular with triangular or bluntly pointed tip, and with toothed margins. As is typical of witches'-brooms, the center lobe is often truncated and occasionally absent. The leaves on Archives, Corvallis"
+    "preferred": "This lovely dwarf is the green equivalent of 'Beni hime', being similar in leaf shape and size and growth rate. New foliage is yellow, with bronzed edges and tips, before turning dark green. The yellow-bronze new growth overlying the dark green older foliage continues throughout the growing season. The small five-lobed leaves, 2-2. 5 cm long and 2. 5-3 cm wide, are divided up to two-thirds of the way to the leaf base. Each lobe is broadly ovate, irregular with triangular or bluntly pointed tip, and with toothed margins. As is typical of witches'-brooms, the center lobe is often truncated and occasionally absent. The leaves on Archives, Corvallis"
   },
   "images": {
     "count": 8,
@@ -24,9 +24,20 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
+      "/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.jpg",
+      "/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.jpg",
+      "/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
+      "/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.jpg",
+      "/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.jpg",
+      "/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.jpg"
+    ],
+    "public_count": 4
   },
   "sources": [
     {
@@ -37,7 +48,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "矮生",
       "title": "琴丸 Acer Palmatum 'Koto Maru'",
-      "description": "日系品种，意为 \" 圆形竖琴 \" ，最早于 1977 年日本出版的《盆栽世界》别册中出现记载，属于大红叶矮生品种。一般为 5 裂叶，叶裂深，每个叶裂都是宽阔的卵形，叶缘较平滑，无明显锯齿，叶小，中央小叶或前 3 小叶会出现缩指的现象，叶柄短，大约 1cm 。春天初芽时为嫩绿色或黄色并带有红棕色的爪斑，夏季叶色转绿，但是琴丸有非常强的分支能力以及二次稍的生长能力，二次稍为黄色小叶并有红色爪斑，形成二次观赏期，秋天为橙红色或者橙黄色。生长健壮，枝叶浓密，自然形成一个紧凑密集的球状，成年株可达 1.5m 左右高度。",
+      "description": "日系品种，意为 \" 圆形竖琴 \" ，最早于 1977 年日本出版的《盆栽世界》别册中出现记载，属于大红叶矮生品种。 一般为 5 裂叶，叶裂深，每个叶裂都是宽阔的卵形，叶缘较平滑，无明显锯齿，叶小，中央小叶或前 3 小叶会出现缩指的现象，叶柄短，大约 1cm 。 春天初芽时为嫩绿色或黄色并带有红棕色的爪斑，夏季叶色转绿，但是琴丸有非常强的分支能力以及二次稍的生长能力，二次稍为黄色小叶并有红色爪斑，形成二次观赏期，秋天为橙红色或者橙黄色。 生长健壮，枝叶浓密，自然形成一个紧凑密集的球状，成年株可达 1. 5m 左右高度。",
       "image_count": 8
     },
     {
@@ -53,6 +64,15 @@
       "rhs_id": 194990,
       "detail_url": "https://www.rhs.org.uk/plants/194990/acer-palmatum-koto-maru-(dw)/details",
       "botanical_name": "Acer palmatum 'Koto-maru' (Dw)",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Koto maru' Dwarf Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Koto Maru'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-maru",
+      "image_count": 4,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -78,7 +98,7 @@
     "矮生",
     "鸡爪槭"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -95,7 +115,7 @@
     "cultivar_names": [
       "Koto-maru"
     ],
-    "description": "A dense, compact, very slow-growing dwarf maple eventually about 1.5m tall, with small 5-lobed leaves, emerging yellow with bronze edges and tips in spring then becoming dark green, both colours continue through the growing season, turning yellow and orange in autumn",
+    "description": "A dense, compact, very slow-growing dwarf maple eventually about 1. 5m tall, with small 5-lobed leaves, emerging yellow with bronze edges and tips in spring then becoming dark green, both colours continue through the growing season, turning yellow and orange in autumn",
     "dimensions": {
       "height": "1-1.5 metres",
       "spread": "1-1.5 metres",
@@ -136,7 +156,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一可爱的矮生品种可视为 'Beni hime' 的绿色型，对应于其叶形、叶片大小和生长速度都十分相似。新叶为黄色，叶缘和叶尖带古铜色，随后转为深绿色。整个生长季中，黄铜色的新生叶覆盖在深绿色老叶之上，形成持续的色彩层次。叶片小，5 裂，长 2 至 2.5 厘米，宽 2.5 至 3 厘米，分裂深达叶基约三分之二。每个裂片宽卵形，形状不规则，先端呈三角形或钝尖，叶缘具锯齿。与典型丛枝变异品种一样，中裂片常为截形，偶尔缺失。"
+    "preferred": "这一可爱的矮生品种可视为 'Beni hime' 的绿色型，对应于其叶形、叶片大小和生长速度都十分相似。 新叶为黄色，叶缘和叶尖带古铜色，随后转为深绿色。 整个生长季中，黄铜色的新生叶覆盖在深绿色老叶之上，形成持续的色彩层次。 叶片小，5 裂，长 2 至 2. 5 厘米，宽 2. 5 至 3 厘米，分裂深达叶基约三分之二。 每个裂片宽卵形，形状不规则，先端呈三角形或钝尖，叶缘具锯齿。 与典型丛枝变异品种一样，中裂片常为截形，偶尔缺失。"
   },
   "rhs_zh": {
     "growing_conditions": {
@@ -155,7 +175,92 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "一种致密、紧凑、极慢生的矮生槭树，最终株高约 1.5 米。叶片较小，五裂，春季萌发时为黄色，叶缘和叶尖带铜色，随后转为深绿色；这两种色调在整个生长季都会持续显现，秋季转为黄色和橙色。"
+    "description": "一种致密、紧凑、极慢生的矮生槭树，最终株高约 1. 5 米。 叶片较小，五裂，春季萌发时为黄色，叶缘和叶尖带铜色，随后转为深绿色；这两种色调在整个生长季都会持续显现，秋季转为黄色和橙色。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-maru",
+    "matched_product_count": 1,
+    "local_file_count": 4,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Koto maru' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-maru",
+        "botanical_name": "Acer Palmatum 'Koto Maru'",
+        "common_name": "Koto maru",
+        "description_text": "Acer palmatum ‘Koto maru’ is a fast growing dwarf Japanese maple. ‘Koto maru’ has very small, rounded leaves that emerge in the spring yellow with a red-oranges border. The coloring of the leaves really puts on a show in the spring. The leaves then fade to a light green throughout the summer. Fall color is then orange to red. ‘Koto maru’ will have long shoots of new growth while it is young, but it will develop into a dense, shrubby tree at maturity. 10 Year Size: Height: 3-5 feet Width: 3-5 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Koto maru",
+        "match_score": 368,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-koto-maru-621722.jpg?v=1658490862",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-maru",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
+          "bytes": 433446,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:03.524Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-koto-maru-192983.jpg?v=1658490862",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-maru",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.jpg",
+          "bytes": 500886,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:05.001Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-koto-maru-dwarf-japanese-maple-935202.jpg?v=1712444343",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-maru",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.jpg",
+          "bytes": 212336,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:06.282Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 4,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-koto-maru-dwarf-japanese-maple-750243.jpg?v=1712444343",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-maru",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.jpg",
+          "bytes": 209952,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:07.771Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 4,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.jpg"
+      ]
+    }
+  }
 }

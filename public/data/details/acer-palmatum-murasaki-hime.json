@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -113,7 +114,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "顾名思义（murasaki 意为“紫色”，hime 意为“矮性”），该品种是一个紫叶矮生类型。植株内部受遮阴的叶片，紫色会转偏绿红色，因此同一株上的色调会有所变化。该品种看起来稍显娇弱，生长势也不强。其名称曾被误拼为 ‘Murasaka hime’。"
+    "preferred": "顾名思义（murasaki 意为“紫色”，hime 意为“矮性”），该品种是一个紫叶矮生类型。 植株内部受遮阴的叶片，紫色会转偏绿红色，因此同一株上的色调会有所变化。 该品种看起来稍显娇弱，生长势也不强。 其名称曾被误拼为 ‘Murasaka hime’。"
   },
   "has_mrmaple": false
 }

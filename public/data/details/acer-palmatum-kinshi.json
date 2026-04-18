@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This semidwarf strap-leaved cultivar comes from Japan. Its name, which means \"with golden threads,\" aptly describes the wonderful orange-yellow color of the leaves in the fall. The fiveor seven-lobed medium to dark green spicuously toothed. The slender green petioles vary in length from 1 to 4 cm. 'Kinshi' forms a tidy, compact, upright, semidwarf tree, attaining a height of 2.5 m. It would be at home in most garden landscapes whatever their size, and is perfectly suited for containers. The name has been misspelled"
+    "preferred": "This semidwarf strap-leaved cultivar comes from Japan. Its name, which means \"with golden threads,\" aptly describes the wonderful orange-yellow color of the leaves in the fall. The fiveor seven-lobed medium to dark green spicuously toothed. The slender green petioles vary in length from 1 to 4 cm. 'Kinshi' forms a tidy, compact, upright, semidwarf tree, attaining a height of 2. 5 m. It would be at home in most garden landscapes whatever their size, and is perfectly suited for containers. The name has been misspelled"
   },
   "images": {
     "count": 8,
@@ -48,6 +48,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-kinshi-golden-threads-japanese-maple/07-Acer_palmatum_Kinshi_Golden_Threads_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2060692.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-kinshi/01-acer_palmatum_Kinshi_AUTUMN_COLOUR_(JW)_9300.JPG",
@@ -84,7 +85,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "竹叶",
       "title": "金线 Acer Palmatum 'Kinshi'",
-      "description": "这种半矮化的细叶品种来自于日本，它的名字涵义是 \"带有金线\"，完美地展示了秋天 树叶美妙的橙黄色。 叶子为 5到7裂，叶裂深至基部，叶子非常的细且长。春天叶子是鲜亮的浅绿色，夏天绿色会加深，秋季叶子会变成明亮的橙色。它的名字曾被错误的拼成 \"Ginshi\"。 金线紧凑、直立、半矮化的特性，非常适合盆栽和庭院的装饰。成年树高约为 2到3米。",
+      "description": "这种半矮化的细叶品种来自于日本，它的名字涵义是 \"带有金线\"，完美地展示了秋天 树叶美妙的橙黄色。 叶子为 5到7裂，叶裂深至基部，叶子非常的细且长。 春天叶子是鲜亮的浅绿色，夏天绿色会加深，秋季叶子会变成明亮的橙色。 它的名字曾被错误的拼成 \"Ginshi\"。 金线紧凑、直立、半矮化的特性，非常适合盆栽和庭院的装饰。 成年树高约为 2到3米。",
       "image_count": 8
     },
     {
@@ -154,7 +155,7 @@
     "cultivar_names": [
       "Kinshi"
     ],
-    "description": "An upright, relatively compact cultivar; eventually growing to 2.5m tall. Slender, mid to dark green leaves with pointed tips are 6-9cm long, divided to the leaf base and have a bright, orange-yellow autumn colour",
+    "description": "An upright, relatively compact cultivar; eventually growing to 2. 5m tall. Slender, mid to dark green leaves with pointed tips are 6-9cm long, divided to the leaf base and have a bright, orange-yellow autumn colour",
     "dimensions": {
       "height": "1.5-2.5 metres",
       "spread": "1-1.5 metres",
@@ -266,7 +267,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是一个来自日本的半矮生细带叶品种。其名称意为“带金色丝线”，十分贴切地描述了其叶片在秋季呈现的美丽橙黄色。叶片中等至深绿色，具 5 或 7 个裂片，边缘有明显锯齿。细长的绿色叶柄长 1 至 4 厘米不等。'Kinshi' 形成整洁、紧凑、直立的半矮生小乔木，高可达 2.5 米。无论园地大小，都很适合应用于多数庭园景观中，也非常适合盆栽容器栽培。其名称曾被误拼作 'Ginshi'。"
+    "preferred": "这是一个来自日本的半矮生细带叶品种。 其名称意为“带金色丝线”，十分贴切地描述了其叶片在秋季呈现的美丽橙黄色。 叶片中等至深绿色，具 5 或 7 个裂片，边缘有明显锯齿。 细长的绿色叶柄长 1 至 4 厘米不等。 'Kinshi' 形成整洁、紧凑、直立的半矮生小乔木，高可达 2. 5 米。 无论园地大小，都很适合应用于多数庭园景观中，也非常适合盆栽容器栽培。 其名称曾被误拼作 'Ginshi'。"
   },
   "rhs_zh": {
     "growing_conditions": {
@@ -286,7 +287,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "直立、较紧凑的品种；最终可长至约 2.5 米高。叶片狭长，绿色至深绿色，先端尖，长 6 至 9 厘米，深裂至叶基；秋季叶色鲜亮，呈橙黄色。"
+    "description": "直立、较紧凑的品种；最终可长至约 2. 5 米高。 叶片狭长，绿色至深绿色，先端尖，长 6 至 9 厘米，深裂至叶基；秋季叶色鲜亮，呈橙黄色。"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -357,7 +358,7 @@
           "Use_Containers",
           "VDAYSALE26"
         ],
-        "description_text": "Acer palmatum 'Kinshi' Rare \"With Golden Threads\"Japanese Maple Zones 5-9 ‘Kinshi' is an excellent small tree with green thread-like foliage. The name translates as \"with golden threads\" which describes the excellent yellow to orange fall color that this small upright tree turns to in the fall. 'Kinshi' may reach 6-8 ft in 10 years. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent. The photos on this page without a MrMaple logo were taken by Talon Buchholz and cannot be used without expressed written consent from the owner.",
+        "description_text": "Acer palmatum 'Kinshi' Rare \"With Golden Threads\"Japanese Maple Zones 5-9 ‘Kinshi' is an excellent small tree with green thread-like foliage. The name translates as \"with golden threads\" which describes the excellent yellow to orange fall color that this small upright tree turns to in the fall. 'Kinshi' may reach 6-8 ft in 10 years.",
         "published_at": "2025-11-28T15:00:19-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

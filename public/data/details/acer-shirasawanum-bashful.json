@@ -19,10 +19,17 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-shirasawanum-bashful/01-Acer-shirasawanum-Bashful-Specimen-1098-2.jpg",
+      "/coniferkingdom-images/acer-shirasawanum-bashful/02-8-globose-spreader_2nd.png"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-shirasawanum-bashful/01-Acer-shirasawanum-Bashful-Specimen-1098-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-shirasawanum-bashful/01-Acer-shirasawanum-Bashful-Specimen-1098-2.jpg",
+      "/coniferkingdom-images/acer-shirasawanum-bashful/02-8-globose-spreader_2nd.png"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -35,6 +42,15 @@
       "title": "腼腆Acer shirasawanum 'Bashful'",
       "description": "",
       "image_count": 8
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer shirasawanum ‘Bashful’ Specimen 1098",
+      "botanical_name": "Acer shirasawanum 'Bashful'",
+      "detail_url": "https://www.coniferkingdom.com/acer-shirasawanum-bashful-specimen-1098/",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -51,13 +67,69 @@
     "腼腆",
     "腼腆Acer shirasawanum 'Bashful'"
   ],
-  "source_count": 1,
+  "source_count": 2,
   "has_web": true,
   "has_book": false,
   "has_rhs": false,
   "rhs": null,
   "has_mrmaple": false,
   "descriptions_zh": {
-    "preferred": "白泽槭品种。春季新叶明亮黄绿色，并常带柔和的橙红晕染；入夏后转为清新的绿色，秋季再变为橙红色。株形较紧凑，适合小庭院与容器栽培。"
+    "preferred": "白泽槭品种。 春季新叶明亮黄绿色，并常带柔和的橙红晕染；入夏后转为清新的绿色，秋季再变为橙红色。 株形较紧凑，适合小庭院与容器栽培。"
+  },
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-shirasawanum-bashful-specimen-1098/",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-bashful/01-Acer-shirasawanum-Bashful-Specimen-1098-2.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-bashful/01-Acer-shirasawanum-Bashful-Specimen-1098-2.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-bashful/02-8-globose-spreader_2nd.png"
+    ],
+    "products": [
+      {
+        "name": "Acer shirasawanum ‘Bashful’ Specimen 1098",
+        "product_url": "https://www.coniferkingdom.com/acer-shirasawanum-bashful-specimen-1098/",
+        "botanical_name": "Acer shirasawanum 'Bashful'",
+        "common_name": "Bashful",
+        "description_text": "This cute, dwarf maple has dainty leaves with good coloration year-round. In spring, they have an orange-and-pink color with an apricot-tinged green in summer.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer shirasawanum bashful",
+        "match_score": 263
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/02/Acer-shirasawanum-Bashful-Specimen-1098-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-shirasawanum-bashful-specimen-1098/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-bashful/01-Acer-shirasawanum-Bashful-Specimen-1098-2.jpg",
+          "bytes": 743037,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:24:48.835Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://www.coniferkingdom.com/wp-content/uploads/2021/02/8-globose-spreader_2nd.png",
+          "source_page_url": "https://www.coniferkingdom.com/acer-shirasawanum-bashful-specimen-1098/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-bashful/02-8-globose-spreader_2nd.png",
+          "bytes": 13082,
+          "content_type": "image/png",
+          "downloaded_at": "2026-04-18T03:24:49.281Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-bashful/01-Acer-shirasawanum-Bashful-Specimen-1098-2.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-bashful/02-8-globose-spreader_2nd.png"
+      ]
+    }
   }
 }

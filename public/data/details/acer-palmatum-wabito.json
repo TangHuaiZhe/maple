@@ -16,7 +16,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "These very unusual leaves have three or five lobes, each a slightly different shape. When the leaf is three lobed, the two rudimentary lobes remain only as tiny spurs at the leaf base. The leaves vary from 3 to 5 cm long and wide. The lobes, separated almost to the leaf base, are shallowly or deeply toothed. These lobes are smooth or serrated, flat or twisted, slender or broad, short or elongate, or any combination of these. The pattern varies from one side of the lobe to the other, as well as between lobes and leaves. The total effect is a pleasing tattered appearance. The petioles are 1-1.5 cm long. The basic color is green. However, the margins are strongly edged with rose or rusty red, especially on new ago as 1710. The name 'Wabito' means \"lonely person\" and has been spelled"
+    "preferred": "These very unusual leaves have three or five lobes, each a slightly different shape. When the leaf is three lobed, the two rudimentary lobes remain only as tiny spurs at the leaf base. The leaves vary from 3 to 5 cm long and wide. The lobes, separated almost to the leaf base, are shallowly or deeply toothed. These lobes are smooth or serrated, flat or twisted, slender or broad, short or elongate, or any combination of these. The pattern varies from one side of the lobe to the other, as well as between lobes and leaves. The total effect is a pleasing tattered appearance. The petioles are 1-1. 5 cm long. The basic color is green. However, the margins are strongly edged with rose or rusty red, especially on new ago as 1710. The name 'Wabito' means \"lonely person\" and has been spelled"
   },
   "images": {
     "count": 0,
@@ -25,9 +25,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-wabito/01-acer-palmatum-wabito-317082.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-wabito/01-acer-palmatum-wabito-317082.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-wabito/01-acer-palmatum-wabito-317082.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -52,6 +57,15 @@
       "group": "matsumurae",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Wabito' Feather Leaf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Wabito'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-wabito",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -64,7 +78,7 @@
     "Acer palmatum 'Wabito' (P)",
     "Wabito"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -87,9 +101,52 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "这种叶片极为不同寻常，具 3 裂或 5 裂，各裂片形状略有差异。当叶为 3 裂时，其余两个退化裂片仅表现为叶基部的小突起。叶片长宽均为 3-5 厘米。裂片彼此分离几乎达叶基，边缘可为浅齿或深齿。这些裂片可以是平滑或具锯齿、平展或扭曲、狭长或宽阔、短或延长，或兼具上述多种特征。同一裂片两侧的形态就可能不同，不同裂片及不同叶片之间的差异也很明显，整体呈现出一种悦目的破碎感。叶柄长 1-1.5 厘米。基本叶色为绿色，但叶缘强烈镶有玫瑰色或锈红色，尤以新叶最为明显。该品种早在 1710 年前后即有记载。名称 'Wabito' 意为“孤独的人”，过去也曾拼作 'Wabibito'。"
+    "preferred": "这种叶片极为不同寻常，具 3 裂或 5 裂，各裂片形状略有差异。 当叶为 3 裂时，其余两个退化裂片仅表现为叶基部的小突起。 叶片长宽均为 3-5 厘米。 裂片彼此分离几乎达叶基，边缘可为浅齿或深齿。 这些裂片可以是平滑或具锯齿、平展或扭曲、狭长或宽阔、短或延长，或兼具上述多种特征。 同一裂片两侧的形态就可能不同，不同裂片及不同叶片之间的差异也很明显，整体呈现出一种悦目的破碎感。 叶柄长 1-1. 5 厘米。 基本叶色为绿色，但叶缘强烈镶有玫瑰色或锈红色，尤以新叶最为明显。 该品种早在 1710 年前后即有记载。 名称 'Wabito' 意为“孤独的人”，过去也曾拼作 'Wabibito'。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-wabito",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-wabito/01-acer-palmatum-wabito-317082.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-wabito/01-acer-palmatum-wabito-317082.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Wabito' Feather Leaf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-wabito",
+        "botanical_name": "Acer palmatum 'Wabito'",
+        "common_name": "Wabito",
+        "description_text": "Acer palmatum 'Wabito' is a cool little tree with very odd shaped leaves with dissected lobes that are separated all the way to the petiole. Some lobes are so dissected that it looks like the lobes have lobes. Emerging light almost yellow green in spring the foliage turns dark green by summer. Fall color is red,The Japanese name means lonely person. 10 Year Size: Height: 6-8 Feet Width: 5-7 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Wabito",
+        "match_score": 366,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-wabito-317082.jpg?v=1658490890",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-wabito",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-wabito/01-acer-palmatum-wabito-317082.jpg",
+          "bytes": 45626,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:25:16.545Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-wabito/01-acer-palmatum-wabito-317082.jpg"
+      ]
+    }
+  }
 }

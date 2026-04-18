@@ -16,7 +16,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "Photo by J. D. Vertrees. This maple forms a wide-spreading tree up to ft. (4 m) tall. The name means \"my papa.\" Group—red. The excellent purpleto black-red color is almost opalescent. Difsun gives it a faint blue overtone similar to of 'Nuresagi'. The good deep colors last very throughout summer. Fall color is a delightful The large deeply divided leaves have Otis. elongate-ovate lobes, gradually tapering to fine 'Murasaki points and with finely toothed margins. The red Dwarf leafstalks are short. This cultivar assumes an upfive-lobed right, rounded canopy, reaching about 23 ft. (7 Each m) tall. It is very worthwhile for the landscape. elongated, The durable, long-lasting season of color rivals prominent. that of the well-known"
+    "preferred": "Photo by J. D. Vertrees. This maple forms a wide-spreading tree up to ft. (4 m) tall. The name means \"my papa. \" Group—red. The excellent purpleto black-red color is almost opalescent. Difsun gives it a faint blue overtone similar to of 'Nuresagi'. The good deep colors last very throughout summer. Fall color is a delightful The large deeply divided leaves have Otis. elongate-ovate lobes, gradually tapering to fine 'Murasaki points and with finely toothed margins. The red Dwarf leafstalks are short. This cultivar assumes an upfive-lobed right, rounded canopy, reaching about 23 ft. (7 Each m) tall. It is very worthwhile for the landscape. elongated, The durable, long-lasting season of color rivals prominent. that of the well-known"
   },
   "images": {
     "count": 0,
@@ -41,6 +41,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-moonfire-momiji_kaede/01-MAR0029937_11438.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-moonfire/01-MAR0029937_11438.jpg",
@@ -236,10 +237,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "直立性灌木或小乔木，高和冠幅可达 4 米，随树龄增长株形渐呈圆整。叶片 5 至 7 裂，颜色为深红紫色，秋季转为鲜亮的深红色。春季开小型红花，随后结红色具翅的秋季果实。"
+    "description": "直立性灌木或小乔木，高和冠幅可达 4 米，随树龄增长株形渐呈圆整。 叶片 5 至 7 裂，颜色为深红紫色，秋季转为鲜亮的深红色。 春季开小型红花，随后结红色具翅的秋季果实。"
   },
   "descriptions_zh": {
-    "preferred": "原文这一段存在严重 OCR 混乱，混杂了多个品种的条目与说明，无法在不臆测的前提下完整还原。可辨识内容大致如下：照片由 J. D. Vertrees 提供。其中一处描述提到某枫树可形成开展较宽的树形，高约 4 米，名称意为“my papa”。另一处描述为红叶类群品种，叶色优良，呈紫红至近黑红色，在一定光线下带微弱蓝色光泽，类似 ‘Nuresagi’，深色可在夏季维持较久，秋色鲜丽；叶片较大、深裂，裂片长卵形，渐尖，叶缘细锯齿，红色叶柄较短，树冠直立圆整，高约 23 英尺（7 米），园林应用价值高，季相色彩持久，可与著名的 ‘Bloodgood’ 媲美。另有一段应为 ‘Murakumo’：中等大小叶，通常七裂且深裂，裂片卵状长椭圆形，中部较宽，先端强尖，叶缘细锯齿；春叶近深红色，很快转为优良的深紫红色，秋色为深红；植株直立，较耐寒，成熟时高约 20 英尺（6 米），因能将红叶保持到夏末而适合园林种植，其名称可能意为“云簇”或“云中村落”，有时也拼作 ‘Muragumo’。后文还能辨识出 ‘Murasaki hime’ 与 ‘Mure hibari’ 两个品种名，但对应描述内容残缺、错乱较重，无法可靠逐句复原。"
+    "preferred": "原文这一段存在严重 OCR 混乱，混杂了多个品种的条目与说明，无法在不臆测的前提下完整还原。 可辨识内容大致如下：照片由 J. D. Vertrees 提供。 其中一处描述提到某枫树可形成开展较宽的树形，高约 4 米，名称意为“my papa”。 另一处描述为红叶类群品种，叶色优良，呈紫红至近黑红色，在一定光线下带微弱蓝色光泽，类似 ‘Nuresagi’，深色可在夏季维持较久，秋色鲜丽；叶片较大、深裂，裂片长卵形，渐尖，叶缘细锯齿，红色叶柄较短，树冠直立圆整，高约 23 英尺（7 米），园林应用价值高，季相色彩持久，可与著名的 ‘Bloodgood’ 媲美。 另有一段应为 ‘Murakumo’：中等大小叶，通常七裂且深裂，裂片卵状长椭圆形，中部较宽，先端强尖，叶缘细锯齿；春叶近深红色，很快转为优良的深紫红色，秋色为深红；植株直立，较耐寒，成熟时高约 20 英尺（6 米），因能将红叶保持到夏末而适合园林种植，其名称可能意为“云簇”或“云中村落”，有时也拼作 ‘Muragumo’。 后文还能辨识出 ‘Murasaki hime’ 与 ‘Mure hibari’ 两个品种名，但对应描述内容残缺、错乱较重，无法可靠逐句复原。"
   },
   "has_mrmaple": true,
   "mrmaple": {

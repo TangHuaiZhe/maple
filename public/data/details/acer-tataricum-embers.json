@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -107,7 +108,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是一种生长较快、树冠开展的乔木，高可达 19 英尺（6 米），冠幅约 13 英尺（4 米）。其春季色彩鲜艳醒目，叶色带勃艮第红调，并可见成串红色果实从有光泽的绿色叶片间伸出。适合作为优良的孤植观赏树或庭园树。"
+    "preferred": "这是一种生长较快、树冠开展的乔木，高可达 19 英尺（6 米），冠幅约 13 英尺（4 米）。 其春季色彩鲜艳醒目，叶色带勃艮第红调，并可见成串红色果实从有光泽的绿色叶片间伸出。 适合作为优良的孤植观赏树或庭园树。"
   },
   "has_mrmaple": false
 }

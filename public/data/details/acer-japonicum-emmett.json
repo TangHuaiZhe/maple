@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "这是一款以形状和颜色而命名的枫树，这种大叶羽团扇 在秋天会展现令人惊叹的色彩。成年树高约 3-4 米。春 天淡绿色的叶子上边缘会呈现红橙色。随着夏季的开始， 叶子的颜色变成了绿色。在秋天巨大叶子变成了深橙色 并闪烁着红色，让每个人都知道秋季已经到来。成年树 高约 4-5 米。"
+    "preferred": "这是一款以形状和颜色而命名的枫树，这种大叶羽团扇 在秋天会展现令人惊叹的色彩。 成年树高约 3-4 米。 春 天淡绿色的叶子上边缘会呈现红橙色。 随着夏季的开始， 叶子的颜色变成了绿色。 在秋天巨大叶子变成了深橙色 并闪烁着红色，让每个人都知道秋季已经到来。 成年树 高约 4-5 米。"
   },
   "images": {
     "count": 7,
@@ -20,9 +20,18 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-japonicum-emmett/01-acer-japonicum-emmetts-pumpkin-741243.jpg",
+      "/jmac-images/acer-japonicum-emmett/02-acer-japonicum-emmetts-pumpkin-968472.jpg",
+      "/jmac-images/acer-japonicum-emmett/03-acer-japonicum-emmetts-pumpkin-865397.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-japonicum-emmett/03-acer-japonicum-emmetts-pumpkin-865397.jpg",
+    "public_paths": [
+      "/jmac-images/acer-japonicum-emmett/01-acer-japonicum-emmetts-pumpkin-741243.jpg",
+      "/jmac-images/acer-japonicum-emmett/02-acer-japonicum-emmetts-pumpkin-968472.jpg",
+      "/jmac-images/acer-japonicum-emmett/03-acer-japonicum-emmetts-pumpkin-865397.jpg"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -33,8 +42,17 @@
       "top_group_name": "羽扇槭",
       "second_group_name": "大叶羽团扇",
       "title": "南瓜灯 Acer Japonicum 'Emmett's Pumpkin'",
-      "description": "这是一款以形状和颜色而命名的枫树，这种大叶羽团扇 在秋天会展现令人惊叹的色彩。成年树高约 3-4 米。春 天淡绿色的叶子上边缘会呈现红橙色。随着夏季的开始， 叶子的颜色变成了绿色。在秋天巨大叶子变成了深橙色 并闪烁着红色，让每个人都知道秋季已经到来。成年树 高约 4-5 米。",
+      "description": "这是一款以形状和颜色而命名的枫树，这种大叶羽团扇 在秋天会展现令人惊叹的色彩。 成年树高约 3-4 米。 春 天淡绿色的叶子上边缘会呈现红橙色。 随着夏季的开始， 叶子的颜色变成了绿色。 在秋天巨大叶子变成了深橙色 并闪烁着红色，让每个人都知道秋季已经到来。 成年树 高约 4-5 米。",
       "image_count": 7
+    },
+    {
+      "source": "jmac",
+      "name": "Acer japonicum 'Emmett's Pumpkin' Full Moon Japanese Maple",
+      "botanical_name": "Acer Japonicum 'Emmett'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-japonicum-emmetts-pumpkin",
+      "image_count": 3,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -51,13 +69,84 @@
     "大叶羽团扇",
     "羽扇槭"
   ],
-  "source_count": 1,
+  "source_count": 2,
   "has_web": true,
   "has_book": false,
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "这是一款以形状和颜色而命名的枫树，这种大叶羽团扇 在秋天会展现令人惊叹的色彩。成年树高约 3-4 米。春 天淡绿色的叶子上边缘会呈现红橙色。随着夏季的开始， 叶子的颜色变成了绿色。在秋天巨大叶子变成了深橙色 并闪烁着红色，让每个人都知道秋季已经到来。成年树 高约 4-5 米。"
+    "preferred": "这是一款以形状和颜色而命名的枫树，这种大叶羽团扇 在秋天会展现令人惊叹的色彩。 成年树高约 3-4 米。 春 天淡绿色的叶子上边缘会呈现红橙色。 随着夏季的开始， 叶子的颜色变成了绿色。 在秋天巨大叶子变成了深橙色 并闪烁着红色，让每个人都知道秋季已经到来。 成年树 高约 4-5 米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-japonicum-emmetts-pumpkin",
+    "matched_product_count": 1,
+    "local_file_count": 3,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-emmett/01-acer-japonicum-emmetts-pumpkin-741243.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-emmett/01-acer-japonicum-emmetts-pumpkin-741243.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-emmett/02-acer-japonicum-emmetts-pumpkin-968472.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-emmett/03-acer-japonicum-emmetts-pumpkin-865397.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer japonicum 'Emmett's Pumpkin' Full Moon Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-japonicum-emmetts-pumpkin",
+        "botanical_name": "Acer Japonicum 'Emmett'",
+        "common_name": "Emmett",
+        "description_text": "‘Emmett’s Pumpkin’ has some of the largest leaves of any Japanese Maple. New leaves in spring emerge yellow green with a bronze overlay. Later the bronze fades leaving the foliage light to medium green for summer. As the temperature cools, 'Emmett's Pumpkin' turns varying shades of orange and red. The combination of leaf shape and Fall color make 'Emmett's Pumpkin' one of the most aptly named Japanese Maple varieties there is. 10 Year Size: Height: 8-10 Feet Width: 5-7 Feet Spring Color: Yellow-Green Summer Color: Green Fall Color: Orange and Red Sun Tolerance: Partial Shade Planting: Elevated, Well Drained Soil",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Emmett",
+        "match_score": 366,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-japonicum-emmetts-pumpkin-741243.jpg?v=1658490545",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-japonicum-emmetts-pumpkin",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-emmett/01-acer-japonicum-emmetts-pumpkin-741243.jpg",
+          "bytes": 57197,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:04.840Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-japonicum-emmetts-pumpkin-968472.jpg?v=1658490545",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-japonicum-emmetts-pumpkin",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-emmett/02-acer-japonicum-emmetts-pumpkin-968472.jpg",
+          "bytes": 74939,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:05.714Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-japonicum-emmetts-pumpkin-865397.jpg?v=1658490545",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-japonicum-emmetts-pumpkin",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-emmett/03-acer-japonicum-emmetts-pumpkin-865397.jpg",
+          "bytes": 431966,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:07.147Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 3,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-emmett/01-acer-japonicum-emmetts-pumpkin-741243.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-emmett/02-acer-japonicum-emmetts-pumpkin-968472.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-emmett/03-acer-japonicum-emmetts-pumpkin-865397.jpg"
+      ]
+    }
+  }
 }

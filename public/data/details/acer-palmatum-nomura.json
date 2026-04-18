@@ -23,10 +23,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/204375/acer-palmatum-nomura/details",
       "botanical_name": "Acer palmatum 'Nomura'",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Shojo nomura’ Japanese Maple",
+      "botanical_name": "Acer palmatum 'Nomura'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-shojo-nomura-japanese-maple/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -54,7 +68,7 @@
     "Acer palmatum 'Nomura'",
     "Nomura"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -110,7 +124,49 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这个古老的深紫红叶品种很可能是从 Acer palmatum f. atropurpureum 中选出的一个类型。它在整个生长季的叶片大小与色泽上都与 'Musashino' 十分相似，包括新叶上较浅色的柔毛，以及生长势、植株大小和树形习性。在本书第一版中，'Nomura' 曾被作为 'Musashino' 的异名处理；而在《Maples of the World》中，'Musashino' 又被作为 'Nomura' 的异名处理。不过，'Nomura' 的叶片似乎主要为 5 裂而非 7 裂，裂片略宽，呈卵形，分裂程度也较浅。若干品种如 'Beni kagami' 和"
+    "preferred": "这个古老的深紫红叶品种很可能是从 Acer palmatum f. atropurpureum 中选出的一个类型。 它在整个生长季的叶片大小与色泽上都与 'Musashino' 十分相似，包括新叶上较浅色的柔毛，以及生长势、植株大小和树形习性。 在本书第一版中，'Nomura' 曾被作为 'Musashino' 的异名处理；而在《Maples of the World》中，'Musashino' 又被作为 'Nomura' 的异名处理。 不过，'Nomura' 的叶片似乎主要为 5 裂而非 7 裂，裂片略宽，呈卵形，分裂程度也较浅。 若干品种如 'Beni kagami' 和"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-shojo-nomura-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Shojo nomura’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-shojo-nomura-japanese-maple/",
+        "botanical_name": "Acer palmatum 'Nomura'",
+        "common_name": "Nomura",
+        "description_text": "Discover the stunning beauty of Acer Palmatum 'Shojo Nomura' Japanese Maple. Explore our wide selection of exquisite plants and enhance your garden today!",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "nomura",
+        "match_score": 246
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2023/06/Acer_palmatum_Shojo_nomura-2__85083.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-shojo-nomura-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg",
+          "bytes": 122211,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:46.716Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-nomura/01-Acer_palmatum_Shojo_nomura-2__85083.jpg"
+      ]
+    }
+  }
 }

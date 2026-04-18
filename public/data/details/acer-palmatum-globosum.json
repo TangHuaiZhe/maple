@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "As the name implies this green dwarf forms a round ball. The thick brown shoots have very short internodes so the fully grown tree is no taller than 1.5 m and about as wide. The typically palmate five-lobed, sometimes sevenlobed, green leaves are up to 7 cm long and 7-8 cm wide, and are divided at least two-thirds of the way to the leaf base. The broad lobes are angled downwards and outward. Each lobe is ovate-triangular with a tail-like tip, 15 mm wide at the broadest point in the lower third, narrowing to 6-10 mm at the lobe junctions. The large angular double teeth uniformly arranged around the margins give the leaves an attractive feathery look. The leaves are the same shape and color as those of"
+    "preferred": "As the name implies this green dwarf forms a round ball. The thick brown shoots have very short internodes so the fully grown tree is no taller than 1. 5 m and about as wide. The typically palmate five-lobed, sometimes sevenlobed, green leaves are up to 7 cm long and 7-8 cm wide, and are divided at least two-thirds of the way to the leaf base. The broad lobes are angled downwards and outward. Each lobe is ovate-triangular with a tail-like tip, 15 mm wide at the broadest point in the lower third, narrowing to 6-10 mm at the lobe junctions. The large angular double teeth uniformly arranged around the margins give the leaves an attractive feathery look. The leaves are the same shape and color as those of"
   },
   "images": {
     "count": 0,
@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -111,7 +112,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "顾名思义，这个绿色矮生品种会形成圆球状树形。其粗壮的褐色新梢节间极短，因此成株通常不高于 1.5 米，冠幅也大致相当。叶片典型为掌状 5 裂，偶有 7 裂，绿色，长可达 7 厘米、宽 7-8 厘米，至少裂至叶基的三分之二处。较宽的裂片向下并向外开展。每一裂片呈卵状三角形，先端具尾状尖，裂片下部最宽处约 15 毫米，在裂片连接处收窄至 6-10 毫米。叶缘整齐分布的大型角状重锯齿，使叶片呈现颇具观赏性的羽毛状质感。其叶形与叶色与 'O|jishi' 相同，秋季转黄。一般认为 'Globosum' 与之有关。该品种还具有与 'Ho\\gyoku' 相同、极为出色的深黄橙色秋叶，叶形相似但更小。夏叶为中绿色。不过其生长习性恰好相反，冠幅约为株高的 1.5 倍，即宽约 4.5 米、高约 3 米，更接近"
+    "preferred": "顾名思义，这个绿色矮生品种会形成圆球状树形。 其粗壮的褐色新梢节间极短，因此成株通常不高于 1. 5 米，冠幅也大致相当。 叶片典型为掌状 5 裂，偶有 7 裂，绿色，长可达 7 厘米、宽 7-8 厘米，至少裂至叶基的三分之二处。 较宽的裂片向下并向外开展。 每一裂片呈卵状三角形，先端具尾状尖，裂片下部最宽处约 15 毫米，在裂片连接处收窄至 6-10 毫米。 叶缘整齐分布的大型角状重锯齿，使叶片呈现颇具观赏性的羽毛状质感。 其叶形与叶色与 'O|jishi' 相同，秋季转黄。 一般认为 'Globosum' 与之有关。 该品种还具有与 'Ho\\gyoku' 相同、极为出色的深黄橙色秋叶，叶形相似但更小。 夏叶为中绿色。 不过其生长习性恰好相反，冠幅约为株高的 1. 5 倍，即宽约 4. 5 米、高约 3 米，更接近"
   },
   "has_mrmaple": false
 }

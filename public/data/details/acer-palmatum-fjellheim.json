@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This plant arose from a witches'-broom growing on the ever-popular 'Sango kaku' and discovered by the late Ilo Sorenson from the Blue Mountains near Sydney, Australia. It has retained all the characteristics of its famous parent—the beautiful coral-red shoots and the five-lobed palmatum-type leaf shape, size, and coloring. The notable difference is that 'Fjellheim' is much bushier and shorter. Although in young plants, vigorous shoots may extend to 1.5 m, growth slows down with age. Hence, 'Fjellheim' forms a much more compact bush than"
+    "preferred": "This plant arose from a witches'-broom growing on the ever-popular 'Sango kaku' and discovered by the late Ilo Sorenson from the Blue Mountains near Sydney, Australia. It has retained all the characteristics of its famous parent—the beautiful coral-red shoots and the five-lobed palmatum-type leaf shape, size, and coloring. The notable difference is that 'Fjellheim' is much bushier and shorter. Although in young plants, vigorous shoots may extend to 1. 5 m, growth slows down with age. Hence, 'Fjellheim' forms a much more compact bush than"
   },
   "images": {
     "count": 0,
@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/196218/acer-palmatum-fjellheim-(p)/details",
       "botanical_name": "Acer palmatum 'Fjellheim' (P)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Fjellheim' Coral Bark Japanese Maple",
+      "botanical_name": "Acer palmatum 'Fjellheim'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-fjellheim-coral-bark-japanese-maple",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -55,7 +69,7 @@
     "Acer palmatum 'Fjellheim' (P)",
     "Fjellheim"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -111,7 +125,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该植株来源于一枝生长在广受欢迎的 ‘Sango kaku’ 上的丛生变异枝（witches'-broom），由已故的 Ilo Sorenson 在澳大利亚悉尼附近的 Blue Mountains 发现。它保留了其著名亲本的全部特征，包括美丽的珊瑚红色新枝，以及掌叶型 5 裂叶的叶形、大小和色泽。显著区别在于，‘Fjellheim’ 的分枝更密，株形更矮。虽然幼株上的强旺新梢可延伸至 1.5 米，但随着植株老熟，生长速度会减缓。因此，‘Fjellheim’ 形成的灌木比 ‘Sango kaku’ 更为紧凑。这也是它曾以不合法名称 ‘Sango kaku Dwarf’ 流通的原因。凭借其醒目的枝干色彩、优美的春秋叶色以及紧凑株形，这一引种非常适合小庭园及容器栽培。其春末至初夏叶色使这株槭树显得颇为不同。叶片的绿色调随夏季推进而逐渐加深。秋色通常为良好的黄色，偶尔带橙色。叶片质地佳，耐观赏。叶片通常有 7 裂，有时为 5 裂，深裂直达叶基。每个裂片本身边缘又有缺刻和锯齿。不过，单个裂片并不像大多数典型羽裂类那样深度羽状裂开。叶片长宽均可达 10 厘米。植株生长非常强健，具 Dissectum Group 典型的下垂习性。它适合用于 Corvallis"
+    "preferred": "该植株来源于一枝生长在广受欢迎的 ‘Sango kaku’ 上的丛生变异枝（witches'-broom），由已故的 Ilo Sorenson 在澳大利亚悉尼附近的 Blue Mountains 发现。 它保留了其著名亲本的全部特征，包括美丽的珊瑚红色新枝，以及掌叶型 5 裂叶的叶形、大小和色泽。 显著区别在于，‘Fjellheim’ 的分枝更密，株形更矮。 虽然幼株上的强旺新梢可延伸至 1. 5 米，但随着植株老熟，生长速度会减缓。 因此，‘Fjellheim’ 形成的灌木比 ‘Sango kaku’ 更为紧凑。 这也是它曾以不合法名称 ‘Sango kaku Dwarf’ 流通的原因。 凭借其醒目的枝干色彩、优美的春秋叶色以及紧凑株形，这一引种非常适合小庭园及容器栽培。 其春末至初夏叶色使这株槭树显得颇为不同。 叶片的绿色调随夏季推进而逐渐加深。 秋色通常为良好的黄色，偶尔带橙色。 叶片质地佳，耐观赏。 叶片通常有 7 裂，有时为 5 裂，深裂直达叶基。 每个裂片本身边缘又有缺刻和锯齿。 不过，单个裂片并不像大多数典型羽裂类那样深度羽状裂开。 叶片长宽均可达 10 厘米。 植株生长非常强健，具 Dissectum Group 典型的下垂习性。 它适合用于 Corvallis"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-fjellheim-coral-bark-japanese-maple",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Fjellheim' Coral Bark Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-fjellheim-coral-bark-japanese-maple",
+        "botanical_name": "Acer palmatum 'Fjellheim'",
+        "common_name": "Fjellheim",
+        "description_text": "Acer palmatum 'Fjellheim' is a coral bark Japanese maple that came from Acer palmatum 'Sango kaku' as a witches broom. 'Fjellheim' displays the same amazing bark color as 'Sango kaku' but stays much smaller. At maturity, 'Fjellheim' will only reach around 5 feet in height and is more compact than 'Sango kaku' making it a great pop of color for any small garden. 10 Year Size: Height: 3-5 feet Width: 3-5 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Fjellheim",
+        "match_score": 369,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg?v=1739197112",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-fjellheim-coral-bark-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg",
+          "bytes": 407400,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:23:14.436Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg"
+      ]
+    }
+  }
 }

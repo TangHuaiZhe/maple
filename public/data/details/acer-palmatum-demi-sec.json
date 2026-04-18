@@ -24,9 +24,18 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
+      "/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.jpg",
+      "/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
+      "/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.jpg",
+      "/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.jpg"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -43,6 +52,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/196214/acer-palmatum-demi-sec-(d)/details",
       "botanical_name": "Acer palmatum 'Demi-sec' (D)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Demi Sec' Green Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Demi Sec'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-demi-sec-green-dwarf-japanese-maple",
+      "image_count": 3,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -57,7 +75,7 @@
     "Demi Sec",
     "Demi-sec"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -113,7 +131,78 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是一个生长缓慢的荷兰品种，叶片深裂，与 'Green Globe' 相似，但鲜绿色叶片边缘略带橙色色调。秋色为黄色至金黄色。'Demi Sec' 与 'Green Globe' 一样呈直立的球形株姿，而不像大多数线裂型品种那样呈蘑菇状。最终可形成中等大小的灌木。"
+    "preferred": "这是一个生长缓慢的荷兰品种，叶片深裂，与 'Green Globe' 相似，但鲜绿色叶片边缘略带橙色色调。 秋色为黄色至金黄色。 'Demi Sec' 与 'Green Globe' 一样呈直立的球形株姿，而不像大多数线裂型品种那样呈蘑菇状。 最终可形成中等大小的灌木。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-demi-sec-green-dwarf-japanese-maple",
+    "matched_product_count": 1,
+    "local_file_count": 3,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Demi Sec' Green Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-demi-sec-green-dwarf-japanese-maple",
+        "botanical_name": "Acer palmatum 'Demi Sec'",
+        "common_name": "Demi Sec",
+        "description_text": "",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Demi Sec",
+        "match_score": 367,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg?v=1721476099",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-demi-sec-green-dwarf-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
+          "bytes": 413270,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:40.691Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.jpg?v=1721476099",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-demi-sec-green-dwarf-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.jpg",
+          "bytes": 279848,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:42.180Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.jpg?v=1721476099",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-demi-sec-green-dwarf-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.jpg",
+          "bytes": 355982,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:22:43.682Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 3,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.jpg"
+      ]
+    }
+  }
 }

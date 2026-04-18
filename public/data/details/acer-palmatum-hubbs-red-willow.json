@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer palmatum 'Hubbs Red Willow' 'Hubbs Red Willow' aka \"Willow Leaf\" Japanese Maple Zones 5-9 'Hubbs Red Willow' is an excellent bamboo linearilobum Japanese maple selection introduced by the late Dick Wolff of Red Maple Nursery of Pennsylvania. It leafs out in the early spring with bright red string-like leaves that give the appearance of bamboo. This selection is extremely vigorous for a Japanese maple reaching 10-12 ft in about 10 -12 years. As the leaf matures it widens slightly and changes to a deeper maroon. This Japanese maple turns to a brilliant shade of crimson red in the fall. 'Hubbs Red Willow' is excellent for bringing that bamboo oriental feel to your garden while providing great contrast with its amazing red color. This is a perfect mid-sized Japanese maple for any garden. This maple has been called"
+    "preferred": "Acer palmatum 'Hubbs Red Willow' 'Hubbs Red Willow' aka \"Willow Leaf\" Japanese Maple Zones 5-9 'Hubbs Red Willow' is an excellent bamboo linearilobum Japanese maple selection introduced by the late Dick Wolff of Red Maple Nursery of Pennsylvania. It leafs out in the early spring with bright red string-like leaves that give the appearance of bamboo. This selection is extremely vigorous for a Japanese maple reaching 10-12 ft in about 10 -12 years. As the leaf matures it widens slightly and changes to a deeper maroon. This Japanese maple turns to a brilliant shade of crimson red in the fall. 'Hubbs Red Willow' is excellent for bringing that bamboo oriental feel to your garden while providing great contrast with its amazing red color. This maple has been called"
   },
   "images": {
     "count": 0,
@@ -64,6 +64,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-hubbs-red-willow-japanese-maple/25-Acer_palmatum_Hubb_s_Red_Willow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057693.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-hubbs-red-willow-japanese-maple/01-Acer_palmatum_Hubb_s_Red_Willow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057562.jpg",
@@ -146,7 +147,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer palmatum 'Hubbs Red Willow'，又名 \"Willow Leaf\" 日本枫，适生分区 5-9。'Hubbs Red Willow' 是宾夕法尼亚州 Red Maple Nursery 已故 Dick Wolff 推出的一款极佳的竹叶型 linearilobum 日本枫。早春萌叶时呈鲜红色，细丝状叶片带来竹叶般的观感。该品种在日本枫中生长势极强，约 10-12 年可达 10-12 英尺。随着叶片成熟，叶形会略微变宽，颜色转为更深的栗紫红色。秋季时，这株日本枫会转为鲜艳的深红色。'Hubbs Red Willow' 非常适合为花园带来竹韵般的东方气息，同时以惊艳的红叶色彩形成优良对比。这是一款非常适合作为中型庭园树的日本枫。该品种也曾被称作"
+    "preferred": "Acer palmatum 'Hubbs Red Willow'，又名 \"Willow Leaf\" 日本枫，适生分区 5-9。 'Hubbs Red Willow' 是宾夕法尼亚州 Red Maple Nursery 已故 Dick Wolff 推出的一款极佳的竹叶型 linearilobum 日本枫。 早春萌叶时呈鲜红色，细丝状叶片带来竹叶般的观感。 该品种在日本枫中生长势极强，约 10-12 年可达 10-12 英尺。 随着叶片成熟，叶形会略微变宽，颜色转为更深的栗紫红色。 秋季时，这株日本枫会转为鲜艳的深红色。 'Hubbs Red Willow' 非常适合为花园带来竹韵般的东方气息，同时以惊艳的红叶色彩形成优良对比。 这是一款非常适合作为中型庭园树的日本枫。 该品种也曾被称作"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -254,7 +255,7 @@
           "VDAYSALE25",
           "XMAS23"
         ],
-        "description_text": "Acer palmatum 'Hubbs Red Willow' 'Hubbs Red Willow' aka \"Willow Leaf\" Japanese Maple Zones 5-9 'Hubbs Red Willow' is an excellent bamboo linearilobum Japanese maple selection introduced by the late Dick Wolff of Red Maple Nursery of Pennsylvania. It leafs out in the early spring with bright red string-like leaves that give the appearance of bamboo. This selection is extremely vigorous for a Japanese maple reaching 10-12 ft in about 10 -12 years. As the leaf matures it widens slightly and changes to a deeper maroon. This Japanese maple turns to a brilliant shade of crimson red in the fall. 'Hubbs Red Willow' is excellent for bringing that bamboo oriental feel to your garden while providing great contrast with its amazing red color. This is a perfect mid-sized Japanese maple for any garden. This maple has been called",
+        "description_text": "Acer palmatum 'Hubbs Red Willow' 'Hubbs Red Willow' aka \"Willow Leaf\" Japanese Maple Zones 5-9 'Hubbs Red Willow' is an excellent bamboo linearilobum Japanese maple selection introduced by the late Dick Wolff of Red Maple Nursery of Pennsylvania. It leafs out in the early spring with bright red string-like leaves that give the appearance of bamboo. This selection is extremely vigorous for a Japanese maple reaching 10-12 ft in about 10 -12 years. As the leaf matures it widens slightly and changes to a deeper maroon. This Japanese maple turns to a brilliant shade of crimson red in the fall. 'Hubbs Red Willow' is excellent for bringing that bamboo oriental feel to your garden while providing great contrast with its amazing red color. This maple has been called",
         "published_at": "2026-02-17T10:00:07-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

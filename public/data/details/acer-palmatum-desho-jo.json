@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "This plant has bright spring foliage. At the early leaf stage the new foliage is a brilliant carmine red. It is a very bright colored plant for a short period of time, but the color does not hold as long as it does in other related cultivars. The basic color of 'Desho\\jo\\' for the rest of the year is a good tone of lighter green often with reddish bronze edges. Therearedifferentselectionsof 'Deshoj\\ o'\\.Someforms Corvallis tivars. The leaves are palmatum shaped with lobes separated two-thirds the distance to the base. The usually five lobes radiate from the center, are strongly tapered to a point, and have finely toothed margins. The leaves are up to 5-6 cm long and wide. The thin petioles are up to 4 cm long. The shoj\\ o\\ part of this cultivar's name (meaning \"redfaced monkey\") can become confusing."
+    "preferred": "This plant has bright spring foliage. At the early leaf stage the new foliage is a brilliant carmine red. It is a very bright colored plant for a short period of time, but the color does not hold as long as it does in other related cultivars. The basic color of 'Desho\\jo\\' for the rest of the year is a good tone of lighter green often with reddish bronze edges. Therearedifferentselectionsof 'Deshoj\\ o'\\. Someforms Corvallis tivars. The leaves are palmatum shaped with lobes separated two-thirds the distance to the base. The usually five lobes radiate from the center, are strongly tapered to a point, and have finely toothed margins. The leaves are up to 5-6 cm long and wide. The thin petioles are up to 4 cm long. The shoj\\ o\\ part of this cultivar's name (meaning \"redfaced monkey\") can become confusing."
   },
   "images": {
     "count": 0,
@@ -31,6 +31,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-desho-jo-momiji_kaede/01-RHS_WSYD0011209_11555.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-desho-jo-momiji_kaede/01-RHS_WSYD0011209_11555.JPG",
@@ -100,7 +101,7 @@
     "cultivar_names": [
       "Deshōjō"
     ],
-    "description": "An upright, rounded, deciduous shrub or small tree to 2.5m high and wide. Slender-pointed, lobed leaves are brilliant red in spring before maturing to bright green and then turning shades of red and orange in autumn. Small reddish spring flowers may be followed by winged fruits in autumn",
+    "description": "An upright, rounded, deciduous shrub or small tree to 2. 5m high and wide. Slender-pointed, lobed leaves are brilliant red in spring before maturing to bright green and then turning shades of red and orange in autumn. Small reddish spring flowers may be followed by winged fruits in autumn",
     "dimensions": {
       "height": "1.5-2.5 metres",
       "spread": "1.5-2.5 metres",
@@ -259,10 +260,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "直立、圆整的落叶灌木或小乔木，高和冠幅均可达 2.5 米。叶片裂片先端细尖，春季呈鲜艳红色，随后成熟为亮绿色，秋季再转为红色和橙色等色调。春季开小型红色花，入秋后可结翅果。"
+    "description": "直立、圆整的落叶灌木或小乔木，高和冠幅均可达 2. 5 米。 叶片裂片先端细尖，春季呈鲜艳红色，随后成熟为亮绿色，秋季再转为红色和橙色等色调。 春季开小型红色花，入秋后可结翅果。"
   },
   "descriptions_zh": {
-    "preferred": "这个品种以鲜艳的春叶著称。在展叶初期，新叶呈极为明亮的胭脂红色。它在短时间内色彩非常夺目，但持色性不如其他一些相关品种。'Deshojo' 在其余季节的基本叶色为悦目的浅绿色，边缘常带红铜色。'Deshojo' 存在不同选系，其中一些构成了颇具价值的栽培品种。叶片为典型 palmatum 形，裂片分离深度约达叶基的三分之二。通常为 5 裂，自中心向外放射，裂片强烈渐尖，叶缘具细锯齿。叶片长宽可达 5-6 厘米。细长叶柄最长约 4 厘米。该品种名称中的 shoj o 部分（意为“红脸猴”）容易引起混淆。'Shojo' 是红叶 palmatum 中一个古老的标准类型。上述 'Deshojo' 则是其他选育品种的基础。"
+    "preferred": "这个品种以鲜艳的春叶著称。 在展叶初期，新叶呈极为明亮的胭脂红色。 它在短时间内色彩非常夺目，但持色性不如其他一些相关品种。 'Deshojo' 在其余季节的基本叶色为悦目的浅绿色，边缘常带红铜色。 'Deshojo' 存在不同选系，其中一些构成了颇具价值的栽培品种。 叶片为典型 palmatum 形，裂片分离深度约达叶基的三分之二。 通常为 5 裂，自中心向外放射，裂片强烈渐尖，叶缘具细锯齿。 叶片长宽可达 5-6 厘米。 细长叶柄最长约 4 厘米。 该品种名称中的 shoj o 部分（意为“红脸猴”）容易引起混淆。 'Shojo' 是红叶 palmatum 中一个古老的标准类型。 上述 'Deshojo' 则是其他选育品种的基础。"
   },
   "has_mrmaple": false,
   "mrmaple": null

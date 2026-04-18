@@ -30,6 +30,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-kamagata/02-visi69024.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-kamagata/01-GWIS433.jpg",
@@ -47,7 +48,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "异型叶",
       "title": "鎌形Acer Palmatum 'Kamagata'",
-      "description": "鎌 形 1970 年由美国俄勒冈州的 JD Vertrees 命名的一个 直立矮生的品种，生长缓慢，相对耐旱，它的特点是叶 边缘会下垂。春天叶子是绿色的叶边缘褐色，夏天转绿， 秋天首先会变成亮黄色或者橙色，最后变成猩红色。成 年树高约 1-1.5 米。",
+      "description": "鎌 形 1970 年由美国俄勒冈州的 JD Vertrees 命名的一个 直立矮生的品种，生长缓慢，相对耐旱，它的特点是叶 边缘会下垂。 春天叶子是绿色的叶边缘褐色，夏天转绿， 秋天首先会变成亮黄色或者橙色，最后变成猩红色。 成 年树高约 1-1. 5 米。",
       "image_count": 10
     },
     {
@@ -119,7 +120,7 @@
     "cultivar_names": [
       "Kamagata"
     ],
-    "description": "Small, compact, shrubby tree eventually growing to about 1.2m tall with slender bright green shoots, and lacy, long, narrow 3-5 lobed bright, light green leaves, the emerging spring leaves edged red, with bright, orange-yellow autumn colour. Inconspicuous red-purple flowers in spring may be followed by winged, purple fruits",
+    "description": "Small, compact, shrubby tree eventually growing to about 1. 2m tall with slender bright green shoots, and lacy, long, narrow 3-5 lobed bright, light green leaves, the emerging spring leaves edged red, with bright, orange-yellow autumn colour. Inconspicuous red-purple flowers in spring may be followed by winged, purple fruits",
     "dimensions": {
       "height": "1-1.5 metres",
       "spread": "0.5-1 metres",
@@ -201,7 +202,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是一个外观极为纤细秀雅的矮生选育品种。不过，它实际上非常耐久且耐寒。原文此处有明显 OCR 缺损。于 Corvallis 观察到，有些叶片仅有三裂，裂片间距很大，侧裂片几乎呈直角展开。裂片呈镰形，或先端向下弯曲，边缘再轻微向上卷起，形成槽状，并常略有扭转，使整株呈现蕾丝般细致轻盈的观感。每个裂片都细长狭窄，基部宽约 5 至 7 毫米，中部很少宽至 10 毫米，并逐渐收尖。叶缘具锯齿。裂片像伸开的手指一样向外分离，仅在距叶基约 1 厘米处相连。叶柄极细但坚挺，长 2 至 3 厘米，绿色，单侧带红色。春季展叶时，叶缘明显染成红色至锈红色。初夏叶色转为明亮的浅绿色。秋色鲜艳，以黄色和橙色为主，偶带一点红色。叶片能在植株上保留到深秋，因此观色期较长。新梢细而秀气，但相当坚韧，呈鲜绿色，在幼株上可长达 25 厘米。不过第二次生长期会形成大量侧枝，枝条十分纤细如蕾丝，原文至此中断。"
+    "preferred": "这是一个外观极为纤细秀雅的矮生选育品种。 不过，它实际上非常耐久且耐寒。 原文此处有明显 OCR 缺损。 于 Corvallis 观察到，有些叶片仅有三裂，裂片间距很大，侧裂片几乎呈直角展开。 裂片呈镰形，或先端向下弯曲，边缘再轻微向上卷起，形成槽状，并常略有扭转，使整株呈现蕾丝般细致轻盈的观感。 每个裂片都细长狭窄，基部宽约 5 至 7 毫米，中部很少宽至 10 毫米，并逐渐收尖。 叶缘具锯齿。 裂片像伸开的手指一样向外分离，仅在距叶基约 1 厘米处相连。 叶柄极细但坚挺，长 2 至 3 厘米，绿色，单侧带红色。 春季展叶时，叶缘明显染成红色至锈红色。 初夏叶色转为明亮的浅绿色。 秋色鲜艳，以黄色和橙色为主，偶带一点红色。 叶片能在植株上保留到深秋，因此观色期较长。 新梢细而秀气，但相当坚韧，呈鲜绿色，在幼株上可长达 25 厘米。 不过第二次生长期会形成大量侧枝，枝条十分纤细如蕾丝，原文至此中断。"
   },
   "rhs_zh": {
     "growing_conditions": {
@@ -220,7 +221,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "小型、紧凑、灌木状的小乔木，最终约高 1.2 米；枝条细长，鲜绿色。叶片纤细如 lace，狭长，具 3 至 5 裂，呈明亮浅绿色，春季新叶边缘带红色，秋季转为鲜艳的橙黄色。春季开不显眼的红紫色花，之后可能结带翅的紫色果实。"
+    "description": "小型、紧凑、灌木状的小乔木，最终约高 1. 2 米；枝条细长，鲜绿色。 叶片纤细如 lace，狭长，具 3 至 5 裂，呈明亮浅绿色，春季新叶边缘带红色，秋季转为鲜艳的橙黄色。 春季开不显眼的红紫色花，之后可能结带翅的紫色果实。"
   },
   "has_mrmaple": false,
   "herter": {

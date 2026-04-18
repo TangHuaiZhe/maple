@@ -27,6 +27,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-goshiki-shidare-momiji_kaede/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-goshiki-shidare/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG",
@@ -115,7 +116,7 @@
       "Goshiki-shidare",
       "Toyama-nishiki"
     ],
-    "description": "A small, rounded, bushy tree growing slowly to about 1.5m in height. The 7 or 9 lobed, very dissected, lacy leaves have a basic leaf colour of purple-red to greenish red, variegated and streaked randomly pink or white, more intensely coloured when grown in shade, turning orange and yellow in autumn. Inconspicuous hanging clusters of small, green flowers are followed by red-flushed, winged seeds",
+    "description": "A small, rounded, bushy tree growing slowly to about 1. 5m in height. The 7 or 9 lobed, very dissected, lacy leaves have a basic leaf colour of purple-red to greenish red, variegated and streaked randomly pink or white, more intensely coloured when grown in shade, turning orange and yellow in autumn. Inconspicuous hanging clusters of small, green flowers are followed by red-flushed, winged seeds",
     "dimensions": {
       "height": "1-1.5 metres",
       "spread": "1-1.5 metres",
@@ -209,10 +210,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
     },
-    "description": "小型、圆整、丛生的灌木状小乔木，生长缓慢，株高约可达 1.5 米。叶 7 或 9 裂，裂刻极深、质感纤细如蕾丝，基本叶色为紫红至带绿色调的红色，并随机分布粉色或白色条斑；在半阴环境下色彩更为浓艳，秋季转为橙色和黄色。花小而不显著，绿色，成下垂簇生，随后结带红晕的翅果。"
+    "description": "小型、圆整、丛生的灌木状小乔木，生长缓慢，株高约可达 1. 5 米。 叶 7 或 9 裂，裂刻极深、质感纤细如蕾丝，基本叶色为紫红至带绿色调的红色，并随机分布粉色或白色条斑；在半阴环境下色彩更为浓艳，秋季转为橙色和黄色。 花小而不显著，绿色，成下垂簇生，随后结带红晕的翅果。"
   },
   "descriptions_zh": {
-    "preferred": "该斑叶 dissectum 类型品种的叶色变化非常丰富。叶形典型且均匀、深裂的叶片，可呈不同深浅的绿色，并带有深红色晕染。另一些叶片则裂片细长，扭曲、卷曲，几乎纠结在一起；这类叶片呈深红绿色，并有大量粉色斑纹。还有一些叶片带有明显的白色区域。上述各种变异程度都可能同时出现。叶片通常比多数 dissectum 品种更小，多数长 4–6 厘米，偶尔可达 8 厘米。由于裂片往往聚拢，视觉上显得更狭长。在形态较整齐的叶片上，裂片完全分离至叶基，并呈羽状深裂。'Tricolor' 和 'Benishidare Variegated' 依据国际命名规则均属非法名。这两者与名称更早的 'Goshiki shidare' 极为相似，因此更适合作为其异名处理。"
+    "preferred": "该斑叶 dissectum 类型品种的叶色变化非常丰富。 叶形典型且均匀、深裂的叶片，可呈不同深浅的绿色，并带有深红色晕染。 另一些叶片则裂片细长，扭曲、卷曲，几乎纠结在一起；这类叶片呈深红绿色，并有大量粉色斑纹。 还有一些叶片带有明显的白色区域。 上述各种变异程度都可能同时出现。 叶片通常比多数 dissectum 品种更小，多数长 4–6 厘米，偶尔可达 8 厘米。 由于裂片往往聚拢，视觉上显得更狭长。 在形态较整齐的叶片上，裂片完全分离至叶基，并呈羽状深裂。 'Tricolor' 和 'Benishidare Variegated' 依据国际命名规则均属非法名。 这两者与名称更早的 'Goshiki shidare' 极为相似，因此更适合作为其异名处理。"
   },
   "has_mrmaple": false,
   "mrmaple": null

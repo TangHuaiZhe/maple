@@ -15,7 +15,7 @@
     "variegated"
   ],
   "descriptions": {
-    "preferred": "This cultivar is one of the best variegates in the Palmatum Group. It is much better known in the United States as 'Orido nishiki' as it was spelled in the earlier editions of this book. However, the Japanese name of this outstanding cultivar consists of three characters—ori, dono, and nishiki—which mean \"the rich-colored fabric of the master.\" It has also been misspelled"
+    "preferred": "This cultivar is one of the best variegates in the Palmatum Group. It is much better known in the United States as 'Orido nishiki' as it was spelled in the earlier editions of this book. However, the Japanese name of this outstanding cultivar consists of three characters—ori, dono, and nishiki—which mean \"the rich-colored fabric of the master. \" It has also been misspelled"
   },
   "images": {
     "count": 0,
@@ -29,6 +29,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-oridono-nishiki/02-visi68444.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-oridono-nishiki/01-visi68445.jpg",
@@ -193,7 +194,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "‘Oridono-nishiki’ 为直立、紧密生长的斑叶灌木或小乔木，高可达 6 m。叶片深裂，颜色变化丰富，可为绿色、乳白色和粉色的混合，有时也会仅呈现其中一种颜色。秋季转为金黄色、橙色和红色。",
+    "description": "‘Oridono-nishiki’ 为直立、紧密生长的斑叶灌木或小乔木，高可达 6 m。 叶片深裂，颜色变化丰富，可为绿色、乳白色和粉色的混合，有时也会仅呈现其中一种颜色。 秋季转为金黄色、橙色和红色。",
     "care": {
       "cultivation": "宜栽培于湿润但排水良好的土壤中。夏季必要时应补充浇水。叶色在半阴环境下表现最佳，但也可耐全日照。土壤水分不足或暴晒过度都可能导致叶缘焦枯。参见日本枫树栽培资料。",
       "pruning": "修剪组 1；如有必要，仅在深秋至仲冬期间修剪",
@@ -201,7 +202,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该品种是 Palmatum Group 中最优秀的斑叶品种之一。在美国，它更常以本书早期版本中的拼法 ‘Orido nishiki’ 为人所知。然而，这个优良日本品种的名称由三个字组成，即 ori、dono 和 nishiki，意为“主人的华美锦缎”。它也曾被误拼为 ‘Oridomo nishiki’。叶片有 5 或 7 裂，裂深达叶基的 1/2 至 2/3，裂片向外放射展开。叶长 5–6 cm，宽 6–8 cm。偶尔会出现很小的叶片，颜色可为白色、乳白色，或两者任意组合，并可带有不同大小的绿色区域。有时新叶会完全呈白色或粉色，但春季新梢整体观感以粉色为主。从较老枝条和枝干上萌发的叶片，白色或乳白色斑纹变化丰富，可为单一点斑、不规则斑驳、小块斑、渐变混色、半裂片着色，或介于其间的各种组合。斑锦明显的叶片部分常会弯曲，或呈镰刀状。同一株植株上常可见多种色彩组合。新梢树皮有时呈粉色或带粉色条纹，这是其区别于相似品种 ‘Asahi zuru’ 的特征。该品种表现较稳定，不返绿的比例远低于某些其他品种，如 ‘Versicolor’。‘Oridono nishiki’ 健壮、生长势良好，但不会长得过于松散。15–20 年后可形成高 5–6 m 的直立圆头形小乔木。"
+    "preferred": "该品种是 Palmatum Group 中最优秀的斑叶品种之一。 在美国，它更常以本书早期版本中的拼法 ‘Orido nishiki’ 为人所知。 然而，这个优良日本品种的名称由三个字组成，即 ori、dono 和 nishiki，意为“主人的华美锦缎”。 它也曾被误拼为 ‘Oridomo nishiki’。 叶片有 5 或 7 裂，裂深达叶基的 1/2 至 2/3，裂片向外放射展开。 叶长 5–6 cm，宽 6–8 cm。 偶尔会出现很小的叶片，颜色可为白色、乳白色，或两者任意组合，并可带有不同大小的绿色区域。 有时新叶会完全呈白色或粉色，但春季新梢整体观感以粉色为主。 从较老枝条和枝干上萌发的叶片，白色或乳白色斑纹变化丰富，可为单一点斑、不规则斑驳、小块斑、渐变混色、半裂片着色，或介于其间的各种组合。 斑锦明显的叶片部分常会弯曲，或呈镰刀状。 同一株植株上常可见多种色彩组合。 新梢树皮有时呈粉色或带粉色条纹，这是其区别于相似品种 ‘Asahi zuru’ 的特征。 该品种表现较稳定，不返绿的比例远低于某些其他品种，如 ‘Versicolor’。 ‘Oridono nishiki’ 健壮、生长势良好，但不会长得过于松散。 15–20 年后可形成高 5–6 m 的直立圆头形小乔木。"
   },
   "has_mrmaple": false,
   "herter": {

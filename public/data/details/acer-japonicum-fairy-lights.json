@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "仙女灯是澳大利亚 Yasmina 苗圃选育的一款矮生的大叶羽 团扇羽毛枫。叶型比较大叶裂很深，春天亮绿色，夏天 深绿，秋天色彩丰富，会有明亮的橙红橙黄色。成年树 高约 1.5 米。"
+    "preferred": "仙女灯是澳大利亚 Yasmina 苗圃选育的一款矮生的大叶羽 团扇羽毛枫。 叶型比较大叶裂很深，春天亮绿色，夏天 深绿，秋天色彩丰富，会有明亮的橙红橙黄色。 成年树 高约 1. 5 米。"
   },
   "images": {
     "count": 7,
@@ -22,6 +22,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-japonicum-fairy-lights/01-Web_Use-PUB0000098_14170.jpg",
     "public_paths": [
       "/rhs-images/acer-japonicum-fairy-lights/01-Web_Use-PUB0000098_14170.jpg"
@@ -37,7 +38,7 @@
       "top_group_name": "羽扇槭",
       "second_group_name": "大叶羽团扇",
       "title": "仙女灯—Acer japonicum 'Fairy Lights'",
-      "description": "仙女灯是澳大利亚 Yasmina 苗圃选育的一款矮生的大叶羽 团扇羽毛枫。叶型比较大叶裂很深，春天亮绿色，夏天 深绿，秋天色彩丰富，会有明亮的橙红橙黄色。成年树 高约 1.5 米。",
+      "description": "仙女灯是澳大利亚 Yasmina 苗圃选育的一款矮生的大叶羽 团扇羽毛枫。 叶型比较大叶裂很深，春天亮绿色，夏天 深绿，秋天色彩丰富，会有明亮的橙红橙黄色。 成年树 高约 1. 5 米。",
       "image_count": 7
     },
     {
@@ -82,7 +83,7 @@
     "cultivar_names": [
       "Fairy Lights"
     ],
-    "description": "A low-growing, deciduous shrub or small tree to around 1.8m tall with spreading branches. Highly dissected leaves emerge green in spring before turning brilliant shades of red, orange and yellow in autumn. Small, red spring flowers may be followed by winged fruits in autumn",
+    "description": "A low-growing, deciduous shrub or small tree to around 1. 8m tall with spreading branches. Highly dissected leaves emerge green in spring before turning brilliant shades of red, orange and yellow in autumn. Small, red spring flowers may be followed by winged fruits in autumn",
     "dimensions": {
       "height": "1.5-2.5 metres",
       "spread": "1-1.5 metres",
@@ -149,7 +150,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "仙女灯是澳大利亚 Yasmina 苗圃选育的一款矮生的大叶羽 团扇羽毛枫。叶型比较大叶裂很深，春天亮绿色，夏天 深绿，秋天色彩丰富，会有明亮的橙红橙黄色。成年树 高约 1.5 米。"
+    "preferred": "仙女灯是澳大利亚 Yasmina 苗圃选育的一款矮生的大叶羽 团扇羽毛枫。 叶型比较大叶裂很深，春天亮绿色，夏天 深绿，秋天色彩丰富，会有明亮的橙红橙黄色。 成年树 高约 1. 5 米。"
   },
   "rhs_zh": {
     "growing_conditions": {
@@ -165,7 +166,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "低矮生长的落叶灌木或小乔木，高约 1.8 米，枝条开展。深裂叶春季展叶时为绿色，秋季转为鲜艳的红、橙、黄色调。春季开小型红花，秋季可能结翅果。",
+    "description": "低矮生长的落叶灌木或小乔木，高约 1. 8 米，枝条开展。 深裂叶春季展叶时为绿色，秋季转为鲜艳的红、橙、黄色调。 春季开小型红花，秋季可能结翅果。",
     "attributes": {
       "suggested_uses": "城市/庭院花园、花境与花坛、低维护、乡村风格/自然式花园、庭院/容器植物"
     }

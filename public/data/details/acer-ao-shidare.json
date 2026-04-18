@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-ao-shidare/01-acer-palmatum-ao-shidare-630061.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-ao-shidare/01-acer-palmatum-ao-shidare-630061.jpg",
+    "public_paths": [
+      "/jmac-images/acer-ao-shidare/01-acer-palmatum-ao-shidare-630061.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/131414/acer-palmatum-ao-shidare-(d)/details",
       "botanical_name": "Acer palmatum 'Ao-shidare' (D)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Ao Shidare' Green Lace Leaf Japanese Maple",
+      "botanical_name": "Ao shidare",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ao-shidare",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -57,7 +71,7 @@
     "Ao-shidare",
     "Japanese maple 'Ao-shidare'"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -115,7 +129,50 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "该品种名意为“绿色垂枝”，其叶形与许多其他绿色细裂型品种略有不同，但与 ‘Kiri nishiki’ 和 ‘Sekimori’ 相近。‘Aoba shidare’ 是其异名。叶色为略带蓝调的绿色，不同于 ‘Viridis’ 那种鲜明的绿色。秋色为黄色。叶片通常七裂，中等大小，且如典型 dissectum 类型一样为二回细裂。不过，其二次裂刻不如常见绿色细裂型品种那样深，裂片也没有那么长。每片叶的诸多尖端看起来不那么锐利，因此整体叶缘轮廓显得更为钝圆。叶片在颜色上也有所不同。"
+    "preferred": "该品种名意为“绿色垂枝”，其叶形与许多其他绿色细裂型品种略有不同，但与 ‘Kiri nishiki’ 和 ‘Sekimori’ 相近。 ‘Aoba shidare’ 是其异名。 叶色为略带蓝调的绿色，不同于 ‘Viridis’ 那种鲜明的绿色。 秋色为黄色。 叶片通常七裂，中等大小，且如典型 dissectum 类型一样为二回细裂。 不过，其二次裂刻不如常见绿色细裂型品种那样深，裂片也没有那么长。 每片叶的诸多尖端看起来不那么锐利，因此整体叶缘轮廓显得更为钝圆。 叶片在颜色上也有所不同。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ao-shidare",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-ao-shidare/01-acer-palmatum-ao-shidare-630061.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-ao-shidare/01-acer-palmatum-ao-shidare-630061.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Ao Shidare' Green Lace Leaf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ao-shidare",
+        "botanical_name": "Ao shidare",
+        "common_name": "Ao shidare",
+        "description_text": "The name simply means green cascading which perfectly describes this great little tree. In spring the green color has a slightly blue tint that separates it from other green dissectums. At one time all green dissectums were probably called 'Ao shidare' but over time this cultivar became dominant and rightly so. Growth is very strong and pendulous. Ao shidare will tolerate full sun better than most green dissectum cultivars but could still benefit from some shade in hotter climates. Fall color is wonderful if not predictable, sometimes mostly yellow, other times mostly orange but usually a showy mix of both. 10 Year Size: Height: 3-6 Feet Width: 4-8 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Ao shidare",
+        "match_score": 369,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ao-shidare-630061.jpg?v=1658490540",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ao-shidare",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-ao-shidare/01-acer-palmatum-ao-shidare-630061.jpg",
+          "bytes": 50715,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:22:18.744Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-ao-shidare/01-acer-palmatum-ao-shidare-630061.jpg"
+      ]
+    }
+  }
 }

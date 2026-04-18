@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "日系品种，由法国人盖伊·马跃在欧洲推广，而后 传入美国，在日语里面 Kumoi 意为云的意思，云井 锦由此而来，云井锦是非常著名的也是唯一的小叶 羽团扇锦类品种，出锦非常稳定，春叶是以绿色做 底的黄色碎点斑，黄色为主色调，斑比非常高，黄 色碎点斑逐渐退化为奶白色碎点斑，绿色占比逐渐 提高，夏季为白色碎点斑，秋季变为橙黄色或者橙 红色，有时候同一张叶子上会出现黄，橙，红等色彩。 生长速度中等，夏季午后适当遮阴，成年树可达 3.5 米左右高度。"
+    "preferred": "日系品种，由法国人盖伊·马跃在欧洲推广，而后 传入美国，在日语里面 Kumoi 意为云的意思，云井 锦由此而来，云井锦是非常著名的也是唯一的小叶 羽团扇锦类品种，出锦非常稳定，春叶是以绿色做 底的黄色碎点斑，黄色为主色调，斑比非常高，黄 色碎点斑逐渐退化为奶白色碎点斑，绿色占比逐渐 提高，夏季为白色碎点斑，秋季变为橙黄色或者橙 红色，有时候同一张叶子上会出现黄，橙，红等色彩。 生长速度中等，夏季午后适当遮阴，成年树可达 3. 5 米左右高度。"
   },
   "images": {
     "count": 7,
@@ -19,10 +19,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-sieboldianum-kumoi-nishiki/01-Acer-sieboldianum-Kumoi-nishiki-Specimen-1670.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-sieboldianum-kumoi-nishiki/01-Acer-sieboldianum-Kumoi-nishiki-Specimen-1670.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-sieboldianum-kumoi-nishiki/01-Acer-sieboldianum-Kumoi-nishiki-Specimen-1670.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,8 +38,17 @@
       "top_group_name": "羽扇槭",
       "second_group_name": "小叶羽团扇",
       "title": "云井锦 Acer Sieboldianum 'Kumoi Nishiki'",
-      "description": "日系品种，由法国人盖伊·马跃在欧洲推广，而后 传入美国，在日语里面 Kumoi 意为云的意思，云井 锦由此而来，云井锦是非常著名的也是唯一的小叶 羽团扇锦类品种，出锦非常稳定，春叶是以绿色做 底的黄色碎点斑，黄色为主色调，斑比非常高，黄 色碎点斑逐渐退化为奶白色碎点斑，绿色占比逐渐 提高，夏季为白色碎点斑，秋季变为橙黄色或者橙 红色，有时候同一张叶子上会出现黄，橙，红等色彩。 生长速度中等，夏季午后适当遮阴，成年树可达 3.5 米左右高度。",
+      "description": "日系品种，由法国人盖伊·马跃在欧洲推广，而后 传入美国，在日语里面 Kumoi 意为云的意思，云井 锦由此而来，云井锦是非常著名的也是唯一的小叶 羽团扇锦类品种，出锦非常稳定，春叶是以绿色做 底的黄色碎点斑，黄色为主色调，斑比非常高，黄 色碎点斑逐渐退化为奶白色碎点斑，绿色占比逐渐 提高，夏季为白色碎点斑，秋季变为橙黄色或者橙 红色，有时候同一张叶子上会出现黄，橙，红等色彩。 生长速度中等，夏季午后适当遮阴，成年树可达 3. 5 米左右高度。",
       "image_count": 7
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer sieboldianum ‘Kumoi nishiki’ Specimen 1670",
+      "botanical_name": "Acer Sieboldianum 'Kumoi Nishiki'",
+      "detail_url": "https://www.coniferkingdom.com/acer-sieboldianum-kumoi-nishiki-specimen-1670/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -51,13 +65,55 @@
     "小叶羽团扇",
     "羽扇槭"
   ],
-  "source_count": 1,
+  "source_count": 2,
   "has_web": true,
   "has_book": false,
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "日系品种，由法国人盖伊·马跃在欧洲推广，而后 传入美国，在日语里面 Kumoi 意为云的意思，云井 锦由此而来，云井锦是非常著名的也是唯一的小叶 羽团扇锦类品种，出锦非常稳定，春叶是以绿色做 底的黄色碎点斑，黄色为主色调，斑比非常高，黄 色碎点斑逐渐退化为奶白色碎点斑，绿色占比逐渐 提高，夏季为白色碎点斑，秋季变为橙黄色或者橙 红色，有时候同一张叶子上会出现黄，橙，红等色彩。 生长速度中等，夏季午后适当遮阴，成年树可达 3.5 米左右高度。"
+    "preferred": "日系品种，由法国人盖伊·马跃在欧洲推广，而后 传入美国，在日语里面 Kumoi 意为云的意思，云井 锦由此而来，云井锦是非常著名的也是唯一的小叶 羽团扇锦类品种，出锦非常稳定，春叶是以绿色做 底的黄色碎点斑，黄色为主色调，斑比非常高，黄 色碎点斑逐渐退化为奶白色碎点斑，绿色占比逐渐 提高，夏季为白色碎点斑，秋季变为橙黄色或者橙 红色，有时候同一张叶子上会出现黄，橙，红等色彩。 生长速度中等，夏季午后适当遮阴，成年树可达 3. 5 米左右高度。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-sieboldianum-kumoi-nishiki-specimen-1670/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-sieboldianum-kumoi-nishiki/01-Acer-sieboldianum-Kumoi-nishiki-Specimen-1670.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-sieboldianum-kumoi-nishiki/01-Acer-sieboldianum-Kumoi-nishiki-Specimen-1670.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer sieboldianum ‘Kumoi nishiki’ Specimen 1670",
+        "product_url": "https://www.coniferkingdom.com/acer-sieboldianum-kumoi-nishiki-specimen-1670/",
+        "botanical_name": "Acer Sieboldianum 'Kumoi Nishiki'",
+        "common_name": "Kumoi Nishiki",
+        "description_text": "Each light-green leaf is dusted with a creamy-white variegation, giving this upright tree a mottled appearance. An excellent combination of colors that is truly spectacular.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer sieboldianum kumoi nishiki",
+        "match_score": 268
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/02/Acer-sieboldianum-Kumoi-nishiki-Specimen-1670.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-sieboldianum-kumoi-nishiki-specimen-1670/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-sieboldianum-kumoi-nishiki/01-Acer-sieboldianum-Kumoi-nishiki-Specimen-1670.jpg",
+          "bytes": 434623,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:25:18.702Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-sieboldianum-kumoi-nishiki/01-Acer-sieboldianum-Kumoi-nishiki-Specimen-1670.jpg"
+      ]
+    }
+  }
 }

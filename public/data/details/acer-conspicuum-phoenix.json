@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "'Phoenix' 凤凰一种稀有且难以繁殖的枫树，树皮色 彩斑斓，有条纹，是色彩最鲜艳、最明亮的蛇皮枫 树之一。 于 1980 年代作为 Acer × conspicuum 'Silver Vein' 的幼苗被发现。春夏季为绿色，秋季会变成明 亮的黄色叶子。树皮在夏天呈淡绿色 / 黄色，在冬 天变亮为鲜艳的粉红色、黄色和橙色，并带有银色 蛇状线条。成年树高约 5 米。"
+    "preferred": "'Phoenix' 凤凰一种稀有且难以繁殖的枫树，树皮色 彩斑斓，有条纹，是色彩最鲜艳、最明亮的蛇皮枫 树之一。 于 1980 年代作为 Acer × conspicuum 'Silver Vein' 的幼苗被发现。 春夏季为绿色，秋季会变成明 亮的黄色叶子。 树皮在夏天呈淡绿色 / 黄色，在冬 天变亮为鲜艳的粉红色、黄色和橙色，并带有银色 蛇状线条。 成年树高约 5 米。"
   },
   "images": {
     "count": 7,
@@ -26,6 +26,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-conspicuum-phoenix/03-RHS_PUB0007959_11426.JPG",
     "public_paths": [
       "/rhs-images/acer-conspicuum-phoenix/01-Web_Use-RHS_HH_Mid_August_2017_240_11426.jpg",
@@ -45,7 +46,7 @@
       "top_group_name": "蛇皮槭",
       "second_group_name": "凤凰",
       "title": "凤凰 Acer Conspicuum 'Phoenix'",
-      "description": "'Phoenix' 凤凰一种稀有且难以繁殖的枫树，树皮色 彩斑斓，有条纹，是色彩最鲜艳、最明亮的蛇皮枫 树之一。 于 1980 年代作为 Acer × conspicuum 'Silver Vein' 的幼苗被发现。春夏季为绿色，秋季会变成明 亮的黄色叶子。树皮在夏天呈淡绿色 / 黄色，在冬 天变亮为鲜艳的粉红色、黄色和橙色，并带有银色 蛇状线条。成年树高约 5 米。",
+      "description": "'Phoenix' 凤凰一种稀有且难以繁殖的枫树，树皮色 彩斑斓，有条纹，是色彩最鲜艳、最明亮的蛇皮枫 树之一。 于 1980 年代作为 Acer × conspicuum 'Silver Vein' 的幼苗被发现。 春夏季为绿色，秋季会变成明 亮的黄色叶子。 树皮在夏天呈淡绿色 / 黄色，在冬 天变亮为鲜艳的粉红色、黄色和橙色，并带有银色 蛇状线条。 成年树高约 5 米。",
       "image_count": 7
     },
     {
@@ -217,7 +218,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "'Phoenix' 凤凰一种稀有且难以繁殖的枫树，树皮色 彩斑斓，有条纹，是色彩最鲜艳、最明亮的蛇皮枫 树之一。 于 1980 年代作为 Acer × conspicuum 'Silver Vein' 的幼苗被发现。春夏季为绿色，秋季会变成明 亮的黄色叶子。树皮在夏天呈淡绿色 / 黄色，在冬 天变亮为鲜艳的粉红色、黄色和橙色，并带有银色 蛇状线条。成年树高约 5 米。"
+    "preferred": "'Phoenix' 凤凰一种稀有且难以繁殖的枫树，树皮色 彩斑斓，有条纹，是色彩最鲜艳、最明亮的蛇皮枫 树之一。 于 1980 年代作为 Acer × conspicuum 'Silver Vein' 的幼苗被发现。 春夏季为绿色，秋季会变成明 亮的黄色叶子。 树皮在夏天呈淡绿色 / 黄色，在冬 天变亮为鲜艳的粉红色、黄色和橙色，并带有银色 蛇状线条。 成年树高约 5 米。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -239,7 +240,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "中等大小的直立乔木或大型分枝灌木，高和冠幅均可达 6 m，以枝条和树皮色彩丰富为特征。冬季新梢鲜红色，并具银白色条纹；树皮带橙粉色和银白色纵纹。大型绿色叶片于秋季转为金黄色。春季开黄绿色小花，之后结翅果。"
+    "description": "中等大小的直立乔木或大型分枝灌木，高和冠幅均可达 6 m，以枝条和树皮色彩丰富为特征。 冬季新梢鲜红色，并具银白色条纹；树皮带橙粉色和银白色纵纹。 大型绿色叶片于秋季转为金黄色。 春季开黄绿色小花，之后结翅果。"
   },
   "has_mrmaple": false
 }

@@ -1,0 +1,1425 @@
+{
+  "generated_at": "2026-04-18T03:24:29.666Z",
+  "sitemap_entries": 212,
+  "total_candidates": 310,
+  "matched": [
+    {
+      "id": "acer-palmatum-akane",
+      "display_name": "Akane",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-akane-japanese-maple/",
+      "match_score": 257,
+      "match_phrase": "acer palmatum akane",
+      "downloaded_count": 4
+    },
+    {
+      "id": "acer-palmatum-allen",
+      "display_name": "Allen",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-allens-gold-japanese-maple/",
+      "match_score": 245,
+      "match_phrase": "allen",
+      "downloaded_count": 2
+    },
+    {
+      "id": "acer-palmatum-alpenweiss",
+      "display_name": "Alpenweiss",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-alpenweiss-specimen-1818/",
+      "match_score": 262,
+      "match_phrase": "acer palmatum alpenweiss",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-aratama",
+      "display_name": "Aratama",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-aratama-japanese-maple/",
+      "match_score": 259,
+      "match_phrase": "acer palmatum aratama",
+      "downloaded_count": 4
+    },
+    {
+      "id": "acer-palmatum-autumn-fire",
+      "display_name": "Autumn Fire",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-herbstfeue-autumn-fire-hybrid-maple/",
+      "match_score": 250,
+      "match_phrase": "autumn fire",
+      "downloaded_count": 2
+    },
+    {
+      "id": "acer-shirasawanum-bashful",
+      "display_name": "Bashful",
+      "product_url": "https://www.coniferkingdom.com/acer-shirasawanum-bashful-specimen-1098/",
+      "match_score": 263,
+      "match_phrase": "acer shirasawanum bashful",
+      "downloaded_count": 2
+    },
+    {
+      "id": "acer-circinatum-burgundy-jewel",
+      "display_name": "Burgundy Jewel",
+      "product_url": "https://www.coniferkingdom.com/acer-circinatum-burgundy-jewel-specimen-2368/",
+      "match_score": 267,
+      "match_phrase": "acer circinatum burgundy jewel",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-cotton-candy",
+      "display_name": "Cotton Candy",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-cotton-candy-japanese-maple/",
+      "match_score": 263,
+      "match_phrase": "acer palmatum cotton candy",
+      "downloaded_count": 7
+    },
+    {
+      "id": "acer-palmatum-elmwood",
+      "display_name": "Elmwood",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-elmwood-specimen-1936/",
+      "match_score": 259,
+      "match_phrase": "acer palmatum elmwood",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-hana-fubuki",
+      "display_name": "Hana Fubuki",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-hana-fubuki-specimen-1675/",
+      "match_score": 262,
+      "match_phrase": "acer palmatum hana fubuki",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-hubble",
+      "display_name": "Hubble",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-hubble-super-cork-pinebark-japanese-maple/",
+      "match_score": 246,
+      "match_phrase": "hubble",
+      "downloaded_count": 3
+    },
+    {
+      "id": "acer-palmatum-hupp",
+      "display_name": "Hupp",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-hupps-dwarf-specimen-1692/",
+      "match_score": 256,
+      "match_phrase": "acer palmatum hupp",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-katsura-hime",
+      "display_name": "Katsura Hime",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-katsura-hime-japanese-maple/",
+      "match_score": 263,
+      "match_phrase": "acer palmatum katsura hime",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-sieboldianum-kumoi-nishiki",
+      "display_name": "Kumoi Nishiki",
+      "product_url": "https://www.coniferkingdom.com/acer-sieboldianum-kumoi-nishiki-specimen-1670/",
+      "match_score": 268,
+      "match_phrase": "acer sieboldianum kumoi nishiki",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-kurenai-jishi",
+      "display_name": "Kurenai Jishi",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-kurenai-jishi-specimen-1940/",
+      "match_score": 264,
+      "match_phrase": "acer palmatum kurenai jishi",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-kuro-hime",
+      "display_name": "Kuro hime",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-kuro-hime-specimen-2362/",
+      "match_score": 260,
+      "match_phrase": "acer palmatum kuro hime",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-mayday",
+      "display_name": "Mayday",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-mayday-japanese-maple/",
+      "match_score": 258,
+      "match_phrase": "acer palmatum mayday",
+      "downloaded_count": 4
+    },
+    {
+      "id": "acer-palmatum-mizuho-beni",
+      "display_name": "Mizuho beni",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-mizuho-beni-specimen-1806/",
+      "match_score": 262,
+      "match_phrase": "acer palmatum mizuho beni",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-shirasawanum-mr-sun",
+      "display_name": "Mr Sun",
+      "product_url": "https://www.coniferkingdom.com/acer-shirasawanum-mr-sun-japanese-maple/",
+      "match_score": 261,
+      "match_phrase": "acer shirasawanum mr sun",
+      "downloaded_count": 4
+    },
+    {
+      "id": "acer-palmatum-mystic-mikawa",
+      "display_name": "Mystic Mikawa",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-mystic-mikawa-seedling-japanese-maple/",
+      "match_score": 264,
+      "match_phrase": "acer palmatum mystic mikawa",
+      "downloaded_count": 3
+    },
+    {
+      "id": "acer-palmatum-nomura",
+      "display_name": "Nomura",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-shojo-nomura-japanese-maple/",
+      "match_score": 246,
+      "match_phrase": "nomura",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-octopus",
+      "display_name": "Octopus",
+      "product_url": "https://www.coniferkingdom.com/specimen-1158-acer-palmatum-octopus/",
+      "match_score": 259,
+      "match_phrase": "acer palmatum octopus",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-ogon-sarasa",
+      "display_name": "Ogon sarasa",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-ogon-sarasa-specimen-1817/",
+      "match_score": 262,
+      "match_phrase": "acer palmatum ogon sarasa",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-otome-zakura",
+      "display_name": "Otome zakura",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-otome-zakura-japanese-maple/",
+      "match_score": 263,
+      "match_phrase": "acer palmatum otome zakura",
+      "downloaded_count": 2
+    },
+    {
+      "id": "acer-palmatum-red-feathers",
+      "display_name": "Red Feathers",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-red-feathers-specimen-2236/",
+      "match_score": 263,
+      "match_phrase": "acer palmatum red feathers",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-platanoides-rezek",
+      "display_name": "Rezek",
+      "product_url": "https://www.coniferkingdom.com/acer-platanoides-rezeks-dwarf-norway-maple/",
+      "match_score": 260,
+      "match_phrase": "acer platanoides rezek",
+      "downloaded_count": 7
+    },
+    {
+      "id": "acer-palmatum-ruby-star",
+      "display_name": "Ruby Star",
+      "product_url": "https://www.coniferkingdom.com/specimen-1093-acer-palmatum-ruby-star/",
+      "match_score": 260,
+      "match_phrase": "acer palmatum ruby star",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-ryu-zu",
+      "display_name": "Ryu\\zu",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-ryuzu-specimen-1677/",
+      "match_score": 257,
+      "match_phrase": "acer palmatum ryu zu",
+      "downloaded_count": 2
+    },
+    {
+      "id": "acer-palmatum-ryugu",
+      "display_name": "Ryugu",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-ryugu-specimen-2364/",
+      "match_score": 257,
+      "match_phrase": "acer palmatum ryugu",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-s-dwarf-acer-palmatum",
+      "display_name": "s Dwarf-Acer palmatum",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-hupps-dwarf-specimen-1692/",
+      "match_score": 256,
+      "match_phrase": "acer palmatum hupp",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-sieboldianum-seki-no-kegon",
+      "display_name": "Seki No Kegon",
+      "product_url": "https://www.coniferkingdom.com/acer-sieboldianum-seki-no-kegonsiebold-maple/",
+      "match_score": 267,
+      "match_phrase": "acer sieboldianum seki no kegon",
+      "downloaded_count": 3
+    },
+    {
+      "id": "acer-palmatum-sekka-yatsubusa",
+      "display_name": "Sekka yatsubusa",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-sekka-yatsubusa-japanese-maple/",
+      "match_score": 266,
+      "match_phrase": "acer palmatum sekka yatsubusa",
+      "downloaded_count": 5
+    },
+    {
+      "id": "acer-shirasawanum-sensu",
+      "display_name": "Sensu",
+      "product_url": "https://www.coniferkingdom.com/acer-shirasawanum-sensu-specimen-2229/",
+      "match_score": 261,
+      "match_phrase": "acer shirasawanum sensu",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-shigarami",
+      "display_name": "Shigarami",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-shigarami-japanese-maple/",
+      "match_score": 261,
+      "match_phrase": "acer palmatum shigarami",
+      "downloaded_count": 6
+    },
+    {
+      "id": "acer-palmatum-shigure-bato",
+      "display_name": "Shigure bato",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-shigure-bato-specimen-2206/",
+      "match_score": 263,
+      "match_phrase": "acer palmatum shigure bato",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-sho-jo-nomura",
+      "display_name": "Sho\\jo\\ nomura",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-shojo-nomura-japanese-maple/",
+      "match_score": 263,
+      "match_phrase": "acer palmatum sho jo nomura",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-squitty",
+      "display_name": "Squitty",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-squitty-japanese-maple/",
+      "match_score": 259,
+      "match_phrase": "acer palmatum squitty",
+      "downloaded_count": 3
+    },
+    {
+      "id": "acer-palmatum-tobiosho",
+      "display_name": "Tobiosho",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-tobiosho-japanese-maple/",
+      "match_score": 260,
+      "match_phrase": "acer palmatum tobiosho",
+      "downloaded_count": 2
+    },
+    {
+      "id": "acer-palmatum-tsuma-beni",
+      "display_name": "Tsuma beni",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-tsuma-gaki-specimen-1127/",
+      "match_score": 249,
+      "match_phrase": "tsuma gaki",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-tsuma-gaki",
+      "display_name": "Tsuma gaki",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-tsuma-gaki-specimen-1127/",
+      "match_score": 261,
+      "match_phrase": "acer palmatum tsuma gaki",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-tsuri-nishiki",
+      "display_name": "Tsuri nishiki",
+      "product_url": "https://www.coniferkingdom.com/specimen-1157-acer-palmatum-tsuri-nishiki/",
+      "match_score": 264,
+      "match_phrase": "acer palmatum tsuri nishiki",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-watnong",
+      "display_name": "Watnong",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-watnong-japanese-maple/",
+      "match_score": 259,
+      "match_phrase": "acer palmatum watnong",
+      "downloaded_count": 5
+    },
+    {
+      "id": "acer-palmatum-yama-nishiki",
+      "display_name": "Yama Nishiki",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-yama-nishiki-snow-peak-specimen-2094/",
+      "match_score": 263,
+      "match_phrase": "acer palmatum yama nishiki",
+      "downloaded_count": 1
+    },
+    {
+      "id": "acer-palmatum-yuri-hime",
+      "display_name": "Yuri hime",
+      "product_url": "https://www.coniferkingdom.com/acer-palmatum-yuri-hime-sport-japanese-maple/",
+      "match_score": 260,
+      "match_phrase": "acer palmatum yuri hime",
+      "downloaded_count": 2
+    }
+  ],
+  "unmatched": [
+    {
+      "id": "acer-japonicum-akame-hauchiwa",
+      "display_name": "Akame Hauchiwa"
+    },
+    {
+      "id": "acer-palmatum-akegarasu",
+      "display_name": "Akegarasu"
+    },
+    {
+      "id": "acer-pictum-akikaze-nishiki",
+      "display_name": "Akikaze nishiki"
+    },
+    {
+      "id": "acer-akita-yatsubusa",
+      "display_name": "Akita yatsubusa"
+    },
+    {
+      "id": "acer-palmatum-ao-kanzashi",
+      "display_name": "Ao kanzashi"
+    },
+    {
+      "id": "acer-ao-shidare",
+      "display_name": "Ao shidare"
+    },
+    {
+      "id": "acer-ao-shime-no-uchi-shidare",
+      "display_name": "Ao shime-no-uchi shidare"
+    },
+    {
+      "id": "acer-palmatum-arakawa-momiji",
+      "display_name": "Arakawa momiji"
+    },
+    {
+      "id": "acer-palmatum-arakawa-ukon",
+      "display_name": "Arakawa Ukon"
+    },
+    {
+      "id": "acer-pseudosieboldianum-arctic-jade",
+      "display_name": "Arctic Jade"
+    },
+    {
+      "id": "acer-palmatum-asuka",
+      "display_name": "Asuka"
+    },
+    {
+      "id": "acer-palmatum-attraction",
+      "display_name": "Attraction"
+    },
+    {
+      "id": "acer-palmatum-aureo-variegatum",
+      "display_name": "Aureo-variegatum"
+    },
+    {
+      "id": "acer-palmatum-autumn-flame",
+      "display_name": "Autumn Flame"
+    },
+    {
+      "id": "acer-palmatum-autumn-red",
+      "display_name": "Autumn Red"
+    },
+    {
+      "id": "acer-palmatum-baby-ghost",
+      "display_name": "Baby Ghost"
+    },
+    {
+      "id": "acer-sieboldianum-bailey-compact",
+      "display_name": "Bailey Compact"
+    },
+    {
+      "id": "acer-palmatum-barrie-bergman",
+      "display_name": "Barrie Bergman"
+    },
+    {
+      "id": "acer-palmatum-beni-chidori",
+      "display_name": "Beni chidori"
+    },
+    {
+      "id": "acer-palmatum-beni-hoshi",
+      "display_name": "Beni hoshi"
+    },
+    {
+      "id": "acer-palmatum-beni-kawa",
+      "display_name": "Beni Kawa"
+    },
+    {
+      "id": "acer-palmatum-beni-kumo-no-su",
+      "display_name": "Beni kumo-no-su"
+    },
+    {
+      "id": "acer-palmatum-beni-shidare",
+      "display_name": "Beni shidare"
+    },
+    {
+      "id": "acer-palmatum-beni-ubi-gohon",
+      "display_name": "Beni ubi gohon"
+    },
+    {
+      "id": "acer-palmatum-beni-yatsubusa",
+      "display_name": "Beni yatsubusa"
+    },
+    {
+      "id": "acer-palmatum-beni-zuru",
+      "display_name": "Beni zuru"
+    },
+    {
+      "id": "acer-palmatum-berrima-bridge",
+      "display_name": "Berrima Bridge"
+    },
+    {
+      "id": "acer-palmatum-berry-dwarf",
+      "display_name": "Berry Dwarf"
+    },
+    {
+      "id": "acer-palmatum-boskoop-glory",
+      "display_name": "Boskoop Glory"
+    },
+    {
+      "id": "acer-palmatum-brandt",
+      "display_name": "Brandt"
+    },
+    {
+      "id": "acer-palmatum-brocade",
+      "display_name": "Brocade"
+    },
+    {
+      "id": "acer-palmatum-calico",
+      "display_name": "Calico"
+    },
+    {
+      "id": "acer-palmatum-caperci-dwarf",
+      "display_name": "Caperci Dwarf"
+    },
+    {
+      "id": "acer-palmatum-carlis-corner",
+      "display_name": "Carlis Corner"
+    },
+    {
+      "id": "acer-palmatum-cascade-citrine",
+      "display_name": "Cascade Citrine"
+    },
+    {
+      "id": "acer-palmatum-cascade-emerald",
+      "display_name": "Cascade Emerald"
+    },
+    {
+      "id": "acer-palmatum-cascade-gold",
+      "display_name": "Cascade Gold"
+    },
+    {
+      "id": "acer-palmatum-cascade-ruby",
+      "display_name": "Cascade Ruby"
+    },
+    {
+      "id": "acer-palmatum-catalina-yatsubusa",
+      "display_name": "Catalina Yatsubusa"
+    },
+    {
+      "id": "acer-palmatum-cherries-jubilee",
+      "display_name": "Cherries Jubilee"
+    },
+    {
+      "id": "acer-palmatum-chi-otome",
+      "display_name": "Chi Otome"
+    },
+    {
+      "id": "acer-palmatum-chirimen-nishiki",
+      "display_name": "Chirimen nishiki"
+    },
+    {
+      "id": "acer-palmatum-chishio",
+      "display_name": "Chishio"
+    },
+    {
+      "id": "acer-palmatum-coonara-pygmy",
+      "display_name": "Coonara Pygmy"
+    },
+    {
+      "id": "acer-palmatum-coral-pink",
+      "display_name": "Coral Pink"
+    },
+    {
+      "id": "acer-palmatum-cricket",
+      "display_name": "Cricket"
+    },
+    {
+      "id": "acer-palmatum-curtis-strapleaf",
+      "display_name": "Curtis Strapleaf"
+    },
+    {
+      "id": "acer-palmatum-demi-sec",
+      "display_name": "Demi Sec"
+    },
+    {
+      "id": "acer-palmatum-dr-seuss",
+      "display_name": "Dr.Seuss"
+    },
+    {
+      "id": "acer-palmatum-ellen",
+      "display_name": "Ellen"
+    },
+    {
+      "id": "acer-tataricum-embers",
+      "display_name": "Embers"
+    },
+    {
+      "id": "acer-tataricum-emerald-elf",
+      "display_name": "Emerald Elf"
+    },
+    {
+      "id": "acer-japonicum-emmett",
+      "display_name": "Emmett"
+    },
+    {
+      "id": "acer-palmatum-englishtown",
+      "display_name": "Englishtown"
+    },
+    {
+      "id": "acer-palmatum-ever-autumn",
+      "display_name": "Ever Autumn"
+    },
+    {
+      "id": "acer-palmatum-extravaganza",
+      "display_name": "Extravaganza"
+    },
+    {
+      "id": "acer-palmatum-felice",
+      "display_name": "Felice"
+    },
+    {
+      "id": "acer-palmatum-fjellheim",
+      "display_name": "Fjellheim"
+    },
+    {
+      "id": "acer-palmatum-flavescens",
+      "display_name": "Flavescens"
+    },
+    {
+      "id": "acer-palmatum-garnete-lace",
+      "display_name": "Garnete Lace"
+    },
+    {
+      "id": "acer-palmatum-garyu",
+      "display_name": "Garyu¯"
+    },
+    {
+      "id": "acer-palmatum-globosum",
+      "display_name": "Globosum"
+    },
+    {
+      "id": "acer-palmatum-going-green",
+      "display_name": "Going Green"
+    },
+    {
+      "id": "acer-buergerianum-goshiki-kaede",
+      "display_name": "Goshiki kaede"
+    },
+    {
+      "id": "acer-palmatum-green-globe",
+      "display_name": "Green Globe"
+    },
+    {
+      "id": "acer-palmatum-green-hornet",
+      "display_name": "Green Hornet"
+    },
+    {
+      "id": "acer-palmatum-green-lace",
+      "display_name": "Green Lace"
+    },
+    {
+      "id": "acer-palmatum-green-mist",
+      "display_name": "Green Mist"
+    },
+    {
+      "id": "acer-palmatum-groundcover",
+      "display_name": "Groundcover"
+    },
+    {
+      "id": "acer-palmatum-hama-otome",
+      "display_name": "Hama otome"
+    },
+    {
+      "id": "acer-buergerianum-hana-chiru-sato",
+      "display_name": "Hana Chiru Sato"
+    },
+    {
+      "id": "acer-palmatum-hanazono-nishiki",
+      "display_name": "Hanazono nishiki"
+    },
+    {
+      "id": "acer-palmatum-harusame",
+      "display_name": "Harusame"
+    },
+    {
+      "id": "acer-palmatum-hazeroino",
+      "display_name": "Hazeroino"
+    },
+    {
+      "id": "acer-circinatum-herbstfeuer",
+      "display_name": "Herbstfeuer"
+    },
+    {
+      "id": "acer-palmatum-hi-no-tsukasa",
+      "display_name": "Hi No Tsukasa"
+    },
+    {
+      "id": "acer-palmatum-hiu-ga-yama",
+      "display_name": "Hiu\\ga yama"
+    },
+    {
+      "id": "acer-palmatum-hoshi-kuzu",
+      "display_name": "Hoshi kuzu"
+    },
+    {
+      "id": "acer-pycnanthum-hoshi-yadori",
+      "display_name": "Hoshi yadori"
+    },
+    {
+      "id": "acer-palmatum-ibo-nishiki",
+      "display_name": "Ibo nishiki"
+    },
+    {
+      "id": "acer-pseudosieboldianum-ice-dragon",
+      "display_name": "Ice Dragon"
+    },
+    {
+      "id": "acer-palmatum-ikandi",
+      "display_name": "Ikandi"
+    },
+    {
+      "id": "acer-palmatum-irish-lace",
+      "display_name": "Irish Lace"
+    },
+    {
+      "id": "acer-palmatum-iso-chidori",
+      "display_name": "Iso chidori"
+    },
+    {
+      "id": "acer-palmatum-issai-nishiki",
+      "display_name": "Issai nishiki"
+    },
+    {
+      "id": "acer-palmatum-italy-red",
+      "display_name": "Italy Red"
+    },
+    {
+      "id": "acer-palmatum-japanese-princess",
+      "display_name": "Japanese Princess"
+    },
+    {
+      "id": "acer-palmatum-jijiao",
+      "display_name": "JiJiao"
+    },
+    {
+      "id": "acer-shirasawanum-johin",
+      "display_name": "Johin"
+    },
+    {
+      "id": "acer-palmatum-johnnie",
+      "display_name": "Johnnie"
+    },
+    {
+      "id": "acer-palmatum-kaba",
+      "display_name": "Kaba"
+    },
+    {
+      "id": "acer-palmatum-kagero",
+      "display_name": "Kagero\\"
+    },
+    {
+      "id": "acer-palmatum-karasu-gawa",
+      "display_name": "Karasu gawa"
+    },
+    {
+      "id": "acer-palmatum-kasen-nishiki",
+      "display_name": "Kasen nishiki"
+    },
+    {
+      "id": "acer-palmatum-kashima",
+      "display_name": "Kashima"
+    },
+    {
+      "id": "acer-palmatum-katsura-nishiki",
+      "display_name": "katsura Nishiki"
+    },
+    {
+      "id": "acer-shirasawanum-kawaii",
+      "display_name": "Kawaii"
+    },
+    {
+      "id": "acer-tenuifolium-keikan-zan",
+      "display_name": "Keikan Zan"
+    },
+    {
+      "id": "acer-palmatum-kihachijo",
+      "display_name": "Kihachijo¯"
+    },
+    {
+      "id": "acer-palmatum-kingsville-red",
+      "display_name": "Kingsville Red"
+    },
+    {
+      "id": "acer-sieboldianum-kinugasa-yama",
+      "display_name": "Kinugasa yama"
+    },
+    {
+      "id": "acer-palmatum-kiri-nishiki",
+      "display_name": "Kiri nishiki"
+    },
+    {
+      "id": "acer-palmatum-ko-murasaki",
+      "display_name": "Ko murasaki"
+    },
+    {
+      "id": "acer-buergerianum-ko-shi-miyasami",
+      "display_name": "Ko¯shi miyasami"
+    },
+    {
+      "id": "acer-palmatum-kogane-nishiki",
+      "display_name": "Kogane nishiki"
+    },
+    {
+      "id": "acer-palmatum-kogane-sakae",
+      "display_name": "Kogane sakae"
+    },
+    {
+      "id": "acer-palmatum-koi",
+      "display_name": "koi"
+    },
+    {
+      "id": "acer-palmatum-komon-nishiki",
+      "display_name": "Komon nishiki"
+    },
+    {
+      "id": "acer-palmatum-korean-gem",
+      "display_name": "Korean Gem"
+    },
+    {
+      "id": "acer-palmatum-koshibori-nishiki",
+      "display_name": "Koshibori nishiki"
+    },
+    {
+      "id": "acer-palmatum-koshimino",
+      "display_name": "Koshimino"
+    },
+    {
+      "id": "acer-palmatum-koto-ito-komachi",
+      "display_name": "Koto ito komachi"
+    },
+    {
+      "id": "acer-palmatum-koto-maru",
+      "display_name": "Koto maru"
+    },
+    {
+      "id": "acer-palmatum-koyo-ao-shidare",
+      "display_name": "Koyo Ao Shidare"
+    },
+    {
+      "id": "acer-japonicum-kujaku-bato",
+      "display_name": "Kujaku Bato"
+    },
+    {
+      "id": "acer-palmatum-kurabu-yama",
+      "display_name": "Kurabu yama"
+    },
+    {
+      "id": "acer-palmatum-kurui-jishi",
+      "display_name": "Kurui Jishi"
+    },
+    {
+      "id": "acer-buergerianum-kyu-den",
+      "display_name": "Kyu¯den"
+    },
+    {
+      "id": "acer-pseudoplatanus-leopoldii",
+      "display_name": "Leopoldii"
+    },
+    {
+      "id": "acer-palmatum-little-sango",
+      "display_name": "Little Sango"
+    },
+    {
+      "id": "acer-palmatum-lutescens",
+      "display_name": "Lutescens"
+    },
+    {
+      "id": "acer-campestre-magic-spring",
+      "display_name": "Magic Spring"
+    },
+    {
+      "id": "acer-palmatum-mai-mori",
+      "display_name": "Mai mori"
+    },
+    {
+      "id": "acer-palmatum-maiko",
+      "display_name": "Maiko"
+    },
+    {
+      "id": "acer-palmatum-mapi-no-machi-hime",
+      "display_name": "Mapi-no-machi hime"
+    },
+    {
+      "id": "acer-palmatum-marakumo",
+      "display_name": "Marakumo"
+    },
+    {
+      "id": "acer-carpinifolium-marubato-kaede",
+      "display_name": "Marubato¯ kaede"
+    },
+    {
+      "id": "acer-palmatum-masu-kagami",
+      "display_name": "Masu kagami"
+    },
+    {
+      "id": "acer-palmatum-masu-murasaki",
+      "display_name": "Masu murasaki"
+    },
+    {
+      "id": "acer-palmatum-matsugae",
+      "display_name": "Matsugae"
+    },
+    {
+      "id": "acer-palmatum-matsuyoi",
+      "display_name": "Matsuyoi"
+    },
+    {
+      "id": "acer-palmatum-matthew",
+      "display_name": "Matthew"
+    },
+    {
+      "id": "acer-buergerianum-michael-steinhardt",
+      "display_name": "Michael Steinhardt"
+    },
+    {
+      "id": "acer-shirasawanum-microphyllum",
+      "display_name": "Microphyllum"
+    },
+    {
+      "id": "acer-sieboldianum-mikasa-yama",
+      "display_name": "Mikasa Yama"
+    },
+    {
+      "id": "acer-palmatum-mikawa-kaen",
+      "display_name": "Mikawa Kaen"
+    },
+    {
+      "id": "acer-palmatum-mikawa-nishiki",
+      "display_name": "Mikawa Nishiki"
+    },
+    {
+      "id": "acer-palmatum-mikawa-sharps",
+      "display_name": "Mikawa Sharps-"
+    },
+    {
+      "id": "acer-palmatum-mini-mondo",
+      "display_name": "Mini Mondo"
+    },
+    {
+      "id": "acer-carpinifolium-mino-yatsubusa",
+      "display_name": "Mino yatsubusa"
+    },
+    {
+      "id": "acer-shirasawanum-mirte",
+      "display_name": "Mirte"
+    },
+    {
+      "id": "acer-palmatum-miyagino",
+      "display_name": "Miyagino"
+    },
+    {
+      "id": "acer-palmatum-mizu-kuguri",
+      "display_name": "Mizu kuguri"
+    },
+    {
+      "id": "acer-palmatum-momenshide",
+      "display_name": "Momenshide"
+    },
+    {
+      "id": "acer-crataegifolium-monroe",
+      "display_name": "Monroe"
+    },
+    {
+      "id": "acer-shirasawanum-muka",
+      "display_name": "Muka"
+    },
+    {
+      "id": "acer-palmatum-muragumo",
+      "display_name": "Muragumo"
+    },
+    {
+      "id": "acer-palmatum-murasaki-hime",
+      "display_name": "Murasaki hime"
+    },
+    {
+      "id": "acer-palmatum-mure-hibari",
+      "display_name": "Mure hibari"
+    },
+    {
+      "id": "acer-palmatum-muro-gawa",
+      "display_name": "Muro gawa"
+    },
+    {
+      "id": "acer-palmatum-musashino",
+      "display_name": "Musashino"
+    },
+    {
+      "id": "acer-palmatum-nanase-gawa",
+      "display_name": "Nanase gawa"
+    },
+    {
+      "id": "acer-carpinifolium-naruto",
+      "display_name": "Naruto"
+    },
+    {
+      "id": "acer-palmatum-nimura",
+      "display_name": "Nimura"
+    },
+    {
+      "id": "acer-palmatum-nimura-princess",
+      "display_name": "Nimura Princess"
+    },
+    {
+      "id": "acer-palmatum-nishiki-gasane",
+      "display_name": "Nishiki gasane"
+    },
+    {
+      "id": "acer-palmatum-nishiki-momiji",
+      "display_name": "Nishiki momiji"
+    },
+    {
+      "id": "acer-palmatum-nishiki-yamato",
+      "display_name": "Nishiki Yamato"
+    },
+    {
+      "id": "acer-pseudoplatanus-nizetii",
+      "display_name": "Nizetii"
+    },
+    {
+      "id": "acer-pseudosieboldianum-north-wind",
+      "display_name": "North Wind"
+    },
+    {
+      "id": "acer-palmatum-novum",
+      "display_name": "Novum"
+    },
+    {
+      "id": "acer-maximowiczianum-o-isami",
+      "display_name": "O isami"
+    },
+    {
+      "id": "acer-palmatum-ogino-nagare",
+      "display_name": "Ogino nagare"
+    },
+    {
+      "id": "acer-sieboldianum-ogura-yama",
+      "display_name": "Ogura yama"
+    },
+    {
+      "id": "acer-palmatum-okukuji-nishiki",
+      "display_name": "Okukuji nishiki"
+    },
+    {
+      "id": "acer-palmatum-olsen",
+      "display_name": "Olsen"
+    },
+    {
+      "id": "acer-palmatum-orange-lace",
+      "display_name": "Orange Lace"
+    },
+    {
+      "id": "acer-japonicum-oregon-fern",
+      "display_name": "Oregon Fern"
+    },
+    {
+      "id": "acer-palmatum-oshu-shidare",
+      "display_name": "Oshu¯ shidare"
+    },
+    {
+      "id": "acer-campestre-pulverulentum",
+      "display_name": "Pulverulentum"
+    },
+    {
+      "id": "acer-palmatum-purple-mask",
+      "display_name": "Purple Mask"
+    },
+    {
+      "id": "acer-palmatum-purpureum",
+      "display_name": "Purpureum"
+    },
+    {
+      "id": "acer-palmatum-rainbow",
+      "display_name": "Rainbow"
+    },
+    {
+      "id": "acer-palmatum-red-autumn-lace",
+      "display_name": "Red Autumn Lace"
+    },
+    {
+      "id": "acer-palmatum-red-elf",
+      "display_name": "Red Elf"
+    },
+    {
+      "id": "acer-conspicuum-red-flamingo",
+      "display_name": "Red Flamingo"
+    },
+    {
+      "id": "acer-palmatum-red-sabar",
+      "display_name": "Red Sabar"
+    },
+    {
+      "id": "acer-palmatum-royle",
+      "display_name": "Royle"
+    },
+    {
+      "id": "acer-palmatum-rubrifolium",
+      "display_name": "Rubrifolium"
+    },
+    {
+      "id": "acer-palmatum-rubrum",
+      "display_name": "Rubrum"
+    },
+    {
+      "id": "acer-japonicum-ruby",
+      "display_name": "Ruby"
+    },
+    {
+      "id": "acer-palmatum-ruby-lace",
+      "display_name": "Ruby Lace"
+    },
+    {
+      "id": "acer-palmatum-rufescens",
+      "display_name": "Rufescens"
+    },
+    {
+      "id": "acer-palmatum-rugose",
+      "display_name": "Rugose"
+    },
+    {
+      "id": "acer-palmatum-ryu-mon-nishiki",
+      "display_name": "Ryu\\mon nishiki"
+    },
+    {
+      "id": "acer-palmatum-samidare",
+      "display_name": "Samidare"
+    },
+    {
+      "id": "acer-palmatum-sanguineum",
+      "display_name": "Sanguineum"
+    },
+    {
+      "id": "acer-palmatum-saoshika",
+      "display_name": "Saoshika"
+    },
+    {
+      "id": "acer-palmatum-saotome",
+      "display_name": "Saotome"
+    },
+    {
+      "id": "acer-palmatum-satsuki-beni",
+      "display_name": "Satsuki beni"
+    },
+    {
+      "id": "acer-palmatum-seigai",
+      "display_name": "Seigai"
+    },
+    {
+      "id": "acer-palmatum-seigen",
+      "display_name": "Seigen"
+    },
+    {
+      "id": "acer-palmatum-seiun-kaku",
+      "display_name": "Seiun kaku"
+    },
+    {
+      "id": "acer-palmatum-semi-no-hane",
+      "display_name": "Semi-no-hane"
+    },
+    {
+      "id": "acer-palmatum-shichihenge",
+      "display_name": "Shichihenge"
+    },
+    {
+      "id": "acer-palmatum-shigi-no-hoshi",
+      "display_name": "Shigi no hoshi"
+    },
+    {
+      "id": "acer-palmatum-shigure-zome",
+      "display_name": "Shigure zome"
+    },
+    {
+      "id": "acer-palmatum-shikage-ori-nishiki",
+      "display_name": "Shikage ori nishiki"
+    },
+    {
+      "id": "acer-palmatum-shime-no-uchi",
+      "display_name": "Shime-no-uchi"
+    },
+    {
+      "id": "acer-palmatum-shin-chishio",
+      "display_name": "Shin chishio"
+    },
+    {
+      "id": "acer-palmatum-shin-higasa",
+      "display_name": "Shin Higasa"
+    },
+    {
+      "id": "acer-palmatum-shinobuga-oka",
+      "display_name": "Shinobuga oka"
+    },
+    {
+      "id": "acer-palmatum-shiraname",
+      "display_name": "Shiraname"
+    },
+    {
+      "id": "acer-palmatum-shishi-yatsubusa",
+      "display_name": "Shishi yatsubusa"
+    },
+    {
+      "id": "acer-palmatum-shishio",
+      "display_name": "Shishio"
+    },
+    {
+      "id": "acer-palmatum-shishio-hime",
+      "display_name": "Shishio hime"
+    },
+    {
+      "id": "acer-palmatum-sho-jo-no-mai",
+      "display_name": "Sho\\jo\\-no-mai"
+    },
+    {
+      "id": "acer-campestre-silver-celebration",
+      "display_name": "Silver Celebration"
+    },
+    {
+      "id": "acer-sieboldianum-sode-no-uchi",
+      "display_name": "Sode-no-uchi"
+    },
+    {
+      "id": "acer-palmatum-sonw-kitty",
+      "display_name": "Sonw Kitty"
+    },
+    {
+      "id": "acer-palmatum-stella-rossa",
+      "display_name": "Stella Rossa"
+    },
+    {
+      "id": "acer-palmatum-suisei",
+      "display_name": "Suisei"
+    },
+    {
+      "id": "acer-circinatum-sunglow",
+      "display_name": "Sunglow"
+    },
+    {
+      "id": "acer-circinatum-sunny-sister",
+      "display_name": "Sunny Sister"
+    },
+    {
+      "id": "acer-palmatum-taimin",
+      "display_name": "Taimin"
+    },
+    {
+      "id": "acer-palmatum-taimin-nishiki",
+      "display_name": "Taimin nishiki"
+    },
+    {
+      "id": "acer-japonicuum-taiyu",
+      "display_name": "Taiyu"
+    },
+    {
+      "id": "acer-palmatum-takao",
+      "display_name": "Takao"
+    },
+    {
+      "id": "acer-palmatum-tama-hime",
+      "display_name": "Tama hime"
+    },
+    {
+      "id": "acer-palmatum-tama-nishiki",
+      "display_name": "Tama nishiki"
+    },
+    {
+      "id": "acer-palmatum-tamaori-nishiki",
+      "display_name": "Tamaori nishiki"
+    },
+    {
+      "id": "acer-palmatum-tana",
+      "display_name": "Tana"
+    },
+    {
+      "id": "acer-palmatum-tanabata",
+      "display_name": "Tanabata"
+    },
+    {
+      "id": "acer-carpinifolium-tancho",
+      "display_name": "Tancho¯"
+    },
+    {
+      "id": "acer-palmatum-tatsuta",
+      "display_name": "Tatsuta"
+    },
+    {
+      "id": "acer-palmatum-tattoo",
+      "display_name": "Tattoo"
+    },
+    {
+      "id": "acer-palmatum-tennyo-no-hoshi",
+      "display_name": "Tennyo-no-hoshi"
+    },
+    {
+      "id": "acer-palmatum-the-bishop",
+      "display_name": "The Bishop"
+    },
+    {
+      "id": "acer-palmatum-tiger-rose",
+      "display_name": "Tiger Rose"
+    },
+    {
+      "id": "acer-palmatum-tohoku-shichihenge",
+      "display_name": "Tohoku Shichihenge"
+    },
+    {
+      "id": "acer-palmatum-tsuchigumo",
+      "display_name": "Tsuchigumo"
+    },
+    {
+      "id": "acer-palmatum-tsukomo",
+      "display_name": "Tsukomo"
+    },
+    {
+      "id": "acer-palmatum-tsukuba-ne",
+      "display_name": "Tsukuba ne"
+    },
+    {
+      "id": "acer-palmatum-tsuru-no-mai",
+      "display_name": "Tsuru No Mai"
+    },
+    {
+      "id": "acer-palmatum-twisted-spider",
+      "display_name": "Twisted Spider"
+    },
+    {
+      "id": "acer-palmatum-ueno-homare",
+      "display_name": "Ueno homare"
+    },
+    {
+      "id": "acer-palmatum-ueno-yama",
+      "display_name": "Ueno yama"
+    },
+    {
+      "id": "acer-palmatum-uncle-ghost",
+      "display_name": "Uncle Ghost"
+    },
+    {
+      "id": "acer-palmatum-ushio-no-tsuma",
+      "display_name": "Ushio No Tsuma"
+    },
+    {
+      "id": "acer-palmatum-usu-midori",
+      "display_name": "Usu Midori"
+    },
+    {
+      "id": "acer-pycnanthum-usugumo",
+      "display_name": "Usugumo"
+    },
+    {
+      "id": "acer-palmatum-vandermoss-red",
+      "display_name": "Vandermoss Red"
+    },
+    {
+      "id": "acer-palmatum-variegatum",
+      "display_name": "Variegatum"
+    },
+    {
+      "id": "acer-diabolicum-veitchii",
+      "display_name": "Veitchii"
+    },
+    {
+      "id": "acer-palmatum-vic-pink",
+      "display_name": "Vic Pink"
+    },
+    {
+      "id": "acer-palmatum-viride",
+      "display_name": "Viride"
+    },
+    {
+      "id": "acer-palmatum-volubile",
+      "display_name": "Volubile"
+    },
+    {
+      "id": "acer-palmatum-wabito",
+      "display_name": "Wabito"
+    },
+    {
+      "id": "acer-palmatum-waka-momiji",
+      "display_name": "Waka momiji"
+    },
+    {
+      "id": "acer-palmatum-wakehurst-pink",
+      "display_name": "Wakehurst Pink"
+    },
+    {
+      "id": "acer-morifolium-wakisaka-nishiki",
+      "display_name": "Wakisaka Nishiki"
+    },
+    {
+      "id": "acer-palmatum-washi-no-o",
+      "display_name": "Washi No O"
+    },
+    {
+      "id": "acer-palmatum-willow-leaf",
+      "display_name": "Willow Leaf"
+    },
+    {
+      "id": "acer-palmatum-yu-gure",
+      "display_name": "Yu\\gure"
+    },
+    {
+      "id": "acer-palmatum",
+      "display_name": "红三河八房"
+    },
+    {
+      "id": "acer-palmatumarakawa",
+      "display_name": "荒皮"
+    },
+    {
+      "id": "acer-palmatum-akame-hagoromo",
+      "reason": "manual_cleanup_after_review"
+    },
+    {
+      "id": "acer-palmatum-filigree",
+      "reason": "manual_cleanup_after_review"
+    },
+    {
+      "id": "acer-palmatum-geisha",
+      "reason": "manual_cleanup_after_review"
+    },
+    {
+      "id": "acer-palmatum-mama",
+      "reason": "manual_cleanup_after_review"
+    },
+    {
+      "id": "acer-palmatum-nishiki-gawa",
+      "reason": "manual_cleanup_after_review"
+    },
+    {
+      "id": "acer-palmatum-oto-hime",
+      "reason": "manual_cleanup_after_review"
+    },
+    {
+      "id": "acer-palmatum-red-baby-lace",
+      "reason": "manual_cleanup_after_review"
+    },
+    {
+      "id": "acer-palmatum-sho-jo",
+      "reason": "manual_cleanup_after_review"
+    },
+    {
+      "id": "acer-palmatum-wou-nishiki",
+      "reason": "manual_cleanup_after_review"
+    },
+    {
+      "id": "acer-palmatum-yatsubusa",
+      "reason": "manual_cleanup_after_review"
+    }
+  ]
+}

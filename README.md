@@ -41,17 +41,33 @@ http://127.0.0.1:4173/
 npm run build
 ```
 
-腾讯云 / CloudBase 根路径部署：
+腾讯云 / CloudBase 静态托管部署到 `/maple`：
 
 ```bash
-npm run build
-npm run deploy:cloudbase -- cloud1-xxxx / dist
+npm run build:hosting:maple
+```
+
+控制台推荐配置：
+
+```text
+目标目录: ./
+安装命令: npm install
+构建命令: npm run build:hosting:maple
+构建产物目录: dist
+部署路径: /maple
+```
+
+如果使用 CLI 上传到 CloudBase 静态托管：
+
+```bash
+npm run build:hosting:maple
+npm run deploy:cloudbase -- cloud1-xxxx /maple dist
 ```
 
 如果上传大量图片时偶发断开，可以增加重试次数：
 
 ```bash
-MAX_RETRIES=5 npm run deploy:cloudbase -- cloud1-xxxx / dist
+MAX_RETRIES=5 npm run deploy:cloudbase -- cloud1-xxxx /maple dist
 ```
 
 小程序构建：
@@ -79,8 +95,10 @@ npm run mini:dev
 
 - 应用使用 `HashRouter`
 - `npm run dev` 和 `npm run build` 都会先执行 `npm run sync-data`
+- `npm run build:hosting:maple` 会以 `/maple/` 为公共路径输出 Web 构建
 - 首页使用 `catalog.json` 轻量加载
 - 详情页按 `id` 单独请求 `public/data/details/*.json`
+- `dist/` 会包含 Web 页面本身以及 `data/`、`rhs-images/`、`mrmaple-images/`、`herter-images/`、`ncsu-images/` 和 `coniferkingdom-images/`，可直接用于静态托管
 
 ## 微信小程序
 
@@ -92,9 +110,9 @@ npm run mini:dev
   - `pages/awards`
   - `pages/cultivar-detail`
 - 小程序默认读取当前 Web 开发数据地址：
-  - `http://127.0.0.1:4173`
-- 生产环境静态资源地址需要手动修改：
-  - `mini/.env.production`
+  - 由 `mini/.env.development` 控制
+- 生产环境静态资源地址：
+  - 由 `mini/.env.production` 控制
 
 推荐开发顺序：
 
@@ -103,14 +121,15 @@ npm run dev
 npm run mini:dev
 ```
 
-然后在微信开发者工具中打开 `mini/dist/`。
+然后在微信开发者工具中打开 `mini/`，项目配置里的 `miniprogramRoot` 会指向 `dist/`。
 
 注意：
 
 - 小程序开发环境不要使用 `127.0.0.1` 作为数据地址
 - 当前开发地址已写入 `mini/.env.development`
-- 如果你的电脑局域网 IP 变化，需要同步修改：
+- 如果改用 CloudBase / 其他静态托管域名，需要同步更新：
   - `mini/.env.development`
+  - `mini/.env.production`
 
 ## Git 提示
 

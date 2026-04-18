@@ -15,7 +15,7 @@
     "green"
   ],
   "descriptions": {
-    "preferred": "This delightful dwarf is a compact little shrub which is popular for bonsai as well as for the rock garden. The leaf nodes are closely spaced on the twigs, and it forms a multibranched structure, reaching little more than 2 m at maturity. The leaves are tightly spaced, overlapping, and bunched, giving rise to the name 'Ryu\\zu', which means \"ornamental dragon's head.\" This cultivar has also been known under the name"
+    "preferred": "This delightful dwarf is a compact little shrub which is popular for bonsai as well as for the rock garden. The leaf nodes are closely spaced on the twigs, and it forms a multibranched structure, reaching little more than 2 m at maturity. The leaves are tightly spaced, overlapping, and bunched, giving rise to the name 'Ryu\\zu', which means \"ornamental dragon's head. \" This cultivar has also been known under the name"
   },
   "images": {
     "count": 0,
@@ -23,10 +23,17 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-ryu-zu/01-Acer-palmatum-Ryuzu-Specimen-1677-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-ryu-zu/02-8-globose-spreader_2nd.png"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-ryu-zu/01-Acer-palmatum-Ryuzu-Specimen-1677-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-ryu-zu/01-Acer-palmatum-Ryuzu-Specimen-1677-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-ryu-zu/02-8-globose-spreader_2nd.png"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -51,6 +58,15 @@
       "group": "Dwarf",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Ryuzu’ Specimen 1677",
+      "botanical_name": "Acer palmatum 'Ryu\\zu'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-ryuzu-specimen-1677/",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -70,7 +86,7 @@
     "Acer palmatum 'Ryu¯ zu'",
     "Ryu¯ zu"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -145,11 +161,67 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "一类紧凑的灌木状小乔木，形成扁圆球形落叶树冠，高可达 2 米。叶片排列紧密，由向外放射的 5-7 裂片组成，叶缘具明显锯齿；春季为淡绿泛浅粉色，夏季转绿，秋季变为温暖的橙黄色。"
+    "description": "一类紧凑的灌木状小乔木，形成扁圆球形落叶树冠，高可达 2 米。 叶片排列紧密，由向外放射的 5-7 裂片组成，叶缘具明显锯齿；春季为淡绿泛浅粉色，夏季转绿，秋季变为温暖的橙黄色。"
   },
   "descriptions_zh": {
-    "preferred": "这一迷人的矮生品种为紧凑的小型灌木，既适合盆景，也深受岩石园爱好者欢迎。枝条上的叶节间很短，植株形成多分枝结构，成熟时高度通常仅略超过 2 米。叶片排列紧密、彼此重叠并簇生，因此得名 'Ryu\\zu'，意为“装饰性的龙头”。该品种也曾以 'Tatsu gashira' 之名流通。新叶为淡绿色，上覆一层浅浅的粉色，粉色很快消退，成熟叶转为绿色。叶缘具非常明显的锯齿。叶片通常七裂时，基部两裂很小。各裂片呈卵形，并逐渐收为细长尖端；裂片边缘略向上卷，几乎形成浅槽。叶片长宽约 3-4 厘米，偶可达 5 厘米。坚挺的叶柄仅约 1 厘米长。宾夕法尼亚州 Downingtown 的女巫扫帚和矮生槭树专家 Billy Schwartz 形容其叶片像被熨平的"
+    "preferred": "这一迷人的矮生品种为紧凑的小型灌木，既适合盆景，也深受岩石园爱好者欢迎。 枝条上的叶节间很短，植株形成多分枝结构，成熟时高度通常仅略超过 2 米。 叶片排列紧密、彼此重叠并簇生，因此得名 'Ryu\\zu'，意为“装饰性的龙头”。 该品种也曾以 'Tatsu gashira' 之名流通。 新叶为淡绿色，上覆一层浅浅的粉色，粉色很快消退，成熟叶转为绿色。 叶缘具非常明显的锯齿。 叶片通常七裂时，基部两裂很小。 各裂片呈卵形，并逐渐收为细长尖端；裂片边缘略向上卷，几乎形成浅槽。 叶片长宽约 3-4 厘米，偶可达 5 厘米。 坚挺的叶柄仅约 1 厘米长。 宾夕法尼亚州 Downingtown 的女巫扫帚和矮生槭树专家 Billy Schwartz 形容其叶片像被熨平的"
   },
   "has_mrmaple": false,
-  "mrmaple": null
+  "mrmaple": null,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-ryuzu-specimen-1677/",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ryu-zu/01-Acer-palmatum-Ryuzu-Specimen-1677-2.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ryu-zu/01-Acer-palmatum-Ryuzu-Specimen-1677-2.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ryu-zu/02-8-globose-spreader_2nd.png"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Ryuzu’ Specimen 1677",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-ryuzu-specimen-1677/",
+        "botanical_name": "Acer palmatum 'Ryu\\zu'",
+        "common_name": "Ryu\\zu",
+        "description_text": "Colorful new growth has a mix of apricot tones and light-green color. The leaves and buds are quite densely-arranged, giving this slow-growing maple a congested appearance.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum ryu zu",
+        "match_score": 257
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/02/Acer-palmatum-Ryuzu-Specimen-1677-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-ryuzu-specimen-1677/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ryu-zu/01-Acer-palmatum-Ryuzu-Specimen-1677-2.jpg",
+          "bytes": 569959,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:21.991Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://www.coniferkingdom.com/wp-content/uploads/2021/02/8-globose-spreader_2nd.png",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-ryuzu-specimen-1677/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ryu-zu/02-8-globose-spreader_2nd.png",
+          "bytes": 13082,
+          "content_type": "image/png",
+          "downloaded_at": "2026-04-18T03:26:22.320Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ryu-zu/01-Acer-palmatum-Ryuzu-Specimen-1677-2.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-ryu-zu/02-8-globose-spreader_2nd.png"
+      ]
+    }
+  }
 }

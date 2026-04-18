@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "由美国俄勒冈州科瓦利斯市的吉姆 · 巴格特（美国俄勒冈州立大学的粮食作物育种家）选育，由巴克霍兹苗圃的泰隆 · 巴克霍兹命名并推广。扇子是鸡爪槭和白泽槭的杂交品种，母本树为白泽槭帕提佛，春叶为翠绿色，偶有金色和棕色色调，夏叶为深绿色，秋天变为橙黄或南瓜黄色或深红色，小环境不一样，秋色会有较大的差异。生长快速，抗性佳，成年株可达 2 米左右。"
+    "preferred": "由美国俄勒冈州科瓦利斯市的吉姆 · 巴格特（美国俄勒冈州立大学的粮食作物育种家）选育，由巴克霍兹苗圃的泰隆 · 巴克霍兹命名并推广。 扇子是鸡爪槭和白泽槭的杂交品种，母本树为白泽槭帕提佛，春叶为翠绿色，偶有金色和棕色色调，夏叶为深绿色，秋天变为橙黄或南瓜黄色或深红色，小环境不一样，秋色会有较大的差异。 生长快速，抗性佳，成年株可达 2 米左右。"
   },
   "images": {
     "count": 7,
@@ -19,10 +19,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-shirasawanum-sensu/01-Acer-shirasawanum-Sensu-Specimen-2229r-1.jpg"
+    ],
+    "public_jmac_paths": [],
+    "public_cover_path": "/coniferkingdom-images/acer-shirasawanum-sensu/01-Acer-shirasawanum-Sensu-Specimen-2229r-1.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-shirasawanum-sensu/01-Acer-shirasawanum-Sensu-Specimen-2229r-1.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -33,7 +38,7 @@
       "top_group_name": "羽扇槭",
       "second_group_name": "白泽槭",
       "title": "扇子 Acer Shirasawanum 'Sensu'",
-      "description": "由美国俄勒冈州科瓦利斯市的吉姆 · 巴格特（美国俄勒冈州立大学的粮食作物育种家）选育，由巴克霍兹苗圃的泰隆 · 巴克霍兹命名并推广。扇子是鸡爪槭和白泽槭的杂交品种，母本树为白泽槭帕提佛，春叶为翠绿色，偶有金色和棕色色调，夏叶为深绿色，秋天变为橙黄或南瓜黄色或深红色，小环境不一样，秋色会有较大的差异。生长快速，抗性佳，成年株可达 2 米左右。",
+      "description": "由美国俄勒冈州科瓦利斯市的吉姆 · 巴格特（美国俄勒冈州立大学的粮食作物育种家）选育，由巴克霍兹苗圃的泰隆 · 巴克霍兹命名并推广。 扇子是鸡爪槭和白泽槭的杂交品种，母本树为白泽槭帕提佛，春叶为翠绿色，偶有金色和棕色色调，夏叶为深绿色，秋天变为橙黄或南瓜黄色或深红色，小环境不一样，秋色会有较大的差异。 生长快速，抗性佳，成年株可达 2 米左右。",
       "image_count": 7
     },
     {
@@ -41,6 +46,15 @@
       "rhs_id": 229825,
       "detail_url": "https://www.rhs.org.uk/plants/229825/acer-sensu/details",
       "botanical_name": "Acer 'Sensu'",
+      "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer shirasawanum ‘Sensu’ Specimen 2229",
+      "botanical_name": "Acer Shirasawanum 'Sensu'",
+      "detail_url": "https://www.coniferkingdom.com/acer-shirasawanum-sensu-specimen-2229/",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -62,7 +76,7 @@
     "白泽槭",
     "羽扇槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -120,7 +134,49 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "由美国俄勒冈州科瓦利斯市的吉姆 · 巴格特（美国俄勒冈州立大学的粮食作物育种家）选育，由巴克霍兹苗圃的泰隆 · 巴克霍兹命名并推广。扇子是鸡爪槭和白泽槭的杂交品种，母本树为白泽槭帕提佛，春叶为翠绿色，偶有金色和棕色色调，夏叶为深绿色，秋天变为橙黄或南瓜黄色或深红色，小环境不一样，秋色会有较大的差异。生长快速，抗性佳，成年株可达 2 米左右。"
+    "preferred": "由美国俄勒冈州科瓦利斯市的吉姆 · 巴格特（美国俄勒冈州立大学的粮食作物育种家）选育，由巴克霍兹苗圃的泰隆 · 巴克霍兹命名并推广。 扇子是鸡爪槭和白泽槭的杂交品种，母本树为白泽槭帕提佛，春叶为翠绿色，偶有金色和棕色色调，夏叶为深绿色，秋天变为橙黄或南瓜黄色或深红色，小环境不一样，秋色会有较大的差异。 生长快速，抗性佳，成年株可达 2 米左右。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-shirasawanum-sensu-specimen-2229/",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-sensu/01-Acer-shirasawanum-Sensu-Specimen-2229r-1.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-sensu/01-Acer-shirasawanum-Sensu-Specimen-2229r-1.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer shirasawanum ‘Sensu’ Specimen 2229",
+        "product_url": "https://www.coniferkingdom.com/acer-shirasawanum-sensu-specimen-2229/",
+        "botanical_name": "Acer Shirasawanum 'Sensu'",
+        "common_name": "Sensu",
+        "description_text": "Simply stunning, the fall foliage of this Full Moon maple suggests a flaming sun with golden rays edged in bright scarlet. The pointed leaves emerge light-green with orange-red highlights in spring, and the accents persist in full sun.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer shirasawanum sensu",
+        "match_score": 261
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2022/08/Acer-shirasawanum-Sensu-Specimen-2229r-1.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-shirasawanum-sensu-specimen-2229/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-sensu/01-Acer-shirasawanum-Sensu-Specimen-2229r-1.jpg",
+          "bytes": 334585,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T03:26:39.110Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-shirasawanum-sensu/01-Acer-shirasawanum-Sensu-Specimen-2229r-1.jpg"
+      ]
+    }
+  }
 }

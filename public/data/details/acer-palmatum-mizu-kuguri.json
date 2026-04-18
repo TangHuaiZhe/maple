@@ -25,9 +25,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -52,6 +57,15 @@
       "group": "palmatum",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Mizu kuguri' Rare Japanese Maple",
+      "botanical_name": "Acer palmatum 'Mizu kuguri'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mizu-kuguri",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -66,7 +80,7 @@
     "Mizu kuguri",
     "Mizu-kuguri"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -89,9 +103,52 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "该品种的春季叶色在 Acer palmatum 类型中较为少见。底色为浅绿色，但整片叶面上覆有粉玫瑰色至浅砖红色的晕染。整体效果并不浓烈刺眼，而是一种柔和的通体着色。到生长季后期，叶色会转淡。该品种形成较为直立的株形，高可达 3 米。"
+    "preferred": "该品种的春季叶色在 Acer palmatum 类型中较为少见。 底色为浅绿色，但整片叶面上覆有粉玫瑰色至浅砖红色的晕染。 整体效果并不浓烈刺眼，而是一种柔和的通体着色。 到生长季后期，叶色会转淡。 该品种形成较为直立的株形，高可达 3 米。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mizu-kuguri",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Mizu kuguri' Rare Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mizu-kuguri",
+        "botanical_name": "Acer palmatum 'Mizu kuguri'",
+        "common_name": "Mizu kuguri",
+        "description_text": "Acer palmatum ‘Mizu kuguri’ leafs out with large bright golden yellow leaves in the spring. These colorful leaves will darken to a more traditional green color in the summer. Fall color will be yellow to orange. ‘Mizu kuguri’ is a small to medium growing upright Japanese maple that really shouldn’t get much taller than 10 feet at maturity. 10 Year Size: Height: 8-10 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Mizu kuguri",
+        "match_score": 370,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-mizu-kuguri-470919.jpg?v=1658490825",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mizu-kuguri",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg",
+          "bytes": 358032,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:21.081Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg"
+      ]
+    }
+  }
 }

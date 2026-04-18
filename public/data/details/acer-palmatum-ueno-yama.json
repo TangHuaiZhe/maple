@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -44,6 +49,15 @@
       "group": "palmatum",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Ueno yama' Yellow Japanese Maple",
+      "botanical_name": "Acer palmatum 'Ueno yama'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ueno-yama-yellow-japanese-maple",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -54,15 +68,58 @@
     "Acer palmatum 'Ueno yama'",
     "Ueno yama"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "这是一株中型直立乔木，春季叶色极为出众。它属于 'Katsura' 系春色槭之一，但橙色比 'Katsura' 更深、更鲜艳。中等大小的叶片具 5 个裂片，长宽约 5-7 厘米。裂片深裂，接近叶基的四分之三处，呈典型的掌状向外放射。'Ueno yama' 是春季较早展叶的品种之一。强烈的橙色可在景观中持续主导数周，视觉冲击力很强。随着春季推进，橙色逐渐过渡并融合进绿色之中。夏季叶色为明快而漂亮的绿色。秋季又回到黄橙色系。该品种生长良好、长势强健、耐寒，树形挺拔，虽然随着树龄增长，长侧枝会使树冠逐渐开展。它非常适合作为中等偏高景观层次中的点景树，也非常适合提供早春叶色。"
+    "preferred": "这是一株中型直立乔木，春季叶色极为出众。 它属于 'Katsura' 系春色槭之一，但橙色比 'Katsura' 更深、更鲜艳。 中等大小的叶片具 5 个裂片，长宽约 5-7 厘米。 裂片深裂，接近叶基的四分之三处，呈典型的掌状向外放射。 'Ueno yama' 是春季较早展叶的品种之一。 强烈的橙色可在景观中持续主导数周，视觉冲击力很强。 随着春季推进，橙色逐渐过渡并融合进绿色之中。 夏季叶色为明快而漂亮的绿色。 秋季又回到黄橙色系。 该品种生长良好、长势强健、耐寒，树形挺拔，虽然随着树龄增长，长侧枝会使树冠逐渐开展。 它非常适合作为中等偏高景观层次中的点景树，也非常适合提供早春叶色。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ueno-yama-yellow-japanese-maple",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Ueno yama' Yellow Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ueno-yama-yellow-japanese-maple",
+        "botanical_name": "Acer palmatum 'Ueno yama'",
+        "common_name": "Ueno yama",
+        "description_text": "Acer palmatum 'Ueno Yama' Japanese Maple is a visually captivating, upright tree that brings vibrant color to the landscape throughout the seasons. In spring, its foliage emerges with a striking orange hue and red-edged leaves, creating a brilliant display that often gives the entire tree a glowing orange appearance. The leaves are deeply lobed and finely toothed, with each lobe reaching out on different planes, giving the tree a delicate, feathery texture. As the season progresses, the spring color transitions to a bright yellow-green, eventually maturing to a soft medium green for the summer months. In fall, 'Ueno Yama' puts on a spectacular show of yellow, orange, and red, providing stunning autumn interest. This medium-sized tree typically reaches 8 to 12 feet in height over the course of 10 years. It thrives in partial sun to partial shade and is perfect for adding a touch of spring-like brilliance to any garden. Its dynamic foliage and striking color changes throughout the year make 'Ueno Yama' a standout accent tree. Ideal for those seeking a tree that offers both early spring excitement and year-round beauty, 'Ueno Yama' is a wonderful addition to any landscape",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Ueno yama",
+        "match_score": 368,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg?v=1753782252",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ueno-yama-yellow-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg",
+          "bytes": 359144,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:25:13.035Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg"
+      ]
+    }
+  }
 }

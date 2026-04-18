@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "卡哇伊耐寒性绝佳，是一种矮生型枫树。叶色深橙色至 深红色，由俄勒冈的 Jim Baggett 发现 Talon Buchholz 命 名。其叶片小至中型，叶裂深至基部，且裂叶亦分裂为 小裂叶，小裂叶边缘呈粗糙的钩状锯齿。这个品种的名 字因其可爱的外观而得名，成年树高约 1 米。"
+    "preferred": "卡哇伊耐寒性绝佳，是一种矮生型枫树。 叶色深橙色至 深红色，由俄勒冈的 Jim Baggett 发现 Talon Buchholz 命 名。 其叶片小至中型，叶裂深至基部，且裂叶亦分裂为 小裂叶，小裂叶边缘呈粗糙的钩状锯齿。 这个品种的名 字因其可爱的外观而得名，成年树高约 1 米。"
   },
   "images": {
     "count": 7,
@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -33,7 +34,7 @@
       "top_group_name": "羽扇槭",
       "second_group_name": "白泽槭",
       "title": "卡哇伊 Acer Shirasawanum 'Kawaii'",
-      "description": "卡哇伊耐寒性绝佳，是一种矮生型枫树。叶色深橙色至 深红色，由俄勒冈的 Jim Baggett 发现 Talon Buchholz 命 名。其叶片小至中型，叶裂深至基部，且裂叶亦分裂为 小裂叶，小裂叶边缘呈粗糙的钩状锯齿。这个品种的名 字因其可爱的外观而得名，成年树高约 1 米。",
+      "description": "卡哇伊耐寒性绝佳，是一种矮生型枫树。 叶色深橙色至 深红色，由俄勒冈的 Jim Baggett 发现 Talon Buchholz 命 名。 其叶片小至中型，叶裂深至基部，且裂叶亦分裂为 小裂叶，小裂叶边缘呈粗糙的钩状锯齿。 这个品种的名 字因其可爱的外观而得名，成年树高约 1 米。",
       "image_count": 7
     },
     {
@@ -116,7 +117,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "卡哇伊耐寒性绝佳，是一种矮生型枫树。叶色深橙色至 深红色，由俄勒冈的 Jim Baggett 发现 Talon Buchholz 命 名。其叶片小至中型，叶裂深至基部，且裂叶亦分裂为 小裂叶，小裂叶边缘呈粗糙的钩状锯齿。这个品种的名 字因其可爱的外观而得名，成年树高约 1 米。"
+    "preferred": "卡哇伊耐寒性绝佳，是一种矮生型枫树。 叶色深橙色至 深红色，由俄勒冈的 Jim Baggett 发现 Talon Buchholz 命 名。 其叶片小至中型，叶裂深至基部，且裂叶亦分裂为 小裂叶，小裂叶边缘呈粗糙的钩状锯齿。 这个品种的名 字因其可爱的外观而得名，成年树高约 1 米。"
   },
   "has_mrmaple": false
 }

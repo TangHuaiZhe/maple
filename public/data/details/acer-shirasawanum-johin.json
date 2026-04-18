@@ -20,9 +20,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-shirasawanum-johin/01-acer-shirasawanum-johin-189123.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-shirasawanum-johin/01-acer-shirasawanum-johin-189123.jpg",
+    "public_paths": [
+      "/jmac-images/acer-shirasawanum-johin/01-acer-shirasawanum-johin-189123.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -42,6 +47,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/222283/acer-shirasawanum-johin/details",
       "botanical_name": "Acer shirasawanum 'Johin'",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer shirasawanum 'Johin' Full Moon Japanese Maple",
+      "botanical_name": "Acer Shirasawanum 'Johin'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-shirasawanum-johin",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -60,7 +74,7 @@
     "白泽槭",
     "羽扇槭"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": true,
   "has_book": false,
   "has_rhs": true,
@@ -118,5 +132,48 @@
   "descriptions_zh": {
     "preferred": "Johin 由俄勒冈州的巴克霍兹苗圃繁育并命名，从帕提佛的籽播苗中选育出来的，在日文里面意为\"优雅\"。 春叶紫红色并有黄绿色的脉纹，夏季在足够的光照条件下，叶色为绿色，但是有红色的色调，秋天变为橙黄色。 直立生长，枝条偏软，生长速度中等，成年树可达 3 米左右。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-shirasawanum-johin",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-shirasawanum-johin/01-acer-shirasawanum-johin-189123.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-shirasawanum-johin/01-acer-shirasawanum-johin-189123.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer shirasawanum 'Johin' Full Moon Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-shirasawanum-johin",
+        "botanical_name": "Acer Shirasawanum 'Johin'",
+        "common_name": "Johin",
+        "description_text": "Acer Shirasawanum 'Johin' emerges purple in early spring with prominent green veins giving it a very attractive and different appearance that stands out in the garden. In summer, the color becomes olive green. The growth habit is decidedly upright. Fall color is predominantly yellow with orange markings creating a very desirable effect. The Japanese translation of johin is elegant which aptly describes this cultivar. 10 Year Size: Height: 8-10 Feet Width: 4-6 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Johin",
+        "match_score": 365,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-shirasawanum-johin-189123.jpg?v=1658490869",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-shirasawanum-johin",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-shirasawanum-johin/01-acer-shirasawanum-johin-189123.jpg",
+          "bytes": 72739,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:52.092Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-shirasawanum-johin/01-acer-shirasawanum-johin-189123.jpg"
+      ]
+    }
+  }
 }

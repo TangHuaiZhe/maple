@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer palmatum 'Mikawa Kaen' 三河系列新品，由 Cripsin Silva 推出 ， 'Mystic Mikawa' （神秘的三河）也是由他培育 。 'Mikawa Kaen' ，也被叫做 为 'Mikawa Gold' ，这是因为 Kaen 春季 呈现出独特的金古铜色 ， 秋天从橙色变成红色 。 生长缓慢 ， 10 年内高度将达到 1-1.5m ， 非常适合小型花园、容器或培养成盆景。 ‍"
+    "preferred": "Acer palmatum 'Mikawa Kaen' 三河系列新品，由 Cripsin Silva 推出 ， 'Mystic Mikawa' （神秘的三河）也是由他培育 。 'Mikawa Kaen' ，也被叫做 为 'Mikawa Gold' ，这是因为 Kaen 春季 呈现出独特的金古铜色 ， 秋天从橙色变成红色 。 生长缓慢 ， 10 年内高度将达到 1-1. 5m ， 非常适合小型花园、容器或培养成盆景。 ‍"
   },
   "images": {
     "count": 2,
@@ -20,9 +20,20 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg",
+      "/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.jpg",
+      "/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg",
+      "/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg",
+      "/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.jpg",
+      "/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg",
+      "/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.jpg"
+    ],
+    "public_count": 4
   },
   "sources": [
     {
@@ -33,8 +44,17 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "三河系列",
       "title": "Mikawa Kaen-Acer Palmatum ‘Mikawa Kaen'",
-      "description": "Acer palmatum 'Mikawa Kaen' 三河系列新品，由 Cripsin Silva 推出 ， 'Mystic Mikawa' （神秘的三河）也是由他培育 。 'Mikawa Kaen' ，也被叫做 为 'Mikawa Gold' ，这是因为 Kaen 春季 呈现出独特的金古铜色 ， 秋天从橙色变成红色 。 生长缓慢 ， 10 年内高度将达到 1-1.5m ， 非常适合小型花园、容器或培养成盆景。 ‍",
+      "description": "Acer palmatum 'Mikawa Kaen' 三河系列新品，由 Cripsin Silva 推出 ， 'Mystic Mikawa' （神秘的三河）也是由他培育 。 'Mikawa Kaen' ，也被叫做 为 'Mikawa Gold' ，这是因为 Kaen 春季 呈现出独特的金古铜色 ， 秋天从橙色变成红色 。 生长缓慢 ， 10 年内高度将达到 1-1. 5m ， 非常适合小型花园、容器或培养成盆景。 ‍",
       "image_count": 2
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Mikawa Kaen' Dwarf Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Mikawa Kaen'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mikawa-kaen-dwarf-japanese-maple",
+      "image_count": 4,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -51,13 +71,98 @@
     "三河系列",
     "鸡爪槭"
   ],
-  "source_count": 1,
+  "source_count": 2,
   "has_web": true,
   "has_book": false,
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer palmatum 'Mikawa Kaen' 三河系列新品，由 Cripsin Silva 推出 ， 'Mystic Mikawa' （神秘的三河）也是由他培育 。 'Mikawa Kaen' ，也被叫做 为 'Mikawa Gold' ，这是因为 Kaen 春季 呈现出独特的金古铜色 ， 秋天从橙色变成红色 。 生长缓慢 ， 10 年内高度将达到 1-1.5m ， 非常适合小型花园、容器或培养成盆景。 ‍"
+    "preferred": "Acer palmatum 'Mikawa Kaen' 三河系列新品，由 Cripsin Silva 推出 ， 'Mystic Mikawa' （神秘的三河）也是由他培育 。 'Mikawa Kaen' ，也被叫做 为 'Mikawa Gold' ，这是因为 Kaen 春季 呈现出独特的金古铜色 ， 秋天从橙色变成红色 。 生长缓慢 ， 10 年内高度将达到 1-1. 5m ， 非常适合小型花园、容器或培养成盆景。 ‍"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mikawa-kaen-dwarf-japanese-maple",
+    "matched_product_count": 1,
+    "local_file_count": 4,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Mikawa Kaen' Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mikawa-kaen-dwarf-japanese-maple",
+        "botanical_name": "Acer Palmatum 'Mikawa Kaen'",
+        "common_name": "Mikawa Kaen",
+        "description_text": "Acer palmatum 'Mikawa kaen' is the Golden Mikawa Dwarf Japanese Maple Acer palmatum 'Mikawa kaen' is a dwarf Japanese maple that is a relative to the ever popular 'Mikawa yatsubusa'. 'Mikawa kaen' is slow growing with closely arranged leaves that create a wonderful stubby upright tree. The defining characteristic of 'Mikawa kaen' is the short inter nodal lengths and closely growing buds that create a stacked shingle like appearance of the leaves. 'Mikawa kaen' stays a little bit smaller than 'Mikawa yatsubusa' 'Mikawa kaen' has broad leaves that lay flat and close together. While the leaf shape and structure is quite similar to 'Mikawa yatsubusa', 'Mikawa kaen' has some differences in leaf color. The leaf color of this interested dwarf Japanese maple tree is gold to bronze in the spring. The leaves then change to green for most of the summer. 'Mikawa kaen' has incredible fall color ranging from orange to red. While it may be slow growing, 'Mikawa kaen' is still a hardy tree and can be grown in many different climates across the country. 'Mikawa kaen' can be comfortably grown in zones 5 through 9. 'Mikawa kaen' can be grown in full sun in some climates, but will prefer some afternoon shade in the hotter locations. 'Mikawa kaen' needs a little bit of morning sun at the minimum to produce the best spring colors. Examples of the current sizes are included in the pictures. What is the 10 Year Size of Acer palmatum 'Mikawa Kaen'? Height: 4-6 feet Width: 3-4 feet What is the Spring Color of Acer palmatum 'Mikawa Kaen'? Light Green What is the Summer Color of Acer palmatum 'Mikawa Kaen'? Green What is the Fall Color of Acer palmatum 'Mikawa Kaen'? Orange to Red What is the Leaf Shape of Acer palmatum 'Mikawa Kaen'? Broad Flat Leaf What is the Sun Tolerance of Acer palmatum 'Mikawa Kaen'? Partial Sun What Growing Zones are suitable for Acer palmatum 'Mikawa Kaen'? Zones 5-9 What is the Shape of Acer palmatum 'Mikawa Kaen'? Upright and Compact Japanese Maple What is the Growth Rate of Acer palmatum 'Mikawa Kaen'? Slow Growing Dwarf Japanese Maple How should Acer palmatum 'Mikawa Kaen' be planted? Elevated in Well Drained Soil",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Mikawa Kaen",
+        "match_score": 370,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg?v=1729348251",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mikawa-kaen-dwarf-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg",
+          "bytes": 422430,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:14.880Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.jpg?v=1729348251",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mikawa-kaen-dwarf-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.jpg",
+          "bytes": 672706,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:16.815Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg?v=1729348251",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mikawa-kaen-dwarf-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg",
+          "bytes": 725506,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:18.691Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 4,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.jpg?v=1729348251",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mikawa-kaen-dwarf-japanese-maple",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.jpg",
+          "bytes": 723942,
+          "content_type": "image/webp",
+          "downloaded_at": "2026-04-18T09:24:20.354Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 4,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.jpg"
+      ]
+    }
+  }
 }

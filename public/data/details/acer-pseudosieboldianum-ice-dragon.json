@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -139,7 +140,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感珊瑚斑枝枯病、黄萎病、槭树叶灼病和蜜环菌根腐病。"
     },
-    "description": "落叶杂交槭（A. palmatum × A. pseudosieboldianum），高约 3-4 米，株形宽展，略具下垂姿态。叶片中绿色，细裂，春季萌发时带橙红色晕染，随后很快转绿，秋季转为黄色、橙色和红色。该品种培育目的在于替代耐寒性较差的日本枫，在严酷气候条件下栽培。",
+    "description": "落叶杂交槭（A. palmatum × A. pseudosieboldianum），高约 3-4 米，株形宽展，略具下垂姿态。 叶片中绿色，细裂，春季萌发时带橙红色晕染，随后很快转绿，秋季转为黄色、橙色和红色。 该品种培育目的在于替代耐寒性较差的日本枫，在严酷气候条件下栽培。",
     "attributes": {
       "suggested_uses": "城市/庭院花园、滨海花园、乡村/自然式花园"
     },

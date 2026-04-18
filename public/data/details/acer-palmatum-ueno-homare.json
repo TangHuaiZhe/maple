@@ -24,9 +24,16 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-ueno-homare/01-acer-palmatum-ueno-homare-yellow-japanese-maple-224643.jpg",
+      "/jmac-images/acer-palmatum-ueno-homare/02-acer-palmatum-ueno-homare-yellow-japanese-maple-957188.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-ueno-homare/01-acer-palmatum-ueno-homare-yellow-japanese-maple-224643.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-ueno-homare/01-acer-palmatum-ueno-homare-yellow-japanese-maple-224643.jpg",
+      "/jmac-images/acer-palmatum-ueno-homare/02-acer-palmatum-ueno-homare-yellow-japanese-maple-957188.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -51,6 +58,15 @@
       "group": "palmatum",
       "color_group": "green",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Ueno homare' Yellow Japanese Maple",
+      "botanical_name": "Acer palmatum 'Ueno homare'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ueno-homare",
+      "image_count": 2,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -65,7 +81,7 @@
     "Ueno homare",
     "Ueno-homare"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -88,9 +104,66 @@
     "description": ""
   },
   "descriptions_zh": {
-    "preferred": "叶片较小，深裂为五裂，每裂片均为长卵形，先端细长。叶缘具明显锯齿，使叶姿呈现羽毛状。‘Ueno homare’ 是春季叶色橙黄色、极为抢眼的槭树品种之一，也是在春季最早展叶的品种之一。春叶为深黄色，边缘带橙红色，随后渐转为黄绿色，夏季鲜绿色，秋季则转为亮橙色至红色。该品种为优良的小型直立树，长势较强，可高达约 16 英尺（5 米）。适合作为景观中的早春色彩植物。其名称意为“光荣的 Ueno”，得名于东京地区的 Ueno 山，该地公园以樱花和赏花聚会闻名。"
+    "preferred": "叶片较小，深裂为五裂，每裂片均为长卵形，先端细长。 叶缘具明显锯齿，使叶姿呈现羽毛状。 ‘Ueno homare’ 是春季叶色橙黄色、极为抢眼的槭树品种之一，也是在春季最早展叶的品种之一。 春叶为深黄色，边缘带橙红色，随后渐转为黄绿色，夏季鲜绿色，秋季则转为亮橙色至红色。 该品种为优良的小型直立树，长势较强，可高达约 16 英尺（5 米）。 适合作为景观中的早春色彩植物。 其名称意为“光荣的 Ueno”，得名于东京地区的 Ueno 山，该地公园以樱花和赏花聚会闻名。"
   },
   "has_mrmaple": false,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": null,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ueno-homare",
+    "matched_product_count": 1,
+    "local_file_count": 2,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-homare/01-acer-palmatum-ueno-homare-yellow-japanese-maple-224643.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-homare/01-acer-palmatum-ueno-homare-yellow-japanese-maple-224643.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-homare/02-acer-palmatum-ueno-homare-yellow-japanese-maple-957188.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Ueno homare' Yellow Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ueno-homare",
+        "botanical_name": "Acer palmatum 'Ueno homare'",
+        "common_name": "Ueno homare",
+        "description_text": "Acer palmatum 'Ueno homare' is a strong, upright growing Japanese maple with excellent yellow-orange color in the spring. 'Ueno homare' emerges early in the spring with the bright yellow foliage that turns to a light, chartreuse green in the summer. The leaves then turn an orange to red in the fall. 'Ueno homare' is a strong, hardy tree that can handle sun in most areas. 10 Year Size: Height: 10-12 feet Width: 4-6 feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Ueno homare",
+        "match_score": 370,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ueno-homare-yellow-japanese-maple-224643.jpg?v=1709785730",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ueno-homare",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-homare/01-acer-palmatum-ueno-homare-yellow-japanese-maple-224643.jpg",
+          "bytes": 28719,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:25:10.880Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ueno-homare-yellow-japanese-maple-957188.jpg?v=1709785730",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ueno-homare",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-homare/02-acer-palmatum-ueno-homare-yellow-japanese-maple-957188.jpg",
+          "bytes": 28719,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:25:11.494Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 2,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-homare/01-acer-palmatum-ueno-homare-yellow-japanese-maple-224643.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-homare/02-acer-palmatum-ueno-homare-yellow-japanese-maple-957188.jpg"
+      ]
+    }
+  }
 }

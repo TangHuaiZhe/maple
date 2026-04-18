@@ -20,6 +20,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -48,7 +49,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "秋季丰富的橙色与猩红色交织出的绚丽色彩，使其成为备受喜爱的中型槭树。春叶浅黄绿色，随后转绿，并因覆盖极细茸毛而带有银灰色雾感；这些茸毛在盛夏时消失。'Ogura yama' 在外观和叶片上与 'Microphyllum' 相似，但生长较慢，高约 4 米。其植株健壮、耐寒。名称意为“Mount Ogura”。"
+    "preferred": "秋季丰富的橙色与猩红色交织出的绚丽色彩，使其成为备受喜爱的中型槭树。 春叶浅黄绿色，随后转绿，并因覆盖极细茸毛而带有银灰色雾感；这些茸毛在盛夏时消失。 'Ogura yama' 在外观和叶片上与 'Microphyllum' 相似，但生长较慢，高约 4 米。 其植株健壮、耐寒。 名称意为“Mount Ogura”。"
   },
   "has_mrmaple": false
 }

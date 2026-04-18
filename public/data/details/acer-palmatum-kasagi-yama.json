@@ -15,7 +15,7 @@
     "variegated"
   ],
   "descriptions": {
-    "preferred": "The leaves of this unusual cultivar have a unique brick-red color varying during the season and with the growing conditions. Leaf margins and veins are tinged dark greenish red to almost black. The changing color in the spring is very exciting. Bright red fruits complement the leaf colors. The medium-sized leaves have seven very deeply divided lobes radiating evenly outwards like a star. Each lobe is long-ovate with a long, sharp tapering point and finely but sharply toothed margins. The red leafstalks are short and stiff. This cultivar forms an opencrowned shrub or small tree up to 23 ft. (7 m) tall. The name means \"overhanging mountain.\""
+    "preferred": "The leaves of this unusual cultivar have a unique brick-red color varying during the season and with the growing conditions. Leaf margins and veins are tinged dark greenish red to almost black. The changing color in the spring is very exciting. Bright red fruits complement the leaf colors. The medium-sized leaves have seven very deeply divided lobes radiating evenly outwards like a star. Each lobe is long-ovate with a long, sharp tapering point and finely but sharply toothed margins. The red leafstalks are short and stiff. This cultivar forms an opencrowned shrub or small tree up to 23 ft. (7 m) tall. The name means \"overhanging mountain. \""
   },
   "images": {
     "count": 7,
@@ -26,6 +26,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/herter-images/acer-palmatum-kasagi-yama/01-hnkasagiyamabook-1.jpg",
     "public_paths": [
       "/herter-images/acer-palmatum-kasagi-yama/01-hnkasagiyamabook-1.jpg"
@@ -41,7 +42,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "脉叶",
       "title": "笠置山 Acer Palmatum 'Kasagi Yama'",
-      "description": "最早 1978年J.D.Vertrees出版的『JAPANESE MAPLES』中开始介绍笠置山，在日本于1983年在『自然と盆栽』八月刊中岸田绿溪先生收集到的100种枫树种提到笠置山，同年在『1983秋の園芸』中开始正式销售此品种，日笠山属于大红叶系的脉斑叶品种，以7叶裂为主，春天初芽为深红色，初芽和叶柄都有白色绒毛，春叶为荧光红色并有暗红色的脉纹，春夏之际，叶子从边缘逐渐变绿，夏叶为黄绿色，秋天变为橙红色。生长健壮，午后需要遮阴，成年株可达3米左右高度。",
+      "description": "最早 1978年J. D. Vertrees出版的『JAPANESE MAPLES』中开始介绍笠置山，在日本于1983年在『自然と盆栽』八月刊中岸田绿溪先生收集到的100种枫树种提到笠置山，同年在『1983秋の園芸』中开始正式销售此品种，日笠山属于大红叶系的脉斑叶品种，以7叶裂为主，春天初芽为深红色，初芽和叶柄都有白色绒毛，春叶为荧光红色并有暗红色的脉纹，春夏之际，叶子从边缘逐渐变绿，夏叶为黄绿色，秋天变为橙红色。 生长健壮，午后需要遮阴，成年株可达3米左右高度。",
       "image_count": 7
     },
     {
@@ -150,7 +151,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这一不同寻常的品种，叶片具有独特的砖红色，并会随季节变化及生长环境不同而有所变动。叶缘与叶脉带深绿红色至近黑色调。春季叶色的变化尤为精彩。鲜红色的果实与叶色相映成趣。中等大小的叶片具 7 个深裂裂片，均匀向外放射，呈星状；每个裂片为长卵形，先端渐尖而细长，边缘具细密而锐利的锯齿。红色叶柄短而坚硬。该品种形成开张树冠的灌木或小乔木，高可达 23 英尺（7 米）。其名称意为“悬垂的山”。"
+    "preferred": "这一不同寻常的品种，叶片具有独特的砖红色，并会随季节变化及生长环境不同而有所变动。 叶缘与叶脉带深绿红色至近黑色调。 春季叶色的变化尤为精彩。 鲜红色的果实与叶色相映成趣。 中等大小的叶片具 7 个深裂裂片，均匀向外放射，呈星状；每个裂片为长卵形，先端渐尖而细长，边缘具细密而锐利的锯齿。 红色叶柄短而坚硬。 该品种形成开张树冠的灌木或小乔木，高可达 23 英尺（7 米）。 其名称意为“悬垂的山”。"
   },
   "rhs_zh": {
     "dimensions": {
@@ -172,7 +173,7 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "小型落叶乔木，高约 5-6 米，栽培中较少见。叶片 7 裂，叶缘具锐利锯齿，叶色不同寻常，为砖红色并带明显的深色叶脉；叶色会因日照或遮阴条件以及叶龄不同而有所变化，秋季转为粉红色和酒红色。"
+    "description": "小型落叶乔木，高约 5-6 米，栽培中较少见。 叶片 7 裂，叶缘具锐利锯齿，叶色不同寻常，为砖红色并带明显的深色叶脉；叶色会因日照或遮阴条件以及叶龄不同而有所变化，秋季转为粉红色和酒红色。"
   },
   "has_mrmaple": false,
   "herter": {

@@ -15,7 +15,7 @@
     "red"
   ],
   "descriptions": {
-    "preferred": "This unique upright red dissectum introduced by Duncan and Davies Nursery of New Zealand can be described as the red counterpart to the ever-popular upright green dissectum 'Seiryu'\\. In spring its foliage is similar in color to that of 'Crimson Queen', and it retains this purple red well into the summer, becoming bronzed with green undertones in early fall. It turns a deep crimson in the fall. The seven-lobed leaves are dissected to the leaf base, and are 7-9 cm long and 9-11 cm wide. The lobes themselves are deeply incised and, with the sublobes, are 1-2 cm wide at the broadest point, narrowing sharply in the lower quarter to no more than the width of the midribs for a distance of 1-1.5 cm to the leaf base. The margins have coarse but narrow, finely pointed double teeth. The red petioles are 1.5-3 cm long with expanded bases. When young the attractive deep red bark is covered in very close-packed vertical glaucous striations. 'Lionheart' is a vigorous small tree, reaching 2.5 m tall in 10 years, and probably attaining a height of 3.5-4 m at maturity. In habit, it is similar to"
+    "preferred": "This unique upright red dissectum introduced by Duncan and Davies Nursery of New Zealand can be described as the red counterpart to the ever-popular upright green dissectum 'Seiryu'\\. In spring its foliage is similar in color to that of 'Crimson Queen', and it retains this purple red well into the summer, becoming bronzed with green undertones in early fall. It turns a deep crimson in the fall. The seven-lobed leaves are dissected to the leaf base, and are 7-9 cm long and 9-11 cm wide. The lobes themselves are deeply incised and, with the sublobes, are 1-2 cm wide at the broadest point, narrowing sharply in the lower quarter to no more than the width of the midribs for a distance of 1-1. 5 cm to the leaf base. The margins have coarse but narrow, finely pointed double teeth. The red petioles are 1. 5-3 cm long with expanded bases. When young the attractive deep red bark is covered in very close-packed vertical glaucous striations. 'Lionheart' is a vigorous small tree, reaching 2. 5 m tall in 10 years, and probably attaining a height of 3. 5-4 m at maturity. In habit, it is similar to"
   },
   "images": {
     "count": 0,
@@ -50,6 +50,7 @@
     ],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-lionheart/02-visi144061.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-lionheart/01-visi144062.jpg",
@@ -147,7 +148,7 @@
     "cultivar_names": [
       "Lionheart"
     ],
-    "description": "Upright then spreading small tree to about 2.5-3.5m tall, with dissected, 7-lobed purple-red leaves maturing to bronze-green in summer then turning deep crimson in autumn. Inconspicuous red-purple flowers in spring may be followed by winged, purple fruits. When young the deep red bark is vertically stiped pale grey-white",
+    "description": "Upright then spreading small tree to about 2. 5-3. 5m tall, with dissected, 7-lobed purple-red leaves maturing to bronze-green in summer then turning deep crimson in autumn. Inconspicuous red-purple flowers in spring may be followed by winged, purple fruits. When young the deep red bark is vertically stiped pale grey-white",
     "dimensions": {
       "height": "2.5-4 metres",
       "spread": "1.5-2.5 metres",
@@ -248,10 +249,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
     },
-    "description": "先直立后开展的小型乔木，高约 2.5-3.5 米。叶深裂，7 裂，初为紫红色，夏季成熟后转为铜绿色，秋季再变为深绯红色。春季开不显眼的红紫色小花，之后可能结带翅的紫色翅果。幼树时，深红色树皮具纵向浅灰白色条纹。"
+    "description": "先直立后开展的小型乔木，高约 2. 5-3. 5 米。 叶深裂，7 裂，初为紫红色，夏季成熟后转为铜绿色，秋季再变为深绯红色。 春季开不显眼的红紫色小花，之后可能结带翅的紫色翅果。 幼树时，深红色树皮具纵向浅灰白色条纹。"
   },
   "descriptions_zh": {
-    "preferred": "这一独特的直立型红叶细裂品种由新西兰 Duncan and Davies Nursery 引种，可视为广受欢迎的直立型绿叶细裂品种 'Seiryu' 的红叶对应品种。春季叶色与 'Crimson Queen' 相近，并能较好地保持这种紫红色直到夏季，初秋时转为带绿色底调的古铜色，秋季则变为深绯红色。叶片 7 裂，深裂至叶基，长 7 至 9 厘米，宽 9 至 11 厘米。各裂片本身深裂，连同次级裂片在最宽处宽 1 至 2 厘米，在下部四分之一处迅速收窄，至距叶基 1 至 1.5 厘米处宽度几乎仅与中脉相当。叶缘具较粗但狭窄、先端细尖的重锯齿。红色叶柄长 1.5 至 3 厘米，基部膨大。幼年时，其迷人的深红色树皮密布紧密排列的纵向粉白色条纹。'Lionheart' 生长势旺，为小型乔木，10 年生可达 2.5 米高，成熟后推测可达 3.5 至 4 米。株形在幼年时与"
+    "preferred": "这一独特的直立型红叶细裂品种由新西兰 Duncan and Davies Nursery 引种，可视为广受欢迎的直立型绿叶细裂品种 'Seiryu' 的红叶对应品种。 春季叶色与 'Crimson Queen' 相近，并能较好地保持这种紫红色直到夏季，初秋时转为带绿色底调的古铜色，秋季则变为深绯红色。 叶片 7 裂，深裂至叶基，长 7 至 9 厘米，宽 9 至 11 厘米。 各裂片本身深裂，连同次级裂片在最宽处宽 1 至 2 厘米，在下部四分之一处迅速收窄，至距叶基 1 至 1. 5 厘米处宽度几乎仅与中脉相当。 叶缘具较粗但狭窄、先端细尖的重锯齿。 红色叶柄长 1. 5 至 3 厘米，基部膨大。 幼年时，其迷人的深红色树皮密布紧密排列的纵向粉白色条纹。 'Lionheart' 生长势旺，为小型乔木，10 年生可达 2. 5 米高，成熟后推测可达 3. 5 至 4 米。 株形在幼年时与"
   },
   "has_mrmaple": true,
   "mrmaple": {

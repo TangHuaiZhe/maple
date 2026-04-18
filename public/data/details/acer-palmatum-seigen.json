@@ -24,6 +24,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0
@@ -81,7 +82,7 @@
     "cultivar_names": [
       "Seigen"
     ],
-    "description": "A small, rounded, deciduous Japanese maple, multibranched, eventually reaching about 1.5m in height, with small 5-lobed leaves to 5cm long on short branches. The leaves emerge bright red when young, turning light green in summer then with orange and gold tints in autumn; suited to bonsai training",
+    "description": "A small, rounded, deciduous Japanese maple, multibranched, eventually reaching about 1. 5m in height, with small 5-lobed leaves to 5cm long on short branches. The leaves emerge bright red when young, turning light green in summer then with orange and gold tints in autumn; suited to bonsai training",
     "dimensions": {
       "height": "1-1.5 metres",
       "spread": "1-1.5 metres",
@@ -137,10 +138,10 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "小型、圆头的落叶日本枫，多分枝，最终高度约 1.5 米；短枝上着生小型五裂叶，叶长可达 5 厘米。幼叶展开时鲜红，夏季转为浅绿色，秋季带橙色和金色调；适合盆景培养。"
+    "description": "小型、圆头的落叶日本枫，多分枝，最终高度约 1. 5 米；短枝上着生小型五裂叶，叶长可达 5 厘米。 幼叶展开时鲜红，夏季转为浅绿色，秋季带橙色和金色调；适合盆景培养。"
   },
   "descriptions_zh": {
-    "preferred": "'Seigen' 是这一类春季抽生鲜亮深红叶品种中最受欢迎的品种之一。新叶可呈鲜明的火红色调，并持续数周，使人联想到广受欢迎的 'Corallinum'；随后夏季转为浅绿色，秋季变为黄色至柿子色。本品种在 'Corallinum' 类群中萌叶较早，因此容易受冷风和春霜危害。叶片较小、5 裂，秀致轻盈，长宽约 3-5 厘米，密生于短枝上。裂片深达叶基一半以上，叶缘轻微具齿，裂片尖端不特别锐利。叶柄硬挺，长 2-3 厘米。该矮生品种与 'Tama hime' 和 'Kiyohime' 相似，可形成高约 2 米的小型圆头灌丛。'Seigen' 在日本很受盆景爱好者欢迎。 另有一类直立生长的绿色羽裂型品种，在 Dissectum Group 中较为少见；绝大多数其他 dissectum 品种多为下垂或垂枝形。此绿色细裂叶枫与其他更典型的垂枝 dissectum 品种混植时，可形成悦目的对比。叶色为清新的亮绿色，春季展开时每片叶轻带红色尖端，随后很快转为均匀浅绿色；夏季后期，受光较强的叶缘又会重新出现红晕。秋色颇为壮观，从鲜金色到浅黄色，并在大多数叶片上带有绯红晕染。叶片略小于大多数其他绿色 dissectum 品种，长约 4-5 厘米，宽略大于长度。7 个裂片呈羽状深裂形成次裂片，其精细程度不如典型 dissectum 那样纤细，但又比"
+    "preferred": "'Seigen' 是这一类春季抽生鲜亮深红叶品种中最受欢迎的品种之一。 新叶可呈鲜明的火红色调，并持续数周，使人联想到广受欢迎的 'Corallinum'；随后夏季转为浅绿色，秋季变为黄色至柿子色。 本品种在 'Corallinum' 类群中萌叶较早，因此容易受冷风和春霜危害。 叶片较小、5 裂，秀致轻盈，长宽约 3-5 厘米，密生于短枝上。 裂片深达叶基一半以上，叶缘轻微具齿，裂片尖端不特别锐利。 叶柄硬挺，长 2-3 厘米。 该矮生品种与 'Tama hime' 和 'Kiyohime' 相似，可形成高约 2 米的小型圆头灌丛。 'Seigen' 在日本很受盆景爱好者欢迎。 另有一类直立生长的绿色羽裂型品种，在 Dissectum Group 中较为少见；绝大多数其他 dissectum 品种多为下垂或垂枝形。 此绿色细裂叶枫与其他更典型的垂枝 dissectum 品种混植时，可形成悦目的对比。 叶色为清新的亮绿色，春季展开时每片叶轻带红色尖端，随后很快转为均匀浅绿色；夏季后期，受光较强的叶缘又会重新出现红晕。 秋色颇为壮观，从鲜金色到浅黄色，并在大多数叶片上带有绯红晕染。 叶片略小于大多数其他绿色 dissectum 品种，长约 4-5 厘米，宽略大于长度。 7 个裂片呈羽状深裂形成次裂片，其精细程度不如典型 dissectum 那样纤细，但又比"
   },
   "has_mrmaple": false,
   "mrmaple": null

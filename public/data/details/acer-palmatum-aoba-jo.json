@@ -29,6 +29,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-aoba-jo-japanese-maple/03-Acer_palmatum_Aoba_jo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042382.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-aoba-jo-japanese-maple/01-Acer_palmatum_Aoba_jo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042371.jpg",
@@ -138,7 +139,7 @@
     "growing_conditions": {
       "hardiness": "H6（耐寒，可耐受极寒冬季）"
     },
-    "description": "紧凑型落叶矮生小乔木，高约 1 米，形成圆 mound 状株形；叶片绿色，通常为细长七裂，叶缘及叶尖带古铜色，秋季转为带红晕的黄色。非常适合容器栽培或制作盆景。",
+    "description": "紧凑型落叶矮生小乔木，高约 1 米，形成圆 mound 状株形；叶片绿色，通常为细长七裂，叶缘及叶尖带古铜色，秋季转为带红晕的黄色。 非常适合容器栽培或制作盆景。",
     "attributes": {
       "suggested_uses": "城市/庭院花园，乡村/自然式花园，露台/容器植物，花境及花坛",
       "hort_group_description": "这一矮生类群的 Acer 株形紧凑、生长缓慢，因此非常适合盆栽和容器栽培。"
@@ -154,7 +155,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "这是一种优良而健壮的矮生灌木，具大型七裂叶。事实上，就矮生品种而言，其叶片大得令人惊讶。生长旺盛时，叶长可达 7 厘米以上，叶宽可超过 11 厘米。细长的裂片向外舒展良好，叶基部略呈截形。裂片为明显的卵状披针形，先端长渐尖，裂至叶基约三分之二处，边缘具明显缺刻。植株内部老枝所生叶片则略小。叶色为浓绿色，叶缘与叶尖带古铜色，叶质不薄弱，也不纤细。秋色为带红调的黄色，但并不十分出众。肥力过高会导致新梢徒长，使株形失衡。在中等湿度和肥力条件下栽培时，枝条上的叶节会更为紧凑。该品种颇受盆景爱好者欢迎，并已广泛用于盆景栽培。在景观中，如配置得当，也是一种出色的矮生品种。‘Aoba jo’ 也曾以 ‘Aoba bo’ 和 ‘Aoba cho’ 之名流通，另也拼作 ‘Aoba joh’。"
+    "preferred": "这是一种优良而健壮的矮生灌木，具大型七裂叶。 事实上，就矮生品种而言，其叶片大得令人惊讶。 生长旺盛时，叶长可达 7 厘米以上，叶宽可超过 11 厘米。 细长的裂片向外舒展良好，叶基部略呈截形。 裂片为明显的卵状披针形，先端长渐尖，裂至叶基约三分之二处，边缘具明显缺刻。 植株内部老枝所生叶片则略小。 叶色为浓绿色，叶缘与叶尖带古铜色，叶质不薄弱，也不纤细。 秋色为带红调的黄色，但并不十分出众。 肥力过高会导致新梢徒长，使株形失衡。 在中等湿度和肥力条件下栽培时，枝条上的叶节会更为紧凑。 该品种颇受盆景爱好者欢迎，并已广泛用于盆景栽培。 在景观中，如配置得当，也是一种出色的矮生品种。 ‘Aoba jo’ 也曾以 ‘Aoba bo’ 和 ‘Aoba cho’ 之名流通，另也拼作 ‘Aoba joh’。"
   },
   "has_mrmaple": true,
   "mrmaple": {

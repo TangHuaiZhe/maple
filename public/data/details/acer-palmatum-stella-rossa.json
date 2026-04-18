@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-stella-rossa/01-acer-palmatum-stella-rossa-442079.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-stella-rossa/01-acer-palmatum-stella-rossa-442079.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-stella-rossa/01-acer-palmatum-stella-rossa-442079.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -43,6 +48,15 @@
       "detail_url": "https://www.rhs.org.uk/plants/46266/acer-palmatum-stella-rossa-(d)/details",
       "botanical_name": "Acer palmatum 'Stella Rossa' (D)",
       "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Stella Rossa' Red Dwarf Japanese Maple",
+      "botanical_name": "Acer palmatum 'Stella Rossa'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-stella-rossa",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -57,7 +71,7 @@
     "Japanese maple 'Stella Rossa'",
     "Stella Rossa"
   ],
-  "source_count": 2,
+  "source_count": 3,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -131,10 +145,53 @@
       "pest": "可能易受蚜虫和介壳虫侵害，包括七叶树介壳虫。",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "一种生长强健、枝条下垂、成熟后呈蘑菇状的树木，高约 3 米，宽约 4 米。叶片 7 裂，深裂且细裂，长约 9 厘米，叶缘具细密精致的锯齿；春季新叶初展时呈粉红红色，夏季转为深紫红色，秋季则为鲜红色。"
+    "description": "一种生长强健、枝条下垂、成熟后呈蘑菇状的树木，高约 3 米，宽约 4 米。 叶片 7 裂，深裂且细裂，长约 9 厘米，叶缘具细密精致的锯齿；春季新叶初展时呈粉红红色，夏季转为深紫红色，秋季则为鲜红色。"
   },
   "descriptions_zh": {
-    "preferred": "极具吸引力的粉红红色春叶会转为深紫红色，整个夏季都能保持，秋季再变成鲜红色。其着色与 'Dissectum Nigrum' 相似，但深红色保持时间更长。大型 7 裂叶深裂且细裂，裂片本身又深度分开成较宽、较平展的小裂片，边缘具精致细密的锯齿。这一来自意大利、生长强健的下垂型 dissectum，成熟后形成蘑菇状灌木，高可达 10 英尺（3 米），宽可达 13 英尺（4 米）。"
+    "preferred": "极具吸引力的粉红红色春叶会转为深紫红色，整个夏季都能保持，秋季再变成鲜红色。 其着色与 'Dissectum Nigrum' 相似，但深红色保持时间更长。 大型 7 裂叶深裂且细裂，裂片本身又深度分开成较宽、较平展的小裂片，边缘具精致细密的锯齿。 这一来自意大利、生长强健的下垂型 dissectum，成熟后形成蘑菇状灌木，高可达 10 英尺（3 米），宽可达 13 英尺（4 米）。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-stella-rossa",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-stella-rossa/01-acer-palmatum-stella-rossa-442079.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-stella-rossa/01-acer-palmatum-stella-rossa-442079.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Stella Rossa' Red Dwarf Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-stella-rossa",
+        "botanical_name": "Acer palmatum 'Stella Rossa'",
+        "common_name": "Stella Rossa",
+        "description_text": "'Stella Rossa' translates to Red Star. The habit of this cultivar is decidedly weeping, delicate and graceful. While it tolerates full sun, 'Stella Rossa' would like to have a little shade in hotter climates. The foliage of 'Stella Rossa' emerges bright red in early spring holding the bright red color well into summer before turning darker red and eventually burgundy. In very hot climates it turns bronze by September but never totally green like most other red maples in our nursery. While it may be a little slower growing than many of the dissectums it holds its bright red color in the Southeast better than almost every other cultivar. Fall color is bright red with orange undertones and spectacular. 10 year size: Height: 3-5 feet Width: 5-7 feet Spring Color: Red Summer Color: Burgundy Fall Color: Red Sun Tolerance: Partial Planting: Elevated, Well Drained Soil",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Stella Rossa",
+        "match_score": 371,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-stella-rossa-442079.jpg?v=1658491060",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-stella-rossa",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-stella-rossa/01-acer-palmatum-stella-rossa-442079.jpg",
+          "bytes": 45610,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:24:59.716Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-stella-rossa/01-acer-palmatum-stella-rossa-442079.jpg"
+      ]
+    }
+  }
 }

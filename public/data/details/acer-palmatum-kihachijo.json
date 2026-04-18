@@ -24,9 +24,14 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_jmac_paths": [
+      "/jmac-images/acer-palmatum-kihachijo/01-acer-palmatum-ki-hachijo-302603.jpg"
+    ],
+    "public_cover_path": "/jmac-images/acer-palmatum-kihachijo/01-acer-palmatum-ki-hachijo-302603.jpg",
+    "public_paths": [
+      "/jmac-images/acer-palmatum-kihachijo/01-acer-palmatum-ki-hachijo-302603.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -37,7 +42,7 @@
       "top_group_name": "鸡爪槭",
       "second_group_name": "黄叶",
       "title": "黄八丈Acer Palmatum 'Kihachijo'",
-      "description": "日系品种，名字来源于位于日本伊豆群岛的八丈岛。春 叶为黄绿色或者嫩绿色，结种率高，夏季返绿，但是新 叶为黄色并有红色的色斑，秋季为橙红色或者黄色。生 长速度中等，可全日照，成年株可达 4 米左右高度。",
+      "description": "日系品种，名字来源于位于日本伊豆群岛的八丈岛。 春 叶为黄绿色或者嫩绿色，结种率高，夏季返绿，但是新 叶为黄色并有红色的色斑，秋季为橙红色或者黄色。 生 长速度中等，可全日照，成年株可达 4 米左右高度。",
       "image_count": 9
     },
     {
@@ -53,6 +58,15 @@
       "rhs_id": 76902,
       "detail_url": "https://www.rhs.org.uk/plants/76902/acer-palmatum-ki-hachijo-(m)/details",
       "botanical_name": "Acer palmatum 'Ki-hachijō' (M)",
+      "description": ""
+    },
+    {
+      "source": "jmac",
+      "name": "Acer palmatum 'Ki hachijo' Green Japanese Maple",
+      "botanical_name": "Acer Palmatum 'Kihachijo'",
+      "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ki-hachijo",
+      "image_count": 1,
+      "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution.",
       "description": ""
     }
   ],
@@ -78,7 +92,7 @@
     "黄八丈Acer Palmatum 'Kihachijo'",
     "黄叶"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -136,7 +150,7 @@
     }
   },
   "descriptions_zh": {
-    "preferred": "大型叶片具 7 至 9 裂，呈鲜绿色；裂片为长卵形，边缘有醒目而深的锯齿。每个裂片极狭的尖端形成鲜明特色。秋色独特，为明显的金黄色，并混合浅橙色与红色。树皮为浓绿色，带白色条纹，并覆有一层蓝灰色调。该品种健壮、耐性好、长势稳健，可发育成圆整的矮乔木或高大灌木，高可达 20 英尺（6 米），在园林中能带来与众不同的观感。其名称意为“来自八丈岛”。后续原文夹杂了 'Kingsville Variegated'、'Kinran'、'Kinshi' 等多个品种的 OCR 混杂内容；可辨识部分包括：'Kingsville Variegated' 为介于 'Kagiri nishiki' 与"
+    "preferred": "大型叶片具 7 至 9 裂，呈鲜绿色；裂片为长卵形，边缘有醒目而深的锯齿。 每个裂片极狭的尖端形成鲜明特色。 秋色独特，为明显的金黄色，并混合浅橙色与红色。 树皮为浓绿色，带白色条纹，并覆有一层蓝灰色调。 该品种健壮、耐性好、长势稳健，可发育成圆整的矮乔木或高大灌木，高可达 20 英尺（6 米），在园林中能带来与众不同的观感。 其名称意为“来自八丈岛”。 后续原文夹杂了 'Kingsville Variegated'、'Kinran'、'Kinshi' 等多个品种的 OCR 混杂内容；可辨识部分包括：'Kingsville Variegated' 为介于 'Kagiri nishiki' 与"
   },
   "rhs_zh": {
     "dimensions": {
@@ -159,7 +173,50 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感 Verticillium wilt、槭树叶灼病和蜜环菌。"
     },
-    "description": "小型、圆整、灌木状的小乔木，高约 6 米。叶片平展，具显著的重锯齿，鲜绿色，长约 7 厘米、宽约 9 厘米；秋季转为黄金币色，并染玫瑰粉，随后呈浅橙色和红色。树皮深绿色，上覆蓝灰色，之后出现白色条纹。春季开不显眼的红紫色小花，之后可能结带翅的紫色果实。"
+    "description": "小型、圆整、灌木状的小乔木，高约 6 米。 叶片平展，具显著的重锯齿，鲜绿色，长约 7 厘米、宽约 9 厘米；秋季转为黄金币色，并染玫瑰粉，随后呈浅橙色和红色。 树皮深绿色，上覆蓝灰色，之后出现白色条纹。 春季开不显眼的红紫色小花，之后可能结带翅的紫色果实。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "jmac": {
+    "source_name": "Japanese Maples & Conifers",
+    "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ki-hachijo",
+    "matched_product_count": 1,
+    "local_file_count": 1,
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-kihachijo/01-acer-palmatum-ki-hachijo-302603.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-kihachijo/01-acer-palmatum-ki-hachijo-302603.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Ki hachijo' Green Japanese Maple",
+        "product_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ki-hachijo",
+        "botanical_name": "Acer Palmatum 'Kihachijo'",
+        "common_name": "Kihachijo¯",
+        "description_text": "Acer palmatum 'Ki hachijo' starts out in spring with bright green foliage that darkens in summer. Forming a beautiful round topped tree with age, usually wider than tall older specimens of 15 feet or more are not rare but this tree is slow growing when young. Fall color is orange, gold and wonderful. The Japanese name means from Hachijo island, a small subtropical island 175 miles south of Tokyo. 10 Year size: Height: 8-10 Feet Width: 8-10 Feet",
+        "match_method": "shopify_title_quoted_cultivar",
+        "match_candidate": "Kihachijo¯",
+        "match_score": 369,
+        "match_source": "display_name"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ki-hachijo-302603.jpg?v=1658490967",
+          "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ki-hachijo",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-kihachijo/01-acer-palmatum-ki-hachijo-302603.jpg",
+          "bytes": 160806,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T09:23:56.303Z",
+          "status": "downloaded",
+          "source_name": "Japanese Maples & Conifers",
+          "usage_note": "Source-hosted product imagery from japanesemaplesandconifers.com. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 1,
+      "local_files": [
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-kihachijo/01-acer-palmatum-ki-hachijo-302603.jpg"
+      ]
+    }
+  }
 }

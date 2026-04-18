@@ -11,7 +11,7 @@
   "book_groups": [],
   "color_groups": [],
   "descriptions": {
-    "preferred": "Acer palmatum ‘Miss Maple' Reticulated Variegated Japanese Maple Zones 5-9 'Miss Maple' is a new selection by Talon Buchholz that was found as a chance seedling from 'Purple Ghost'. Unlike its parent, 'Miss Maple' displays bright creamy white variegation on dark green veins. Fall color on 'Miss Maple' is typically a bright red. We expect 'Miss Maple to reach 8-10 ft in height in 10 years. We recommend giving 'Miss Maple' morning sun with protection from the hot afternoon sun to show the best variegation for the longest period throughout the year. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent. The photos on this page without a MrMaple logo were taken by Talon Buchholz and cannot be used without expressed written consent from the owner."
+    "preferred": "Acer palmatum ‘Miss Maple' Reticulated Variegated Japanese Maple Zones 5-9 'Miss Maple' is a new selection by Talon Buchholz that was found as a chance seedling from 'Purple Ghost'. Unlike its parent, 'Miss Maple' displays bright creamy white variegation on dark green veins. Fall color on 'Miss Maple' is typically a bright red. We expect 'Miss Maple to reach 8-10 ft in height in 10 years. We recommend giving 'Miss Maple' morning sun with protection from the hot afternoon sun to show the best variegation for the longest period throughout the year."
   },
   "images": {
     "count": 0,
@@ -49,6 +49,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-miss-maple-japanese-maple/23-Acer_palmatum_Miss_Maple_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064457.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-miss-maple-japanese-maple/01-Acer_palmatum_Miss_Maple_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064452.jpg",
@@ -116,7 +117,7 @@
   "has_rhs": false,
   "rhs": null,
   "descriptions_zh": {
-    "preferred": "Acer palmatum ‘Miss Maple'，网脉斑锦日本枫，适生区 5-9。‘Miss Maple’ 是 Talon Buchholz 选育的新品种，由 ‘Purple Ghost’ 的实生变异苗中发现。与其亲本不同，‘Miss Maple’ 在深绿色叶脉之间展现出明亮的乳白色斑锦。秋季通常转为鲜红色。预计 10 年可长至高 8-10 英尺。建议给予晨光照射，并避开炎热的午后强光，这样可在全年更长时间内保持最佳斑锦表现。带有 MrMaple 标识的照片归 MrMaple.com 所有，未经明确书面许可不得使用。本页无 MrMaple 标识的照片由 Talon Buchholz 拍摄，未经所有者明确书面许可不得使用。数量有限！！由于我们拥有上千个日本枫品种，单个品种通常库存不多。建议您看到心仪品种及时购买，因为部分精选品种常常很快售罄。"
+    "preferred": "Acer palmatum ‘Miss Maple'，网脉斑锦日本枫，适生区 5-9。 ‘Miss Maple’ 是 Talon Buchholz 选育的新品种，由 ‘Purple Ghost’ 的实生变异苗中发现。 与其亲本不同，‘Miss Maple’ 在深绿色叶脉之间展现出明亮的乳白色斑锦。 秋季通常转为鲜红色。 预计 10 年可长至高 8-10 英尺。 建议给予晨光照射，并避开炎热的午后强光，这样可在全年更长时间内保持最佳斑锦表现。 带有 MrMaple 标识的照片"
   },
   "has_mrmaple": true,
   "mrmaple": {
@@ -209,7 +210,7 @@
           "VDAYSALE25",
           "VDAYSALE26"
         ],
-        "description_text": "Acer palmatum ‘Miss Maple' Reticulated Variegated Japanese Maple Zones 5-9 'Miss Maple' is a new selection by Talon Buchholz that was found as a chance seedling from 'Purple Ghost'. Unlike its parent, 'Miss Maple' displays bright creamy white variegation on dark green veins. Fall color on 'Miss Maple' is typically a bright red. We expect 'Miss Maple to reach 8-10 ft in height in 10 years. We recommend giving 'Miss Maple' morning sun with protection from the hot afternoon sun to show the best variegation for the longest period throughout the year. The photo(s) with a MrMaple logo are owned by MrMaple.com and cannot be used without expressed written consent. The photos on this page without a MrMaple logo were taken by Talon Buchholz and cannot be used without expressed written consent from the owner.",
+        "description_text": "Acer palmatum ‘Miss Maple' Reticulated Variegated Japanese Maple Zones 5-9 'Miss Maple' is a new selection by Talon Buchholz that was found as a chance seedling from 'Purple Ghost'. Unlike its parent, 'Miss Maple' displays bright creamy white variegation on dark green veins. Fall color on 'Miss Maple' is typically a bright red. We expect 'Miss Maple to reach 8-10 ft in height in 10 years. We recommend giving 'Miss Maple' morning sun with protection from the hot afternoon sun to show the best variegation for the longest period throughout the year.",
         "published_at": "2026-01-22T10:00:05-05:00",
         "updated_at": "2026-04-13T22:15:28-04:00",
         "match_method": "canonical_exact",

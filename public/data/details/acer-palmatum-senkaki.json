@@ -26,6 +26,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-senkaki/03-RHS_WSYD0001765_31.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-senkaki/01-WSY0025540_4566.jpg",
@@ -248,7 +249,7 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "大型落叶灌木或小乔木，高可达 6 米；嫩枝呈珊瑚红色，着生 5 裂叶，展叶时为粉黄绿色，夏季转绿，秋季变黄。花小，带红色。"
+    "description": "大型落叶灌木或小乔木，高可达 6 米；嫩枝呈珊瑚红色，着生 5 裂叶，展叶时为粉黄绿色，夏季转绿，秋季变黄。 花小，带红色。"
   },
   "descriptions_zh": {
     "preferred": "小型 Acer palmatum"

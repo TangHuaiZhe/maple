@@ -23,6 +23,7 @@
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
+    "public_jmac_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-mon-papa/01-vami08994.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-mon-papa/01-vami08994.jpg",
@@ -177,10 +178,10 @@
       "pest": "可能易受槭瘿螨、蚜虫、毛虫和七叶树介壳虫危害",
       "disease": "可能易感黄萎病、槭叶焦枯病和蜜环菌病"
     },
-    "description": "落叶灌木或小乔木，高可达 4 米，株形开展。叶片深裂，初展时带红色，成熟后为深橄榄绿色并泛青铜色。秋叶呈锈橙色和红色。"
+    "description": "落叶灌木或小乔木，高可达 4 米，株形开展。 叶片深裂，初展时带红色，成熟后为深橄榄绿色并泛青铜色。 秋叶呈锈橙色和红色。"
   },
   "descriptions_zh": {
-    "preferred": "照片：Peter Gregory。Acer palmatum"
+    "preferred": "照片：Peter Gregory。 Acer palmatum"
   },
   "has_mrmaple": false
 }
