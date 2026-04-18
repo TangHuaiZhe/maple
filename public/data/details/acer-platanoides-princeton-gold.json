@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/for-pickup-only-acer-platanoides-princeton-gold-golden-norway-maple/01-PrincetonGold_-10162024-12.jpg",
@@ -36,7 +32,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/for-pickup-only-acer-platanoides-princeton-gold-golden-norway-maple/01-PrincetonGold_-10162024-12.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/for-pickup-only-acer-platanoides-princeton-gold-golden-norway-maple/08-PrincetonGold_-10162024-07.jpg",
     "public_paths": [
       "/mrmaple-images/for-pickup-only-acer-platanoides-princeton-gold-golden-norway-maple/01-PrincetonGold_-10162024-12.jpg",
       "/mrmaple-images/for-pickup-only-acer-platanoides-princeton-gold-golden-norway-maple/02-PrincetonGold_-10162024-01.jpg",

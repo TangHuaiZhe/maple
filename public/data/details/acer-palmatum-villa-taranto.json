@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-villa-taranto/01-RHS_PUB0007954_7033.JPG",
       "/rhs-images/acer-palmatum-villa-taranto-momiji_kaede/01-RHS_PUB0007954_7033.JPG"
@@ -30,7 +28,8 @@
       "/herter-images/acer-palmatum-villa-taranto/01-DeWatermark.ai_1730911316684.webp"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-villa-taranto/01-RHS_PUB0007954_7033.JPG",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-villa-taranto-momiji_kaede/01-RHS_PUB0007954_7033.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-villa-taranto/01-RHS_PUB0007954_7033.JPG",
       "/rhs-images/acer-palmatum-villa-taranto-momiji_kaede/01-RHS_PUB0007954_7033.JPG",

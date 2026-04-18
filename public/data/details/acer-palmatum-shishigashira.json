@@ -19,10 +19,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-shishigashira/01-WSY0094323_5325.jpg",
       "/rhs-images/acer-palmatum-shishigashira/02-_KOS1826.jpg"
@@ -126,7 +122,8 @@
       "/herter-images/acer-palmatum-shishigashira/01-lionshead.webp"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-shishigashira/01-WSY0094323_5325.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-shishigashira-lions-head-japanese-maple/57-image_f322de93-ddbc-4b78-a1d5-fdb1c3a8bf5b.heic",
     "public_paths": [
       "/rhs-images/acer-palmatum-shishigashira/01-WSY0094323_5325.jpg",
       "/rhs-images/acer-palmatum-shishigashira/02-_KOS1826.jpg",

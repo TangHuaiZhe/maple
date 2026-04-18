@@ -19,19 +19,6 @@
   },
   "images": {
     "count": 8,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/143_金线 Acer Palmatum 'Kinshi'/01.png",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/143_金线 Acer Palmatum 'Kinshi'/01.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/143_金线 Acer Palmatum 'Kinshi'/02.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/143_金线 Acer Palmatum 'Kinshi'/03.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/143_金线 Acer Palmatum 'Kinshi'/04.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/143_金线 Acer Palmatum 'Kinshi'/05.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/143_金线 Acer Palmatum 'Kinshi'/06.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/143_金线 Acer Palmatum 'Kinshi'/07.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/143_金线 Acer Palmatum 'Kinshi'/08.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-kinshi/01-acer_palmatum_Kinshi_AUTUMN_COLOUR_(JW)_9300.JPG",
       "/rhs-images/acer-palmatum-kinshi/02-acer_palmatum_Kinshi_3(JW)_9300.JPG",
@@ -60,7 +47,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-kinshi/01-acer_palmatum_Kinshi_AUTUMN_COLOUR_(JW)_9300.JPG",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-kinshi-golden-threads-japanese-maple/07-Acer_palmatum_Kinshi_Golden_Threads_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2060692.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-kinshi/01-acer_palmatum_Kinshi_AUTUMN_COLOUR_(JW)_9300.JPG",
       "/rhs-images/acer-palmatum-kinshi/02-acer_palmatum_Kinshi_3(JW)_9300.JPG",

@@ -19,10 +19,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
@@ -34,6 +30,7 @@
       "/ncsu-images/acer-palmatum-kiyohime/05-Acer_palmatum_Kiyoh_QFN41k78a6Rz.jpeg",
       "/ncsu-images/acer-palmatum-kiyohime/06-Acer_palmatum_Kiyoh_003SGkFrJsPt.jpeg"
     ],
+    "public_conifer_paths": [],
     "public_cover_path": "/ncsu-images/acer-palmatum-kiyohime/01-Acer_palmatum_Kiyohi_83PZMxhHvlS5.jpe",
     "public_paths": [
       "/ncsu-images/acer-palmatum-kiyohime/01-Acer_palmatum_Kiyohi_83PZMxhHvlS5.jpe",

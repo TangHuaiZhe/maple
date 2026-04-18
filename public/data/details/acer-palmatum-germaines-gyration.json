@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-dissectum-germaines-gyration-weeping-japanese-maple/01-Acer_palmatum_Germaine_s_Gyration_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2054231.jpg",
@@ -46,7 +42,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-dissectum-germaines-gyration-weeping-japanese-maple/01-Acer_palmatum_Germaine_s_Gyration_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2054231.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-dissectum-germaines-gyration-weeping-japanese-maple/22-Acer_palmatum_Germaine_s_Gyration_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2054268.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-dissectum-germaines-gyration-weeping-japanese-maple/01-Acer_palmatum_Germaine_s_Gyration_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2054231.jpg",
       "/mrmaple-images/buy-acer-palmatum-dissectum-germaines-gyration-weeping-japanese-maple/02-1A4CFC91-A2F6-4D96-A1F8-E790F00BB224.jpg",

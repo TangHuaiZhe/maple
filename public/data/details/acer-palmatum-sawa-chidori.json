@@ -19,10 +19,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-sawa-chidori-japanese-maple/01-Acer_palmatum_Sawa_chidori_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068437.jpg",
@@ -47,7 +43,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-sawa-chidori-japanese-maple/01-Acer_palmatum_Sawa_chidori_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068437.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/copy-of-acer-palmatum-sawa-chidori-japanese-maple/01-FOR_PICKUP_ONLY_Acer_palmatum_Sawa_chidori_Japanese_Maple_DOES_NOT_SHIP_-_Mr_Maple_Buy_Japanese_Maple_Trees-2092227.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-sawa-chidori-japanese-maple/01-Acer_palmatum_Sawa_chidori_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068437.jpg",
       "/mrmaple-images/buy-acer-palmatum-sawa-chidori-japanese-maple/02-Acer_palmatum_Sawa_chidori_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068453.jpg",

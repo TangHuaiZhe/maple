@@ -15,15 +15,6 @@
   },
   "images": {
     "count": 4,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/280_Peve Ollie-Acer palmatum 'Peve Ollie'/01.jpg",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/280_Peve Ollie-Acer palmatum 'Peve Ollie'/01.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/280_Peve Ollie-Acer palmatum 'Peve Ollie'/02.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/280_Peve Ollie-Acer palmatum 'Peve Ollie'/03.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/280_Peve Ollie-Acer palmatum 'Peve Ollie'/04.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/01-peveollie3.jpg",
@@ -37,7 +28,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/01-peveollie3.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/04-Acer_palmatum_Peve_Ollie_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066611.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/01-peveollie3.jpg",
       "/mrmaple-images/buy-acer-palmatum-peve-ollie-japanese-maple/02-peveollie4.jpg",

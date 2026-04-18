@@ -15,20 +15,6 @@
   },
   "images": {
     "count": 9,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/213_安妮艾琳 Acer Palmatum 'Anne Irene'/01.png",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/213_安妮艾琳 Acer Palmatum 'Anne Irene'/01.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/213_安妮艾琳 Acer Palmatum 'Anne Irene'/02.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/213_安妮艾琳 Acer Palmatum 'Anne Irene'/03.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/213_安妮艾琳 Acer Palmatum 'Anne Irene'/04.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/213_安妮艾琳 Acer Palmatum 'Anne Irene'/05.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/213_安妮艾琳 Acer Palmatum 'Anne Irene'/06.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/213_安妮艾琳 Acer Palmatum 'Anne Irene'/07.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/213_安妮艾琳 Acer Palmatum 'Anne Irene'/08.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/黄叶/213_安妮艾琳 Acer Palmatum 'Anne Irene'/09.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/acer-palmatum-anne-irene-japanese-maple/01-Acer_palmatum_Anne-Irene_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042150.jpg",
@@ -95,6 +81,7 @@
       "/herter-images/acer-palmatum-anne-irene/01-anneirene.jpg"
     ],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": "/mrmaple-images/acer-palmatum-anne-irene-japanese-maple/01-Acer_palmatum_Anne-Irene_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042150.jpg",
     "public_paths": [
       "/mrmaple-images/acer-palmatum-anne-irene-japanese-maple/01-Acer_palmatum_Anne-Irene_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042150.jpg",

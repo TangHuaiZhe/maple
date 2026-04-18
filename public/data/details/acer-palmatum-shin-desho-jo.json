@@ -19,10 +19,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-shin-desho-jo/01-lage00096.jpg",
       "/rhs-images/acer-palmatum-shin-desho-jo/02-lage00095.jpg",
@@ -31,7 +27,8 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-shin-desho-jo/01-lage00096.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-shin-desho-jo/03-elbo38692.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-shin-desho-jo/01-lage00096.jpg",
       "/rhs-images/acer-palmatum-shin-desho-jo/02-lage00095.jpg",

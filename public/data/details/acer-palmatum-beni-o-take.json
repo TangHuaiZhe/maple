@@ -19,18 +19,6 @@
   },
   "images": {
     "count": 7,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/261_红竹Acer Palmatum 'Beni Otake'/01.jpg",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/261_红竹Acer Palmatum 'Beni Otake'/01.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/261_红竹Acer Palmatum 'Beni Otake'/02.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/261_红竹Acer Palmatum 'Beni Otake'/03.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/261_红竹Acer Palmatum 'Beni Otake'/04.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/261_红竹Acer Palmatum 'Beni Otake'/05.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/261_红竹Acer Palmatum 'Beni Otake'/06.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/竹叶/261_红竹Acer Palmatum 'Beni Otake'/07.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-beni-o-take/01-Web_Use-_KOT0744_14172.jpg"
     ],
@@ -39,6 +27,7 @@
       "/herter-images/acer-palmatum-beni-o-take/01-beniotake.jpg"
     ],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-beni-o-take/01-Web_Use-_KOT0744_14172.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-beni-o-take/01-Web_Use-_KOT0744_14172.jpg",

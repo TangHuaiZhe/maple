@@ -20,8 +20,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-moonfire/01-MAR0029937_11438.jpg",
       "/rhs-images/acer-palmatum-moonfire-momiji_kaede/01-MAR0029937_11438.jpg"
@@ -42,7 +40,8 @@
       "/herter-images/acer-palmatum-moonfire/01-moonfire.jpg"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-moonfire/01-MAR0029937_11438.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-moonfire-momiji_kaede/01-MAR0029937_11438.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-moonfire/01-MAR0029937_11438.jpg",
       "/rhs-images/acer-palmatum-moonfire-momiji_kaede/01-MAR0029937_11438.jpg",

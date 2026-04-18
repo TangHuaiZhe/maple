@@ -20,8 +20,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-red-flash-japanese-maple/01-Acer_palmatum_Red_Flash_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2067084.jpg",
@@ -65,7 +63,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-red-flash-japanese-maple/01-Acer_palmatum_Red_Flash_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2067084.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-red-flash-japanese-maple/06-Acer_palmatum_Red_Flash_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2067092.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-red-flash-japanese-maple/01-Acer_palmatum_Red_Flash_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2067084.jpg",
       "/mrmaple-images/buy-acer-palmatum-red-flash-japanese-maple/02-2F782B8B-996A-497F-AFF0-5BD699EA740E.jpg",

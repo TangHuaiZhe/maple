@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-geisha-gone-wild-japanese-maple/01-Acer.palmatum.Geisha_Gone_Wild.2.jpg",
@@ -135,7 +131,8 @@
       "/herter-images/acer-palmatum-geisha-gone-wild/01-geishagonewild.jpg"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-geisha-gone-wild-japanese-maple/01-Acer.palmatum.Geisha_Gone_Wild.2.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-geisha-gone-wild-japanese-maple/12-image_6faded26-1774-434e-a0c6-798bc0b432f9.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-geisha-gone-wild-japanese-maple/01-Acer.palmatum.Geisha_Gone_Wild.2.jpg",
       "/mrmaple-images/buy-acer-palmatum-geisha-gone-wild-japanese-maple/02-MrMaplePictureResized-7958.jpg",

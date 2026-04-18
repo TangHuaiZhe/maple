@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-tataricum-garann-hot-wings-tatarian-maple/01-Acer_tataricum_GarAnn_Hot_Wings_Tatarian_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075195.jpg",
@@ -41,7 +37,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-tataricum-garann-hot-wings-tatarian-maple/01-Acer_tataricum_GarAnn_Hot_Wings_Tatarian_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075195.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-tataricum-garann-hot-wings-tatarian-maple/08-Acer_tataricum_GarAnn_Hot_Wings_Tatarian_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075207.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-tataricum-garann-hot-wings-tatarian-maple/01-Acer_tataricum_GarAnn_Hot_Wings_Tatarian_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075195.jpg",
       "/mrmaple-images/buy-acer-tataricum-garann-hot-wings-tatarian-maple/02-Acer_tataricum_GarAnn_Hot_Wings_Tatarian_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075196.jpg",

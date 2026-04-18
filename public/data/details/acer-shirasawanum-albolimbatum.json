@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-shirasawanum-albolimbatum/01-MAR0030014_11557.jpg",
       "/rhs-images/acer-shirasawanum-albolimbatum/02-Web_Use-MAR0030015_11557.jpg",
@@ -27,7 +23,8 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-shirasawanum-albolimbatum/01-MAR0030014_11557.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-shirasawanum-albolimbatum/02-Web_Use-MAR0030015_11557.jpg",
     "public_paths": [
       "/rhs-images/acer-shirasawanum-albolimbatum/01-MAR0030014_11557.jpg",
       "/rhs-images/acer-shirasawanum-albolimbatum/02-Web_Use-MAR0030015_11557.jpg",

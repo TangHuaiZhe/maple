@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-chitose-yama/01-WSY0040713_13776.jpg",
       "/rhs-images/acer-palmatum-chitose-yama/02-Web_Use-MAR0052749_28.jpg",
@@ -34,7 +32,8 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-chitose-yama/01-WSY0040713_13776.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-chitose-yama-momiji_kaede/03-RHS_WSYD0015521_28.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-chitose-yama/01-WSY0040713_13776.jpg",
       "/rhs-images/acer-palmatum-chitose-yama/02-Web_Use-MAR0052749_28.jpg",

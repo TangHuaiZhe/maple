@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-pink-panther-japanese-maple/01-PinkPanther_-04142025-1.jpg",
@@ -69,7 +65,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-pink-panther-japanese-maple/01-PinkPanther_-04142025-1.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-pink-panther-japanese-maple/07-IMG-8068.heic",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-pink-panther-japanese-maple/01-PinkPanther_-04142025-1.jpg",
       "/mrmaple-images/buy-acer-palmatum-pink-panther-japanese-maple/02-71E029F9-3038-4928-8BD1-3A4CA05BC4D9.jpg",

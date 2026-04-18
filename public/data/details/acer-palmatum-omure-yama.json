@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-omure-yama/01-GWIS427.jpg",
       "/rhs-images/acer-palmatum-omure-yama-momiji_kaede/01-GWIS427.jpg"
@@ -51,7 +49,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-omure-yama/01-GWIS427.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-omureyama-japanese-maple/15-Acer_palmatum_Omureyama_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065521.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-omure-yama/01-GWIS427.jpg",
       "/rhs-images/acer-palmatum-omure-yama-momiji_kaede/01-GWIS427.jpg",

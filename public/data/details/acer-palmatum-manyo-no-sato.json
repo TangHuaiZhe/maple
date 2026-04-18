@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-manyo-no-sato-japanese-maple/01-MrMaplePictureResized-0958.jpg",
@@ -88,7 +84,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-manyo-no-sato-japanese-maple/01-MrMaplePictureResized-0958.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-manyo-no-sato-japanese-maple/53-IMG_0136_4bfc0510-6ba6-4322-bd98-a44eacccbe40.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-manyo-no-sato-japanese-maple/01-MrMaplePictureResized-0958.jpg",
       "/mrmaple-images/buy-acer-palmatum-manyo-no-sato-japanese-maple/02-image_0306ba85-aee9-45fd-9ee1-1f62f0b5283c.jpg",

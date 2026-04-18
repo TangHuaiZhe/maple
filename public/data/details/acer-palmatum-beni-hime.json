@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/01-BeniHime_-08062024.jpg",
@@ -31,7 +29,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/01-BeniHime_-08062024.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.jpg",
     "public_paths": [
       "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/01-BeniHime_-08062024.jpg",
       "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/02-benihime1.jpg",

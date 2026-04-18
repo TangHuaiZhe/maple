@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-lileeanes-jewel-japanese-maple/01-New_Iphone_photos_679_-_Copy1.jpg",
@@ -103,7 +99,8 @@
       "/herter-images/acer-palmatum-lileeanes-jewel/01-lileeannesjewel-.webp"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-lileeanes-jewel-japanese-maple/01-New_Iphone_photos_679_-_Copy1.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/herter-images/acer-palmatum-lileeanes-jewel/01-lileeannesjewel-.webp",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-lileeanes-jewel-japanese-maple/01-New_Iphone_photos_679_-_Copy1.jpg",
       "/mrmaple-images/buy-acer-palmatum-lileeanes-jewel-japanese-maple/02-P1014322.jpg",

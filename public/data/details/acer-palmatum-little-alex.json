@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-little-alex-japanese-maple/01-Screenshot2025-11-17at2.35.41PM.png",
@@ -29,6 +25,7 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": "/mrmaple-images/buy-acer-palmatum-little-alex-japanese-maple/01-Screenshot2025-11-17at2.35.41PM.png",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-little-alex-japanese-maple/01-Screenshot2025-11-17at2.35.41PM.png",

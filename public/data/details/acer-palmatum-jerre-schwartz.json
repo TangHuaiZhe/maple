@@ -15,18 +15,6 @@
   },
   "images": {
     "count": 7,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/135_杰瑞施瓦兹 Acer Palmatum 'Jerre Schwartz'/01.png",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/135_杰瑞施瓦兹 Acer Palmatum 'Jerre Schwartz'/01.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/135_杰瑞施瓦兹 Acer Palmatum 'Jerre Schwartz'/02.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/135_杰瑞施瓦兹 Acer Palmatum 'Jerre Schwartz'/03.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/135_杰瑞施瓦兹 Acer Palmatum 'Jerre Schwartz'/04.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/135_杰瑞施瓦兹 Acer Palmatum 'Jerre Schwartz'/05.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/135_杰瑞施瓦兹 Acer Palmatum 'Jerre Schwartz'/06.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/矮生/135_杰瑞施瓦兹 Acer Palmatum 'Jerre Schwartz'/07.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-jerre-schwartz/01-AcerpalmatumJerreSchwartz.jpg"
     ],
@@ -63,6 +51,7 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-jerre-schwartz/01-AcerpalmatumJerreSchwartz.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-jerre-schwartz/01-AcerpalmatumJerreSchwartz.jpg",

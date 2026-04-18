@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-umegae-japanese-maple/01-Acer_palmatum_Umegae_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070387.jpg",
@@ -51,7 +49,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-umegae-japanese-maple/01-Acer_palmatum_Umegae_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070387.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-umegae-japanese-maple/19-Acer_palmatum_Umegae_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070404.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-umegae-japanese-maple/01-Acer_palmatum_Umegae_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070387.jpg",
       "/mrmaple-images/buy-acer-palmatum-umegae-japanese-maple/02-Screenshot2026-02-04at11.11.44AM.png",

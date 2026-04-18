@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-tamuke-yama/01-Web_Use-PUB0040387_13014.jpg",
       "/rhs-images/acer-palmatum-tamuke-yama/02-Web_Use-B21A7713_13014.jpg",
@@ -71,7 +69,8 @@
       "/herter-images/acer-palmatum-tamuke-yama/01-tamukeyama.webp"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-tamuke-yama/01-Web_Use-PUB0040387_13014.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-tamuke-yama-momiji_kaede/02-Web_Use-B21A7713_13014.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-tamuke-yama/01-Web_Use-PUB0040387_13014.jpg",
       "/rhs-images/acer-palmatum-tamuke-yama/02-Web_Use-B21A7713_13014.jpg",

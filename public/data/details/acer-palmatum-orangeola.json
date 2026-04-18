@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-orangeola/01-Web_Use-PUB0040384_13011.jpg",
       "/rhs-images/acer-palmatum-orangeola-momiji_kaede/01-Web_Use-PUB0040384_13011.jpg"
@@ -88,7 +86,8 @@
       "/herter-images/acer-palmatum-orangeola/01-orangeola-1.webp"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-orangeola/01-Web_Use-PUB0040384_13011.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-orangeola-japanese-maple/04-Acer_palmatum_Orangeola_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065615.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-orangeola/01-Web_Use-PUB0040384_13011.jpg",
       "/rhs-images/acer-palmatum-orangeola-momiji_kaede/01-Web_Use-PUB0040384_13011.jpg",

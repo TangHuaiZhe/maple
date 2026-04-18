@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-ramona-rare-japanese-maple/01-AcerPalmatum_Ramona__08172023-07.jpg",
@@ -130,7 +126,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-ramona-rare-japanese-maple/01-AcerPalmatum_Ramona__08172023-07.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-ramona-rare-japanese-maple/32-image_3ff71ad9-2bac-461a-a802-35d3996c070d.heic",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-ramona-rare-japanese-maple/01-AcerPalmatum_Ramona__08172023-07.jpg",
       "/mrmaple-images/buy-acer-palmatum-ramona-rare-japanese-maple/02-AcerPalmatum_Ramona__08172023-18.jpg",

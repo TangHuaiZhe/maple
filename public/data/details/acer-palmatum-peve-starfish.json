@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-peve-starfish-japanese-maple/01-PeveStarfish_-05212024-3.jpg",
@@ -120,7 +116,8 @@
       "/herter-images/acer-palmatum-peve-starfish/01-starfish1222-1.webp"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-peve-starfish-japanese-maple/01-PeveStarfish_-05212024-3.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-peve-starfish-japanese-maple/28-Acer.palmatum.Peve_Starfish.3.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-peve-starfish-japanese-maple/01-PeveStarfish_-05212024-3.jpg",
       "/mrmaple-images/buy-acer-palmatum-peve-starfish-japanese-maple/02-image_47c09cd2-66a9-4be8-b22e-58c88338bd7c.jpg",

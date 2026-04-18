@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-senkaki/01-WSY0025540_4566.jpg",
       "/rhs-images/acer-palmatum-senkaki/02-RHS_WSYD0014267_31.JPG",
@@ -29,7 +25,8 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-senkaki/01-WSY0025540_4566.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-senkaki/03-RHS_WSYD0001765_31.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-senkaki/01-WSY0025540_4566.jpg",
       "/rhs-images/acer-palmatum-senkaki/02-RHS_WSYD0014267_31.JPG",

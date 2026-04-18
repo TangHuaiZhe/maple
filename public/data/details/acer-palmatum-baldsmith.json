@@ -20,19 +20,6 @@
   },
   "images": {
     "count": 8,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/01.png",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/01.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/02.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/03.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/04.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/05.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/06.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/07.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/69_巴尔德史密斯 Acer Palmatum 'Blad Smith'/08.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-baldsmith/01-_KOS4952.jpg",
       "/rhs-images/acer-palmatum-baldsmith/02-_KOS4957.jpg"
@@ -42,7 +29,8 @@
       "/herter-images/acer-palmatum-baldsmith/01-baldsmith-1.jpg"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-baldsmith/01-_KOS4952.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/herter-images/acer-palmatum-baldsmith/01-baldsmith-1.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-baldsmith/01-_KOS4952.jpg",
       "/rhs-images/acer-palmatum-baldsmith/02-_KOS4957.jpg",

@@ -19,10 +19,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-beni-shichihenge/01-Web_Use-_KOT0776_14171.jpg",
       "/rhs-images/acer-palmatum-beni-shichihenge/02-Chelsea2022_TIM9608_May_23.jpg"
@@ -89,7 +85,8 @@
       "/herter-images/acer-palmatum-beni-shichihenge/01-hnbenischichihenge-1.jpg"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-beni-shichihenge/01-Web_Use-_KOT0776_14171.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/for-pickup-only-acer-palmatum-beni-shichihenge-pink-variegated-japanese-maple-does-not-ship/06-image_ef2d0ed0-1377-4dc9-bcb0-6b87be1e623f.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-beni-shichihenge/01-Web_Use-_KOT0776_14171.jpg",
       "/rhs-images/acer-palmatum-beni-shichihenge/02-Chelsea2022_TIM9608_May_23.jpg",

@@ -10,6 +10,15 @@ const appRoot = process.cwd();
 const enhancedJson = path.join(appRoot, "data-source/Resource/园艺/raw/merged-cultivars-with-rhs.json");
 let saveQueue = Promise.resolve();
 
+function normalizeBasePath(value) {
+  if (!value || value === "/") {
+    return "/";
+  }
+
+  const trimmed = String(value).trim().replace(/^\/+|\/+$/g, "");
+  return trimmed ? `/${trimmed}/` : "/";
+}
+
 function sendJson(res, statusCode, payload) {
   res.statusCode = statusCode;
   res.setHeader("Content-Type", "application/json; charset=utf-8");
@@ -111,9 +120,10 @@ function devRecordEditorPlugin() {
 }
 
 export default defineConfig({
+  base: normalizeBasePath(process.env.VITE_PUBLIC_BASE),
   plugins: [react(), devRecordEditorPlugin()],
   server: {
-    host: "127.0.0.1",
+    host: "0.0.0.0",
     port: 4173,
   },
 });

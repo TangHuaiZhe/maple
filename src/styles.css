@@ -363,6 +363,7 @@ textarea {
 }
 
 .cultivar-card {
+  position: relative;
   display: grid;
   grid-template-rows: auto 1fr;
   transition: transform 200ms ease, box-shadow 200ms ease, border-color 200ms ease;
@@ -404,6 +405,88 @@ textarea {
   letter-spacing: 0.04em;
 }
 
+.favorite-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 34px;
+  padding: 8px 14px;
+  border: 1px solid rgba(152, 55, 38, 0.18);
+  border-radius: 999px;
+  background: rgba(255, 250, 241, 0.92);
+  color: var(--accent);
+  cursor: pointer;
+  box-shadow: 0 10px 24px rgba(47, 33, 20, 0.08);
+  transition: transform 180ms ease, border-color 180ms ease, background-color 180ms ease, color 180ms ease, box-shadow 180ms ease;
+}
+
+.favorite-toggle-icon {
+  font-size: 1rem;
+  line-height: 1;
+  transition: transform 180ms ease, color 180ms ease;
+}
+
+.favorite-toggle-label {
+  line-height: 1;
+}
+
+.favorite-toggle:hover {
+  transform: translateY(-1px);
+  border-color: rgba(152, 55, 38, 0.32);
+  background: rgba(255, 246, 234, 0.98);
+  box-shadow: 0 14px 28px rgba(47, 33, 20, 0.12);
+}
+
+.favorite-toggle:active {
+  transform: scale(0.95);
+}
+
+.favorite-toggle.active {
+  background: rgba(186, 56, 49, 0.14);
+  border-color: rgba(186, 56, 49, 0.4);
+  color: #b63a34;
+  box-shadow: 0 14px 30px rgba(182, 58, 52, 0.16);
+}
+
+.favorite-toggle.active .favorite-toggle-icon {
+  color: #c23933;
+  transform: scale(1.12);
+  animation: favorite-pop 220ms ease-out;
+}
+
+.favorite-toggle-card {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  z-index: 2;
+  width: 38px;
+  min-width: 38px;
+  min-height: 38px;
+  padding: 0;
+  background: rgba(255, 250, 241, 0.96);
+  box-shadow: 0 12px 24px rgba(47, 33, 20, 0.14);
+}
+
+.favorite-toggle-card.active {
+  background: linear-gradient(180deg, rgba(205, 66, 58, 0.96), rgba(176, 46, 39, 0.96));
+  border-color: rgba(176, 46, 39, 0.9);
+  color: #fff7f5;
+  box-shadow: 0 16px 32px rgba(176, 46, 39, 0.28);
+}
+
+.favorite-toggle-card.active .favorite-toggle-icon {
+  color: #fff7f5;
+}
+
+.favorite-toggle-card .favorite-toggle-label {
+  display: none;
+}
+
+.favorite-toggle-card .favorite-toggle-icon {
+  font-size: 1.05rem;
+}
+
 .source-rhs {
   background: rgba(85, 104, 68, 0.84);
 }
@@ -420,8 +503,8 @@ textarea {
   background: rgba(33, 92, 128, 0.86);
 }
 
-.source-local {
-  background: rgba(47, 33, 20, 0.78);
+.source-conifer {
+  background: rgba(49, 103, 67, 0.86);
 }
 
 .cultivar-meta {
@@ -536,6 +619,13 @@ textarea {
   margin-top: 18px;
 }
 
+.detail-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+
 .detail-description-layer {
   display: grid;
   gap: 12px;
@@ -609,6 +699,24 @@ textarea {
 .detail-toggle:focus-visible {
   outline: 3px solid rgba(152, 55, 38, 0.18);
   outline-offset: 2px;
+}
+
+.favorite-toggle-inline {
+  min-width: 112px;
+}
+
+@keyframes favorite-pop {
+  0% {
+    transform: scale(0.82);
+  }
+
+  60% {
+    transform: scale(1.18);
+  }
+
+  100% {
+    transform: scale(1.12);
+  }
 }
 
 .detail-toggle:disabled,
@@ -918,6 +1026,12 @@ textarea {
   border: 1px dashed var(--line);
   border-radius: var(--radius-lg);
   background: rgba(255, 250, 242, 0.72);
+}
+
+.favorites-empty-state {
+  display: grid;
+  justify-items: center;
+  gap: 14px;
 }
 
 .empty-state.compact {

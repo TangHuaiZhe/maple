@@ -19,18 +19,6 @@
   },
   "images": {
     "count": 7,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/166_粉色高野山Acer Palmatum 'Momoiro Koyasan'/01.jpg",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/166_粉色高野山Acer Palmatum 'Momoiro Koyasan'/01.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/166_粉色高野山Acer Palmatum 'Momoiro Koyasan'/02.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/166_粉色高野山Acer Palmatum 'Momoiro Koyasan'/03.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/166_粉色高野山Acer Palmatum 'Momoiro Koyasan'/04.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/166_粉色高野山Acer Palmatum 'Momoiro Koyasan'/05.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/166_粉色高野山Acer Palmatum 'Momoiro Koyasan'/06.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/166_粉色高野山Acer Palmatum 'Momoiro Koyasan'/07.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-momoiro-ko-ya-san/01-vaem13154.jpg",
       "/rhs-images/acer-palmatum-momoiro-ko-ya-san/02-visi68961.jpg"
@@ -38,7 +26,8 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-momoiro-ko-ya-san/01-vaem13154.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-momoiro-ko-ya-san/02-visi68961.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-momoiro-ko-ya-san/01-vaem13154.jpg",
       "/rhs-images/acer-palmatum-momoiro-ko-ya-san/02-visi68961.jpg"

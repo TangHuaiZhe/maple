@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-aoba-jo-japanese-maple/01-Acer_palmatum_Aoba_jo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042371.jpg",
@@ -30,7 +28,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-aoba-jo-japanese-maple/01-Acer_palmatum_Aoba_jo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042371.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-aoba-jo-japanese-maple/03-Acer_palmatum_Aoba_jo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042382.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-aoba-jo-japanese-maple/01-Acer_palmatum_Aoba_jo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042371.jpg",
       "/mrmaple-images/buy-acer-palmatum-aoba-jo-japanese-maple/02-Acer_palmatum_Aoba_jo_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042375.jpg",

@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-bloodgood/01-WSY0025537_4563.jpg",
       "/rhs-images/acer-palmatum-bloodgood/02-GWIS429.jpg",
@@ -136,7 +134,8 @@
       "/herter-images/acer-palmatum-bloodgood/01-japane4-1.jpg"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-bloodgood/01-WSY0025537_4563.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-bloodgood-red-japanese-maple-tree/20-Acer_palmatum_Bloodgood_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046437.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-bloodgood/01-WSY0025537_4563.jpg",
       "/rhs-images/acer-palmatum-bloodgood/02-GWIS429.jpg",

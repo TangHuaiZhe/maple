@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-frosted-purple-japanese-maple/01-image_6fba5992-d121-4d46-bb08-a4ea5f7acac3.jpg",
@@ -80,7 +76,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-frosted-purple-japanese-maple/01-image_6fba5992-d121-4d46-bb08-a4ea5f7acac3.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-frosted-purple-japanese-maple/05-Acer_palmatum_Frosted_Purple_Japanese_Maple.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-frosted-purple-japanese-maple/01-image_6fba5992-d121-4d46-bb08-a4ea5f7acac3.jpg",
       "/mrmaple-images/buy-acer-palmatum-frosted-purple-japanese-maple/02-image_88265362-b700-4836-a43a-1d99005096ed.jpg",

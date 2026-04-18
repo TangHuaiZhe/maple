@@ -15,23 +15,13 @@
   },
   "images": {
     "count": 6,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/藤槭/太平洋之火/59_太平洋之火 Acer Circinatum 'Pacific Fire'/01.png",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/藤槭/太平洋之火/59_太平洋之火 Acer Circinatum 'Pacific Fire'/01.png",
-      "Resource/园艺/枫树品种合集/图片/藤槭/太平洋之火/59_太平洋之火 Acer Circinatum 'Pacific Fire'/02.png",
-      "Resource/园艺/枫树品种合集/图片/藤槭/太平洋之火/59_太平洋之火 Acer Circinatum 'Pacific Fire'/03.png",
-      "Resource/园艺/枫树品种合集/图片/藤槭/太平洋之火/59_太平洋之火 Acer Circinatum 'Pacific Fire'/04.png",
-      "Resource/园艺/枫树品种合集/图片/藤槭/太平洋之火/59_太平洋之火 Acer Circinatum 'Pacific Fire'/05.png",
-      "Resource/园艺/枫树品种合集/图片/藤槭/太平洋之火/59_太平洋之火 Acer Circinatum 'Pacific Fire'/06.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-circinatum-pacific-fire/01-phbe04467.jpg"
     ],
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": "/rhs-images/acer-circinatum-pacific-fire/01-phbe04467.jpg",
     "public_paths": [
       "/rhs-images/acer-circinatum-pacific-fire/01-phbe04467.jpg"

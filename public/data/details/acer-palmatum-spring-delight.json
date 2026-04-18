@@ -20,24 +20,13 @@
   },
   "images": {
     "count": 7,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/70_春日喜悦 Acer Palmatum 'Spring Delight'/01.png",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/70_春日喜悦 Acer Palmatum 'Spring Delight'/01.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/70_春日喜悦 Acer Palmatum 'Spring Delight'/02.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/70_春日喜悦 Acer Palmatum 'Spring Delight'/03.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/70_春日喜悦 Acer Palmatum 'Spring Delight'/04.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/70_春日喜悦 Acer Palmatum 'Spring Delight'/05.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/70_春日喜悦 Acer Palmatum 'Spring Delight'/06.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/70_春日喜悦 Acer Palmatum 'Spring Delight'/07.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [],
     "public_herter_paths": [
       "/herter-images/acer-palmatum-spring-delight/01-springdelight2.jpg"
     ],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": "/herter-images/acer-palmatum-spring-delight/01-springdelight2.jpg",
     "public_paths": [
       "/herter-images/acer-palmatum-spring-delight/01-springdelight2.jpg"

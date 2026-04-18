@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/acer-palmatum-versicolor-japanese-maple/01-versicolor1.jpg",
@@ -28,7 +26,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/acer-palmatum-versicolor-japanese-maple/01-versicolor1.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/acer-palmatum-versicolor-japanese-maple/02-versicolor2_1735c2ec-f80c-4454-b8fe-31ec601d4c06.jpg",
     "public_paths": [
       "/mrmaple-images/acer-palmatum-versicolor-japanese-maple/01-versicolor1.jpg",
       "/mrmaple-images/acer-palmatum-versicolor-japanese-maple/02-versicolor2_1735c2ec-f80c-4454-b8fe-31ec601d4c06.jpg"

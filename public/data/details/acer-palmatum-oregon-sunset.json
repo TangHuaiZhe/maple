@@ -19,22 +19,6 @@
   },
   "images": {
     "count": 11,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/162_俄勒冈日落 Acer Palmatum 'Oregon Sunset'/01.jpg",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/162_俄勒冈日落 Acer Palmatum 'Oregon Sunset'/01.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/162_俄勒冈日落 Acer Palmatum 'Oregon Sunset'/02.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/162_俄勒冈日落 Acer Palmatum 'Oregon Sunset'/03.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/162_俄勒冈日落 Acer Palmatum 'Oregon Sunset'/04.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/162_俄勒冈日落 Acer Palmatum 'Oregon Sunset'/05.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/162_俄勒冈日落 Acer Palmatum 'Oregon Sunset'/06.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/162_俄勒冈日落 Acer Palmatum 'Oregon Sunset'/07.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/162_俄勒冈日落 Acer Palmatum 'Oregon Sunset'/08.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/162_俄勒冈日落 Acer Palmatum 'Oregon Sunset'/09.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/162_俄勒冈日落 Acer Palmatum 'Oregon Sunset'/10.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/红叶/162_俄勒冈日落 Acer Palmatum 'Oregon Sunset'/11.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-oregon-sunset/01-elbo62065.jpg",
       "/rhs-images/acer-palmatum-oregon-sunset/02-elbo62057.jpg"
@@ -91,7 +75,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-oregon-sunset/01-elbo62065.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-oregon-sunset/02-elbo62057.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-oregon-sunset/01-elbo62065.jpg",
       "/rhs-images/acer-palmatum-oregon-sunset/02-elbo62057.jpg",

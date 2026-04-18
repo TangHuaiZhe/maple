@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-laevigatum-hong-long-rare-evergreen-chinese-maple/01-Acer_laevigatum_Hong_Long_Evergreen_Chinese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039464.jpg",
@@ -61,7 +57,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-laevigatum-hong-long-rare-evergreen-chinese-maple/01-Acer_laevigatum_Hong_Long_Evergreen_Chinese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039464.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-laevigatum-hong-long-rare-evergreen-chinese-maple/32-Acer_laevigatum_Hong_Long_Evergreen_Chinese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039484.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-laevigatum-hong-long-rare-evergreen-chinese-maple/01-Acer_laevigatum_Hong_Long_Evergreen_Chinese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2039464.jpg",
       "/mrmaple-images/buy-acer-laevigatum-hong-long-rare-evergreen-chinese-maple/02-HongLong_-11242025-1.jpg",

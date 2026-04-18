@@ -20,24 +20,6 @@
   },
   "images": {
     "count": 13,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/01.jpg",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/01.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/02.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/03.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/04.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/05.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/06.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/07.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/08.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/09.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/10.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/11.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/12.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/锦叶/170_浮云 Acer Palmatum 'Ukigumo'/13.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-ukigumo/01-RHS_RHS-0001392_10168.JPG",
       "/rhs-images/acer-palmatum-ukigumo/02-_DSC5294.jpg",
@@ -117,6 +99,7 @@
       "/herter-images/acer-palmatum-ukigumo/01-ukigumopic.jpg"
     ],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-ukigumo/01-RHS_RHS-0001392_10168.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-ukigumo/01-RHS_RHS-0001392_10168.JPG",

@@ -19,18 +19,13 @@
   },
   "images": {
     "count": 1,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/198_尚蒂伊蕾丝Acer palmatum 'Chantilly Lace'/01.jpg",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/198_尚蒂伊蕾丝Acer palmatum 'Chantilly Lace'/01.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [],
     "public_herter_paths": [
       "/herter-images/acer-palmatum-chantilly-lace/01-chantillylacefl06.jpg"
     ],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": "/herter-images/acer-palmatum-chantilly-lace/01-chantillylacefl06.jpg",
     "public_paths": [
       "/herter-images/acer-palmatum-chantilly-lace/01-chantillylacefl06.jpg"

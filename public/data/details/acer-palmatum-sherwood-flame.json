@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-sherwood-flame/01-MAR0029951_11440.jpg",
       "/rhs-images/acer-palmatum-sherwood-flame-momiji_kaede/01-MAR0029951_11440.jpg"
@@ -30,7 +28,8 @@
       "/herter-images/acer-palmatum-sherwood-flame/01-sherwoodflame.webp"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-sherwood-flame/01-MAR0029951_11440.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/herter-images/acer-palmatum-sherwood-flame/01-sherwoodflame.webp",
     "public_paths": [
       "/rhs-images/acer-palmatum-sherwood-flame/01-MAR0029951_11440.jpg",
       "/rhs-images/acer-palmatum-sherwood-flame-momiji_kaede/01-MAR0029951_11440.jpg",

@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-yellow-threads-rare-japanese-maple/01-image_ae3d2bb2-ccbc-4af1-bf56-829bb67771c7.jpg",
@@ -93,7 +89,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-yellow-threads-rare-japanese-maple/01-image_ae3d2bb2-ccbc-4af1-bf56-829bb67771c7.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-yellow-threads-rare-japanese-maple/08-Acer.palmatum.Yellow_Threads.2.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-yellow-threads-rare-japanese-maple/01-image_ae3d2bb2-ccbc-4af1-bf56-829bb67771c7.jpg",
       "/mrmaple-images/buy-acer-palmatum-yellow-threads-rare-japanese-maple/02-Acer.palmatum.Yellow_Threads.1.jpg",

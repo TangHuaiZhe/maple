@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-crataegifolium-little-gem/01-vaem11133.jpg"
     ],
@@ -30,6 +26,7 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": "/rhs-images/acer-crataegifolium-little-gem/01-vaem11133.jpg",
     "public_paths": [
       "/rhs-images/acer-crataegifolium-little-gem/01-vaem11133.jpg",

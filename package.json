@@ -11,7 +11,11 @@
     "fetch-ncsu-images": "node ./scripts/fetch-ncsu-images.mjs",
     "dev": "npm run sync-data && vite",
     "build": "npm run sync-data && vite build",
-    "preview": "vite preview"
+    "build:hosting": "npm run sync-data && vite build",
+    "deploy:cloudbase": "bash ./scripts/deploy-cloudbase-hosting.sh",
+    "preview": "vite preview",
+    "mini:dev": "npm run sync-data && npm --prefix ./mini run dev:weapp",
+    "mini:build": "npm run sync-data && npm --prefix ./mini run build:weapp"
   },
   "keywords": [
     "maple",

@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-x-mystic-jewel-japanese-maple/01-08032023_MysticJewel-34.jpg",
@@ -136,7 +132,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-x-mystic-jewel-japanese-maple/01-08032023_MysticJewel-34.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-x-mystic-jewel-japanese-maple/44-IMG-0384.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-x-mystic-jewel-japanese-maple/01-08032023_MysticJewel-34.jpg",
       "/mrmaple-images/buy-acer-palmatum-x-mystic-jewel-japanese-maple/02-MysticJewel_08292023-16.jpg",

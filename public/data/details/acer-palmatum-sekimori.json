@@ -19,18 +19,6 @@
   },
   "images": {
     "count": 7,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/76_关守 Acer palmatum 'Sekimori'/01.png",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/76_关守 Acer palmatum 'Sekimori'/01.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/76_关守 Acer palmatum 'Sekimori'/02.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/76_关守 Acer palmatum 'Sekimori'/03.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/76_关守 Acer palmatum 'Sekimori'/04.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/76_关守 Acer palmatum 'Sekimori'/05.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/76_关守 Acer palmatum 'Sekimori'/06.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/羽毛枫/76_关守 Acer palmatum 'Sekimori'/07.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-dissectum-sekimori-weeping-japanese-maple/01-Acer_palmatum_Sekimori_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068682.jpg",
@@ -57,7 +45,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-dissectum-sekimori-weeping-japanese-maple/01-Acer_palmatum_Sekimori_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068682.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-dissectum-sekimori-weeping-japanese-maple/15-Acer_palmatum_Sekimori_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068686.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-dissectum-sekimori-weeping-japanese-maple/01-Acer_palmatum_Sekimori_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068682.jpg",
       "/mrmaple-images/buy-acer-palmatum-dissectum-sekimori-weeping-japanese-maple/02-Acer_palmatum_Sekimori_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068699.jpg",

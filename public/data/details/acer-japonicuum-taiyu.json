@@ -15,20 +15,11 @@
   },
   "images": {
     "count": 5,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/32_大勇 Acer Japonicuum 'Taiyu'/01.jpg",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/32_大勇 Acer Japonicuum 'Taiyu'/01.jpg",
-      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/32_大勇 Acer Japonicuum 'Taiyu'/02.jpg",
-      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/32_大勇 Acer Japonicuum 'Taiyu'/03.jpg",
-      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/32_大勇 Acer Japonicuum 'Taiyu'/04.jpg",
-      "Resource/园艺/枫树品种合集/图片/羽扇槭/大叶羽团扇/32_大勇 Acer Japonicuum 'Taiyu'/05.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0

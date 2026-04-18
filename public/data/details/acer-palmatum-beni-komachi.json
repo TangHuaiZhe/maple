@@ -20,8 +20,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-beni-komachi/01-visi46199.jpg",
       "/rhs-images/acer-palmatum-beni-komachi-momiji_kaede/01-visi46199.jpg"
@@ -29,7 +27,8 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-beni-komachi/01-visi46199.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-beni-komachi-momiji_kaede/01-visi46199.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-beni-komachi/01-visi46199.jpg",
       "/rhs-images/acer-palmatum-beni-komachi-momiji_kaede/01-visi46199.jpg"

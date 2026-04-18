@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/acer-oliverianum-hot-sauce-japanese-maple/01-Acer_oliverianum_Hot_Sauce_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2040394.jpg",
@@ -47,7 +43,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/acer-oliverianum-hot-sauce-japanese-maple/01-Acer_oliverianum_Hot_Sauce_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2040394.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/acer-oliverianum-hot-sauce-japanese-maple/14-Acer_oliverianum_Hot_Sauce_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2040486.jpg",
     "public_paths": [
       "/mrmaple-images/acer-oliverianum-hot-sauce-japanese-maple/01-Acer_oliverianum_Hot_Sauce_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2040394.jpg",
       "/mrmaple-images/acer-oliverianum-hot-sauce-japanese-maple/02-Acer_oliverianum_Hot_Sauce_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2040402.jpg",

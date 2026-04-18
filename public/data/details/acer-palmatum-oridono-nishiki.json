@@ -19,10 +19,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-oridono-nishiki/01-visi68445.jpg",
       "/rhs-images/acer-palmatum-oridono-nishiki/02-visi68444.jpg"
@@ -32,7 +28,8 @@
       "/herter-images/acer-palmatum-oridono-nishiki/01-oridonishikifall.png"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-oridono-nishiki/01-visi68445.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-oridono-nishiki/02-visi68444.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-oridono-nishiki/01-visi68445.jpg",
       "/rhs-images/acer-palmatum-oridono-nishiki/02-visi68444.jpg",

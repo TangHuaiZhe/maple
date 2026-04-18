@@ -15,19 +15,6 @@
   },
   "images": {
     "count": 8,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/94_英国蕾丝 Acer Palmatum 'English Lace'/01.png",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/94_英国蕾丝 Acer Palmatum 'English Lace'/01.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/94_英国蕾丝 Acer Palmatum 'English Lace'/02.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/94_英国蕾丝 Acer Palmatum 'English Lace'/03.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/94_英国蕾丝 Acer Palmatum 'English Lace'/04.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/94_英国蕾丝 Acer Palmatum 'English Lace'/05.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/94_英国蕾丝 Acer Palmatum 'English Lace'/06.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/94_英国蕾丝 Acer Palmatum 'English Lace'/07.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/蕾丝系列/94_英国蕾丝 Acer Palmatum 'English Lace'/08.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-dissectum-english-lace-japanese-maple/01-Acer_palmatum_English_Lace_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2051441.jpg",
@@ -125,7 +112,8 @@
       "/herter-images/acer-palmatum-english-lace/01-englishlace.png"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-dissectum-english-lace-japanese-maple/01-Acer_palmatum_English_Lace_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2051441.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-dissectum-english-lace-japanese-maple/02-Acer_palmatum_English_Lace_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2051488.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-dissectum-english-lace-japanese-maple/01-Acer_palmatum_English_Lace_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2051441.jpg",
       "/mrmaple-images/buy-acer-palmatum-dissectum-english-lace-japanese-maple/02-Acer_palmatum_English_Lace_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2051488.jpg",

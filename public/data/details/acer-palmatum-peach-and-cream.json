@@ -15,18 +15,6 @@
   },
   "images": {
     "count": 7,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/113_奶油桃子 Acer Palmatum 'Peach and Cream'/01.png",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/113_奶油桃子 Acer Palmatum 'Peach and Cream'/01.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/113_奶油桃子 Acer Palmatum 'Peach and Cream'/02.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/113_奶油桃子 Acer Palmatum 'Peach and Cream'/03.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/113_奶油桃子 Acer Palmatum 'Peach and Cream'/04.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/113_奶油桃子 Acer Palmatum 'Peach and Cream'/05.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/113_奶油桃子 Acer Palmatum 'Peach and Cream'/06.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/113_奶油桃子 Acer Palmatum 'Peach and Cream'/07.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-peach-and-cream/01-Web_Use-_KOT6103_14169.jpg",
       "/rhs-images/acer-palmatum-peach-and-cream/02-Web_Use-_KOT6086_14169.jpg",
@@ -35,6 +23,7 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-peach-and-cream/01-Web_Use-_KOT6103_14169.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-peach-and-cream/01-Web_Use-_KOT6103_14169.jpg",

@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-orion-dwarf-red-japanese-maple/01-DSC_0001.JPG",
@@ -100,7 +96,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-orion-dwarf-red-japanese-maple/01-DSC_0001.JPG",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-orion-dwarf-red-japanese-maple/49-IMG_0290_ad6d461b-6703-42b8-a095-b030e24649f0.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-orion-dwarf-red-japanese-maple/01-DSC_0001.JPG",
       "/mrmaple-images/buy-acer-palmatum-orion-dwarf-red-japanese-maple/02-Orion_1_SM_2007.JPG",

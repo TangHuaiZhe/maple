@@ -19,14 +19,13 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [],
     "public_herter_paths": [
       "/herter-images/acer-palmatum-atrolineare/01-atrolineare.jpg"
     ],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": "/herter-images/acer-palmatum-atrolineare/01-atrolineare.jpg",
     "public_paths": [
       "/herter-images/acer-palmatum-atrolineare/01-atrolineare.jpg"

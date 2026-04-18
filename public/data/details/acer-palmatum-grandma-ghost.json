@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-grandma-ghost-japanese-maple/01-IMG_1731.jpg",
@@ -103,7 +99,8 @@
       "/herter-images/acer-palmatum-grandma-ghost/01-grandmaghost.png"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-grandma-ghost-japanese-maple/01-IMG_1731.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-grandma-ghost-japanese-maple/23-image_b15c0f50-9665-40f7-8fdc-b0e2408adf80.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-grandma-ghost-japanese-maple/01-IMG_1731.jpg",
       "/mrmaple-images/buy-acer-palmatum-grandma-ghost-japanese-maple/02-Acer.palmatum.Grandma_Ghost.jpg",

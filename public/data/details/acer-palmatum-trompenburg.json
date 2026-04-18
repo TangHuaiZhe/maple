@@ -19,10 +19,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-trompenburg/01-GWIS394.jpg",
       "/rhs-images/acer-palmatum-trompenburg/02-GWIS396.jpg",
@@ -91,7 +87,8 @@
       "/herter-images/acer-palmatum-trompenburg/01-trompenburg.webp"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-trompenburg/01-GWIS394.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-trompenburg/03-visi69112.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-trompenburg/01-GWIS394.jpg",
       "/rhs-images/acer-palmatum-trompenburg/02-GWIS396.jpg",

@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-goshiki-shidare/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG",
       "/rhs-images/acer-palmatum-goshiki-shidare-momiji_kaede/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG"
@@ -28,7 +26,8 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-goshiki-shidare/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-goshiki-shidare-momiji_kaede/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-goshiki-shidare/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG",
       "/rhs-images/acer-palmatum-goshiki-shidare-momiji_kaede/01-JFAcerpalmatumDissectumGroupToyama-nishiki1.JPG"

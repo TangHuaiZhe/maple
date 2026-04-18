@@ -6,19 +6,52 @@ const appRoot = process.cwd();
 const sourceRoot = path.join(appRoot, "data-source");
 const enhancedJson = path.join(sourceRoot, "Resource/园艺/raw/merged-cultivars-with-rhs.json");
 const fallbackJson = path.join(sourceRoot, "Resource/园艺/raw/merged-cultivars.json");
-const sourceImages = path.join(sourceRoot, "Resource/园艺/枫树品种合集/图片");
 const sourceRhsImages = path.join(sourceRoot, "Resource/园艺/raw/rhs-images");
 const sourceMrMapleImages = path.join(sourceRoot, "Resource/园艺/raw/mrmaple-images");
 const sourceHerterImages = path.join(sourceRoot, "Resource/园艺/raw/herter-images");
 const sourceNcsuImages = path.join(sourceRoot, "Resource/园艺/raw/ncsu-images");
+const sourceConiferImages = path.join(sourceRoot, "Resource/园艺/raw/coniferkingdom-images");
 const targetJson = path.join(appRoot, "public/data/merged-cultivars.json");
 const targetCatalogJson = path.join(appRoot, "public/data/catalog.json");
+const targetMetaJson = path.join(appRoot, "public/data/meta.json");
+const targetAwardsJson = path.join(appRoot, "public/data/awards.json");
 const targetDetailsDir = path.join(appRoot, "public/data/details");
-const targetImages = path.join(appRoot, "public/maple-images");
 const targetRhsImages = path.join(appRoot, "public/rhs-images");
 const targetMrMapleImages = path.join(appRoot, "public/mrmaple-images");
 const targetHerterImages = path.join(appRoot, "public/herter-images");
 const targetNcsuImages = path.join(appRoot, "public/ncsu-images");
+const targetConiferImages = path.join(appRoot, "public/coniferkingdom-images");
+const RHS_AWARD_SELECTIONS = [
+  { id: "acer-palmatum-bloodgood", displayName: "Bloodgood", chineseName: "血红", awardGroup: "山红叶" },
+  { id: "acer-palmatum-osakazuk", displayName: "Osakazuki", chineseName: "大盃", awardGroup: "山红叶" },
+  { id: "acer-palmatum-crimson-queen", displayName: "Crimson Queen", chineseName: "绯红", awardGroup: "羽毛" },
+  { id: "acer-palmatum-emerald-lace", displayName: "Emerald Lace", chineseName: "翡翠蕾丝", awardGroup: "羽毛" },
+  { id: "acer-palmatum-garnet", displayName: "Garnet", chineseName: "石榴红", awardGroup: "羽毛" },
+  { id: "acer-palmatum-inaba-shidare", displayName: "Inaba-shidare", chineseName: "稻叶枝垂", awardGroup: "羽毛" },
+  { id: "acer-palmatum-orangeola", displayName: "Orangeola", chineseName: "橘子欧拉", awardGroup: "羽毛" },
+  { id: "acer-palmatum-ornatum", displayName: "Ornatum", chineseName: "赤鹫尾", awardGroup: "羽毛" },
+  { id: "acer-palmatum-seiryu", displayName: "Seiryu", chineseName: "青龙", awardGroup: "羽毛" },
+  { id: "acer-palmatum-kiyohime", displayName: "Kiyohime", chineseName: "清姬", awardGroup: "Dwarf" },
+  { id: "acer-palmatum-kinshi", displayName: "Kinshi", chineseName: "金线", awardGroup: null },
+  { id: "acer-palmatum-red-pygmy", displayName: "Red Pygmy", chineseName: "红矮人", awardGroup: null },
+  { id: "acer-palmatum-burgundy-lace", displayName: "Burgundy Lace", chineseName: "酒红蕾丝", awardGroup: "山红叶" },
+  { id: "acer-palmatum-chitose-yama", displayName: "Chitose-yama", chineseName: "千岁红", awardGroup: "山红叶" },
+  { id: "acer-palmatum-elegans", displayName: "Elegans", chineseName: "典雅", awardGroup: null },
+  { id: "acer-palmatum-trompenburg", displayName: "Trompenburg", chineseName: "布加迪", awardGroup: null },
+  { id: "acer-palmatum-ariadne", displayName: "Ariadne", chineseName: "女神", awardGroup: null },
+  { id: "acer-palmatum-beni-maiko", displayName: "Beni-maiko", chineseName: "红舞姬", awardGroup: null },
+  { id: "acer-palmatum-corallinum", displayName: "Corallinum", chineseName: "珊瑚", awardGroup: null },
+  { id: "acer-palmatum-eddisbury", displayName: "Eddisbury", chineseName: "埃迪斯伯里", awardGroup: null },
+  { id: "acer-palmatum-katsura", displayName: "Katsura", chineseName: "卡苏", awardGroup: null },
+  { id: "acer-palmatum-orange-dream", displayName: "Orange dream", chineseName: "橙之梦", awardGroup: null },
+  { id: "acer-palmatum-sango-kaku", displayName: "Sango-kaku", chineseName: "珊瑚阁", awardGroup: null },
+  { id: "acer-palmatum-shin-desho-jo", displayName: "Shin-deshojo", chineseName: "新出猩猩", awardGroup: null },
+  { id: "acer-palmatum-shishigashira", displayName: "Shishi-gashira", chineseName: "狮子头", awardGroup: null },
+  { id: "acer-palmatum-beni-tsukasa", displayName: "Beni-tsukasa", chineseName: "红司", awardGroup: null },
+  { id: "acer-japonicum-aconitifolium", displayName: "Aconitifolium", chineseName: "舞孔雀", awardGroup: null },
+  { id: "acer-japonicum-green-cascade", displayName: "Green Cascade", chineseName: "绿色瀑布", awardGroup: null },
+  { id: "acer-japonicum-vitifolium", displayName: "Vitifolium", chineseName: "葡萄叶", awardGroup: null },
+];
 
 function toPublicImagePath(imagePath, marker, publicRoot) {
   const normalizedImagePath = String(imagePath || "").replace(/^data-source[\\/]/, "");
@@ -31,10 +64,6 @@ function toPublicImagePath(imagePath, marker, publicRoot) {
     .map((part) => encodeURIComponent(part))
     .join("/");
   return `${publicRoot}/${rest}`;
-}
-
-function toOriginalPublicImagePath(imagePath) {
-  return toPublicImagePath(imagePath, "Resource/园艺/枫树品种合集/图片/", "/maple-images");
 }
 
 function toRhsPublicImagePath(imagePath) {
@@ -53,12 +82,25 @@ function toNcsuPublicImagePath(imagePath) {
   return toPublicImagePath(imagePath, "Resource/园艺/raw/ncsu-images/", "/ncsu-images");
 }
 
+function toConiferPublicImagePath(imagePath) {
+  return toPublicImagePath(imagePath, "Resource/园艺/raw/coniferkingdom-images/", "/coniferkingdom-images");
+}
+
 function uniquePaths(paths) {
   return [...new Set(paths.filter(Boolean))];
 }
 
 function uniqueValues(values) {
   return [...new Set(values.filter(Boolean))];
+}
+
+async function pathExists(targetPath) {
+  try {
+    await fs.access(targetPath);
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 function hasContent(value) {
@@ -274,12 +316,12 @@ function getPreferredDescription(record) {
 
 function getEditorialCover(record) {
   return uniqueValues([
+    record.images.public_cover_path,
     ...(record.images.public_rhs_paths || []),
     ...(record.images.public_mrmaple_paths || []),
     ...(record.images.public_herter_paths || []),
     ...(record.images.public_ncsu_paths || []),
-    ...(record.images.public_original_paths || []),
-    record.images.public_cover_path,
+    ...(record.images.public_conifer_paths || []),
   ])[0] || null;
 }
 
@@ -289,7 +331,8 @@ function getCoverSource(record, cover) {
   if ((record.images.public_mrmaple_paths || []).includes(cover)) return "Mr Maple";
   if ((record.images.public_herter_paths || []).includes(cover)) return "Herter";
   if ((record.images.public_ncsu_paths || []).includes(cover)) return "NCSU";
-  return "Local";
+  if ((record.images.public_conifer_paths || []).includes(cover)) return "Conifer Kingdom";
+  return "No Image";
 }
 
 function toPinyinVariants(text) {
@@ -358,8 +401,291 @@ function buildCatalogRecord(record) {
   };
 }
 
+function buildAwardsRecords(catalogRecords) {
+  return RHS_AWARD_SELECTIONS
+    .map((selection) => {
+      const item = catalogRecords.find((record) => record.id === selection.id);
+      if (!item) return null;
+      return {
+        ...item,
+        display_name: selection.displayName || item.display_name,
+        chinese_name: selection.chineseName || item.chinese_name,
+        award_group: selection.awardGroup,
+      };
+    })
+    .filter(Boolean);
+}
+
+function buildMeta(records, catalogRecords, awardsRecords) {
+  return {
+    generated_at: new Date().toISOString(),
+    counts: {
+      cultivars: records.length,
+      catalog: catalogRecords.length,
+      awards: awardsRecords.length,
+    },
+    categories: {
+      top_categories: uniqueValues(catalogRecords.map((record) => record.top_category)).sort(chineseCollator.compare),
+      web_groups: uniqueValues(catalogRecords.map((record) => record.web_group)).sort(chineseCollator.compare),
+      cover_sources: uniqueValues(catalogRecords.map((record) => record.cover_source)),
+    },
+    locales: ["zh", "en"],
+    datasets: {
+      catalog: "/data/catalog.json",
+      details_dir: "/data/details",
+      merged: "/data/merged-cultivars.json",
+      awards: "/data/awards.json",
+      meta: "/data/meta.json",
+    },
+  };
+}
+
+const chineseCollator = new Intl.Collator("zh-Hans-CN", { numeric: true, sensitivity: "base" });
+const COVER_SOURCE_PRIORITY = {
+  rhs: 5,
+  mrmaple: 4,
+  herter: 3,
+  ncsu: 2,
+  conifer: 1,
+};
+const imageMetadataCache = new Map();
+
 async function ensureDir(dir) {
   await fs.mkdir(dir, { recursive: true });
+}
+
+function getAbsoluteLocalPath(localPath) {
+  if (!localPath) return null;
+
+  const normalized = String(localPath);
+  if (path.isAbsolute(normalized)) {
+    return normalized;
+  }
+  if (normalized.startsWith("data-source/")) {
+    return path.join(appRoot, normalized);
+  }
+  return path.join(sourceRoot, normalized);
+}
+
+function parsePngSize(buffer) {
+  if (buffer.length < 24 || buffer.toString("ascii", 1, 4) !== "PNG") return null;
+  return {
+    width: buffer.readUInt32BE(16),
+    height: buffer.readUInt32BE(20),
+  };
+}
+
+function parseGifSize(buffer) {
+  if (buffer.length < 10 || (buffer.toString("ascii", 0, 6) !== "GIF87a" && buffer.toString("ascii", 0, 6) !== "GIF89a")) {
+    return null;
+  }
+  return {
+    width: buffer.readUInt16LE(6),
+    height: buffer.readUInt16LE(8),
+  };
+}
+
+function parseWebpSize(buffer) {
+  if (buffer.length < 30 || buffer.toString("ascii", 0, 4) !== "RIFF" || buffer.toString("ascii", 8, 12) !== "WEBP") {
+    return null;
+  }
+
+  const chunkType = buffer.toString("ascii", 12, 16);
+
+  if (chunkType === "VP8 ") {
+    if (buffer.length < 30) return null;
+    return {
+      width: buffer.readUInt16LE(26) & 0x3fff,
+      height: buffer.readUInt16LE(28) & 0x3fff,
+    };
+  }
+
+  if (chunkType === "VP8L") {
+    if (buffer.length < 25) return null;
+    const value = buffer.readUInt32LE(21);
+    return {
+      width: (value & 0x3fff) + 1,
+      height: ((value >> 14) & 0x3fff) + 1,
+    };
+  }
+
+  if (chunkType === "VP8X") {
+    if (buffer.length < 30) return null;
+    return {
+      width: 1 + buffer.readUIntLE(24, 3),
+      height: 1 + buffer.readUIntLE(27, 3),
+    };
+  }
+
+  return null;
+}
+
+function parseJpegSize(buffer) {
+  if (buffer.length < 4 || buffer[0] !== 0xff || buffer[1] !== 0xd8) {
+    return null;
+  }
+
+  let offset = 2;
+  while (offset + 9 < buffer.length) {
+    if (buffer[offset] !== 0xff) {
+      offset += 1;
+      continue;
+    }
+
+    const marker = buffer[offset + 1];
+    if (marker === 0xd8 || marker === 0xd9) {
+      offset += 2;
+      continue;
+    }
+    if (marker === 0x01 || (marker >= 0xd0 && marker <= 0xd7)) {
+      offset += 2;
+      continue;
+    }
+
+    if (offset + 4 > buffer.length) {
+      return null;
+    }
+
+    const segmentLength = buffer.readUInt16BE(offset + 2);
+    if (segmentLength < 2) {
+      return null;
+    }
+
+    const isSofMarker = (
+      (marker >= 0xc0 && marker <= 0xc3)
+      || (marker >= 0xc5 && marker <= 0xc7)
+      || (marker >= 0xc9 && marker <= 0xcb)
+      || (marker >= 0xcd && marker <= 0xcf)
+    );
+
+    if (isSofMarker) {
+      if (offset + 9 >= buffer.length) {
+        return null;
+      }
+      return {
+        width: buffer.readUInt16BE(offset + 7),
+        height: buffer.readUInt16BE(offset + 5),
+      };
+    }
+
+    offset += 2 + segmentLength;
+  }
+
+  return null;
+}
+
+function parseImageSize(buffer) {
+  return parsePngSize(buffer) || parseGifSize(buffer) || parseWebpSize(buffer) || parseJpegSize(buffer);
+}
+
+async function readImageMetadata(localPath) {
+  const absolutePath = getAbsoluteLocalPath(localPath);
+  if (!absolutePath) return null;
+  if (imageMetadataCache.has(absolutePath)) {
+    return imageMetadataCache.get(absolutePath);
+  }
+
+  let metadata = null;
+
+  try {
+    const handle = await fs.open(absolutePath, "r");
+    try {
+      const stat = await handle.stat();
+      const sampleLength = Math.min(stat.size, 256 * 1024);
+      const header = Buffer.alloc(sampleLength);
+      await handle.read(header, 0, sampleLength, 0);
+
+      let size = parseImageSize(header);
+      if (!size && stat.size > sampleLength) {
+        const full = await fs.readFile(absolutePath);
+        size = parseImageSize(full);
+      }
+
+      metadata = size
+        ? { ...size, bytes: stat.size }
+        : { width: null, height: null, bytes: stat.size };
+    } finally {
+      await handle.close();
+    }
+  } catch {
+    metadata = null;
+  }
+
+  imageMetadataCache.set(absolutePath, metadata);
+  return metadata;
+}
+
+function getSourceImageItems(record, sourceKey) {
+  if (sourceKey === "rhs") {
+    return ((record.rhs || {}).images || {}).download_items || [];
+  }
+  return (((record[sourceKey] || {}).images) || {}).download_items || [];
+}
+
+function getSourceLocalFiles(record, sourceKey) {
+  if (sourceKey === "rhs") {
+    return (((record.rhs || {}).images) || {}).local_files || [];
+  }
+  return ((record[sourceKey] || {}).local_files) || [];
+}
+
+async function buildCoverCandidates(record) {
+  const sourceConfigs = [
+    { recordKey: "rhs", scoreKey: "rhs", toPublic: toRhsPublicImagePath },
+    { recordKey: "mrmaple", scoreKey: "mrmaple", toPublic: toMrMaplePublicImagePath },
+    { recordKey: "herter", scoreKey: "herter", toPublic: toHerterPublicImagePath },
+    { recordKey: "ncsu", scoreKey: "ncsu", toPublic: toNcsuPublicImagePath },
+    { recordKey: "conifer_kingdom", scoreKey: "conifer", toPublic: toConiferPublicImagePath },
+  ];
+
+  const candidates = [];
+
+  for (const source of sourceConfigs) {
+    const localFiles = getSourceLocalFiles(record, source.recordKey);
+    const imageItems = getSourceImageItems(record, source.recordKey);
+    const bytesByPath = new Map(
+      imageItems
+        .filter((item) => item.local_path)
+        .map((item) => [item.local_path, item.bytes || 0]),
+    );
+
+    for (const localPath of localFiles) {
+      const publicPath = source.toPublic(localPath);
+      if (!publicPath) continue;
+
+      const metadata = await readImageMetadata(localPath);
+      const width = metadata?.width || 0;
+      const height = metadata?.height || 0;
+      candidates.push({
+        publicPath,
+        localPath,
+        sourceKey: source.scoreKey,
+        width,
+        height,
+        area: width * height,
+        bytes: metadata?.bytes || bytesByPath.get(localPath) || 0,
+        priority: COVER_SOURCE_PRIORITY[source.scoreKey] || 0,
+      });
+    }
+  }
+
+  return candidates;
+}
+
+async function pickBestCoverPath(record) {
+  const candidates = await buildCoverCandidates(record);
+  if (!candidates.length) {
+    return null;
+  }
+
+  candidates.sort((left, right) => (
+    right.area - left.area
+    || right.bytes - left.bytes
+    || right.priority - left.priority
+    || left.publicPath.localeCompare(right.publicPath)
+  ));
+
+  return candidates[0].publicPath;
 }
 
 async function syncJson() {
@@ -368,22 +694,10 @@ async function syncJson() {
     .then(() => enhancedJson)
     .catch(() => fallbackJson);
   const raw = await fs.readFile(sourceJson, "utf8");
-  const records = JSON.parse(raw).map((record) => ({
+  const recordsWithPublicImages = JSON.parse(raw).map((record) => ({
     ...record,
     images: {
-      ...record.images,
-      public_original_cover_path: record.has_web
-        ? null
-        : (
-          record.images.cover_path
-            ? toOriginalPublicImagePath(record.images.cover_path)
-            : null
-        ),
-      public_original_paths: record.has_web
-        ? []
-        : uniquePaths(
-          (record.images.paths || []).map((item) => toOriginalPublicImagePath(item)),
-        ),
+      count: record.images?.count || 0,
       public_rhs_paths: uniquePaths(
         (((record.rhs || {}).images || {}).local_files || []).map((item) => toRhsPublicImagePath(item)),
       ),
@@ -396,34 +710,43 @@ async function syncJson() {
       public_ncsu_paths: uniquePaths(
         (((record.ncsu || {}).local_files) || []).map((item) => toNcsuPublicImagePath(item)),
       ),
+      public_conifer_paths: uniquePaths(
+        (((record.conifer_kingdom || {}).local_files) || []).map((item) => toConiferPublicImagePath(item)),
+      ),
     },
-  })).map((record) => {
+  }));
+  const records = await Promise.all(recordsWithPublicImages.map(async (record) => {
     const publicPaths = uniquePaths([
-      record.images.public_original_cover_path,
-      ...(record.images.public_original_paths || []),
       ...(record.images.public_rhs_paths || []),
       ...(record.images.public_mrmaple_paths || []),
       ...(record.images.public_herter_paths || []),
       ...(record.images.public_ncsu_paths || []),
+      ...(record.images.public_conifer_paths || []),
     ]);
+    const bestCoverPath = await pickBestCoverPath(record);
     return {
       ...record,
       images: {
         ...record.images,
-        public_cover_path: publicPaths[0] || null,
+        public_cover_path: bestCoverPath || publicPaths[0] || null,
         public_paths: publicPaths,
         public_count: publicPaths.length,
       },
     };
-  }).map((record) => sanitizeDescriptions(record));
-  const catalogRecords = records.map((record) => buildCatalogRecord(record));
+  }));
+  const sanitizedRecords = records.map((record) => sanitizeDescriptions(record));
+  const catalogRecords = sanitizedRecords.map((record) => buildCatalogRecord(record));
+  const awardsRecords = buildAwardsRecords(catalogRecords);
+  const meta = buildMeta(sanitizedRecords, catalogRecords, awardsRecords);
   await ensureDir(path.dirname(targetJson));
   await fs.rm(targetDetailsDir, { recursive: true, force: true });
   await ensureDir(targetDetailsDir);
-  await fs.writeFile(targetJson, JSON.stringify(records, null, 2), "utf8");
+  await fs.writeFile(targetJson, JSON.stringify(sanitizedRecords, null, 2), "utf8");
   await fs.writeFile(targetCatalogJson, JSON.stringify(catalogRecords, null, 2), "utf8");
+  await fs.writeFile(targetMetaJson, JSON.stringify(meta, null, 2), "utf8");
+  await fs.writeFile(targetAwardsJson, JSON.stringify(awardsRecords, null, 2), "utf8");
   await Promise.all(
-    records.map((record) => (
+    sanitizedRecords.map((record) => (
       fs.writeFile(
         path.join(targetDetailsDir, `${record.id}.json`),
         JSON.stringify(record, null, 2),
@@ -436,16 +759,36 @@ async function syncJson() {
 
 async function syncDirLink(sourceDir, targetDir) {
   try {
-    await fs.lstat(targetDir);
-    await fs.rm(targetDir, { recursive: true, force: true });
+    const current = await fs.lstat(targetDir);
+    if (current.isSymbolicLink()) {
+      await fs.unlink(targetDir);
+    } else {
+      await fs.rm(targetDir, { recursive: true, force: true });
+    }
   } catch {}
+
+  if (!(await pathExists(sourceDir))) {
+    return false;
+  }
+
   await fs.symlink(sourceDir, targetDir, "dir");
+  return true;
 }
 
 const chosenJson = await syncJson();
-await syncDirLink(sourceImages, targetImages);
-await syncDirLink(sourceRhsImages, targetRhsImages);
-await syncDirLink(sourceMrMapleImages, targetMrMapleImages);
-await syncDirLink(sourceHerterImages, targetHerterImages);
-await syncDirLink(sourceNcsuImages, targetNcsuImages);
+const linkResults = await Promise.all([
+  syncDirLink(sourceRhsImages, targetRhsImages).then((linked) => ["rhs-images", linked]),
+  syncDirLink(sourceMrMapleImages, targetMrMapleImages).then((linked) => ["mrmaple-images", linked]),
+  syncDirLink(sourceHerterImages, targetHerterImages).then((linked) => ["herter-images", linked]),
+  syncDirLink(sourceNcsuImages, targetNcsuImages).then((linked) => ["ncsu-images", linked]),
+  syncDirLink(sourceConiferImages, targetConiferImages).then((linked) => ["coniferkingdom-images", linked]),
+]);
+const linkedDirs = linkResults.filter(([, linked]) => linked).map(([name]) => name);
+const skippedDirs = linkResults.filter(([, linked]) => !linked).map(([name]) => name);
 console.log(`synced ${path.basename(chosenJson)} and image directories`);
+if (linkedDirs.length) {
+  console.log(`linked: ${linkedDirs.join(", ")}`);
+}
+if (skippedDirs.length) {
+  console.log(`skipped missing image sources: ${skippedDirs.join(", ")}`);
+}

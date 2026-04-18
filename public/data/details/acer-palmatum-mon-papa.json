@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-mon-papa/01-vami08994.jpg",
       "/rhs-images/acer-palmatum-mon-papa/02-vami08911.jpg"
@@ -26,6 +22,7 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
+    "public_conifer_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-mon-papa/01-vami08994.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-mon-papa/01-vami08994.jpg",

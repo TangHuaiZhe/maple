@@ -15,13 +15,6 @@
   },
   "images": {
     "count": 2,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/182_暗夜精灵Acer Palmatum 'Dark Ghots'/01.jpg",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/182_暗夜精灵Acer Palmatum 'Dark Ghots'/01.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/182_暗夜精灵Acer Palmatum 'Dark Ghots'/02.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-dark-ghost-japanese-maple/01-Acer_palmatum_Dark_Ghost_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2049113.jpg",
@@ -81,7 +74,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-dark-ghost-japanese-maple/01-Acer_palmatum_Dark_Ghost_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2049113.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-dark-ghost-japanese-maple/49-Acer_palmatum_Dark_Ghost_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2049345.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-dark-ghost-japanese-maple/01-Acer_palmatum_Dark_Ghost_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2049113.jpg",
       "/mrmaple-images/buy-acer-palmatum-dark-ghost-japanese-maple/02-Acer_palmatum_Dark_Ghost_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2049156.jpg",

@@ -19,10 +19,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-fireglow/01-Web_Use-_KOT2472%5B1%5D_10609.jpg",
       "/rhs-images/acer-palmatum-fireglow/02-Web_Use-_KOT2479%5B1%5D_10609.jpg",
@@ -113,7 +109,8 @@
       "/herter-images/acer-palmatum-fireglow/01-japane6-1.jpg"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-fireglow/01-Web_Use-_KOT2472%5B1%5D_10609.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-fireglow-japanese-maple/37-IMG-5679.heic",
     "public_paths": [
       "/rhs-images/acer-palmatum-fireglow/01-Web_Use-_KOT2472%5B1%5D_10609.jpg",
       "/rhs-images/acer-palmatum-fireglow/02-Web_Use-_KOT2479%5B1%5D_10609.jpg",

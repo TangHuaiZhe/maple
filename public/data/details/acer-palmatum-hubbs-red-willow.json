@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-palmatum-hubbs-red-willow-japanese-maple/01-Acer_palmatum_Hubb_s_Red_Willow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057562.jpg",
@@ -67,7 +63,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-hubbs-red-willow-japanese-maple/01-Acer_palmatum_Hubb_s_Red_Willow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057562.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-hubbs-red-willow-japanese-maple/25-Acer_palmatum_Hubb_s_Red_Willow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057693.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-hubbs-red-willow-japanese-maple/01-Acer_palmatum_Hubb_s_Red_Willow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057562.jpg",
       "/mrmaple-images/buy-acer-palmatum-hubbs-red-willow-japanese-maple/02-Acer_palmatum_Hubb_s_Red_Willow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057605.jpg",

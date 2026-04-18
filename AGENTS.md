@@ -1,7 +1,7 @@
 # Repository Guidelines
 
 ## 项目结构与模块组织
-本仓库是一个基于 Vite + React 的静态数据展示应用。主要业务代码位于 `src/`：`main.jsx` 负责启动应用并挂载 `HashRouter`，`App.jsx` 包含目录页、详情页和路由逻辑，`styles.css` 存放全局样式。数据生成脚本位于 `scripts/sync-data.mjs`。原始数据和图片快照位于 `data-source/Resource/园艺/`。生成产物写入 `public/data/`，图片目录会链接到 `public/maple-images`、`public/rhs-images` 和 `public/mrmaple-images`。`dist/` 仅作为构建输出目录使用。
+本仓库是一个基于 Vite + React 的静态数据展示应用。主要业务代码位于 `src/`：`main.jsx` 负责启动应用并挂载 `HashRouter`，`App.jsx` 包含目录页、详情页和路由逻辑，`styles.css` 存放全局样式。数据生成脚本位于 `scripts/sync-data.mjs`。原始数据和图片快照位于 `data-source/Resource/园艺/`。生成产物写入 `public/data/`，图片目录会链接到 `public/rhs-images`、`public/mrmaple-images`、`public/herter-images` 和 `public/ncsu-images`。`dist/` 仅作为构建输出目录使用。
 
 ## 构建、测试与开发命令
 - `npm install`：安装依赖。

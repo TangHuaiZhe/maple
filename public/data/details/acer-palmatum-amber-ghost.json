@@ -19,30 +19,29 @@
   },
   "images": {
     "count": 8,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/109_琥珀精灵 Acer Palmatum 'Amber Ghost'/01.jpg",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/109_琥珀精灵 Acer Palmatum 'Amber Ghost'/01.jpg",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/109_琥珀精灵 Acer Palmatum 'Amber Ghost'/02.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/109_琥珀精灵 Acer Palmatum 'Amber Ghost'/03.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/109_琥珀精灵 Acer Palmatum 'Amber Ghost'/04.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/109_琥珀精灵 Acer Palmatum 'Amber Ghost'/05.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/109_琥珀精灵 Acer Palmatum 'Amber Ghost'/06.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/109_琥珀精灵 Acer Palmatum 'Amber Ghost'/07.png",
-      "Resource/园艺/枫树品种合集/图片/鸡爪槭/脉叶/109_琥珀精灵 Acer Palmatum 'Amber Ghost'/08.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [],
     "public_herter_paths": [
       "/herter-images/acer-palmatum-amber-ghost/01-amberghost.jpg"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/herter-images/acer-palmatum-amber-ghost/01-amberghost.jpg",
-    "public_paths": [
-      "/herter-images/acer-palmatum-amber-ghost/01-amberghost.jpg"
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-amber-ghost/01-1-Acer-palmatum-Amber-Ghost.jpg",
+      "/coniferkingdom-images/acer-palmatum-amber-ghost/02-rod-umlas-amber-ghost.jpg",
+      "/coniferkingdom-images/acer-palmatum-amber-ghost/03-Acer-palmatum-Amber-Ghost-1-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-amber-ghost/04-Acer-palmatum-Amber-Ghost-11.jpg",
+      "/coniferkingdom-images/acer-palmatum-amber-ghost/05-Acer-palmatum-Amber-Ghost-2.jpg"
     ],
-    "public_count": 1
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-amber-ghost/05-Acer-palmatum-Amber-Ghost-2.jpg",
+    "public_paths": [
+      "/herter-images/acer-palmatum-amber-ghost/01-amberghost.jpg",
+      "/coniferkingdom-images/acer-palmatum-amber-ghost/01-1-Acer-palmatum-Amber-Ghost.jpg",
+      "/coniferkingdom-images/acer-palmatum-amber-ghost/02-rod-umlas-amber-ghost.jpg",
+      "/coniferkingdom-images/acer-palmatum-amber-ghost/03-Acer-palmatum-Amber-Ghost-1-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-amber-ghost/04-Acer-palmatum-Amber-Ghost-11.jpg",
+      "/coniferkingdom-images/acer-palmatum-amber-ghost/05-Acer-palmatum-Amber-Ghost-2.jpg"
+    ],
+    "public_count": 6
   },
   "sources": [
     {
@@ -80,6 +79,18 @@
       "image_count": 1,
       "matched_product_count": 1,
       "usage_note": "Private local archive only. Check japanesemaple.net rights before redistribution."
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum 'Amber Ghost' Japanese Maple",
+      "botanical_name": "Acer palmatum 'Amber Ghost'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-amber-ghost/",
+      "description": "Beautiful, reticulated orange-colored leaves with deeper, reddish color toward the tips. This beautiful, elegant maple will form a small tree with a bushy canopy. Fall color orange-red.",
+      "image_count": 5,
+      "common_name": "Amber Ghost Japanese Maple",
+      "sun_exposure": "Sun/Part Shade",
+      "annual_growth": "5-8 inches",
+      "hardiness_zone": "Zones 5-9"
     }
   ],
   "aliases": [
@@ -100,7 +111,7 @@
     "脉叶",
     "鸡爪槭"
   ],
-  "source_count": 4,
+  "source_count": 5,
   "has_web": true,
   "has_book": true,
   "has_rhs": true,
@@ -217,5 +228,105 @@
       ]
     }
   },
-  "has_herter": true
+  "has_herter": true,
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-amber-ghost/",
+    "matched_product_count": 1,
+    "local_file_count": 5,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/01-1-Acer-palmatum-Amber-Ghost.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/01-1-Acer-palmatum-Amber-Ghost.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/02-rod-umlas-amber-ghost.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/03-Acer-palmatum-Amber-Ghost-1-2.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/04-Acer-palmatum-Amber-Ghost-11.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/05-Acer-palmatum-Amber-Ghost-2.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum 'Amber Ghost' Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-amber-ghost/",
+        "botanical_name": "Acer palmatum 'Amber Ghost'",
+        "common_name": "Amber Ghost Japanese Maple",
+        "description_text": "Beautiful, reticulated orange-colored leaves with deeper, reddish color toward the tips. This beautiful, elegant maple will form a small tree with a bushy canopy. Fall color orange-red.",
+        "sun_exposure": "Sun/Part Shade",
+        "annual_growth": "5-8 inches",
+        "hardiness_zone": "Zones 5-9",
+        "match_method": "manual",
+        "match_candidate": "amber ghost"
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2016/08/1-Acer-palmatum-Amber-Ghost.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-amber-ghost/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/01-1-Acer-palmatum-Amber-Ghost.jpg",
+          "bytes": 395747,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T02:21:38.218846Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2016/08/rod-umlas-amber-ghost.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-amber-ghost/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/02-rod-umlas-amber-ghost.jpg",
+          "bytes": 596711,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T02:21:38.218846Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2016/08/Acer-palmatum-Amber-Ghost-1-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-amber-ghost/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/03-Acer-palmatum-Amber-Ghost-1-2.jpg",
+          "bytes": 361396,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T02:21:38.218846Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 4,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2016/08/Acer-palmatum-Amber-Ghost-11.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-amber-ghost/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/04-Acer-palmatum-Amber-Ghost-11.jpg",
+          "bytes": 251461,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T02:21:38.218846Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 5,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2016/08/Acer-palmatum-Amber-Ghost-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-amber-ghost/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/05-Acer-palmatum-Amber-Ghost-2.jpg",
+          "bytes": 536213,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-04-18T02:21:38.218846Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 5,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/01-1-Acer-palmatum-Amber-Ghost.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/02-rod-umlas-amber-ghost.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/03-Acer-palmatum-Amber-Ghost-1-2.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/04-Acer-palmatum-Amber-Ghost-11.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-amber-ghost/05-Acer-palmatum-Amber-Ghost-2.jpg"
+      ]
+    }
+  }
 }

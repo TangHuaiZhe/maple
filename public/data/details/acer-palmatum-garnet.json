@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-garnet/01-moja07873.jpg",
       "/rhs-images/acer-palmatum-garnet/02-elbo39761.jpg",
@@ -34,7 +32,8 @@
       "/herter-images/acer-palmatum-garnet/01-garnetlaceleaf-1.jpg"
     ],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-garnet/01-moja07873.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-garnet-momiji_kaede/02-elbo39761.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-garnet/01-moja07873.jpg",
       "/rhs-images/acer-palmatum-garnet/02-elbo39761.jpg",

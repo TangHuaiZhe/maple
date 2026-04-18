@@ -19,8 +19,6 @@
   },
   "images": {
     "count": 0,
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-palmatum-pendulum-julian/01-elbo62366.jpg",
       "/rhs-images/acer-palmatum-pendulum-julian/02-elbo62365.jpg",
@@ -30,7 +28,8 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-pendulum-julian/01-elbo62366.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-palmatum-pendulum-julian-momiji_kaede/01-elbo62366.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-pendulum-julian/01-elbo62366.jpg",
       "/rhs-images/acer-palmatum-pendulum-julian/02-elbo62365.jpg",

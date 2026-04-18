@@ -16,6 +16,8 @@ const PAGE_SIZE = 96;
 const DETAIL_GALLERY_PAGE_SIZE = 10;
 const SEARCH_ALL_VALUE = "__all__";
 const DEV_EDITOR_ENABLED = import.meta.env.DEV;
+const APP_BASE_URL = import.meta.env.BASE_URL || "/";
+const FAVORITES_STORAGE_KEY = "maple-favorites";
 const DESCRIPTION_NOISE_MARKERS = [
   /pointer-events-auto/i,
   /request-WEB:/i,
@@ -31,6 +33,7 @@ const UI_STRINGS = {
     nav: {
       catalog: "品种目录",
       awards: "RHS 获奖",
+      favorites: "收藏",
     },
     common: {
       noImage: "无图片",
@@ -38,6 +41,9 @@ const UI_STRINGS = {
       loadMore: "加载更多",
       loadMoreImages: "加载更多图片",
       imagePreviewHint: "点击查看大图",
+      addFavorite: "收藏",
+      removeFavorite: "取消收藏",
+      favorited: "已收藏",
     },
     coverSource: {
       none: "无图",
@@ -45,7 +51,7 @@ const UI_STRINGS = {
       herter: "Herter",
       ncsu: "NCSU",
       mrMaple: "Mr Maple",
-      local: "本地",
+      conifer: "Conifer Kingdom",
     },
     lightbox: {
       dialogSuffix: "图片预览",
@@ -62,7 +68,7 @@ const UI_STRINGS = {
       categoryLabel: "一级分类",
       allCategories: "全部",
       result: (count) => `结果：${count} 条`,
-      note: "首页卡片封面优先使用 RHS、Mr Maple、Herter 和 NCSU 图片，其次才回退到本地原图。",
+      note: "首页卡片封面优先使用 RHS、Mr Maple、Herter、NCSU 和 Conifer Kingdom 图片。",
       totalLabel: "品种总数",
       currentLabel: "当前结果",
       editorialLabel: "RHS / Mr Maple / Herter / NCSU 封面",
@@ -88,6 +94,14 @@ const UI_STRINGS = {
       subtitle: "按你整理的获奖清单单独展示，便于集中浏览经典品种与常见园艺名。",
       count: (count) => `共 ${count} 个获奖品种`,
     },
+    favorites: {
+      title: "我的收藏",
+      subtitle: "收藏保存在当前浏览器中，不需要登录。",
+      count: (count) => `已收藏 ${count} 个品种`,
+      emptyTitle: "还没有收藏",
+      emptyText: "先去目录页挑几个喜欢的品种，之后这里会自动汇总。",
+      browseCta: "去目录页看看",
+    },
     detail: {
       loading: "正在加载品种详情…",
       loadFailed: "加载失败",
@@ -110,8 +124,8 @@ const UI_STRINGS = {
       unmatched: "未匹配",
       sources: "来源",
       gallery: "图片画廊",
-      galleryNote: "详情页保留全部已同步图片，包含原始图库、RHS、Mr Maple、Herter 和 NCSU 素材。",
-      noImages: "当前条目没有本地图片。",
+      galleryNote: "详情页保留全部已同步图片，包含 RHS、Mr Maple、Herter、NCSU 和 Conifer Kingdom 素材。",
+      noImages: "当前条目没有可用图片。",
       imageProgress: (shown, total) => `已显示 ${shown} / ${total} 张图片`,
       descriptionSummary: "简介",
       descriptionFull: "完整描述",
@@ -128,6 +142,7 @@ const UI_STRINGS = {
     nav: {
       catalog: "Catalog",
       awards: "RHS Awards",
+      favorites: "Favorites",
     },
     common: {
       noImage: "No Image",
@@ -135,6 +150,9 @@ const UI_STRINGS = {
       loadMore: "Load More",
       loadMoreImages: "Load More Images",
       imagePreviewHint: "View full size",
+      addFavorite: "Save",
+      removeFavorite: "Remove Favorite",
+      favorited: "Saved",
     },
     coverSource: {
       none: "No Image",
@@ -142,7 +160,7 @@ const UI_STRINGS = {
       herter: "Herter",
       ncsu: "NCSU",
       mrMaple: "Mr Maple",
-      local: "Local",
+      conifer: "Conifer Kingdom",
     },
     lightbox: {
       dialogSuffix: "Image Preview",
@@ -159,7 +177,7 @@ const UI_STRINGS = {
       categoryLabel: "Top Category",
       allCategories: "All",
       result: (count) => `Results: ${count}`,
-      note: "Catalog cards prefer RHS, Mr Maple, Herter, and NCSU imagery before falling back to local photos.",
+      note: "Catalog cards prefer RHS, Mr Maple, Herter, NCSU, and Conifer Kingdom imagery.",
       totalLabel: "Total Cultivars",
       currentLabel: "Current Results",
       editorialLabel: "RHS / Mr Maple / Herter / NCSU Covers",
@@ -185,6 +203,14 @@ const UI_STRINGS = {
       subtitle: "A dedicated page for the award-winning cultivars in your curated shortlist.",
       count: (count) => `${count} award-winning cultivars`,
     },
+    favorites: {
+      title: "Favorites",
+      subtitle: "Favorites are stored in this browser only. No sign-in required.",
+      count: (count) => `${count} saved cultivars`,
+      emptyTitle: "No Favorites Yet",
+      emptyText: "Browse the catalog and save a few cultivars. They will appear here automatically.",
+      browseCta: "Browse Catalog",
+    },
     detail: {
       loading: "Loading cultivar details…",
       loadFailed: "Load Failed",
@@ -207,8 +233,8 @@ const UI_STRINGS = {
       unmatched: "Not Matched",
       sources: "Sources",
       gallery: "Image Gallery",
-      galleryNote: "The detail page keeps all synced imagery, including local, RHS, Mr Maple, Herter, and NCSU assets.",
-      noImages: "No local images are available for this entry.",
+      galleryNote: "The detail page keeps all synced imagery from RHS, Mr Maple, Herter, NCSU, and Conifer Kingdom.",
+      noImages: "No images are available for this entry.",
       imageProgress: (shown, total) => `Showing ${shown} / ${total} images`,
       descriptionSummary: "Overview",
       descriptionFull: "Full Description",
@@ -265,6 +291,29 @@ function uniqueValues(values) {
   return [...new Set(values.filter(Boolean))];
 }
 
+function readFavoriteIds() {
+  if (typeof window === "undefined") {
+    return [];
+  }
+
+  try {
+    const raw = window.localStorage.getItem(FAVORITES_STORAGE_KEY);
+    return uniqueValues(JSON.parse(raw || "[]").map((item) => String(item || "")).filter(Boolean));
+  } catch {
+    return [];
+  }
+}
+
+function writeFavoriteIds(ids) {
+  if (typeof window === "undefined") {
+    return;
+  }
+
+  try {
+    window.localStorage.setItem(FAVORITES_STORAGE_KEY, JSON.stringify(uniqueValues(ids)));
+  } catch {}
+}
+
 function normalizeCultivarToken(text) {
   return String(text || "")
     .normalize("NFKD")
@@ -300,6 +349,64 @@ function mergeLocalizedValue(baseValue, localizedValue) {
 
 function normalizeSearchText(text) {
   return (text || "").toLowerCase().trim();
+}
+
+function resolveAppUrl(value) {
+  if (!value) {
+    return value;
+  }
+
+  const normalized = String(value);
+  if (
+    /^(?:[a-z]+:)?\/\//i.test(normalized)
+    || normalized.startsWith("data:")
+    || normalized.startsWith("blob:")
+  ) {
+    return normalized;
+  }
+
+  const base = APP_BASE_URL.endsWith("/") ? APP_BASE_URL : `${APP_BASE_URL}/`;
+
+  if (normalized.startsWith("/")) {
+    return `${base}${normalized.slice(1)}`;
+  }
+
+  return `${base}${normalized}`;
+}
+
+function resolveRecordAssetPaths(record) {
+  if (!record) {
+    return record;
+  }
+
+  const imageKeys = [
+    "public_cover_path",
+    "public_rhs_paths",
+    "public_mrmaple_paths",
+    "public_herter_paths",
+    "public_ncsu_paths",
+    "public_conifer_paths",
+  ];
+
+  const nextImages = record.images
+    ? imageKeys.reduce((result, key) => {
+      const value = record.images[key];
+
+      if (Array.isArray(value)) {
+        result[key] = value.map((item) => resolveAppUrl(item));
+        return result;
+      }
+
+      result[key] = resolveAppUrl(value);
+      return result;
+    }, { ...record.images })
+    : record.images;
+
+  return {
+    ...record,
+    cover_path: resolveAppUrl(record.cover_path),
+    images: nextImages,
+  };
 }
 
 function localizeRecord(record) {
@@ -478,12 +585,12 @@ function getEditorialCover(item) {
   }
 
   return uniqueValues([
+    item.images?.public_cover_path,
     ...(item.images?.public_rhs_paths || []),
     ...(item.images?.public_mrmaple_paths || []),
     ...(item.images?.public_herter_paths || []),
     ...(item.images?.public_ncsu_paths || []),
-    ...(item.images?.public_original_paths || []),
-    item.images?.public_cover_path,
+    ...(item.images?.public_conifer_paths || []),
   ])[0] || null;
 }
 
@@ -497,15 +604,8 @@ function hasSupplementalImages(item) {
     ...(item?.images?.public_mrmaple_paths || []),
     ...(item?.images?.public_herter_paths || []),
     ...(item?.images?.public_ncsu_paths || []),
+    ...(item?.images?.public_conifer_paths || []),
   ].length > 0;
-}
-
-function getVisibleOriginalImagePaths(item) {
-  if (item?.has_web) {
-    return [];
-  }
-
-  return item?.images?.public_original_paths || [];
 }
 
 function getVisibleImagePaths(item) {
@@ -514,15 +614,8 @@ function getVisibleImagePaths(item) {
     ...(item?.images?.public_mrmaple_paths || []),
     ...(item?.images?.public_herter_paths || []),
     ...(item?.images?.public_ncsu_paths || []),
-    ...getVisibleOriginalImagePaths(item),
+    ...(item?.images?.public_conifer_paths || []),
   ]);
-}
-
-function shouldHideLocalCover(item) {
-  return Boolean(
-    item?.has_web
-      && (item?.cover_source || "").toLowerCase() === "local",
-  );
 }
 
 function getVisibleCover(item, { prioritizeEditorial = false } = {}) {
@@ -532,7 +625,7 @@ function getVisibleCover(item, { prioritizeEditorial = false } = {}) {
     if (visibleImages.length) {
       return visibleImages[0];
     }
-    if (item?.cover_path && !shouldHideLocalCover(item)) {
+    if (item?.cover_path) {
       return item.cover_path;
     }
     return null;
@@ -547,7 +640,7 @@ function getVisibleCover(item, { prioritizeEditorial = false } = {}) {
     return visibleImages[0];
   }
 
-  if (item?.cover_path && !shouldHideLocalCover(item)) {
+  if (item?.cover_path) {
     return item.cover_path;
   }
 
@@ -562,39 +655,55 @@ function getCoverSourceKey(item, cover) {
     if (normalizedSource.includes("herter")) return "herter";
     if (normalizedSource.includes("ncsu")) return "ncsu";
     if (normalizedSource.includes("mr")) return "mrMaple";
-    return "local";
+    return "none";
   }
   if ((item.images?.public_rhs_paths || []).includes(cover)) return "rhs";
   if ((item.images?.public_herter_paths || []).includes(cover)) return "herter";
   if ((item.images?.public_ncsu_paths || []).includes(cover)) return "ncsu";
   if ((item.images?.public_mrmaple_paths || []).includes(cover)) return "mrMaple";
-  return "local";
+  if ((item.images?.public_conifer_paths || []).includes(cover)) return "conifer";
+  return "none";
 }
 
 function getCoverSourceLabel(sourceKey, locale = "zh") {
   return UI_STRINGS[locale]?.coverSource?.[sourceKey] || UI_STRINGS.zh.coverSource[sourceKey] || sourceKey;
 }
 
+function FavoriteToggleButton({ active, onClick, strings, className = "" }) {
+  return (
+    <button
+      type="button"
+      className={`favorite-toggle ${active ? "active" : ""} ${className}`.trim()}
+      onClick={onClick}
+      aria-pressed={active}
+      aria-label={active ? strings.common.removeFavorite : strings.common.addFavorite}
+    >
+      <span className="favorite-toggle-icon" aria-hidden="true">{active ? "♥" : "♡"}</span>
+      <span className="favorite-toggle-label">{active ? strings.common.favorited : strings.common.addFavorite}</span>
+    </button>
+  );
+}
+
 function loadCatalog() {
-  return fetch("/data/catalog.json", { cache: "no-store" }).then((response) => {
+  return fetch(resolveAppUrl("/data/catalog.json"), { cache: "no-store" }).then((response) => {
     if (!response.ok) {
       throw new Error("无法加载 catalog.json");
     }
-    return response.json();
+    return response.json().then((records) => records.map((record) => resolveRecordAssetPaths(record)));
   });
 }
 
 function loadCultivar(id) {
-  return fetch(`/data/details/${id}.json`, { cache: "no-store" }).then((response) => {
+  return fetch(resolveAppUrl(`/data/details/${id}.json`), { cache: "no-store" }).then((response) => {
     if (!response.ok) {
       throw new Error("无法加载该品种详情");
     }
-    return response.json().then((record) => localizeRecord(record));
+    return response.json().then((record) => resolveRecordAssetPaths(localizeRecord(record)));
   });
 }
 
 function loadDevRecord(id) {
-  return fetch(`/__dev/record/${id}`, { cache: "no-store" }).then(async (response) => {
+  return fetch(resolveAppUrl(`/__dev/record/${id}`), { cache: "no-store" }).then(async (response) => {
     const payload = await response.json().catch(() => ({}));
     if (!response.ok) {
       throw new Error(payload.error || "无法加载开发编辑数据");
@@ -604,7 +713,7 @@ function loadDevRecord(id) {
 }
 
 function saveDevRecord(id, record) {
-  return fetch(`/__dev/record/${id}`, {
+  return fetch(resolveAppUrl(`/__dev/record/${id}`), {
     method: "POST",
     headers: {
       "content-type": "application/json",
@@ -1048,7 +1157,7 @@ function ImageLightbox({ images, activeIndex, title, subtitle, onClose, onStep, 
   );
 }
 
-function CultivarCard({ item, prioritizeEditorialImage = false, strings, locale }) {
+function CultivarCard({ item, prioritizeEditorialImage = false, strings, locale, isFavorite, onToggleFavorite }) {
   const description = getPreferredDescription(item, locale);
   const cover = getVisibleCover(item, { prioritizeEditorial: prioritizeEditorialImage });
   const coverSourceKey = getCoverSourceKey(item, cover);
@@ -1056,6 +1165,12 @@ function CultivarCard({ item, prioritizeEditorialImage = false, strings, locale 
 
   return (
     <article className="cultivar-card">
+      <FavoriteToggleButton
+        active={isFavorite}
+        onClick={() => onToggleFavorite(item.id)}
+        strings={strings}
+        className="favorite-toggle-card"
+      />
       <Link className="cultivar-visual" to={`/cultivar/${item.id}`}>
         {cover ? (
           <img src={cover} alt={item.display_name || item.canonical_name} loading="lazy" />
@@ -1098,7 +1213,7 @@ function AlphabetToolbar({ letters, onSelect, strings }) {
   );
 }
 
-function CatalogSections({ sections, prioritizeEditorialImage, strings, locale }) {
+function CatalogSections({ sections, prioritizeEditorialImage, strings, locale, favoriteIds, onToggleFavorite }) {
   if (!sections.length) {
     return <div className="empty-state">{strings.common.noResults}</div>;
   }
@@ -1119,6 +1234,8 @@ function CatalogSections({ sections, prioritizeEditorialImage, strings, locale }
                 prioritizeEditorialImage={prioritizeEditorialImage}
                 strings={strings}
                 locale={locale}
+                isFavorite={favoriteIds.includes(item.id)}
+                onToggleFavorite={onToggleFavorite}
               />
             ))}
           </div>
@@ -1128,7 +1245,7 @@ function CatalogSections({ sections, prioritizeEditorialImage, strings, locale }
   );
 }
 
-function RHSAwardPage({ records, strings, locale }) {
+function RHSAwardPage({ records, strings, locale, favoriteIds, onToggleFavorite }) {
   const recordMap = new Map(records.map((record) => [record.id, record]));
   const resolvedSelections = RHS_AWARD_SELECTIONS
     .map((selection) => {
@@ -1159,7 +1276,15 @@ function RHSAwardPage({ records, strings, locale }) {
         <section className="catalog-section">
           <div className="catalog-grid">
             {resolvedSelections.map((item) => (
-              <CultivarCard key={item.id} item={item} prioritizeEditorialImage strings={strings} locale={locale} />
+              <CultivarCard
+                key={item.id}
+                item={item}
+                prioritizeEditorialImage
+                strings={strings}
+                locale={locale}
+                isFavorite={favoriteIds.includes(item.id)}
+                onToggleFavorite={onToggleFavorite}
+              />
             ))}
           </div>
         </section>
@@ -1168,7 +1293,7 @@ function RHSAwardPage({ records, strings, locale }) {
   );
 }
 
-function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, locale }) {
+function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, locale, favoriteIds, onToggleFavorite }) {
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [pendingLetter, setPendingLetter] = useState("");
   const sentinelRef = useRef(null);
@@ -1252,7 +1377,14 @@ function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, 
   return (
     <>
       <AlphabetToolbar letters={letters} onSelect={handleLetterSelect} strings={strings} />
-      <CatalogSections sections={sections} prioritizeEditorialImage={prioritizeEditorialImage} strings={strings} locale={locale} />
+      <CatalogSections
+        sections={sections}
+        prioritizeEditorialImage={prioritizeEditorialImage}
+        strings={strings}
+        locale={locale}
+        favoriteIds={favoriteIds}
+        onToggleFavorite={onToggleFavorite}
+      />
       <div className="catalog-actions">
         <p className="catalog-progress">
           {strings.catalog.progress(visibleRecords.length, records.length)}
@@ -1264,7 +1396,7 @@ function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, 
   );
 }
 
-function HomePage({ records, strings, locale }) {
+function HomePage({ records, strings, locale, favoriteIds, onToggleFavorite }) {
   const location = useLocation();
   const navigate = useNavigate();
   const initialQuery = new URLSearchParams(location.search).get("q") || "";
@@ -1314,7 +1446,53 @@ function HomePage({ records, strings, locale }) {
           <div className="result-summary">{strings.home.result(filtered.length)}</div>
         </div>
       </section>
-      <PaginatedCatalog records={filtered} prioritizeEditorialImage strings={strings} locale={locale} />
+      <PaginatedCatalog
+        records={filtered}
+        prioritizeEditorialImage
+        strings={strings}
+        locale={locale}
+        favoriteIds={favoriteIds}
+        onToggleFavorite={onToggleFavorite}
+      />
+    </div>
+  );
+}
+
+function FavoritesPage({ records, strings, locale, onToggleFavorite }) {
+  if (!records.length) {
+    return (
+      <div className="page-shell">
+        <section className="search-panel">
+          <div className="section-head">
+            <h1>{strings.favorites.title}</h1>
+            <p>{strings.favorites.subtitle}</p>
+          </div>
+        </section>
+        <div className="empty-state favorites-empty-state">
+          <h2>{strings.favorites.emptyTitle}</h2>
+          <p>{strings.favorites.emptyText}</p>
+          <Link className="detail-toggle" to="/">{strings.favorites.browseCta}</Link>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div className="page-shell">
+      <section className="search-panel">
+        <div className="section-head">
+          <h1>{strings.favorites.title}</h1>
+          <p>{strings.favorites.subtitle}</p>
+        </div>
+        <div className="result-summary">{strings.favorites.count(records.length)}</div>
+      </section>
+      <PaginatedCatalog
+        records={records}
+        strings={strings}
+        locale={locale}
+        favoriteIds={records.map((record) => record.id)}
+        onToggleFavorite={onToggleFavorite}
+      />
     </div>
   );
 }
@@ -1324,7 +1502,7 @@ function LegacySearchRedirect() {
   return <Navigate to={{ pathname: "/", search: location.search }} replace />;
 }
 
-function DetailPage({ locale, strings }) {
+function DetailPage({ locale, strings, favoriteIds, onToggleFavorite }) {
   const { id } = useParams();
   const [item, setItem] = useState(null);
   const [status, setStatus] = useState("loading");
@@ -1465,6 +1643,7 @@ function DetailPage({ locale, strings }) {
   const rhsEnglish = item.rhs_en || item.rhs;
   const rhsLabels = RHS_FIELD_LABELS[locale] || RHS_FIELD_LABELS.zh;
   const cover = getVisibleCover(item);
+  const isFavorite = favoriteIds.includes(item.id);
   const sizeSummary = getSizeSummary(rhs, rhsEnglish, locale);
   const detailTraits = getDetailTraits(item, locale, rhsLabels);
   const chineseAliases = getChineseAliases(item);
@@ -1576,6 +1755,14 @@ function DetailPage({ locale, strings }) {
             <h1>{item.display_name || item.canonical_name}</h1>
             {item.chinese_name ? <p className="detail-chinese">{item.chinese_name}</p> : null}
             <p className="detail-scientific">{item.scientific_name || item.canonical_name}</p>
+            <div className="detail-hero-actions">
+              <FavoriteToggleButton
+                active={isFavorite}
+                onClick={() => onToggleFavorite(item.id)}
+                strings={strings}
+                className="favorite-toggle-inline"
+              />
+            </div>
             <div className="detail-description-merged">
               <p className="detail-description">
                 {description || strings.detail.noDescription}
@@ -1810,6 +1997,30 @@ export default function App() {
   const [status, setStatus] = useState("loading");
   const [error, setError] = useState("");
   const [locale, setLocale] = useState("zh");
+  const [favoriteIds, setFavoriteIds] = useState(() => readFavoriteIds());
+
+  useEffect(() => {
+    writeFavoriteIds(favoriteIds);
+  }, [favoriteIds]);
+
+  useEffect(() => {
+    function handleStorage(event) {
+      if (event.key === FAVORITES_STORAGE_KEY) {
+        setFavoriteIds(readFavoriteIds());
+      }
+    }
+
+    window.addEventListener("storage", handleStorage);
+    return () => window.removeEventListener("storage", handleStorage);
+  }, []);
+
+  function toggleFavorite(id) {
+    setFavoriteIds((current) => (
+      current.includes(id)
+        ? current.filter((item) => item !== id)
+        : [id, ...current]
+    ));
+  }
 
   useEffect(() => {
     loadCatalog()
@@ -1832,6 +2043,8 @@ export default function App() {
   }
 
   const strings = UI_STRINGS[locale] || UI_STRINGS.zh;
+  const recordMap = new Map(records.map((record) => [record.id, record]));
+  const favoriteRecords = favoriteIds.map((id) => recordMap.get(id)).filter(Boolean);
 
   return (
     <div className="app-shell">
@@ -1841,6 +2054,7 @@ export default function App() {
           <nav className="site-nav">
             <NavLink to="/" end>{strings.nav.catalog}</NavLink>
             <NavLink to="/rhs-awards">{strings.nav.awards}</NavLink>
+            <NavLink to="/favorites">{strings.nav.favorites}</NavLink>
           </nav>
           <div className="locale-switch" role="group" aria-label={locale === "en" ? "Language Switch" : "语言切换"}>
             <button
@@ -1862,10 +2076,53 @@ export default function App() {
       </header>
 
       <Routes>
-        <Route path="/" element={<HomePage records={records} strings={strings} locale={locale} />} />
+        <Route
+          path="/"
+          element={(
+            <HomePage
+              records={records}
+              strings={strings}
+              locale={locale}
+              favoriteIds={favoriteIds}
+              onToggleFavorite={toggleFavorite}
+            />
+          )}
+        />
         <Route path="/search" element={<LegacySearchRedirect />} />
-        <Route path="/rhs-awards" element={<RHSAwardPage records={records} strings={strings} locale={locale} />} />
-        <Route path="/cultivar/:id" element={<DetailPage locale={locale} strings={strings} />} />
+        <Route
+          path="/rhs-awards"
+          element={(
+            <RHSAwardPage
+              records={records}
+              strings={strings}
+              locale={locale}
+              favoriteIds={favoriteIds}
+              onToggleFavorite={toggleFavorite}
+            />
+          )}
+        />
+        <Route
+          path="/favorites"
+          element={(
+            <FavoritesPage
+              records={favoriteRecords}
+              strings={strings}
+              locale={locale}
+              onToggleFavorite={toggleFavorite}
+            />
+          )}
+        />
+        <Route
+          path="/cultivar/:id"
+          element={(
+            <DetailPage
+              locale={locale}
+              strings={strings}
+              favoriteIds={favoriteIds}
+              onToggleFavorite={toggleFavorite}
+            />
+          )}
+        />
       </Routes>
     </div>
   );

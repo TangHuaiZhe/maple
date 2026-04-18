@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/acer-palmatum-ruby-de-sofia-japanese-maple/01-IMG_2134.jpg",
@@ -87,7 +83,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/acer-palmatum-ruby-de-sofia-japanese-maple/01-IMG_2134.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/acer-palmatum-ruby-de-sofia-japanese-maple/36-IMG_0811_4605b810-890a-46d7-91f4-05d25af2b5aa.jpg",
     "public_paths": [
       "/mrmaple-images/acer-palmatum-ruby-de-sofia-japanese-maple/01-IMG_2134.jpg",
       "/mrmaple-images/acer-palmatum-ruby-de-sofia-japanese-maple/02-image_361e1f87-afd6-4e5d-9092-2135e2ecaf4b.jpg",

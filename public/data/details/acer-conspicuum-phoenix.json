@@ -15,18 +15,6 @@
   },
   "images": {
     "count": 7,
-    "cover_path": "Resource/园艺/枫树品种合集/图片/蛇皮槭/凤凰/48_凤凰 Acer Conspicuum 'Phoenix'/01.png",
-    "paths": [
-      "Resource/园艺/枫树品种合集/图片/蛇皮槭/凤凰/48_凤凰 Acer Conspicuum 'Phoenix'/01.png",
-      "Resource/园艺/枫树品种合集/图片/蛇皮槭/凤凰/48_凤凰 Acer Conspicuum 'Phoenix'/02.png",
-      "Resource/园艺/枫树品种合集/图片/蛇皮槭/凤凰/48_凤凰 Acer Conspicuum 'Phoenix'/03.png",
-      "Resource/园艺/枫树品种合集/图片/蛇皮槭/凤凰/48_凤凰 Acer Conspicuum 'Phoenix'/04.png",
-      "Resource/园艺/枫树品种合集/图片/蛇皮槭/凤凰/48_凤凰 Acer Conspicuum 'Phoenix'/05.png",
-      "Resource/园艺/枫树品种合集/图片/蛇皮槭/凤凰/48_凤凰 Acer Conspicuum 'Phoenix'/06.png",
-      "Resource/园艺/枫树品种合集/图片/蛇皮槭/凤凰/48_凤凰 Acer Conspicuum 'Phoenix'/07.jpg"
-    ],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [
       "/rhs-images/acer-conspicuum-phoenix/01-Web_Use-RHS_HH_Mid_August_2017_240_11426.jpg",
       "/rhs-images/acer-conspicuum-phoenix/02-Web_Use-PUB0007958_11426.jpg",
@@ -37,7 +25,8 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/rhs-images/acer-conspicuum-phoenix/01-Web_Use-RHS_HH_Mid_August_2017_240_11426.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/rhs-images/acer-conspicuum-phoenix/03-RHS_PUB0007959_11426.JPG",
     "public_paths": [
       "/rhs-images/acer-conspicuum-phoenix/01-Web_Use-RHS_HH_Mid_August_2017_240_11426.jpg",
       "/rhs-images/acer-conspicuum-phoenix/02-Web_Use-PUB0007958_11426.jpg",

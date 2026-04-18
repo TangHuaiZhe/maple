@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-buergerianum-miyasama-dwarf-trident-maple/01-Acer_buergerianum_Miyasama_yatsubusa_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033402.jpg",
@@ -48,7 +44,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-buergerianum-miyasama-dwarf-trident-maple/01-Acer_buergerianum_Miyasama_yatsubusa_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033402.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-buergerianum-miyasama-dwarf-trident-maple/18-Acer_buergerianum_Miyasama_yatsubusa_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033415.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-buergerianum-miyasama-dwarf-trident-maple/01-Acer_buergerianum_Miyasama_yatsubusa_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033402.jpg",
       "/mrmaple-images/buy-acer-buergerianum-miyasama-dwarf-trident-maple/02-Acer_buergerianum_Miyasama_yatsubusa_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033455.jpg",

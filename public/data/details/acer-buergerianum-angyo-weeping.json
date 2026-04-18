@@ -15,10 +15,6 @@
   },
   "images": {
     "count": 0,
-    "cover_path": null,
-    "paths": [],
-    "public_original_cover_path": null,
-    "public_original_paths": [],
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
       "/mrmaple-images/buy-acer-buergerianum-angyo-weeping-trident-maple-tree/01-Acer_buergerianum_Angyo_Weeping_Trident_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032766.jpg",
@@ -40,7 +36,8 @@
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-buergerianum-angyo-weeping-trident-maple-tree/01-Acer_buergerianum_Angyo_Weeping_Trident_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032766.jpg",
+    "public_conifer_paths": [],
+    "public_cover_path": "/mrmaple-images/buy-acer-buergerianum-angyo-weeping-trident-maple-tree/07-Acer_buergerianum_Angyo_Weeping_Trident_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032845.jpg",
     "public_paths": [
       "/mrmaple-images/buy-acer-buergerianum-angyo-weeping-trident-maple-tree/01-Acer_buergerianum_Angyo_Weeping_Trident_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032766.jpg",
       "/mrmaple-images/buy-acer-buergerianum-angyo-weeping-trident-maple-tree/02-Acer_buergerianum_Angyo_Weeping_Trident_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032821.jpg",
