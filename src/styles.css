@@ -539,6 +539,13 @@ textarea {
   margin: 0;
 }
 
+.cultivar-chinese {
+  color: var(--text);
+  font-size: 1.08rem;
+  font-weight: 700;
+  line-height: 1.12;
+}
+
 .cultivar-scientific,
 .detail-scientific {
   font-style: italic;
@@ -599,8 +606,10 @@ textarea {
 
 .detail-chinese {
   margin: 12px 0 0;
-  color: var(--accent);
-  font-size: 1.05rem;
+  color: var(--text);
+  font-size: 1.42rem;
+  font-weight: 700;
+  line-height: 1.08;
 }
 
 .detail-scientific {

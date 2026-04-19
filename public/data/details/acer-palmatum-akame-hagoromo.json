@@ -19,11 +19,23 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-akame-hagoromo/01-Acer-palmatum-Beni-hagoromo.jpg",
+      "/coniferkingdom-images/acer-palmatum-akame-hagoromo/02-Acer-palmatum-Beni-hagoromo-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-akame-hagoromo/03-Acer-palmatum-Beni-hagoromo-1.jpg",
+      "/coniferkingdom-images/acer-palmatum-akame-hagoromo/04-Acer-palmatum-Beni-hagoromo-Specimen-1681.jpg",
+      "/coniferkingdom-images/acer-palmatum-akame-hagoromo/05-Acer-palmatum-Beni-hagoromo-2-1.jpg"
+    ],
     "public_jmac_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-akame-hagoromo/03-Acer-palmatum-Beni-hagoromo-1.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-akame-hagoromo/01-Acer-palmatum-Beni-hagoromo.jpg",
+      "/coniferkingdom-images/acer-palmatum-akame-hagoromo/02-Acer-palmatum-Beni-hagoromo-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-akame-hagoromo/03-Acer-palmatum-Beni-hagoromo-1.jpg",
+      "/coniferkingdom-images/acer-palmatum-akame-hagoromo/04-Acer-palmatum-Beni-hagoromo-Specimen-1681.jpg",
+      "/coniferkingdom-images/acer-palmatum-akame-hagoromo/05-Acer-palmatum-Beni-hagoromo-2-1.jpg"
+    ],
+    "public_count": 5
   },
   "sources": [
     {

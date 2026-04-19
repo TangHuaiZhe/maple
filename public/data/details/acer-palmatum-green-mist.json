@@ -21,13 +21,13 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-green-mist/01-IMG-1312.heic",
-      "/jmac-images/acer-palmatum-green-mist/02-IMG-1313.heic"
+      "/jmac-images/acer-palmatum-green-mist/01-IMG-1312.webp",
+      "/jmac-images/acer-palmatum-green-mist/02-IMG-1313.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-green-mist/02-IMG-1313.heic",
+    "public_cover_path": "/jmac-images/acer-palmatum-green-mist/02-IMG-1313.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-green-mist/01-IMG-1312.heic",
-      "/jmac-images/acer-palmatum-green-mist/02-IMG-1313.heic"
+      "/jmac-images/acer-palmatum-green-mist/01-IMG-1312.webp",
+      "/jmac-images/acer-palmatum-green-mist/02-IMG-1313.webp"
     ],
     "public_count": 2
   },
@@ -163,10 +163,10 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-mist",
     "matched_product_count": 1,
     "local_file_count": 2,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/01-IMG-1312.heic",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/01-IMG-1312.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/01-IMG-1312.heic",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/02-IMG-1313.heic"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/01-IMG-1312.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/02-IMG-1313.webp"
     ],
     "products": [
       {
@@ -187,7 +187,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1312.heic?v=1721162341",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-mist",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/01-IMG-1312.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/01-IMG-1312.webp",
           "bytes": 947572,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:32.730Z",
@@ -199,7 +199,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1313.heic?v=1721162342",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-mist",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/02-IMG-1313.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/02-IMG-1313.webp",
           "bytes": 971240,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:35.594Z",
@@ -210,8 +210,8 @@
       ],
       "downloaded_count": 2,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/01-IMG-1312.heic",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/02-IMG-1313.heic"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/01-IMG-1312.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-mist/02-IMG-1313.webp"
       ]
     }
   }

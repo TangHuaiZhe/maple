@@ -21,7 +21,7 @@
     "count": 0,
     "public_rhs_paths": [],
     "public_mrmaple_paths": [
-      "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+      "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.webp",
       "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/02-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044568.jpg",
       "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/03-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044571.jpg"
     ],
@@ -29,9 +29,9 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.webp",
     "public_paths": [
-      "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+      "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.webp",
       "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/02-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044568.jpg",
       "/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/03-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044571.jpg"
     ],
@@ -130,11 +130,11 @@
     "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
     "matched_product_count": 6,
     "local_files": [
-      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.webp",
       "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/02-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044568.jpg",
       "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/03-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044571.jpg"
     ],
-    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.webp",
     "products": [
       {
         "title": "Acer palmatum 'Beni gasa' Red Japanese Maple",
@@ -147,7 +147,7 @@
         "images": {
           "downloaded_count": 3,
           "local_files": [
-            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.webp",
             "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/02-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044568.jpg",
             "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/03-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044571.jpg"
           ],
@@ -156,7 +156,7 @@
               "index": 1,
               "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg?v=1722548359",
               "product_url": "https://mrmaple.com/products/buy-acer-palmatum-beni-gasa-red-japanese-maple",
-              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.jpg",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-beni-gasa-red-japanese-maple/01-Acer_palmatum_Beni_gasa_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044565.webp",
               "content_type": "image/webp",
               "bytes": 421692,
               "downloaded_at": "2026-04-16T07:11:27.702Z",

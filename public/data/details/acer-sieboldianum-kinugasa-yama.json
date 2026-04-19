@@ -21,11 +21,11 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg"
+      "/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg",
+    "public_cover_path": "/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.webp",
     "public_paths": [
-      "/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg"
+      "/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.webp"
     ],
     "public_count": 1
   },
@@ -131,9 +131,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-kinugasa-yama",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.webp"
     ],
     "products": [
       {
@@ -154,7 +154,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-sieboldianum-kinugasa-yama-275580.jpg?v=1658490831",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-sieboldianum-kinugasa-yama",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.webp",
           "bytes": 307998,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:57.432Z",
@@ -165,7 +165,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-sieboldianum-kinugasa-yama/01-acer-sieboldianum-kinugasa-yama-275580.webp"
       ]
     }
   }

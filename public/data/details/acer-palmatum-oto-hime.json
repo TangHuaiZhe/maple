@@ -23,15 +23,18 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-oto-hime/01-Acer-palmatum-Goshiki-kotohime-Specimen-2193-2.jpg"
+    ],
     "public_jmac_paths": [
       "/jmac-images/acer-palmatum-oto-hime/01-acer-palmatum-oto-hime-906470.jpg"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-oto-hime/01-acer-palmatum-oto-hime-906470.jpg",
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-oto-hime/01-Acer-palmatum-Goshiki-kotohime-Specimen-2193-2.jpg",
     "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-oto-hime/01-Acer-palmatum-Goshiki-kotohime-Specimen-2193-2.jpg",
       "/jmac-images/acer-palmatum-oto-hime/01-acer-palmatum-oto-hime-906470.jpg"
     ],
-    "public_count": 1
+    "public_count": 2
   },
   "sources": [
     {

@@ -25,15 +25,15 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-green-globe/01-IMG-1310.heic",
-      "/jmac-images/acer-palmatum-green-globe/02-IMG-1308.heic",
-      "/jmac-images/acer-palmatum-green-globe/03-IMG-1309.heic"
+      "/jmac-images/acer-palmatum-green-globe/01-IMG-1310.webp",
+      "/jmac-images/acer-palmatum-green-globe/02-IMG-1308.webp",
+      "/jmac-images/acer-palmatum-green-globe/03-IMG-1309.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-green-globe/02-IMG-1308.heic",
+    "public_cover_path": "/jmac-images/acer-palmatum-green-globe/02-IMG-1308.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-green-globe/01-IMG-1310.heic",
-      "/jmac-images/acer-palmatum-green-globe/02-IMG-1308.heic",
-      "/jmac-images/acer-palmatum-green-globe/03-IMG-1309.heic"
+      "/jmac-images/acer-palmatum-green-globe/01-IMG-1310.webp",
+      "/jmac-images/acer-palmatum-green-globe/02-IMG-1308.webp",
+      "/jmac-images/acer-palmatum-green-globe/03-IMG-1309.webp"
     ],
     "public_count": 3
   },
@@ -167,11 +167,11 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-globe",
     "matched_product_count": 1,
     "local_file_count": 3,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/01-IMG-1310.heic",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/01-IMG-1310.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/01-IMG-1310.heic",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/02-IMG-1308.heic",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/03-IMG-1309.heic"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/01-IMG-1310.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/02-IMG-1308.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/03-IMG-1309.webp"
     ],
     "products": [
       {
@@ -192,7 +192,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1310.heic?v=1721162239",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-globe",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/01-IMG-1310.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/01-IMG-1310.webp",
           "bytes": 961342,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:21.893Z",
@@ -204,7 +204,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1308.heic?v=1721162239",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-globe",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/02-IMG-1308.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/02-IMG-1308.webp",
           "bytes": 1046430,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:25.069Z",
@@ -216,7 +216,7 @@
           "index": 3,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1309.heic?v=1721162239",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-green-globe",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/03-IMG-1309.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/03-IMG-1309.webp",
           "bytes": 712286,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:28.462Z",
@@ -227,9 +227,9 @@
       ],
       "downloaded_count": 3,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/01-IMG-1310.heic",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/02-IMG-1308.heic",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/03-IMG-1309.heic"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/01-IMG-1310.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/02-IMG-1308.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-green-globe/03-IMG-1309.webp"
       ]
     }
   }

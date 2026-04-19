@@ -25,13 +25,13 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.heic",
-      "/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.heic"
+      "/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.webp",
+      "/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.heic",
+    "public_cover_path": "/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.heic",
-      "/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.heic"
+      "/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.webp",
+      "/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.webp"
     ],
     "public_count": 2
   },
@@ -135,10 +135,10 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-caperci-dwarf-dwarf-japanese-maple",
     "matched_product_count": 1,
     "local_file_count": 2,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.heic",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.heic",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.heic"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.webp"
     ],
     "products": [
       {
@@ -159,7 +159,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-0090.heic?v=1721160476",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-caperci-dwarf-dwarf-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.webp",
           "bytes": 1551186,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:30.341Z",
@@ -171,7 +171,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-0091.heic?v=1721160477",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-caperci-dwarf-dwarf-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.webp",
           "bytes": 1599030,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:34.380Z",
@@ -182,8 +182,8 @@
       ],
       "downloaded_count": 2,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.heic",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.heic"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/01-IMG-0090.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-caperci-dwarf/02-IMG-0091.webp"
       ]
     }
   }

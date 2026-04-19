@@ -25,11 +25,11 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg"
+      "/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg"
+      "/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.webp"
     ],
     "public_count": 1
   },
@@ -84,9 +84,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ueno-yama-yellow-japanese-maple",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.webp"
     ],
     "products": [
       {
@@ -107,7 +107,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg?v=1753782252",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ueno-yama-yellow-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.webp",
           "bytes": 359144,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:25:13.035Z",
@@ -118,7 +118,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.webp"
       ]
     }
   }

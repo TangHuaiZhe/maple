@@ -25,11 +25,11 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg"
+      "/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg"
+      "/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.webp"
     ],
     "public_count": 1
   },
@@ -135,9 +135,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-saotome",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.webp"
     ],
     "products": [
       {
@@ -158,7 +158,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-saotome-394095.jpg?v=1665409070",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-saotome",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.webp",
           "bytes": 160446,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:54.819Z",
@@ -169,7 +169,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-saotome/01-acer-palmatum-saotome-394095.webp"
       ]
     }
   }

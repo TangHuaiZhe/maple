@@ -21,11 +21,11 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic"
+      "/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic",
+    "public_cover_path": "/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic"
+      "/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.webp"
     ],
     "public_count": 1
   },
@@ -79,9 +79,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ruby-lace",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.webp"
     ],
     "products": [
       {
@@ -102,7 +102,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic?v=1651199238",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ruby-lace",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.webp",
           "bytes": 1241958,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:49.892Z",
@@ -113,7 +113,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.heic"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ruby-lace/01-54EA05D1-619F-49A2-BBF5-B2670CACBC99.webp"
       ]
     }
   }

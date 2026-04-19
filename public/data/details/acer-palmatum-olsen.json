@@ -22,14 +22,14 @@
     "public_conifer_paths": [],
     "public_jmac_paths": [
       "/jmac-images/acer-palmatum-olsen/01-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-317875.jpg",
-      "/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.jpg",
-      "/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg"
+      "/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.webp",
+      "/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.webp",
     "public_paths": [
       "/jmac-images/acer-palmatum-olsen/01-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-317875.jpg",
-      "/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.jpg",
-      "/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg"
+      "/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.webp",
+      "/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.webp"
     ],
     "public_count": 3
   },
@@ -145,8 +145,8 @@
     "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/01-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-317875.jpg",
     "local_files": [
       "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/01-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-317875.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.webp"
     ],
     "products": [
       {
@@ -179,7 +179,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.jpg?v=1680913741",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.webp",
           "bytes": 37930,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:40.704Z",
@@ -191,7 +191,7 @@
           "index": 3,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg?v=1685395058",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.webp",
           "bytes": 406826,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:42.212Z",
@@ -203,8 +203,8 @@
       "downloaded_count": 3,
       "local_files": [
         "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/01-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-317875.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/02-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-963117.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-olsen/03-acer-palmatum-olsens-frosted-strawberry-reticulated-japanese-maple-644521.webp"
       ]
     }
   }

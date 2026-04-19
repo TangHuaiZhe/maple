@@ -24,21 +24,24 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-filigree/01-Acer-palmatum-Red-Filigree-Lace-Specimen-1084.jpg"
+    ],
     "public_jmac_paths": [
       "/jmac-images/acer-palmatum-filigree/01-acer-palmatum-filigree-484725.jpg",
       "/jmac-images/acer-palmatum-filigree/02-acer-palmatum-filigree-401422.jpg",
       "/jmac-images/acer-palmatum-filigree/03-acer-palmatum-filigree-765452.jpg",
       "/jmac-images/acer-palmatum-filigree/04-acer-palmatum-filigree-493441.jpg"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-filigree/03-acer-palmatum-filigree-765452.jpg",
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-filigree/01-Acer-palmatum-Red-Filigree-Lace-Specimen-1084.jpg",
     "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-filigree/01-Acer-palmatum-Red-Filigree-Lace-Specimen-1084.jpg",
       "/jmac-images/acer-palmatum-filigree/01-acer-palmatum-filigree-484725.jpg",
       "/jmac-images/acer-palmatum-filigree/02-acer-palmatum-filigree-401422.jpg",
       "/jmac-images/acer-palmatum-filigree/03-acer-palmatum-filigree-765452.jpg",
       "/jmac-images/acer-palmatum-filigree/04-acer-palmatum-filigree-493441.jpg"
     ],
-    "public_count": 4
+    "public_count": 5
   },
   "sources": [
     {

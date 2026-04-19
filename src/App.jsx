@@ -17,6 +17,7 @@ const DETAIL_GALLERY_PAGE_SIZE = 10;
 const SEARCH_ALL_VALUE = "__all__";
 const DEV_EDITOR_ENABLED = import.meta.env.DEV;
 const APP_BASE_URL = import.meta.env.BASE_URL || "/";
+const DEPLOY_CACHE_BUST = "20260419-1";
 const FAVORITES_STORAGE_KEY = "maple-favorites";
 const DESCRIPTION_NOISE_MARKERS = [
   /pointer-events-auto/i,
@@ -370,10 +371,21 @@ function resolveAppUrl(value) {
   const base = APP_BASE_URL.endsWith("/") ? APP_BASE_URL : `${APP_BASE_URL}/`;
 
   if (normalized.startsWith("/")) {
-    return `${base}${normalized.slice(1)}`;
+    const resolved = `${base}${normalized.slice(1)}`;
+    return shouldAppendCacheBust(normalized) ? appendCacheBust(resolved) : resolved;
   }
 
-  return `${base}${normalized}`;
+  const resolved = `${base}${normalized}`;
+  return shouldAppendCacheBust(normalized) ? appendCacheBust(resolved) : resolved;
+}
+
+function shouldAppendCacheBust(value) {
+  return /^\/?(data|rhs-images|mrmaple-images|herter-images|ncsu-images|coniferkingdom-images|jmac-images)\//.test(String(value || ""));
+}
+
+function appendCacheBust(url) {
+  const separator = url.includes("?") ? "&" : "?";
+  return `${url}${separator}v=${DEPLOY_CACHE_BUST}`;
 }
 
 function resolveRecordAssetPaths(record) {

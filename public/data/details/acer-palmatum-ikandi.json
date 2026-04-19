@@ -21,15 +21,15 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
-      "/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.jpg",
-      "/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.jpg"
+      "/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.webp",
+      "/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.webp",
+      "/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
-      "/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.jpg",
-      "/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.jpg"
+      "/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.webp",
+      "/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.webp",
+      "/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.webp"
     ],
     "public_count": 3
   },
@@ -140,11 +140,11 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ikandi",
     "matched_product_count": 1,
     "local_file_count": 3,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.webp"
     ],
     "products": [
       {
@@ -165,7 +165,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ikandi-925792.jpg?v=1658490625",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ikandi",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.webp",
           "bytes": 290224,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:39.876Z",
@@ -177,7 +177,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ikandi-631462.jpg?v=1658490625",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ikandi",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.webp",
           "bytes": 221152,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:41.035Z",
@@ -189,7 +189,7 @@
           "index": 3,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ikandi-911642.jpg?v=1658490625",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ikandi",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.webp",
           "bytes": 207162,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:42.226Z",
@@ -200,9 +200,9 @@
       ],
       "downloaded_count": 3,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/01-acer-palmatum-ikandi-925792.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/02-acer-palmatum-ikandi-631462.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ikandi/03-acer-palmatum-ikandi-911642.webp"
       ]
     }
   }

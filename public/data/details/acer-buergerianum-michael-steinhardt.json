@@ -21,11 +21,11 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.jpg"
+      "/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.jpg",
+    "public_cover_path": "/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.webp",
     "public_paths": [
-      "/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.jpg"
+      "/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.webp"
     ],
     "public_count": 1
   },
@@ -78,9 +78,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-buergerianum-michael-steinhardt",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.webp"
     ],
     "products": [
       {
@@ -101,7 +101,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-buergerianum-michael-steinhardt-570802.jpg?v=1658490558",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-buergerianum-michael-steinhardt",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.webp",
           "bytes": 255184,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:11.975Z",
@@ -112,7 +112,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-buergerianum-michael-steinhardt/01-acer-buergerianum-michael-steinhardt-570802.webp"
       ]
     }
   }

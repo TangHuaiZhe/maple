@@ -21,17 +21,17 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg",
-      "/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.jpg",
-      "/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg",
-      "/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.jpg"
+      "/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.webp",
+      "/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.webp",
+      "/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.webp",
+      "/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg",
-      "/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.jpg",
-      "/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg",
-      "/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.jpg"
+      "/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.webp",
+      "/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.webp",
+      "/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.webp",
+      "/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.webp"
     ],
     "public_count": 4
   },
@@ -85,12 +85,12 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mikawa-kaen-dwarf-japanese-maple",
     "matched_product_count": 1,
     "local_file_count": 4,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.webp"
     ],
     "products": [
       {
@@ -111,7 +111,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg?v=1729348251",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mikawa-kaen-dwarf-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.webp",
           "bytes": 422430,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:14.880Z",
@@ -123,7 +123,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.jpg?v=1729348251",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mikawa-kaen-dwarf-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.webp",
           "bytes": 672706,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:16.815Z",
@@ -135,7 +135,7 @@
           "index": 3,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg?v=1729348251",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mikawa-kaen-dwarf-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.webp",
           "bytes": 725506,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:18.691Z",
@@ -147,7 +147,7 @@
           "index": 4,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.jpg?v=1729348251",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mikawa-kaen-dwarf-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.webp",
           "bytes": 723942,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:20.354Z",
@@ -158,10 +158,10 @@
       ],
       "downloaded_count": 4,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/01-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-183632.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/02-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-736316.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/03-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-227165.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mikawa-kaen/04-acer-palmatum-mikawa-kaen-dwarf-japanese-maple-111347.webp"
       ]
     }
   }

@@ -25,17 +25,17 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
-      "/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.jpg",
-      "/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.jpg",
-      "/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.jpg"
+      "/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.webp",
+      "/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.webp",
+      "/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.webp",
+      "/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
-      "/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.jpg",
-      "/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.jpg",
-      "/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.jpg"
+      "/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.webp",
+      "/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.webp",
+      "/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.webp",
+      "/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.webp"
     ],
     "public_count": 4
   },
@@ -183,12 +183,12 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-maru",
     "matched_product_count": 1,
     "local_file_count": 4,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.webp"
     ],
     "products": [
       {
@@ -209,7 +209,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-koto-maru-621722.jpg?v=1658490862",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-maru",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.webp",
           "bytes": 433446,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:03.524Z",
@@ -221,7 +221,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-koto-maru-192983.jpg?v=1658490862",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-maru",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.webp",
           "bytes": 500886,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:05.001Z",
@@ -233,7 +233,7 @@
           "index": 3,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-koto-maru-dwarf-japanese-maple-935202.jpg?v=1712444343",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-maru",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.webp",
           "bytes": 212336,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:06.282Z",
@@ -245,7 +245,7 @@
           "index": 4,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-koto-maru-dwarf-japanese-maple-750243.jpg?v=1712444343",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koto-maru",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.webp",
           "bytes": 209952,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:07.771Z",
@@ -256,10 +256,10 @@
       ],
       "downloaded_count": 4,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/01-acer-palmatum-koto-maru-621722.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/02-acer-palmatum-koto-maru-192983.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/03-acer-palmatum-koto-maru-dwarf-japanese-maple-935202.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koto-maru/04-acer-palmatum-koto-maru-dwarf-japanese-maple-750243.webp"
       ]
     }
   }

@@ -23,15 +23,18 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-mama/01-Acer-palmatum-Amagi-shigure-Specimen-2100.jpg"
+    ],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg"
+      "/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg"
+      "/coniferkingdom-images/acer-palmatum-mama/01-Acer-palmatum-Amagi-shigure-Specimen-2100.jpg",
+      "/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.webp"
     ],
-    "public_count": 1
+    "public_count": 2
   },
   "sources": [
     {
@@ -133,9 +136,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mama",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.webp"
     ],
     "products": [
       {
@@ -156,7 +159,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-mama-382118.jpg?v=1658490832",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mama",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.webp",
           "bytes": 487450,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:09.277Z",
@@ -167,7 +170,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mama/01-acer-palmatum-mama-382118.webp"
       ]
     }
   }

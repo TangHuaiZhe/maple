@@ -23,20 +23,20 @@
     "public_mrmaple_paths": [
       "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/01-BeniHime_-08062024.jpg",
       "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/02-benihime1.jpg",
-      "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/03-benihime4.jpg",
-      "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.jpg",
+      "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/03-benihime4.webp",
+      "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.webp",
       "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/05-benihime2.jpg"
     ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
-    "public_cover_path": "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.jpg",
+    "public_cover_path": "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.webp",
     "public_paths": [
       "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/01-BeniHime_-08062024.jpg",
       "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/02-benihime1.jpg",
-      "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/03-benihime4.jpg",
-      "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.jpg",
+      "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/03-benihime4.webp",
+      "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.webp",
       "/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/05-benihime2.jpg"
     ],
     "public_count": 5
@@ -112,8 +112,8 @@
     "local_files": [
       "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/01-BeniHime_-08062024.jpg",
       "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/02-benihime1.jpg",
-      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/03-benihime4.jpg",
-      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/03-benihime4.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.webp",
       "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/05-benihime2.jpg"
     ],
     "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/01-BeniHime_-08062024.jpg",
@@ -131,8 +131,8 @@
           "local_files": [
             "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/01-BeniHime_-08062024.jpg",
             "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/02-benihime1.jpg",
-            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/03-benihime4.jpg",
-            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/03-benihime4.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.webp",
             "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/05-benihime2.jpg"
           ],
           "download_items": [
@@ -164,7 +164,7 @@
               "index": 3,
               "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/benihime4.jpg?v=1756343733",
               "product_url": "https://mrmaple.com/products/acer-palmatum-beni-hime-japanese-maple",
-              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/03-benihime4.jpg",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/03-benihime4.webp",
               "content_type": "image/webp",
               "bytes": 70232,
               "downloaded_at": "2026-04-16T07:12:02.862Z",
@@ -176,7 +176,7 @@
               "index": 4,
               "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/benihime3.jpg?v=1756343733",
               "product_url": "https://mrmaple.com/products/acer-palmatum-beni-hime-japanese-maple",
-              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.jpg",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-beni-hime-japanese-maple/04-benihime3.webp",
               "content_type": "image/webp",
               "bytes": 120706,
               "downloaded_at": "2026-04-16T07:12:04.188Z",

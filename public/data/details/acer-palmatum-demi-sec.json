@@ -25,15 +25,15 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
-      "/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.jpg",
-      "/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.jpg"
+      "/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.webp",
+      "/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.webp",
+      "/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
-      "/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.jpg",
-      "/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.jpg"
+      "/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.webp",
+      "/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.webp",
+      "/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.webp"
     ],
     "public_count": 3
   },
@@ -139,11 +139,11 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-demi-sec-green-dwarf-japanese-maple",
     "matched_product_count": 1,
     "local_file_count": 3,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.webp"
     ],
     "products": [
       {
@@ -164,7 +164,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg?v=1721476099",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-demi-sec-green-dwarf-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.webp",
           "bytes": 413270,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:40.691Z",
@@ -176,7 +176,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.jpg?v=1721476099",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-demi-sec-green-dwarf-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.webp",
           "bytes": 279848,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:42.180Z",
@@ -188,7 +188,7 @@
           "index": 3,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.jpg?v=1721476099",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-demi-sec-green-dwarf-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.webp",
           "bytes": 355982,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:43.682Z",
@@ -199,9 +199,9 @@
       ],
       "downloaded_count": 3,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/01-acer-palmatum-demi-sec-green-dwarf-japanese-maple-420836.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/02-acer-palmatum-demi-sec-green-dwarf-japanese-maple-755541.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-demi-sec/03-acer-palmatum-demi-sec-green-dwarf-japanese-maple-757288.webp"
       ]
     }
   }

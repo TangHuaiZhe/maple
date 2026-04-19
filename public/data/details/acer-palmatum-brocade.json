@@ -25,11 +25,11 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg"
+      "/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg"
+      "/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.webp"
     ],
     "public_count": 1
   },
@@ -136,9 +136,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-brocade-dwarf-japanese-maple-pre-order",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.webp"
     ],
     "products": [
       {
@@ -159,7 +159,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg?v=1721476096",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-brocade-dwarf-japanese-maple-pre-order",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.webp",
           "bytes": 273080,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:24.504Z",
@@ -170,7 +170,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-brocade/01-acer-palmatum-brocade-dwarf-japanese-maple-866307.webp"
       ]
     }
   }

@@ -23,11 +23,23 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-yatsubusa/01-Acer-palmatum-Sekka-yatsubusa.jpg",
+      "/coniferkingdom-images/acer-palmatum-yatsubusa/02-Acer-palmatum-Sekka-yatsubusa-Specimen-1091.jpg",
+      "/coniferkingdom-images/acer-palmatum-yatsubusa/03-Specimen-1091-Acer-palmatum-Sekka-yatsubusa-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-yatsubusa/04-Specimen-1091-Acer-palmatum-Sekka-yatsubusa.jpg",
+      "/coniferkingdom-images/acer-palmatum-yatsubusa/05-Acer-palmatum-Sekka-yatsubusa-2.jpg"
+    ],
     "public_jmac_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-yatsubusa/03-Specimen-1091-Acer-palmatum-Sekka-yatsubusa-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-yatsubusa/01-Acer-palmatum-Sekka-yatsubusa.jpg",
+      "/coniferkingdom-images/acer-palmatum-yatsubusa/02-Acer-palmatum-Sekka-yatsubusa-Specimen-1091.jpg",
+      "/coniferkingdom-images/acer-palmatum-yatsubusa/03-Specimen-1091-Acer-palmatum-Sekka-yatsubusa-2.jpg",
+      "/coniferkingdom-images/acer-palmatum-yatsubusa/04-Specimen-1091-Acer-palmatum-Sekka-yatsubusa.jpg",
+      "/coniferkingdom-images/acer-palmatum-yatsubusa/05-Acer-palmatum-Sekka-yatsubusa-2.jpg"
+    ],
+    "public_count": 5
   },
   "sources": [
     {

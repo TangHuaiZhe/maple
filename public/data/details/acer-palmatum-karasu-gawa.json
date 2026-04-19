@@ -25,13 +25,13 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-karasu-gawa/01-acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.jpg",
-      "/jmac-images/acer-palmatum-karasu-gawa/02-acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.jpg"
+      "/jmac-images/acer-palmatum-karasu-gawa/01-acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.webp",
+      "/jmac-images/acer-palmatum-karasu-gawa/02-acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-karasu-gawa/02-acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-karasu-gawa/02-acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-karasu-gawa/01-acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.jpg",
-      "/jmac-images/acer-palmatum-karasu-gawa/02-acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.jpg"
+      "/jmac-images/acer-palmatum-karasu-gawa/01-acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.webp",
+      "/jmac-images/acer-palmatum-karasu-gawa/02-acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.webp"
     ],
     "public_count": 2
   },
@@ -160,10 +160,10 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-kara-su-gawa-variegated-japanese-maple",
     "matched_product_count": 1,
     "local_file_count": 2,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/01-acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/01-acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/01-acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/02-acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/01-acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/02-acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.webp"
     ],
     "products": [
       {
@@ -184,7 +184,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.jpg?v=1721218896",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-kara-su-gawa-variegated-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/01-acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/01-acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.webp",
           "bytes": 225596,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:53.589Z",
@@ -196,7 +196,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.jpg?v=1721218896",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-kara-su-gawa-variegated-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/02-acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/02-acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.webp",
           "bytes": 280128,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:55.412Z",
@@ -207,8 +207,8 @@
       ],
       "downloaded_count": 2,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/01-acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/02-acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/01-acer-palmatum-kara-su-gawa-variegated-japanese-maple-135450.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-karasu-gawa/02-acer-palmatum-kara-su-gawa-variegated-japanese-maple-241870.webp"
       ]
     }
   }

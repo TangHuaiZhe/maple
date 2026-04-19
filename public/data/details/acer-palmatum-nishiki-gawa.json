@@ -24,15 +24,22 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-nishiki-gawa/01-Acer-palmatum-Hubbles-Super-Cork.jpg",
+      "/coniferkingdom-images/acer-palmatum-nishiki-gawa/02-Acer-palmatum-Hubbles-Super-Cork-1.jpg",
+      "/coniferkingdom-images/acer-palmatum-nishiki-gawa/03-Acer-palmatum-Hubbles-Super-Cork-2.jpg"
+    ],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg"
+      "/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg"
+      "/coniferkingdom-images/acer-palmatum-nishiki-gawa/01-Acer-palmatum-Hubbles-Super-Cork.jpg",
+      "/coniferkingdom-images/acer-palmatum-nishiki-gawa/02-Acer-palmatum-Hubbles-Super-Cork-1.jpg",
+      "/coniferkingdom-images/acer-palmatum-nishiki-gawa/03-Acer-palmatum-Hubbles-Super-Cork-2.jpg",
+      "/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.webp"
     ],
-    "public_count": 1
+    "public_count": 4
   },
   "sources": [
     {
@@ -199,9 +206,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-nishiki-gawa",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.webp"
     ],
     "products": [
       {
@@ -222,7 +229,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-nishiki-gawa-451660.jpg?v=1658490853",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-nishiki-gawa",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.webp",
           "bytes": 430088,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:28.165Z",
@@ -233,7 +240,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-nishiki-gawa/01-acer-palmatum-nishiki-gawa-451660.webp"
       ]
     }
   }

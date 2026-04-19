@@ -22,12 +22,12 @@
     "public_conifer_paths": [],
     "public_jmac_paths": [
       "/jmac-images/acer-japonicum-oregon-fern/01-acer-japonicum-oregon-fern-446503.jpg",
-      "/jmac-images/acer-japonicum-oregon-fern/02-acer-japonicum-oregon-fern-189187.jpg"
+      "/jmac-images/acer-japonicum-oregon-fern/02-acer-japonicum-oregon-fern-189187.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-japonicum-oregon-fern/02-acer-japonicum-oregon-fern-189187.jpg",
+    "public_cover_path": "/jmac-images/acer-japonicum-oregon-fern/02-acer-japonicum-oregon-fern-189187.webp",
     "public_paths": [
       "/jmac-images/acer-japonicum-oregon-fern/01-acer-japonicum-oregon-fern-446503.jpg",
-      "/jmac-images/acer-japonicum-oregon-fern/02-acer-japonicum-oregon-fern-189187.jpg"
+      "/jmac-images/acer-japonicum-oregon-fern/02-acer-japonicum-oregon-fern-189187.webp"
     ],
     "public_count": 2
   },
@@ -84,7 +84,7 @@
     "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-oregon-fern/01-acer-japonicum-oregon-fern-446503.jpg",
     "local_files": [
       "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-oregon-fern/01-acer-japonicum-oregon-fern-446503.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-oregon-fern/02-acer-japonicum-oregon-fern-189187.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-oregon-fern/02-acer-japonicum-oregon-fern-189187.webp"
     ],
     "products": [
       {
@@ -117,7 +117,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-japonicum-oregon-fern-189187.jpg?v=1658490550",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-japonicum-oregon-fern",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-oregon-fern/02-acer-japonicum-oregon-fern-189187.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-oregon-fern/02-acer-japonicum-oregon-fern-189187.webp",
           "bytes": 548098,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:44.715Z",
@@ -129,7 +129,7 @@
       "downloaded_count": 2,
       "local_files": [
         "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-oregon-fern/01-acer-japonicum-oregon-fern-446503.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-oregon-fern/02-acer-japonicum-oregon-fern-189187.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-japonicum-oregon-fern/02-acer-japonicum-oregon-fern-189187.webp"
       ]
     }
   }

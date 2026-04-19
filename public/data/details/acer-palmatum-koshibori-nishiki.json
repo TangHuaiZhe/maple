@@ -25,11 +25,11 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg"
+      "/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg"
+      "/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.webp"
     ],
     "public_count": 1
   },
@@ -112,9 +112,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koshibori-nishiki",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.webp"
     ],
     "products": [
       {
@@ -135,7 +135,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-koshibori-nishiki-826943.jpg?v=1658491054",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-koshibori-nishiki",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.webp",
           "bytes": 205944,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:01.140Z",
@@ -146,7 +146,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-koshibori-nishiki/01-acer-palmatum-koshibori-nishiki-826943.webp"
       ]
     }
   }

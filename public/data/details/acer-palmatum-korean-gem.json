@@ -26,13 +26,13 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.jpg",
-      "/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.jpg"
+      "/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.webp",
+      "/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.jpg",
-      "/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.jpg"
+      "/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.webp",
+      "/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.webp"
     ],
     "public_count": 2
   },
@@ -124,10 +124,10 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-korean-gem",
     "matched_product_count": 1,
     "local_file_count": 2,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.webp"
     ],
     "products": [
       {
@@ -148,7 +148,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-korean-gem-271000.jpg?v=1658491056",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-korean-gem",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.webp",
           "bytes": 263662,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:58.713Z",
@@ -160,7 +160,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-korean-gem-688937.jpg?v=1658491056",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-korean-gem",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.webp",
           "bytes": 343328,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:00.481Z",
@@ -171,8 +171,8 @@
       ],
       "downloaded_count": 2,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/01-acer-palmatum-korean-gem-271000.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-korean-gem/02-acer-palmatum-korean-gem-688937.webp"
       ]
     }
   }

@@ -26,11 +26,11 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg"
+      "/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg"
+      "/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.webp"
     ],
     "public_count": 1
   },
@@ -113,9 +113,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mizu-kuguri",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.webp"
     ],
     "products": [
       {
@@ -136,7 +136,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-mizu-kuguri-470919.jpg?v=1658490825",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-mizu-kuguri",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.webp",
           "bytes": 358032,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:21.081Z",
@@ -147,7 +147,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-mizu-kuguri/01-acer-palmatum-mizu-kuguri-470919.webp"
       ]
     }
   }

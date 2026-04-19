@@ -26,17 +26,17 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-okukuji-nishiki/01-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.jpg",
-      "/jmac-images/acer-palmatum-okukuji-nishiki/02-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-895778.jpg",
-      "/jmac-images/acer-palmatum-okukuji-nishiki/03-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.jpg",
-      "/jmac-images/acer-palmatum-okukuji-nishiki/04-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-803602.jpg"
+      "/jmac-images/acer-palmatum-okukuji-nishiki/01-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.webp",
+      "/jmac-images/acer-palmatum-okukuji-nishiki/02-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-895778.webp",
+      "/jmac-images/acer-palmatum-okukuji-nishiki/03-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.webp",
+      "/jmac-images/acer-palmatum-okukuji-nishiki/04-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-803602.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-okukuji-nishiki/03-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-okukuji-nishiki/03-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-okukuji-nishiki/01-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.jpg",
-      "/jmac-images/acer-palmatum-okukuji-nishiki/02-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-895778.jpg",
-      "/jmac-images/acer-palmatum-okukuji-nishiki/03-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.jpg",
-      "/jmac-images/acer-palmatum-okukuji-nishiki/04-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-803602.jpg"
+      "/jmac-images/acer-palmatum-okukuji-nishiki/01-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.webp",
+      "/jmac-images/acer-palmatum-okukuji-nishiki/02-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-895778.webp",
+      "/jmac-images/acer-palmatum-okukuji-nishiki/03-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.webp",
+      "/jmac-images/acer-palmatum-okukuji-nishiki/04-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-803602.webp"
     ],
     "public_count": 4
   },
@@ -169,12 +169,12 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-okukuji-nishiki-variegated-japanese-maple",
     "matched_product_count": 1,
     "local_file_count": 4,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/01-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/01-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/01-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/02-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-895778.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/03-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/04-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-803602.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/01-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/02-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-895778.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/03-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/04-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-803602.webp"
     ],
     "products": [
       {
@@ -195,7 +195,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.jpg?v=1685183357",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-okukuji-nishiki-variegated-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/01-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/01-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.webp",
           "bytes": 264866,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:33.859Z",
@@ -207,7 +207,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-okukuji-nishiki-variegated-japanese-maple-895778.jpg?v=1685183357",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-okukuji-nishiki-variegated-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/02-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-895778.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/02-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-895778.webp",
           "bytes": 364852,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:35.495Z",
@@ -219,7 +219,7 @@
           "index": 3,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.jpg?v=1685183357",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-okukuji-nishiki-variegated-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/03-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/03-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.webp",
           "bytes": 372628,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:37.298Z",
@@ -231,7 +231,7 @@
           "index": 4,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-okukuji-nishiki-variegated-japanese-maple-803602.jpg?v=1685183357",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-okukuji-nishiki-variegated-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/04-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-803602.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/04-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-803602.webp",
           "bytes": 350870,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:24:38.996Z",
@@ -242,10 +242,10 @@
       ],
       "downloaded_count": 4,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/01-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/02-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-895778.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/03-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/04-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-803602.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/01-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-826931.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/02-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-895778.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/03-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-758417.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-okukuji-nishiki/04-acer-palmatum-okukuji-nishiki-variegated-japanese-maple-803602.webp"
       ]
     }
   }

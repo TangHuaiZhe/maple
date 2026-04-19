@@ -25,13 +25,13 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
-      "/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.jpg"
+      "/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.webp",
+      "/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
-      "/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.jpg"
+      "/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.webp",
+      "/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.webp"
     ],
     "public_count": 2
   },
@@ -114,10 +114,10 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ao-kanzashi-variegated-japanese-maple",
     "matched_product_count": 1,
     "local_file_count": 2,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.webp"
     ],
     "products": [
       {
@@ -138,7 +138,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg?v=1685183102",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ao-kanzashi-variegated-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.webp",
           "bytes": 355312,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:16.814Z",
@@ -150,7 +150,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.jpg?v=1685183102",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-ao-kanzashi-variegated-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.webp",
           "bytes": 266246,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:18.179Z",
@@ -161,8 +161,8 @@
       ],
       "downloaded_count": 2,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/01-acer-palmatum-ao-kanzashi-variegated-japanese-maple-422250.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-ao-kanzashi/02-acer-palmatum-ao-kanzashi-variegated-japanese-maple-126567.webp"
       ]
     }
   }

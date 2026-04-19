@@ -3,7 +3,7 @@
   "canonical_key": "chishio",
   "canonical_name": "Chishio",
   "display_name": "Chishio",
-  "chinese_name": null,
+  "chinese_name": "千染",
   "scientific_name": "Acer palmatum 'Chishio'",
   "species": "Acer palmatum",
   "top_category": null,
@@ -27,13 +27,13 @@
     "public_jmac_paths": [
       "/jmac-images/acer-palmatum-chishio/01-acer-palmatum-chishio-535009.jpg",
       "/jmac-images/acer-palmatum-chishio/02-acer-palmatum-chishio-995063.jpg",
-      "/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.jpg"
+      "/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.webp",
     "public_paths": [
       "/jmac-images/acer-palmatum-chishio/01-acer-palmatum-chishio-535009.jpg",
       "/jmac-images/acer-palmatum-chishio/02-acer-palmatum-chishio-995063.jpg",
-      "/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.jpg"
+      "/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.webp"
     ],
     "public_count": 3
   },
@@ -74,14 +74,16 @@
   "aliases": [
     "Acer palmatum 'Chishio' (P)",
     "Chishio",
-    "Japanese maple 'Chishio'"
+    "Japanese maple 'Chishio'",
+    "千染"
   ],
   "search_terms": [
     "Acer palmatum",
     "Acer palmatum 'Chishio'",
     "Acer palmatum 'Chishio' (P)",
     "Chishio",
-    "Japanese maple 'Chishio'"
+    "Japanese maple 'Chishio'",
+    "千染"
   ],
   "source_count": 4,
   "has_web": false,
@@ -174,7 +176,7 @@
     "local_files": [
       "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/01-acer-palmatum-chishio-535009.jpg",
       "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/02-acer-palmatum-chishio-995063.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.webp"
     ],
     "products": [
       {
@@ -219,7 +221,7 @@
           "index": 3,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-chishio-383695.jpg?v=1658490521",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-chishio",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.webp",
           "bytes": 345610,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:38.051Z",
@@ -232,7 +234,7 @@
       "local_files": [
         "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/01-acer-palmatum-chishio-535009.jpg",
         "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/02-acer-palmatum-chishio-995063.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-chishio/03-acer-palmatum-chishio-383695.webp"
       ]
     }
   }

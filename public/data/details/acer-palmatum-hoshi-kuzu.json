@@ -25,12 +25,12 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.jpg",
+      "/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.webp",
       "/jmac-images/acer-palmatum-hoshi-kuzu/02-acer-palmatum-hoshi-kuzu-903502.jpg"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.jpg",
+      "/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.webp",
       "/jmac-images/acer-palmatum-hoshi-kuzu/02-acer-palmatum-hoshi-kuzu-903502.jpg"
     ],
     "public_count": 2
@@ -137,9 +137,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-hoshi-kuzu",
     "matched_product_count": 1,
     "local_file_count": 2,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.jpg",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.webp",
       "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-hoshi-kuzu/02-acer-palmatum-hoshi-kuzu-903502.jpg"
     ],
     "products": [
@@ -161,7 +161,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-hoshi-kuzu-815894.jpg?v=1658490650",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-hoshi-kuzu",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.webp",
           "bytes": 480510,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:36.865Z",
@@ -184,7 +184,7 @@
       ],
       "downloaded_count": 2,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.jpg",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-hoshi-kuzu/01-acer-palmatum-hoshi-kuzu-815894.webp",
         "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-hoshi-kuzu/02-acer-palmatum-hoshi-kuzu-903502.jpg"
       ]
     }

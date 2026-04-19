@@ -25,11 +25,11 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.jpg"
+      "/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.jpg"
+      "/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.webp"
     ],
     "public_count": 1
   },
@@ -156,9 +156,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tsuchigumo",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.webp"
     ],
     "products": [
       {
@@ -179,7 +179,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-tsuchigumo-242455.jpg?v=1721476404",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tsuchigumo",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.webp",
           "bytes": 280022,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:25:08.909Z",
@@ -190,7 +190,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tsuchigumo/01-acer-palmatum-tsuchigumo-242455.webp"
       ]
     }
   }

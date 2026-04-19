@@ -25,11 +25,11 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg"
+      "/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg"
+      "/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.webp"
     ],
     "public_count": 1
   },
@@ -133,9 +133,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-fjellheim-coral-bark-japanese-maple",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.webp"
     ],
     "products": [
       {
@@ -156,7 +156,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg?v=1739197112",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-fjellheim-coral-bark-japanese-maple",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.webp",
           "bytes": 407400,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:14.436Z",
@@ -167,7 +167,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.webp"
       ]
     }
   }

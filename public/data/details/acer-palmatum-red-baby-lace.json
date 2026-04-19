@@ -19,11 +19,15 @@
     "public_mrmaple_paths": [],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-red-baby-lace/01-Acer-palmatum-Baby-Lace-Specimen-2237r.jpg"
+    ],
     "public_jmac_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-red-baby-lace/01-Acer-palmatum-Baby-Lace-Specimen-2237r.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-red-baby-lace/01-Acer-palmatum-Baby-Lace-Specimen-2237r.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {

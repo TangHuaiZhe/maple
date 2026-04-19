@@ -21,13 +21,13 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.jpg",
-      "/jmac-images/acer-palmatum-calico/02-acer-palmatum-calico-403787.jpg"
+      "/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.webp",
+      "/jmac-images/acer-palmatum-calico/02-acer-palmatum-calico-403787.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.jpg",
-      "/jmac-images/acer-palmatum-calico/02-acer-palmatum-calico-403787.jpg"
+      "/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.webp",
+      "/jmac-images/acer-palmatum-calico/02-acer-palmatum-calico-403787.webp"
     ],
     "public_count": 2
   },
@@ -140,10 +140,10 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-calico",
     "matched_product_count": 1,
     "local_file_count": 2,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/02-acer-palmatum-calico-403787.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/02-acer-palmatum-calico-403787.webp"
     ],
     "products": [
       {
@@ -164,7 +164,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-calico-876856.jpg?v=1658490553",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-calico",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.webp",
           "bytes": 245194,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:25.924Z",
@@ -176,7 +176,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/products/acer-palmatum-calico-403787.jpg?v=1658490553",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-calico",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/02-acer-palmatum-calico-403787.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/02-acer-palmatum-calico-403787.webp",
           "bytes": 197112,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:27.255Z",
@@ -187,8 +187,8 @@
       ],
       "downloaded_count": 2,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/02-acer-palmatum-calico-403787.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/01-acer-palmatum-calico-876856.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-calico/02-acer-palmatum-calico-403787.webp"
       ]
     }
   }

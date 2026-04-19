@@ -25,15 +25,15 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.jpg",
-      "/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.jpg",
-      "/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.jpg"
+      "/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.webp",
+      "/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.webp",
+      "/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.jpg",
+    "public_cover_path": "/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.jpg",
-      "/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.jpg",
-      "/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.jpg"
+      "/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.webp",
+      "/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.webp",
+      "/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.webp"
     ],
     "public_count": 3
   },
@@ -114,11 +114,11 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tana",
     "matched_product_count": 1,
     "local_file_count": 3,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.jpg",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.webp"
     ],
     "products": [
       {
@@ -139,7 +139,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-tana-191460.jpg?v=1721476406",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tana",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.webp",
           "bytes": 192690,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:25:01.906Z",
@@ -151,7 +151,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-tana-810558.jpg?v=1721476406",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tana",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.webp",
           "bytes": 229012,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:25:03.295Z",
@@ -163,7 +163,7 @@
           "index": 3,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-palmatum-tana-267196.jpg?v=1721476406",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-tana",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.webp",
           "bytes": 265656,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:25:04.737Z",
@@ -174,9 +174,9 @@
       ],
       "downloaded_count": 3,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.jpg",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.webp"
       ]
     }
   }

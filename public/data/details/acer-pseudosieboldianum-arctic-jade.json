@@ -21,11 +21,11 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg"
+      "/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg",
+    "public_cover_path": "/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.webp",
     "public_paths": [
-      "/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg"
+      "/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.webp"
     ],
     "public_count": 1
   },
@@ -170,9 +170,9 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-x-pseudosieboldianum-arctic-jade",
     "matched_product_count": 1,
     "local_file_count": 1,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg"
+      "data-source/Resource/园艺/raw/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.webp"
     ],
     "products": [
       {
@@ -193,7 +193,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/acer-x-pseudosieboldianum-arctic-jade-403268.jpg?v=1744198769",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-x-pseudosieboldianum-arctic-jade",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.webp",
           "bytes": 318144,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:19.515Z",
@@ -204,7 +204,7 @@
       ],
       "downloaded_count": 1,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.jpg"
+        "data-source/Resource/园艺/raw/jmac-images/acer-pseudosieboldianum-arctic-jade/01-acer-x-pseudosieboldianum-arctic-jade-403268.webp"
       ]
     }
   }

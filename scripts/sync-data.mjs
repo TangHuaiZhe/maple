@@ -547,6 +547,7 @@ const COVER_SOURCE_PRIORITY = {
   jmac: 1,
 };
 const imageMetadataCache = new Map();
+const imagePathRewriteCache = new Map();
 
 async function ensureDir(dir) {
   await fs.mkdir(dir, { recursive: true });
@@ -613,6 +614,33 @@ function parseWebpSize(buffer) {
       width: 1 + buffer.readUIntLE(24, 3),
       height: 1 + buffer.readUIntLE(27, 3),
     };
+  }
+
+  return null;
+}
+
+function detectImageFormat(buffer) {
+  if (buffer.length >= 12 && buffer.toString("ascii", 0, 4) === "RIFF" && buffer.toString("ascii", 8, 12) === "WEBP") {
+    return "webp";
+  }
+
+  if (buffer.length >= 8 && buffer[0] === 0x89 && buffer.toString("ascii", 1, 4) === "PNG") {
+    return "png";
+  }
+
+  if (buffer.length >= 6 && (buffer.toString("ascii", 0, 6) === "GIF87a" || buffer.toString("ascii", 0, 6) === "GIF89a")) {
+    return "gif";
+  }
+
+  if (buffer.length >= 4 && buffer[0] === 0xff && buffer[1] === 0xd8) {
+    return "jpg";
+  }
+
+  if (buffer.length >= 12 && buffer.toString("ascii", 4, 8) === "ftyp") {
+    const brand = buffer.toString("ascii", 8, 12);
+    if (brand === "avif" || brand === "avis") {
+      return "avif";
+    }
   }
 
   return null;
@@ -713,6 +741,100 @@ async function readImageMetadata(localPath) {
   return metadata;
 }
 
+function replacePathReferences(value, fromPath, toPath) {
+  if (value === fromPath) {
+    return toPath;
+  }
+
+  if (Array.isArray(value)) {
+    return value.map((item) => replacePathReferences(item, fromPath, toPath));
+  }
+
+  if (value && typeof value === "object") {
+    return Object.fromEntries(
+      Object.entries(value).map(([key, item]) => [key, replacePathReferences(item, fromPath, toPath)]),
+    );
+  }
+
+  return value;
+}
+
+async function normalizeImageFilePath(localPath) {
+  if (!localPath) return localPath;
+  if (imagePathRewriteCache.has(localPath)) {
+    return imagePathRewriteCache.get(localPath);
+  }
+
+  const absolutePath = getAbsoluteLocalPath(localPath);
+  if (!absolutePath || !(await pathExists(absolutePath))) {
+    imagePathRewriteCache.set(localPath, localPath);
+    return localPath;
+  }
+
+  const stat = await fs.stat(absolutePath);
+  const sampleLength = Math.min(stat.size, 64);
+  const handle = await fs.open(absolutePath, "r");
+  let header;
+
+  try {
+    header = Buffer.alloc(sampleLength);
+    await handle.read(header, 0, sampleLength, 0);
+  } finally {
+    await handle.close();
+  }
+
+  const detectedFormat = detectImageFormat(header);
+  if (!detectedFormat) {
+    imagePathRewriteCache.set(localPath, localPath);
+    return localPath;
+  }
+
+  const currentExt = path.extname(absolutePath).toLowerCase();
+  const normalizedExt = currentExt === ".jpeg" ? ".jpg" : currentExt;
+  const desiredExt = `.${detectedFormat}`;
+
+  if (normalizedExt === desiredExt) {
+    imagePathRewriteCache.set(localPath, localPath);
+    return localPath;
+  }
+
+  const nextAbsolutePath = `${absolutePath.slice(0, -path.extname(absolutePath).length)}${desiredExt}`;
+  if (!(await pathExists(nextAbsolutePath))) {
+    await fs.rename(absolutePath, nextAbsolutePath);
+  }
+
+  imageMetadataCache.delete(absolutePath);
+  imageMetadataCache.delete(nextAbsolutePath);
+
+  const nextLocalPath = path.relative(appRoot, nextAbsolutePath);
+  imagePathRewriteCache.set(localPath, nextLocalPath);
+  return nextLocalPath;
+}
+
+async function normalizeRecordImagePaths(records) {
+  const sourceKeys = ["rhs", "mrmaple", "herter", "ncsu", "conifer_kingdom", "jmac"];
+  let changed = false;
+
+  for (let index = 0; index < records.length; index += 1) {
+    let record = records[index];
+    const localPaths = uniqueValues(
+      sourceKeys.flatMap((sourceKey) => getSourceLocalFiles(record, sourceKey)),
+    );
+
+    for (const localPath of localPaths) {
+      const nextLocalPath = await normalizeImageFilePath(localPath);
+      if (nextLocalPath !== localPath) {
+        record = replacePathReferences(record, localPath, nextLocalPath);
+        changed = true;
+      }
+    }
+
+    records[index] = record;
+  }
+
+  return changed;
+}
+
 function getSourceImageItems(record, sourceKey) {
   if (sourceKey === "rhs") {
     return ((record.rhs || {}).images || {}).download_items || [];
@@ -725,6 +847,41 @@ function getSourceLocalFiles(record, sourceKey) {
     return (((record.rhs || {}).images) || {}).local_files || [];
   }
   return ((record[sourceKey] || {}).local_files) || [];
+}
+
+async function getFallbackSourceLocalFiles(record, sourceKey) {
+  const sourceDirByKey = {
+    mrmaple: sourceMrMapleImages,
+    herter: sourceHerterImages,
+    ncsu: sourceNcsuImages,
+    conifer_kingdom: sourceConiferImages,
+    jmac: sourceJmacImages,
+  };
+
+  const sourceDir = sourceDirByKey[sourceKey];
+  if (!sourceDir || !record?.id) {
+    return [];
+  }
+
+  const recordDir = path.join(sourceDir, record.id);
+  if (!(await pathExists(recordDir))) {
+    return [];
+  }
+
+  const entries = await fs.readdir(recordDir, { withFileTypes: true });
+  return entries
+    .filter((entry) => entry.isFile())
+    .map((entry) => path.relative(appRoot, path.join(recordDir, entry.name)))
+    .sort((left, right) => left.localeCompare(right));
+}
+
+async function getEffectiveSourceLocalFiles(record, sourceKey) {
+  const configuredFiles = getSourceLocalFiles(record, sourceKey);
+  if (configuredFiles.length) {
+    return configuredFiles;
+  }
+
+  return getFallbackSourceLocalFiles(record, sourceKey);
 }
 
 async function buildCoverCandidates(record) {
@@ -740,7 +897,7 @@ async function buildCoverCandidates(record) {
   const candidates = [];
 
   for (const source of sourceConfigs) {
-    const localFiles = getSourceLocalFiles(record, source.recordKey);
+    const localFiles = await getEffectiveSourceLocalFiles(record, source.recordKey);
     const imageItems = getSourceImageItems(record, source.recordKey);
     const bytesByPath = new Map(
       imageItems
@@ -793,7 +950,14 @@ async function syncJson() {
     .then(() => enhancedJson)
     .catch(() => fallbackJson);
   const raw = await fs.readFile(sourceJson, "utf8");
-  const recordsWithPublicImages = JSON.parse(raw).map((record) => ({
+  const sourceRecords = JSON.parse(raw);
+  const normalizedPathsChanged = await normalizeRecordImagePaths(sourceRecords);
+
+  if (normalizedPathsChanged) {
+    await fs.writeFile(sourceJson, JSON.stringify(sourceRecords, null, 2), "utf8");
+  }
+
+  const recordsWithPublicImages = await Promise.all(sourceRecords.map(async (record) => ({
     ...record,
     images: {
       count: record.images?.count || 0,
@@ -801,22 +965,22 @@ async function syncJson() {
         (((record.rhs || {}).images || {}).local_files || []).map((item) => toRhsPublicImagePath(item)),
       ),
       public_mrmaple_paths: uniquePaths(
-        (((record.mrmaple || {}).local_files) || []).map((item) => toMrMaplePublicImagePath(item)),
+        (await getEffectiveSourceLocalFiles(record, "mrmaple")).map((item) => toMrMaplePublicImagePath(item)),
       ),
       public_herter_paths: uniquePaths(
-        (((record.herter || {}).local_files) || []).map((item) => toHerterPublicImagePath(item)),
+        (await getEffectiveSourceLocalFiles(record, "herter")).map((item) => toHerterPublicImagePath(item)),
       ),
       public_ncsu_paths: uniquePaths(
-        (((record.ncsu || {}).local_files) || []).map((item) => toNcsuPublicImagePath(item)),
+        (await getEffectiveSourceLocalFiles(record, "ncsu")).map((item) => toNcsuPublicImagePath(item)),
       ),
       public_conifer_paths: uniquePaths(
-        (((record.conifer_kingdom || {}).local_files) || []).map((item) => toConiferPublicImagePath(item)),
+        (await getEffectiveSourceLocalFiles(record, "conifer_kingdom")).map((item) => toConiferPublicImagePath(item)),
       ),
       public_jmac_paths: uniquePaths(
-        (((record.jmac || {}).local_files) || []).map((item) => toJmacPublicImagePath(item)),
+        (await getEffectiveSourceLocalFiles(record, "jmac")).map((item) => toJmacPublicImagePath(item)),
       ),
     },
-  }));
+  })));
   const records = await Promise.all(recordsWithPublicImages.map(async (record) => {
     const publicPaths = uniquePaths([
       ...(record.images.public_rhs_paths || []),

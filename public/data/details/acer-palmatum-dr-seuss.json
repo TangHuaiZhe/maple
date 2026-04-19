@@ -21,19 +21,19 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [
-      "/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
-      "/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.heic",
-      "/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.heic",
-      "/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.heic",
-      "/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.heic"
+      "/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.webp",
+      "/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.webp",
+      "/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.webp",
+      "/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.webp",
+      "/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.webp"
     ],
-    "public_cover_path": "/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
+    "public_cover_path": "/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.webp",
     "public_paths": [
-      "/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
-      "/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.heic",
-      "/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.heic",
-      "/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.heic",
-      "/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.heic"
+      "/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.webp",
+      "/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.webp",
+      "/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.webp",
+      "/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.webp",
+      "/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.webp"
     ],
     "public_count": 5
   },
@@ -146,13 +146,13 @@
     "detail_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
     "matched_product_count": 1,
     "local_file_count": 5,
-    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
+    "cover_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.webp",
     "local_files": [
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.heic",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.heic",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.heic",
-      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.heic"
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.webp",
+      "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.webp"
     ],
     "products": [
       {
@@ -173,7 +173,7 @@
           "index": 1,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1298.heic?v=1721162154",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.webp",
           "bytes": 1882200,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:49.176Z",
@@ -185,7 +185,7 @@
           "index": 2,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1296.heic?v=1721162154",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.webp",
           "bytes": 1800896,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:53.709Z",
@@ -197,7 +197,7 @@
           "index": 3,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1295.heic?v=1721162154",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.webp",
           "bytes": 815544,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:22:57.144Z",
@@ -209,7 +209,7 @@
           "index": 4,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1297.heic?v=1721162154",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.webp",
           "bytes": 1507946,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:00.876Z",
@@ -221,7 +221,7 @@
           "index": 5,
           "source_url": "https://cdn.shopify.com/s/files/1/0629/8422/4991/files/IMG-1299.heic?v=1721162153",
           "source_page_url": "https://japanesemaplesandconifers.com/products/acer-palmatum-dr-seuss",
-          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.heic",
+          "local_path": "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.webp",
           "bytes": 1087202,
           "content_type": "image/webp",
           "downloaded_at": "2026-04-18T09:23:04.408Z",
@@ -232,11 +232,11 @@
       ],
       "downloaded_count": 5,
       "local_files": [
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.heic",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.heic",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.heic",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.heic",
-        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.heic"
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/01-IMG-1298.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/02-IMG-1296.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/03-IMG-1295.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/04-IMG-1297.webp",
+        "data-source/Resource/园艺/raw/jmac-images/acer-palmatum-dr-seuss/05-IMG-1299.webp"
       ]
     }
   }
