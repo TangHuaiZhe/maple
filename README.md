@@ -1,138 +1,85 @@
-# 日本枫树展示应用 Web
+# 日本枫树展示应用 Web + 微信小程序
 
-这个项目现在已经脱离 Obsidian vault，作为独立 Web 应用单独维护。
+日本枫树品种百科，涵盖 580 个品种，支持中英文双语、拼音搜索、RHS 获奖筛选、收藏管理。
 
-当前已实现：
+## 功能
 
-- 首页品种目录
-- 中英文与拼音搜索
-- 自动分页加载
-- 品种详情页
-- RHS / Mr Maple / Herter / NCSU 图片展示
-- 基于静态数据的目录页与详情页拆分加载
+- **品种目录** — 580 个品种浏览，中英文搜索（含拼音）
+- **流行品种** — 51 个最受欢迎的经典品种
+- **RHS 获奖** — 29 个英国皇家园艺学会推荐品种
+- **收藏** — 浏览器 / 小程序本地收藏（无需登录）
+- **品种详情** — RHS 种植信息、多源图片画廊（RHS / Mr Maple / Herter / NCSU / Conifer Kingdom / JMAC）
+- **双语** — 中文 / 英文切换
 
-## 目录
+## 目录结构
 
-- `src/App.jsx`
-  主应用、路由和页面实现
-- `src/styles.css`
-  页面样式
-- `scripts/sync-data.mjs`
-  从项目内 `data-source/` 生成 `public/data/`，并把图片目录链接到 `public/`
-- `data-source/`
-  本项目自带的数据快照与原始图片资产
+```
+src/App.jsx          Web 应用（React + React Router）
+src/styles.css       Web 样式
+mini/                微信小程序（Taro 4 + React + TypeScript）
+public/data/         数据文件（直接维护，不由脚本生成）
+  catalog.json       品种列表（580 条，含搜索索引）
+  awards.json        获奖品种（29 条）
+  meta.json          元数据（计数、分类）
+  details/*.json     单品种详情（580 个文件）
+  merged-cultivars.json  完整合并数据
+data-source/         原始数据快照与图片资产
+scripts/             数据同步与图片抓取脚本（仅在需要从源数据重建时使用）
+```
 
-## 命令
+## 数据维护
+
+`public/data/` 下的 JSON 文件是**最终数据**，直接编辑维护。
+
+- 修改品种中文名：编辑 `catalog.json` + `details/{id}.json` + `merged-cultivars.json`
+- `npm run build` / `npm run dev` **不会**自动重新生成数据
+- 如需从源数据重建：`npm run sync-data`（会覆盖手动修改，慎用）
+
+## 开发
 
 ```bash
 npm install
-npm run dev
+npm run dev          # Web 开发服务器
 ```
 
-默认地址：
-
-```text
-http://127.0.0.1:4173/
-```
-
-构建：
+## 构建
 
 ```bash
-npm run build
+npm run build        # Web 生产构建
 ```
 
-腾讯云 / CloudBase 静态托管部署到 `/maple`：
+## 部署
+
+腾讯云 CloudBase 静态托管：
 
 ```bash
-npm run build:hosting:maple
+npm run build                            # 构建
+npm run deploy:cloudbase -- cloud1-d0gq8e1gidc917363 / dist
 ```
-
-控制台推荐配置：
-
-```text
-目标目录: ./
-安装命令: npm install
-构建命令: npm run build:hosting:maple
-构建产物目录: dist
-部署路径: /maple
-```
-
-如果使用 CLI 上传到 CloudBase 静态托管：
-
-```bash
-npm run build:hosting:maple
-npm run deploy:cloudbase -- cloud1-xxxx /maple dist
-```
-
-如果上传大量图片时偶发断开，可以增加重试次数：
-
-```bash
-MAX_RETRIES=5 npm run deploy:cloudbase -- cloud1-xxxx /maple dist
-```
-
-小程序构建：
-
-```bash
-npm run mini:build
-```
-
-小程序开发监听：
-
-```bash
-npm run mini:dev
-```
-
-## 数据说明
-
-- 项目不再依赖 Obsidian vault 内的 `Resource/园艺/`
-- 原始 JSON 和图片已经复制到项目内的 `data-source/`
-- `npm run sync-data` 会基于本地 `data-source/` 重新生成目录数据、详情数据和图片链接
-- 同步后还会额外生成：
-  - `public/data/meta.json`
-  - `public/data/awards.json`
-
-## 当前实现说明
-
-- 应用使用 `HashRouter`
-- `npm run dev` 和 `npm run build` 都会先执行 `npm run sync-data`
-- `npm run build:hosting:maple` 会以 `/maple/` 为公共路径输出 Web 构建
-- 首页使用 `catalog.json` 轻量加载
-- 详情页按 `id` 单独请求 `public/data/details/*.json`
-- `dist/` 会包含 Web 页面本身以及 `data/`、`rhs-images/`、`mrmaple-images/`、`herter-images/`、`ncsu-images/` 和 `coniferkingdom-images/`，可直接用于静态托管
 
 ## 微信小程序
 
-- 小程序工程位于 `mini/`
-- 技术栈为 `Taro + React + TypeScript`
-- 页面包括：
-  - `pages/catalog`
-  - `pages/search`
-  - `pages/awards`
-  - `pages/cultivar-detail`
-- 小程序默认读取当前 Web 开发数据地址：
-  - 由 `mini/.env.development` 控制
-- 生产环境静态资源地址：
-  - 由 `mini/.env.production` 控制
-
-推荐开发顺序：
+小程序位于 `mini/`，技术栈 Taro 4.2.0 + React 18 + TypeScript。
 
 ```bash
-npm run dev
-npm run mini:dev
+cd mini && npm install
+npm run mini:build   # 生产构建（单次）
+npm run mini:dev     # 监听模式：修改源文件自动重编译，配合微信开发者工具实时预览
 ```
 
-然后在微信开发者工具中打开 `mini/`，项目配置里的 `miniprogramRoot` 会指向 `dist/`。
+在微信开发者工具中打开 `mini/` 目录（`miniprogramRoot` 指向 `dist/`）。
 
-注意：
+小程序页面：catalog（首页）、popular（流行）、search（筛选）、awards（获奖）、favorites（收藏）、cultivar-detail（详情）
 
-- 小程序开发环境不要使用 `127.0.0.1` 作为数据地址
-- 当前开发地址已写入 `mini/.env.development`
-- 如果改用 CloudBase / 其他静态托管域名，需要同步更新：
-  - `mini/.env.development`
-  - `mini/.env.production`
+数据源地址配置：`mini/.env.development` / `mini/.env.production`
 
-## Git 提示
+### 小程序关键配置
 
-- 建议提交源代码、`public/data/` 和 `data-source/`
-- `node_modules/` 与 `dist/` 已加入 `.gitignore`
-- 图片资产较大，后续如果要推到远端仓库，建议考虑 Git LFS
+- `config/index.ts` — **不要**设置 `runtimeChunk(false)`，Taro 默认的 `runtimeChunk: { name: 'runtime' }` 是必须的
+- `project.config.json` — `es6: false`、`enhance: false`（Taro 产物不需要二次编译）
+
+## Git
+
+- 提交：源代码 + `public/data/` + `data-source/`
+- 忽略：`node_modules/`、`dist/`、`mini/dist/`、`mini/node_modules/`
+- 图片资产较大，推远端时建议考虑 Git LFS

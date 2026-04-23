@@ -1,24 +1,32 @@
 # Repository Guidelines
 
-## 项目结构与模块组织
-本仓库是一个基于 Vite + React 的静态数据展示应用。主要业务代码位于 `src/`：`main.jsx` 负责启动应用并挂载 `HashRouter`，`App.jsx` 包含目录页、详情页和路由逻辑，`styles.css` 存放全局样式。数据生成脚本位于 `scripts/sync-data.mjs`。原始数据和图片快照位于 `data-source/Resource/园艺/`。生成产物写入 `public/data/`，图片目录会链接到 `public/rhs-images`、`public/mrmaple-images`、`public/herter-images`、`public/ncsu-images` 和 `public/coniferkingdom-images`。`dist/` 为 Web 构建输出目录，也会包含页面所需的 `data/` 与图片目录；小程序工程位于 `mini/`。
+## 项目结构
+- `src/App.jsx` — Web 应用（React + React Router，HashRouter）
+- `src/styles.css` — Web 样式
+- `mini/` — 微信小程序（Taro 4 + React + TypeScript）
+- `public/data/` — **最终数据**，直接编辑维护，构建不会覆盖
+- `data-source/` — 原始数据快照与图片资产
+- `scripts/` — 数据同步与图片抓取脚本（仅手动按需使用）
 
-## 构建、测试与开发命令
-- `npm install`：安装依赖。
-- `npm run sync-data`：根据 `data-source/` 重新生成 `public/data/catalog.json`、`public/data/details/*.json` 以及图片符号链接。
-- `npm run dev`：先执行数据同步，再启动本地开发服务器，默认地址为 `http://127.0.0.1:4173/`。
-- `npm run build`：先执行数据同步，再输出生产构建到 `dist/`。
-- `npm run build:hosting:maple`：先执行数据同步，再以 `/maple/` 作为公共路径构建 Web 静态托管产物到 `dist/`。
-- `npm run preview`：本地预览构建结果，用于最终冒烟检查。
-- `npm run mini:build`：先执行数据同步，再构建微信小程序产物。
-- `npm run mini:dev`：先执行数据同步，再启动微信小程序监听构建。
+## 开发命令
+- `npm run dev` — 启动 Web 开发服务器
+- `npm run build` — Web 生产构建到 `dist/`
+- `npm run deploy:cloudbase -- cloud1-d0gq8e1gidc917363 / dist` — 部署到腾讯云
+- `npm run mini:build` — 构建微信小程序（单次）
+- `npm run mini:dev` — 小程序监听模式：修改 `mini/src/` 源文件后自动重新编译到 `mini/dist/`，配合微信开发者工具实时预览
+- `npm run sync-data` — 从 `data-source/` 重建 `public/data/`（会覆盖手动修改，慎用）
 
-## 代码风格与命名约定
-遵循现有代码风格：使用 ES Modules、React 函数组件、2 空格缩进、双引号和分号。组件使用 `PascalCase`，工具函数使用 `camelCase`，常量使用语义明确的全大写或驼峰命名，例如 `PAGE_SIZE`。品种详情 JSON 文件名和路由参数应与 `id` slug 保持一致，例如 `public/data/details/acer-palmatum-bloodgood.json`。小改动可以继续放在 `src/App.jsx` 中；当界面逻辑继续增长时，应拆分为更聚焦的组件。若 Web 部署到子路径，优先使用现有的 `build:hosting:maple` 或同类带 `VITE_PUBLIC_BASE` 的构建方式，保持资源路径与静态托管部署路径一致。
+## 数据维护
+- `public/data/` 下的 JSON 是最终产物，修改品种信息需同时更新 `catalog.json`、`details/{id}.json`、`merged-cultivars.json`
+- 流行品种 ID 列表：`src/App.jsx` 的 `POPULAR_IDS` 和 `mini/src/pages/popular/index.tsx` 的 `POPULAR_IDS`
+- RHS 获奖列表：`src/App.jsx` 的 `RHS_AWARD_SELECTIONS`
 
-## 测试说明
-当前仓库未配置自动化测试框架。现阶段将 `npm run build` 或 `npm run build:hosting:maple` 作为最基本的回归检查，并通过 `npm run dev` 或 `npm run preview` 手动验证目录页、搜索、分页加载和详情页流程。修改数据生成逻辑后，务必执行 `npm run sync-data`，并抽查 `public/data/details/` 下的若干文件是否正确生成。
+## 代码风格
+ES Modules、React 函数组件、2 空格缩进、双引号、分号。组件 `PascalCase`，工具函数 `camelCase`，常量 `PAGE_SIZE` 风格。品种 JSON 文件名与 `id` slug 一致。
 
+## 小程序注意事项
+- `mini/config/index.ts` 中**不要**设置 `runtimeChunk(false)`
+- `mini/project.config.json` 中 `es6: false`、`enhance: false`
 
-## 数据与配置说明
-同一功能同时修改源码、`data-source/` 和生成数据时，应一并提交，避免仓库状态不一致。不要提交 `node_modules/` 或 `dist/`。如果后续需要推送大量图片资源到远端仓库，可以评估引入 Git LFS。
+## 测试
+无自动化测试。通过 `npm run dev` 手动验证目录页、搜索、详情页、收藏功能。
