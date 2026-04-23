@@ -33,6 +33,7 @@ const UI_STRINGS = {
     localeName: "中",
     nav: {
       catalog: "品种目录",
+      popular: "流行品种",
       awards: "RHS 获奖",
       favorites: "收藏",
     },
@@ -91,6 +92,11 @@ const UI_STRINGS = {
       all: "全部",
       result: (count) => `结果：${count} 条`,
     },
+    popular: {
+      title: "流行品种",
+      subtitle: "最受欢迎和广泛种植的日本枫树品种，涵盖春色、秋色与冬枝观赏。",
+      count: (count) => `共 ${count} 个流行品种`,
+    },
     awards: {
       title: "RHS 获奖品种",
       subtitle: "按你整理的获奖清单单独展示，便于集中浏览经典品种与常见园艺名。",
@@ -143,6 +149,7 @@ const UI_STRINGS = {
     localeName: "EN",
     nav: {
       catalog: "Catalog",
+      popular: "Popular",
       awards: "RHS Awards",
       favorites: "Favorites",
     },
@@ -200,6 +207,11 @@ const UI_STRINGS = {
       category: "Top Category",
       all: "All",
       result: (count) => `Results: ${count}`,
+    },
+    popular: {
+      title: "Popular Cultivars",
+      subtitle: "The most popular and widely cultivated Japanese maples, covering spring color, fall color, and winter bark.",
+      count: (count) => `${count} popular cultivars`,
     },
     awards: {
       title: "RHS Award Winners",
@@ -280,6 +292,60 @@ const RHS_AWARD_SELECTIONS = [
   { id: "acer-japonicum-aconitifolium", displayName: "Aconitifolium", chineseName: "舞孔雀", awardGroup: null },
   { id: "acer-japonicum-green-cascade", displayName: "Green Cascade", chineseName: "绿色瀑布", awardGroup: null },
   { id: "acer-japonicum-vitifolium", displayName: "Vitifolium", chineseName: "葡萄叶", awardGroup: null },
+];
+
+const POPULAR_IDS = [
+  "acer-palmatum-bloodgood",
+  "acer-palmatum-osakazuk",
+  "acer-palmatum-crimson-queen",
+  "acer-palmatum-emerald-lace",
+  "acer-palmatum-garnet",
+  "acer-palmatum-inaba-shidare",
+  "acer-palmatum-orangeola",
+  "acer-palmatum-ornatum",
+  "acer-palmatum-seiryu",
+  "acer-palmatum-kiyohime",
+  "acer-palmatum-kinshi",
+  "acer-palmatum-red-pygmy",
+  "acer-palmatum-burgundy-lace",
+  "acer-palmatum-chitose-yama",
+  "acer-palmatum-elegans",
+  "acer-palmatum-trompenburg",
+  "acer-palmatum-ariadne",
+  "acer-palmatum-beni-maiko",
+  "acer-palmatum-corallinum",
+  "acer-palmatum-eddisbury",
+  "acer-palmatum-katsura",
+  "acer-palmatum-orange-dream",
+  "acer-palmatum-sango-kaku",
+  "acer-palmatum-shin-desho-jo",
+  "acer-palmatum-shishigashira",
+  "acer-palmatum-beni-tsukasa",
+  "acer-japonicum-aconitifolium",
+  "acer-japonicum-green-cascade",
+  "acer-japonicum-vitifolium",
+  "acer-palmatum-akane",
+  "acer-palmatum-aka-shigitatsu-sawa",
+  "acer-palmatum-coral-pink",
+  "acer-palmatum-peaches-and-cream",
+  "acer-palmatum-seigai",
+  "acer-palmatum-ueno-yama",
+  "acer-cappadocicum-aureum",
+  "acer-palmatum-golden-pond",
+  "acer-circinatum-herbstfeuer",
+  "acer-palmatum-ho-gyoku",
+  "acer-palmatum-ichigyo-ji",
+  "acer-shirasawanum-juhni-hitoe",
+  "acer-palmatum-tana",
+  "acer-palmatum-aoyagi",
+  "acer-palmatum-arakawa",
+  "acer-palmatum-beni-kawa",
+  "acer-palmatum-fjellheim",
+  "acer-palmatum-ibo-nishiki",
+  "acer-palmatum-japanese-sunrise",
+  "acer-palmatum-kogane-sakae",
+  "acer-palmatum-nishiki-gawa",
+  "acer-palmatum-winter-flame",
 ];
 
 function hasContent(value) {
@@ -1478,6 +1544,43 @@ function HomePage({ records, strings, locale, favoriteIds, onToggleFavorite }) {
   );
 }
 
+function PopularPage({ records, strings, locale, favoriteIds, onToggleFavorite }) {
+  const recordMap = new Map(records.map((r) => [r.id, r]));
+  const popularItems = POPULAR_IDS
+    .map((id) => recordMap.get(id))
+    .filter(Boolean);
+
+  return (
+    <div className="page-shell">
+      <section className="search-panel">
+        <div className="section-head">
+          <h1>{strings.popular.title}</h1>
+          <p>{strings.popular.subtitle}</p>
+        </div>
+        <div className="result-summary">{strings.popular.count(popularItems.length)}</div>
+      </section>
+
+      <div className="catalog-sections">
+        <section className="catalog-section">
+          <div className="catalog-grid">
+            {popularItems.map((item) => (
+              <CultivarCard
+                key={item.id}
+                item={item}
+                prioritizeEditorialImage
+                strings={strings}
+                locale={locale}
+                isFavorite={favoriteIds.includes(item.id)}
+                onToggleFavorite={onToggleFavorite}
+              />
+            ))}
+          </div>
+        </section>
+      </div>
+    </div>
+  );
+}
+
 function FavoritesPage({ records, strings, locale, onToggleFavorite }) {
   if (!records.length) {
     return (
@@ -1999,6 +2102,7 @@ export default function App() {
         <div className="header-tools">
           <nav className="site-nav">
             <NavLink to="/" end>{strings.nav.catalog}</NavLink>
+            <NavLink to="/popular">{strings.nav.popular}</NavLink>
             <NavLink to="/rhs-awards">{strings.nav.awards}</NavLink>
             <NavLink to="/favorites">{strings.nav.favorites}</NavLink>
           </nav>
@@ -2035,6 +2139,18 @@ export default function App() {
           )}
         />
         <Route path="/search" element={<LegacySearchRedirect />} />
+        <Route
+          path="/popular"
+          element={(
+            <PopularPage
+              records={records}
+              strings={strings}
+              locale={locale}
+              favoriteIds={favoriteIds}
+              onToggleFavorite={toggleFavorite}
+            />
+          )}
+        />
         <Route
           path="/rhs-awards"
           element={(
