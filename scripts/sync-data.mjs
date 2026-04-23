@@ -55,6 +55,7 @@ const RHS_AWARD_SELECTIONS = [
   { id: "acer-japonicum-vitifolium", displayName: "Vitifolium", chineseName: "葡萄叶", awardGroup: null },
 ];
 
+
 function toPublicImagePath(imagePath, marker, publicRoot) {
   const normalizedImagePath = String(imagePath || "").replace(/^data-source[\\/]/, "");
   if (!normalizedImagePath.startsWith(marker)) {
