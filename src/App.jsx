@@ -63,8 +63,8 @@ const UI_STRINGS = {
       next: "下一张",
     },
     home: {
-      eyebrow: "Japanese Maple Directory",
-      title: "先把所有品种排成一张能快速翻阅的目录。",
+      eyebrow: "",
+      title: "枫晴万种",
       lead: "首页直接列出全部枫树品种，按首字母排序；搜索同时匹配中文名、英文名、学名和别名。",
       searchLabel: "中英文搜索",
       searchPlaceholder: "例如 Ice Dragon、冰龙、Acer palmatum",
@@ -179,8 +179,8 @@ const UI_STRINGS = {
       next: "Next",
     },
     home: {
-      eyebrow: "Japanese Maple Directory",
-      title: "Browse the full collection in one fast-scanning index.",
+      eyebrow: "",
+      title: "Maple Atlas",
       lead: "The home page lists every maple cultivar, sorted alphabetically, with search across Chinese names, English names, scientific names, and aliases.",
       searchLabel: "Search",
       searchPlaceholder: "For example Ice Dragon, Bloodgood, Acer palmatum",

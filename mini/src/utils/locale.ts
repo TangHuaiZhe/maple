@@ -36,11 +36,11 @@ export const UI_STRINGS = {
       all: '全部',
     },
     catalog: {
-      title: '日本枫树图鉴',
+      title: '枫晴万种',
       subtitle: '品种大全',
       searchPlaceholder: '搜索品种名称…',
       noResults: '未找到匹配的品种',
-      eyebrow: '品种图鉴',
+      eyebrow: '',
     },
     search: {
       title: '筛选搜索',
@@ -60,7 +60,7 @@ export const UI_STRINGS = {
       title: '我的收藏',
       subtitle: '已收藏的品种',
       empty: '还没有收藏任何品种',
-      emptyHint: '浏览品种图鉴，点击心形图标收藏喜欢的品种',
+      emptyHint: '浏览品种列表，点击心形图标收藏喜欢的品种',
       browseCatalog: '浏览品种',
       count: '{count} 个收藏',
     },
@@ -112,11 +112,11 @@ export const UI_STRINGS = {
       all: 'All',
     },
     catalog: {
-      title: 'Japanese Maple Encyclopedia',
+      title: 'Maple Atlas',
       subtitle: 'All Cultivars',
       searchPlaceholder: 'Search cultivar name…',
       noResults: 'No matching cultivars found',
-      eyebrow: 'Cultivar Encyclopedia',
+      eyebrow: '',
     },
     search: {
       title: 'Filter & Search',
