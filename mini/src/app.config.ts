@@ -1,7 +1,7 @@
 export default defineAppConfig({
   pages: [
-    'pages/catalog/index',
     'pages/popular/index',
+    'pages/catalog/index',
     'pages/search/index',
     'pages/awards/index',
     'pages/favorites/index',
@@ -21,16 +21,16 @@ export default defineAppConfig({
     borderStyle: 'black',
     list: [
       {
-        pagePath: 'pages/catalog/index',
-        text: '首页',
-        iconPath: 'assets/tabbar/home.png',
-        selectedIconPath: 'assets/tabbar/home-active.png'
-      },
-      {
         pagePath: 'pages/popular/index',
         text: '流行',
         iconPath: 'assets/tabbar/popular.png',
         selectedIconPath: 'assets/tabbar/popular-active.png'
+      },
+      {
+        pagePath: 'pages/catalog/index',
+        text: '品种',
+        iconPath: 'assets/tabbar/home.png',
+        selectedIconPath: 'assets/tabbar/home-active.png'
       },
       {
         pagePath: 'pages/awards/index',

@@ -43,7 +43,7 @@ export default function FavoritesPage() {
           <View
             className='pill-button'
             style={{ marginTop: '32rpx' }}
-            onClick={() => Taro.switchTab({ url: '/pages/catalog/index' })}
+            onClick={() => Taro.switchTab({ url: '/pages/popular/index' })}
           >
             <Text>{t.favorites.browseCatalog}</Text>
           </View>

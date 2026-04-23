@@ -13,14 +13,6 @@ export function fetchAwards() {
   return requestJsonCached<CatalogItem[]>('/data/awards.json')
 }
 
-export function fetchPopularIds() {
-  return requestJsonCached<string[]>('/data/popular-ids.json')
-}
-
-export function getCachedPopularIds() {
-  return peekCachedJson<string[]>('/data/popular-ids.json')
-}
-
 export function getCachedCatalog() {
   return peekCachedJson<CatalogItem[]>('/data/catalog.json')
 }

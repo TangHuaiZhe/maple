@@ -2039,8 +2039,8 @@ export default function App() {
         <Link className="brand" to="/">Maple Atlas</Link>
         <div className="header-tools">
           <nav className="site-nav">
-            <NavLink to="/" end>{strings.nav.catalog}</NavLink>
-            <NavLink to="/popular">{strings.nav.popular}</NavLink>
+            <NavLink to="/" end>{strings.nav.popular}</NavLink>
+            <NavLink to="/catalog">{strings.nav.catalog}</NavLink>
             <NavLink to="/rhs-awards">{strings.nav.awards}</NavLink>
             <NavLink to="/favorites">{strings.nav.favorites}</NavLink>
           </nav>
@@ -2067,6 +2067,18 @@ export default function App() {
         <Route
           path="/"
           element={(
+            <PopularPage
+              records={records}
+              strings={strings}
+              locale={locale}
+              favoriteSet={favoriteSet}
+              onToggleFavorite={toggleFavorite}
+            />
+          )}
+        />
+        <Route
+          path="/catalog"
+          element={(
             <HomePage
               records={records}
               strings={strings}
@@ -2077,18 +2089,6 @@ export default function App() {
           )}
         />
         <Route path="/search" element={<LegacySearchRedirect />} />
-        <Route
-          path="/popular"
-          element={(
-            <PopularPage
-              records={records}
-              strings={strings}
-              locale={locale}
-              favoriteSet={favoriteSet}
-              onToggleFavorite={toggleFavorite}
-            />
-          )}
-        />
         <Route
           path="/rhs-awards"
           element={(

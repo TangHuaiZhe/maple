@@ -1,37 +1,30 @@
-import { useState, useEffect } from 'react'
 import { View, Text } from '@tarojs/components'
 import { useCatalog } from '../../hooks/useCatalog'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
-import { fetchPopularIds, getCachedPopularIds } from '../../services/catalog'
 import { CultivarCard } from '../../components/CultivarCard'
 import { LocaleSwitch } from '../../components/LocaleSwitch'
 import { UI_STRINGS } from '../../utils/locale'
+import POPULAR_IDS from './popular-ids.json'
 import './index.scss'
 
 export default function PopularPage() {
-  const { items, loading: catalogLoading } = useCatalog()
+  const { items, loading, error } = useCatalog()
   const { locale } = useLocale()
   const { isFavorite, toggleFavorite } = useFavorites()
-  const [popularIds, setPopularIds] = useState<string[]>(() => getCachedPopularIds() || [])
-  const [loading, setLoading] = useState(!getCachedPopularIds())
 
   const t = UI_STRINGS[locale]
 
-  useEffect(() => {
-    let mounted = true
-    fetchPopularIds()
-      .then(ids => { if (mounted) { setPopularIds(ids); setLoading(false) } })
-      .catch(() => { if (mounted) setLoading(false) })
-    return () => { mounted = false }
-  }, [])
-
-  const popularItems = popularIds
+  const popularItems = POPULAR_IDS
     .map(id => items.find(item => item.id === id))
     .filter(Boolean)
 
-  if ((loading || catalogLoading) && !popularItems.length) {
+  if (loading && !items.length) {
     return <View className='page-shell'><Text className='status-text'>{t.common.loading}</Text></View>
+  }
+
+  if (error) {
+    return <View className='page-shell'><Text className='status-text'>{t.common.error}</Text></View>
   }
 
   return (
