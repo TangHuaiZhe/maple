@@ -1,0 +1,25 @@
+.info-section {
+  &__row {
+    display: flex;
+    padding: 16rpx 0;
+    border-bottom: 1rpx solid #f0ebe3;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  &__label {
+    flex-shrink: 0;
+    width: 160rpx;
+    font-size: 24rpx;
+    color: #8e8276;
+  }
+
+  &__value {
+    flex: 1;
+    font-size: 26rpx;
+    color: #3a3530;
+    word-break: break-word;
+  }
+}

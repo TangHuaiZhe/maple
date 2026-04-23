@@ -1,0 +1,18 @@
+.catalog-search {
+  margin-top: 20rpx;
+
+  &__input {
+    background: #fff;
+    border: 2rpx solid #e8e0d6;
+    border-radius: 12rpx;
+    padding: 16rpx 20rpx;
+    font-size: 28rpx;
+    color: #3a3530;
+  }
+}
+
+.catalog-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18rpx;
+}

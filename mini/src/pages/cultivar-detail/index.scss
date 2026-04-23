@@ -1,0 +1,30 @@
+.detail-page {
+  &__hero {
+    border-radius: 20rpx;
+    overflow: hidden;
+    background: #fff;
+    margin-bottom: 24rpx;
+    box-shadow: 0 2rpx 12rpx rgba(0, 0, 0, 0.06);
+  }
+
+  &__hero-image {
+    width: 100%;
+    height: 420rpx;
+  }
+
+  &__hero-info {
+    padding: 24rpx 28rpx;
+  }
+
+  &__favorite-button {
+    margin-top: 16rpx;
+    width: fit-content;
+    padding: 0 28rpx;
+  }
+
+  &__stack {
+    display: flex;
+    flex-direction: column;
+    gap: 24rpx;
+  }
+}

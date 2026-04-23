@@ -1,0 +1,12 @@
+.search-summary {
+  display: block;
+  font-size: 24rpx;
+  color: #8e8276;
+  margin-bottom: 20rpx;
+}
+
+.search-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18rpx;
+}

@@ -2,7 +2,6 @@ node_modules/
 dist/
 .DS_Store
 deploy-static/
-mini/
 
 # Generated public image links from sync-data.mjs
 public/rhs-images

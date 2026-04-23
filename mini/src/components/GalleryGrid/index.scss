@@ -1,0 +1,12 @@
+.gallery-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16rpx;
+
+  &__image {
+    width: 100%;
+    height: 240rpx;
+    border-radius: 18rpx;
+    background: #f0ebe3;
+  }
+}

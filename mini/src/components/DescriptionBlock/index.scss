@@ -1,0 +1,16 @@
+.desc-block {
+  &__label {
+    display: block;
+    font-size: 24rpx;
+    color: #8e8276;
+    font-weight: 500;
+    margin-bottom: 12rpx;
+  }
+
+  &__text {
+    display: block;
+    font-size: 28rpx;
+    color: #3a3530;
+    line-height: 1.8;
+  }
+}
