@@ -1,4 +1,4 @@
-import { useDeferredValue, useEffect, useRef, useState } from "react";
+import { useDeferredValue, useEffect, useMemo, useRef, useState } from "react";
 import {
   Link,
   Navigate,
@@ -294,59 +294,7 @@ const RHS_AWARD_SELECTIONS = [
   { id: "acer-japonicum-vitifolium", displayName: "Vitifolium", chineseName: "葡萄叶", awardGroup: null },
 ];
 
-const POPULAR_IDS = [
-  "acer-palmatum-bloodgood",
-  "acer-palmatum-osakazuk",
-  "acer-palmatum-crimson-queen",
-  "acer-palmatum-emerald-lace",
-  "acer-palmatum-garnet",
-  "acer-palmatum-inaba-shidare",
-  "acer-palmatum-orangeola",
-  "acer-palmatum-ornatum",
-  "acer-palmatum-seiryu",
-  "acer-palmatum-kiyohime",
-  "acer-palmatum-kinshi",
-  "acer-palmatum-red-pygmy",
-  "acer-palmatum-burgundy-lace",
-  "acer-palmatum-chitose-yama",
-  "acer-palmatum-elegans",
-  "acer-palmatum-trompenburg",
-  "acer-palmatum-ariadne",
-  "acer-palmatum-beni-maiko",
-  "acer-palmatum-corallinum",
-  "acer-palmatum-eddisbury",
-  "acer-palmatum-katsura",
-  "acer-palmatum-orange-dream",
-  "acer-palmatum-sango-kaku",
-  "acer-palmatum-shin-desho-jo",
-  "acer-palmatum-shishigashira",
-  "acer-palmatum-beni-tsukasa",
-  "acer-japonicum-aconitifolium",
-  "acer-japonicum-green-cascade",
-  "acer-japonicum-vitifolium",
-  "acer-palmatum-akane",
-  "acer-palmatum-aka-shigitatsu-sawa",
-  "acer-palmatum-coral-pink",
-  "acer-palmatum-peaches-and-cream",
-  "acer-palmatum-seigai",
-  "acer-palmatum-ueno-yama",
-  "acer-cappadocicum-aureum",
-  "acer-palmatum-golden-pond",
-  "acer-circinatum-herbstfeuer",
-  "acer-palmatum-ho-gyoku",
-  "acer-palmatum-ichigyo-ji",
-  "acer-shirasawanum-juhni-hitoe",
-  "acer-palmatum-tana",
-  "acer-palmatum-aoyagi",
-  "acer-palmatum-arakawa",
-  "acer-palmatum-beni-kawa",
-  "acer-palmatum-fjellheim",
-  "acer-palmatum-ibo-nishiki",
-  "acer-palmatum-japanese-sunrise",
-  "acer-palmatum-kogane-sakae",
-  "acer-palmatum-nishiki-gawa",
-  "acer-palmatum-winter-flame",
-];
+import POPULAR_IDS from "../public/data/popular-ids.json";
 
 function hasContent(value) {
   if (value == null) return false;
@@ -678,17 +626,6 @@ function getEditorialCover(item) {
 
 function getDetailCover(item) {
   return item.images?.public_cover_path || getEditorialCover(item);
-}
-
-function hasSupplementalImages(item) {
-  return [
-    ...(item?.images?.public_rhs_paths || []),
-    ...(item?.images?.public_mrmaple_paths || []),
-    ...(item?.images?.public_herter_paths || []),
-    ...(item?.images?.public_ncsu_paths || []),
-    ...(item?.images?.public_conifer_paths || []),
-    ...(item?.images?.public_jmac_paths || []),
-  ].length > 0;
 }
 
 function getVisibleImagePaths(item) {
@@ -1299,7 +1236,7 @@ function AlphabetToolbar({ letters, onSelect, strings }) {
   );
 }
 
-function CatalogSections({ sections, prioritizeEditorialImage, strings, locale, favoriteIds, onToggleFavorite }) {
+function CatalogSections({ sections, prioritizeEditorialImage, strings, locale, favoriteSet, onToggleFavorite }) {
   if (!sections.length) {
     return <div className="empty-state">{strings.common.noResults}</div>;
   }
@@ -1320,7 +1257,7 @@ function CatalogSections({ sections, prioritizeEditorialImage, strings, locale, 
                 prioritizeEditorialImage={prioritizeEditorialImage}
                 strings={strings}
                 locale={locale}
-                isFavorite={favoriteIds.includes(item.id)}
+                isFavorite={favoriteSet.has(item.id)}
                 onToggleFavorite={onToggleFavorite}
               />
             ))}
@@ -1331,7 +1268,7 @@ function CatalogSections({ sections, prioritizeEditorialImage, strings, locale, 
   );
 }
 
-function RHSAwardPage({ records, strings, locale, favoriteIds, onToggleFavorite }) {
+function RHSAwardPage({ records, strings, locale, favoriteSet, onToggleFavorite }) {
   const recordMap = new Map(records.map((record) => [record.id, record]));
   const resolvedSelections = RHS_AWARD_SELECTIONS
     .map((selection) => {
@@ -1368,7 +1305,7 @@ function RHSAwardPage({ records, strings, locale, favoriteIds, onToggleFavorite 
                 prioritizeEditorialImage
                 strings={strings}
                 locale={locale}
-                isFavorite={favoriteIds.includes(item.id)}
+                isFavorite={favoriteSet.has(item.id)}
                 onToggleFavorite={onToggleFavorite}
               />
             ))}
@@ -1379,7 +1316,7 @@ function RHSAwardPage({ records, strings, locale, favoriteIds, onToggleFavorite 
   );
 }
 
-function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, locale, favoriteIds, onToggleFavorite }) {
+function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, locale, favoriteSet, onToggleFavorite }) {
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [pendingLetter, setPendingLetter] = useState("");
   const sentinelRef = useRef(null);
@@ -1468,7 +1405,7 @@ function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, 
         prioritizeEditorialImage={prioritizeEditorialImage}
         strings={strings}
         locale={locale}
-        favoriteIds={favoriteIds}
+        favoriteSet={favoriteSet}
         onToggleFavorite={onToggleFavorite}
       />
       <div className="catalog-actions">
@@ -1482,7 +1419,7 @@ function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, 
   );
 }
 
-function HomePage({ records, strings, locale, favoriteIds, onToggleFavorite }) {
+function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite }) {
   const location = useLocation();
   const navigate = useNavigate();
   const initialQuery = new URLSearchParams(location.search).get("q") || "";
@@ -1537,14 +1474,14 @@ function HomePage({ records, strings, locale, favoriteIds, onToggleFavorite }) {
         prioritizeEditorialImage
         strings={strings}
         locale={locale}
-        favoriteIds={favoriteIds}
+        favoriteSet={favoriteSet}
         onToggleFavorite={onToggleFavorite}
       />
     </div>
   );
 }
 
-function PopularPage({ records, strings, locale, favoriteIds, onToggleFavorite }) {
+function PopularPage({ records, strings, locale, favoriteSet, onToggleFavorite }) {
   const recordMap = new Map(records.map((r) => [r.id, r]));
   const popularItems = POPULAR_IDS
     .map((id) => recordMap.get(id))
@@ -1570,7 +1507,7 @@ function PopularPage({ records, strings, locale, favoriteIds, onToggleFavorite }
                 prioritizeEditorialImage
                 strings={strings}
                 locale={locale}
-                isFavorite={favoriteIds.includes(item.id)}
+                isFavorite={favoriteSet.has(item.id)}
                 onToggleFavorite={onToggleFavorite}
               />
             ))}
@@ -1613,7 +1550,7 @@ function FavoritesPage({ records, strings, locale, onToggleFavorite }) {
         records={records}
         strings={strings}
         locale={locale}
-        favoriteIds={records.map((record) => record.id)}
+        favoriteSet={new Set(records.map((record) => record.id))}
         onToggleFavorite={onToggleFavorite}
       />
     </div>
@@ -1625,7 +1562,7 @@ function LegacySearchRedirect() {
   return <Navigate to={{ pathname: "/", search: location.search }} replace />;
 }
 
-function DetailPage({ locale, strings, favoriteIds, onToggleFavorite }) {
+function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
   const { id } = useParams();
   const [item, setItem] = useState(null);
   const [status, setStatus] = useState("loading");
@@ -1766,7 +1703,7 @@ function DetailPage({ locale, strings, favoriteIds, onToggleFavorite }) {
   const rhsEnglish = item.rhs_en || item.rhs;
   const rhsLabels = RHS_FIELD_LABELS[locale] || RHS_FIELD_LABELS.zh;
   const cover = getVisibleCover(item);
-  const isFavorite = favoriteIds.includes(item.id);
+  const isFavorite = favoriteSet.has(item.id);
   const sizeSummary = getSizeSummary(rhs, rhsEnglish, locale);
   const detailTraits = getDetailTraits(item, locale, rhsLabels);
   const chineseAliases = getChineseAliases(item);
@@ -2047,6 +1984,7 @@ export default function App() {
   const [error, setError] = useState("");
   const [locale, setLocale] = useState("zh");
   const [favoriteIds, setFavoriteIds] = useState(() => readFavoriteIds());
+  const favoriteSet = useMemo(() => new Set(favoriteIds), [favoriteIds]);
 
   useEffect(() => {
     writeFavoriteIds(favoriteIds);
@@ -2133,7 +2071,7 @@ export default function App() {
               records={records}
               strings={strings}
               locale={locale}
-              favoriteIds={favoriteIds}
+              favoriteSet={favoriteSet}
               onToggleFavorite={toggleFavorite}
             />
           )}
@@ -2146,7 +2084,7 @@ export default function App() {
               records={records}
               strings={strings}
               locale={locale}
-              favoriteIds={favoriteIds}
+              favoriteSet={favoriteSet}
               onToggleFavorite={toggleFavorite}
             />
           )}
@@ -2158,7 +2096,7 @@ export default function App() {
               records={records}
               strings={strings}
               locale={locale}
-              favoriteIds={favoriteIds}
+              favoriteSet={favoriteSet}
               onToggleFavorite={toggleFavorite}
             />
           )}
@@ -2180,7 +2118,7 @@ export default function App() {
             <DetailPage
               locale={locale}
               strings={strings}
-              favoriteIds={favoriteIds}
+              favoriteSet={favoriteSet}
               onToggleFavorite={toggleFavorite}
             />
           )}

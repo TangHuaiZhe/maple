@@ -1,83 +1,37 @@
+import { useState, useEffect } from 'react'
 import { View, Text } from '@tarojs/components'
 import { useCatalog } from '../../hooks/useCatalog'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
+import { fetchPopularIds, getCachedPopularIds } from '../../services/catalog'
 import { CultivarCard } from '../../components/CultivarCard'
 import { LocaleSwitch } from '../../components/LocaleSwitch'
 import { UI_STRINGS } from '../../utils/locale'
 import './index.scss'
 
-const POPULAR_IDS = [
-  'acer-palmatum-bloodgood',
-  'acer-palmatum-osakazuk',
-  'acer-palmatum-crimson-queen',
-  'acer-palmatum-emerald-lace',
-  'acer-palmatum-garnet',
-  'acer-palmatum-inaba-shidare',
-  'acer-palmatum-orangeola',
-  'acer-palmatum-ornatum',
-  'acer-palmatum-seiryu',
-  'acer-palmatum-kiyohime',
-  'acer-palmatum-kinshi',
-  'acer-palmatum-red-pygmy',
-  'acer-palmatum-burgundy-lace',
-  'acer-palmatum-chitose-yama',
-  'acer-palmatum-elegans',
-  'acer-palmatum-trompenburg',
-  'acer-palmatum-ariadne',
-  'acer-palmatum-beni-maiko',
-  'acer-palmatum-corallinum',
-  'acer-palmatum-eddisbury',
-  'acer-palmatum-katsura',
-  'acer-palmatum-orange-dream',
-  'acer-palmatum-sango-kaku',
-  'acer-palmatum-shin-desho-jo',
-  'acer-palmatum-shishigashira',
-  'acer-palmatum-beni-tsukasa',
-  'acer-japonicum-aconitifolium',
-  'acer-japonicum-green-cascade',
-  'acer-japonicum-vitifolium',
-  'acer-palmatum-akane',
-  'acer-palmatum-aka-shigitatsu-sawa',
-  'acer-palmatum-coral-pink',
-  'acer-palmatum-peaches-and-cream',
-  'acer-palmatum-seigai',
-  'acer-palmatum-ueno-yama',
-  'acer-cappadocicum-aureum',
-  'acer-palmatum-golden-pond',
-  'acer-circinatum-herbstfeuer',
-  'acer-palmatum-ho-gyoku',
-  'acer-palmatum-ichigyo-ji',
-  'acer-shirasawanum-juhni-hitoe',
-  'acer-palmatum-tana',
-  'acer-palmatum-aoyagi',
-  'acer-palmatum-arakawa',
-  'acer-palmatum-beni-kawa',
-  'acer-palmatum-fjellheim',
-  'acer-palmatum-ibo-nishiki',
-  'acer-palmatum-japanese-sunrise',
-  'acer-palmatum-kogane-sakae',
-  'acer-palmatum-nishiki-gawa',
-  'acer-palmatum-winter-flame',
-]
-
 export default function PopularPage() {
-  const { items, loading, error } = useCatalog()
+  const { items, loading: catalogLoading } = useCatalog()
   const { locale } = useLocale()
   const { isFavorite, toggleFavorite } = useFavorites()
+  const [popularIds, setPopularIds] = useState<string[]>(() => getCachedPopularIds() || [])
+  const [loading, setLoading] = useState(!getCachedPopularIds())
 
   const t = UI_STRINGS[locale]
 
-  const popularItems = POPULAR_IDS
+  useEffect(() => {
+    let mounted = true
+    fetchPopularIds()
+      .then(ids => { if (mounted) { setPopularIds(ids); setLoading(false) } })
+      .catch(() => { if (mounted) setLoading(false) })
+    return () => { mounted = false }
+  }, [])
+
+  const popularItems = popularIds
     .map(id => items.find(item => item.id === id))
     .filter(Boolean)
 
-  if (loading && !items.length) {
+  if ((loading || catalogLoading) && !popularItems.length) {
     return <View className='page-shell'><Text className='status-text'>{t.common.loading}</Text></View>
-  }
-
-  if (error) {
-    return <View className='page-shell'><Text className='status-text'>{t.common.error}</Text></View>
   }
 
   return (
