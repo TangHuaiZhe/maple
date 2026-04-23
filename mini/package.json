@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "description": "Japanese Maple Mini Program",
+  "sideEffects": [
+    "**/*.scss",
+    "**/*.css"
+  ],
   "templateInfo": {
     "name": "default",
     "typescript": true,

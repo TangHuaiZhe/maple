@@ -1,3 +1,7 @@
+/* ===========================
+   1. Design Tokens & Reset
+   =========================== */
+
 :root {
   --bg: #ece3d2;
   --bg-deep: #e1d4bc;
@@ -58,6 +62,10 @@ textarea {
   min-height: 100vh;
 }
 
+/* ===========================
+   2. Layout Shell & Header
+   =========================== */
+
 .app-shell {
   min-height: 100vh;
   padding: 20px 18px 52px;
@@ -89,6 +97,10 @@ textarea {
   align-items: center;
   gap: 12px;
 }
+
+/* ===========================
+   3. Navigation & Locale Switch
+   =========================== */
 
 .site-nav {
   display: flex;
@@ -137,6 +149,10 @@ textarea {
   color: white;
 }
 
+/* ===========================
+   4. Page Shell & Panel Cards
+   =========================== */
+
 .page-shell {
   display: grid;
   gap: 24px;
@@ -155,6 +171,18 @@ textarea {
   background: var(--panel);
   box-shadow: var(--shadow);
 }
+
+.atlas-search-panel,
+.search-panel,
+.detail-card,
+.section-block,
+.catalog-section {
+  padding: 24px;
+}
+
+/* ===========================
+   5. Hero Section (Home)
+   =========================== */
 
 .atlas-hero {
   display: grid;
@@ -188,14 +216,6 @@ textarea {
   font-size: 0.88rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-}
-
-.atlas-search-panel,
-.search-panel,
-.detail-card,
-.section-block,
-.catalog-section {
-  padding: 24px;
 }
 
 .atlas-search-panel {
@@ -240,6 +260,10 @@ textarea {
   font-size: 2rem;
 }
 
+/* ===========================
+   6. Alphabet Toolbar
+   =========================== */
+
 .alpha-toolbar {
   display: flex;
   gap: 10px;
@@ -266,6 +290,10 @@ textarea {
   border-color: rgba(152, 55, 38, 0.3);
   color: var(--accent);
 }
+
+/* ===========================
+   7. Catalog Grid & Sections
+   =========================== */
 
 .catalog-sections {
   display: grid;
@@ -354,6 +382,10 @@ textarea {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
+/* ===========================
+   8. Cultivar Card
+   =========================== */
+
 .cultivar-card,
 .gallery-card {
   overflow: hidden;
@@ -404,6 +436,74 @@ textarea {
   font-size: 0.78rem;
   letter-spacing: 0.04em;
 }
+
+.source-rhs {
+  background: rgba(85, 104, 68, 0.84);
+}
+
+.source-mr-maple {
+  background: rgba(152, 55, 38, 0.86);
+}
+
+.source-herter {
+  background: rgba(88, 74, 32, 0.86);
+}
+
+.source-ncsu {
+  background: rgba(33, 92, 128, 0.86);
+}
+
+.source-conifer {
+  background: rgba(49, 103, 67, 0.86);
+}
+
+.cultivar-meta {
+  display: grid;
+  align-content: start;
+  gap: 8px;
+  padding: 16px;
+}
+
+.cultivar-kicker {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  color: var(--forest);
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+}
+
+.cultivar-title {
+  margin: 0;
+  font-size: 1.32rem;
+  line-height: 1;
+}
+
+.cultivar-title a:hover {
+  color: var(--accent);
+}
+
+.cultivar-chinese,
+.cultivar-scientific,
+.cultivar-description {
+  margin: 0;
+}
+
+.cultivar-chinese {
+  color: var(--text);
+  font-size: 1.08rem;
+  font-weight: 700;
+  line-height: 1.12;
+}
+
+.cultivar-scientific,
+.detail-scientific {
+  font-style: italic;
+}
+
+/* ===========================
+   9. Favorite Toggle
+   =========================== */
 
 .favorite-toggle {
   display: inline-flex;
@@ -487,69 +587,27 @@ textarea {
   font-size: 1.05rem;
 }
 
-.source-rhs {
-  background: rgba(85, 104, 68, 0.84);
+.favorite-toggle-inline {
+  min-width: 112px;
 }
 
-.source-mr-maple {
-  background: rgba(152, 55, 38, 0.86);
+@keyframes favorite-pop {
+  0% {
+    transform: scale(0.82);
+  }
+
+  60% {
+    transform: scale(1.18);
+  }
+
+  100% {
+    transform: scale(1.12);
+  }
 }
 
-.source-herter {
-  background: rgba(88, 74, 32, 0.86);
-}
-
-.source-ncsu {
-  background: rgba(33, 92, 128, 0.86);
-}
-
-.source-conifer {
-  background: rgba(49, 103, 67, 0.86);
-}
-
-.cultivar-meta {
-  display: grid;
-  align-content: start;
-  gap: 8px;
-  padding: 16px;
-}
-
-.cultivar-kicker {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-  color: var(--forest);
-  font-size: 0.8rem;
-  letter-spacing: 0.03em;
-}
-
-.cultivar-title {
-  margin: 0;
-  font-size: 1.32rem;
-  line-height: 1;
-}
-
-.cultivar-title a:hover {
-  color: var(--accent);
-}
-
-.cultivar-chinese,
-.cultivar-scientific,
-.cultivar-description {
-  margin: 0;
-}
-
-.cultivar-chinese {
-  color: var(--text);
-  font-size: 1.08rem;
-  font-weight: 700;
-  line-height: 1.12;
-}
-
-.cultivar-scientific,
-.detail-scientific {
-  font-style: italic;
-}
+/* ===========================
+   10. Search Controls
+   =========================== */
 
 .search-controls {
   display: grid;
@@ -592,6 +650,10 @@ textarea {
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
   line-height: 1.5;
 }
+
+/* ===========================
+   11. Detail Page
+   =========================== */
 
 .detail-shell {
   gap: 22px;
@@ -710,24 +772,6 @@ textarea {
   outline-offset: 2px;
 }
 
-.favorite-toggle-inline {
-  min-width: 112px;
-}
-
-@keyframes favorite-pop {
-  0% {
-    transform: scale(0.82);
-  }
-
-  60% {
-    transform: scale(1.18);
-  }
-
-  100% {
-    transform: scale(1.12);
-  }
-}
-
 .detail-toggle:disabled,
 .load-more-button:disabled {
   opacity: 0.55;
@@ -736,33 +780,9 @@ textarea {
   box-shadow: none;
 }
 
-.dev-editor-toolbar {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  gap: 10px;
-}
-
-.dev-editor-save {
-  min-width: 132px;
-}
-
-.dev-editor-field {
-  margin-top: 14px;
-}
-
-.dev-editor-status {
-  margin: 0;
-  padding: 12px 14px;
-  border-radius: 16px;
-  background: rgba(85, 104, 68, 0.12);
-  color: var(--forest);
-}
-
-.dev-editor-status.error {
-  background: rgba(152, 55, 38, 0.12);
-  color: var(--accent);
-}
+/* ===========================
+   12. Detail Cover & Image Preview
+   =========================== */
 
 .detail-cover {
   min-height: 540px;
@@ -828,6 +848,10 @@ textarea {
   transform: translateY(0);
 }
 
+/* ===========================
+   13. Tags & Detail List
+   =========================== */
+
 .tag-row {
   display: flex;
   gap: 10px;
@@ -866,6 +890,10 @@ textarea {
   margin: 0;
 }
 
+/* ===========================
+   14. Sources & RHS Info
+   =========================== */
+
 .source-stack,
 .rhs-stack {
   display: grid;
@@ -899,6 +927,10 @@ textarea {
   color: var(--accent);
 }
 
+/* ===========================
+   15. Gallery
+   =========================== */
+
 .gallery-card {
   aspect-ratio: 4 / 5;
   min-height: 320px;
@@ -908,6 +940,10 @@ textarea {
   grid-column: span 2;
   min-height: 460px;
 }
+
+/* ===========================
+   16. Lightbox
+   =========================== */
 
 .lightbox {
   position: fixed;
@@ -1015,6 +1051,10 @@ textarea {
   right: 20px;
 }
 
+/* ===========================
+   17. Empty States & Fallbacks
+   =========================== */
+
 .image-fallback {
   display: grid;
   place-items: center;
@@ -1047,6 +1087,42 @@ textarea {
   padding: 24px;
 }
 
+/* ===========================
+   18. Dev Editor (Debug)
+   =========================== */
+
+.dev-editor-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.dev-editor-save {
+  min-width: 132px;
+}
+
+.dev-editor-field {
+  margin-top: 14px;
+}
+
+.dev-editor-status {
+  margin: 0;
+  padding: 12px 14px;
+  border-radius: 16px;
+  background: rgba(85, 104, 68, 0.12);
+  color: var(--forest);
+}
+
+.dev-editor-status.error {
+  background: rgba(152, 55, 38, 0.12);
+  color: var(--accent);
+}
+
+/* ===========================
+   19. Responsive (Tablet)
+   =========================== */
+
 @media (max-width: 1080px) {
   .atlas-hero,
   .detail-hero,
@@ -1056,6 +1132,10 @@ textarea {
     grid-template-columns: 1fr;
   }
 }
+
+/* ===========================
+   20. Responsive (Mobile)
+   =========================== */
 
 @media (max-width: 760px) {
   .app-shell {
