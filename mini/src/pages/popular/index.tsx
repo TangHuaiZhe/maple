@@ -1,4 +1,5 @@
 import { View, Text } from '@tarojs/components'
+import { useShareAppMessage } from '@tarojs/taro'
 import { useCatalog } from '../../hooks/useCatalog'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
@@ -12,6 +13,11 @@ export default function PopularPage() {
   const { items, loading, error } = useCatalog()
   const { locale } = useLocale()
   const { isFavorite, toggleFavorite } = useFavorites()
+
+  useShareAppMessage(() => ({
+    title: '日本枫树 - 流行品种',
+    path: '/pages/popular/index'
+  }))
 
   const t = UI_STRINGS[locale]
 

@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import { View, Text } from '@tarojs/components'
+import { useShareAppMessage } from '@tarojs/taro'
 import type { CatalogItem } from '../../types/catalog'
 import { fetchAwards, getCachedAwards } from '../../services/catalog'
 import { useFavorites } from '../../hooks/useFavorites'
@@ -13,6 +14,11 @@ export default function AwardsPage() {
   const [items, setItems] = useState<CatalogItem[]>(() => getCachedAwards() || [])
   const [loading, setLoading] = useState(!getCachedAwards())
   const [error, setError] = useState<string | null>(null)
+
+  useShareAppMessage(() => ({
+    title: '日本枫树 - RHS 获奖品种',
+    path: '/pages/awards/index'
+  }))
   const { locale } = useLocale()
   const { isFavorite, toggleFavorite } = useFavorites()
 

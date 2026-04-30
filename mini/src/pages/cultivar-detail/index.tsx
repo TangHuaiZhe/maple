@@ -1,5 +1,5 @@
 import { Image, View, Text } from '@tarojs/components'
-import Taro from '@tarojs/taro'
+import Taro, { useShareAppMessage } from '@tarojs/taro'
 import { useCultivarDetail } from '../../hooks/useCultivarDetail'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
@@ -23,6 +23,14 @@ export default function CultivarDetailPage() {
   const { isFavorite, toggleFavorite } = useFavorites()
 
   const t = UI_STRINGS[locale]
+
+  useShareAppMessage(() => {
+    const title = detail ? getPrimaryName(detail, locale) : '日本枫树品种详情'
+    return {
+      title,
+      path: `/pages/cultivar-detail/index?id=${id}`
+    }
+  })
 
   if (loading) {
     return <View className='page-shell'><Text className='status-text'>{t.common.loading}</Text></View>

@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { View, Text, Input } from '@tarojs/components'
+import { useShareAppMessage } from '@tarojs/taro'
 import { useCatalog } from '../../hooks/useCatalog'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
@@ -16,6 +17,11 @@ export default function CatalogPage() {
   const { items, loading, error } = useCatalog()
   const { locale } = useLocale()
   const { isFavorite, toggleFavorite } = useFavorites()
+
+  useShareAppMessage(() => ({
+    title: '日本枫树 - 品种目录',
+    path: '/pages/catalog/index'
+  }))
   const [keyword, setKeyword] = useState('')
   const debouncedKeyword = useDebouncedValue(keyword)
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
