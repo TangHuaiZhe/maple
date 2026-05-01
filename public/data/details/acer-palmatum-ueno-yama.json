@@ -3,7 +3,7 @@
   "canonical_key": "ueno yama",
   "canonical_name": "Ueno yama",
   "display_name": "Ueno yama",
-  "chinese_name": "上野山",
+  "chinese_name": null,
   "scientific_name": "Acer palmatum 'Ueno yama'",
   "species": "Acer palmatum",
   "top_category": null,
@@ -27,6 +27,7 @@
     "public_jmac_paths": [
       "/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.webp"
     ],
+    "public_user_paths": [],
     "public_cover_path": "/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.webp",
     "public_paths": [
       "/jmac-images/acer-palmatum-ueno-yama/01-acer-palmatum-ueno-yama-yellow-japanese-maple-6497536.webp"

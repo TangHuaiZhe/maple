@@ -3,7 +3,7 @@
   "canonical_key": "seigai",
   "canonical_name": "Seigai",
   "display_name": "Seigai",
-  "chinese_name": "青崖",
+  "chinese_name": null,
   "scientific_name": "Acer palmatum 'Seigai'",
   "species": "Acer palmatum",
   "top_category": null,
@@ -25,6 +25,7 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
+    "public_user_paths": [],
     "public_cover_path": null,
     "public_paths": [],
     "public_count": 0

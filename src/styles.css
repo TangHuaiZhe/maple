@@ -1119,6 +1119,17 @@ textarea {
   color: var(--accent);
 }
 
+.dev-editor-upload {
+  margin-top: 14px;
+  padding: 14px;
+  border: 2px dashed var(--border);
+  border-radius: 12px;
+}
+
+.dev-editor-upload input[type="file"] {
+  margin-top: 6px;
+}
+
 /* ===========================
    19. Responsive (Tablet)
    =========================== */

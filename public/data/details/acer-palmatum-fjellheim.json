@@ -3,7 +3,7 @@
   "canonical_key": "fjellheim",
   "canonical_name": "Fjellheim",
   "display_name": "Fjellheim",
-  "chinese_name": "菲耶尔海姆",
+  "chinese_name": null,
   "scientific_name": "Acer palmatum 'Fjellheim'",
   "species": "Acer palmatum",
   "top_category": null,
@@ -27,6 +27,7 @@
     "public_jmac_paths": [
       "/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.webp"
     ],
+    "public_user_paths": [],
     "public_cover_path": "/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.webp",
     "public_paths": [
       "/jmac-images/acer-palmatum-fjellheim/01-acer-palmatum-fjellheim-coral-bark-japanese-maple-451815.webp"

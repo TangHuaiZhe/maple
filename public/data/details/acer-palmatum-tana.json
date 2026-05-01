@@ -3,7 +3,7 @@
   "canonical_key": "tana",
   "canonical_name": "Tana",
   "display_name": "Tana",
-  "chinese_name": "棚",
+  "chinese_name": null,
   "scientific_name": "Acer palmatum 'Tana'",
   "species": "Acer palmatum",
   "top_category": null,
@@ -29,6 +29,7 @@
       "/jmac-images/acer-palmatum-tana/02-acer-palmatum-tana-810558.webp",
       "/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.webp"
     ],
+    "public_user_paths": [],
     "public_cover_path": "/jmac-images/acer-palmatum-tana/03-acer-palmatum-tana-267196.webp",
     "public_paths": [
       "/jmac-images/acer-palmatum-tana/01-acer-palmatum-tana-191460.webp",

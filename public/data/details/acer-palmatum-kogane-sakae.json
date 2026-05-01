@@ -3,7 +3,7 @@
   "canonical_key": "kogane sakae",
   "canonical_name": "Kogane sakae",
   "display_name": "Kogane sakae",
-  "chinese_name": "黄金荣",
+  "chinese_name": null,
   "scientific_name": "Acer palmatum 'Kogane sakae'",
   "species": "Acer palmatum",
   "top_category": null,
@@ -25,9 +25,16 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_user_paths": [
+      "/user-images/acer-palmatum-kogane-sakae/01-kogane.webp",
+      "/user-images/acer-palmatum-kogane-sakae/02-Acer_palmatum_Kogane_sakae_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061028.jpg"
+    ],
+    "public_cover_path": "/user-images/acer-palmatum-kogane-sakae/01-kogane.webp",
+    "public_paths": [
+      "/user-images/acer-palmatum-kogane-sakae/01-kogane.webp",
+      "/user-images/acer-palmatum-kogane-sakae/02-Acer_palmatum_Kogane_sakae_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061028.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -116,5 +123,9 @@
   "descriptions_zh": {
     "preferred": "'Kogane sakae' 意为“golden prosperity（金色繁荣）”，是一种较为罕见的树形品种，以枝干色彩尤其引人注目。 嫩梢和较老枝条为浅绿色，并带有明显的黄绿色区块，这些色斑常以纵向条纹和不规则长条状分布于枝条上。 这种斑纹在较老的主干上也能延续。 春季叶色鲜绿，裂片先端带红色。 秋色从淡橙色到黄色不等。 该品种生长强健，树姿直立，成熟后可达 10 至 13 米，是很值得收藏的品种。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "user_images": [
+    "Resource/园艺/raw/user-images/acer-palmatum-kogane-sakae/01-kogane.webp",
+    "Resource/园艺/raw/user-images/acer-palmatum-kogane-sakae/02-Acer_palmatum_Kogane_sakae_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061028.jpg"
+  ]
 }

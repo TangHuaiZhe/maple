@@ -1,5 +1,4 @@
 import { View, Text } from '@tarojs/components'
-import Taro from '@tarojs/taro'
 import { useCatalog } from '../../hooks/useCatalog'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
@@ -40,13 +39,6 @@ export default function FavoritesPage() {
         <View className='favorites-empty'>
           <Text className='favorites-empty__title'>{t.favorites.empty}</Text>
           <Text className='favorites-empty__hint'>{t.favorites.emptyHint}</Text>
-          <View
-            className='pill-button'
-            style={{ marginTop: '32rpx' }}
-            onClick={() => Taro.switchTab({ url: '/pages/popular/index' })}
-          >
-            <Text>{t.favorites.browseCatalog}</Text>
-          </View>
         </View>
       ) : (
         <View className='favorites-grid'>

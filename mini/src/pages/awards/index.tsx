@@ -14,6 +14,7 @@ export default function AwardsPage() {
   const [items, setItems] = useState<CatalogItem[]>(() => getCachedAwards() || [])
   const [loading, setLoading] = useState(!getCachedAwards())
   const [error, setError] = useState<string | null>(null)
+  const [visibleCount, setVisibleCount] = useState(20)
 
   useShareAppMessage(() => ({
     title: '日本枫树 - RHS 获奖品种',
@@ -40,6 +41,9 @@ export default function AwardsPage() {
     return () => { mounted = false }
   }, [])
 
+  const visible = items.slice(0, visibleCount)
+  const hasMore = visibleCount < items.length
+
   if (loading && !items.length) {
     return <View className='page-shell'><Text className='status-text'>{t.common.loading}</Text></View>
   }
@@ -64,7 +68,7 @@ export default function AwardsPage() {
       </View>
 
       <View className='awards-grid'>
-        {items.map(item => (
+        {visible.map(item => (
           <CultivarCard
             key={item.id}
             item={item}
@@ -75,6 +79,12 @@ export default function AwardsPage() {
           />
         ))}
       </View>
+
+      {hasMore && (
+        <View className='pill-button' onClick={() => setVisibleCount(c => c + 20)}>
+          <Text>{t.common.loadMore}</Text>
+        </View>
+      )}
     </View>
   )
 }

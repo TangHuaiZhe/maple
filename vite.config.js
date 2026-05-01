@@ -8,6 +8,7 @@ import react from "@vitejs/plugin-react";
 const execFileAsync = promisify(execFile);
 const appRoot = process.cwd();
 const enhancedJson = path.join(appRoot, "data-source/Resource/园艺/raw/merged-cultivars-with-rhs.json");
+const userImagesRoot = path.join(appRoot, "data-source/Resource/园艺/raw/user-images");
 let saveQueue = Promise.resolve();
 
 function normalizeBasePath(value) {
@@ -45,11 +46,130 @@ async function loadRawRecords() {
   return JSON.parse(raw);
 }
 
+function parseMultipart(body, boundary) {
+  const files = [];
+  const boundaryBuffer = Buffer.from(`--${boundary}`);
+  const parts = [];
+  let start = 0;
+
+  while (true) {
+    const idx = body.indexOf(boundaryBuffer, start);
+    if (idx < 0) break;
+    if (start > 0) {
+      parts.push(body.slice(start, idx - 2)); // -2 for \r\n before boundary
+    }
+    start = idx + boundaryBuffer.length + 2; // +2 for \r\n after boundary
+  }
+
+  for (const part of parts) {
+    const headerEnd = part.indexOf("\r\n\r\n");
+    if (headerEnd < 0) continue;
+
+    const headers = part.slice(0, headerEnd).toString("utf8");
+    const data = part.slice(headerEnd + 4);
+
+    const filenameMatch = headers.match(/filename="([^"]+)"/);
+    if (!filenameMatch) continue;
+
+    files.push({ filename: filenameMatch[1], data });
+  }
+
+  return files;
+}
+
 function devRecordEditorPlugin() {
   return {
     name: "dev-record-editor",
     configureServer(server) {
       server.middlewares.use(async (req, res, next) => {
+        // Image upload endpoint
+        if (req.url?.startsWith("/__dev/upload-image/") && req.method === "POST") {
+          const url = new URL(req.url, "http://127.0.0.1");
+          const id = decodeURIComponent(url.pathname.replace(/^\/__dev\/upload-image\//, ""));
+
+          if (!id) {
+            sendJson(res, 400, { error: "Missing cultivar id" });
+            return;
+          }
+
+          try {
+            const chunks = [];
+            let totalSize = 0;
+
+            await new Promise((resolve, reject) => {
+              req.on("data", (chunk) => {
+                totalSize += chunk.length;
+                if (totalSize > 20 * 1024 * 1024) {
+                  reject(new Error("Upload too large (max 20MB)"));
+                  return;
+                }
+                chunks.push(chunk);
+              });
+              req.on("end", resolve);
+              req.on("error", reject);
+            });
+
+            const body = Buffer.concat(chunks);
+            const boundary = req.headers["content-type"]?.match(/boundary=(.+)/)?.[1];
+
+            if (!boundary) {
+              sendJson(res, 400, { error: "Missing multipart boundary" });
+              return;
+            }
+
+            const files = parseMultipart(body, boundary);
+
+            if (!files.length) {
+              sendJson(res, 400, { error: "No files uploaded" });
+              return;
+            }
+
+            const targetDir = path.join(userImagesRoot, id);
+            await fs.mkdir(targetDir, { recursive: true });
+
+            const existing = await fs.readdir(targetDir).catch(() => []);
+            let nextIndex = existing.length + 1;
+
+            const uploadedPaths = [];
+
+            for (const file of files) {
+              const ext = path.extname(file.filename) || ".jpg";
+              const baseName = path.basename(file.filename, ext).replace(/[^a-zA-Z0-9_-]/g, "_");
+              const fileName = `${String(nextIndex).padStart(2, "0")}-${baseName}${ext}`;
+              await fs.writeFile(path.join(targetDir, fileName), file.data);
+              uploadedPaths.push(`Resource/园艺/raw/user-images/${id}/${fileName}`);
+              nextIndex++;
+            }
+
+            // Update raw record
+            const task = saveQueue.then(async () => {
+              const records = await loadRawRecords();
+              const index = records.findIndex((item) => item.id === id);
+
+              if (index < 0) {
+                throw new Error(`Cultivar not found: ${id}`);
+              }
+
+              const record = records[index];
+              record.user_images = [...(record.user_images || []), ...uploadedPaths];
+              records[index] = record;
+
+              await fs.writeFile(enhancedJson, JSON.stringify(records, null, 2), "utf8");
+              await execFileAsync(process.execPath, ["./scripts/sync-data.mjs"], { cwd: appRoot });
+
+              return uploadedPaths;
+            });
+
+            saveQueue = task.catch(() => {});
+            const paths = await task;
+            sendJson(res, 200, { ok: true, paths });
+            return;
+          } catch (error) {
+            sendJson(res, 500, { error: error.message || "Upload failed" });
+            return;
+          }
+        }
+
         if (!req.url?.startsWith("/__dev/record/")) {
           next();
           return;

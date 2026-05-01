@@ -3,7 +3,7 @@
   "canonical_key": "ornatum",
   "canonical_name": "Ornatum",
   "display_name": "Ornatum",
-  "chinese_name": "赤鹫尾",
+  "chinese_name": null,
   "scientific_name": "Acer palmatum 'Ornatum'",
   "species": "Acer palmatum",
   "top_category": null,
@@ -28,6 +28,7 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
+    "public_user_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-ornatum-momiji_kaede/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG",
     "public_paths": [
       "/rhs-images/acer-palmatum-ornatum/01-acer_palmatum_dissectum_Ornatum_(JW)_9299.JPG",

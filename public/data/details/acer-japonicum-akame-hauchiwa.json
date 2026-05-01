@@ -21,9 +21,22 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_user_paths": [
+      "/user-images/acer-japonicum-akame-hauchiwa/01-IMG_1228.JPG",
+      "/user-images/acer-japonicum-akame-hauchiwa/02-IMG_1227.JPG",
+      "/user-images/acer-japonicum-akame-hauchiwa/03-IMG_1226.JPG",
+      "/user-images/acer-japonicum-akame-hauchiwa/04-IMG_1225.JPG",
+      "/user-images/acer-japonicum-akame-hauchiwa/05-IMG_1224.JPG"
+    ],
+    "public_cover_path": "/user-images/acer-japonicum-akame-hauchiwa/01-IMG_1228.JPG",
+    "public_paths": [
+      "/user-images/acer-japonicum-akame-hauchiwa/01-IMG_1228.JPG",
+      "/user-images/acer-japonicum-akame-hauchiwa/02-IMG_1227.JPG",
+      "/user-images/acer-japonicum-akame-hauchiwa/03-IMG_1226.JPG",
+      "/user-images/acer-japonicum-akame-hauchiwa/04-IMG_1225.JPG",
+      "/user-images/acer-japonicum-akame-hauchiwa/05-IMG_1224.JPG"
+    ],
+    "public_count": 5
   },
   "sources": [
     {
@@ -121,5 +134,12 @@
   "descriptions_zh": {
     "preferred": "大叶羽团扇品种，由日本中 嶋 久夫先生于 1988 年在 日本神奈川县大 磯 町获得，具体出处不详，春天初 芽为黄绿色，叶尖偶有橙红色，叶面上有银白色的 绒毛，叶柄亦有毛，春叶为赤茶色，夏季转为深绿色， 但是新稍颜色为赤茶色，色彩对比明显，秋天会有 丰富的色彩，橙红色，红色，橙黄色和黄色，色彩斑斓。 生长健壮，可全日照，夏季午后适当遮阴，成年株 可达 3 米左右高度。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "user_images": [
+    "Resource/园艺/raw/user-images/acer-japonicum-akame-hauchiwa/01-IMG_1228.JPG",
+    "Resource/园艺/raw/user-images/acer-japonicum-akame-hauchiwa/02-IMG_1227.JPG",
+    "Resource/园艺/raw/user-images/acer-japonicum-akame-hauchiwa/03-IMG_1226.JPG",
+    "Resource/园艺/raw/user-images/acer-japonicum-akame-hauchiwa/04-IMG_1225.JPG",
+    "Resource/园艺/raw/user-images/acer-japonicum-akame-hauchiwa/05-IMG_1224.JPG"
+  ]
 }

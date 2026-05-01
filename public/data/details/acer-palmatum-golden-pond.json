@@ -3,7 +3,7 @@
   "canonical_key": "golden pond",
   "canonical_name": "Golden Pond",
   "display_name": "Golden Pond",
-  "chinese_name": "金色池塘",
+  "chinese_name": null,
   "scientific_name": "Acer palmatum 'Golden Pond'",
   "species": "Acer palmatum",
   "top_category": null,
@@ -27,6 +27,7 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
+    "public_user_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-golden-pond/01-Web_Use-_KOT4620_12970.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-golden-pond/01-Web_Use-_KOT4620_12970.jpg"

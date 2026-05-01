@@ -3,11 +3,11 @@
   "canonical_key": "akegarasu",
   "canonical_name": "Akegarasu",
   "display_name": "Akegarasu",
-  "chinese_name": null,
+  "chinese_name": "",
   "scientific_name": "Acer palmatum 'Akegarasu'",
   "species": "Acer palmatum",
-  "top_category": null,
-  "web_group": null,
+  "top_category": "",
+  "web_group": "",
   "book_groups": [
     "Amoenum"
   ],
@@ -25,9 +25,22 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_user_paths": [
+      "/user-images/acer-palmatum-akegarasu/01-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059696.webp",
+      "/user-images/acer-palmatum-akegarasu/02-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059693.webp",
+      "/user-images/acer-palmatum-akegarasu/03-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059690.webp",
+      "/user-images/acer-palmatum-akegarasu/04-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059687.webp",
+      "/user-images/acer-palmatum-akegarasu/05-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059684.webp"
+    ],
+    "public_cover_path": "/user-images/acer-palmatum-akegarasu/01-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059696.webp",
+    "public_paths": [
+      "/user-images/acer-palmatum-akegarasu/01-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059696.webp",
+      "/user-images/acer-palmatum-akegarasu/02-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059693.webp",
+      "/user-images/acer-palmatum-akegarasu/03-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059690.webp",
+      "/user-images/acer-palmatum-akegarasu/04-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059687.webp",
+      "/user-images/acer-palmatum-akegarasu/05-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059684.webp"
+    ],
+    "public_count": 5
   },
   "sources": [
     {
@@ -137,5 +150,12 @@
   "descriptions_zh": {
     "preferred": "叶片较大，深裂为 5 至 7 枚宽卵形至椭圆形裂片，先端极尖，边缘具锯齿。 生长季早期叶色为极深的紫红色，夏季转为古铜绿色。 与其他红叶类型一样，在遮阴条件下栽培时色彩浓度会减弱。 叶柄深红，枝条绿色。 这一强健、直立生长的枫树成熟时至少可达 16 英尺（5 米）。 随着生长常扩展成宽顶、较矮的小乔木。 其耐寒且容易栽培。 名称意为“黎明时的乌鸦”。 另有一段可辨识内容为 Acer tschonoskii 的描述：这是一种优雅的小型蛇皮槭，原产日本，生于海拔约 4550-8125 英尺（1400-1500 米）的亚高山林地。 植株可形成大型灌木或小乔木，高约 16-23 英尺（5-7 米），适合配置于混合景观中。 叶片较小，近圆形，浅裂 5 裂，边缘具很粗的锯齿，先端短尖；叶面绿色，叶背带锈褐色毛。 秋色为黄色至金黄色，有时略带粉色，但不算特别出众。 该种是最容易栽培、最耐寒、适应性也较强的槭树之一，但不喜碱性土壤。 其后原文主要为耐寒分区图、苗圃名录、术语表、参考书目与索引，且 OCR 噪声较重，此处不作臆测性逐项展开。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "user_images": [
+    "Resource/园艺/raw/user-images/acer-palmatum-akegarasu/01-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059696.webp",
+    "Resource/园艺/raw/user-images/acer-palmatum-akegarasu/02-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059693.webp",
+    "Resource/园艺/raw/user-images/acer-palmatum-akegarasu/03-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059690.webp",
+    "Resource/园艺/raw/user-images/acer-palmatum-akegarasu/04-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059687.webp",
+    "Resource/园艺/raw/user-images/acer-palmatum-akegarasu/05-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059684.webp"
+  ]
 }

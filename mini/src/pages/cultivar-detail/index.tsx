@@ -76,6 +76,13 @@ export default function CultivarDetailPage() {
       <View className='detail-page__stack'>
         <InfoSection title={t.detail.basicInfo} rows={basicRows} />
 
+        <GalleryGrid
+          title={t.detail.gallery}
+          images={images}
+          loadMoreLabel={t.common.loadMore}
+          noImageLabel={t.common.noImage}
+        />
+
         <DescriptionBlock
           summaryLabel={t.detail.summaryLabel}
           fullLabel={t.detail.fullLabel}
@@ -87,13 +94,6 @@ export default function CultivarDetailPage() {
         {rhsRows.length > 0 && (
           <InfoSection title={t.detail.rhsInfo} rows={rhsRows} />
         )}
-
-        <GalleryGrid
-          title={t.detail.gallery}
-          images={images}
-          loadMoreLabel={t.common.loadMore}
-          noImageLabel={t.common.noImage}
-        />
       </View>
     </View>
   )

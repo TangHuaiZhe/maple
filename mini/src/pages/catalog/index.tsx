@@ -1,6 +1,6 @@
-import { useState } from 'react'
+import { useState, useMemo, useCallback } from 'react'
 import { View, Text, Input } from '@tarojs/components'
-import { useShareAppMessage } from '@tarojs/taro'
+import { useShareAppMessage, usePullDownRefresh, stopPullDownRefresh } from '@tarojs/taro'
 import { useCatalog } from '../../hooks/useCatalog'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
@@ -11,7 +11,16 @@ import { matchesCatalogKeyword } from '../../utils/text'
 import { UI_STRINGS } from '../../utils/locale'
 import './index.scss'
 
-const PAGE_SIZE = 48
+const PAGE_SIZE = 20
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = arr.slice()
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
 
 export default function CatalogPage() {
   const { items, loading, error } = useCatalog()
@@ -25,14 +34,30 @@ export default function CatalogPage() {
   const [keyword, setKeyword] = useState('')
   const debouncedKeyword = useDebouncedValue(keyword)
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
+  const [seed, setSeed] = useState(0)
 
   const t = UI_STRINGS[locale]
 
+  const shuffled = useMemo(() => {
+    void seed // dependency to trigger re-shuffle
+    const withImage = items.filter(i => i.image_count > 0)
+    const noImage = items.filter(i => !i.image_count)
+    return [...shuffle(withImage), ...shuffle(noImage)]
+  }, [items, seed])
+
   const filtered = debouncedKeyword
-    ? items.filter(item => matchesCatalogKeyword(item, debouncedKeyword))
-    : items
+    ? shuffled.filter(item => matchesCatalogKeyword(item, debouncedKeyword))
+    : shuffled
   const visible = filtered.slice(0, visibleCount)
   const hasMore = visibleCount < filtered.length
+
+  const handleRefresh = useCallback(() => {
+    setSeed(s => s + 1)
+    setVisibleCount(PAGE_SIZE)
+    stopPullDownRefresh()
+  }, [])
+
+  usePullDownRefresh(handleRefresh)
 
   if (loading && !items.length) {
     return <View className='page-shell'><Text className='status-text'>{t.common.loading}</Text></View>

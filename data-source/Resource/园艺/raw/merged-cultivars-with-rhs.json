@@ -3739,7 +3739,14 @@
     "descriptions_zh": {
       "preferred": "大叶羽团扇品种，由日本中 嶋 久夫先生于 1988 年在 日本神奈川县大 磯 町获得，具体出处不详，春天初 芽为黄绿色，叶尖偶有橙红色，叶面上有银白色的 绒毛，叶柄亦有毛，春叶为赤茶色，夏季转为深绿色， 但是新稍颜色为赤茶色，色彩对比明显，秋天会有 丰富的色彩，橙红色，红色，橙黄色和黄色，色彩斑斓。 生长健壮，可全日照，夏季午后适当遮阴，成年株 可达 3 米左右高度。"
     },
-    "has_mrmaple": false
+    "has_mrmaple": false,
+    "user_images": [
+      "Resource/园艺/raw/user-images/acer-japonicum-akame-hauchiwa/01-IMG_1228.JPG",
+      "Resource/园艺/raw/user-images/acer-japonicum-akame-hauchiwa/02-IMG_1227.JPG",
+      "Resource/园艺/raw/user-images/acer-japonicum-akame-hauchiwa/03-IMG_1226.JPG",
+      "Resource/园艺/raw/user-images/acer-japonicum-akame-hauchiwa/04-IMG_1225.JPG",
+      "Resource/园艺/raw/user-images/acer-japonicum-akame-hauchiwa/05-IMG_1224.JPG"
+    ]
   },
   {
     "id": "acer-palmatum-akane",
@@ -4002,11 +4009,11 @@
     "canonical_key": "akegarasu",
     "canonical_name": "Akegarasu",
     "display_name": "Akegarasu",
-    "chinese_name": null,
+    "chinese_name": "",
     "scientific_name": "Acer palmatum 'Akegarasu'",
     "species": "Acer palmatum",
-    "top_category": null,
-    "web_group": null,
+    "top_category": "",
+    "web_group": "",
     "book_groups": [
       "Amoenum"
     ],
@@ -4127,7 +4134,14 @@
     "descriptions_zh": {
       "preferred": "叶片较大，深裂为 5 至 7 枚宽卵形至椭圆形裂片，先端极尖，边缘具锯齿。生长季早期叶色为极深的紫红色，夏季转为古铜绿色。与其他红叶类型一样，在遮阴条件下栽培时色彩浓度会减弱。叶柄深红，枝条绿色。这一强健、直立生长的枫树成熟时至少可达 16 英尺（5 米）。随着生长常扩展成宽顶、较矮的小乔木。其耐寒且容易栽培。名称意为“黎明时的乌鸦”。 另有一段可辨识内容为 Acer tschonoskii 的描述：这是一种优雅的小型蛇皮槭，原产日本，生于海拔约 4550-8125 英尺（1400-1500 米）的亚高山林地。植株可形成大型灌木或小乔木，高约 16-23 英尺（5-7 米），适合配置于混合景观中。叶片较小，近圆形，浅裂 5 裂，边缘具很粗的锯齿，先端短尖；叶面绿色，叶背带锈褐色毛。秋色为黄色至金黄色，有时略带粉色，但不算特别出众。该种是最容易栽培、最耐寒、适应性也较强的槭树之一，但不喜碱性土壤。 其后原文主要为耐寒分区图、苗圃名录、术语表、参考书目与索引，且 OCR 噪声较重，此处不作臆测性逐项展开。"
     },
-    "has_mrmaple": false
+    "has_mrmaple": false,
+    "user_images": [
+      "Resource/园艺/raw/user-images/acer-palmatum-akegarasu/01-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059696.webp",
+      "Resource/园艺/raw/user-images/acer-palmatum-akegarasu/02-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059693.webp",
+      "Resource/园艺/raw/user-images/acer-palmatum-akegarasu/03-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059690.webp",
+      "Resource/园艺/raw/user-images/acer-palmatum-akegarasu/04-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059687.webp",
+      "Resource/园艺/raw/user-images/acer-palmatum-akegarasu/05-Acer_palmatum_Kansai_akegarasu_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059684.webp"
+    ]
   },
   {
     "id": "acer-pictum-akikaze-nishiki",
@@ -42584,7 +42598,14 @@
       },
       "description": "小型落叶乔木，高约 2 米、宽约 1 米。叶片细裂，7 裂，春季萌发时呈明亮的粉红红色，随后色调转柔，并逐渐显现绿色和乳白色的斑纹。夏季叶片转为浓绿色，并带不规则乳白色条斑；秋季则变为火焰般的粉红红色。"
     },
-    "has_mrmaple": false
+    "has_mrmaple": false,
+    "user_images": [
+      "Resource/园艺/raw/user-images/acer-palmatum-extravaganza/01-IMG_1229.JPG",
+      "Resource/园艺/raw/user-images/acer-palmatum-extravaganza/02-IMG_1233.JPG",
+      "Resource/园艺/raw/user-images/acer-palmatum-extravaganza/03-IMG_1232.JPG",
+      "Resource/园艺/raw/user-images/acer-palmatum-extravaganza/04-IMG_1231.JPG",
+      "Resource/园艺/raw/user-images/acer-palmatum-extravaganza/05-IMG_1230.JPG"
+    ]
   },
   {
     "id": "acer-palmatum-fairy-hair",
@@ -78094,7 +78115,11 @@
     "descriptions_zh": {
       "preferred": "'Kogane sakae' 意为“golden prosperity（金色繁荣）”，是一种较为罕见的树形品种，以枝干色彩尤其引人注目。嫩梢和较老枝条为浅绿色，并带有明显的黄绿色区块，这些色斑常以纵向条纹和不规则长条状分布于枝条上。这种斑纹在较老的主干上也能延续。春季叶色鲜绿，裂片先端带红色。秋色从淡橙色到黄色不等。该品种生长强健，树姿直立，成熟后可达 10 至 13 米，是很值得收藏的品种。"
     },
-    "has_mrmaple": false
+    "has_mrmaple": false,
+    "user_images": [
+      "Resource/园艺/raw/user-images/acer-palmatum-kogane-sakae/01-kogane.webp",
+      "Resource/园艺/raw/user-images/acer-palmatum-kogane-sakae/02-Acer_palmatum_Kogane_sakae_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061028.jpg"
+    ]
   },
   {
     "id": "acer-palmatum-koi",

@@ -1,10 +1,13 @@
-import { View, Text } from '@tarojs/components'
+import { useState } from 'react'
+import { View, Text, Input } from '@tarojs/components'
 import { useShareAppMessage } from '@tarojs/taro'
 import { useCatalog } from '../../hooks/useCatalog'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
+import { useDebouncedValue } from '../../hooks/useDebouncedValue'
 import { CultivarCard } from '../../components/CultivarCard'
 import { LocaleSwitch } from '../../components/LocaleSwitch'
+import { matchesCatalogKeyword } from '../../utils/text'
 import { UI_STRINGS } from '../../utils/locale'
 import POPULAR_IDS from './popular-ids.json'
 import './index.scss'
@@ -19,11 +22,18 @@ export default function PopularPage() {
     path: '/pages/popular/index'
   }))
 
+  const [keyword, setKeyword] = useState('')
+  const debouncedKeyword = useDebouncedValue(keyword)
+
   const t = UI_STRINGS[locale]
 
   const popularItems = POPULAR_IDS
     .map(id => items.find(item => item.id === id))
     .filter(Boolean)
+
+  const filtered = debouncedKeyword
+    ? items.filter(item => matchesCatalogKeyword(item, debouncedKeyword))
+    : popularItems
 
   if (loading && !items.length) {
     return <View className='page-shell'><Text className='status-text'>{t.common.loading}</Text></View>
@@ -47,23 +57,36 @@ export default function PopularPage() {
           </View>
           <LocaleSwitch />
         </View>
+        <View className='catalog-search'>
+          <Input
+            className='catalog-search__input'
+            type='text'
+            placeholder={t.catalog.searchPlaceholder}
+            value={keyword}
+            onInput={e => setKeyword(e.detail.value)}
+          />
+        </View>
         <Text className='meta-chip' style={{ marginTop: '16rpx' }}>
-          {popularItems.length}{t.common.items}
+          {filtered.length}{t.common.items}
         </Text>
       </View>
 
-      <View className='popular-grid'>
-        {popularItems.map(item => (
-          <CultivarCard
-            key={item!.id}
-            item={item!}
-            locale={locale}
-            noImageLabel={t.common.noImage}
-            isFavorite={isFavorite(item!.id)}
-            onToggleFavorite={toggleFavorite}
-          />
-        ))}
-      </View>
+      {filtered.length === 0 ? (
+        <Text className='status-text'>{t.catalog.noResults}</Text>
+      ) : (
+        <View className='popular-grid'>
+          {filtered.map(item => (
+            <CultivarCard
+              key={item!.id}
+              item={item!}
+              locale={locale}
+              noImageLabel={t.common.noImage}
+              isFavorite={isFavorite(item!.id)}
+              onToggleFavorite={toggleFavorite}
+            />
+          ))}
+        </View>
+      )}
     </View>
   )
 }

@@ -636,6 +636,7 @@ function getVisibleImagePaths(item) {
     ...(item?.images?.public_ncsu_paths || []),
     ...(item?.images?.public_conifer_paths || []),
     ...(item?.images?.public_jmac_paths || []),
+    ...(item?.images?.public_user_paths || []),
   ]);
 }
 
@@ -1433,7 +1434,7 @@ function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite }) {
     const params = new URLSearchParams();
     if (query) params.set("q", query);
     if (category !== SEARCH_ALL_VALUE) params.set("category", category);
-    navigate({ pathname: "/", search: params.toString() }, { replace: true });
+    navigate({ pathname: "/catalog", search: params.toString() }, { replace: true });
   }, [query, category, navigate]);
 
   const normalizedQuery = normalizeSearchText(deferredQuery);
@@ -1574,6 +1575,8 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
   const [editorDraft, setEditorDraft] = useState("");
   const [editorState, setEditorState] = useState("idle");
   const [editorMessage, setEditorMessage] = useState("");
+  const [uploadState, setUploadState] = useState("idle");
+  const [uploadMessage, setUploadMessage] = useState("");
   const previewImages = item ? uniqueValues([getVisibleCover(item), ...getVisibleImagePaths(item)]) : [];
   const galleryImages = item ? getVisibleImagePaths(item) : [];
   const visibleGalleryImages = galleryImages.slice(0, visibleImageCount);
@@ -1777,6 +1780,38 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
     }
   }
 
+  async function handleImageUpload(event) {
+    const files = event.target.files;
+    if (!files || !files.length) return;
+
+    setUploadState("uploading");
+    setUploadMessage("");
+
+    try {
+      const formData = new FormData();
+      for (const file of files) {
+        formData.append("images", file, file.name);
+      }
+
+      const res = await fetch(`/__dev/upload-image/${encodeURIComponent(id)}`, {
+        method: "POST",
+        body: formData,
+      });
+
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || "Upload failed");
+
+      const nextItem = await loadCultivar(id);
+      setItem(nextItem);
+      setUploadState("done");
+      setUploadMessage(`已上传 ${files.length} 张图片`);
+      event.target.value = "";
+    } catch (err) {
+      setUploadState("error");
+      setUploadMessage(err.message);
+    }
+  }
+
   return (
     <>
       <div className="page-shell detail-shell">
@@ -1914,6 +1949,24 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
                 </label>
               </>
             ) : null}
+
+            <div className="dev-editor-upload">
+              <label className="field">
+                <span>{locale === "en" ? "Upload Images" : "上传图片"}</span>
+                <input
+                  type="file"
+                  accept="image/*"
+                  multiple
+                  onChange={handleImageUpload}
+                  disabled={uploadState === "uploading"}
+                />
+              </label>
+              {uploadMessage ? (
+                <p className={`dev-editor-status ${uploadState === "error" ? "error" : "success"}`}>
+                  {uploadMessage}
+                </p>
+              ) : null}
+            </div>
           </section>
         ) : null}
 

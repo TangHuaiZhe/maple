@@ -28,7 +28,7 @@ export default defineAppConfig({
       },
       {
         pagePath: 'pages/catalog/index',
-        text: '品种',
+        text: '探索',
         iconPath: 'assets/tabbar/home.png',
         selectedIconPath: 'assets/tabbar/home-active.png'
       },

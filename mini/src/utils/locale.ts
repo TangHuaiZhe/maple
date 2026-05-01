@@ -68,7 +68,7 @@ export const UI_STRINGS = {
       title: '品种详情',
       basicInfo: '基本信息',
       description: '品种描述',
-      rhsInfo: 'RHS 种植信息',
+      rhsInfo: '养护信息',
       gallery: '图片',
       summaryLabel: '简介',
       fullLabel: '详细描述',

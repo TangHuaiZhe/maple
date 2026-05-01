@@ -2,8 +2,8 @@
   "id": "acer-palmatum-ho-gyoku",
   "canonical_key": "ho gyoku",
   "canonical_name": "Ho\\gyoku",
-  "display_name": "Hogyoku",
-  "chinese_name": "宝玉",
+  "display_name": "Ho\\gyoku",
+  "chinese_name": null,
   "scientific_name": "Acer palmatum 'Ho\\gyoku'",
   "species": "Acer palmatum",
   "top_category": null,
@@ -27,6 +27,7 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
+    "public_user_paths": [],
     "public_cover_path": "/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg",
     "public_paths": [
       "/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg"

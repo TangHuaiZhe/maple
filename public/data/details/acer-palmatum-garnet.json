@@ -3,7 +3,7 @@
   "canonical_key": "garnet",
   "canonical_name": "Garnet",
   "display_name": "Garnet",
-  "chinese_name": "石榴红",
+  "chinese_name": null,
   "scientific_name": "Acer palmatum 'Garnet'",
   "species": "Acer palmatum",
   "top_category": null,
@@ -34,6 +34,7 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
+    "public_user_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-garnet-momiji_kaede/02-elbo39761.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-garnet/01-moja07873.jpg",

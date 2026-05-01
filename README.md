@@ -4,11 +4,12 @@
 
 ## 功能
 
-- **品种目录** — 580 个品种浏览，中英文搜索（含拼音）
-- **流行品种** — 51 个最受欢迎的经典品种
-- **RHS 获奖** — 29 个英国皇家园艺学会推荐品种
+- **品种目录（探索）** — 580 个品种随机浏览，有图优先，支持下拉刷新重新打乱，中英文搜索（含拼音）
+- **流行品种** — 51 个最受欢迎的经典品种，支持全品种搜索
+- **RHS 获奖** — 29 个英国皇家园艺学会推荐品种，分页加载
 - **收藏** — 浏览器 / 小程序本地收藏（无需登录）
-- **品种详情** — RHS 种植信息、多源图片画廊（RHS / Mr Maple / Herter / NCSU / Conifer Kingdom / JMAC）
+- **品种详情** — 养护信息、多源图片画廊（RHS / Mr Maple / Herter / NCSU / Conifer Kingdom / JMAC）
+- **分享** — 小程序支持转发给好友和分享到朋友圈
 - **双语** — 中文 / 英文切换
 
 ## 目录结构
@@ -69,7 +70,9 @@ npm run mini:dev     # 监听模式：修改源文件自动重编译，配合微
 
 在微信开发者工具中打开 `mini/` 目录（`miniprogramRoot` 指向 `dist/`）。
 
-小程序页面：catalog（首页）、popular（流行）、search（筛选）、awards（获奖）、favorites（收藏）、cultivar-detail（详情）
+小程序页面：popular（流行）、catalog（探索）、awards（获奖）、favorites（收藏）、cultivar-detail（详情）
+
+小程序 Tab：流行 / 探索 / RHS 获奖 / 收藏
 
 数据源地址配置：`mini/.env.development` / `mini/.env.production`
 

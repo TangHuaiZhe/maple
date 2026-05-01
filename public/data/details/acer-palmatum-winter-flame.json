@@ -3,7 +3,7 @@
   "canonical_key": "winter flame",
   "canonical_name": "Winter Flame",
   "display_name": "Winter Flame",
-  "chinese_name": "冬日火焰",
+  "chinese_name": null,
   "scientific_name": "Acer palmatum 'Winter Flame'",
   "species": "Acer palmatum",
   "top_category": null,
@@ -28,6 +28,7 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
+    "public_user_paths": [],
     "public_cover_path": "/rhs-images/acer-palmatum-winter-flame/01-Web_Use-_KOT9321%5B1%5D_12300.jpg",
     "public_paths": [
       "/rhs-images/acer-palmatum-winter-flame/01-Web_Use-_KOT9321%5B1%5D_12300.jpg",

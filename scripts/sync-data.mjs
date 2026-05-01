@@ -93,6 +93,10 @@ function toJmacPublicImagePath(imagePath) {
   return toPublicImagePath(imagePath, "Resource/园艺/raw/jmac-images/", "/jmac-images");
 }
 
+function toUserPublicImagePath(imagePath) {
+  return toPublicImagePath(imagePath, "Resource/园艺/raw/user-images/", "/user-images");
+}
+
 function uniquePaths(paths) {
   return [...new Set(paths.filter(Boolean))];
 }
@@ -980,6 +984,9 @@ async function syncJson() {
       public_jmac_paths: uniquePaths(
         (await getEffectiveSourceLocalFiles(record, "jmac")).map((item) => toJmacPublicImagePath(item)),
       ),
+      public_user_paths: uniquePaths(
+        (record.user_images || []).map((item) => toUserPublicImagePath(item)),
+      ),
     },
   })));
   const records = await Promise.all(recordsWithPublicImages.map(async (record) => {
@@ -990,6 +997,7 @@ async function syncJson() {
       ...(record.images.public_ncsu_paths || []),
       ...(record.images.public_conifer_paths || []),
       ...(record.images.public_jmac_paths || []),
+      ...(record.images.public_user_paths || []),
     ]);
     const bestCoverPath = await pickBestCoverPath(record);
     return {
