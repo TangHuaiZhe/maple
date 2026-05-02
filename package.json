@@ -14,6 +14,7 @@
     "test": "node --test src/__tests__/*.test.mjs scripts/__tests__/*.test.mjs",
     "check:data": "node ./scripts/check-data.mjs",
     "check:build": "npm run check:data && npm test && npm run build",
+    "sync-mini-popular-ids": "node ./scripts/sync-mini-popular-ids.mjs",
     "dev": "vite",
     "build": "vite build",
     "build:hosting": "vite build",
@@ -24,8 +25,8 @@
     "deploy:cloudbase:data": "bash ./scripts/deploy-cloudbase-incremental.sh cloud1-d0gq8e1gidc917363 data dist",
     "deploy:cloudbase:user-images": "bash ./scripts/deploy-cloudbase-incremental.sh cloud1-d0gq8e1gidc917363 user-images dist",
     "preview": "vite preview",
-    "mini:dev": "npm --prefix ./mini run dev:weapp",
-    "mini:build": "npm --prefix ./mini run build:weapp"
+    "mini:dev": "npm run sync-mini-popular-ids && npm --prefix ./mini run dev:weapp",
+    "mini:build": "npm run sync-mini-popular-ids && npm --prefix ./mini run build:weapp"
   },
   "keywords": [
     "maple",

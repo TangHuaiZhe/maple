@@ -14,6 +14,7 @@
 - `npm test` — 运行 Node 单元测试
 - `npm run check:data` — 检查 `public/data/` 一致性与图片路径是否存在
 - `npm run check:build` — 数据检查 + 单元测试 + Web 构建
+- `npm run sync-mini-popular-ids` — 从 `public/data/popular-ids.json` 同步小程序流行品种列表
 - `npm run deploy:cloudbase -- cloud1-d0gq8e1gidc917363 / dist` — 部署到腾讯云
 - `npm run deploy:cloudbase:app` — 构建并增量上传 `index.html` 与 `assets`
 - `npm run deploy:cloudbase:data` — 增量上传 `dist/data`
@@ -24,7 +25,7 @@
 
 ## 数据维护
 - `public/data/` 下的 JSON 是最终产物，修改品种信息需同时更新 `catalog.json`、`details/{id}.json`、`merged-cultivars.json`
-- 流行品种 ID 列表：`src/App.jsx` 的 `POPULAR_IDS` 和 `mini/src/pages/popular/index.tsx` 的 `POPULAR_IDS`
+- 流行品种 ID 列表：以 `public/data/popular-ids.json` 为源；小程序副本由 `npm run sync-mini-popular-ids` 同步
 - RHS 获奖列表：`src/App.jsx` 的 `RHS_AWARD_SELECTIONS`
 
 ## 线上图片故障排查

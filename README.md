@@ -33,6 +33,7 @@ scripts/             数据同步与图片抓取脚本（仅在需要从源数�
 `public/data/` 下的 JSON 文件是**最终数据**，直接编辑维护。
 
 - 修改品种中文名：编辑 `catalog.json` + `details/{id}.json` + `merged-cultivars.json`
+- 修改流行品种列表：编辑 `public/data/popular-ids.json`，小程序副本会在 `npm run mini:build` / `npm run mini:dev` 前自动同步
 - `npm run build` / `npm run dev` **不会**自动重新生成数据
 - 如需从源数据重建：`npm run sync-data`（会覆盖手动修改，慎用）
 
