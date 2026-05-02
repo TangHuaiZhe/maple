@@ -47,6 +47,9 @@ npm run dev          # Web 开发服务器
 
 ```bash
 npm run build        # Web 生产构建
+npm test             # 单元测试
+npm run check:data   # 检查数据一致性与图片路径
+npm run check:build  # 数据检查 + 单元测试 + Web 构建
 ```
 
 ## 部署
@@ -58,12 +61,21 @@ npm run build                            # 构建
 npm run deploy:cloudbase -- cloud1-d0gq8e1gidc917363 / dist
 ```
 
+常用增量部署：
+
+```bash
+npm run deploy:cloudbase:app          # 构建并上传 index.html + assets
+npm run deploy:cloudbase:assets       # 只上传 dist/assets
+npm run deploy:cloudbase:data         # 只上传 dist/data
+npm run deploy:cloudbase:user-images  # 只上传 dist/user-images
+```
+
 ### 增量上传图片目录
 
 只新增或修改 `user-images` 图片时，可在 `npm run build` 后单独上传该目录，避免重传整套图片资产：
 
 ```bash
-tcb hosting deploy dist/user-images /user-images -e cloud1-d0gq8e1gidc917363
+npm run deploy:cloudbase:user-images
 ```
 
 ### 线上图片不显示排查流程

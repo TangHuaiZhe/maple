@@ -11,8 +11,13 @@
 ## 开发命令
 - `npm run dev` — 启动 Web 开发服务器
 - `npm run build` — Web 生产构建到 `dist/`
+- `npm test` — 运行 Node 单元测试
+- `npm run check:data` — 检查 `public/data/` 一致性与图片路径是否存在
+- `npm run check:build` — 数据检查 + 单元测试 + Web 构建
 - `npm run deploy:cloudbase -- cloud1-d0gq8e1gidc917363 / dist` — 部署到腾讯云
-- `tcb hosting deploy dist/user-images /user-images -e cloud1-d0gq8e1gidc917363` — 增量上传用户图片目录（先运行 `npm run build`）
+- `npm run deploy:cloudbase:app` — 构建并增量上传 `index.html` 与 `assets`
+- `npm run deploy:cloudbase:data` — 增量上传 `dist/data`
+- `npm run deploy:cloudbase:user-images` — 增量上传 `dist/user-images`（先运行 `npm run build`）
 - `npm run mini:build` — 构建微信小程序（单次）
 - `npm run mini:dev` — 小程序监听模式：修改 `mini/src/` 源文件后自动重新编译到 `mini/dist/`，配合微信开发者工具实时预览
 - `npm run sync-data` — 从 `data-source/` 重建 `public/data/`（会覆盖手动修改，慎用）
@@ -23,7 +28,7 @@
 - RHS 获奖列表：`src/App.jsx` 的 `RHS_AWARD_SELECTIONS`
 
 ## 线上图片故障排查
-- 本地有图、线上无图时，先 `curl -I -L` 检查线上图片 URL 是否 `200`；若是 `404`，运行 `npm run build` 后用 `tcb hosting deploy dist/user-images /user-images -e cloud1-d0gq8e1gidc917363` 增量上传
+- 本地有图、线上无图时，先 `curl -I -L` 检查线上图片 URL 是否 `200`；若是 `404`，运行 `npm run build` 后用 `npm run deploy:cloudbase:user-images` 增量上传
 - 若图片 URL 已是 `200` 但页面仍不显示，检查线上详情 JSON 是否包含 `public_user_paths` / `public_cover_path`
 - 旧 `404` 可能被浏览器/CDN 缓存；此时在 `src/App.jsx` 中确保 `shouldAppendCacheBust()` 包含 `user-images`，`resolveRecordAssetPaths()` 的 `imageKeys` 包含 `public_user_paths`，并递增 `DEPLOY_CACHE_BUST`
 - cache-bust 修改后运行 `npm run build`，至少部署 `dist/assets` 和根 `index.html`；用 `curl -s -H 'Cache-Control: no-cache' <线上首页>` 验证入口 JS 已更新
