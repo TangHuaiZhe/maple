@@ -51,6 +51,7 @@ npm run build        # Web 生产构建
 npm test             # 单元测试
 npm run check:data   # 检查数据一致性与图片路径
 npm run check:build  # 数据检查 + 单元测试 + Web 构建
+npm run image:audit  # 审计图片体积、超大文件、未引用图片
 ```
 
 ## 部署

@@ -14,6 +14,7 @@
     "test": "node --test src/__tests__/*.test.mjs scripts/__tests__/*.test.mjs",
     "check:data": "node ./scripts/check-data.mjs",
     "check:build": "npm run check:data && npm test && npm run build",
+    "image:audit": "node ./scripts/image-audit.mjs",
     "sync-mini-popular-ids": "node ./scripts/sync-mini-popular-ids.mjs",
     "dev": "vite",
     "build": "vite build",

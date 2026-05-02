@@ -14,6 +14,7 @@
 - `npm test` — 运行 Node 单元测试
 - `npm run check:data` — 检查 `public/data/` 一致性与图片路径是否存在
 - `npm run check:build` — 数据检查 + 单元测试 + Web 构建
+- `npm run image:audit` — 审计图片目录体积、超大文件、未引用图片
 - `npm run sync-mini-popular-ids` — 从 `public/data/popular-ids.json` 同步小程序流行品种列表
 - `npm run deploy:cloudbase -- cloud1-d0gq8e1gidc917363 / dist` — 部署到腾讯云
 - `npm run deploy:cloudbase:app` — 构建并增量上传 `index.html` 与 `assets`
