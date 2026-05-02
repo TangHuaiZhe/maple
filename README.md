@@ -58,6 +58,54 @@ npm run build                            # 构建
 npm run deploy:cloudbase -- cloud1-d0gq8e1gidc917363 / dist
 ```
 
+### 增量上传图片目录
+
+只新增或修改 `user-images` 图片时，可在 `npm run build` 后单独上传该目录，避免重传整套图片资产：
+
+```bash
+tcb hosting deploy dist/user-images /user-images -e cloud1-d0gq8e1gidc917363
+```
+
+### 线上图片不显示排查流程
+
+如果本地图片正常、线上详情页不显示图片，按下面顺序排查：
+
+1. 确认线上图片文件是否存在：
+
+   ```bash
+   curl -I -L 'https://cloud1-d0gq8e1gidc917363-1309536005.tcloudbaseapp.com/user-images/{id}/01-example.webp'
+   ```
+
+   若返回 `404`，先运行 `npm run build`，再执行上面的 `dist/user-images` 增量上传命令。
+
+2. 确认线上详情 JSON 已指向图片：
+
+   ```bash
+   curl -s 'https://cloud1-d0gq8e1gidc917363-1309536005.tcloudbaseapp.com/data/details/{id}.json' | rg 'user-images|public_user_paths|public_cover_path'
+   ```
+
+3. 如果图片 URL 已经返回 `200`，但页面仍不显示，多半是浏览器/CDN 缓存过旧的 `404`。检查 `src/App.jsx`：
+   - `shouldAppendCacheBust()` 必须包含 `user-images`
+   - `resolveRecordAssetPaths()` 的 `imageKeys` 必须包含 `public_user_paths`
+   - 更新 `DEPLOY_CACHE_BUST`，例如 `20260502-1`
+
+4. 重新构建并部署入口与资源：
+
+   ```bash
+   npm run build
+   tcb hosting deploy dist/assets /assets -e cloud1-d0gq8e1gidc917363
+   tmp_dir="$(mktemp -d)" && cp dist/index.html "$tmp_dir/" && tcb hosting deploy "$tmp_dir" / -e cloud1-d0gq8e1gidc917363 && rm -rf "$tmp_dir"
+   ```
+
+5. 验证线上入口和带版本参数的图片：
+
+   ```bash
+   curl -s -H 'Cache-Control: no-cache' 'https://cloud1-d0gq8e1gidc917363-1309536005.tcloudbaseapp.com/?probe=1' | rg 'assets/index-.*\.js'
+   curl -I -L 'https://cloud1-d0gq8e1gidc917363-1309536005.tcloudbaseapp.com/user-images/{id}/01-example.webp?v=20260502-1'
+   ```
+
+   若裸首页仍短暂返回旧 JS，可等待 CDN 刷新；必要时临时把新 JS 内容覆盖到旧的 `assets/index-*.js` 文件名。
+
 ## 微信小程序
 
 小程序位于 `mini/`，技术栈 Taro 4.2.0 + React 18 + TypeScript。

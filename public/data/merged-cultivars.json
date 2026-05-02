@@ -32669,10 +32669,22 @@
       "public_ncsu_paths": [],
       "public_conifer_paths": [],
       "public_jmac_paths": [],
-      "public_user_paths": [],
-      "public_cover_path": null,
-      "public_paths": [],
-      "public_count": 0
+      "public_user_paths": [
+        "/user-images/acer-palmatum-coral-pink/01-Acer_palmatum_Coral_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048321.jpg",
+        "/user-images/acer-palmatum-coral-pink/02-5646901853_8ec7679016_b.jpg",
+        "/user-images/acer-palmatum-coral-pink/03-coralpink55_9753c7e0-d4c2-4ab6-96be-fe6277a77683.jpg",
+        "/user-images/acer-palmatum-coral-pink/04-coralpink4_ca76faab-1e37-4b05-9a13-572cebb9c5fc.jpg",
+        "/user-images/acer-palmatum-coral-pink/05-Acer_palmatum_Coral_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048330.webp"
+      ],
+      "public_cover_path": "/user-images/acer-palmatum-coral-pink/01-Acer_palmatum_Coral_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048321.jpg",
+      "public_paths": [
+        "/user-images/acer-palmatum-coral-pink/01-Acer_palmatum_Coral_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048321.jpg",
+        "/user-images/acer-palmatum-coral-pink/02-5646901853_8ec7679016_b.jpg",
+        "/user-images/acer-palmatum-coral-pink/03-coralpink55_9753c7e0-d4c2-4ab6-96be-fe6277a77683.jpg",
+        "/user-images/acer-palmatum-coral-pink/04-coralpink4_ca76faab-1e37-4b05-9a13-572cebb9c5fc.jpg",
+        "/user-images/acer-palmatum-coral-pink/05-Acer_palmatum_Coral_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048330.webp"
+      ],
+      "public_count": 5
     },
     "sources": [
       {
@@ -32776,7 +32788,14 @@
     "descriptions_zh": {
       "preferred": "这一可爱的矮小慢生品种在春季尤为出色，醒目的浅珊瑚粉色新叶以及纤细的粉红至红色新梢和叶柄极具观赏性。 叶片随后先转为带粉边的微黄色，再变为浅绿色，初夏常带有较浅的灰绿色斑驳锦斑。 该品种与 'Wilson's Pink Dwarf' 相似，但春季粉色调明显不同，且比 'Corallinum' 的粉色更浅、更柔和。 叶片属 Palmatum Group，5 裂，偶有 7 裂，裂刻较深，长宽均为 4. 5-6 厘米。 裂片呈卵状三角形至长卵形，先端具长尾状尖，分裂深度达叶基的三分之二至四分之三。 裂片长 3-3. 5 厘米，在中部最宽处宽 1-2 厘米，至裂片结合处收窄至 6-13 毫米。 叶缘具不规则且非常粗重的重锯齿。 纤细的粉色至黄绿色叶柄长 1-4 厘米。 约于 1965 年在 Corvallis 被发现，经过多年观察后，于 1985 年由荷兰 Boskoop 的 Firma C. Esveld 的 Cor van Gelderen 命名并繁殖。 该品种繁殖成功较为困难，曾以"
     },
-    "has_mrmaple": false
+    "has_mrmaple": false,
+    "user_images": [
+      "Resource/园艺/raw/user-images/acer-palmatum-coral-pink/01-Acer_palmatum_Coral_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048321.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-coral-pink/02-5646901853_8ec7679016_b.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-coral-pink/03-coralpink55_9753c7e0-d4c2-4ab6-96be-fe6277a77683.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-coral-pink/04-coralpink4_ca76faab-1e37-4b05-9a13-572cebb9c5fc.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-coral-pink/05-Acer_palmatum_Coral_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048330.webp"
+    ]
   },
   {
     "id": "acer-palmatum-corallinum",

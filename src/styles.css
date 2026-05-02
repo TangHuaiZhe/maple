@@ -1130,6 +1130,21 @@ textarea {
   margin-top: 6px;
 }
 
+.dev-editor-upload-option {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.dev-editor-upload-option input {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--accent);
+}
+
 /* ===========================
    19. Responsive (Tablet)
    =========================== */

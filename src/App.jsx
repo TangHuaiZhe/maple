@@ -9,6 +9,7 @@ import {
   useNavigate,
   useParams,
 } from "react-router-dom";
+import { prepareImageFilesForUpload } from "./imageUpload.mjs";
 
 const latinCollator = new Intl.Collator("en", { numeric: true, sensitivity: "base" });
 const chineseCollator = new Intl.Collator("zh-Hans-CN", { numeric: true, sensitivity: "base" });
@@ -17,7 +18,7 @@ const DETAIL_GALLERY_PAGE_SIZE = 10;
 const SEARCH_ALL_VALUE = "__all__";
 const DEV_EDITOR_ENABLED = import.meta.env.DEV;
 const APP_BASE_URL = import.meta.env.BASE_URL || "/";
-const DEPLOY_CACHE_BUST = "20260419-1";
+const DEPLOY_CACHE_BUST = "20260502-1";
 const FAVORITES_STORAGE_KEY = "maple-favorites";
 const DESCRIPTION_NOISE_MARKERS = [
   /pointer-events-auto/i,
@@ -394,7 +395,7 @@ function resolveAppUrl(value) {
 }
 
 function shouldAppendCacheBust(value) {
-  return /^\/?(data|rhs-images|mrmaple-images|herter-images|ncsu-images|coniferkingdom-images|jmac-images)\//.test(String(value || ""));
+  return /^\/?(data|rhs-images|mrmaple-images|herter-images|ncsu-images|coniferkingdom-images|jmac-images|user-images)\//.test(String(value || ""));
 }
 
 function appendCacheBust(url) {
@@ -415,6 +416,7 @@ function resolveRecordAssetPaths(record) {
     "public_ncsu_paths",
     "public_conifer_paths",
     "public_jmac_paths",
+    "public_user_paths",
   ];
 
   const nextImages = record.images
@@ -1577,6 +1579,7 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
   const [editorMessage, setEditorMessage] = useState("");
   const [uploadState, setUploadState] = useState("idle");
   const [uploadMessage, setUploadMessage] = useState("");
+  const [compressUploads, setCompressUploads] = useState(true);
   const previewImages = item ? uniqueValues([getVisibleCover(item), ...getVisibleImagePaths(item)]) : [];
   const galleryImages = item ? getVisibleImagePaths(item) : [];
   const visibleGalleryImages = galleryImages.slice(0, visibleImageCount);
@@ -1591,6 +1594,8 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
         close: "Close",
         reset: "Reset",
         save: "Save",
+        uploadImages: "Upload Images",
+        compressUploads: "Compress images before upload",
         loading: "Loading editable JSON…",
         saving: "Saving…",
         saved: "Saved. Raw data updated and public data regenerated.",
@@ -1605,6 +1610,8 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
         close: "关闭",
         reset: "重置",
         save: "保存",
+        uploadImages: "上传图片",
+        compressUploads: "上传前自动压缩图片",
         loading: "正在加载可编辑 JSON…",
         saving: "正在保存…",
         saved: "保存完成，raw 数据与前端生成数据都已更新。",
@@ -1789,7 +1796,9 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
 
     try {
       const formData = new FormData();
-      for (const file of files) {
+      const uploadFiles = await prepareImageFilesForUpload(files, { compress: compressUploads });
+
+      for (const file of uploadFiles) {
         formData.append("images", file, file.name);
       }
 
@@ -1804,7 +1813,7 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
       const nextItem = await loadCultivar(id);
       setItem(nextItem);
       setUploadState("done");
-      setUploadMessage(`已上传 ${files.length} 张图片`);
+      setUploadMessage(`已上传 ${uploadFiles.length} 张图片`);
       event.target.value = "";
     } catch (err) {
       setUploadState("error");
@@ -1952,7 +1961,7 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
 
             <div className="dev-editor-upload">
               <label className="field">
-                <span>{locale === "en" ? "Upload Images" : "上传图片"}</span>
+                <span>{devEditorText.uploadImages}</span>
                 <input
                   type="file"
                   accept="image/*"
@@ -1960,6 +1969,15 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
                   onChange={handleImageUpload}
                   disabled={uploadState === "uploading"}
                 />
+              </label>
+              <label className="dev-editor-upload-option">
+                <input
+                  type="checkbox"
+                  checked={compressUploads}
+                  onChange={(event) => setCompressUploads(event.target.checked)}
+                  disabled={uploadState === "uploading"}
+                />
+                <span>{devEditorText.compressUploads}</span>
               </label>
               {uploadMessage ? (
                 <p className={`dev-editor-status ${uploadState === "error" ? "error" : "success"}`}>

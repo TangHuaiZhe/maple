@@ -87,7 +87,7 @@ for dir_name in assets data; do
   fi
 done
 
-for dir_name in mrmaple-images rhs-images herter-images ncsu-images; do
+for dir_name in mrmaple-images rhs-images herter-images ncsu-images coniferkingdom-images jmac-images user-images; do
   if [[ ! -d "$SOURCE_DIR/$dir_name" ]]; then
     continue
   fi
