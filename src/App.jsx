@@ -1533,6 +1533,11 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
         setStatus("ready");
       })
       .catch((err) => {
+        if (err && err.code === "NOT_FOUND") {
+          setItem(null);
+          setStatus("ready");
+          return;
+        }
         setItem(null);
         setError(err.message);
         setStatus("error");

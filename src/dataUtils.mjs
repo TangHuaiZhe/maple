@@ -235,11 +235,30 @@ export function loadCatalog() {
 }
 
 export function loadCultivar(id) {
-  return fetch(resolveAppUrl(`/data/details/${id}.json`), { cache: "no-store" }).then((response) => {
+  return fetch(resolveAppUrl(`/data/details/${id}.json`), { cache: "no-store" }).then(async (response) => {
+    const contentType = (response.headers.get("content-type") || "").toLowerCase();
     if (!response.ok) {
-      throw new Error("无法加载该品种详情");
+      const error = new Error(response.status === 404 ? "该详情页 ID 不存在于当前数据集中。" : "无法加载该品种详情");
+      if (response.status === 404) {
+        error.code = "NOT_FOUND";
+      }
+      throw error;
     }
-    return response.json().then((record) => resolveRecordAssetPaths(localizeRecord(record)));
+
+    if (!contentType.includes("application/json")) {
+      const error = new Error("该详情页 ID 不存在于当前数据集中。");
+      error.code = "NOT_FOUND";
+      throw error;
+    }
+
+    try {
+      const record = await response.json();
+      return resolveRecordAssetPaths(localizeRecord(record));
+    } catch {
+      const error = new Error("该详情页 ID 不存在于当前数据集中。");
+      error.code = "NOT_FOUND";
+      throw error;
+    }
   });
 }
 
