@@ -110,7 +110,11 @@ export function planThumbnailJobs({
 }) {
   const jobs = [];
 
-  for (const file of imageFiles || []) {
+  const prioritizedImageFiles = [...(imageFiles || [])].sort((a, b) => (
+    b.size - a.size || normalizePublicPath(a.publicPath).localeCompare(normalizePublicPath(b.publicPath))
+  ));
+
+  for (const file of prioritizedImageFiles) {
     const sourcePublicPath = normalizePublicPath(file.publicPath);
 
     if (sourcePublicPath.startsWith("/thumbs/")) {

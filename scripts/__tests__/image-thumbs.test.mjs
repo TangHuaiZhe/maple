@@ -95,6 +95,29 @@ test("planThumbnailJobs can include every source image when requested", () => {
   ]);
 });
 
+test("planThumbnailJobs prioritizes larger source images for limited batches", () => {
+  const jobs = planThumbnailJobs({
+    imageFiles: [
+      { publicPath: "/mrmaple-images/a/small.jpg", filePath: "/repo/public/mrmaple-images/a/small.jpg", size: 300_000 },
+      { publicPath: "/mrmaple-images/a/large.jpg", filePath: "/repo/public/mrmaple-images/a/large.jpg", size: 900_000 },
+    ],
+    referencedPaths: new Set([
+      "/mrmaple-images/a/small.jpg",
+      "/mrmaple-images/a/large.jpg",
+    ]),
+    coverPaths: new Set(),
+    existingThumbPaths: new Set(),
+    publicRoot: "/repo/public",
+    sizes: [480],
+    minSourceBytes: 250_000,
+  });
+
+  assert.deepEqual(jobs.map((job) => job.sourcePublicPath), [
+    "/mrmaple-images/a/large.jpg",
+    "/mrmaple-images/a/small.jpg",
+  ]);
+});
+
 test("createThumbnailManifest includes only available thumbnail sizes for each source", () => {
   const manifest = createThumbnailManifest({
     imageFiles: [
