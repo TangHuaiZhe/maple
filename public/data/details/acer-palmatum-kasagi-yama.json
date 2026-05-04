@@ -27,12 +27,27 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
-    "public_user_paths": [],
+    "public_user_paths": [
+      "/user-images/acer-palmatum-kasagi-yama/01-IMG_1311.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/02-IMG_1307.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/03-IMG_1308.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/04-IMG_1309.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/05-IMG_1305.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/06-IMG_1306.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/07-IMG_1310.jpg"
+    ],
     "public_cover_path": "/herter-images/acer-palmatum-kasagi-yama/01-hnkasagiyamabook-1.jpg",
     "public_paths": [
-      "/herter-images/acer-palmatum-kasagi-yama/01-hnkasagiyamabook-1.jpg"
+      "/herter-images/acer-palmatum-kasagi-yama/01-hnkasagiyamabook-1.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/01-IMG_1311.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/02-IMG_1307.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/03-IMG_1308.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/04-IMG_1309.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/05-IMG_1305.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/06-IMG_1306.jpg",
+      "/user-images/acer-palmatum-kasagi-yama/07-IMG_1310.jpg"
     ],
-    "public_count": 1
+    "public_count": 8
   },
   "sources": [
     {
@@ -233,5 +248,14 @@
       ]
     }
   },
-  "has_herter": true
+  "has_herter": true,
+  "user_images": [
+    "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/01-IMG_1311.jpg",
+    "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/02-IMG_1307.jpg",
+    "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/03-IMG_1308.jpg",
+    "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/04-IMG_1309.jpg",
+    "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/05-IMG_1305.jpg",
+    "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/06-IMG_1306.jpg",
+    "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/07-IMG_1310.jpg"
+  ]
 }

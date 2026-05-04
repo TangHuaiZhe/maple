@@ -74790,7 +74790,16 @@
         ]
       }
     },
-    "has_herter": true
+    "has_herter": true,
+    "user_images": [
+      "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/01-IMG_1311.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/02-IMG_1307.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/03-IMG_1308.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/04-IMG_1309.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/05-IMG_1305.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/06-IMG_1306.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-kasagi-yama/07-IMG_1310.jpg"
+    ]
   },
   {
     "id": "acer-palmatum-kasen-nishiki",
