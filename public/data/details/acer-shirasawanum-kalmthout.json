@@ -1,0 +1,69 @@
+{
+  "id": "acer-shirasawanum-kalmthout",
+  "canonical_key": "kalmthout",
+  "canonical_name": "Kalmthout",
+  "display_name": "Kalmthout",
+  "cultivar_name": "Kalmthout",
+  "japanese_name": "カルムトウ一ト",
+  "chinese_name": "卡姆豪特(反对派)",
+  "scientific_name": "Acer shirasawanum 'Kalmthout'",
+  "species": "Acer shirasawanum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Kalmthout",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 394,
+      "reason": "no_candidate",
+      "japanese_name": "カルムトウ一ト",
+      "chinese_name": "卡姆豪特(反对派)",
+      "scientific_name": "Acer shirasawanum 'Kalmthout'"
+    }
+  ],
+  "aliases": [
+    "カルムトウ一ト",
+    "卡姆豪特(反对派)"
+  ],
+  "search_terms": [
+    "Kalmthout",
+    "カルムトウ一ト",
+    "卡姆豪特(反对派)",
+    "Acer shirasawanum 'Kalmthout'",
+    "Acer shirasawanum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Kalmthout\nカルムトウ一ト\n卡姆豪特(反对派)\nAcer shirasawanum 'Kalmthout'\nAcer shirasawanum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

@@ -34,6 +34,7 @@ export const UI_STRINGS = {
       noMore: '没有更多了',
       items: '个品种',
       all: '全部',
+      discoveryToggle: '显示新发现品种',
     },
     catalog: {
       title: '枫晴万种',
@@ -110,6 +111,7 @@ export const UI_STRINGS = {
       noMore: 'No more items',
       items: ' cultivars',
       all: 'All',
+      discoveryToggle: 'Show newly discovered cultivars',
     },
     catalog: {
       title: 'Maple Atlas',

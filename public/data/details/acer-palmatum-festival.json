@@ -1,0 +1,67 @@
+{
+  "id": "acer-palmatum-festival",
+  "canonical_key": "festival",
+  "canonical_name": "Festival",
+  "display_name": "Festival",
+  "cultivar_name": "Festival",
+  "japanese_name": null,
+  "chinese_name": "节日",
+  "scientific_name": "Acer palmatum 'Festival'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Festival",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 210,
+      "reason": "no_candidate",
+      "japanese_name": null,
+      "chinese_name": "节日",
+      "scientific_name": "Acer palmatum 'Festival'"
+    }
+  ],
+  "aliases": [
+    "节日"
+  ],
+  "search_terms": [
+    "Festival",
+    "节日",
+    "Acer palmatum 'Festival'",
+    "Acer palmatum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Festival\n节日\nAcer palmatum 'Festival'\nAcer palmatum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

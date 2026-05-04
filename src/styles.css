@@ -132,6 +132,22 @@ textarea {
   background: rgba(255, 248, 236, 0.92);
 }
 
+.discovery-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255, 248, 236, 0.92);
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.discovery-switch input {
+  accent-color: var(--accent);
+}
+
 .locale-switch button {
   min-width: 48px;
   height: 38px;
@@ -1314,6 +1330,10 @@ textarea {
 
   .site-nav {
     justify-content: space-between;
+  }
+
+  .discovery-switch {
+    align-self: flex-start;
   }
 
   .locale-switch {

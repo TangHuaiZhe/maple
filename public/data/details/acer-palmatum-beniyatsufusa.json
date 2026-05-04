@@ -1,0 +1,69 @@
+{
+  "id": "acer-palmatum-beniyatsufusa",
+  "canonical_key": "beniyatsufusa",
+  "canonical_name": "Beniyatsufusa",
+  "display_name": "Beniyatsufusa",
+  "cultivar_name": "Beniyatsufusa",
+  "japanese_name": "ベニヤツフサ",
+  "chinese_name": "红八房 (千染,血汐)",
+  "scientific_name": "Acer palmatum 'Beni yatsufusa'(1985)(1704,1923)",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Beniyatsufusa",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 109,
+      "reason": "no_candidate",
+      "japanese_name": "ベニヤツフサ",
+      "chinese_name": "红八房 (千染,血汐)",
+      "scientific_name": "Acer palmatum 'Beni yatsufusa'(1985)(1704,1923)"
+    }
+  ],
+  "aliases": [
+    "ベニヤツフサ",
+    "红八房 (千染,血汐)"
+  ],
+  "search_terms": [
+    "Beniyatsufusa",
+    "ベニヤツフサ",
+    "红八房 (千染,血汐)",
+    "Acer palmatum 'Beni yatsufusa'(1985)(1704,1923)",
+    "Acer palmatum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Beniyatsufusa\nベニヤツフサ\n红八房 (千染,血汐)\nAcer palmatum 'Beni yatsufusa'(1985)(1704,1923)\nAcer palmatum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

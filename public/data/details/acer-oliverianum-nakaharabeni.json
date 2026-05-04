@@ -1,0 +1,67 @@
+{
+  "id": "acer-oliverianum-nakaharabeni",
+  "canonical_key": "nakaharabeni",
+  "canonical_name": "Nakaharabeni",
+  "display_name": "Nakaharabeni",
+  "cultivar_name": "Nakaharabeni",
+  "japanese_name": null,
+  "chinese_name": "中原红",
+  "scientific_name": "Acer oliverianum 'Nakahara beni'(1998)",
+  "species": "Acer oliverianum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Nakaharabeni",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 638,
+      "reason": "no_candidate",
+      "japanese_name": null,
+      "chinese_name": "中原红",
+      "scientific_name": "Acer oliverianum 'Nakahara beni'(1998)"
+    }
+  ],
+  "aliases": [
+    "中原红"
+  ],
+  "search_terms": [
+    "Nakaharabeni",
+    "中原红",
+    "Acer oliverianum 'Nakahara beni'(1998)",
+    "Acer oliverianum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Nakaharabeni\n中原红\nAcer oliverianum 'Nakahara beni'(1998)\nAcer oliverianum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

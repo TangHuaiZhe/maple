@@ -1,0 +1,69 @@
+{
+  "id": "acer-matsumurae-yamatohagoromo",
+  "canonical_key": "yamatohagoromo",
+  "canonical_name": "Yamatohagoromo",
+  "display_name": "Yamatohagoromo",
+  "cultivar_name": "Yamatohagoromo",
+  "japanese_name": "ヤマトハゴロモ",
+  "chinese_name": "大和羽衣",
+  "scientific_name": "Acer matsumurae 'Yamato hagoromo'",
+  "species": "Acer matsumurae",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Yamatohagoromo",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 1118,
+      "reason": "no_candidate",
+      "japanese_name": "ヤマトハゴロモ",
+      "chinese_name": "大和羽衣",
+      "scientific_name": "Acer matsumurae 'Yamato hagoromo'"
+    }
+  ],
+  "aliases": [
+    "ヤマトハゴロモ",
+    "大和羽衣"
+  ],
+  "search_terms": [
+    "Yamatohagoromo",
+    "ヤマトハゴロモ",
+    "大和羽衣",
+    "Acer matsumurae 'Yamato hagoromo'",
+    "Acer matsumurae"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Yamatohagoromo\nヤマトハゴロモ\n大和羽衣\nAcer matsumurae 'Yamato hagoromo'\nAcer matsumurae",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "acer-amoenum-ikaruga",
+  "canonical_key": "ikaruga",
+  "canonical_name": "Ikaruga",
+  "display_name": "Ikaruga",
+  "cultivar_name": "Ikaruga",
+  "japanese_name": null,
+  "chinese_name": "斑鸠",
+  "scientific_name": "Acer amoenum 'Ikaruga'(1992)",
+  "species": "Acer amoenum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Ikaruga",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 353,
+      "reason": "no_candidate",
+      "japanese_name": null,
+      "chinese_name": "斑鸠",
+      "scientific_name": "Acer amoenum 'Ikaruga'(1992)"
+    }
+  ],
+  "aliases": [
+    "斑鸠"
+  ],
+  "search_terms": [
+    "Ikaruga",
+    "斑鸠",
+    "Acer amoenum 'Ikaruga'(1992)",
+    "Acer amoenum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Ikaruga\n斑鸠\nAcer amoenum 'Ikaruga'(1992)\nAcer amoenum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

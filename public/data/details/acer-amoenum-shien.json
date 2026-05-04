@@ -1,0 +1,69 @@
+{
+  "id": "acer-amoenum-shien",
+  "canonical_key": "shien",
+  "canonical_name": "Shien",
+  "display_name": "Shien",
+  "cultivar_name": "Shien",
+  "japanese_name": "シエン",
+  "chinese_name": "紫炎",
+  "scientific_name": "Acer amoenum 'Shien'(1988)",
+  "species": "Acer amoenum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Shien",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 870,
+      "reason": "no_candidate",
+      "japanese_name": "シエン",
+      "chinese_name": "紫炎",
+      "scientific_name": "Acer amoenum 'Shien'(1988)"
+    }
+  ],
+  "aliases": [
+    "シエン",
+    "紫炎"
+  ],
+  "search_terms": [
+    "Shien",
+    "シエン",
+    "紫炎",
+    "Acer amoenum 'Shien'(1988)",
+    "Acer amoenum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Shien\nシエン\n紫炎\nAcer amoenum 'Shien'(1988)\nAcer amoenum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

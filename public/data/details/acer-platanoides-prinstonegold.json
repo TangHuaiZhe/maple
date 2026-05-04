@@ -1,0 +1,69 @@
+{
+  "id": "acer-platanoides-prinstonegold",
+  "canonical_key": "prinstonegold",
+  "canonical_name": "PrinstoneGold",
+  "display_name": "PrinstoneGold",
+  "cultivar_name": "PrinstoneGold",
+  "japanese_name": "プリンストンゴ一ルド",
+  "chinese_name": "金色普林斯顿(金叶)",
+  "scientific_name": "Acer platanoides 'Prinstone Gold'",
+  "species": "Acer platanoides",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "PrinstoneGold",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 744,
+      "reason": "no_candidate",
+      "japanese_name": "プリンストンゴ一ルド",
+      "chinese_name": "金色普林斯顿(金叶)",
+      "scientific_name": "Acer platanoides 'Prinstone Gold'"
+    }
+  ],
+  "aliases": [
+    "プリンストンゴ一ルド",
+    "金色普林斯顿(金叶)"
+  ],
+  "search_terms": [
+    "PrinstoneGold",
+    "プリンストンゴ一ルド",
+    "金色普林斯顿(金叶)",
+    "Acer platanoides 'Prinstone Gold'",
+    "Acer platanoides"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "PrinstoneGold\nプリンストンゴ一ルド\n金色普林斯顿(金叶)\nAcer platanoides 'Prinstone Gold'\nAcer platanoides",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

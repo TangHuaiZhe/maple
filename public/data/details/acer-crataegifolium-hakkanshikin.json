@@ -1,0 +1,69 @@
+{
+  "id": "acer-crataegifolium-hakkanshikin",
+  "canonical_key": "hakkanshikin",
+  "canonical_name": "Hakkanshikin",
+  "display_name": "Hakkanshikin",
+  "cultivar_name": "Hakkanshikin",
+  "japanese_name": "ハツカンシキン",
+  "chinese_name": "白冠紫锦",
+  "scientific_name": "Acer crataegifolium 'Hakkan shikin'(2001)",
+  "species": "Acer crataegifolium",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Hakkanshikin",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 269,
+      "reason": "no_candidate",
+      "japanese_name": "ハツカンシキン",
+      "chinese_name": "白冠紫锦",
+      "scientific_name": "Acer crataegifolium 'Hakkan shikin'(2001)"
+    }
+  ],
+  "aliases": [
+    "ハツカンシキン",
+    "白冠紫锦"
+  ],
+  "search_terms": [
+    "Hakkanshikin",
+    "ハツカンシキン",
+    "白冠紫锦",
+    "Acer crataegifolium 'Hakkan shikin'(2001)",
+    "Acer crataegifolium"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Hakkanshikin\nハツカンシキン\n白冠紫锦\nAcer crataegifolium 'Hakkan shikin'(2001)\nAcer crataegifolium",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

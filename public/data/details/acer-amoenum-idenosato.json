@@ -1,0 +1,69 @@
+{
+  "id": "acer-amoenum-idenosato",
+  "canonical_key": "idenosato",
+  "canonical_name": "Idenosato",
+  "display_name": "Idenosato",
+  "cultivar_name": "Idenosato",
+  "japanese_name": "イデノサト",
+  "chinese_name": "井出の里",
+  "scientific_name": "Acer amoenum 'Ide no sato'(1882)",
+  "species": "Acer amoenum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Idenosato",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 350,
+      "reason": "no_candidate",
+      "japanese_name": "イデノサト",
+      "chinese_name": "井出の里",
+      "scientific_name": "Acer amoenum 'Ide no sato'(1882)"
+    }
+  ],
+  "aliases": [
+    "イデノサト",
+    "井出の里"
+  ],
+  "search_terms": [
+    "Idenosato",
+    "イデノサト",
+    "井出の里",
+    "Acer amoenum 'Ide no sato'(1882)",
+    "Acer amoenum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Idenosato\nイデノサト\n井出の里\nAcer amoenum 'Ide no sato'(1882)\nAcer amoenum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

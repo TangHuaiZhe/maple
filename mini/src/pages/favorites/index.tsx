@@ -1,22 +1,27 @@
-import { View, Text } from '@tarojs/components'
+import { View, Text, Switch } from '@tarojs/components'
 import Taro from '@tarojs/taro'
 import { useCatalog } from '../../hooks/useCatalog'
+import { useDiscoveryVisibility } from '../../hooks/useDiscoveryVisibility'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
 import { CultivarCard } from '../../components/CultivarCard'
 import { LocaleSwitch } from '../../components/LocaleSwitch'
+import { filterDiscoveryItems } from '../../utils/discovery'
 import { UI_STRINGS } from '../../utils/locale'
 import './index.scss'
 
 export default function FavoritesPage() {
   const { items } = useCatalog()
+  const { showDiscoveryCultivars, setShowDiscoveryCultivars } = useDiscoveryVisibility()
   const { favoriteIds, isFavorite, toggleFavorite } = useFavorites()
   const { locale } = useLocale()
 
   const t = UI_STRINGS[locale]
+  const visibleItems = filterDiscoveryItems(items, showDiscoveryCultivars)
+  const visibleRecordMap = new Map(visibleItems.map(item => [item.id, item]))
 
   const favoriteItems = favoriteIds
-    .map(id => items.find(item => item.id === id))
+    .map(id => visibleRecordMap.get(id))
     .filter(Boolean)
 
   return (
@@ -42,6 +47,14 @@ export default function FavoritesPage() {
             {t.favorites.count.replace('{count}', String(favoriteItems.length))}
           </Text>
         )}
+        <View className='discovery-toggle'>
+          <Text className='discovery-toggle__label'>{t.common.discoveryToggle}</Text>
+          <Switch
+            checked={showDiscoveryCultivars}
+            color='#983726'
+            onChange={e => setShowDiscoveryCultivars(e.detail.value)}
+          />
+        </View>
       </View>
 
       {favoriteItems.length === 0 ? (

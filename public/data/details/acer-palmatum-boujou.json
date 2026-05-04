@@ -1,0 +1,69 @@
+{
+  "id": "acer-palmatum-boujou",
+  "canonical_key": "boujou",
+  "canonical_name": "Boujou",
+  "display_name": "Boujou",
+  "cultivar_name": "Boujou",
+  "japanese_name": "ボウジヨウ",
+  "chinese_name": "坊城",
+  "scientific_name": "Acer palmatum 'Boujou'(1986)",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Boujou",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 120,
+      "reason": "no_candidate",
+      "japanese_name": "ボウジヨウ",
+      "chinese_name": "坊城",
+      "scientific_name": "Acer palmatum 'Boujou'(1986)"
+    }
+  ],
+  "aliases": [
+    "ボウジヨウ",
+    "坊城"
+  ],
+  "search_terms": [
+    "Boujou",
+    "ボウジヨウ",
+    "坊城",
+    "Acer palmatum 'Boujou'(1986)",
+    "Acer palmatum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Boujou\nボウジヨウ\n坊城\nAcer palmatum 'Boujou'(1986)\nAcer palmatum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

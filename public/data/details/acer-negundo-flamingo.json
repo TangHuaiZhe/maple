@@ -1,0 +1,69 @@
+{
+  "id": "acer-negundo-flamingo",
+  "canonical_key": "flamingo",
+  "canonical_name": "Flamingo",
+  "display_name": "Flamingo",
+  "cultivar_name": "Flamingo",
+  "japanese_name": "フラミンゴ",
+  "chinese_name": "火烈鸟(花叶复叶槭)",
+  "scientific_name": "Acer negundo 'Flamingo'(1976)",
+  "species": "Acer negundo",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Flamingo",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 219,
+      "reason": "no_candidate",
+      "japanese_name": "フラミンゴ",
+      "chinese_name": "火烈鸟(花叶复叶槭)",
+      "scientific_name": "Acer negundo 'Flamingo'(1976)"
+    }
+  ],
+  "aliases": [
+    "フラミンゴ",
+    "火烈鸟(花叶复叶槭)"
+  ],
+  "search_terms": [
+    "Flamingo",
+    "フラミンゴ",
+    "火烈鸟(花叶复叶槭)",
+    "Acer negundo 'Flamingo'(1976)",
+    "Acer negundo"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Flamingo\nフラミンゴ\n火烈鸟(花叶复叶槭)\nAcer negundo 'Flamingo'(1976)\nAcer negundo",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

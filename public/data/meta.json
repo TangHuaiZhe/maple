@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T01:34:52.015Z",
+  "generated_at": "2026-05-04T13:36:30.521Z",
   "counts": {
-    "cultivars": 580,
-    "catalog": 580,
+    "cultivars": 1342,
+    "catalog": 1342,
     "awards": 29
   },
   "categories": {
@@ -72,6 +72,7 @@
       "Mr Maple",
       "RHS",
       "Conifer Kingdom",
+      "User",
       "No Image",
       "Japanese Maples & Conifers",
       "Herter",

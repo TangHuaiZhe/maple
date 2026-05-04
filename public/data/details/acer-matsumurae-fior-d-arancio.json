@@ -1,0 +1,67 @@
+{
+  "id": "acer-matsumurae-fior-d-arancio",
+  "canonical_key": "fiordarancio",
+  "canonical_name": "Fior d'Arancio",
+  "display_name": "Fior d'Arancio",
+  "cultivar_name": "Fior d'Arancio",
+  "japanese_name": null,
+  "chinese_name": "橙花",
+  "scientific_name": "Acer matsumurae 'Fior d'Arancio'",
+  "species": "Acer matsumurae",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Fior d'Arancio",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 213,
+      "reason": "no_candidate",
+      "japanese_name": null,
+      "chinese_name": "橙花",
+      "scientific_name": "Acer matsumurae 'Fior d'Arancio'"
+    }
+  ],
+  "aliases": [
+    "橙花"
+  ],
+  "search_terms": [
+    "Fior d'Arancio",
+    "橙花",
+    "Acer matsumurae 'Fior d'Arancio'",
+    "Acer matsumurae"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Fior d'Arancio\n橙花\nAcer matsumurae 'Fior d'Arancio'\nAcer matsumurae",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

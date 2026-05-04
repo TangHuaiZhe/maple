@@ -1,0 +1,67 @@
+{
+  "id": "acer-shirasawanum-golden-full-moon-maple",
+  "canonical_key": "goldenfullmoonmaple",
+  "canonical_name": "Golden full moon maple",
+  "display_name": "Golden full moon maple",
+  "cultivar_name": "Golden full moon maple",
+  "japanese_name": null,
+  "chinese_name": "金色满月",
+  "scientific_name": "Acer shirasawanum 'Aureum'(golden full moon maple)",
+  "species": "Acer shirasawanum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Golden full moon maple",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 447,
+      "reason": "no_candidate",
+      "japanese_name": null,
+      "chinese_name": "金色满月",
+      "scientific_name": "Acer shirasawanum 'Aureum'(golden full moon maple)"
+    }
+  ],
+  "aliases": [
+    "金色满月"
+  ],
+  "search_terms": [
+    "Golden full moon maple",
+    "金色满月",
+    "Acer shirasawanum 'Aureum'(golden full moon maple)",
+    "Acer shirasawanum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Golden full moon maple\n金色满月\nAcer shirasawanum 'Aureum'(golden full moon maple)\nAcer shirasawanum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

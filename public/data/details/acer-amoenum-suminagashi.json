@@ -1,0 +1,69 @@
+{
+  "id": "acer-amoenum-suminagashi",
+  "canonical_key": "suminagashi",
+  "canonical_name": "Suminagashi",
+  "display_name": "Suminagashi",
+  "cultivar_name": "Suminagashi",
+  "japanese_name": "スミナガシ",
+  "chinese_name": "墨流し",
+  "scientific_name": "Acer amoenum 'Sumi nagashi'(1923)",
+  "species": "Acer amoenum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Suminagashi",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 932,
+      "reason": "no_candidate",
+      "japanese_name": "スミナガシ",
+      "chinese_name": "墨流し",
+      "scientific_name": "Acer amoenum 'Sumi nagashi'(1923)"
+    }
+  ],
+  "aliases": [
+    "スミナガシ",
+    "墨流し"
+  ],
+  "search_terms": [
+    "Suminagashi",
+    "スミナガシ",
+    "墨流し",
+    "Acer amoenum 'Sumi nagashi'(1923)",
+    "Acer amoenum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Suminagashi\nスミナガシ\n墨流し\nAcer amoenum 'Sumi nagashi'(1923)\nAcer amoenum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

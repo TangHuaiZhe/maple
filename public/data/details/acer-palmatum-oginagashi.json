@@ -1,0 +1,69 @@
+{
+  "id": "acer-palmatum-oginagashi",
+  "canonical_key": "oginagashi",
+  "canonical_name": "Oginagashi",
+  "display_name": "Oginagashi",
+  "cultivar_name": "Oginagashi",
+  "japanese_name": "オウギナガシ",
+  "chinese_name": "扇子流",
+  "scientific_name": "Acer palmatum 'Ogi nagashi'(1732)",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Oginagashi",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 684,
+      "reason": "no_candidate",
+      "japanese_name": "オウギナガシ",
+      "chinese_name": "扇子流",
+      "scientific_name": "Acer palmatum 'Ogi nagashi'(1732)"
+    }
+  ],
+  "aliases": [
+    "オウギナガシ",
+    "扇子流"
+  ],
+  "search_terms": [
+    "Oginagashi",
+    "オウギナガシ",
+    "扇子流",
+    "Acer palmatum 'Ogi nagashi'(1732)",
+    "Acer palmatum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Oginagashi\nオウギナガシ\n扇子流\nAcer palmatum 'Ogi nagashi'(1732)\nAcer palmatum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

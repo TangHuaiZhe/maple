@@ -1,0 +1,67 @@
+{
+  "id": "acer-amoenum-shinamata",
+  "canonical_key": "shinamata",
+  "canonical_name": "Shinamata",
+  "display_name": "Shinamata",
+  "cultivar_name": "Shinamata",
+  "japanese_name": null,
+  "chinese_name": "品又",
+  "scientific_name": "Acer amoenum 'Shinamata'(1993)",
+  "species": "Acer amoenum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Shinamata",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 880,
+      "reason": "no_candidate",
+      "japanese_name": null,
+      "chinese_name": "品又",
+      "scientific_name": "Acer amoenum 'Shinamata'(1993)"
+    }
+  ],
+  "aliases": [
+    "品又"
+  ],
+  "search_terms": [
+    "Shinamata",
+    "品又",
+    "Acer amoenum 'Shinamata'(1993)",
+    "Acer amoenum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Shinamata\n品又\nAcer amoenum 'Shinamata'(1993)\nAcer amoenum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

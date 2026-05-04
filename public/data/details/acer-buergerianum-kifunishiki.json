@@ -1,0 +1,67 @@
+{
+  "id": "acer-buergerianum-kifunishiki",
+  "canonical_key": "kifunishiki",
+  "canonical_name": "Kifunishiki",
+  "display_name": "Kifunishiki",
+  "cultivar_name": "Kifunishiki",
+  "japanese_name": null,
+  "chinese_name": "贵妇锦",
+  "scientific_name": "Acer buergerianum 'Kifu nishiki'",
+  "species": "Acer buergerianum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Kifunishiki",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 437,
+      "reason": "no_candidate",
+      "japanese_name": null,
+      "chinese_name": "贵妇锦",
+      "scientific_name": "Acer buergerianum 'Kifu nishiki'"
+    }
+  ],
+  "aliases": [
+    "贵妇锦"
+  ],
+  "search_terms": [
+    "Kifunishiki",
+    "贵妇锦",
+    "Acer buergerianum 'Kifu nishiki'",
+    "Acer buergerianum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Kifunishiki\n贵妇锦\nAcer buergerianum 'Kifu nishiki'\nAcer buergerianum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

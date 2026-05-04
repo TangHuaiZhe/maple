@@ -35,7 +35,7 @@
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-adrians-compact-dwarf-red-japanese-maple-tree/03-Acer_palmatum_Adrian_s_Compact_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2040768.webp",
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-adrians-compact-dwarf-red-japanese-maple-tree/01-Acer_palmatum_Adrian_s_Compact_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2040758.webp",
     "public_paths": [
       "/mrmaple-images/buy-acer-palmatum-adrians-compact-dwarf-red-japanese-maple-tree/01-Acer_palmatum_Adrian_s_Compact_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2040758.webp",
       "/mrmaple-images/buy-acer-palmatum-adrians-compact-dwarf-red-japanese-maple-tree/02-Acer_palmatum_Adrian_s_Compact_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2040763.webp",
@@ -342,5 +342,6 @@
         }
       }
     ]
-  }
+  },
+  "selected_cover_path": "/mrmaple-images/buy-acer-palmatum-adrians-compact-dwarf-red-japanese-maple-tree/01-Acer_palmatum_Adrian_s_Compact_Dwarf_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2040758.webp"
 }

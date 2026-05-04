@@ -1,0 +1,67 @@
+{
+  "id": "acer-palmatum-nagatsuka",
+  "canonical_key": "nagatsuka",
+  "canonical_name": "Nagatsuka",
+  "display_name": "Nagatsuka",
+  "cultivar_name": "Nagatsuka",
+  "japanese_name": null,
+  "chinese_name": "长束",
+  "scientific_name": "Acer palmatum 'Nagatsuka'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Nagatsuka",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 634,
+      "reason": "no_candidate",
+      "japanese_name": null,
+      "chinese_name": "长束",
+      "scientific_name": "Acer palmatum 'Nagatsuka'"
+    }
+  ],
+  "aliases": [
+    "长束"
+  ],
+  "search_terms": [
+    "Nagatsuka",
+    "长束",
+    "Acer palmatum 'Nagatsuka'",
+    "Acer palmatum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Nagatsuka\n长束\nAcer palmatum 'Nagatsuka'\nAcer palmatum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

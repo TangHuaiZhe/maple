@@ -1,0 +1,69 @@
+{
+  "id": "acer-sieboldianum-mikasanishiki",
+  "canonical_key": "mikasanishiki",
+  "canonical_name": "Mikasanishiki",
+  "display_name": "Mikasanishiki",
+  "cultivar_name": "Mikasanishiki",
+  "japanese_name": "ミカサニシキ(ミカサヤマニシキ)",
+  "chinese_name": "三笠锦(三笠山锦)",
+  "scientific_name": "Acer sieboldianum 'Mikasa nishiki'(1930)(1928)",
+  "species": "Acer sieboldianum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Mikasanishiki",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 565,
+      "reason": "no_candidate",
+      "japanese_name": "ミカサニシキ(ミカサヤマニシキ)",
+      "chinese_name": "三笠锦(三笠山锦)",
+      "scientific_name": "Acer sieboldianum 'Mikasa nishiki'(1930)(1928)"
+    }
+  ],
+  "aliases": [
+    "ミカサニシキ(ミカサヤマニシキ)",
+    "三笠锦(三笠山锦)"
+  ],
+  "search_terms": [
+    "Mikasanishiki",
+    "ミカサニシキ(ミカサヤマニシキ)",
+    "三笠锦(三笠山锦)",
+    "Acer sieboldianum 'Mikasa nishiki'(1930)(1928)",
+    "Acer sieboldianum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Mikasanishiki\nミカサニシキ(ミカサヤマニシキ)\n三笠锦(三笠山锦)\nAcer sieboldianum 'Mikasa nishiki'(1930)(1928)\nAcer sieboldianum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

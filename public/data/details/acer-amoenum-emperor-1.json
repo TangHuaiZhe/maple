@@ -1,0 +1,67 @@
+{
+  "id": "acer-amoenum-emperor-1",
+  "canonical_key": "emperor1",
+  "canonical_name": "Emperor 1",
+  "display_name": "Emperor 1",
+  "cultivar_name": "Emperor 1",
+  "japanese_name": null,
+  "chinese_name": "大帝",
+  "scientific_name": "Acer amoenum 'Eperor 1'",
+  "species": "Acer amoenum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Emperor 1",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 194,
+      "reason": "no_candidate",
+      "japanese_name": null,
+      "chinese_name": "大帝",
+      "scientific_name": "Acer amoenum 'Eperor 1'"
+    }
+  ],
+  "aliases": [
+    "大帝"
+  ],
+  "search_terms": [
+    "Emperor 1",
+    "大帝",
+    "Acer amoenum 'Eperor 1'",
+    "Acer amoenum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Emperor 1\n大帝\nAcer amoenum 'Eperor 1'\nAcer amoenum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

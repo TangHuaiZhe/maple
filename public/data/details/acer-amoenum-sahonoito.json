@@ -1,0 +1,69 @@
+{
+  "id": "acer-amoenum-sahonoito",
+  "canonical_key": "sahonoito",
+  "canonical_name": "SahonoIto",
+  "display_name": "SahonoIto",
+  "cultivar_name": "SahonoIto",
+  "japanese_name": "サホノイト",
+  "chinese_name": "佐保の糸",
+  "scientific_name": "Acer amoenum 'Saho no Ito'(1996)",
+  "species": "Acer amoenum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "SahonoIto",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 813,
+      "reason": "no_candidate",
+      "japanese_name": "サホノイト",
+      "chinese_name": "佐保の糸",
+      "scientific_name": "Acer amoenum 'Saho no Ito'(1996)"
+    }
+  ],
+  "aliases": [
+    "サホノイト",
+    "佐保の糸"
+  ],
+  "search_terms": [
+    "SahonoIto",
+    "サホノイト",
+    "佐保の糸",
+    "Acer amoenum 'Saho no Ito'(1996)",
+    "Acer amoenum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "SahonoIto\nサホノイト\n佐保の糸\nAcer amoenum 'Saho no Ito'(1996)\nAcer amoenum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "acer-shirasawanum-kinkakure",
+  "canonical_key": "kinkakure",
+  "canonical_name": "Kinkakure",
+  "display_name": "Kinkakure",
+  "cultivar_name": "Kinkakure",
+  "japanese_name": "キンカクレ",
+  "chinese_name": "金隠れ",
+  "scientific_name": "Acer shirasawanum 'Kin kakure'(1968)",
+  "species": "Acer shirasawanum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Kinkakure",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 445,
+      "reason": "no_candidate",
+      "japanese_name": "キンカクレ",
+      "chinese_name": "金隠れ",
+      "scientific_name": "Acer shirasawanum 'Kin kakure'(1968)"
+    }
+  ],
+  "aliases": [
+    "キンカクレ",
+    "金隠れ"
+  ],
+  "search_terms": [
+    "Kinkakure",
+    "キンカクレ",
+    "金隠れ",
+    "Acer shirasawanum 'Kin kakure'(1968)",
+    "Acer shirasawanum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Kinkakure\nキンカクレ\n金隠れ\nAcer shirasawanum 'Kin kakure'(1968)\nAcer shirasawanum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

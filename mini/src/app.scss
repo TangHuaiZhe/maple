@@ -115,3 +115,19 @@ page {
   align-items: center;
   justify-content: space-between;
 }
+
+.discovery-toggle {
+  margin-top: 16rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  border: 2rpx solid #e8e0d6;
+  border-radius: 12rpx;
+  padding: 12rpx 16rpx;
+}
+
+.discovery-toggle__label {
+  font-size: 24rpx;
+  color: #6f655b;
+}

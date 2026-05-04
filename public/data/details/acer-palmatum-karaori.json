@@ -1,0 +1,69 @@
+{
+  "id": "acer-palmatum-karaori",
+  "canonical_key": "karaori",
+  "canonical_name": "Karaori",
+  "display_name": "Karaori",
+  "cultivar_name": "Karaori",
+  "japanese_name": "カラオリ",
+  "chinese_name": "唐织",
+  "scientific_name": "Acer palmatum 'Karaori'(1732)",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Karaori",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 405,
+      "reason": "no_candidate",
+      "japanese_name": "カラオリ",
+      "chinese_name": "唐织",
+      "scientific_name": "Acer palmatum 'Karaori'(1732)"
+    }
+  ],
+  "aliases": [
+    "カラオリ",
+    "唐织"
+  ],
+  "search_terms": [
+    "Karaori",
+    "カラオリ",
+    "唐织",
+    "Acer palmatum 'Karaori'(1732)",
+    "Acer palmatum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Karaori\nカラオリ\n唐织\nAcer palmatum 'Karaori'(1732)\nAcer palmatum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

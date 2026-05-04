@@ -32,6 +32,8 @@ const PAGE_SIZE = 96;
 const DETAIL_GALLERY_PAGE_SIZE = 10;
 const SEARCH_ALL_VALUE = "__all__";
 const DEV_EDITOR_ENABLED = import.meta.env.DEV;
+const FAVORITES_STORAGE_KEY = "maple-favorites";
+const DISCOVERY_VISIBILITY_STORAGE_KEY = "maple-show-discovery-cultivars";
 const DESCRIPTION_NOISE_MARKERS = [
   /pointer-events-auto/i,
   /request-WEB:/i,
@@ -61,6 +63,7 @@ const UI_STRINGS = {
       addFavorite: "收藏",
       removeFavorite: "取消收藏",
       favorited: "已收藏",
+      discoveryToggle: "显示新发现品种",
     },
     coverSource: {
       none: "无图",
@@ -185,6 +188,7 @@ const UI_STRINGS = {
       addFavorite: "Save",
       removeFavorite: "Remove Favorite",
       favorited: "Saved",
+      discoveryToggle: "Show newly discovered cultivars",
     },
     coverSource: {
       none: "No Image",
@@ -327,6 +331,33 @@ import POPULAR_IDS from "../public/data/popular-ids.json";
 
 function normalizeSearchText(text) {
   return (text || "").toLowerCase().trim();
+}
+
+function readDiscoveryVisibility(storage = globalThis.window?.localStorage) {
+  if (!storage) {
+    return false;
+  }
+
+  try {
+    const raw = storage.getItem(DISCOVERY_VISIBILITY_STORAGE_KEY);
+    return raw === "1";
+  } catch {
+    return false;
+  }
+}
+
+function writeDiscoveryVisibility(enabled, storage = globalThis.window?.localStorage) {
+  if (!storage) {
+    return;
+  }
+
+  try {
+    storage.setItem(DISCOVERY_VISIBILITY_STORAGE_KEY, enabled ? "1" : "0");
+  } catch {}
+}
+
+function isDiscoveryHiddenRecord(record) {
+  return Boolean(record?.discovery_hidden);
 }
 
 function getKnownCultivarTokens(item) {
@@ -2016,6 +2047,7 @@ export default function App() {
   const [error, setError] = useState("");
   const [locale, setLocale] = useState("zh");
   const [favoriteIds, setFavoriteIds] = useState(() => readFavoriteIds());
+  const [showDiscoveryCultivars, setShowDiscoveryCultivars] = useState(() => readDiscoveryVisibility());
   const favoriteSet = useMemo(() => new Set(favoriteIds), [favoriteIds]);
 
   useEffect(() => {
@@ -2023,9 +2055,18 @@ export default function App() {
   }, [favoriteIds]);
 
   useEffect(() => {
+    writeDiscoveryVisibility(showDiscoveryCultivars);
+  }, [showDiscoveryCultivars]);
+
+  useEffect(() => {
     function handleStorage(event) {
       if (event.key === FAVORITES_STORAGE_KEY) {
         setFavoriteIds(readFavoriteIds());
+        return;
+      }
+
+      if (event.key === DISCOVERY_VISIBILITY_STORAGE_KEY) {
+        setShowDiscoveryCultivars(readDiscoveryVisibility());
       }
     }
 
@@ -2063,7 +2104,10 @@ export default function App() {
   }
 
   const strings = UI_STRINGS[locale] || UI_STRINGS.zh;
-  const recordMap = new Map(records.map((record) => [record.id, record]));
+  const visibleRecords = showDiscoveryCultivars
+    ? records
+    : records.filter((record) => !isDiscoveryHiddenRecord(record));
+  const recordMap = new Map(visibleRecords.map((record) => [record.id, record]));
   const favoriteRecords = favoriteIds.map((id) => recordMap.get(id)).filter(Boolean);
 
   return (
@@ -2077,6 +2121,14 @@ export default function App() {
             <NavLink to="/rhs-awards">{strings.nav.awards}</NavLink>
             <NavLink to="/favorites">{strings.nav.favorites}</NavLink>
           </nav>
+          <label className="discovery-switch">
+            <input
+              type="checkbox"
+              checked={showDiscoveryCultivars}
+              onChange={(event) => setShowDiscoveryCultivars(event.target.checked)}
+            />
+            <span>{strings.common.discoveryToggle}</span>
+          </label>
           <div className="locale-switch" role="group" aria-label={locale === "en" ? "Language Switch" : "语言切换"}>
             <button
               type="button"
@@ -2101,7 +2153,7 @@ export default function App() {
           path="/"
           element={(
             <PopularPage
-              records={records}
+              records={visibleRecords}
               strings={strings}
               locale={locale}
               favoriteSet={favoriteSet}
@@ -2114,7 +2166,7 @@ export default function App() {
           path="/catalog"
           element={(
             <HomePage
-              records={records}
+              records={visibleRecords}
               strings={strings}
               locale={locale}
               favoriteSet={favoriteSet}
@@ -2128,7 +2180,7 @@ export default function App() {
           path="/rhs-awards"
           element={(
             <RHSAwardPage
-              records={records}
+              records={visibleRecords}
               strings={strings}
               locale={locale}
               favoriteSet={favoriteSet}
@@ -2153,7 +2205,7 @@ export default function App() {
           path="/cultivar/:id"
           element={(
             <DetailPage
-              records={records}
+              records={visibleRecords}
               locale={locale}
               strings={strings}
               favoriteSet={favoriteSet}

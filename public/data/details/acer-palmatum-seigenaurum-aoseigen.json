@@ -1,0 +1,69 @@
+{
+  "id": "acer-palmatum-seigenaurum-aoseigen",
+  "canonical_key": "seigenaurumaoseigen",
+  "canonical_name": "Seigenaurum(Aoseigen)",
+  "display_name": "Seigenaurum(Aoseigen)",
+  "cultivar_name": "Seigenaurum(Aoseigen)",
+  "japanese_name": "セイゲンオ一ラム(ァオセイゲン)",
+  "chinese_name": "金青玄(青清玄)",
+  "scientific_name": "Acer palmatum 'Seigen aurum'",
+  "species": "Acer palmatum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Seigenaurum(Aoseigen)",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 849,
+      "reason": "no_candidate",
+      "japanese_name": "セイゲンオ一ラム(ァオセイゲン)",
+      "chinese_name": "金青玄(青清玄)",
+      "scientific_name": "Acer palmatum 'Seigen aurum'"
+    }
+  ],
+  "aliases": [
+    "セイゲンオ一ラム(ァオセイゲン)",
+    "金青玄(青清玄)"
+  ],
+  "search_terms": [
+    "Seigenaurum(Aoseigen)",
+    "セイゲンオ一ラム(ァオセイゲン)",
+    "金青玄(青清玄)",
+    "Acer palmatum 'Seigen aurum'",
+    "Acer palmatum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Seigenaurum(Aoseigen)\nセイゲンオ一ラム(ァオセイゲン)\n金青玄(青清玄)\nAcer palmatum 'Seigen aurum'\nAcer palmatum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

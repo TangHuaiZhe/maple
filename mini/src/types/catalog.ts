@@ -27,6 +27,9 @@ export interface CatalogItem {
   has_herter?: boolean
   has_ncsu?: boolean
   award_group?: string | null
+  is_new_discovery?: boolean
+  discovery_hidden?: boolean
+  discovery_source?: string | null
 }
 
 export interface MetaData {

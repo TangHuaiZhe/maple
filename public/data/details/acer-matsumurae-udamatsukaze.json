@@ -1,0 +1,67 @@
+{
+  "id": "acer-matsumurae-udamatsukaze",
+  "canonical_key": "udamatsukaze",
+  "canonical_name": "Udamatsukaze",
+  "display_name": "Udamatsukaze",
+  "cultivar_name": "Udamatsukaze",
+  "japanese_name": null,
+  "chinese_name": "宇陀松风",
+  "scientific_name": "Acer matsumurae 'Uda-matsu-kaze'",
+  "species": "Acer matsumurae",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Udamatsukaze",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 1033,
+      "reason": "no_candidate",
+      "japanese_name": null,
+      "chinese_name": "宇陀松风",
+      "scientific_name": "Acer matsumurae 'Uda-matsu-kaze'"
+    }
+  ],
+  "aliases": [
+    "宇陀松风"
+  ],
+  "search_terms": [
+    "Udamatsukaze",
+    "宇陀松风",
+    "Acer matsumurae 'Uda-matsu-kaze'",
+    "Acer matsumurae"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Udamatsukaze\n宇陀松风\nAcer matsumurae 'Uda-matsu-kaze'\nAcer matsumurae",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

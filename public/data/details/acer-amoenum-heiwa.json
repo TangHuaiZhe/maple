@@ -1,0 +1,69 @@
+{
+  "id": "acer-amoenum-heiwa",
+  "canonical_key": "heiwa",
+  "canonical_name": "Heiwa",
+  "display_name": "Heiwa",
+  "cultivar_name": "Heiwa",
+  "japanese_name": "ヘイワ",
+  "chinese_name": "平和",
+  "scientific_name": "Acer amoenum 'Heiwa'(1987)",
+  "species": "Acer amoenum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Heiwa",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 299,
+      "reason": "no_candidate",
+      "japanese_name": "ヘイワ",
+      "chinese_name": "平和",
+      "scientific_name": "Acer amoenum 'Heiwa'(1987)"
+    }
+  ],
+  "aliases": [
+    "ヘイワ",
+    "平和"
+  ],
+  "search_terms": [
+    "Heiwa",
+    "ヘイワ",
+    "平和",
+    "Acer amoenum 'Heiwa'(1987)",
+    "Acer amoenum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Heiwa\nヘイワ\n平和\nAcer amoenum 'Heiwa'(1987)\nAcer amoenum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

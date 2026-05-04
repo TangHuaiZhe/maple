@@ -1,0 +1,69 @@
+{
+  "id": "acer-maximowiczanum-metallic-gold",
+  "canonical_key": "metallicgold",
+  "canonical_name": "Metallic gold",
+  "display_name": "Metallic gold",
+  "cultivar_name": "Metallic gold",
+  "japanese_name": "メタリックゴ一ルド",
+  "chinese_name": "金属金色",
+  "scientific_name": "Acer maximowiczanum 'Metallic gold'(2001)",
+  "species": "Acer maximowiczanum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Metallic gold",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 562,
+      "reason": "no_candidate",
+      "japanese_name": "メタリックゴ一ルド",
+      "chinese_name": "金属金色",
+      "scientific_name": "Acer maximowiczanum 'Metallic gold'(2001)"
+    }
+  ],
+  "aliases": [
+    "メタリックゴ一ルド",
+    "金属金色"
+  ],
+  "search_terms": [
+    "Metallic gold",
+    "メタリックゴ一ルド",
+    "金属金色",
+    "Acer maximowiczanum 'Metallic gold'(2001)",
+    "Acer maximowiczanum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Metallic gold\nメタリックゴ一ルド\n金属金色\nAcer maximowiczanum 'Metallic gold'(2001)\nAcer maximowiczanum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

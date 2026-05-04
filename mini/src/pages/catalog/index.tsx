@@ -1,12 +1,14 @@
 import { useState, useMemo, useCallback } from 'react'
-import { View, Text, Input } from '@tarojs/components'
+import { View, Text, Input, Switch } from '@tarojs/components'
 import { useShareAppMessage, usePullDownRefresh, stopPullDownRefresh } from '@tarojs/taro'
 import { useCatalog } from '../../hooks/useCatalog'
+import { useDiscoveryVisibility } from '../../hooks/useDiscoveryVisibility'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
 import { useDebouncedValue } from '../../hooks/useDebouncedValue'
 import { CultivarCard } from '../../components/CultivarCard'
 import { LocaleSwitch } from '../../components/LocaleSwitch'
+import { filterDiscoveryItems } from '../../utils/discovery'
 import { matchesCatalogKeyword } from '../../utils/text'
 import { UI_STRINGS } from '../../utils/locale'
 import './index.scss'
@@ -24,6 +26,7 @@ function shuffle<T>(arr: T[]): T[] {
 
 export default function CatalogPage() {
   const { items, loading, error } = useCatalog()
+  const { showDiscoveryCultivars, setShowDiscoveryCultivars } = useDiscoveryVisibility()
   const { locale } = useLocale()
   const { isFavorite, toggleFavorite } = useFavorites()
 
@@ -40,10 +43,11 @@ export default function CatalogPage() {
 
   const shuffled = useMemo(() => {
     void seed // dependency to trigger re-shuffle
-    const withImage = items.filter(i => i.image_count > 0)
-    const noImage = items.filter(i => !i.image_count)
+    const visibleItems = filterDiscoveryItems(items, showDiscoveryCultivars)
+    const withImage = visibleItems.filter(i => i.image_count > 0)
+    const noImage = visibleItems.filter(i => !i.image_count)
     return [...shuffle(withImage), ...shuffle(noImage)]
-  }, [items, seed])
+  }, [items, seed, showDiscoveryCultivars])
 
   const filtered = debouncedKeyword
     ? shuffled.filter(item => matchesCatalogKeyword(item, debouncedKeyword))
@@ -84,6 +88,17 @@ export default function CatalogPage() {
             placeholder={t.catalog.searchPlaceholder}
             value={keyword}
             onInput={e => { setKeyword(e.detail.value); setVisibleCount(PAGE_SIZE) }}
+          />
+        </View>
+        <View className='discovery-toggle'>
+          <Text className='discovery-toggle__label'>{t.common.discoveryToggle}</Text>
+          <Switch
+            checked={showDiscoveryCultivars}
+            color='#983726'
+            onChange={e => {
+              setShowDiscoveryCultivars(e.detail.value)
+              setVisibleCount(PAGE_SIZE)
+            }}
           />
         </View>
       </View>

@@ -89,12 +89,12 @@
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-orangeola-japanese-maple/04-Acer_palmatum_Orangeola_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065615.jpg",
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-orangeola-japanese-maple/02-Acer_palmatum_Orangeola_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065612.jpg",
     "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-orangeola-japanese-maple/02-Acer_palmatum_Orangeola_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065612.jpg",
       "/rhs-images/acer-palmatum-orangeola/01-Web_Use-PUB0040384_13011.jpg",
       "/rhs-images/acer-palmatum-orangeola-momiji_kaede/01-Web_Use-PUB0040384_13011.jpg",
       "/mrmaple-images/buy-acer-palmatum-orangeola-japanese-maple/01-Acer_palmatum_Orangeola_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065605.jpg",
-      "/mrmaple-images/buy-acer-palmatum-orangeola-japanese-maple/02-Acer_palmatum_Orangeola_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065612.jpg",
       "/mrmaple-images/buy-acer-palmatum-orangeola-japanese-maple/03-Acer_palmatum_Orangeola_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065614.jpg",
       "/mrmaple-images/buy-acer-palmatum-orangeola-japanese-maple/04-Acer_palmatum_Orangeola_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065615.jpg",
       "/mrmaple-images/buy-acer-palmatum-orangeola-japanese-maple/05-Acer_palmatum_Orangeola_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065616.jpg",
@@ -1338,5 +1338,6 @@
       ]
     }
   },
-  "has_herter": true
+  "has_herter": true,
+  "selected_cover_path": "/mrmaple-images/buy-acer-palmatum-orangeola-japanese-maple/02-Acer_palmatum_Orangeola_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065612.jpg"
 }

@@ -1,0 +1,69 @@
+{
+  "id": "acer-japonicum-kujakunishiki",
+  "canonical_key": "kujakunishiki",
+  "canonical_name": "Kujakunishiki",
+  "display_name": "Kujakunishiki",
+  "cultivar_name": "Kujakunishiki",
+  "japanese_name": "クジヤクニシキ",
+  "chinese_name": "孔雀锦",
+  "scientific_name": "Acer japonicum 'Kujaku nishiki'(1930)",
+  "species": "Acer japonicum",
+  "top_category": null,
+  "web_group": null,
+  "book_groups": [],
+  "color_groups": [],
+  "descriptions": {},
+  "images": {
+    "count": 0,
+    "public_rhs_paths": [],
+    "public_mrmaple_paths": [],
+    "public_herter_paths": [],
+    "public_ncsu_paths": [],
+    "public_conifer_paths": [],
+    "public_jmac_paths": [],
+    "public_user_paths": [],
+    "public_cover_path": null,
+    "public_paths": [],
+    "public_count": 0
+  },
+  "sources": [
+    {
+      "source": "excel_unmatched",
+      "title": "Kujakunishiki",
+      "description": "Imported from unmatched cultivar rows in the Excel mapping sheet.",
+      "excel_row": 510,
+      "reason": "no_candidate",
+      "japanese_name": "クジヤクニシキ",
+      "chinese_name": "孔雀锦",
+      "scientific_name": "Acer japonicum 'Kujaku nishiki'(1930)"
+    }
+  ],
+  "aliases": [
+    "クジヤクニシキ",
+    "孔雀锦"
+  ],
+  "search_terms": [
+    "Kujakunishiki",
+    "クジヤクニシキ",
+    "孔雀锦",
+    "Acer japonicum 'Kujaku nishiki'(1930)",
+    "Acer japonicum"
+  ],
+  "source_count": 1,
+  "has_web": false,
+  "has_book": false,
+  "has_rhs": false,
+  "has_mrmaple": false,
+  "has_herter": false,
+  "has_ncsu": false,
+  "has_conifer": false,
+  "has_jmac": false,
+  "cover_path": null,
+  "cover_source": "No Image",
+  "image_count": 0,
+  "preferred_description": null,
+  "search_index": "Kujakunishiki\nクジヤクニシキ\n孔雀锦\nAcer japonicum 'Kujaku nishiki'(1930)\nAcer japonicum",
+  "is_new_discovery": true,
+  "discovery_hidden": true,
+  "discovery_source": "excel-unmatched-2026-05-04"
+}

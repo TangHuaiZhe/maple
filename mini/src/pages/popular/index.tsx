@@ -1,12 +1,14 @@
 import { useState } from 'react'
-import { View, Text, Input } from '@tarojs/components'
+import { View, Text, Input, Switch } from '@tarojs/components'
 import { useShareAppMessage } from '@tarojs/taro'
 import { useCatalog } from '../../hooks/useCatalog'
+import { useDiscoveryVisibility } from '../../hooks/useDiscoveryVisibility'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
 import { useDebouncedValue } from '../../hooks/useDebouncedValue'
 import { CultivarCard } from '../../components/CultivarCard'
 import { LocaleSwitch } from '../../components/LocaleSwitch'
+import { filterDiscoveryItems } from '../../utils/discovery'
 import { matchesCatalogKeyword } from '../../utils/text'
 import { UI_STRINGS } from '../../utils/locale'
 import POPULAR_IDS from './popular-ids.json'
@@ -14,6 +16,7 @@ import './index.scss'
 
 export default function PopularPage() {
   const { items, loading, error } = useCatalog()
+  const { showDiscoveryCultivars, setShowDiscoveryCultivars } = useDiscoveryVisibility()
   const { locale } = useLocale()
   const { isFavorite, toggleFavorite } = useFavorites()
 
@@ -26,13 +29,15 @@ export default function PopularPage() {
   const debouncedKeyword = useDebouncedValue(keyword)
 
   const t = UI_STRINGS[locale]
+  const visibleItems = filterDiscoveryItems(items, showDiscoveryCultivars)
+  const visibleRecordMap = new Map(visibleItems.map(item => [item.id, item]))
 
   const popularItems = POPULAR_IDS
-    .map(id => items.find(item => item.id === id))
+    .map(id => visibleRecordMap.get(id))
     .filter(Boolean)
 
   const filtered = debouncedKeyword
-    ? items.filter(item => matchesCatalogKeyword(item, debouncedKeyword))
+    ? visibleItems.filter(item => matchesCatalogKeyword(item, debouncedKeyword))
     : popularItems
 
   if (loading && !items.length) {
@@ -64,6 +69,14 @@ export default function PopularPage() {
             placeholder={t.catalog.searchPlaceholder}
             value={keyword}
             onInput={e => setKeyword(e.detail.value)}
+          />
+        </View>
+        <View className='discovery-toggle'>
+          <Text className='discovery-toggle__label'>{t.common.discoveryToggle}</Text>
+          <Switch
+            checked={showDiscoveryCultivars}
+            color='#983726'
+            onChange={e => setShowDiscoveryCultivars(e.detail.value)}
           />
         </View>
         <Text className='meta-chip' style={{ marginTop: '16rpx' }}>
