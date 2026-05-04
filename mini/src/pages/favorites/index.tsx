@@ -1,10 +1,10 @@
-import { View, Text, Switch } from '@tarojs/components'
+import { View, Text } from '@tarojs/components'
 import Taro from '@tarojs/taro'
 import { useCatalog } from '../../hooks/useCatalog'
-import { useDiscoveryVisibility } from '../../hooks/useDiscoveryVisibility'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
 import { CultivarCard } from '../../components/CultivarCard'
+import { FeedbackEntry } from '../../components/FeedbackEntry'
 import { LocaleSwitch } from '../../components/LocaleSwitch'
 import { filterDiscoveryItems } from '../../utils/discovery'
 import { UI_STRINGS } from '../../utils/locale'
@@ -12,12 +12,11 @@ import './index.scss'
 
 export default function FavoritesPage() {
   const { items } = useCatalog()
-  const { showDiscoveryCultivars, setShowDiscoveryCultivars } = useDiscoveryVisibility()
   const { favoriteIds, isFavorite, toggleFavorite } = useFavorites()
   const { locale } = useLocale()
 
   const t = UI_STRINGS[locale]
-  const visibleItems = filterDiscoveryItems(items, showDiscoveryCultivars)
+  const visibleItems = filterDiscoveryItems(items, false)
   const visibleRecordMap = new Map(visibleItems.map(item => [item.id, item]))
 
   const favoriteItems = favoriteIds
@@ -39,6 +38,7 @@ export default function FavoritesPage() {
             >
               <Text>{locale === 'zh' ? '版本信息' : 'Version'}</Text>
             </View>
+            <FeedbackEntry compact />
             <LocaleSwitch />
           </View>
         </View>
@@ -47,14 +47,6 @@ export default function FavoritesPage() {
             {t.favorites.count.replace('{count}', String(favoriteItems.length))}
           </Text>
         )}
-        <View className='discovery-toggle'>
-          <Text className='discovery-toggle__label'>{t.common.discoveryToggle}</Text>
-          <Switch
-            checked={showDiscoveryCultivars}
-            color='#983726'
-            onChange={e => setShowDiscoveryCultivars(e.detail.value)}
-          />
-        </View>
       </View>
 
       {favoriteItems.length === 0 ? (

@@ -34,6 +34,7 @@ export const UI_STRINGS = {
       noMore: '没有更多了',
       items: '个品种',
       all: '全部',
+      feedback: '用户反馈',
       discoveryToggle: '显示新发现品种',
     },
     catalog: {
@@ -112,6 +113,7 @@ export const UI_STRINGS = {
       noMore: 'No more items',
       items: ' cultivars',
       all: 'All',
+      feedback: 'Feedback',
       discoveryToggle: 'Show newly discovered cultivars',
     },
     catalog: {

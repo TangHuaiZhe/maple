@@ -1,5 +1,6 @@
 import { View, Text } from '@tarojs/components'
 import { BUILD_INFO } from '../../buildInfo'
+import { FeedbackEntry } from '../../components/FeedbackEntry'
 import { useLocale } from '../../hooks/useLocale'
 import './index.scss'
 
@@ -49,6 +50,13 @@ export default function AboutPage() {
             <Text className='about-row__value'>{value === 'unknown' ? unknown : value}</Text>
           </View>
         ))}
+      </View>
+
+      <View className='section-card about-feedback'>
+        <Text className='about-feedback__hint'>
+          {locale === 'zh' ? '有建议或问题？欢迎直接提交反馈。' : 'Have suggestions or issues? Send us feedback directly.'}
+        </Text>
+        <FeedbackEntry />
       </View>
     </View>
   )

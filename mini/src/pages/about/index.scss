@@ -4,6 +4,20 @@
   gap: 0;
 }
 
+.about-feedback {
+  margin-top: 20rpx;
+  display: flex;
+  flex-direction: column;
+  gap: 16rpx;
+}
+
+.about-feedback__hint {
+  display: block;
+  color: #8e8276;
+  font-size: 24rpx;
+  line-height: 1.45;
+}
+
 .about-row {
   display: flex;
   flex-direction: column;

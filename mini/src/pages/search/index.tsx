@@ -1,7 +1,6 @@
 import { useState } from 'react'
-import { View, Text, Switch } from '@tarojs/components'
+import { View, Text } from '@tarojs/components'
 import { useCatalog } from '../../hooks/useCatalog'
-import { useDiscoveryVisibility } from '../../hooks/useDiscoveryVisibility'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
 import { useDebouncedValue } from '../../hooks/useDebouncedValue'
@@ -17,7 +16,6 @@ const PAGE_SIZE = 48
 
 export default function SearchPage() {
   const { items, meta, loading, error } = useCatalog()
-  const { showDiscoveryCultivars, setShowDiscoveryCultivars } = useDiscoveryVisibility()
   const { locale } = useLocale()
   const { isFavorite, toggleFavorite } = useFavorites()
   const [keyword, setKeyword] = useState('')
@@ -27,7 +25,7 @@ export default function SearchPage() {
 
   const t = UI_STRINGS[locale]
   const categories = meta?.categories?.top_categories || []
-  const visibleItems = filterDiscoveryItems(items, showDiscoveryCultivars)
+  const visibleItems = filterDiscoveryItems(items, false)
 
   const filtered = visibleItems.filter(item => {
     if (category && item.top_category !== category) return false
@@ -50,14 +48,6 @@ export default function SearchPage() {
         <View className='header-row'>
           <Text className='page-title'>{t.search.title}</Text>
           <LocaleSwitch />
-        </View>
-        <View className='discovery-toggle'>
-          <Text className='discovery-toggle__label'>{t.common.discoveryToggle}</Text>
-          <Switch
-            checked={showDiscoveryCultivars}
-            color='#983726'
-            onChange={e => setShowDiscoveryCultivars(e.detail.value)}
-          />
         </View>
       </View>
 

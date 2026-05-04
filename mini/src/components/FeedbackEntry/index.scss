@@ -1,0 +1,24 @@
+.feedback-entry {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 132rpx;
+  height: 56rpx;
+  padding: 0 18rpx;
+  border: 2rpx solid #d4cbc0;
+  border-radius: 28rpx;
+  color: #6f655b;
+  font-size: 22rpx;
+  background: rgba(255, 253, 248, 0.68);
+  white-space: nowrap;
+  margin: 0;
+  line-height: 56rpx;
+
+  &::after {
+    border: 0;
+  }
+}
+
+.feedback-entry.is-compact {
+  min-width: 112rpx;
+}
