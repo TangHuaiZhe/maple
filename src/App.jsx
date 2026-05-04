@@ -10,6 +10,7 @@ import {
   useParams,
 } from "react-router-dom";
 import {
+  applyPrimaryCoverSelection,
   hasContent,
   loadCatalog,
   loadCultivar,
@@ -154,6 +155,11 @@ const UI_STRINGS = {
       descriptionFull: "完整描述",
       showMoreDescription: "展开完整描述",
       showLessDescription: "收起完整描述",
+      searchLabel: "搜索其他品种",
+      searchPlaceholder: "例如 Ice Dragon、冰龙、Acer palmatum",
+      searchHint: "输入关键词后可直接跳转到其他品种详情页。",
+      searchResults: (count) => `匹配到 ${count} 个品种`,
+      searchNoResults: "没有匹配到其他品种。",
     },
     app: {
       loading: "正在加载日本枫树数据…",
@@ -273,6 +279,11 @@ const UI_STRINGS = {
       descriptionFull: "Full Description",
       showMoreDescription: "Show Full Description",
       showLessDescription: "Collapse Full Description",
+      searchLabel: "Search Other Cultivars",
+      searchPlaceholder: "For example Ice Dragon, Bloodgood, Acer palmatum",
+      searchHint: "Type a keyword to jump straight to another cultivar detail page.",
+      searchResults: (count) => `${count} matching cultivars`,
+      searchNoResults: "No other cultivars match this search.",
     },
     app: {
       loading: "Loading Japanese maple data…",
@@ -1319,10 +1330,14 @@ function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite, thu
 }
 
 function PopularPage({ records, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }) {
+  const [query, setQuery] = useState("");
+  const deferredQuery = useDeferredValue(query);
   const recordMap = new Map(records.map((r) => [r.id, r]));
   const popularItems = POPULAR_IDS
     .map((id) => recordMap.get(id))
     .filter(Boolean);
+  const normalizedQuery = normalizeSearchText(deferredQuery);
+  const filteredItems = popularItems.filter((item) => matchesQuery(item, normalizedQuery));
 
   return (
     <div className="page-shell">
@@ -1331,13 +1346,23 @@ function PopularPage({ records, strings, locale, favoriteSet, onToggleFavorite, 
           <h1>{strings.popular.title}</h1>
           <p>{strings.popular.subtitle}</p>
         </div>
-        <div className="result-summary">{strings.popular.count(popularItems.length)}</div>
+        <div className="search-controls" style={{ gridTemplateColumns: "1fr", marginTop: "14px" }}>
+          <label className="field">
+            <span>{strings.home.searchLabel}</span>
+            <input
+              value={query}
+              onChange={(event) => setQuery(event.target.value)}
+              placeholder={strings.home.searchPlaceholder}
+            />
+          </label>
+        </div>
+        <div className="result-summary">{strings.popular.count(filteredItems.length)}</div>
       </section>
 
       <div className="catalog-sections">
         <section className="catalog-section">
           <div className="catalog-grid">
-            {popularItems.map((item) => (
+            {filteredItems.map((item) => (
               <CultivarCard
                 key={item.id}
                 item={item}
@@ -1401,13 +1426,14 @@ function LegacySearchRedirect() {
   return <Navigate to={{ pathname: "/", search: location.search }} replace />;
 }
 
-function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailManifest }) {
+function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, thumbnailManifest }) {
   const { id } = useParams();
   const [item, setItem] = useState(null);
   const [status, setStatus] = useState("loading");
   const [error, setError] = useState("");
   const [previewIndex, setPreviewIndex] = useState(null);
   const [visibleImageCount, setVisibleImageCount] = useState(DETAIL_GALLERY_PAGE_SIZE);
+  const [searchQuery, setSearchQuery] = useState("");
   const [editorOpen, setEditorOpen] = useState(false);
   const [editorBaseRecord, setEditorBaseRecord] = useState(null);
   const [editorDraft, setEditorDraft] = useState("");
@@ -1417,6 +1443,7 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailM
   const [uploadMessage, setUploadMessage] = useState("");
   const [compressUploads, setCompressUploads] = useState(true);
   const [coverSavePath, setCoverSavePath] = useState("");
+  const deferredSearchQuery = useDeferredValue(searchQuery);
   const previewImages = item ? uniqueValues([getVisibleCover(item), ...getVisibleImagePaths(item)]) : [];
   const galleryImages = item ? getVisibleImagePaths(item) : [];
   const visibleGalleryImages = galleryImages.slice(0, visibleImageCount);
@@ -1460,6 +1487,7 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailM
     setError("");
     setPreviewIndex(null);
     setVisibleImageCount(DETAIL_GALLERY_PAGE_SIZE);
+    setSearchQuery("");
     setEditorOpen(false);
     setEditorBaseRecord(null);
     setEditorDraft("");
@@ -1555,6 +1583,14 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailM
   const sizeSummary = getSizeSummary(rhs, rhsEnglish, locale);
   const detailTraits = getDetailTraits(item, locale, rhsLabels);
   const chineseAliases = getChineseAliases(item);
+  const normalizedSearchQuery = normalizeSearchText(deferredSearchQuery);
+  const matchingCultivars = normalizedSearchQuery
+    ? records
+        .filter((record) => record.id !== item.id && matchesQuery(record, normalizedSearchQuery))
+        .sort(compareCultivars)
+        .slice(0, 8)
+    : [];
+
   function openPreview(imagePath) {
     const index = previewImages.indexOf(imagePath);
     setPreviewIndex(index >= 0 ? index : 0);
@@ -1660,8 +1696,13 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailM
   }
 
   async function handleSetPrimaryCover(imagePath) {
+    const previousItem = item;
+    const previousEditorBaseRecord = editorBaseRecord;
+
     setCoverSavePath(imagePath);
     setEditorMessage("");
+    setItem((current) => applyPrimaryCoverSelection(current, imagePath));
+    setEditorBaseRecord((current) => (current ? setRecordPrimaryCover(current, imagePath) : current));
 
     try {
       const baseRecord = editorBaseRecord || await loadDevRecord(id);
@@ -1675,6 +1716,8 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailM
       setEditorState("saved");
       setEditorMessage(locale === "en" ? "Cover image updated" : "主图已更新");
     } catch (err) {
+      setItem(previousItem);
+      setEditorBaseRecord(previousEditorBaseRecord);
       setEditorState("error");
       setEditorMessage(err.message);
     } finally {
@@ -1685,6 +1728,47 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailM
   return (
     <>
       <div className="page-shell detail-shell">
+        <section className="search-panel detail-search-shell">
+          <div className="detail-search-panel">
+            <label className="detail-search-inline" htmlFor="detail-search-input">
+              <span>{strings.detail.searchLabel}</span>
+              <input
+                id="detail-search-input"
+                value={searchQuery}
+                onChange={(event) => setSearchQuery(event.target.value)}
+                placeholder={strings.detail.searchPlaceholder}
+              />
+            </label>
+            <p className="detail-search-hint">
+              {normalizedSearchQuery
+                ? (
+                  matchingCultivars.length
+                    ? strings.detail.searchResults(matchingCultivars.length)
+                    : strings.detail.searchNoResults
+                )
+                : strings.detail.searchHint}
+            </p>
+            {normalizedSearchQuery && matchingCultivars.length ? (
+              <div className="detail-search-results">
+                {matchingCultivars.map((record) => (
+                  <Link
+                    key={record.id}
+                    className="detail-search-result"
+                    to={`/cultivar/${record.id}`}
+                  >
+                    <span className="detail-search-result-copy">
+                      <strong>{record.display_name || record.canonical_name}</strong>
+                      {record.chinese_name ? <em>{record.chinese_name}</em> : null}
+                    </span>
+                    <span className="detail-search-result-meta">
+                      {record.top_category || strings.detail.fallbackCategory}
+                    </span>
+                  </Link>
+                ))}
+              </div>
+            ) : null}
+          </div>
+        </section>
         <section className="detail-hero">
           <div className="detail-copy">
             <p className="eyebrow">{item.top_category || strings.detail.fallbackCategory} {item.web_group ? `· ${item.web_group}` : ""}</p>
@@ -2069,6 +2153,7 @@ export default function App() {
           path="/cultivar/:id"
           element={(
             <DetailPage
+              records={records}
               locale={locale}
               strings={strings}
               favoriteSet={favoriteSet}
