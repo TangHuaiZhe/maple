@@ -26,6 +26,7 @@
     "deploy:cloudbase:app": "npm run build && bash ./scripts/deploy-cloudbase-incremental.sh cloud1-d0gq8e1gidc917363 app dist",
     "deploy:cloudbase:assets": "bash ./scripts/deploy-cloudbase-incremental.sh cloud1-d0gq8e1gidc917363 assets dist",
     "deploy:cloudbase:data": "bash ./scripts/deploy-cloudbase-incremental.sh cloud1-d0gq8e1gidc917363 data dist",
+    "deploy:cloudbase:image-thumbs": "npm run deploy:cloudbase:thumbs && npm run deploy:cloudbase:data",
     "deploy:cloudbase:thumbs": "bash ./scripts/deploy-cloudbase-incremental.sh cloud1-d0gq8e1gidc917363 thumbs dist",
     "deploy:cloudbase:user-images": "bash ./scripts/deploy-cloudbase-incremental.sh cloud1-d0gq8e1gidc917363 user-images dist",
     "preview": "vite preview",

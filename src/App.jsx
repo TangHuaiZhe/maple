@@ -14,8 +14,10 @@ import {
   loadCatalog,
   loadCultivar,
   loadDevRecord,
+  loadThumbnailManifest,
   normalizeCultivarToken,
   readFavoriteIds,
+  resolveThumbnailUrl,
   saveDevRecord,
   uniqueValues,
   writeFavoriteIds,
@@ -998,9 +1000,10 @@ function ImageLightbox({ images, activeIndex, title, subtitle, onClose, onStep, 
   );
 }
 
-function CultivarCard({ item, prioritizeEditorialImage = false, strings, locale, isFavorite, onToggleFavorite }) {
+function CultivarCard({ item, prioritizeEditorialImage = false, strings, locale, isFavorite, onToggleFavorite, thumbnailManifest }) {
   const description = getPreferredDescription(item, locale);
   const cover = getVisibleCover(item, { prioritizeEditorial: prioritizeEditorialImage });
+  const coverSrc = resolveThumbnailUrl(cover, thumbnailManifest, 480);
   const coverSourceKey = getCoverSourceKey(item, cover);
   const coverSourceLabel = getCoverSourceLabel(coverSourceKey, locale);
 
@@ -1014,7 +1017,7 @@ function CultivarCard({ item, prioritizeEditorialImage = false, strings, locale,
       />
       <Link className="cultivar-visual" to={`/cultivar/${item.id}`}>
         {cover ? (
-          <img src={cover} alt={item.display_name || item.canonical_name} loading="lazy" />
+          <img src={coverSrc} alt={item.display_name || item.canonical_name} loading="lazy" />
         ) : (
           <div className="image-fallback">{strings.common.noImage}</div>
         )}
@@ -1054,7 +1057,7 @@ function AlphabetToolbar({ letters, onSelect, strings }) {
   );
 }
 
-function CatalogSections({ sections, prioritizeEditorialImage, strings, locale, favoriteSet, onToggleFavorite }) {
+function CatalogSections({ sections, prioritizeEditorialImage, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }) {
   if (!sections.length) {
     return <div className="empty-state">{strings.common.noResults}</div>;
   }
@@ -1077,6 +1080,7 @@ function CatalogSections({ sections, prioritizeEditorialImage, strings, locale, 
                 locale={locale}
                 isFavorite={favoriteSet.has(item.id)}
                 onToggleFavorite={onToggleFavorite}
+                thumbnailManifest={thumbnailManifest}
               />
             ))}
           </div>
@@ -1086,7 +1090,7 @@ function CatalogSections({ sections, prioritizeEditorialImage, strings, locale, 
   );
 }
 
-function RHSAwardPage({ records, strings, locale, favoriteSet, onToggleFavorite }) {
+function RHSAwardPage({ records, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }) {
   const recordMap = new Map(records.map((record) => [record.id, record]));
   const resolvedSelections = RHS_AWARD_SELECTIONS
     .map((selection) => {
@@ -1125,6 +1129,7 @@ function RHSAwardPage({ records, strings, locale, favoriteSet, onToggleFavorite 
                 locale={locale}
                 isFavorite={favoriteSet.has(item.id)}
                 onToggleFavorite={onToggleFavorite}
+                thumbnailManifest={thumbnailManifest}
               />
             ))}
           </div>
@@ -1134,7 +1139,7 @@ function RHSAwardPage({ records, strings, locale, favoriteSet, onToggleFavorite 
   );
 }
 
-function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, locale, favoriteSet, onToggleFavorite }) {
+function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }) {
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [pendingLetter, setPendingLetter] = useState("");
   const sentinelRef = useRef(null);
@@ -1225,6 +1230,7 @@ function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, 
         locale={locale}
         favoriteSet={favoriteSet}
         onToggleFavorite={onToggleFavorite}
+        thumbnailManifest={thumbnailManifest}
       />
       <div className="catalog-actions">
         <p className="catalog-progress">
@@ -1237,7 +1243,7 @@ function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, 
   );
 }
 
-function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite }) {
+function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }) {
   const location = useLocation();
   const navigate = useNavigate();
   const initialQuery = new URLSearchParams(location.search).get("q") || "";
@@ -1294,12 +1300,13 @@ function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite }) {
         locale={locale}
         favoriteSet={favoriteSet}
         onToggleFavorite={onToggleFavorite}
+        thumbnailManifest={thumbnailManifest}
       />
     </div>
   );
 }
 
-function PopularPage({ records, strings, locale, favoriteSet, onToggleFavorite }) {
+function PopularPage({ records, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }) {
   const recordMap = new Map(records.map((r) => [r.id, r]));
   const popularItems = POPULAR_IDS
     .map((id) => recordMap.get(id))
@@ -1327,6 +1334,7 @@ function PopularPage({ records, strings, locale, favoriteSet, onToggleFavorite }
                 locale={locale}
                 isFavorite={favoriteSet.has(item.id)}
                 onToggleFavorite={onToggleFavorite}
+                thumbnailManifest={thumbnailManifest}
               />
             ))}
           </div>
@@ -1336,7 +1344,7 @@ function PopularPage({ records, strings, locale, favoriteSet, onToggleFavorite }
   );
 }
 
-function FavoritesPage({ records, strings, locale, onToggleFavorite }) {
+function FavoritesPage({ records, strings, locale, onToggleFavorite, thumbnailManifest }) {
   if (!records.length) {
     return (
       <div className="page-shell">
@@ -1370,6 +1378,7 @@ function FavoritesPage({ records, strings, locale, onToggleFavorite }) {
         locale={locale}
         favoriteSet={new Set(records.map((record) => record.id))}
         onToggleFavorite={onToggleFavorite}
+        thumbnailManifest={thumbnailManifest}
       />
     </div>
   );
@@ -1380,7 +1389,7 @@ function LegacySearchRedirect() {
   return <Navigate to={{ pathname: "/", search: location.search }} replace />;
 }
 
-function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
+function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailManifest }) {
   const { id } = useParams();
   const [item, setItem] = useState(null);
   const [status, setStatus] = useState("loading");
@@ -1528,6 +1537,7 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
   const rhsEnglish = item.rhs_en || item.rhs;
   const rhsLabels = RHS_FIELD_LABELS[locale] || RHS_FIELD_LABELS.zh;
   const cover = getVisibleCover(item);
+  const coverSrc = resolveThumbnailUrl(cover, thumbnailManifest, 960);
   const isFavorite = favoriteSet.has(item.id);
   const sizeSummary = getSizeSummary(rhs, rhsEnglish, locale);
   const detailTraits = getDetailTraits(item, locale, rhsLabels);
@@ -1682,7 +1692,7 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
                 onClick={() => openPreview(cover)}
                 aria-label={`${strings.common.imagePreviewHint}: ${item.display_name}`}
               >
-                <img src={cover} alt={item.display_name} />
+                <img src={coverSrc} alt={item.display_name} />
                 <span className="image-preview-hint">{strings.common.imagePreviewHint}</span>
               </button>
             ) : (
@@ -1821,7 +1831,11 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
                     onClick={() => openPreview(imagePath)}
                     aria-label={`${strings.common.imagePreviewHint}: ${item.display_name} ${index + 1}`}
                   >
-                    <img src={imagePath} alt={item.display_name} loading="lazy" />
+                    <img
+                      src={resolveThumbnailUrl(imagePath, thumbnailManifest, index === 0 ? 960 : 480)}
+                      alt={item.display_name}
+                      loading="lazy"
+                    />
                     <span className="image-preview-hint">{strings.common.imagePreviewHint}</span>
                   </button>
                 </figure>
@@ -1866,6 +1880,7 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite }) {
 
 export default function App() {
   const [records, setRecords] = useState([]);
+  const [thumbnailManifest, setThumbnailManifest] = useState({});
   const [status, setStatus] = useState("loading");
   const [error, setError] = useState("");
   const [locale, setLocale] = useState("zh");
@@ -1896,9 +1911,10 @@ export default function App() {
   }
 
   useEffect(() => {
-    loadCatalog()
-      .then((data) => {
+    Promise.all([loadCatalog(), loadThumbnailManifest()])
+      .then(([data, manifest]) => {
         setRecords(data);
+        setThumbnailManifest(manifest);
         setStatus("ready");
       })
       .catch((err) => {
@@ -1959,6 +1975,7 @@ export default function App() {
               locale={locale}
               favoriteSet={favoriteSet}
               onToggleFavorite={toggleFavorite}
+              thumbnailManifest={thumbnailManifest}
             />
           )}
         />
@@ -1971,6 +1988,7 @@ export default function App() {
               locale={locale}
               favoriteSet={favoriteSet}
               onToggleFavorite={toggleFavorite}
+              thumbnailManifest={thumbnailManifest}
             />
           )}
         />
@@ -1984,6 +2002,7 @@ export default function App() {
               locale={locale}
               favoriteSet={favoriteSet}
               onToggleFavorite={toggleFavorite}
+              thumbnailManifest={thumbnailManifest}
             />
           )}
         />
@@ -1995,6 +2014,7 @@ export default function App() {
               strings={strings}
               locale={locale}
               onToggleFavorite={toggleFavorite}
+              thumbnailManifest={thumbnailManifest}
             />
           )}
         />
@@ -2006,6 +2026,7 @@ export default function App() {
               strings={strings}
               favoriteSet={favoriteSet}
               onToggleFavorite={toggleFavorite}
+              thumbnailManifest={thumbnailManifest}
             />
           )}
         />

@@ -2,6 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 
 import {
+  createThumbnailManifest,
   createThumbnailPublicPath,
   planThumbnailJobs,
 } from "../image-thumbs.mjs";
@@ -92,4 +93,32 @@ test("planThumbnailJobs can include every source image when requested", () => {
   assert.deepEqual(jobs.map((job) => job.thumbPublicPath), [
     "/thumbs/rhs-images/a/01-w480.webp",
   ]);
+});
+
+test("createThumbnailManifest includes only available thumbnail sizes for each source", () => {
+  const manifest = createThumbnailManifest({
+    imageFiles: [
+      { publicPath: "/mrmaple-images/a/01.jpg" },
+      { publicPath: "/mrmaple-images/a/02.jpg" },
+    ],
+    existingThumbPaths: new Set([
+      "/thumbs/mrmaple-images/a/01-w480.webp",
+    ]),
+    generatedJobs: [
+      {
+        sourcePublicPath: "/mrmaple-images/a/02.jpg",
+        thumbPublicPath: "/thumbs/mrmaple-images/a/02-w960.webp",
+      },
+    ],
+    sizes: [480, 960],
+  });
+
+  assert.deepEqual(manifest, {
+    "/mrmaple-images/a/01.jpg": {
+      480: "/thumbs/mrmaple-images/a/01-w480.webp",
+    },
+    "/mrmaple-images/a/02.jpg": {
+      960: "/thumbs/mrmaple-images/a/02-w960.webp",
+    },
+  });
 });

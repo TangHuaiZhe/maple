@@ -71,7 +71,7 @@ export function mergeLocalizedValue(baseValue, localizedValue) {
 }
 
 export function shouldAppendCacheBust(value) {
-  return /^\/?(data|rhs-images|mrmaple-images|herter-images|ncsu-images|coniferkingdom-images|jmac-images|user-images)\//.test(String(value || ""));
+  return /^\/?(data|thumbs|rhs-images|mrmaple-images|herter-images|ncsu-images|coniferkingdom-images|jmac-images|user-images)\//.test(String(value || ""));
 }
 
 export function appendCacheBust(url, cacheBust = DEPLOY_CACHE_BUST) {
@@ -102,6 +102,37 @@ export function resolveAppUrl(value, { baseUrl = APP_BASE_URL, cacheBust = DEPLO
 
   const resolved = `${base}${normalized}`;
   return shouldAppendCacheBust(normalized) ? appendCacheBust(resolved, cacheBust) : resolved;
+}
+
+function getAssetPathname(value, { baseUrl = APP_BASE_URL } = {}) {
+  const rawValue = String(value || "");
+  if (!rawValue) {
+    return "";
+  }
+
+  let pathname = rawValue.split(/[?#]/)[0];
+
+  try {
+    pathname = new URL(rawValue, "https://example.invalid").pathname;
+  } catch {}
+
+  const basePath = new URL(baseUrl, "https://example.invalid").pathname;
+  if (basePath !== "/" && pathname.startsWith(basePath)) {
+    pathname = `/${pathname.slice(basePath.length)}`;
+  }
+
+  return pathname.startsWith("/") ? pathname : `/${pathname}`;
+}
+
+export function resolveThumbnailUrl(imageUrl, thumbnailManifest = {}, width = 480, options = {}) {
+  const publicPath = getAssetPathname(imageUrl, options);
+  const thumbnailPath = thumbnailManifest?.[publicPath]?.[width];
+
+  if (!thumbnailPath) {
+    return imageUrl;
+  }
+
+  return resolveAppUrl(thumbnailPath, options);
 }
 
 export function resolveRecordAssetPaths(record, options) {
@@ -139,6 +170,20 @@ export function resolveRecordAssetPaths(record, options) {
     cover_path: resolveAppUrl(record.cover_path, options),
     images: nextImages,
   };
+}
+
+export function loadThumbnailManifest() {
+  return fetch(resolveAppUrl("/data/image-thumbs.json"), { cache: "no-store" }).then((response) => {
+    if (response.status === 404) {
+      return {};
+    }
+
+    if (!response.ok) {
+      return {};
+    }
+
+    return response.json();
+  }).catch(() => ({}));
 }
 
 export function localizeRecord(record) {

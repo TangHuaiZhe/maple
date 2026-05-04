@@ -5,6 +5,7 @@ import {
   readFavoriteIds,
   resolveAppUrl,
   resolveRecordAssetPaths,
+  resolveThumbnailUrl,
   writeFavoriteIds,
 } from "../dataUtils.mjs";
 
@@ -47,6 +48,32 @@ test("resolveRecordAssetPaths resolves public_user_paths", () => {
   assert.deepEqual(record.images.public_user_paths, [
     "/maple/user-images/acer-palmatum-kogane-sakae/01-kogane.webp?v=test-build",
   ]);
+});
+
+test("resolveThumbnailUrl uses manifest thumbnails with app base and cache busting", () => {
+  const manifest = {
+    "/mrmaple-images/acer-palmatum-fireglow/01.jpg": {
+      480: "/thumbs/mrmaple-images/acer-palmatum-fireglow/01-w480.webp",
+    },
+  };
+
+  assert.equal(
+    resolveThumbnailUrl("/maple/mrmaple-images/acer-palmatum-fireglow/01.jpg?v=source-build", manifest, 480, {
+      baseUrl: "/maple/",
+      cacheBust: "thumb-build",
+    }),
+    "/maple/thumbs/mrmaple-images/acer-palmatum-fireglow/01-w480.webp?v=thumb-build",
+  );
+});
+
+test("resolveThumbnailUrl falls back to the original image when a thumbnail is not listed", () => {
+  assert.equal(
+    resolveThumbnailUrl("/rhs-images/a/01.jpg?v=build", {}, 480, {
+      baseUrl: "/",
+      cacheBust: "build",
+    }),
+    "/rhs-images/a/01.jpg?v=build",
+  );
 });
 
 test("favorite storage normalizes duplicate and blank ids", () => {

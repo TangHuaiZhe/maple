@@ -78,11 +78,12 @@ npm run deploy:cloudbase -- cloud1-d0gq8e1gidc917363 / dist
 npm run deploy:cloudbase:app          # 构建并上传 index.html + assets
 npm run deploy:cloudbase:assets       # 只上传 dist/assets
 npm run deploy:cloudbase:data         # 只上传 dist/data
+npm run deploy:cloudbase:image-thumbs # 上传 dist/thumbs + dist/data/image-thumbs.json
 npm run deploy:cloudbase:thumbs       # 只上传 dist/thumbs
 npm run deploy:cloudbase:user-images  # 只上传 dist/user-images
 ```
 
-生成或更新缩略图后，先运行 `npm run build`，再用 `npm run deploy:cloudbase:thumbs` 单独上传 `dist/thumbs`。
+生成或更新缩略图后，先运行 `npm run build`，再用 `npm run deploy:cloudbase:image-thumbs` 上传 `dist/thumbs` 和 `dist/data/image-thumbs.json`。
 
 ### 增量上传图片目录
 

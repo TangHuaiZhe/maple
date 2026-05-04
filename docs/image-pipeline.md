@@ -51,6 +51,8 @@ npm run image:thumbs:write -- --source-dir=mrmaple-images
 npm run image:thumbs:write -- --source-dir=mrmaple-images --limit=100
 ```
 
+The write command also updates `public/data/image-thumbs.json`. The Web app only uses thumbnail URLs listed in this manifest; missing entries automatically fall back to original image URLs. The detail lightbox always uses originals.
+
 Useful options:
 
 - `--source-dir=mrmaple-images` limits work to one public image directory
@@ -81,7 +83,7 @@ Deploy generated thumbnails after build:
 
 ```bash
 npm run build
-npm run deploy:cloudbase:thumbs
+npm run deploy:cloudbase:image-thumbs
 ```
 
 Then verify a few representative pages:

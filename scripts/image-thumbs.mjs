@@ -11,6 +11,7 @@ import {
 
 const appRoot = process.cwd();
 const publicRoot = path.join(appRoot, "public");
+const manifestPath = path.join(publicRoot, "data", "image-thumbs.json");
 const defaultSizes = [480, 960];
 const defaultMinSourceBytes = 250 * 1024;
 
@@ -150,6 +151,51 @@ export function planThumbnailJobs({
   return jobs;
 }
 
+export function createThumbnailManifest({
+  existingThumbPaths = new Set(),
+  generatedJobs = [],
+  imageFiles,
+  sizes = defaultSizes,
+}) {
+  const availableThumbPaths = new Set([
+    ...existingThumbPaths,
+    ...generatedJobs.map((job) => job.thumbPublicPath),
+  ]);
+  const manifest = {};
+
+  for (const file of imageFiles || []) {
+    const sourcePublicPath = normalizePublicPath(file.publicPath);
+    if (sourcePublicPath.startsWith("/thumbs/")) {
+      continue;
+    }
+
+    for (const width of sizes) {
+      const thumbPublicPath = createThumbnailPublicPath(sourcePublicPath, width);
+      if (!availableThumbPaths.has(thumbPublicPath)) {
+        continue;
+      }
+
+      manifest[sourcePublicPath] = {
+        ...(manifest[sourcePublicPath] || {}),
+        [width]: thumbPublicPath,
+      };
+    }
+  }
+
+  return manifest;
+}
+
+async function writeThumbnailManifest({ existingThumbPaths, generatedJobs, imageFiles, sizes }) {
+  const manifest = createThumbnailManifest({
+    existingThumbPaths,
+    generatedJobs,
+    imageFiles,
+    sizes,
+  });
+  await fs.writeFile(manifestPath, `${JSON.stringify(manifest, null, 2)}\n`);
+  return manifest;
+}
+
 async function generateThumbnail(job, sharp) {
   await fs.mkdir(path.dirname(job.thumbFilePath), { recursive: true });
   await sharp(job.sourceFilePath)
@@ -224,12 +270,22 @@ async function run() {
   }
 
   let generated = 0;
+  const generatedJobs = [];
   for (const job of jobs) {
     await generateThumbnail(job, sharp);
+    existingThumbPaths.add(job.thumbPublicPath);
+    generatedJobs.push(job);
     generated += 1;
   }
 
   console.log(`Generated ${generated} thumbnails.`);
+  const manifest = await writeThumbnailManifest({
+    existingThumbPaths,
+    generatedJobs,
+    imageFiles,
+    sizes: options.sizes,
+  });
+  console.log(`Wrote ${Object.keys(manifest).length} manifest entries to public/data/image-thumbs.json.`);
 }
 
 const currentFile = fileURLToPath(import.meta.url);
