@@ -2,6 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 
 import {
+  applyPrimaryCoverSelection,
   readFavoriteIds,
   resolveAppUrl,
   resolveRecordAssetPaths,
@@ -88,6 +89,32 @@ test("setRecordPrimaryCover stores normalized public image path", () => {
   assert.deepEqual(record, {
     id: "acer-palmatum-kasagi-yama",
     selected_cover_path: "/user-images/acer-palmatum-kasagi-yama/04-IMG_1309.jpg",
+  });
+});
+
+test("applyPrimaryCoverSelection updates the current record cover immediately", () => {
+  const record = applyPrimaryCoverSelection({
+    id: "acer-palmatum-kasagi-yama",
+    cover_path: "/user-images/acer-palmatum-kasagi-yama/01.jpg?v=build",
+    images: {
+      public_cover_path: "/user-images/acer-palmatum-kasagi-yama/01.jpg?v=build",
+      public_paths: [
+        "/user-images/acer-palmatum-kasagi-yama/01.jpg?v=build",
+        "/user-images/acer-palmatum-kasagi-yama/02.jpg?v=build",
+      ],
+    },
+  }, "/user-images/acer-palmatum-kasagi-yama/02.jpg?v=build");
+
+  assert.deepEqual(record, {
+    id: "acer-palmatum-kasagi-yama",
+    cover_path: "/user-images/acer-palmatum-kasagi-yama/02.jpg?v=build",
+    images: {
+      public_cover_path: "/user-images/acer-palmatum-kasagi-yama/02.jpg?v=build",
+      public_paths: [
+        "/user-images/acer-palmatum-kasagi-yama/02.jpg?v=build",
+        "/user-images/acer-palmatum-kasagi-yama/01.jpg?v=build",
+      ],
+    },
   });
 });
 

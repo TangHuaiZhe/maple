@@ -142,6 +142,28 @@ export function setRecordPrimaryCover(record, imageUrl, options = {}) {
   };
 }
 
+export function applyPrimaryCoverSelection(record, imageUrl) {
+  if (!record) {
+    return record;
+  }
+
+  const nextImages = record.images
+    ? {
+        ...record.images,
+        public_cover_path: imageUrl,
+        public_paths: Array.isArray(record.images.public_paths)
+          ? uniqueValues([imageUrl, ...record.images.public_paths])
+          : record.images.public_paths,
+      }
+    : record.images;
+
+  return {
+    ...record,
+    cover_path: imageUrl,
+    images: nextImages,
+  };
+}
+
 export function resolveRecordAssetPaths(record, options) {
   if (!record) {
     return record;
