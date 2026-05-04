@@ -20,11 +20,11 @@ Current result:
 - `herter-images`: 74 files, 4.0 MB
 - `ncsu-images`: 6 files, 2.4 MB
 
-## Recommended Next Step
+## Thumbnail Generation
 
-Do not rewrite originals. Add generated thumbnails beside the current assets and keep original paths for detail lightbox views.
+Do not rewrite originals. Generated thumbnails live beside the current assets, and original paths should stay available for detail lightbox views.
 
-Suggested target layout:
+Target layout:
 
 ```text
 public/thumbs/{source-dir}/{cultivar-id}/{file-base}-w480.webp
@@ -36,6 +36,28 @@ Suggested usage:
 - Catalog cards: `w480`
 - Detail hero and featured gallery tile: `w960`
 - Lightbox/full-size preview: original image path
+
+Preview the generation plan without writing files:
+
+```bash
+npm run image:thumbs
+npm run image:thumbs -- --source-dir=mrmaple-images
+```
+
+Generate thumbnails:
+
+```bash
+npm run image:thumbs:write -- --source-dir=mrmaple-images
+npm run image:thumbs:write -- --source-dir=mrmaple-images --limit=100
+```
+
+Useful options:
+
+- `--source-dir=mrmaple-images` limits work to one public image directory
+- `--sizes=480,960` changes generated widths
+- `--min-source-bytes=256000` changes the non-cover skip threshold
+- `--all` includes unreferenced and small source images
+- `--limit=100` caps planned/generated jobs for incremental batches
 
 ## Generation Criteria
 
@@ -53,6 +75,13 @@ After thumbnail generation:
 ```bash
 npm run image:audit
 npm run check:build
+```
+
+Deploy generated thumbnails after build:
+
+```bash
+npm run build
+npm run deploy:cloudbase:thumbs
 ```
 
 Then verify a few representative pages:

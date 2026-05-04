@@ -6,7 +6,7 @@ TARGET="${2:-app}"
 SOURCE_DIR="${3:-dist}"
 
 if [[ -z "$ENV_ID" ]]; then
-  echo "Usage: bash ./scripts/deploy-cloudbase-incremental.sh <env-id> <app|assets|data|user-images> [source-dir]" >&2
+  echo "Usage: bash ./scripts/deploy-cloudbase-incremental.sh <env-id> <app|assets|data|thumbs|user-images> [source-dir]" >&2
   exit 1
 fi
 
@@ -50,12 +50,15 @@ case "$TARGET" in
   data)
     deploy_dir "$SOURCE_DIR/data" /data
     ;;
+  thumbs)
+    deploy_dir "$SOURCE_DIR/thumbs" /thumbs
+    ;;
   user-images)
     deploy_dir "$SOURCE_DIR/user-images" /user-images
     ;;
   *)
     echo "Unknown target: $TARGET" >&2
-    echo "Expected one of: app, assets, data, user-images" >&2
+    echo "Expected one of: app, assets, data, thumbs, user-images" >&2
     exit 1
     ;;
 esac

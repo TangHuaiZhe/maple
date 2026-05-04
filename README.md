@@ -52,6 +52,15 @@ npm test             # 单元测试
 npm run check:data   # 检查数据一致性与图片路径
 npm run check:build  # 数据检查 + 单元测试 + Web 构建
 npm run image:audit  # 审计图片体积、超大文件、未引用图片
+npm run image:thumbs # 预览缩略图生成计划（dry-run，不写文件）
+npm run image:thumbs:write # 生成 public/thumbs 下的 WebP 缩略图
+```
+
+缩略图默认生成 `w480`、`w960` 两档 WebP 到 `public/thumbs/{source-dir}/{cultivar-id}/{file-base}-w{width}.webp`。默认只处理 `public/data/` 引用到的图片，并跳过小于 250 KB 的非封面源图。常用增量生成：
+
+```bash
+npm run image:thumbs -- --source-dir=mrmaple-images
+npm run image:thumbs:write -- --source-dir=mrmaple-images --limit=100
 ```
 
 ## 部署
@@ -69,8 +78,11 @@ npm run deploy:cloudbase -- cloud1-d0gq8e1gidc917363 / dist
 npm run deploy:cloudbase:app          # 构建并上传 index.html + assets
 npm run deploy:cloudbase:assets       # 只上传 dist/assets
 npm run deploy:cloudbase:data         # 只上传 dist/data
+npm run deploy:cloudbase:thumbs       # 只上传 dist/thumbs
 npm run deploy:cloudbase:user-images  # 只上传 dist/user-images
 ```
+
+生成或更新缩略图后，先运行 `npm run build`，再用 `npm run deploy:cloudbase:thumbs` 单独上传 `dist/thumbs`。
 
 ### 增量上传图片目录
 

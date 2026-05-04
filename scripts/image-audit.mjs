@@ -105,7 +105,7 @@ async function readJson(filePath) {
   return JSON.parse(await fs.readFile(filePath, "utf8"));
 }
 
-async function loadRecords() {
+export async function loadRecords() {
   const catalogRecords = await readJson(path.join(dataRoot, "catalog.json"));
   const detailEntries = await fs.readdir(detailsRoot);
   const detailRecords = [];
@@ -143,6 +143,7 @@ async function scanImageDir(dirName) {
       const stat = await fs.stat(filePath);
       const relativePath = path.relative(path.join(publicRoot, dirName), filePath).split(path.sep).join("/");
       files.push({
+        filePath,
         publicPath: `/${dirName}/${relativePath}`,
         size: stat.size,
       });
@@ -153,12 +154,12 @@ async function scanImageDir(dirName) {
   return files;
 }
 
-async function scanImageFiles(imageDirs = defaultImageDirs) {
+export async function scanImageFiles(imageDirs = defaultImageDirs) {
   const nested = await Promise.all(imageDirs.map(scanImageDir));
   return nested.flat();
 }
 
-function formatBytes(bytes) {
+export function formatBytes(bytes) {
   if (bytes >= 1024 * 1024 * 1024) return `${(bytes / 1024 / 1024 / 1024).toFixed(2)} GB`;
   if (bytes >= 1024 * 1024) return `${(bytes / 1024 / 1024).toFixed(1)} MB`;
   if (bytes >= 1024) return `${(bytes / 1024).toFixed(1)} KB`;

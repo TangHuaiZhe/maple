@@ -1,0 +1,95 @@
+import test from "node:test";
+import assert from "node:assert/strict";
+
+import {
+  createThumbnailPublicPath,
+  planThumbnailJobs,
+} from "../image-thumbs.mjs";
+
+test("createThumbnailPublicPath maps public images into width-specific webp thumbnails", () => {
+  assert.equal(
+    createThumbnailPublicPath("/mrmaple-images/acer-palmatum-fireglow/01.JPG", 480),
+    "/thumbs/mrmaple-images/acer-palmatum-fireglow/01-w480.webp",
+  );
+
+  assert.equal(
+    createThumbnailPublicPath("/user-images/acer-palmatum-kogane-sakae/cover.webp?v=20260502", 960),
+    "/thumbs/user-images/acer-palmatum-kogane-sakae/cover-w960.webp",
+  );
+});
+
+test("planThumbnailJobs generates jobs for referenced large images and skips existing outputs", () => {
+  const jobs = planThumbnailJobs({
+    imageFiles: [
+      { publicPath: "/mrmaple-images/a/01.jpg", filePath: "/repo/public/mrmaple-images/a/01.jpg", size: 600_000 },
+      { publicPath: "/mrmaple-images/a/02.jpg", filePath: "/repo/public/mrmaple-images/a/02.jpg", size: 600_000 },
+      { publicPath: "/mrmaple-images/a/03.jpg", filePath: "/repo/public/mrmaple-images/a/03.jpg", size: 100_000 },
+      { publicPath: "/mrmaple-images/unreferenced/01.jpg", filePath: "/repo/public/mrmaple-images/unreferenced/01.jpg", size: 900_000 },
+    ],
+    referencedPaths: new Set([
+      "/mrmaple-images/a/01.jpg",
+      "/mrmaple-images/a/02.jpg",
+      "/mrmaple-images/a/03.jpg",
+    ]),
+    coverPaths: new Set(["/mrmaple-images/a/03.jpg"]),
+    existingThumbPaths: new Set(["/thumbs/mrmaple-images/a/01-w480.webp"]),
+    publicRoot: "/repo/public",
+    sizes: [480, 960],
+    minSourceBytes: 250_000,
+  });
+
+  assert.deepEqual(
+    jobs.map((job) => ({
+      sourcePublicPath: job.sourcePublicPath,
+      thumbPublicPath: job.thumbPublicPath,
+      width: job.width,
+    })),
+    [
+      {
+        sourcePublicPath: "/mrmaple-images/a/01.jpg",
+        thumbPublicPath: "/thumbs/mrmaple-images/a/01-w960.webp",
+        width: 960,
+      },
+      {
+        sourcePublicPath: "/mrmaple-images/a/02.jpg",
+        thumbPublicPath: "/thumbs/mrmaple-images/a/02-w480.webp",
+        width: 480,
+      },
+      {
+        sourcePublicPath: "/mrmaple-images/a/02.jpg",
+        thumbPublicPath: "/thumbs/mrmaple-images/a/02-w960.webp",
+        width: 960,
+      },
+      {
+        sourcePublicPath: "/mrmaple-images/a/03.jpg",
+        thumbPublicPath: "/thumbs/mrmaple-images/a/03-w480.webp",
+        width: 480,
+      },
+      {
+        sourcePublicPath: "/mrmaple-images/a/03.jpg",
+        thumbPublicPath: "/thumbs/mrmaple-images/a/03-w960.webp",
+        width: 960,
+      },
+    ],
+  );
+  assert.equal(jobs[0].thumbFilePath, "/repo/public/thumbs/mrmaple-images/a/01-w960.webp");
+});
+
+test("planThumbnailJobs can include every source image when requested", () => {
+  const jobs = planThumbnailJobs({
+    imageFiles: [
+      { publicPath: "/rhs-images/a/01.jpg", filePath: "/repo/public/rhs-images/a/01.jpg", size: 100_000 },
+    ],
+    referencedPaths: new Set(),
+    coverPaths: new Set(),
+    existingThumbPaths: new Set(),
+    publicRoot: "/repo/public",
+    sizes: [480],
+    minSourceBytes: 250_000,
+    includeAll: true,
+  });
+
+  assert.deepEqual(jobs.map((job) => job.thumbPublicPath), [
+    "/thumbs/rhs-images/a/01-w480.webp",
+  ]);
+});

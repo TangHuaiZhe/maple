@@ -15,10 +15,13 @@
 - `npm run check:data` — 检查 `public/data/` 一致性与图片路径是否存在
 - `npm run check:build` — 数据检查 + 单元测试 + Web 构建
 - `npm run image:audit` — 审计图片目录体积、超大文件、未引用图片
+- `npm run image:thumbs` — 预览缩略图生成计划（dry-run，不写文件）
+- `npm run image:thumbs:write` — 生成 `public/thumbs` WebP 缩略图
 - `npm run sync-mini-popular-ids` — 从 `public/data/popular-ids.json` 同步小程序流行品种列表
 - `npm run deploy:cloudbase -- cloud1-d0gq8e1gidc917363 / dist` — 部署到腾讯云
 - `npm run deploy:cloudbase:app` — 构建并增量上传 `index.html` 与 `assets`
 - `npm run deploy:cloudbase:data` — 增量上传 `dist/data`
+- `npm run deploy:cloudbase:thumbs` — 增量上传 `dist/thumbs`（先运行 `npm run build`）
 - `npm run deploy:cloudbase:user-images` — 增量上传 `dist/user-images`（先运行 `npm run build`）
 - `npm run mini:build` — 构建微信小程序（单次）
 - `npm run mini:dev` — 小程序监听模式：修改 `mini/src/` 源文件后自动重新编译到 `mini/dist/`，配合微信开发者工具实时预览
@@ -28,6 +31,13 @@
 - `public/data/` 下的 JSON 是最终产物，修改品种信息需同时更新 `catalog.json`、`details/{id}.json`、`merged-cultivars.json`
 - 流行品种 ID 列表：以 `public/data/popular-ids.json` 为源；小程序副本由 `npm run sync-mini-popular-ids` 同步
 - RHS 获奖列表：`src/App.jsx` 的 `RHS_AWARD_SELECTIONS`
+
+## 图片与缩略图
+- 原图保留在 `public/{source-images}/...`，不要为了缩略图改写原图路径
+- 缩略图生成到 `public/thumbs/{source-dir}/{cultivar-id}/{file-base}-w480.webp` 和 `-w960.webp`
+- 先用 `npm run image:thumbs -- --source-dir=mrmaple-images` 看计划，再用 `npm run image:thumbs:write -- --source-dir=mrmaple-images` 写入
+- 缩略图默认只处理 `public/data/` 引用图片，跳过小于 250 KB 的非封面源图；可用 `--all` 全量处理
+- 生成后运行 `npm run build`，再用 `npm run deploy:cloudbase:thumbs` 增量上传
 
 ## 线上图片故障排查
 - 本地有图、线上无图时，先 `curl -I -L` 检查线上图片 URL 是否 `200`；若是 `404`，运行 `npm run build` 后用 `npm run deploy:cloudbase:user-images` 增量上传
