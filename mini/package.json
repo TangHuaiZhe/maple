@@ -13,7 +13,9 @@
     "css": "sass"
   },
   "scripts": {
+    "prebuild:weapp": "node ../scripts/write-mini-build-info.mjs",
     "build:weapp": "NODE_ENV=production taro build --type weapp",
+    "prebuild:weapp:dev": "node ../scripts/write-mini-build-info.mjs",
     "build:weapp:dev": "NODE_ENV=development taro build --type weapp",
     "build:h5": "taro build --type h5",
     "dev:weapp": "npm run build:weapp:dev -- --watch",

@@ -1,4 +1,5 @@
 import { View, Text } from '@tarojs/components'
+import Taro from '@tarojs/taro'
 import { useCatalog } from '../../hooks/useCatalog'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
@@ -26,7 +27,15 @@ export default function FavoritesPage() {
             <Text className='page-title'>{t.favorites.title}</Text>
             <Text className='page-subtitle'>{t.favorites.subtitle}</Text>
           </View>
-          <LocaleSwitch />
+          <View className='favorites-actions'>
+            <View
+              className='favorites-actions__about'
+              onClick={() => Taro.navigateTo({ url: '/pages/about/index' })}
+            >
+              <Text>{locale === 'zh' ? '版本信息' : 'Version'}</Text>
+            </View>
+            <LocaleSwitch />
+          </View>
         </View>
         {favoriteItems.length > 0 && (
           <Text className='meta-chip' style={{ marginTop: '16rpx' }}>

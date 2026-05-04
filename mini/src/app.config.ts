@@ -5,6 +5,7 @@ export default defineAppConfig({
     'pages/search/index',
     'pages/awards/index',
     'pages/favorites/index',
+    'pages/about/index',
     'pages/cultivar-detail/index'
   ],
   window: {
