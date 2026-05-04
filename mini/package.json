@@ -1,6 +1,6 @@
 {
   "name": "mini",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "private": true,
   "description": "Japanese Maple Mini Program",
   "sideEffects": [
