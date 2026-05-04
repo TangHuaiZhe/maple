@@ -104,7 +104,7 @@ export function resolveAppUrl(value, { baseUrl = APP_BASE_URL, cacheBust = DEPLO
   return shouldAppendCacheBust(normalized) ? appendCacheBust(resolved, cacheBust) : resolved;
 }
 
-function getAssetPathname(value, { baseUrl = APP_BASE_URL } = {}) {
+export function getAssetPathname(value, { baseUrl = APP_BASE_URL } = {}) {
   const rawValue = String(value || "");
   if (!rawValue) {
     return "";
@@ -133,6 +133,13 @@ export function resolveThumbnailUrl(imageUrl, thumbnailManifest = {}, width = 48
   }
 
   return resolveAppUrl(thumbnailPath, options);
+}
+
+export function setRecordPrimaryCover(record, imageUrl, options = {}) {
+  return {
+    ...record,
+    selected_cover_path: getAssetPathname(imageUrl, options),
+  };
 }
 
 export function resolveRecordAssetPaths(record, options) {

@@ -457,6 +457,10 @@ textarea {
   background: rgba(49, 103, 67, 0.86);
 }
 
+.source-user {
+  background: rgba(107, 82, 132, 0.86);
+}
+
 .cultivar-meta {
   display: grid;
   align-content: start;
@@ -697,6 +701,20 @@ textarea {
   margin-top: 18px;
 }
 
+
+.detail-search-result-copy em {
+  color: var(--muted);
+  font-style: normal;
+}
+
+.detail-search-result-meta {
+  color: var(--forest);
+  font-size: 0.84rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-align: right;
+}
+
 .detail-description-layer {
   display: grid;
   gap: 12px;
@@ -932,6 +950,7 @@ textarea {
    =========================== */
 
 .gallery-card {
+  position: relative;
   aspect-ratio: 4 / 5;
   min-height: 320px;
 }
@@ -1143,6 +1162,37 @@ textarea {
   width: 18px;
   height: 18px;
   accent-color: var(--accent);
+}
+
+.cover-select-button {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  z-index: 2;
+  min-height: 34px;
+  padding: 0 12px;
+  border: 1px solid rgba(255, 255, 255, 0.62);
+  border-radius: 999px;
+  background: rgba(47, 33, 20, 0.78);
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 10px 22px rgba(47, 33, 20, 0.18);
+}
+
+.cover-select-button:hover,
+.cover-select-button:focus-visible {
+  background: rgba(152, 55, 38, 0.92);
+}
+
+.cover-select-button.active {
+  background: rgba(85, 104, 68, 0.92);
+}
+
+.cover-select-button:disabled {
+  cursor: wait;
+  opacity: 0.72;
 }
 
 /* ===========================

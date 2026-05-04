@@ -6,6 +6,7 @@ import {
   resolveAppUrl,
   resolveRecordAssetPaths,
   resolveThumbnailUrl,
+  setRecordPrimaryCover,
   writeFavoriteIds,
 } from "../dataUtils.mjs";
 
@@ -74,6 +75,20 @@ test("resolveThumbnailUrl falls back to the original image when a thumbnail is n
     }),
     "/rhs-images/a/01.jpg?v=build",
   );
+});
+
+test("setRecordPrimaryCover stores normalized public image path", () => {
+  const record = setRecordPrimaryCover({
+    id: "acer-palmatum-kasagi-yama",
+    selected_cover_path: "/old/path.jpg",
+  }, "/maple/user-images/acer-palmatum-kasagi-yama/04-IMG_1309.jpg?v=build", {
+    baseUrl: "/maple/",
+  });
+
+  assert.deepEqual(record, {
+    id: "acer-palmatum-kasagi-yama",
+    selected_cover_path: "/user-images/acer-palmatum-kasagi-yama/04-IMG_1309.jpg",
+  });
 });
 
 test("favorite storage normalizes duplicate and blank ids", () => {

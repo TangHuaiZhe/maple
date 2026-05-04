@@ -19,6 +19,7 @@ import {
   readFavoriteIds,
   resolveThumbnailUrl,
   saveDevRecord,
+  setRecordPrimaryCover,
   uniqueValues,
   writeFavoriteIds,
 } from "./dataUtils.mjs";
@@ -54,6 +55,8 @@ const UI_STRINGS = {
       loadMore: "加载更多",
       loadMoreImages: "加载更多图片",
       imagePreviewHint: "点击查看大图",
+      setAsCover: "设为主图",
+      coverSelected: "当前主图",
       addFavorite: "收藏",
       removeFavorite: "取消收藏",
       favorited: "已收藏",
@@ -66,6 +69,7 @@ const UI_STRINGS = {
       mrMaple: "Mr Maple",
       conifer: "Conifer Kingdom",
       jmac: "Japanese Maples & Conifers",
+      user: "用户图片",
     },
     lightbox: {
       dialogSuffix: "图片预览",
@@ -170,6 +174,8 @@ const UI_STRINGS = {
       loadMore: "Load More",
       loadMoreImages: "Load More Images",
       imagePreviewHint: "View full size",
+      setAsCover: "Set Cover",
+      coverSelected: "Current Cover",
       addFavorite: "Save",
       removeFavorite: "Remove Favorite",
       favorited: "Saved",
@@ -182,6 +188,7 @@ const UI_STRINGS = {
       mrMaple: "Mr Maple",
       conifer: "Conifer Kingdom",
       jmac: "Japanese Maples & Conifers",
+      user: "User Image",
     },
     lightbox: {
       dialogSuffix: "Image Preview",
@@ -541,6 +548,8 @@ function getCoverSourceKey(item, cover) {
     if (normalizedSource.includes("ncsu")) return "ncsu";
     if (normalizedSource.includes("mr")) return "mrMaple";
     if (normalizedSource.includes("japanese maples & conifers")) return "jmac";
+    if (normalizedSource.includes("conifer")) return "conifer";
+    if (normalizedSource.includes("user")) return "user";
     return "none";
   }
   if ((item.images?.public_rhs_paths || []).includes(cover)) return "rhs";
@@ -549,6 +558,7 @@ function getCoverSourceKey(item, cover) {
   if ((item.images?.public_mrmaple_paths || []).includes(cover)) return "mrMaple";
   if ((item.images?.public_conifer_paths || []).includes(cover)) return "conifer";
   if ((item.images?.public_jmac_paths || []).includes(cover)) return "jmac";
+  if ((item.images?.public_user_paths || []).includes(cover)) return "user";
   return "none";
 }
 
@@ -580,6 +590,7 @@ function pickEditableRecord(record) {
     species: record.species ?? "",
     top_category: record.top_category ?? "",
     web_group: record.web_group ?? "",
+    selected_cover_path: record.selected_cover_path ?? "",
     book_groups: record.book_groups || [],
     color_groups: record.color_groups || [],
     aliases: record.aliases || [],
@@ -626,6 +637,7 @@ function mergeEditableRecord(baseRecord, editedRecord) {
     "species",
     "top_category",
     "web_group",
+    "selected_cover_path",
   ].forEach((key) => {
     if (Object.prototype.hasOwnProperty.call(editedRecord, key)) {
       nextRecord[key] = editedRecord[key];
@@ -1404,6 +1416,7 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailM
   const [uploadState, setUploadState] = useState("idle");
   const [uploadMessage, setUploadMessage] = useState("");
   const [compressUploads, setCompressUploads] = useState(true);
+  const [coverSavePath, setCoverSavePath] = useState("");
   const previewImages = item ? uniqueValues([getVisibleCover(item), ...getVisibleImagePaths(item)]) : [];
   const galleryImages = item ? getVisibleImagePaths(item) : [];
   const visibleGalleryImages = galleryImages.slice(0, visibleImageCount);
@@ -1542,7 +1555,6 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailM
   const sizeSummary = getSizeSummary(rhs, rhsEnglish, locale);
   const detailTraits = getDetailTraits(item, locale, rhsLabels);
   const chineseAliases = getChineseAliases(item);
-
   function openPreview(imagePath) {
     const index = previewImages.indexOf(imagePath);
     setPreviewIndex(index >= 0 ? index : 0);
@@ -1618,6 +1630,7 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailM
 
     setUploadState("uploading");
     setUploadMessage("");
+    setCoverSavePath("");
 
     try {
       const formData = new FormData();
@@ -1643,6 +1656,29 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailM
     } catch (err) {
       setUploadState("error");
       setUploadMessage(err.message);
+    }
+  }
+
+  async function handleSetPrimaryCover(imagePath) {
+    setCoverSavePath(imagePath);
+    setEditorMessage("");
+
+    try {
+      const baseRecord = editorBaseRecord || await loadDevRecord(id);
+      const nextRecord = setRecordPrimaryCover(baseRecord, imagePath);
+      const savedRecord = await saveDevRecord(id, nextRecord);
+      const nextItem = await loadCultivar(id);
+
+      setEditorBaseRecord(savedRecord);
+      setEditorDraft(JSON.stringify(pickEditableRecord(savedRecord), null, 2));
+      setItem(nextItem);
+      setEditorState("saved");
+      setEditorMessage(locale === "en" ? "Cover image updated" : "主图已更新");
+    } catch (err) {
+      setEditorState("error");
+      setEditorMessage(err.message);
+    } finally {
+      setCoverSavePath("");
     }
   }
 
@@ -1838,6 +1874,17 @@ function DetailPage({ locale, strings, favoriteSet, onToggleFavorite, thumbnailM
                     />
                     <span className="image-preview-hint">{strings.common.imagePreviewHint}</span>
                   </button>
+                  {DEV_EDITOR_ENABLED ? (
+                    <button
+                      type="button"
+                      className={`cover-select-button ${imagePath === cover ? "active" : ""}`.trim()}
+                      onClick={() => handleSetPrimaryCover(imagePath)}
+                      disabled={coverSavePath === imagePath}
+                      aria-pressed={imagePath === cover}
+                    >
+                      {imagePath === cover ? strings.common.coverSelected : strings.common.setAsCover}
+                    </button>
+                  ) : null}
                 </figure>
               ))
             ) : (

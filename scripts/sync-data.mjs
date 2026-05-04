@@ -434,6 +434,7 @@ function getCoverSource(record, cover) {
   if ((record.images.public_ncsu_paths || []).includes(cover)) return "NCSU";
   if ((record.images.public_conifer_paths || []).includes(cover)) return "Conifer Kingdom";
   if ((record.images.public_jmac_paths || []).includes(cover)) return "Japanese Maples & Conifers";
+  if ((record.images.public_user_paths || []).includes(cover)) return "User";
   return "No Image";
 }
 
@@ -999,14 +1000,22 @@ async function syncJson() {
       ...(record.images.public_jmac_paths || []),
       ...(record.images.public_user_paths || []),
     ]);
+    const selectedCoverPath = String(record.selected_cover_path || "").split("?")[0];
     const bestCoverPath = await pickBestCoverPath(record);
+    const coverPath = publicPaths.includes(selectedCoverPath)
+      ? selectedCoverPath
+      : bestCoverPath;
+    const orderedPublicPaths = uniquePaths([
+      coverPath,
+      ...publicPaths,
+    ]);
     return {
       ...record,
       images: {
         ...record.images,
-        public_cover_path: bestCoverPath || publicPaths[0] || null,
-        public_paths: publicPaths,
-        public_count: publicPaths.length,
+        public_cover_path: coverPath || orderedPublicPaths[0] || null,
+        public_paths: orderedPublicPaths,
+        public_count: orderedPublicPaths.length,
       },
     };
   }));
