@@ -7,6 +7,7 @@ export interface CatalogItem {
   canonical_name: string
   display_name: string
   chinese_name?: string | null
+  japanese_name?: string | null
   scientific_name?: string | null
   species?: string | null
   top_category?: string | null

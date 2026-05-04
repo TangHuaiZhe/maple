@@ -9,6 +9,7 @@ export interface InfoRow {
 export interface DetailInfoLabels {
   nameLabel: string
   chineseNameLabel: string
+  japaneseNameLabel: string
   scientificNameLabel: string
   speciesLabel: string
   categoryLabel: string
@@ -47,6 +48,7 @@ export function buildBasicInfoRows(detail: CultivarDetail, labels: DetailInfoLab
   const rows: [string, string | undefined | null][] = [
     [labels.nameLabel, detail.display_name],
     [labels.chineseNameLabel, detail.chinese_name || formatChineseAliases(detail)],
+    [labels.japaneseNameLabel, detail.japanese_name],
     [labels.scientificNameLabel, detail.scientific_name],
     [labels.speciesLabel, detail.species],
     [labels.categoryLabel, detail.top_category],
