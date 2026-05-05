@@ -119,17 +119,49 @@ export function checkImagePathsExist({ records, publicPathExists = (publicPath) 
   return check;
 }
 
+export function checkDetailFileNameMatchesRecordId({ detailFileRecords }) {
+  const check = result();
+
+  for (const { fileName, record } of detailFileRecords || []) {
+    const expectedId = fileName.replace(/\.json$/i, "");
+    if (record?.id !== expectedId) {
+      check.errors.push(`detail file public/data/details/${fileName} contains id ${formatValue(record?.id)}`);
+    }
+  }
+
+  return check;
+}
+
+export function checkCuratedIdsExist({ catalogRecords, popularIds, awardRecords }) {
+  const check = result();
+  const catalogIds = new Set((catalogRecords || []).map((record) => record.id).filter(Boolean));
+
+  for (const id of popularIds || []) {
+    if (!catalogIds.has(id)) {
+      check.errors.push(`popular id ${id} is missing from public/data/catalog.json`);
+    }
+  }
+
+  for (const record of awardRecords || []) {
+    if (!catalogIds.has(record?.id)) {
+      check.errors.push(`award id ${formatValue(record?.id)} is missing from public/data/catalog.json`);
+    }
+  }
+
+  return check;
+}
+
 async function readJson(filePath) {
   return JSON.parse(await fsp.readFile(filePath, "utf8"));
 }
 
-async function loadDetailRecordsById() {
+async function loadDetailFileRecords() {
   const entries = await fsp.readdir(detailDir);
-  const records = new Map();
+  const records = [];
 
   for (const entry of entries.filter((item) => item.endsWith(".json")).sort()) {
     const record = await readJson(path.join(detailDir, entry));
-    records.set(record.id, record);
+    records.push({ fileName: entry, record });
   }
 
   return records;
@@ -146,11 +178,16 @@ function mergeChecks(checks) {
 async function run() {
   const catalogRecords = await readJson(path.join(publicDataDir, "catalog.json"));
   const mergedRecords = await readJson(path.join(publicDataDir, "merged-cultivars.json"));
-  const detailRecordsById = await loadDetailRecordsById();
+  const popularIds = await readJson(path.join(publicDataDir, "popular-ids.json"));
+  const awardRecords = await readJson(path.join(publicDataDir, "awards.json"));
+  const detailFileRecords = await loadDetailFileRecords();
+  const detailRecordsById = new Map(detailFileRecords.map(({ record }) => [record.id, record]));
   const allDetailRecords = [...detailRecordsById.values()];
 
   return mergeChecks([
     checkCatalogDetailConsistency({ catalogRecords, detailRecordsById, mergedRecords }),
+    checkDetailFileNameMatchesRecordId({ detailFileRecords }),
+    checkCuratedIdsExist({ catalogRecords, popularIds, awardRecords }),
     checkImagePathsExist({ records: [...catalogRecords, ...allDetailRecords] }),
   ]);
 }

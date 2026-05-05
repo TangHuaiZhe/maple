@@ -4,6 +4,7 @@ import assert from "node:assert/strict";
 import {
   applyPrimaryCoverSelection,
   hasRecordImages,
+  loadAwardRecords,
   removeImageFromDetailRecord,
   readFavoriteIds,
   resolveAppUrl,
@@ -36,6 +37,26 @@ test("resolveAppUrl appends cache busting to user image paths", () => {
     }),
     "/user-images/acer-palmatum-kogane-sakae/01-kogane.webp?v=test-build",
   );
+});
+
+test("loadAwardRecords loads awards data through the app URL resolver", async () => {
+  const calls = [];
+  const records = await loadAwardRecords({
+    fetchImpl: (url, options) => {
+      calls.push([url, options]);
+      return Promise.resolve({
+        ok: true,
+        json: () => Promise.resolve([{ id: "acer-palmatum-bloodgood" }]),
+      });
+    },
+    baseUrl: "/maple/",
+    cacheBust: "test-build",
+  });
+
+  assert.deepEqual(calls, [
+    ["/maple/data/awards.json?v=test-build", { cache: "no-store" }],
+  ]);
+  assert.deepEqual(records, [{ id: "acer-palmatum-bloodgood" }]);
 });
 
 test("resolveRecordAssetPaths resolves public_user_paths", () => {

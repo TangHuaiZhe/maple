@@ -3,6 +3,8 @@ import assert from "node:assert/strict";
 
 import {
   checkCatalogDetailConsistency,
+  checkCuratedIdsExist,
+  checkDetailFileNameMatchesRecordId,
   checkImagePathsExist,
 } from "../check-data.mjs";
 
@@ -64,5 +66,34 @@ test("checkImagePathsExist reports public image paths that are missing on disk",
 
   assert.deepEqual(result.errors, [
     "acer-palmatum-kogane-sakae references missing image /user-images/acer-palmatum-kogane-sakae/missing.jpg",
+  ]);
+});
+
+test("checkDetailFileNameMatchesRecordId reports detail files whose id does not match the file name", () => {
+  const result = checkDetailFileNameMatchesRecordId({
+    detailFileRecords: [
+      { fileName: "acer-palmatum-good.json", record: { id: "acer-palmatum-good" } },
+      { fileName: "acer-palmatum-bad.json", record: { id: "acer-palmatum-other" } },
+    ],
+  });
+
+  assert.deepEqual(result.errors, [
+    "detail file public/data/details/acer-palmatum-bad.json contains id acer-palmatum-other",
+  ]);
+});
+
+test("checkCuratedIdsExist reports popular and award ids that are missing from catalog", () => {
+  const result = checkCuratedIdsExist({
+    catalogRecords: [{ id: "acer-palmatum-known" }],
+    popularIds: ["acer-palmatum-known", "acer-palmatum-missing"],
+    awardRecords: [
+      { id: "acer-palmatum-known" },
+      { id: "acer-palmatum-award-missing" },
+    ],
+  });
+
+  assert.deepEqual(result.errors, [
+    "popular id acer-palmatum-missing is missing from public/data/catalog.json",
+    "award id acer-palmatum-award-missing is missing from public/data/catalog.json",
   ]);
 });

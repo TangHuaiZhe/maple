@@ -274,6 +274,19 @@ export function loadThumbnailManifest() {
   }).catch(() => ({}));
 }
 
+export function loadAwardRecords({
+  fetchImpl = globalThis.fetch,
+  baseUrl = APP_BASE_URL,
+  cacheBust = DEPLOY_CACHE_BUST,
+} = {}) {
+  return fetchImpl(resolveAppUrl("/data/awards.json", { baseUrl, cacheBust }), { cache: "no-store" }).then((response) => {
+    if (!response.ok) {
+      throw new Error("无法加载 awards.json");
+    }
+    return response.json();
+  });
+}
+
 export function localizeRecord(record) {
   return {
     ...record,
