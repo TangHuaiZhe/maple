@@ -28,13 +28,22 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
-    "public_user_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-beni-tsukasa-momiji_kaede/01-acer_palmatum_Beni-tsukasa_(JW)_9298.JPG",
-    "public_paths": [
-      "/rhs-images/acer-palmatum-beni-tsukasa-momiji_kaede/01-acer_palmatum_Beni-tsukasa_(JW)_9298.JPG",
-      "/rhs-images/acer-palmatum-beni-tsukasa/01-acer_palmatum_Beni-tsukasa_(JW)_9298.JPG"
+    "public_user_paths": [
+      "/user-images/acer-palmatum-beni-tsukasa/01-benitsukasa1_006bb8a6-aecb-4c74-9c4d-e5fd4d539e2a.jpg",
+      "/user-images/acer-palmatum-beni-tsukasa/02-Acer_palmatum_Beni_tsukasa_Pink_Spring_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2045574.webp",
+      "/user-images/acer-palmatum-beni-tsukasa/03-Acer_palmatum_Beni_tsukasa_Pink_Spring_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2045586.jpg",
+      "/user-images/acer-palmatum-beni-tsukasa/04-Acer_palmatum_Beni_tsukasa_Pink_Spring_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2045594.jpg"
     ],
-    "public_count": 2
+    "public_cover_path": "/user-images/acer-palmatum-beni-tsukasa/01-benitsukasa1_006bb8a6-aecb-4c74-9c4d-e5fd4d539e2a.jpg",
+    "public_paths": [
+      "/user-images/acer-palmatum-beni-tsukasa/01-benitsukasa1_006bb8a6-aecb-4c74-9c4d-e5fd4d539e2a.jpg",
+      "/rhs-images/acer-palmatum-beni-tsukasa/01-acer_palmatum_Beni-tsukasa_(JW)_9298.JPG",
+      "/rhs-images/acer-palmatum-beni-tsukasa-momiji_kaede/01-acer_palmatum_Beni-tsukasa_(JW)_9298.JPG",
+      "/user-images/acer-palmatum-beni-tsukasa/02-Acer_palmatum_Beni_tsukasa_Pink_Spring_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2045574.webp",
+      "/user-images/acer-palmatum-beni-tsukasa/03-Acer_palmatum_Beni_tsukasa_Pink_Spring_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2045586.jpg",
+      "/user-images/acer-palmatum-beni-tsukasa/04-Acer_palmatum_Beni_tsukasa_Pink_Spring_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2045594.jpg"
+    ],
+    "public_count": 6
   },
   "sources": [
     {
@@ -197,5 +206,12 @@
     "preferred": "本品种最引人注目之处在于其出色的色彩层次。 小叶初展时呈鲜亮的橙红色或桃色；成熟后逐渐转为柔和的粉红和红色，并带有淡绿色底调。 有些叶片可见明显的黄绿色叶脉，在红粉色混合的叶面上格外醒目。 进入夏季后，叶色略为加深，许多叶片会出现隐约斑锦，表现为细微斑点状分布，散有极小的浅色小点。 叶片有 5 裂或 7 裂；当为 7 裂时，基部裂片与叶柄基部彼此重叠。 裂片分裂深度约达叶基的 1/2 至 3/4，形状为卵状披针形，边缘具重锯齿，且迅速渐尖成细长尖端。 老枝上的小叶长约 2 厘米、宽约 3 厘米，而强旺新梢上的叶片至少大一倍。 细叶柄长 1. 5 至 3 厘米。 植株枝条细长柔韧，呈柳枝状，但并不下垂。 幼年枝条有时生长较旺，但整体习性偏灌木状。 成熟时可形成中等大小植株，高可达 5 米，但通常更矮。 该品种适合作为小型庭园中的点景植物，也很适合容器栽培。 它与多数红叶 linearilobum 类品种相似，但本组中它的叶片尺寸和最终株型都最小，成熟时仅略高于 2 米。 其小型 5 裂带状叶长宽约 5 至 7 厘米，基部裂片近乎呈直角伸展或略向前指。 每枚裂片中部宽 3 至 6 毫米，先端锐尖，内侧边缘具细锯齿。 细长红色叶柄长 1. 5 至 3 厘米。 幼叶为浅青铜红色，基部略带绿色，很快转为紫红色；在全日照下，夏季红色保持性良好。 该品种是十分特别且美观的容器植物，也可能很适合盆景栽培。"
   },
   "has_mrmaple": false,
-  "mrmaple": null
+  "mrmaple": null,
+  "user_images": [
+    "Resource/园艺/raw/user-images/acer-palmatum-beni-tsukasa/01-benitsukasa1_006bb8a6-aecb-4c74-9c4d-e5fd4d539e2a.jpg",
+    "Resource/园艺/raw/user-images/acer-palmatum-beni-tsukasa/02-Acer_palmatum_Beni_tsukasa_Pink_Spring_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2045574.webp",
+    "Resource/园艺/raw/user-images/acer-palmatum-beni-tsukasa/03-Acer_palmatum_Beni_tsukasa_Pink_Spring_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2045586.jpg",
+    "Resource/园艺/raw/user-images/acer-palmatum-beni-tsukasa/04-Acer_palmatum_Beni_tsukasa_Pink_Spring_Interest_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2045594.jpg"
+  ],
+  "selected_cover_path": "/user-images/acer-palmatum-beni-tsukasa/01-benitsukasa1_006bb8a6-aecb-4c74-9c4d-e5fd4d539e2a.jpg"
 }
