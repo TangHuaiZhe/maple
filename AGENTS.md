@@ -33,6 +33,16 @@
 - 流行品种 ID 列表：以 `public/data/popular-ids.json` 为源；小程序副本由 `npm run sync-mini-popular-ids` 同步
 - RHS 获奖列表：`src/App.jsx` 的 `RHS_AWARD_SELECTIONS`
 
+## 渲染链路与数据准源
+- Web 启动时读取 `/data/catalog.json`（`src/dataUtils.mjs` 的 `loadCatalog()`），用于列表页渲染
+- Web 详情页读取 `/data/details/{id}.json`（`src/dataUtils.mjs` 的 `loadCultivar()`）
+- Web `popular` 使用 `src/App.jsx` 中导入的 `public/data/popular-ids.json`（构建时打包）
+- Web `RHS 获奖` 当前使用 `src/App.jsx` 的 `RHS_AWARD_SELECTIONS` 常量（非 `awards.json`）
+- 小程序列表读取 `/data/catalog.json`（`mini/src/services/catalog.ts`）
+- 小程序详情读取 `/data/details/{id}.json`（`mini/src/services/cultivar.ts`）
+- 小程序 `popular` 读取包内 `mini/src/pages/popular/popular-ids.json`，由 `npm run sync-mini-popular-ids` 从 `public/data/popular-ids.json` 同步
+- 因此运行时最终准源是：列表看 `public/data/catalog.json`，详情看 `public/data/details/{id}.json`；`merged-cultivars.json` 主要用于一致性校验与数据维护
+
 ## 图片与缩略图
 - 原图保留在 `public/{source-images}/...`，不要为了缩略图改写原图路径
 - 缩略图生成到 `public/thumbs/{source-dir}/{cultivar-id}/{file-base}-w480.webp` 和 `-w960.webp`

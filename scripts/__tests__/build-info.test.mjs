@@ -1,17 +1,17 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { createMiniBuildInfo } from "../mini-build-info.mjs";
+import { createBuildInfo, createWebBuildInfoModule } from "../build-info.mjs";
 
-test("createMiniBuildInfo returns package version and git metadata", () => {
-  const info = createMiniBuildInfo({
+test("createBuildInfo returns package version, branch, and git metadata", () => {
+  const info = createBuildInfo({
     version: "2.3.4",
     execGit: (command) => {
-      if (command === "rev-parse --short=12 HEAD") return "abcdef123456";
       if (command === "rev-parse --abbrev-ref HEAD") return "codex/version-info";
+      if (command === "rev-parse --short=12 HEAD") return "abcdef123456";
       if (command === "rev-parse HEAD") return "abcdef1234567890";
       if (command === "log -1 --format=%cI") return "2026-05-04T10:20:30+08:00";
-      if (command === "log -1 --format=%s") return "Add version page";
+      if (command === "log -1 --format=%s") return "Show build info";
       throw new Error(`Unexpected command: ${command}`);
     },
     now: () => new Date("2026-05-04T02:30:00.000Z"),
@@ -23,13 +23,13 @@ test("createMiniBuildInfo returns package version and git metadata", () => {
     commit: "abcdef123456",
     commitFull: "abcdef1234567890",
     commitDate: "2026-05-04T10:20:30+08:00",
-    commitSubject: "Add version page",
+    commitSubject: "Show build info",
     buildTime: "2026-05-04T02:30:00.000Z",
   });
 });
 
-test("createMiniBuildInfo falls back when git metadata is unavailable", () => {
-  const info = createMiniBuildInfo({
+test("createBuildInfo falls back when git metadata is unavailable", () => {
+  const info = createBuildInfo({
     version: "1.0.0",
     execGit: () => {
       throw new Error("git unavailable");
@@ -44,4 +44,28 @@ test("createMiniBuildInfo falls back when git metadata is unavailable", () => {
   assert.equal(info.commitDate, "unknown");
   assert.equal(info.commitSubject, "unknown");
   assert.equal(info.buildTime, "2026-05-04T02:30:00.000Z");
+});
+
+test("createWebBuildInfoModule serializes build info as an ES module", () => {
+  assert.equal(
+    createWebBuildInfoModule({
+      version: "1.0.0",
+      branch: "main",
+      commit: "abc123",
+      commitFull: "abc123456",
+      commitDate: "2026-05-04T10:20:30+08:00",
+      commitSubject: "Show build info",
+      buildTime: "2026-05-04T02:30:00.000Z",
+    }),
+    `export const BUILD_INFO = {
+  "version": "1.0.0",
+  "branch": "main",
+  "commit": "abc123",
+  "commitFull": "abc123456",
+  "commitDate": "2026-05-04T10:20:30+08:00",
+  "commitSubject": "Show build info",
+  "buildTime": "2026-05-04T02:30:00.000Z"
+};
+`,
+  );
 });

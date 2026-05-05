@@ -54,10 +54,10 @@
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": "/rhs-images/acer-palmatum-jerre-schwartz/01-AcerpalmatumJerreSchwartz.jpg",
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-jerre-schwartz-dwarf-japanese-maple/01-Acer_palmatum_Jerre_Schwartz_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058759.jpg",
     "public_paths": [
-      "/rhs-images/acer-palmatum-jerre-schwartz/01-AcerpalmatumJerreSchwartz.jpg",
       "/mrmaple-images/buy-acer-palmatum-jerre-schwartz-dwarf-japanese-maple/01-Acer_palmatum_Jerre_Schwartz_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058759.jpg",
+      "/rhs-images/acer-palmatum-jerre-schwartz/01-AcerpalmatumJerreSchwartz.jpg",
       "/mrmaple-images/buy-acer-palmatum-jerre-schwartz-dwarf-japanese-maple/02-Acer_palmatum_Jerre_Schwartz_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058762.jpg",
       "/mrmaple-images/buy-acer-palmatum-jerre-schwartz-dwarf-japanese-maple/03-Acer_palmatum_Jerre_Schwartz_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058765.jpg",
       "/mrmaple-images/buy-acer-palmatum-jerre-schwartz-dwarf-japanese-maple/04-Acer_palmatum_Jerre_Schwartz_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058767.jpg",
@@ -743,5 +743,6 @@
         }
       }
     ]
-  }
+  },
+  "selected_cover_path": "/mrmaple-images/buy-acer-palmatum-jerre-schwartz-dwarf-japanese-maple/01-Acer_palmatum_Jerre_Schwartz_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058759.jpg"
 }

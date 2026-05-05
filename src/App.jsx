@@ -58,6 +58,7 @@ import {
   readDiscoveryVisibility,
   writeDiscoveryVisibility,
 } from "./preferences.mjs";
+import { BUILD_INFO } from "./buildInfo.mjs";
 import POPULAR_IDS from "../public/data/popular-ids.json";
 
 const PAGE_SIZE = 96;
@@ -1404,6 +1405,11 @@ export default function App() {
           )}
         />
       </Routes>
+
+      <footer className="site-footer">
+        <span>{BUILD_INFO.version} ({BUILD_INFO.commit})</span>
+        <span>{BUILD_INFO.branch}</span>
+      </footer>
     </div>
   );
 }

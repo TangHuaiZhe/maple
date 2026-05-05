@@ -4,6 +4,7 @@ import { execFile } from "node:child_process";
 import { promisify } from "node:util";
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
+import { createBuildInfo, createWebBuildInfoModule, repoRoot } from "./scripts/build-info.mjs";
 
 const execFileAsync = promisify(execFile);
 const appRoot = process.cwd();
@@ -145,6 +146,19 @@ function removeImageFromRecord(record, rawPath, publicPath) {
     ncsu: record.ncsu ? { ...record.ncsu, local_files: filterList(record.ncsu.local_files) } : record.ncsu,
     conifer_kingdom: record.conifer_kingdom ? { ...record.conifer_kingdom, local_files: filterList(record.conifer_kingdom.local_files) } : record.conifer_kingdom,
     jmac: record.jmac ? { ...record.jmac, local_files: filterList(record.jmac.local_files) } : record.jmac,
+  };
+}
+
+function buildInfoPlugin() {
+  const buildInfoPath = path.join(appRoot, "src/buildInfo.mjs");
+
+  return {
+    name: "build-info",
+    async buildStart() {
+      const info = createBuildInfo();
+      const module = createWebBuildInfoModule(info);
+      await fs.writeFile(buildInfoPath, module, "utf8");
+    },
   };
 }
 
@@ -367,7 +381,7 @@ function devRecordEditorPlugin() {
 
 export default defineConfig({
   base: normalizeBasePath(process.env.VITE_PUBLIC_BASE),
-  plugins: [react(), devRecordEditorPlugin()],
+  plugins: [react(), buildInfoPlugin(), devRecordEditorPlugin()],
   server: {
     host: "0.0.0.0",
     port: 4173,

@@ -71,6 +71,20 @@ textarea {
   padding: 20px 18px 52px;
 }
 
+.site-footer {
+  max-width: 1320px;
+  margin: 28px auto 0;
+  padding: 14px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  color: var(--muted);
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  border-top: 1px solid var(--line);
+}
+
 .site-header {
   display: flex;
   justify-content: space-between;
