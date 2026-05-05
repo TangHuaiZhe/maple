@@ -3,6 +3,7 @@ dist/
 .DS_Store
 deploy-static/
 mini/src/buildInfo.ts
+src/buildInfo.mjs
 
 # Generated public image links from sync-data.mjs
 public/rhs-images

@@ -3,10 +3,11 @@ import test from "node:test";
 
 import { createBuildInfo, createWebBuildInfoModule } from "../build-info.mjs";
 
-test("createBuildInfo returns package version, branch, and git metadata", () => {
+test("createBuildInfo reads version from latest git tag", () => {
   const info = createBuildInfo({
-    version: "2.3.4",
+    version: "1.0.4",
     execGit: (command) => {
+      if (command === "describe --tags --abbrev=0") return "1.0.4";
       if (command === "rev-parse --abbrev-ref HEAD") return "codex/version-info";
       if (command === "rev-parse --short=12 HEAD") return "abcdef123456";
       if (command === "rev-parse HEAD") return "abcdef1234567890";
@@ -18,7 +19,7 @@ test("createBuildInfo returns package version, branch, and git metadata", () => 
   });
 
   assert.deepEqual(info, {
-    version: "2.3.4",
+    version: "1.0.4",
     branch: "codex/version-info",
     commit: "abcdef123456",
     commitFull: "abcdef1234567890",
@@ -28,10 +29,10 @@ test("createBuildInfo returns package version, branch, and git metadata", () => 
   });
 });
 
-test("createBuildInfo falls back when git metadata is unavailable", () => {
+test("createBuildInfo falls back to package version when no git tag exists", () => {
   const info = createBuildInfo({
-    version: "1.0.0",
-    execGit: () => {
+    execGit: (command) => {
+      if (command === "describe --tags --abbrev=0") throw new Error("no tag");
       throw new Error("git unavailable");
     },
     now: () => new Date("2026-05-04T02:30:00.000Z"),

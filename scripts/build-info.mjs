@@ -25,13 +25,22 @@ function readGitValue(command, executor) {
   }
 }
 
+function readGitLatestTag(executor) {
+  try {
+    return executor("describe --tags --abbrev=0");
+  } catch {
+    return readPackageVersion();
+  }
+}
+
 export function createBuildInfo({
-  version = readPackageVersion(),
+  version = undefined,
   execGit: gitExecutor = execGit,
   now = () => new Date(),
 } = {}) {
+  const resolvedVersion = version ?? readGitLatestTag(gitExecutor);
   return {
-    version,
+    version: resolvedVersion,
     branch: readGitValue("rev-parse --abbrev-ref HEAD", gitExecutor),
     commit: readGitValue("rev-parse --short=12 HEAD", gitExecutor),
     commitFull: readGitValue("rev-parse HEAD", gitExecutor),
