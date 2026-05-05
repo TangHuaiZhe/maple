@@ -21,10 +21,16 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
-    "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_user_paths": [
+      "/user-images/acer-palmatum-arakawa-momiji/01-maple2.jpg",
+      "/user-images/acer-palmatum-arakawa-momiji/02-maple1.jpg"
+    ],
+    "public_cover_path": "/user-images/acer-palmatum-arakawa-momiji/01-maple2.jpg",
+    "public_paths": [
+      "/user-images/acer-palmatum-arakawa-momiji/01-maple2.jpg",
+      "/user-images/acer-palmatum-arakawa-momiji/02-maple1.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -60,5 +66,9 @@
   "has_mrmaple": false,
   "descriptions_zh": {
     "preferred": "荒皮系品种，以较早形成的粗糙木栓化树皮著称，冬季观赏性尤其突出。 叶片为典型掌状叶，生长期以绿色为主，适合重视树皮质感与四季变化的庭院种植。"
-  }
+  },
+  "user_images": [
+    "Resource/园艺/raw/user-images/acer-palmatum-arakawa-momiji/01-maple2.jpg",
+    "Resource/园艺/raw/user-images/acer-palmatum-arakawa-momiji/02-maple1.jpg"
+  ]
 }

@@ -12,12 +12,15 @@ import {
 import {
   applyPrimaryCoverSelection,
   hasContent,
+  hasRecordImages,
   loadCatalog,
   loadCultivar,
   loadDevRecord,
+  mutateDevImage,
   loadThumbnailManifest,
   normalizeCultivarToken,
   readFavoriteIds,
+  removeImageFromDetailRecord,
   resolveThumbnailUrl,
   saveDevRecord,
   setRecordPrimaryCover,
@@ -60,10 +63,13 @@ const UI_STRINGS = {
       imagePreviewHint: "点击查看大图",
       setAsCover: "设为主图",
       coverSelected: "当前主图",
+      hideImage: "隐藏",
+      deleteImage: "删除",
       addFavorite: "收藏",
       removeFavorite: "取消收藏",
       favorited: "已收藏",
       discoveryToggle: "显示新发现品种",
+      missingImagesOnly: "仅看无图品种",
     },
     coverSource: {
       none: "无图",
@@ -186,10 +192,13 @@ const UI_STRINGS = {
       imagePreviewHint: "View full size",
       setAsCover: "Set Cover",
       coverSelected: "Current Cover",
+      hideImage: "Hide",
+      deleteImage: "Delete",
       addFavorite: "Save",
       removeFavorite: "Remove Favorite",
       favorited: "Saved",
       discoveryToggle: "Show newly discovered cultivars",
+      missingImagesOnly: "Missing images only",
     },
     coverSource: {
       none: "No Image",
@@ -1306,6 +1315,7 @@ function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite, thu
   const initialCategory = new URLSearchParams(location.search).get("category") || SEARCH_ALL_VALUE;
   const [query, setQuery] = useState(initialQuery);
   const [category, setCategory] = useState(initialCategory);
+  const [showMissingImagesOnly, setShowMissingImagesOnly] = useState(false);
   const deferredQuery = useDeferredValue(query);
   const categories = [{ value: SEARCH_ALL_VALUE, label: strings.home.allCategories }, ...new Set(records.map((item) => item.top_category).filter(Boolean)).values().map((item) => ({ value: item, label: item }))];
 
@@ -1319,7 +1329,8 @@ function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite, thu
   const normalizedQuery = normalizeSearchText(deferredQuery);
   const filtered = records.filter((item) => {
     const categoryMatch = category === SEARCH_ALL_VALUE || item.top_category === category;
-    return categoryMatch && matchesQuery(item, normalizedQuery);
+    const imageMatch = !showMissingImagesOnly || !hasRecordImages(item);
+    return categoryMatch && imageMatch && matchesQuery(item, normalizedQuery);
   });
 
   return (
@@ -1346,6 +1357,16 @@ function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite, thu
               </select>
             </label>
           </div>
+          {DEV_EDITOR_ENABLED ? (
+            <label className="dev-filter-toggle">
+              <input
+                type="checkbox"
+                checked={showMissingImagesOnly}
+                onChange={(event) => setShowMissingImagesOnly(event.target.checked)}
+              />
+              <span>{strings.common.missingImagesOnly}</span>
+            </label>
+          ) : null}
           <div className="result-summary">{strings.home.result(filtered.length)}</div>
         </div>
       </section>
@@ -1476,6 +1497,7 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
   const [uploadMessage, setUploadMessage] = useState("");
   const [compressUploads, setCompressUploads] = useState(true);
   const [coverSavePath, setCoverSavePath] = useState("");
+  const [imageActionPath, setImageActionPath] = useState("");
   const deferredSearchQuery = useDeferredValue(searchQuery);
   const previewImages = item ? uniqueValues([getVisibleCover(item), ...getVisibleImagePaths(item)]) : [];
   const galleryImages = item ? getVisibleImagePaths(item) : [];
@@ -1763,6 +1785,41 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
     }
   }
 
+  async function handleImageAction(imagePath, action) {
+    const actionLabel = action === "delete" ? strings.common.deleteImage : strings.common.hideImage;
+    const confirmText = locale === "en"
+      ? `Confirm ${actionLabel.toLowerCase()} this image?`
+      : `确认${actionLabel}这张图片吗？`;
+
+    if (!window.confirm(confirmText)) {
+      return;
+    }
+
+    const previousItem = item;
+    const previousEditorBaseRecord = editorBaseRecord;
+    setImageActionPath(`${action}:${imagePath}`);
+    setEditorMessage("");
+    setItem((current) => removeImageFromDetailRecord(current, imagePath));
+
+    try {
+      await mutateDevImage(id, imagePath, action);
+      const nextRecord = await loadDevRecord(id);
+      const nextItem = await loadCultivar(id);
+      setEditorBaseRecord(nextRecord);
+      setEditorDraft(JSON.stringify(pickEditableRecord(nextRecord), null, 2));
+      setItem(nextItem);
+      setEditorState("saved");
+      setEditorMessage(locale === "en" ? `${actionLabel} succeeded` : `${actionLabel}成功`);
+    } catch (err) {
+      setItem(previousItem);
+      setEditorBaseRecord(previousEditorBaseRecord);
+      setEditorState("error");
+      setEditorMessage(err.message);
+    } finally {
+      setImageActionPath("");
+    }
+  }
+
   return (
     <>
       <div className="page-shell detail-shell">
@@ -1998,15 +2055,33 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
                     <span className="image-preview-hint">{strings.common.imagePreviewHint}</span>
                   </button>
                   {DEV_EDITOR_ENABLED ? (
-                    <button
-                      type="button"
-                      className={`cover-select-button ${imagePath === cover ? "active" : ""}`.trim()}
-                      onClick={() => handleSetPrimaryCover(imagePath)}
-                      disabled={coverSavePath === imagePath}
-                      aria-pressed={imagePath === cover}
-                    >
-                      {imagePath === cover ? strings.common.coverSelected : strings.common.setAsCover}
-                    </button>
+                    <div className="image-action-group">
+                      <button
+                        type="button"
+                        className={`cover-select-button ${imagePath === cover ? "active" : ""}`.trim()}
+                        onClick={() => handleSetPrimaryCover(imagePath)}
+                        disabled={coverSavePath === imagePath || Boolean(imageActionPath)}
+                        aria-pressed={imagePath === cover}
+                      >
+                        {imagePath === cover ? strings.common.coverSelected : strings.common.setAsCover}
+                      </button>
+                      <button
+                        type="button"
+                        className="image-action-button hide"
+                        onClick={() => handleImageAction(imagePath, "hide")}
+                        disabled={Boolean(imageActionPath)}
+                      >
+                        {imageActionPath === `hide:${imagePath}` ? "..." : strings.common.hideImage}
+                      </button>
+                      <button
+                        type="button"
+                        className="image-action-button delete"
+                        onClick={() => handleImageAction(imagePath, "delete")}
+                        disabled={Boolean(imageActionPath)}
+                      >
+                        {imageActionPath === `delete:${imagePath}` ? "..." : strings.common.deleteImage}
+                      </button>
+                    </div>
                   ) : null}
                 </figure>
               ))

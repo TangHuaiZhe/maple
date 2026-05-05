@@ -21,10 +21,16 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
-    "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_user_paths": [
+      "/user-images/acer-palmatum-arakawa-ukon/01-arakawa22_e8325e67-791e-4951-b432-5b52bfc56d54.jpg",
+      "/user-images/acer-palmatum-arakawa-ukon/02-arakawa11_68df56a5-348f-4eb7-9406-12fbe9f749e0.jpg"
+    ],
+    "public_cover_path": "/user-images/acer-palmatum-arakawa-ukon/01-arakawa22_e8325e67-791e-4951-b432-5b52bfc56d54.jpg",
+    "public_paths": [
+      "/user-images/acer-palmatum-arakawa-ukon/01-arakawa22_e8325e67-791e-4951-b432-5b52bfc56d54.jpg",
+      "/user-images/acer-palmatum-arakawa-ukon/02-arakawa11_68df56a5-348f-4eb7-9406-12fbe9f749e0.jpg"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -125,5 +131,9 @@
   "has_mrmaple": false,
   "descriptions_zh": {
     "preferred": "荒皮系品种，兼具粗糙树皮与柔和叶色观赏性。 树皮会随树龄增长而逐渐木栓化开裂；春叶常带黄绿色调，随后转绿，秋季呈现温暖的黄色到橙色。"
-  }
+  },
+  "user_images": [
+    "Resource/园艺/raw/user-images/acer-palmatum-arakawa-ukon/01-arakawa22_e8325e67-791e-4951-b432-5b52bfc56d54.jpg",
+    "Resource/园艺/raw/user-images/acer-palmatum-arakawa-ukon/02-arakawa11_68df56a5-348f-4eb7-9406-12fbe9f749e0.jpg"
+  ]
 }

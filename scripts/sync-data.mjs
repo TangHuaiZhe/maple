@@ -105,6 +105,12 @@ function uniqueValues(values) {
   return [...new Set(values.filter(Boolean))];
 }
 
+function normalizeRawImagePath(value) {
+  return String(value || "")
+    .replace(/^data-source[\\/]/, "")
+    .replace(/\\/g, "/");
+}
+
 async function pathExists(targetPath) {
   try {
     await fs.access(targetPath);
@@ -883,11 +889,13 @@ async function getFallbackSourceLocalFiles(record, sourceKey) {
 
 async function getEffectiveSourceLocalFiles(record, sourceKey) {
   const configuredFiles = getSourceLocalFiles(record, sourceKey);
+  const hiddenSet = new Set((record.hidden_images || []).map((item) => normalizeRawImagePath(item)));
   if (configuredFiles.length) {
-    return configuredFiles;
+    return configuredFiles.filter((item) => !hiddenSet.has(normalizeRawImagePath(item)));
   }
 
-  return getFallbackSourceLocalFiles(record, sourceKey);
+  const fallback = await getFallbackSourceLocalFiles(record, sourceKey);
+  return fallback.filter((item) => !hiddenSet.has(normalizeRawImagePath(item)));
 }
 
 async function buildCoverCandidates(record) {
@@ -963,33 +971,38 @@ async function syncJson() {
     await fs.writeFile(sourceJson, JSON.stringify(sourceRecords, null, 2), "utf8");
   }
 
-  const recordsWithPublicImages = await Promise.all(sourceRecords.map(async (record) => ({
-    ...record,
-    images: {
-      count: record.images?.count || 0,
-      public_rhs_paths: uniquePaths(
-        (((record.rhs || {}).images || {}).local_files || []).map((item) => toRhsPublicImagePath(item)),
-      ),
-      public_mrmaple_paths: uniquePaths(
-        (await getEffectiveSourceLocalFiles(record, "mrmaple")).map((item) => toMrMaplePublicImagePath(item)),
-      ),
-      public_herter_paths: uniquePaths(
-        (await getEffectiveSourceLocalFiles(record, "herter")).map((item) => toHerterPublicImagePath(item)),
-      ),
-      public_ncsu_paths: uniquePaths(
-        (await getEffectiveSourceLocalFiles(record, "ncsu")).map((item) => toNcsuPublicImagePath(item)),
-      ),
-      public_conifer_paths: uniquePaths(
-        (await getEffectiveSourceLocalFiles(record, "conifer_kingdom")).map((item) => toConiferPublicImagePath(item)),
-      ),
-      public_jmac_paths: uniquePaths(
-        (await getEffectiveSourceLocalFiles(record, "jmac")).map((item) => toJmacPublicImagePath(item)),
-      ),
-      public_user_paths: uniquePaths(
-        (record.user_images || []).map((item) => toUserPublicImagePath(item)),
-      ),
-    },
-  })));
+  const recordsWithPublicImages = await Promise.all(sourceRecords.map(async (record) => {
+    const hiddenSet = new Set((record.hidden_images || []).map((item) => normalizeRawImagePath(item)));
+    return {
+      ...record,
+      images: {
+        count: record.images?.count || 0,
+        public_rhs_paths: uniquePaths(
+          (await getEffectiveSourceLocalFiles(record, "rhs")).map((item) => toRhsPublicImagePath(item)),
+        ),
+        public_mrmaple_paths: uniquePaths(
+          (await getEffectiveSourceLocalFiles(record, "mrmaple")).map((item) => toMrMaplePublicImagePath(item)),
+        ),
+        public_herter_paths: uniquePaths(
+          (await getEffectiveSourceLocalFiles(record, "herter")).map((item) => toHerterPublicImagePath(item)),
+        ),
+        public_ncsu_paths: uniquePaths(
+          (await getEffectiveSourceLocalFiles(record, "ncsu")).map((item) => toNcsuPublicImagePath(item)),
+        ),
+        public_conifer_paths: uniquePaths(
+          (await getEffectiveSourceLocalFiles(record, "conifer_kingdom")).map((item) => toConiferPublicImagePath(item)),
+        ),
+        public_jmac_paths: uniquePaths(
+          (await getEffectiveSourceLocalFiles(record, "jmac")).map((item) => toJmacPublicImagePath(item)),
+        ),
+        public_user_paths: uniquePaths(
+          (record.user_images || [])
+            .filter((item) => !hiddenSet.has(normalizeRawImagePath(item)))
+            .map((item) => toUserPublicImagePath(item)),
+        ),
+      },
+    };
+  }));
   const records = await Promise.all(recordsWithPublicImages.map(async (record) => {
     const publicPaths = uniquePaths([
       ...(record.images.public_rhs_paths || []),

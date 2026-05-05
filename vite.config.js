@@ -9,6 +9,7 @@ const execFileAsync = promisify(execFile);
 const appRoot = process.cwd();
 const enhancedJson = path.join(appRoot, "data-source/Resource/园艺/raw/merged-cultivars-with-rhs.json");
 const userImagesRoot = path.join(appRoot, "data-source/Resource/园艺/raw/user-images");
+const rawImagesRoot = path.join(appRoot, "data-source/Resource/园艺/raw");
 let saveQueue = Promise.resolve();
 
 function normalizeBasePath(value) {
@@ -75,6 +76,76 @@ function parseMultipart(body, boundary) {
   }
 
   return files;
+}
+
+function normalizeRawImagePath(value) {
+  return String(value || "")
+    .replace(/^data-source[\\/]/, "")
+    .replace(/\\/g, "/");
+}
+
+function decodePublicImagePath(value) {
+  const pathname = String(value || "").split("?")[0].split("#")[0];
+  return pathname
+    .split("/")
+    .filter(Boolean)
+    .map((part) => decodeURIComponent(part))
+    .join("/");
+}
+
+function publicToRawImagePath(publicPath) {
+  const decoded = decodePublicImagePath(publicPath);
+  const mapping = [
+    { publicPrefix: "rhs-images/", rawPrefix: "Resource/园艺/raw/rhs-images/" },
+    { publicPrefix: "mrmaple-images/", rawPrefix: "Resource/园艺/raw/mrmaple-images/" },
+    { publicPrefix: "herter-images/", rawPrefix: "Resource/园艺/raw/herter-images/" },
+    { publicPrefix: "ncsu-images/", rawPrefix: "Resource/园艺/raw/ncsu-images/" },
+    { publicPrefix: "coniferkingdom-images/", rawPrefix: "Resource/园艺/raw/coniferkingdom-images/" },
+    { publicPrefix: "jmac-images/", rawPrefix: "Resource/园艺/raw/jmac-images/" },
+    { publicPrefix: "user-images/", rawPrefix: "Resource/园艺/raw/user-images/" },
+  ];
+
+  for (const entry of mapping) {
+    if (decoded.startsWith(entry.publicPrefix)) {
+      return `${entry.rawPrefix}${decoded.slice(entry.publicPrefix.length)}`;
+    }
+  }
+
+  return "";
+}
+
+function normalizePublicImagePath(value) {
+  const decoded = decodePublicImagePath(value);
+  return decoded ? `/${decoded}` : "";
+}
+
+function removeImageFromRecord(record, rawPath, publicPath) {
+  const normalizedTarget = normalizeRawImagePath(rawPath);
+  const normalizedSelectedCover = normalizePublicImagePath(record.selected_cover_path || "");
+  const normalizedPublicTarget = normalizePublicImagePath(publicPath);
+  const hidden = new Set((record.hidden_images || []).map((item) => normalizeRawImagePath(item)));
+  hidden.delete(normalizedTarget);
+
+  const filterList = (list) => (list || []).filter((item) => normalizeRawImagePath(item) !== normalizedTarget);
+
+  return {
+    ...record,
+    selected_cover_path: normalizedSelectedCover === normalizedPublicTarget ? "" : record.selected_cover_path,
+    hidden_images: [...hidden],
+    user_images: filterList(record.user_images),
+    rhs: record.rhs ? {
+      ...record.rhs,
+      images: record.rhs.images ? {
+        ...record.rhs.images,
+        local_files: filterList(record.rhs.images.local_files),
+      } : record.rhs.images,
+    } : record.rhs,
+    mrmaple: record.mrmaple ? { ...record.mrmaple, local_files: filterList(record.mrmaple.local_files) } : record.mrmaple,
+    herter: record.herter ? { ...record.herter, local_files: filterList(record.herter.local_files) } : record.herter,
+    ncsu: record.ncsu ? { ...record.ncsu, local_files: filterList(record.ncsu.local_files) } : record.ncsu,
+    conifer_kingdom: record.conifer_kingdom ? { ...record.conifer_kingdom, local_files: filterList(record.conifer_kingdom.local_files) } : record.conifer_kingdom,
+    jmac: record.jmac ? { ...record.jmac, local_files: filterList(record.jmac.local_files) } : record.jmac,
+  };
 }
 
 function devRecordEditorPlugin() {
@@ -171,6 +242,61 @@ function devRecordEditorPlugin() {
         }
 
         if (!req.url?.startsWith("/__dev/record/")) {
+          if (req.url?.startsWith("/__dev/image-action/") && req.method === "POST") {
+            const url = new URL(req.url, "http://127.0.0.1");
+            const id = decodeURIComponent(url.pathname.replace(/^\/__dev\/image-action\//, ""));
+
+            if (!id) {
+              sendJson(res, 400, { error: "Missing cultivar id" });
+              return;
+            }
+
+            try {
+              const task = saveQueue.then(async () => {
+                const payload = JSON.parse(await readBody(req) || "{}");
+                const action = String(payload.action || "");
+                const rawImagePath = publicToRawImagePath(payload.imagePath);
+                const publicImagePath = normalizePublicImagePath(payload.imagePath);
+
+                if (!rawImagePath) {
+                  throw new Error("Invalid image path");
+                }
+                if (!["hide", "delete"].includes(action)) {
+                  throw new Error("Unsupported action");
+                }
+
+                const records = await loadRawRecords();
+                const index = records.findIndex((item) => item.id === id);
+                if (index < 0) {
+                  throw new Error(`Cultivar not found: ${id}`);
+                }
+
+                const normalizedTarget = normalizeRawImagePath(rawImagePath);
+                const record = { ...records[index] };
+                if (action === "hide") {
+                  record.hidden_images = [...new Set([...(record.hidden_images || []), normalizedTarget])];
+                } else {
+                  const absoluteTarget = path.join(rawImagesRoot, normalizedTarget.replace(/^Resource\/园艺\/raw\//, ""));
+                  await fs.rm(absoluteTarget, { force: true });
+                  Object.assign(record, removeImageFromRecord(record, normalizedTarget, publicImagePath));
+                }
+
+                records[index] = record;
+                await fs.writeFile(enhancedJson, JSON.stringify(records, null, 2), "utf8");
+                await execFileAsync(process.execPath, ["./scripts/sync-data.mjs"], { cwd: appRoot });
+                return { action, rawImagePath: normalizedTarget };
+              });
+
+              saveQueue = task.catch(() => {});
+              const result = await task;
+              sendJson(res, 200, { ok: true, ...result });
+              return;
+            } catch (error) {
+              sendJson(res, 500, { error: error.message || "Image action failed" });
+              return;
+            }
+          }
+
           next();
           return;
         }

@@ -671,6 +671,21 @@ textarea {
   line-height: 1.5;
 }
 
+.dev-filter-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 14px;
+  color: var(--text);
+  font-size: 0.94rem;
+}
+
+.dev-filter-toggle input {
+  width: 16px;
+  height: 16px;
+  margin: 0;
+}
+
 /* ===========================
    11. Detail Page
    =========================== */
@@ -1290,6 +1305,51 @@ textarea {
 }
 
 .cover-select-button:disabled {
+  cursor: wait;
+  opacity: 0.72;
+}
+
+.image-action-group {
+  position: absolute;
+  left: 12px;
+  bottom: 12px;
+  z-index: 2;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  max-width: calc(100% - 24px);
+}
+
+.image-action-group .cover-select-button {
+  position: static;
+  right: auto;
+  bottom: auto;
+}
+
+.image-action-button {
+  min-height: 34px;
+  padding: 0 12px;
+  border: 1px solid rgba(255, 255, 255, 0.62);
+  border-radius: 999px;
+  background: rgba(47, 33, 20, 0.78);
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 10px 22px rgba(47, 33, 20, 0.18);
+}
+
+.image-action-button.hide:hover,
+.image-action-button.hide:focus-visible {
+  background: rgba(85, 104, 68, 0.92);
+}
+
+.image-action-button.delete:hover,
+.image-action-button.delete:focus-visible {
+  background: rgba(152, 55, 38, 0.92);
+}
+
+.image-action-button:disabled {
   cursor: wait;
   opacity: 0.72;
 }

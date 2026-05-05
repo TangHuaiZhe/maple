@@ -164,6 +164,65 @@ export function applyPrimaryCoverSelection(record, imageUrl) {
   };
 }
 
+export function hasRecordImages(record) {
+  if (!record) {
+    return false;
+  }
+
+  return uniqueValues([
+    record.cover_path,
+    record.images?.public_cover_path,
+    ...(record.images?.public_rhs_paths || []),
+    ...(record.images?.public_mrmaple_paths || []),
+    ...(record.images?.public_herter_paths || []),
+    ...(record.images?.public_ncsu_paths || []),
+    ...(record.images?.public_conifer_paths || []),
+    ...(record.images?.public_jmac_paths || []),
+    ...(record.images?.public_user_paths || []),
+  ]).length > 0;
+}
+
+export function removeImageFromDetailRecord(record, imageUrl) {
+  if (!record || !record.images) {
+    return record;
+  }
+
+  const toComparablePath = (value) => {
+    const pathname = getAssetPathname(value);
+    const match = pathname.match(/\/(?:data|thumbs|rhs-images|mrmaple-images|herter-images|ncsu-images|coniferkingdom-images|jmac-images|user-images)\/.*$/);
+    return match ? match[0] : pathname;
+  };
+  const targetPathname = toComparablePath(imageUrl);
+  const nextImages = { ...record.images };
+
+  [
+    "public_paths",
+    "public_rhs_paths",
+    "public_mrmaple_paths",
+    "public_herter_paths",
+    "public_ncsu_paths",
+    "public_conifer_paths",
+    "public_jmac_paths",
+    "public_user_paths",
+  ].forEach((key) => {
+    if (!Array.isArray(nextImages[key])) return;
+    nextImages[key] = nextImages[key].filter((value) => toComparablePath(value) !== targetPathname);
+  });
+
+  const nextCover = toComparablePath(nextImages.public_cover_path) === targetPathname
+    ? (nextImages.public_paths?.[0] || null)
+    : nextImages.public_cover_path;
+
+  nextImages.public_cover_path = nextCover;
+  nextImages.public_count = Array.isArray(nextImages.public_paths) ? nextImages.public_paths.length : nextImages.public_count;
+
+  return {
+    ...record,
+    cover_path: toComparablePath(record.cover_path) === targetPathname ? (nextCover || null) : record.cover_path,
+    images: nextImages,
+  };
+}
+
 export function resolveRecordAssetPaths(record, options) {
   if (!record) {
     return record;
@@ -285,5 +344,21 @@ export function saveDevRecord(id, record) {
       throw new Error(payload.error || "保存失败");
     }
     return payload.record;
+  });
+}
+
+export function mutateDevImage(id, imageUrl, action, options = {}) {
+  return fetch(resolveAppUrl(`/__dev/image-action/${id}`, options), {
+    method: "POST",
+    headers: {
+      "content-type": "application/json",
+    },
+    body: JSON.stringify({ imagePath: imageUrl, action }),
+  }).then(async (response) => {
+    const payload = await response.json().catch(() => ({}));
+    if (!response.ok) {
+      throw new Error(payload.error || "操作失败");
+    }
+    return payload;
   });
 }

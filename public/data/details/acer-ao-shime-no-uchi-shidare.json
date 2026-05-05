@@ -25,10 +25,20 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
-    "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_user_paths": [
+      "/user-images/acer-ao-shime-no-uchi-shidare/01-acer-palmatum-ao-shime-no-uchi-890733_1280x.jpg",
+      "/user-images/acer-ao-shime-no-uchi-shidare/02-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042346.webp",
+      "/user-images/acer-ao-shime-no-uchi-shidare/03-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042339.jpg",
+      "/user-images/acer-ao-shime-no-uchi-shidare/04-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042333.jpg"
+    ],
+    "public_cover_path": "/user-images/acer-ao-shime-no-uchi-shidare/01-acer-palmatum-ao-shime-no-uchi-890733_1280x.jpg",
+    "public_paths": [
+      "/user-images/acer-ao-shime-no-uchi-shidare/01-acer-palmatum-ao-shime-no-uchi-890733_1280x.jpg",
+      "/user-images/acer-ao-shime-no-uchi-shidare/02-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042346.webp",
+      "/user-images/acer-ao-shime-no-uchi-shidare/03-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042339.jpg",
+      "/user-images/acer-ao-shime-no-uchi-shidare/04-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042333.jpg"
+    ],
+    "public_count": 4
   },
   "sources": [
     {
@@ -169,5 +179,11 @@
   "descriptions_zh": {
     "preferred": "该品种与 ‘Shinobuga oka’ 十分相似，但株形更为下垂，且高度很少超过 2. 5 米。 枝条倾向下垂，形成圆拱形灌丛效果；这与 Linearilobum Group 其他通常较直立的成员形成对比。 叶片深绿色，多为七裂。 裂片极长而狭，形如草叶，宽约 3–5 毫米，长可达 8 厘米。 秋季转黄，有时呈深金黄色。 在日本称作 ‘Ao meshime-no-uchi shidare’。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "user_images": [
+    "Resource/园艺/raw/user-images/acer-ao-shime-no-uchi-shidare/01-acer-palmatum-ao-shime-no-uchi-890733_1280x.jpg",
+    "Resource/园艺/raw/user-images/acer-ao-shime-no-uchi-shidare/02-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042346.webp",
+    "Resource/园艺/raw/user-images/acer-ao-shime-no-uchi-shidare/03-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042339.jpg",
+    "Resource/园艺/raw/user-images/acer-ao-shime-no-uchi-shidare/04-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042333.jpg"
+  ]
 }

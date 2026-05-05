@@ -21,10 +21,26 @@
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
-    "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_user_paths": [
+      "/user-images/acer-pictum-akikaze-nishiki/01-Acer-truncatum-Akikaze-nishiki-2__1_.jpg",
+      "/user-images/acer-pictum-akikaze-nishiki/02-Acer-truncatum-Akikaze-nishiki-3__1_.jpg",
+      "/user-images/acer-pictum-akikaze-nishiki/03-1_-Acer-truncatum-Akikaze-nishiki-2__1_.jpg",
+      "/user-images/acer-pictum-akikaze-nishiki/04-Acer-truncatum-Akikaze-nishiki-2.jpg",
+      "/user-images/acer-pictum-akikaze-nishiki/05-Acer-truncatum-Akikaze-nishiki.jpg",
+      "/user-images/acer-pictum-akikaze-nishiki/06-Acer-truncatum-Akikaze-nishiki-3.jpg",
+      "/user-images/acer-pictum-akikaze-nishiki/07-1_-Acer-truncatum-Akikaze-nishiki-2.jpg"
+    ],
+    "public_cover_path": "/user-images/acer-pictum-akikaze-nishiki/03-1_-Acer-truncatum-Akikaze-nishiki-2__1_.jpg",
+    "public_paths": [
+      "/user-images/acer-pictum-akikaze-nishiki/03-1_-Acer-truncatum-Akikaze-nishiki-2__1_.jpg",
+      "/user-images/acer-pictum-akikaze-nishiki/01-Acer-truncatum-Akikaze-nishiki-2__1_.jpg",
+      "/user-images/acer-pictum-akikaze-nishiki/02-Acer-truncatum-Akikaze-nishiki-3__1_.jpg",
+      "/user-images/acer-pictum-akikaze-nishiki/04-Acer-truncatum-Akikaze-nishiki-2.jpg",
+      "/user-images/acer-pictum-akikaze-nishiki/05-Acer-truncatum-Akikaze-nishiki.jpg",
+      "/user-images/acer-pictum-akikaze-nishiki/06-Acer-truncatum-Akikaze-nishiki-3.jpg",
+      "/user-images/acer-pictum-akikaze-nishiki/07-1_-Acer-truncatum-Akikaze-nishiki-2.jpg"
+    ],
+    "public_count": 7
   },
   "sources": [
     {
@@ -145,5 +161,15 @@
   "descriptions_zh": {
     "preferred": "叶片底色为浓绿色，并带有白色斑锦。 有些叶片几乎全白，另一些则只有少量白色斑点。 其主要斑纹类型为在绿色叶面上切入状分布的白色或奶油色区域，这些斑锦部分常呈弯曲或镰刀状。 绿色部分常又密布细小白点，形成近乎连续的斑锦效果，而下层仍可透出绿色。 中等大小的叶片通常为 5 裂；各裂片多呈三角状卵形，但整体常不规则弯曲或呈镰刀状。 新叶展开时斑锦带有明显粉色调，不久即转为白色或奶油色。 该品种可形成高大灌木，高可达 16 英尺（5 米）。 其生长速度不快，宜避免午后烈日直晒。 随后可辨识内容转为 Acer tschonoskii（Tschonoski's maple）的描述：这是一种优雅的小型蛇皮槭，原产日本，生于海拔约 4550-8125 英尺（1400-1500 米）的亚高山林地。 植株可形成大型灌木或小乔木，高约 16-23 英尺（5-7 米），适合用于混合景观配置。 叶片较小、近圆形、浅裂 5 裂，边缘具粗锯齿，先端短尖；叶面绿色，叶背带锈褐色毛。 秋色为黄色至金黄色，有时略带粉色，但并不十分突出。 该种是较易栽培、耐寒性和适应性都较强的槭树之一，但不喜碱性土壤。 其后原文为耐寒分区图、苗圃来源、术语表、参考书目及索引，且 OCR 噪声极重，此处不作臆测性逐项翻译。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": false,
+  "user_images": [
+    "Resource/园艺/raw/user-images/acer-pictum-akikaze-nishiki/01-Acer-truncatum-Akikaze-nishiki-2__1_.jpg",
+    "Resource/园艺/raw/user-images/acer-pictum-akikaze-nishiki/02-Acer-truncatum-Akikaze-nishiki-3__1_.jpg",
+    "Resource/园艺/raw/user-images/acer-pictum-akikaze-nishiki/03-1_-Acer-truncatum-Akikaze-nishiki-2__1_.jpg",
+    "Resource/园艺/raw/user-images/acer-pictum-akikaze-nishiki/04-Acer-truncatum-Akikaze-nishiki-2.jpg",
+    "Resource/园艺/raw/user-images/acer-pictum-akikaze-nishiki/05-Acer-truncatum-Akikaze-nishiki.jpg",
+    "Resource/园艺/raw/user-images/acer-pictum-akikaze-nishiki/06-Acer-truncatum-Akikaze-nishiki-3.jpg",
+    "Resource/园艺/raw/user-images/acer-pictum-akikaze-nishiki/07-1_-Acer-truncatum-Akikaze-nishiki-2.jpg"
+  ],
+  "selected_cover_path": "/user-images/acer-pictum-akikaze-nishiki/03-1_-Acer-truncatum-Akikaze-nishiki-2__1_.jpg"
 }

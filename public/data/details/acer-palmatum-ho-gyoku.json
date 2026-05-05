@@ -1,13 +1,13 @@
 {
   "id": "acer-palmatum-ho-gyoku",
   "canonical_key": "ho gyoku",
-  "canonical_name": "Ho\\gyoku",
-  "display_name": "Ho\\gyoku",
-  "chinese_name": null,
-  "scientific_name": "Acer palmatum 'Ho\\gyoku'",
+  "canonical_name": "Hogyoku",
+  "display_name": "Hogyoku",
+  "chinese_name": "宝玉",
+  "scientific_name": "Acer palmatum 'Hogyoku'",
   "species": "Acer palmatum",
-  "top_category": null,
-  "web_group": null,
+  "top_category": "",
+  "web_group": "",
   "book_groups": [
     "amoenum"
   ],
@@ -21,18 +21,26 @@
     "count": 0,
     "public_rhs_paths": [],
     "public_mrmaple_paths": [],
-    "public_herter_paths": [
-      "/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg"
-    ],
+    "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
-    "public_user_paths": [],
-    "public_cover_path": "/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg",
-    "public_paths": [
-      "/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg"
+    "public_user_paths": [
+      "/user-images/acer-palmatum-ho-gyoku/01-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057149.jpg",
+      "/user-images/acer-palmatum-ho-gyoku/02-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057217.webp",
+      "/user-images/acer-palmatum-ho-gyoku/03-Hogyoku-2.jpg",
+      "/user-images/acer-palmatum-ho-gyoku/04-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057183.webp",
+      "/user-images/acer-palmatum-ho-gyoku/05-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057180.jpg"
     ],
-    "public_count": 1
+    "public_cover_path": "/user-images/acer-palmatum-ho-gyoku/01-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057149.jpg",
+    "public_paths": [
+      "/user-images/acer-palmatum-ho-gyoku/01-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057149.jpg",
+      "/user-images/acer-palmatum-ho-gyoku/02-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057217.webp",
+      "/user-images/acer-palmatum-ho-gyoku/03-Hogyoku-2.jpg",
+      "/user-images/acer-palmatum-ho-gyoku/04-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057183.webp",
+      "/user-images/acer-palmatum-ho-gyoku/05-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057180.jpg"
+    ],
+    "public_count": 5
   },
   "sources": [
     {
@@ -71,7 +79,7 @@
   ],
   "aliases": [
     "Acer palmatum 'Hōgyoku' (A)",
-    "Ho\\gyoku",
+    "Hogyoku",
     "Hōgyoku",
     "Japanese maple 'Hōgyoku'",
     "Ho¯ gyoku"
@@ -134,7 +142,8 @@
       "disease": "May be susceptible to Verticillium wilt , Acer leaf scorch and honey fungus"
     },
     "images": {
-      "count": 1
+      "count": 1,
+      "local_files": []
     },
     "source": {
       "provider": "RHS",
@@ -174,9 +183,7 @@
     "matched_product_count": 1,
     "local_file_count": 1,
     "cover_path": "data-source/Resource/园艺/raw/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg",
-    "local_files": [
-      "data-source/Resource/园艺/raw/herter-images/acer-palmatum-ho-gyoku/01-hogyoku.jpg"
-    ],
+    "local_files": [],
     "products": [
       {
         "product_id": 1244,
@@ -224,5 +231,14 @@
       ]
     }
   },
-  "has_herter": true
+  "has_herter": true,
+  "selected_cover_path": "",
+  "user_images": [
+    "Resource/园艺/raw/user-images/acer-palmatum-ho-gyoku/01-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057149.jpg",
+    "Resource/园艺/raw/user-images/acer-palmatum-ho-gyoku/02-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057217.webp",
+    "Resource/园艺/raw/user-images/acer-palmatum-ho-gyoku/03-Hogyoku-2.jpg",
+    "Resource/园艺/raw/user-images/acer-palmatum-ho-gyoku/04-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057183.webp",
+    "Resource/园艺/raw/user-images/acer-palmatum-ho-gyoku/05-Acer_palmatum_Hogyoku_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2057180.jpg"
+  ],
+  "hidden_images": []
 }

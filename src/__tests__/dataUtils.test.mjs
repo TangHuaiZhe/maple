@@ -3,6 +3,8 @@ import assert from "node:assert/strict";
 
 import {
   applyPrimaryCoverSelection,
+  hasRecordImages,
+  removeImageFromDetailRecord,
   readFavoriteIds,
   resolveAppUrl,
   resolveRecordAssetPaths,
@@ -114,6 +116,61 @@ test("applyPrimaryCoverSelection updates the current record cover immediately", 
         "/user-images/acer-palmatum-kasagi-yama/02.jpg?v=build",
         "/user-images/acer-palmatum-kasagi-yama/01.jpg?v=build",
       ],
+    },
+  });
+});
+
+test("hasRecordImages detects records with any visible or cover image", () => {
+  assert.equal(hasRecordImages({
+    cover_path: "/mrmaple-images/acer/a.jpg",
+  }), true);
+
+  assert.equal(hasRecordImages({
+    images: {
+      public_user_paths: ["/user-images/acer/b.jpg"],
+    },
+  }), true);
+});
+
+test("hasRecordImages reports false when a record has no image paths", () => {
+  assert.equal(hasRecordImages({
+    id: "acer-palmatum-no-image",
+    images: {
+      public_rhs_paths: [],
+      public_user_paths: [],
+    },
+  }), false);
+});
+
+test("removeImageFromDetailRecord removes image from public lists and updates cover", () => {
+  const record = removeImageFromDetailRecord({
+    id: "acer-palmatum-kasagi-yama",
+    cover_path: "/maple/user-images/acer-palmatum-kasagi-yama/01.jpg?v=build",
+    images: {
+      public_cover_path: "/maple/user-images/acer-palmatum-kasagi-yama/01.jpg?v=build",
+      public_paths: [
+        "/maple/user-images/acer-palmatum-kasagi-yama/01.jpg?v=build",
+        "/maple/user-images/acer-palmatum-kasagi-yama/02.jpg?v=build",
+      ],
+      public_user_paths: [
+        "/maple/user-images/acer-palmatum-kasagi-yama/01.jpg?v=build",
+        "/maple/user-images/acer-palmatum-kasagi-yama/02.jpg?v=build",
+      ],
+    },
+  }, "/user-images/acer-palmatum-kasagi-yama/01.jpg");
+
+  assert.deepEqual(record, {
+    id: "acer-palmatum-kasagi-yama",
+    cover_path: "/maple/user-images/acer-palmatum-kasagi-yama/02.jpg?v=build",
+    images: {
+      public_cover_path: "/maple/user-images/acer-palmatum-kasagi-yama/02.jpg?v=build",
+      public_paths: [
+        "/maple/user-images/acer-palmatum-kasagi-yama/02.jpg?v=build",
+      ],
+      public_user_paths: [
+        "/maple/user-images/acer-palmatum-kasagi-yama/02.jpg?v=build",
+      ],
+      public_count: 1,
     },
   });
 });
