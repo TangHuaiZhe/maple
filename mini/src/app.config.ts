@@ -29,7 +29,7 @@ export default defineAppConfig({
       },
       {
         pagePath: 'pages/catalog/index',
-        text: '探索',
+        text: '目录',
         iconPath: 'assets/tabbar/home.png',
         selectedIconPath: 'assets/tabbar/home-active.png'
       },
