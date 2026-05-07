@@ -1,3 +1,3 @@
 export default definePageConfig({
-  navigationBarTitleText: '筛选搜索'
+  navigationBarTitleText: '枫晴万种'
 })

@@ -1,5 +1,5 @@
 export default definePageConfig({
-  navigationBarTitleText: '流行品种',
+  navigationBarTitleText: '枫晴万种',
   enableShareAppMessage: true,
   enableShareTimeline: true
 })

@@ -13,7 +13,7 @@ import { UI_STRINGS } from '../../utils/locale'
 import './index.scss'
 
 const LETTERS = Array.from({ length: 26 }, (_, index) => String.fromCharCode(65 + index))
-const PAGE_SIZE = 40
+const PREVIEW_PER_LETTER = 6
 function getLatinSortLabel(item: { display_name?: string; canonical_name?: string; scientific_name?: string }) {
   const candidates = [item.display_name, item.canonical_name, item.scientific_name]
   for (const candidate of candidates) {
@@ -40,7 +40,9 @@ export default function CatalogPage() {
   }))
   const [keyword, setKeyword] = useState('')
   const debouncedKeyword = useDebouncedValue(keyword)
-  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
+  const [scrollIntoId, setScrollIntoId] = useState('')
+  const [activeLetter, setActiveLetter] = useState('')
+  const [expandedLetters, setExpandedLetters] = useState<Set<string>>(new Set())
 
   const t = UI_STRINGS[locale]
 
@@ -56,26 +58,58 @@ export default function CatalogPage() {
       ? sorted.filter(item => matchesCatalogKeyword(item, debouncedKeyword))
       : sorted
   ), [sorted, debouncedKeyword])
-  const visible = filtered.slice(0, visibleCount)
-  const hasMore = visibleCount < filtered.length
 
-  const grouped = useMemo(() => {
-    const sections = new Map<string, typeof visible>()
-    for (const item of visible) {
+  // Group all filtered items by letter
+  const allGrouped = useMemo(() => {
+    const sections = new Map<string, typeof filtered>()
+    for (const item of filtered) {
       const group = getAlphaGroup(item)
       const current = sections.get(group) || []
       current.push(item)
       sections.set(group, current)
     }
-
     return [...LETTERS, '#']
       .map(letter => ({ letter, items: sections.get(letter) || [] }))
       .filter(section => section.items.length > 0)
-  }, [visible])
+  }, [filtered])
+
+  // Show preview (PREVIEW_PER_LETTER) for collapsed letters, full for expanded
+  const grouped = useMemo(() => {
+    return allGrouped.map(section => ({
+      letter: section.letter,
+      items: expandedLetters.has(section.letter) ? section.items : section.items.slice(0, PREVIEW_PER_LETTER),
+      total: section.items.length,
+      expanded: expandedLetters.has(section.letter)
+    }))
+  }, [allGrouped, expandedLetters])
+
+  const visibleTotal = grouped.reduce((sum, s) => sum + s.items.length, 0)
+
+  // All available letters from full dataset (not just visible/paged items)
+  const availableLetters = useMemo(() => {
+    const letterSet = new Set<string>()
+    for (const item of filtered) {
+      letterSet.add(getAlphaGroup(item))
+    }
+    return [...LETTERS, '#'].filter(l => letterSet.has(l))
+  }, [filtered])
+
+  const handleLetterTap = useCallback((letter: string) => {
+    setExpandedLetters(prev => {
+      const next = new Set(prev)
+      next.add(letter)
+      return next
+    })
+    setTimeout(() => {
+      setScrollIntoId(`catalog-section-${letter === '#' ? 'hash' : letter}`)
+    }, 50)
+    setActiveLetter(letter)
+    setTimeout(() => setActiveLetter(''), 800)
+  }, [])
 
   const handleRefresh = useCallback(() => {
     setKeyword('')
-    setVisibleCount(PAGE_SIZE)
+    setExpandedLetters(new Set())
     stopPullDownRefresh()
   }, [])
 
@@ -93,16 +127,9 @@ export default function CatalogPage() {
     <View className='page-shell catalog-page'>
       <View className='page-header'>
         <View className='header-row'>
-          <View>
-            <Text className='page-eyebrow'>{t.catalog.eyebrow}</Text>
-            <Text className='page-title'>{t.catalog.title}</Text>
-            <Text className='page-subtitle'>{t.catalog.subtitle}</Text>
-          </View>
+          <View />
           <LocaleSwitch />
         </View>
-        <Text className='meta-chip' style={{ marginTop: '16rpx' }}>
-          {visible.length}/{sorted.length}{t.common.items}
-        </Text>
       </View>
 
       <View className='catalog-search'>
@@ -111,47 +138,64 @@ export default function CatalogPage() {
           type='text'
           placeholder={t.catalog.searchPlaceholder}
           value={keyword}
-          onInput={e => { setKeyword(e.detail.value); setVisibleCount(PAGE_SIZE) }}
+          onInput={e => { setKeyword(e.detail.value); setExpandedLetters(new Set()) }}
         />
       </View>
 
-      <ScrollView
-        className='catalog-scroll'
-        scrollY
-        enhanced
-        showScrollbar={false}
-        lowerThreshold={160}
-        onScrollToLower={() => { if (hasMore) setVisibleCount(c => c + PAGE_SIZE) }}
-      >
-        {filtered.length === 0 ? (
-          <Text className='status-text'>{t.catalog.noResults}</Text>
-        ) : (
-          <View className='catalog-sections'>
-            {grouped.map(section => (
-              <View className='catalog-section' key={section.letter} id={`catalog-section-${section.letter}`}>
-                <Text className='catalog-section__title'>{section.letter}</Text>
-                <View className='catalog-grid'>
-                  {section.items.map(item => (
-                    <CultivarCard
-                      key={item.id}
-                      item={item}
-                      locale={locale}
-                      noImageLabel={t.common.noImage}
-                      isFavorite={isFavorite(item.id)}
-                      onToggleFavorite={toggleFavorite}
-                    />
-                  ))}
+      <View className='catalog-body'>
+        <ScrollView className='catalog-alpha-bar' scrollY enhanced showScrollbar={false}>
+          {availableLetters.map(letter => (
+            <Text
+              key={letter}
+              className={`catalog-alpha-bar__letter${activeLetter === letter ? ' catalog-alpha-bar__letter--active' : ''}`}
+              onClick={() => handleLetterTap(letter)}
+            >
+              {letter}
+            </Text>
+          ))}
+        </ScrollView>
+
+        <ScrollView
+          className='catalog-scroll'
+          scrollY
+          enhanced
+          showScrollbar={false}
+          scrollIntoView={scrollIntoId}
+          scrollWithAnimation
+        >
+          {filtered.length === 0 ? (
+            <Text className='status-text'>{t.catalog.noResults}</Text>
+          ) : (
+            <View className='catalog-sections'>
+              {grouped.map(section => (
+                <View className='catalog-section' key={section.letter} id={`catalog-section-${section.letter === '#' ? 'hash' : section.letter}`}>
+                  <Text className='catalog-section__title'>{section.letter}</Text>
+                  <View className='catalog-grid'>
+                    {section.items.map(item => (
+                      <CultivarCard
+                        key={item.id}
+                        item={item}
+                        locale={locale}
+                        noImageLabel={t.common.noImage}
+                        isFavorite={isFavorite(item.id)}
+                        onToggleFavorite={toggleFavorite}
+                      />
+                    ))}
+                  </View>
+                  {!section.expanded && section.total > PREVIEW_PER_LETTER && (
+                    <Text
+                      className='catalog-section__more'
+                      onClick={() => setExpandedLetters(prev => { const next = new Set(prev); next.add(section.letter); return next })}
+                    >
+                      {t.common.loadMore} ({section.total - PREVIEW_PER_LETTER})
+                    </Text>
+                  )}
                 </View>
-              </View>
-            ))}
-          </View>
-        )}
-        {hasMore && (
-          <View className='pill-button catalog-load-more' onClick={() => setVisibleCount(c => c + PAGE_SIZE)}>
-            <Text>{t.common.loadMore}</Text>
-          </View>
-        )}
-      </ScrollView>
+              ))}
+            </View>
+          )}
+        </ScrollView>
+      </View>
     </View>
   )
 }

@@ -1,7 +1,7 @@
 export default defineAppConfig({
   pages: [
-    'pages/popular/index',
     'pages/catalog/index',
+    'pages/popular/index',
     'pages/search/index',
     'pages/awards/index',
     'pages/favorites/index',
@@ -12,7 +12,7 @@ export default defineAppConfig({
     backgroundTextStyle: 'light',
     backgroundColor: '#f5efe6',
     navigationBarBackgroundColor: '#f5efe6',
-    navigationBarTitleText: '日本枫树',
+    navigationBarTitleText: '枫晴万种',
     navigationBarTextStyle: 'black'
   },
   tabBar: {
@@ -22,16 +22,16 @@ export default defineAppConfig({
     borderStyle: 'black',
     list: [
       {
-        pagePath: 'pages/popular/index',
-        text: '流行',
-        iconPath: 'assets/tabbar/popular.png',
-        selectedIconPath: 'assets/tabbar/popular-active.png'
-      },
-      {
         pagePath: 'pages/catalog/index',
         text: '目录',
         iconPath: 'assets/tabbar/home.png',
         selectedIconPath: 'assets/tabbar/home-active.png'
+      },
+      {
+        pagePath: 'pages/popular/index',
+        text: '流行',
+        iconPath: 'assets/tabbar/popular.png',
+        selectedIconPath: 'assets/tabbar/popular-active.png'
       },
       {
         pagePath: 'pages/awards/index',
