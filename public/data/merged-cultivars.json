@@ -147383,16 +147383,16 @@
       "public_conifer_paths": [],
       "public_jmac_paths": [],
       "public_user_paths": [],
-      "public_cover_path": "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/06-image_904b09e2-6df1-45aa-8f5b-60d6a6c7c3b5.jpg",
+      "public_cover_path": "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/02-image_a9adce54-7253-47fc-a1da-d5926ad46e27.jpg",
       "public_paths": [
-        "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/06-image_904b09e2-6df1-45aa-8f5b-60d6a6c7c3b5.jpg",
+        "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/02-image_a9adce54-7253-47fc-a1da-d5926ad46e27.jpg",
         "/rhs-images/acer-palmatum-ryusen/01-phbe06757.jpg",
         "/rhs-images/acer-palmatum-ryusen/02-phbe02288.jpg",
         "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/01-image_4d4675e9-39a5-46b8-8520-18abcd3ae36d.jpg",
-        "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/02-image_a9adce54-7253-47fc-a1da-d5926ad46e27.jpg",
         "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/03-Acer_palmatum_Ryusen_by_Erica_Glasner-2.jpg",
         "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/04-image_b03a5467-c2de-43e7-b3f7-25cd1c323d16.jpg",
         "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/05-image_8053c6f9-83f7-4ed3-bd38-0fcbc02f065e.jpg",
+        "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/06-image_904b09e2-6df1-45aa-8f5b-60d6a6c7c3b5.jpg",
         "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/07-image_a29e8e74-3f1c-416f-846e-85ec759b4624.jpg",
         "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/08-image_974f5cc0-51a4-4bee-a7bf-a6b8cdaa9bb5.jpg",
         "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/09-image_8979b81b-65ae-40df-b609-16fd6728df98.jpg",
@@ -148735,7 +148735,8 @@
           }
         }
       ]
-    }
+    },
+    "selected_cover_path": "/mrmaple-images/buy-acer-palmatum-ryusen-japanese-maple/02-image_a9adce54-7253-47fc-a1da-d5926ad46e27.jpg"
   },
   {
     "id": "acer-palmatum-s-dwarf-acer-palmatum",
@@ -177228,12 +177229,23 @@
         "/coniferkingdom-images/acer-palmatum-tsuma-gaki/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg"
       ],
       "public_jmac_paths": [],
-      "public_user_paths": [],
+      "public_user_paths": [
+        "/user-images/acer-palmatum-tsuma-gaki/01-AB9FE324-C0DF-460C-9544-B9C762FF1DC2_1_105_c.jpg",
+        "/user-images/acer-palmatum-tsuma-gaki/02-AA0D771D-430F-4627-A169-7212C60D6591_1_105_c.jpg",
+        "/user-images/acer-palmatum-tsuma-gaki/03-FD49D34C-E3B9-49F5-9643-327B081A5D26_1_105_c.jpg",
+        "/user-images/acer-palmatum-tsuma-gaki/04-DAABAA9C-90E6-4025-8201-4D089C791299_1_105_c.jpg",
+        "/user-images/acer-palmatum-tsuma-gaki/05-247C9CD2-76CA-4C19-98D5-A989C3476681_1_105_c.jpg"
+      ],
       "public_cover_path": "/coniferkingdom-images/acer-palmatum-tsuma-gaki/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg",
       "public_paths": [
-        "/coniferkingdom-images/acer-palmatum-tsuma-gaki/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg"
+        "/coniferkingdom-images/acer-palmatum-tsuma-gaki/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg",
+        "/user-images/acer-palmatum-tsuma-gaki/01-AB9FE324-C0DF-460C-9544-B9C762FF1DC2_1_105_c.jpg",
+        "/user-images/acer-palmatum-tsuma-gaki/02-AA0D771D-430F-4627-A169-7212C60D6591_1_105_c.jpg",
+        "/user-images/acer-palmatum-tsuma-gaki/03-FD49D34C-E3B9-49F5-9643-327B081A5D26_1_105_c.jpg",
+        "/user-images/acer-palmatum-tsuma-gaki/04-DAABAA9C-90E6-4025-8201-4D089C791299_1_105_c.jpg",
+        "/user-images/acer-palmatum-tsuma-gaki/05-247C9CD2-76CA-4C19-98D5-A989C3476681_1_105_c.jpg"
       ],
-      "public_count": 1
+      "public_count": 6
     },
     "sources": [
       {
@@ -177434,7 +177446,14 @@
           "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-tsuma-gaki/01-Acer-palmatum-Tsuma-gaki-Specimen-1127-2.jpg"
         ]
       }
-    }
+    },
+    "user_images": [
+      "Resource/园艺/raw/user-images/acer-palmatum-tsuma-gaki/01-AB9FE324-C0DF-460C-9544-B9C762FF1DC2_1_105_c.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-tsuma-gaki/02-AA0D771D-430F-4627-A169-7212C60D6591_1_105_c.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-tsuma-gaki/03-FD49D34C-E3B9-49F5-9643-327B081A5D26_1_105_c.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-tsuma-gaki/04-DAABAA9C-90E6-4025-8201-4D089C791299_1_105_c.jpg",
+      "Resource/园艺/raw/user-images/acer-palmatum-tsuma-gaki/05-247C9CD2-76CA-4C19-98D5-A989C3476681_1_105_c.jpg"
+    ]
   },
   {
     "id": "acer-palmatum-tsuma-type",
