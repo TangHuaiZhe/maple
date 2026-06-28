@@ -1,3 +1,3 @@
 export default definePageConfig({
-  navigationBarTitleText: '版本信息'
+  navigationBarTitleText: '枫晴万种'
 })

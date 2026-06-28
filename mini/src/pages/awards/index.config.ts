@@ -1,5 +1,5 @@
 export default definePageConfig({
-  navigationBarTitleText: 'RHS 获奖',
+  navigationBarTitleText: '枫晴万种',
   enableShareAppMessage: true,
   enableShareTimeline: true
 })

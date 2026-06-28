@@ -1,3 +1,3 @@
 export default definePageConfig({
-  navigationBarTitleText: '我的收藏'
+  navigationBarTitleText: '枫晴万种'
 })
