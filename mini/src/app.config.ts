@@ -28,12 +28,6 @@ export default defineAppConfig({
         selectedIconPath: 'assets/tabbar/home-active.png'
       },
       {
-        pagePath: 'pages/popular/index',
-        text: '流行',
-        iconPath: 'assets/tabbar/popular.png',
-        selectedIconPath: 'assets/tabbar/popular-active.png'
-      },
-      {
         pagePath: 'pages/awards/index',
         text: 'RHS 获奖',
         iconPath: 'assets/tabbar/award.png',

@@ -3,6 +3,7 @@
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  position: relative;
 
   .page-header {
     margin-bottom: 12rpx;
@@ -26,28 +27,42 @@
   flex: 1;
   min-height: 0;
   display: flex;
+  align-items: stretch;
+  gap: 8rpx;
   margin-top: 16rpx;
 }
 
-.catalog-alpha-bar {
-  width: 48rpx;
+.catalog-alpha-sidebar {
+  align-self: center;
   flex-shrink: 0;
-  padding: 8rpx 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rpx;
+  padding: 10rpx 6rpx;
+  border: 1rpx solid rgba(143, 47, 42, 0.12);
+  border-radius: 999rpx;
+  background: rgba(255, 250, 244, 0.86);
+  box-shadow: 0 12rpx 34rpx rgba(70, 46, 24, 0.14);
 
   &__letter {
     display: block;
-    width: 48rpx;
-    height: 44rpx;
-    line-height: 44rpx;
+    width: 32rpx;
+    height: 28rpx;
+    line-height: 28rpx;
     text-align: center;
-    font-size: 22rpx;
+    font-size: 20rpx;
     font-weight: 600;
     color: #8e8276;
-    border-radius: 8rpx;
+    border-radius: 999rpx;
 
     &--active {
       color: #fff;
       background: #8f2f2a;
+    }
+
+    &--disabled {
+      color: rgba(142, 130, 118, 0.32);
     }
   }
 }
@@ -55,7 +70,6 @@
 .catalog-scroll {
   flex: 1;
   min-height: 0;
-  padding-left: 12rpx;
 }
 
 .catalog-sections {

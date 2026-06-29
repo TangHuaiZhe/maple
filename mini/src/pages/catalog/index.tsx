@@ -1,6 +1,6 @@
-import { useState, useMemo, useCallback } from 'react'
+import { useState, useMemo, useCallback, useEffect, useRef } from 'react'
 import { View, Text, Input, ScrollView } from '@tarojs/components'
-import { useShareAppMessage, usePullDownRefresh, stopPullDownRefresh } from '@tarojs/taro'
+import { useShareAppMessage, usePullDownRefresh, stopPullDownRefresh, createSelectorQuery } from '@tarojs/taro'
 import { useCatalog } from '../../hooks/useCatalog'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
@@ -14,6 +14,7 @@ import './index.scss'
 
 const LETTERS = Array.from({ length: 26 }, (_, index) => String.fromCharCode(65 + index))
 const PREVIEW_PER_LETTER = 6
+const ALPHA_SIDEBAR_ID = 'catalog-alpha-sidebar'
 function getLatinSortLabel(item: { display_name?: string; canonical_name?: string; scientific_name?: string }) {
   const candidates = [item.display_name, item.canonical_name, item.scientific_name]
   for (const candidate of candidates) {
@@ -43,6 +44,8 @@ export default function CatalogPage() {
   const [scrollIntoId, setScrollIntoId] = useState('')
   const [activeLetter, setActiveLetter] = useState('')
   const [expandedLetters, setExpandedLetters] = useState<Set<string>>(new Set())
+  const alphaSidebarRectRef = useRef<{ top: number; height: number } | null>(null)
+  const lastTouchedLetterRef = useRef('')
 
   const t = UI_STRINGS[locale]
 
@@ -85,14 +88,33 @@ export default function CatalogPage() {
 
   const visibleTotal = grouped.reduce((sum, s) => sum + s.items.length, 0)
 
-  // All available letters from full dataset (not just visible/paged items)
-  const availableLetters = useMemo(() => {
+  const alphabetIndex = useMemo(() => {
     const letterSet = new Set<string>()
     for (const item of filtered) {
-      letterSet.add(getAlphaGroup(item))
+      const letter = getAlphaGroup(item)
+      if (letter !== '#') {
+        letterSet.add(letter)
+      }
     }
-    return [...LETTERS, '#'].filter(l => letterSet.has(l))
+    return LETTERS.map(letter => ({
+      letter,
+      available: letterSet.has(letter)
+    }))
   }, [filtered])
+
+  const measureAlphaSidebar = useCallback(() => {
+    createSelectorQuery()
+      .select(`#${ALPHA_SIDEBAR_ID}`)
+      .boundingClientRect(rect => {
+        if (rect && !Array.isArray(rect) && rect.height) {
+          alphaSidebarRectRef.current = {
+            top: rect.top,
+            height: rect.height
+          }
+        }
+      })
+      .exec()
+  }, [])
 
   const handleLetterTap = useCallback((letter: string) => {
     setExpandedLetters(prev => {
@@ -107,6 +129,32 @@ export default function CatalogPage() {
     setTimeout(() => setActiveLetter(''), 800)
   }, [])
 
+  const handleAlphaTouch = useCallback((event) => {
+    const touch = event.touches?.[0] || event.changedTouches?.[0]
+    if (!touch) return
+
+    const rect = alphaSidebarRectRef.current
+    if (!rect?.height) {
+      measureAlphaSidebar()
+      return
+    }
+
+    const relativeY = Math.max(0, Math.min(touch.clientY - rect.top, rect.height - 1))
+    const index = Math.floor((relativeY / rect.height) * alphabetIndex.length)
+    const target = alphabetIndex[index]
+
+    if (!target?.available || target.letter === lastTouchedLetterRef.current) {
+      return
+    }
+
+    lastTouchedLetterRef.current = target.letter
+    handleLetterTap(target.letter)
+  }, [alphabetIndex, handleLetterTap, measureAlphaSidebar])
+
+  const handleAlphaTouchEnd = useCallback(() => {
+    lastTouchedLetterRef.current = ''
+  }, [])
+
   const handleRefresh = useCallback(() => {
     setKeyword('')
     setExpandedLetters(new Set())
@@ -114,6 +162,10 @@ export default function CatalogPage() {
   }, [])
 
   usePullDownRefresh(handleRefresh)
+
+  useEffect(() => {
+    setTimeout(measureAlphaSidebar, 0)
+  }, [alphabetIndex, measureAlphaSidebar])
 
   if (loading && !items.length) {
     return <View className='page-shell'><Text className='status-text'>{t.common.loading}</Text></View>
@@ -143,18 +195,6 @@ export default function CatalogPage() {
       </View>
 
       <View className='catalog-body'>
-        <ScrollView className='catalog-alpha-bar' scrollY enhanced showScrollbar={false}>
-          {availableLetters.map(letter => (
-            <Text
-              key={letter}
-              className={`catalog-alpha-bar__letter${activeLetter === letter ? ' catalog-alpha-bar__letter--active' : ''}`}
-              onClick={() => handleLetterTap(letter)}
-            >
-              {letter}
-            </Text>
-          ))}
-        </ScrollView>
-
         <ScrollView
           className='catalog-scroll'
           scrollY
@@ -195,6 +235,30 @@ export default function CatalogPage() {
             </View>
           )}
         </ScrollView>
+
+        <View
+          id={ALPHA_SIDEBAR_ID}
+          className='catalog-alpha-sidebar'
+          catchMove
+          onTouchStart={handleAlphaTouch}
+          onTouchMove={handleAlphaTouch}
+          onTouchEnd={handleAlphaTouchEnd}
+          onTouchCancel={handleAlphaTouchEnd}
+        >
+          {alphabetIndex.map(({ letter, available }) => (
+            <Text
+              key={letter}
+              className={[
+                'catalog-alpha-sidebar__letter',
+                activeLetter === letter ? 'catalog-alpha-sidebar__letter--active' : '',
+                available ? '' : 'catalog-alpha-sidebar__letter--disabled'
+              ].filter(Boolean).join(' ')}
+              onClick={() => { if (available) handleLetterTap(letter) }}
+            >
+              {letter}
+            </Text>
+          ))}
+        </View>
       </View>
     </View>
   )
