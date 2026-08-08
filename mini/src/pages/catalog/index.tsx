@@ -15,6 +15,16 @@ import './index.scss'
 const LETTERS = Array.from({ length: 26 }, (_, index) => String.fromCharCode(65 + index))
 const PREVIEW_PER_LETTER = 6
 const ALPHA_SIDEBAR_ID = 'catalog-alpha-sidebar'
+
+function getTouchY(event) {
+  const touch = event.touches?.[0]
+    || event.changedTouches?.[0]
+    || event.detail?.touches?.[0]
+    || event.detail?.changedTouches?.[0]
+  const y = touch?.clientY ?? touch?.pageY ?? event.detail?.y
+  return Number.isFinite(y) ? y : null
+}
+
 function getLatinSortLabel(item: { display_name?: string; canonical_name?: string; scientific_name?: string }) {
   const candidates = [item.display_name, item.canonical_name, item.scientific_name]
   for (const candidate of candidates) {
@@ -130,8 +140,8 @@ export default function CatalogPage() {
   }, [])
 
   const handleAlphaTouch = useCallback((event) => {
-    const touch = event.touches?.[0] || event.changedTouches?.[0]
-    if (!touch) return
+    const touchY = getTouchY(event)
+    if (touchY === null) return
 
     const rect = alphaSidebarRectRef.current
     if (!rect?.height) {
@@ -139,7 +149,7 @@ export default function CatalogPage() {
       return
     }
 
-    const relativeY = Math.max(0, Math.min(touch.clientY - rect.top, rect.height - 1))
+    const relativeY = Math.max(0, Math.min(touchY - rect.top, rect.height - 1))
     const index = Math.floor((relativeY / rect.height) * alphabetIndex.length)
     const target = alphabetIndex[index]
 

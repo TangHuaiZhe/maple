@@ -34,6 +34,9 @@
 
 .catalog-alpha-sidebar {
   align-self: center;
+  width: 64rpx;
+  min-width: 64rpx;
+  box-sizing: border-box;
   flex-shrink: 0;
   display: flex;
   flex-direction: column;
@@ -47,7 +50,7 @@
 
   &__letter {
     display: block;
-    width: 32rpx;
+    width: 48rpx;
     height: 28rpx;
     line-height: 28rpx;
     text-align: center;
