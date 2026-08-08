@@ -58,7 +58,7 @@ import {
   readDiscoveryVisibility,
   writeDiscoveryVisibility,
 } from "./preferences.mjs";
-import { BUILD_INFO } from "./buildInfo.mjs";
+import { BUILD_INFO } from "./buildInfo.generated.mjs";
 import POPULAR_IDS from "../public/data/popular-ids.json";
 
 const PAGE_SIZE = 96;

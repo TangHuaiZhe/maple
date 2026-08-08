@@ -54,3 +54,9 @@ export interface MetaData {
     meta: string
   }
 }
+
+export interface ThumbnailManifestEntry {
+  [width: string]: string | undefined
+}
+
+export type ThumbnailManifest = Record<string, ThumbnailManifestEntry>

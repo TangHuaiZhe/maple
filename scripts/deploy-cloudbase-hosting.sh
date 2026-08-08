@@ -5,6 +5,7 @@ ENV_ID="${1:-}"
 CLOUD_PATH="${2:-/}"
 SOURCE_DIR="${3:-dist}"
 MAX_RETRIES="${MAX_RETRIES:-3}"
+ONLY_IMAGES="${ONLY_IMAGES:-0}"
 
 if [[ -z "$ENV_ID" ]]; then
   echo "Usage: bash ./scripts/deploy-cloudbase-hosting.sh <env-id> [cloud-path] [source-dir]"
@@ -81,11 +82,13 @@ if find "$TMP_DIR" -maxdepth 1 -type f | grep -q .; then
   deploy_with_retry "$TMP_DIR" "$BASE_CLOUD_PATH"
 fi
 
-for dir_name in assets data; do
-  if [[ -d "$SOURCE_DIR/$dir_name" ]]; then
-    deploy_with_retry "$SOURCE_DIR/$dir_name" "$(join_cloud_path "$BASE_CLOUD_PATH" "$dir_name")"
-  fi
-done
+if [[ "$ONLY_IMAGES" != "1" ]]; then
+  for dir_name in assets data; do
+    if [[ -d "$SOURCE_DIR/$dir_name" ]]; then
+      deploy_with_retry "$SOURCE_DIR/$dir_name" "$(join_cloud_path "$BASE_CLOUD_PATH" "$dir_name")"
+    fi
+  done
+fi
 
 for dir_name in mrmaple-images rhs-images herter-images ncsu-images coniferkingdom-images jmac-images user-images; do
   if [[ ! -d "$SOURCE_DIR/$dir_name" ]]; then

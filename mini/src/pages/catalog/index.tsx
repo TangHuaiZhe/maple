@@ -25,7 +25,7 @@ function getTouchY(event) {
   return Number.isFinite(y) ? y : null
 }
 
-function getLatinSortLabel(item: { display_name?: string; canonical_name?: string; scientific_name?: string }) {
+function getLatinSortLabel(item: { display_name?: string; canonical_name?: string; scientific_name?: string | null }) {
   const candidates = [item.display_name, item.canonical_name, item.scientific_name]
   for (const candidate of candidates) {
     if (!candidate) continue
@@ -34,14 +34,14 @@ function getLatinSortLabel(item: { display_name?: string; canonical_name?: strin
   return candidates.find(Boolean) || ''
 }
 
-function getAlphaGroup(item: { display_name?: string; canonical_name?: string; scientific_name?: string }) {
+function getAlphaGroup(item: { display_name?: string; canonical_name?: string; scientific_name?: string | null }) {
   const label = getLatinSortLabel(item)
   const match = label.match(/[A-Za-z]/)
   return match ? match[0].toUpperCase() : '#'
 }
 
 export default function CatalogPage() {
-  const { items, loading, error } = useCatalog()
+  const { items, thumbnailManifest, loading, error } = useCatalog()
   const { locale } = useLocale()
   const { isFavorite, toggleFavorite } = useFavorites()
 
@@ -95,8 +95,6 @@ export default function CatalogPage() {
       expanded: expandedLetters.has(section.letter)
     }))
   }, [allGrouped, expandedLetters])
-
-  const visibleTotal = grouped.reduce((sum, s) => sum + s.items.length, 0)
 
   const alphabetIndex = useMemo(() => {
     const letterSet = new Set<string>()
@@ -229,6 +227,7 @@ export default function CatalogPage() {
                         noImageLabel={t.common.noImage}
                         isFavorite={isFavorite(item.id)}
                         onToggleFavorite={toggleFavorite}
+                        thumbnailManifest={thumbnailManifest}
                       />
                     ))}
                   </View>

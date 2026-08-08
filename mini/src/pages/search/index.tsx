@@ -15,7 +15,7 @@ import './index.scss'
 const PAGE_SIZE = 48
 
 export default function SearchPage() {
-  const { items, meta, loading, error } = useCatalog()
+  const { items, meta, thumbnailManifest, loading, error } = useCatalog()
   const { locale } = useLocale()
   const { isFavorite, toggleFavorite } = useFavorites()
   const [keyword, setKeyword] = useState('')
@@ -81,6 +81,7 @@ export default function SearchPage() {
               noImageLabel={t.common.noImage}
               isFavorite={isFavorite(item.id)}
               onToggleFavorite={toggleFavorite}
+              thumbnailManifest={thumbnailManifest}
             />
           ))}
         </View>

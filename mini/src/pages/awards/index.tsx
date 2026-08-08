@@ -2,7 +2,13 @@ import { useState, useEffect } from 'react'
 import { View, Text } from '@tarojs/components'
 import { useShareAppMessage } from '@tarojs/taro'
 import type { CatalogItem } from '../../types/catalog'
-import { fetchAwards, getCachedAwards } from '../../services/catalog'
+import {
+  fetchAwards,
+  fetchThumbnailManifest,
+  getCachedAwards,
+  getCachedThumbnailManifest
+} from '../../services/catalog'
+import type { ThumbnailManifest } from '../../types/catalog'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
 import { CultivarCard } from '../../components/CultivarCard'
@@ -14,6 +20,7 @@ export default function AwardsPage() {
   const [items, setItems] = useState<CatalogItem[]>(() => getCachedAwards() || [])
   const [loading, setLoading] = useState(!getCachedAwards())
   const [error, setError] = useState<string | null>(null)
+  const [thumbnailManifest, setThumbnailManifest] = useState<ThumbnailManifest>(() => getCachedThumbnailManifest() || {})
   const [visibleCount, setVisibleCount] = useState(20)
 
   useShareAppMessage(() => ({
@@ -27,10 +34,11 @@ export default function AwardsPage() {
 
   useEffect(() => {
     let mounted = true
-    fetchAwards()
-      .then(data => {
+    Promise.all([fetchAwards(), fetchThumbnailManifest()])
+      .then(([data, thumbnailData]) => {
         if (!mounted) return
         setItems(data)
+        setThumbnailManifest(thumbnailData)
         setLoading(false)
       })
       .catch(err => {
@@ -76,6 +84,7 @@ export default function AwardsPage() {
             noImageLabel={t.common.noImage}
             isFavorite={isFavorite(item.id)}
             onToggleFavorite={toggleFavorite}
+            thumbnailManifest={thumbnailManifest}
           />
         ))}
       </View>

@@ -33,10 +33,12 @@
     "deploy:cloudbase:data": "bash ./scripts/deploy-cloudbase-incremental.sh cloud1-d0gq8e1gidc917363 data dist",
     "deploy:cloudbase:image-thumbs": "npm run deploy:cloudbase:thumbs && npm run deploy:cloudbase:data",
     "deploy:cloudbase:thumbs": "bash ./scripts/deploy-cloudbase-incremental.sh cloud1-d0gq8e1gidc917363 thumbs dist",
-    "deploy:cloudbase:user-images": "bash ./scripts/deploy-cloudbase-incremental.sh cloud1-d0gq8e1gidc917363 user-images dist",
+    "deploy:cloudbase:user-images": "bash ./scripts/deploy-cloudbase-incremental.sh cloud1-d0gq8e1gidc917363 user-images data-source/Resource/园艺/raw",
+    "deploy:cloudbase:source-images": "ONLY_IMAGES=1 bash ./scripts/deploy-cloudbase-hosting.sh cloud1-d0gq8e1gidc917363 / data-source/Resource/园艺/raw",
     "preview": "vite preview",
     "mini:dev": "npm run sync-mini-popular-ids && npm --prefix ./mini run dev:weapp",
-    "mini:build": "npm run sync-mini-popular-ids && npm --prefix ./mini run build:weapp"
+    "mini:build": "npm run sync-mini-popular-ids && npm --prefix ./mini run build:weapp",
+    "mini:typecheck": "npm --prefix ./mini run typecheck"
   },
   "keywords": [
     "maple",

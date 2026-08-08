@@ -11,7 +11,7 @@ import { UI_STRINGS } from '../../utils/locale'
 import './index.scss'
 
 export default function FavoritesPage() {
-  const { items } = useCatalog()
+  const { items, thumbnailManifest } = useCatalog()
   const { favoriteIds, isFavorite, toggleFavorite } = useFavorites()
   const { locale } = useLocale()
 
@@ -64,6 +64,7 @@ export default function FavoritesPage() {
               noImageLabel={t.common.noImage}
               isFavorite={isFavorite(item!.id)}
               onToggleFavorite={toggleFavorite}
+              thumbnailManifest={thumbnailManifest}
             />
           ))}
         </View>

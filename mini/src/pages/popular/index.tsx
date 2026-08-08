@@ -14,7 +14,7 @@ import POPULAR_IDS from './popular-ids.json'
 import './index.scss'
 
 export default function PopularPage() {
-  const { items, loading, error } = useCatalog()
+  const { items, thumbnailManifest, loading, error } = useCatalog()
   const { locale } = useLocale()
   const { isFavorite, toggleFavorite } = useFavorites()
 
@@ -86,6 +86,7 @@ export default function PopularPage() {
               noImageLabel={t.common.noImage}
               isFavorite={isFavorite(item!.id)}
               onToggleFavorite={toggleFavorite}
+              thumbnailManifest={thumbnailManifest}
             />
           ))}
         </View>

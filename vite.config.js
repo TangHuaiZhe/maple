@@ -1,4 +1,5 @@
 import fs from "node:fs/promises";
+import { createReadStream } from "node:fs";
 import path from "node:path";
 import { execFile } from "node:child_process";
 import { promisify } from "node:util";
@@ -150,7 +151,7 @@ function removeImageFromRecord(record, rawPath, publicPath) {
 }
 
 function buildInfoPlugin() {
-  const buildInfoPath = path.join(appRoot, "src/buildInfo.mjs");
+  const buildInfoPath = path.join(appRoot, "src/buildInfo.generated.mjs");
 
   return {
     name: "build-info",
@@ -158,6 +159,110 @@ function buildInfoPlugin() {
       const info = createBuildInfo();
       const module = createWebBuildInfoModule(info);
       await fs.writeFile(buildInfoPath, module, "utf8");
+    },
+  };
+}
+
+const publicAssetDirectories = [
+  "data",
+  "thumbs",
+  "rhs-images",
+  "mrmaple-images",
+  "herter-images",
+  "ncsu-images",
+  "coniferkingdom-images",
+  "jmac-images",
+  "user-images",
+];
+
+const contentTypes = {
+  ".avif": "image/avif",
+  ".gif": "image/gif",
+  ".jpeg": "image/jpeg",
+  ".jpg": "image/jpeg",
+  ".json": "application/json; charset=utf-8",
+  ".png": "image/png",
+  ".svg": "image/svg+xml",
+  ".webp": "image/webp",
+};
+
+function staticDataAssetsPlugin() {
+  const basePath = normalizeBasePath(process.env.VITE_PUBLIC_BASE);
+  const requestRoots = publicAssetDirectories.map((directory) => ({
+    prefix: `${basePath}${directory}/`,
+    root: path.join(appRoot, "public", directory),
+  }));
+
+  return {
+    name: "static-data-assets",
+    configureServer(server) {
+      server.middlewares.use(async (req, res, next) => {
+        if (req.method !== "GET" && req.method !== "HEAD") {
+          next();
+          return;
+        }
+
+        let pathname;
+        try {
+          pathname = new URL(req.url || "/", "http://127.0.0.1").pathname;
+        } catch {
+          next();
+          return;
+        }
+
+        const match = requestRoots.find(({ prefix }) => pathname.startsWith(prefix));
+        if (!match) {
+          next();
+          return;
+        }
+
+        let relativePath;
+        try {
+          relativePath = decodeURIComponent(pathname.slice(match.prefix.length));
+        } catch {
+          res.statusCode = 400;
+          res.end("Invalid asset path");
+          return;
+        }
+
+        const root = path.resolve(match.root);
+        const filePath = path.resolve(root, relativePath);
+        if (filePath !== root && !filePath.startsWith(`${root}${path.sep}`)) {
+          res.statusCode = 403;
+          res.end("Forbidden");
+          return;
+        }
+
+        try {
+          const stat = await fs.stat(filePath);
+          if (!stat.isFile()) {
+            next();
+            return;
+          }
+
+          res.statusCode = 200;
+          res.setHeader("Content-Type", contentTypes[path.extname(filePath).toLowerCase()] || "application/octet-stream");
+          res.setHeader("Cache-Control", "no-cache");
+          if (req.method === "HEAD") {
+            res.end();
+            return;
+          }
+
+          createReadStream(filePath).pipe(res);
+        } catch {
+          next();
+        }
+      });
+    },
+    async generateBundle(outputOptions) {
+      const outputRoot = path.resolve(appRoot, outputOptions.dir || "dist");
+      for (const directory of ["data", "thumbs"]) {
+        await fs.cp(
+          path.join(appRoot, "public", directory),
+          path.join(outputRoot, directory),
+          { recursive: true },
+        );
+      }
     },
   };
 }
@@ -381,7 +486,8 @@ function devRecordEditorPlugin() {
 
 export default defineConfig({
   base: normalizeBasePath(process.env.VITE_PUBLIC_BASE),
-  plugins: [react(), buildInfoPlugin(), devRecordEditorPlugin()],
+  publicDir: false,
+  plugins: [react(), buildInfoPlugin(), staticDataAssetsPlugin(), devRecordEditorPlugin()],
   server: {
     host: "0.0.0.0",
     port: 4173,

@@ -5,7 +5,7 @@ import { fileURLToPath } from "node:url";
 import { createBuildInfo, createWebBuildInfoModule } from "./build-info.mjs";
 
 const repoRoot = resolve(dirname(fileURLToPath(import.meta.url)), "..");
-const outputPath = resolve(repoRoot, "src/buildInfo.mjs");
+const outputPath = resolve(repoRoot, "src/buildInfo.generated.mjs");
 const buildInfo = createBuildInfo();
 const content = createWebBuildInfoModule(buildInfo);
 

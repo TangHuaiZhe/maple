@@ -1,4 +1,5 @@
 /// <reference types="@tarojs/taro" />
+/// <reference types="miniprogram-api-typings" />
 
 declare module '*.png'
 declare module '*.gif'

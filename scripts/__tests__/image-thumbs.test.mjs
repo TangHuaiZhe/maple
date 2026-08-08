@@ -95,6 +95,45 @@ test("planThumbnailJobs can include every source image when requested", () => {
   ]);
 });
 
+test("planThumbnailJobs can restrict generation to catalog covers", () => {
+  const jobs = planThumbnailJobs({
+    imageFiles: [
+      { publicPath: "/mrmaple-images/a/cover.jpg", filePath: "/repo/public/mrmaple-images/a/cover.jpg", size: 100_000 },
+      { publicPath: "/mrmaple-images/a/detail.jpg", filePath: "/repo/public/mrmaple-images/a/detail.jpg", size: 900_000 },
+    ],
+    referencedPaths: new Set([
+      "/mrmaple-images/a/cover.jpg",
+      "/mrmaple-images/a/detail.jpg",
+    ]),
+    coverPaths: new Set(["/mrmaple-images/a/cover.jpg"]),
+    existingThumbPaths: new Set(),
+    publicRoot: "/repo/public",
+    sizes: [480],
+    coversOnly: true,
+  });
+
+  assert.deepEqual(jobs.map((job) => job.sourcePublicPath), [
+    "/mrmaple-images/a/cover.jpg",
+  ]);
+});
+
+test("planThumbnailJobs matches URL-encoded catalog paths to source files", () => {
+  const jobs = planThumbnailJobs({
+    imageFiles: [
+      { publicPath: "/rhs-images/winter-flame/01-Web_Use-_KOT9321[1]_12300.jpg", filePath: "/repo/public/rhs-images/winter-flame/01-Web_Use-_KOT9321[1]_12300.jpg", size: 100_000 },
+    ],
+    referencedPaths: new Set(["/rhs-images/winter-flame/01-Web_Use-_KOT9321[1]_12300.jpg"]),
+    coverPaths: new Set(["/rhs-images/winter-flame/01-Web_Use-_KOT9321%5B1%5D_12300.jpg"]),
+    existingThumbPaths: new Set(),
+    publicRoot: "/repo/public",
+    sizes: [480],
+    coversOnly: true,
+  });
+
+  assert.equal(jobs.length, 1);
+  assert.equal(jobs[0].sourcePublicPath, "/rhs-images/winter-flame/01-Web_Use-_KOT9321[1]_12300.jpg");
+});
+
 test("planThumbnailJobs prioritizes larger source images for limited batches", () => {
   const jobs = planThumbnailJobs({
     imageFiles: [

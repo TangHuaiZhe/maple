@@ -34,7 +34,12 @@ function isPublicImagePath(value) {
 
 function normalizePublicPath(value) {
   const pathname = String(value || "").split("?")[0];
-  return pathname.startsWith("/") ? pathname : `/${pathname}`;
+  try {
+    const decoded = decodeURIComponent(pathname);
+    return decoded.startsWith("/") ? decoded : `/${decoded}`;
+  } catch {
+    return pathname.startsWith("/") ? pathname : `/${pathname}`;
+  }
 }
 
 function collectRecordImagePaths(record) {

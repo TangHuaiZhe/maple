@@ -73,6 +73,7 @@ npm run image:thumbs:write # 生成 public/thumbs 下的 WebP 缩略图
 ```bash
 npm run image:thumbs -- --source-dir=mrmaple-images
 npm run image:thumbs:write -- --source-dir=mrmaple-images --limit=100
+npm run image:thumbs:write -- --covers-only # 只为目录封面生成小程序/Web 卡片缩略图
 ```
 
 ## 部署
@@ -92,14 +93,15 @@ npm run deploy:cloudbase:assets       # 只上传 dist/assets
 npm run deploy:cloudbase:data         # 只上传 dist/data
 npm run deploy:cloudbase:image-thumbs # 上传 dist/thumbs + dist/data/image-thumbs.json
 npm run deploy:cloudbase:thumbs       # 只上传 dist/thumbs
-npm run deploy:cloudbase:user-images  # 只上传 dist/user-images
+npm run deploy:cloudbase:user-images  # 只上传原始 user-images 目录
+npm run deploy:cloudbase:source-images # 首次或新增时上传全部原始图片目录
 ```
 
-生成或更新缩略图后，先运行 `npm run build`，再用 `npm run deploy:cloudbase:image-thumbs` 上传 `dist/thumbs` 和 `dist/data/image-thumbs.json`。
+生产构建只携带 `data/` 和 `thumbs/`，不会再次复制约 1 GB 的原图目录。生成或更新缩略图后，先运行 `npm run build`，再用 `npm run deploy:cloudbase:image-thumbs` 上传 `dist/thumbs` 和 `dist/data/image-thumbs.json`。首次部署或新增原图时，再运行 `npm run deploy:cloudbase:source-images`。
 
 ### 增量上传图片目录
 
-只新增或修改 `user-images` 图片时，可在 `npm run build` 后单独上传该目录，避免重传整套图片资产：
+只新增或修改 `user-images` 图片时，可单独上传该目录，避免重传整套图片资产：
 
 ```bash
 npm run deploy:cloudbase:user-images
@@ -115,7 +117,7 @@ npm run deploy:cloudbase:user-images
    curl -I -L 'https://cloud1-d0gq8e1gidc917363-1309536005.tcloudbaseapp.com/user-images/{id}/01-example.webp'
    ```
 
-   若返回 `404`，先运行 `npm run build`，再执行上面的 `dist/user-images` 增量上传命令。
+   若返回 `404`，执行上面的 `user-images` 增量上传命令。
 
 2. 确认线上详情 JSON 已指向图片：
 
@@ -126,7 +128,7 @@ npm run deploy:cloudbase:user-images
 3. 如果图片 URL 已经返回 `200`，但页面仍不显示，多半是浏览器/CDN 缓存过旧的 `404`。检查 `src/App.jsx`：
    - `shouldAppendCacheBust()` 必须包含 `user-images`
    - `resolveRecordAssetPaths()` 的 `imageKeys` 必须包含 `public_user_paths`
-   - 更新 `DEPLOY_CACHE_BUST`，例如 `20260502-1`
+   - 更新 `DEPLOY_CACHE_BUST`，例如 `20260808-1`
 
 4. 重新构建并部署入口与资源：
 
@@ -140,7 +142,7 @@ npm run deploy:cloudbase:user-images
 
    ```bash
    curl -s -H 'Cache-Control: no-cache' 'https://cloud1-d0gq8e1gidc917363-1309536005.tcloudbaseapp.com/?probe=1' | rg 'assets/index-.*\.js'
-   curl -I -L 'https://cloud1-d0gq8e1gidc917363-1309536005.tcloudbaseapp.com/user-images/{id}/01-example.webp?v=20260502-1'
+   curl -I -L 'https://cloud1-d0gq8e1gidc917363-1309536005.tcloudbaseapp.com/user-images/{id}/01-example.webp?v=20260808-1'
    ```
 
    若裸首页仍短暂返回旧 JS，可等待 CDN 刷新；必要时临时把新 JS 内容覆盖到旧的 `assets/index-*.js` 文件名。

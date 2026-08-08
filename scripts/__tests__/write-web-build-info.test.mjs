@@ -13,7 +13,7 @@ test("write-web-build-info writes BUILD_INFO module with branch and commit", () 
     stdio: ["ignore", "pipe", "pipe"],
   });
 
-  const content = readFileSync(path.join(repoRoot, "src/buildInfo.mjs"), "utf8");
+  const content = readFileSync(path.join(repoRoot, "src/buildInfo.generated.mjs"), "utf8");
 
   assert.match(content, /export const BUILD_INFO = \{/);
   assert.match(content, /"branch":\s*".+"/);

@@ -17,7 +17,12 @@ const defaultMinSourceBytes = 250 * 1024;
 
 function normalizePublicPath(value) {
   const pathname = String(value || "").split("?")[0];
-  return pathname.startsWith("/") ? pathname : `/${pathname}`;
+  try {
+    const decoded = decodeURIComponent(pathname);
+    return decoded.startsWith("/") ? decoded : `/${decoded}`;
+  } catch {
+    return pathname.startsWith("/") ? pathname : `/${pathname}`;
+  }
 }
 
 function getTopLevelDirectory(publicPath) {
@@ -26,6 +31,7 @@ function getTopLevelDirectory(publicPath) {
 
 function parseArgs(argv) {
   const options = {
+    coversOnly: false,
     includeAll: false,
     limit: Number.POSITIVE_INFINITY,
     minSourceBytes: Number(process.env.THUMB_MIN_SOURCE_BYTES || defaultMinSourceBytes),
@@ -38,6 +44,8 @@ function parseArgs(argv) {
   for (const arg of argv) {
     if (arg === "--all") {
       options.includeAll = true;
+    } else if (arg === "--covers-only") {
+      options.coversOnly = true;
     } else if (arg === "--write") {
       options.write = true;
     } else if (arg.startsWith("--limit=")) {
@@ -80,6 +88,7 @@ Usage:
 Options:
   --write                 Generate files. Without it, only prints a dry-run plan.
   --all                   Include unreferenced and small source images.
+  --covers-only           Generate thumbnails only for catalog cover images.
   --source-dir=<dir>      Restrict to one public image directory.
   --sizes=480,960         Thumbnail widths. Default: 480,960.
   --min-source-bytes=<n>  Skip non-cover sources smaller than this. Default: 256000.
@@ -102,6 +111,7 @@ export function planThumbnailJobs({
   existingThumbPaths = new Set(),
   imageFiles,
   includeAll = false,
+  coversOnly = false,
   minSourceBytes = defaultMinSourceBytes,
   publicRoot: root = publicRoot,
   referencedPaths,
@@ -109,6 +119,10 @@ export function planThumbnailJobs({
   sourceDir = "",
 }) {
   const jobs = [];
+  const normalizedCoverPaths = new Set([...coverPaths].map(normalizePublicPath));
+  const normalizedReferencedPaths = referencedPaths
+    ? new Set([...referencedPaths].map(normalizePublicPath))
+    : referencedPaths;
 
   const prioritizedImageFiles = [...(imageFiles || [])].sort((a, b) => (
     b.size - a.size || normalizePublicPath(a.publicPath).localeCompare(normalizePublicPath(b.publicPath))
@@ -125,8 +139,12 @@ export function planThumbnailJobs({
       continue;
     }
 
-    const isReferenced = referencedPaths?.has(sourcePublicPath);
-    const isCover = coverPaths.has(sourcePublicPath);
+    const isReferenced = normalizedReferencedPaths?.has(sourcePublicPath);
+    const isCover = normalizedCoverPaths.has(sourcePublicPath);
+
+    if (coversOnly && !isCover) {
+      continue;
+    }
 
     if (!includeAll && !isReferenced) {
       continue;
@@ -245,6 +263,7 @@ async function run() {
   const existingThumbPaths = new Set(thumbFiles.map((file) => file.publicPath));
   const jobs = planThumbnailJobs({
     coverPaths,
+    coversOnly: options.coversOnly,
     existingThumbPaths,
     imageFiles,
     includeAll: options.includeAll,

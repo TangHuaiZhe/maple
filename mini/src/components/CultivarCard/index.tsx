@@ -1,5 +1,5 @@
 import { Image, View, Text, Navigator } from '@tarojs/components'
-import type { CatalogItem, Locale } from '../../types/catalog'
+import type { CatalogItem, Locale, ThumbnailManifest } from '../../types/catalog'
 import { getCardCover } from '../../utils/image'
 import { getPrimaryName, getSecondaryName } from '../../utils/locale'
 import './index.scss'
@@ -10,10 +10,11 @@ interface Props {
   noImageLabel: string
   isFavorite: boolean
   onToggleFavorite: (id: string) => void
+  thumbnailManifest?: ThumbnailManifest
 }
 
-export function CultivarCard({ item, locale, noImageLabel, isFavorite, onToggleFavorite }: Props) {
-  const cover = getCardCover(item)
+export function CultivarCard({ item, locale, noImageLabel, isFavorite, onToggleFavorite, thumbnailManifest = {} }: Props) {
+  const cover = getCardCover(item, thumbnailManifest)
   const primary = getPrimaryName(locale, item.display_name, item.chinese_name)
   const secondary = getSecondaryName(locale, item.display_name, item.chinese_name)
 

@@ -1,5 +1,6 @@
 const APP_BASE_URL = import.meta.env?.BASE_URL || "/";
-export const DEPLOY_CACHE_BUST = "20260502-1";
+const ASSET_BASE_URL = import.meta.env?.VITE_ASSET_BASE_URL || APP_BASE_URL;
+export const DEPLOY_CACHE_BUST = "20260808-1";
 const FAVORITES_STORAGE_KEY = "maple-favorites";
 
 export function hasContent(value) {
@@ -104,6 +105,13 @@ export function resolveAppUrl(value, { baseUrl = APP_BASE_URL, cacheBust = DEPLO
   return shouldAppendCacheBust(normalized) ? appendCacheBust(resolved, cacheBust) : resolved;
 }
 
+export function resolveAssetUrl(value, options = {}) {
+  return resolveAppUrl(value, {
+    ...options,
+    baseUrl: options.baseUrl || ASSET_BASE_URL,
+  });
+}
+
 export function getAssetPathname(value, { baseUrl = APP_BASE_URL } = {}) {
   const rawValue = String(value || "");
   if (!rawValue) {
@@ -114,6 +122,10 @@ export function getAssetPathname(value, { baseUrl = APP_BASE_URL } = {}) {
 
   try {
     pathname = new URL(rawValue, "https://example.invalid").pathname;
+  } catch {}
+
+  try {
+    pathname = decodeURIComponent(pathname);
   } catch {}
 
   const basePath = new URL(baseUrl, "https://example.invalid").pathname;
@@ -132,7 +144,7 @@ export function resolveThumbnailUrl(imageUrl, thumbnailManifest = {}, width = 48
     return imageUrl;
   }
 
-  return resolveAppUrl(thumbnailPath, options);
+  return resolveAssetUrl(thumbnailPath, options);
 }
 
 export function setRecordPrimaryCover(record, imageUrl, options = {}) {
@@ -244,18 +256,18 @@ export function resolveRecordAssetPaths(record, options) {
       const value = record.images[key];
 
       if (Array.isArray(value)) {
-        result[key] = value.map((item) => resolveAppUrl(item, options));
+        result[key] = value.map((item) => resolveAssetUrl(item, options));
         return result;
       }
 
-      result[key] = resolveAppUrl(value, options);
+      result[key] = resolveAssetUrl(value, options);
       return result;
     }, { ...record.images })
     : record.images;
 
   return {
     ...record,
-    cover_path: resolveAppUrl(record.cover_path, options),
+    cover_path: resolveAssetUrl(record.cover_path, options),
     images: nextImages,
   };
 }

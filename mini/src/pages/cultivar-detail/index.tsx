@@ -1,5 +1,6 @@
 import { Image, View, Text } from '@tarojs/components'
 import Taro, { useShareAppMessage } from '@tarojs/taro'
+import { useEffect } from 'react'
 import { useCultivarDetail } from '../../hooks/useCultivarDetail'
 import { useFavorites } from '../../hooks/useFavorites'
 import { useLocale } from '../../hooks/useLocale'
@@ -14,7 +15,7 @@ import { buildBasicInfoRows, buildRhsInfoRows } from '../../utils/fields'
 import './index.scss'
 
 export default function CultivarDetailPage() {
-  const pages = getCurrentPages()
+  const pages = Taro.getCurrentPages()
   const currentPage = pages[pages.length - 1]
   const id = currentPage?.options?.id as string | undefined
 
@@ -25,12 +26,19 @@ export default function CultivarDetailPage() {
   const t = UI_STRINGS[locale]
 
   useShareAppMessage(() => {
-    const title = detail ? getPrimaryName(detail, locale) : '日本枫树品种详情'
+    const title = detail ? getPrimaryName(locale, detail.display_name, detail.chinese_name) : '日本枫树品种详情'
     return {
       title,
       path: `/pages/cultivar-detail/index?id=${id}`
     }
   })
+
+  useEffect(() => {
+    if (!detail) return
+    Taro.setNavigationBarTitle({
+      title: getPrimaryName(locale, detail.display_name, detail.chinese_name)
+    })
+  }, [detail, locale])
 
   if (loading) {
     return <View className='page-shell'><Text className='status-text'>{t.common.loading}</Text></View>
@@ -49,8 +57,6 @@ export default function CultivarDetailPage() {
   const rhsRows = buildRhsInfoRows(localized, t.detail)
   const summary = buildSummary(localized.preferred_description)
   const full = localized.descriptions?.preferred || localized.rhs?.description || ''
-
-  Taro.setNavigationBarTitle({ title: primary })
 
   return (
     <View className='page-shell'>

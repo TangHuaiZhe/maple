@@ -1,4 +1,4 @@
-import type { CatalogItem, MetaData } from '../types/catalog'
+import type { CatalogItem, MetaData, ThumbnailManifest } from '../types/catalog'
 import { peekCachedJson, requestJsonCached } from './api'
 
 export function fetchCatalog() {
@@ -13,6 +13,10 @@ export function fetchAwards() {
   return requestJsonCached<CatalogItem[]>('/data/awards.json')
 }
 
+export function fetchThumbnailManifest() {
+  return requestJsonCached<ThumbnailManifest>('/data/image-thumbs.json').catch(() => ({}))
+}
+
 export function getCachedCatalog() {
   return peekCachedJson<CatalogItem[]>('/data/catalog.json')
 }
@@ -23,4 +27,8 @@ export function getCachedMeta() {
 
 export function getCachedAwards() {
   return peekCachedJson<CatalogItem[]>('/data/awards.json')
+}
+
+export function getCachedThumbnailManifest() {
+  return peekCachedJson<ThumbnailManifest>('/data/image-thumbs.json')
 }
