@@ -20,15 +20,21 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-groundcover-dwarf-japanese-maple/01-Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055699.webp",
+      "/mrmaple-images/buy-acer-palmatum-groundcover-dwarf-japanese-maple/02-Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055704.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-groundcover-dwarf-japanese-maple/02-Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055704.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-groundcover-dwarf-japanese-maple/02-Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055704.webp",
+      "/mrmaple-images/buy-acer-palmatum-groundcover-dwarf-japanese-maple/01-Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055699.webp"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -90,7 +96,60 @@
   "descriptions_zh": {
     "preferred": "这是一种很实用的小叶矮生品种，叶片深裂，具 5 枚狭长且具大齿的裂片。 叶长 3-4 厘米，宽 4-5 厘米。 裂片为狭卵形，先端长尖，最宽处约 5-7 毫米，分裂深达距叶基仅 3-4 毫米处。 叶缘具较大而粗的锯齿。 细线状的短叶柄长 1-1. 5 厘米。 叶色中绿，叶尖及外缘带粉色至红铜色晕染。 这个品种名称十分贴切，植株生长极为致密，多细枝，紧贴地面展开。 成熟时高约 0. 6 米，幅宽 1-1. 2 米。"
   },
-  "has_mrmaple": false,
+  "has_mrmaple": true,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-groundcover-dwarf-japanese-maple/01-Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055699.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-groundcover-dwarf-japanese-maple/02-Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055704.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-groundcover-dwarf-japanese-maple/01-Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055699.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Groundcover' Dwarf Japanese Maple",
+        "handle": "buy-acer-palmatum-groundcover-dwarf-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-groundcover-dwarf-japanese-maple",
+        "description_text": "Acer palmatum 'Groundcover' Rare Weeping Japanese Maple Zones 5-9 'Groundcover' is a slow growing dwarf Japanese maple that has deeply cut, claw-like leaves that are pink when they emerge, turning to green. The habit of 'Groundcover' is weeping, crawling across the ground. In 15 years, 'Groundcover' may reach 1-2 ft in height by 3-4 ft in width. Branches on 'Groundcover' become less flexible with age, so plant it far enough out of the walkway that you won't be brushing against an older speciemen. Extremely limited in quantity, so don't wait to purchase this one.",
+        "image_count": 2,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 2,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-groundcover-dwarf-japanese-maple/01-Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055699.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-groundcover-dwarf-japanese-maple/02-Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055704.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055699.jpg?v=1722564221",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-groundcover-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-groundcover-dwarf-japanese-maple/01-Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055699.webp",
+              "content_type": "image/webp",
+              "bytes": 241438,
+              "downloaded_at": "2026-08-08T01:53:09.400Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055704.jpg?v=1722564229",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-groundcover-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-groundcover-dwarf-japanese-maple/02-Acer_palmatum_Groundcover_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2055704.webp",
+              "content_type": "image/webp",
+              "bytes": 307874,
+              "downloaded_at": "2026-08-08T01:53:10.599Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

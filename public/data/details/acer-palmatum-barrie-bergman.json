@@ -20,15 +20,23 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/01-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044069.jpg",
+      "/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/02-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044076.webp",
+      "/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/03-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044081.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/03-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044081.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/03-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044081.webp",
+      "/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/01-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044069.jpg",
+      "/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/02-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044076.webp"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -115,5 +123,73 @@
   "descriptions_zh": {
     "preferred": "‘Barrier Bergman’ 生长缓慢且株形紧凑，叶片细裂。 鲜亮的粉红红色新叶与较老的紫红色至青铜红色叶片形成迷人对比。 在半阴环境下栽培时，植株常会显现青铜绿色调。 秋色为橙红色。 该品种最终形成致密的圆丘状株形，且耐寒性出乎意料地好。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/01-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044069.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/02-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044076.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/03-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044081.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/01-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044069.jpg",
+    "products": [
+      {
+        "title": "Acer palmatum 'Barrie Bergman' Weeping Japanese Maple",
+        "handle": "buy-acer-palmatum-barrie-bergman-weeping-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple",
+        "description_text": "Acer palmatum dissectum 'Barrie Bergman' Exceptional Weeping Red Japanese Maple Zones 5-9 'Barrie Bergman’ is a nice weeping selection from the famous Raraflora Nursery. In the spring, ‘Barrie Bergman’ leafs out as a cherry-red to a bright purple-red. In the shade it loses this color quicker, turning to a green-red for the summer. Fall color on ‘Barrie Bergman’ is a bright orange to bright red. ‘Barrie Bergman’ has nice weeping and cascading shape reaching 4-5 ft in height by 5-6 ft in width in 10 years.",
+        "image_count": 3,
+        "match_method": "search_html",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 3,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/01-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044069.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/02-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044076.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/03-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044081.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044069.jpg?v=1722547824",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/01-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044069.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 725789,
+              "downloaded_at": "2026-08-08T01:40:27.046Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044076.jpg?v=1722547829",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/02-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044076.webp",
+              "content_type": "image/webp",
+              "bytes": 209978,
+              "downloaded_at": "2026-08-08T01:40:27.479Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044081.jpg?v=1722547835",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-barrie-bergman-weeping-japanese-maple/03-Acer_palmatum_Barrie_Bergman_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2044081.webp",
+              "content_type": "image/webp",
+              "bytes": 586620,
+              "downloaded_at": "2026-08-08T01:40:27.825Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

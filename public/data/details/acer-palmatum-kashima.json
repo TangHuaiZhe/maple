@@ -20,15 +20,39 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/01-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059769.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/02-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059772.webp",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/03-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059773.webp",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/04-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059776.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/05-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059784.webp",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/06-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059787.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/07-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059789.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/08-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059792.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/09-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059795.webp",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/10-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059798.webp",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/11-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059801.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/11-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059801.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/11-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059801.webp",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/01-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059769.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/02-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059772.webp",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/03-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059773.webp",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/04-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059776.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/05-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059784.webp",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/06-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059787.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/07-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059789.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/08-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059792.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/09-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059795.webp",
+      "/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/10-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059798.webp"
+    ],
+    "public_count": 11
   },
   "sources": [
     {
@@ -144,6 +168,185 @@
   "descriptions_zh": {
     "preferred": "这一极矮生类型广泛用于盆景。 其叶片极小、浓绿色，通常为 5 裂，长度约 1-2 厘米。 新叶展开时呈很浅的黄绿色，叶缘带砖红色或锈色，因此新梢格外显眼。 秋色多为黄色调。 与所有 Dwarf Group 中的枫树一样，该品种生长成灌木状。 成熟株大小受土壤肥力和栽培方式影响较大，但可达约 2 米高，冠幅亦相近。 地栽时可促进其生长，而在容器栽培或盆景状态下则可控制其生长。 我曾见过一株约 20 年生的植株，高度超过 1 米；但同一品种在容器中栽培 10 年，仅长到约 40 厘米高和宽。 'Kashima' 非常适合岩石园栽培，也和其他矮生品种一样，十分适合整形和修剪。 其耐寒、健壮，在希望控制生长量时，也能耐受一定程度的干旱。"
   },
-  "has_mrmaple": false,
-  "mrmaple": null
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 2,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/01-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059769.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/02-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059772.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/03-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059773.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/04-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059776.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/05-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059784.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/06-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059787.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/07-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059789.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/08-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059792.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/09-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059795.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/10-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059798.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/11-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059801.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/01-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059769.jpg",
+    "products": [
+      {
+        "title": "Acer palmatum 'Kashima' Dwarf Japanese Maple",
+        "handle": "buy-acer-palmatum-kashima-dwarf-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kashima-dwarf-japanese-maple",
+        "description_text": "Acer palmatum 'Kashima' Rare Kashima yatsubusa Dwarf Japanese Maple Zones 5-9 ‘Kashima’ is small, rounded mushroom shape Japanese maple with yellow-green tones to the leaf in the early spring, with a pink toned margin to the new growth. The leaves on ‘Kashima’ mature to a lighter green than many other “hime” types. The branching on ‘Kashima’ is vigorous and grows horizontally with a very dense habit. Fall color on ‘Kashima’ is typically orange to red. ‘Kashima’ is often known as ‘Kashima yatsubusa’, the latter term simply stating the dwarf habit of this tree. ‘Kashima’ May reach 3-4 ft in height by 4-5 ft in width in 10 years. ‘Kashima’ is a great small tree for containers or bonsai.",
+        "image_count": 11,
+        "match_method": "search_html",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 11,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/01-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059769.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/02-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059772.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/03-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059773.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/04-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059776.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/05-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059784.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/06-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059787.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/07-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059789.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/08-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059792.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/09-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059795.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/10-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059798.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/11-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059801.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059769.jpg?v=1722570624",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kashima-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/01-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059769.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 97187,
+              "downloaded_at": "2026-08-08T01:41:43.709Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059772.jpg?v=1722570629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kashima-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/02-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059772.webp",
+              "content_type": "image/webp",
+              "bytes": 168548,
+              "downloaded_at": "2026-08-08T01:41:44.110Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059773.jpg?v=1722570633",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kashima-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/03-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059773.webp",
+              "content_type": "image/webp",
+              "bytes": 94802,
+              "downloaded_at": "2026-08-08T01:41:44.427Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059776.jpg?v=1722570650",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kashima-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/04-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059776.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 197423,
+              "downloaded_at": "2026-08-08T01:41:44.851Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059784.jpg?v=1722570655",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kashima-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/05-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059784.webp",
+              "content_type": "image/webp",
+              "bytes": 50152,
+              "downloaded_at": "2026-08-08T01:41:45.109Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059787.jpg?v=1722570659",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kashima-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/06-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059787.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 222644,
+              "downloaded_at": "2026-08-08T01:41:45.559Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059789.jpg?v=1722570664",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kashima-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/07-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059789.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 256580,
+              "downloaded_at": "2026-08-08T01:41:46.039Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059792.jpg?v=1722570668",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kashima-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/08-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059792.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 246293,
+              "downloaded_at": "2026-08-08T01:41:46.483Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059795.jpg?v=1722570672",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kashima-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/09-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059795.webp",
+              "content_type": "image/webp",
+              "bytes": 278902,
+              "downloaded_at": "2026-08-08T01:41:46.945Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059798.jpg?v=1722570679",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kashima-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/10-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059798.webp",
+              "content_type": "image/webp",
+              "bytes": 183526,
+              "downloaded_at": "2026-08-08T01:41:47.312Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059801.jpg?v=1722570685",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kashima-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kashima-dwarf-japanese-maple/11-Acer_palmatum_Kashima_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059801.webp",
+              "content_type": "image/webp",
+              "bytes": 268834,
+              "downloaded_at": "2026-08-08T01:41:47.748Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

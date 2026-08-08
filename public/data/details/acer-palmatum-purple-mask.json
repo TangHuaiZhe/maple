@@ -20,15 +20,35 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/01-PurpleMask_-04222025-01.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/02-PurpleMask_-04222025-02.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/03-PurpleMask_-04222025-03.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/04-PurpleMask_-04222025-04.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/05-PurpleMask_-04222025-05.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/06-PurpleMask_-04222025-06.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/07-PurpleMask_-04222025-07.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/08-PurpleMask_-04222025-08.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/09-PurpleMask_-04222025-09.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/08-PurpleMask_-04222025-08.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/08-PurpleMask_-04222025-08.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/01-PurpleMask_-04222025-01.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/02-PurpleMask_-04222025-02.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/03-PurpleMask_-04222025-03.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/04-PurpleMask_-04222025-04.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/05-PurpleMask_-04222025-05.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/06-PurpleMask_-04222025-06.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/07-PurpleMask_-04222025-07.webp",
+      "/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/09-PurpleMask_-04222025-09.webp"
+    ],
+    "public_count": 9
   },
   "sources": [
     {
@@ -56,5 +76,157 @@
   "descriptions_zh": {
     "preferred": "该品种的叶片近乎带状，通常为七裂，介于 Matsumurae Group 与 Linearilobum Group 之间，归入任一组均可。 它来源于同一株 Acer palmatum f. atropurpureum 上的芽变，该植株同时还产生了 'Beni shi en'。 此品种由美国阿拉巴马州 Tallassee 的 Johnnie's Pleasure Plants Nursery 的 Harold Johnston 发现。 叶片较小，七裂深，长 4-6 厘米、宽 4-5 厘米。 各裂片呈披针形至长卵形，最宽处位于裂片中部或外侧三分之一处，宽 3-10 毫米，多数约 5 毫米，向基部渐狭至约 1 毫米；秋季转为黄橙色。 与"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/01-PurpleMask_-04222025-01.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/02-PurpleMask_-04222025-02.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/03-PurpleMask_-04222025-03.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/04-PurpleMask_-04222025-04.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/05-PurpleMask_-04222025-05.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/06-PurpleMask_-04222025-06.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/07-PurpleMask_-04222025-07.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/08-PurpleMask_-04222025-08.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/09-PurpleMask_-04222025-09.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/01-PurpleMask_-04222025-01.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Purple mask' Japanese Maple",
+        "handle": "buy-acer-palmatum-purple-mask-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-purple-mask-japanese-maple",
+        "description_text": "Acer palmatum 'Purple Mask' Heat Tolerant Japanese Maple Zones 5-9 Acer palmatum 'Purple Mask' is a striking Japanese maple known for its brick red foliage throughout the growing season, 'Purple Mask' is an upright, vigorous cultivar reaching 8–10 ft tall in 10 years. This heat-tolerant selection shines in warm climates, maintaining its rich coloration even in full sun. Come autumn, the foliage transforms into a vibrant yellow to orange, making it one of the best Japanese maples for fall color. Selected by Harold Johnston of Alabama, 'Purple Mask' has proven reliable in southern gardens. It also holds botanical interest as the parent of",
+        "image_count": 9,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 9,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/01-PurpleMask_-04222025-01.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/02-PurpleMask_-04222025-02.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/03-PurpleMask_-04222025-03.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/04-PurpleMask_-04222025-04.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/05-PurpleMask_-04222025-05.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/06-PurpleMask_-04222025-06.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/07-PurpleMask_-04222025-07.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/08-PurpleMask_-04222025-08.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/09-PurpleMask_-04222025-09.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/PurpleMask_-04222025-01.jpg?v=1756343704",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-purple-mask-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/01-PurpleMask_-04222025-01.webp",
+              "content_type": "image/webp",
+              "bytes": 106246,
+              "downloaded_at": "2026-08-08T01:55:18.472Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/PurpleMask_-04222025-02.jpg?v=1756343704",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-purple-mask-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/02-PurpleMask_-04222025-02.webp",
+              "content_type": "image/webp",
+              "bytes": 121770,
+              "downloaded_at": "2026-08-08T01:55:19.366Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/PurpleMask_-04222025-03.jpg?v=1756343705",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-purple-mask-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/03-PurpleMask_-04222025-03.webp",
+              "content_type": "image/webp",
+              "bytes": 133736,
+              "downloaded_at": "2026-08-08T01:55:20.530Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/PurpleMask_-04222025-04.jpg?v=1756343705",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-purple-mask-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/04-PurpleMask_-04222025-04.webp",
+              "content_type": "image/webp",
+              "bytes": 127170,
+              "downloaded_at": "2026-08-08T01:55:21.511Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/PurpleMask_-04222025-05.jpg?v=1756343705",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-purple-mask-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/05-PurpleMask_-04222025-05.webp",
+              "content_type": "image/webp",
+              "bytes": 111510,
+              "downloaded_at": "2026-08-08T01:55:22.411Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/PurpleMask_-04222025-06.jpg?v=1756343705",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-purple-mask-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/06-PurpleMask_-04222025-06.webp",
+              "content_type": "image/webp",
+              "bytes": 120506,
+              "downloaded_at": "2026-08-08T01:55:23.422Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/PurpleMask_-04222025-07.jpg?v=1756343705",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-purple-mask-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/07-PurpleMask_-04222025-07.webp",
+              "content_type": "image/webp",
+              "bytes": 121714,
+              "downloaded_at": "2026-08-08T01:55:24.522Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/PurpleMask_-04222025-08.jpg?v=1756343705",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-purple-mask-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/08-PurpleMask_-04222025-08.webp",
+              "content_type": "image/webp",
+              "bytes": 137762,
+              "downloaded_at": "2026-08-08T01:55:25.845Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/PurpleMask_-04222025-09.jpg?v=1756343705",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-purple-mask-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-purple-mask-japanese-maple/09-PurpleMask_-04222025-09.webp",
+              "content_type": "image/webp",
+              "bytes": 132892,
+              "downloaded_at": "2026-08-08T01:55:27.096Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

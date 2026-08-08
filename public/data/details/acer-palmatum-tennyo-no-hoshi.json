@@ -20,15 +20,21 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple/01-Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070057.webp",
+      "/mrmaple-images/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple/02-Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070058.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple/01-Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070057.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple/01-Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070057.webp",
+      "/mrmaple-images/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple/02-Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070058.webp"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -119,5 +125,59 @@
   "descriptions_zh": {
     "preferred": "这种中型灌木株形直立、枝条细密，最终可长至约 4-5 米高。 其最主要的观赏点是不同寻常、带轻度斑锦的叶色。 叶片较小，长 5 厘米，宽 3-4 厘米。 裂片极狭，中部最宽，自叶基向上约四分之三处分裂。 叶缘呈波状，外半部具极细锯齿。 底色为浓绿色，斑锦为乳白色或浅乳绿色。 斑纹几乎全部局限于每个裂片周缘的一圈细窄镶边，浅色部分可延伸至裂片面积的四分之一。 偶尔会出现更明显的色块变化，在园林景观中颇具特色。 树龄增长后，植株外层枝叶会变得更为浓密，内部则会自行疏枝。 整体质感显得纤细柔和，与质地较厚重的背景叶丛搭配良好。 全日照下生长良好，此时斑锦会带有粉色调。 'Tennyo-no-hoshi' 由 Maplewood Nursery 选育并注册。 后来从日本引入的品种"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple/01-Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070057.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple/02-Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070058.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple/01-Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070057.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Tennyo-no-hoshi' Japanese Maple",
+        "handle": "buy-acer-palmatum-tennyo-no-hoshi-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple",
+        "description_text": "Acer palmatum 'Tennyo-no-hoshi' Variegated - Angel from the Stars -Japanese Maple Zones 5-9 'Tennyo-no-hoshi' is neat variegated Japanese maple selection by JD Vertrees himself. When grown in full sun, 'Tennyo-no-hoshi' have have bright pink-red margins in the spring. In shadier locations, the variegation may be more creamy. As the leaves mature, the variegation does turn more creamy yellow on the green foliage. 'Tennyo-no-hoshi' translates as \"Angel from the Stars\". 'Tennyo-no-hoshi' may reach 12-15 ft in 15 years.",
+        "image_count": 2,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 2,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple/01-Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070057.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple/02-Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070058.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070057.jpg?v=1722603678",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple/01-Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070057.webp",
+              "content_type": "image/webp",
+              "bytes": 141402,
+              "downloaded_at": "2026-08-08T01:57:16.233Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070058.jpg?v=1722603685",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tennyo-no-hoshi-japanese-maple/02-Acer_palmatum_Tennyo-no-hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070058.webp",
+              "content_type": "image/webp",
+              "bytes": 101606,
+              "downloaded_at": "2026-08-08T01:57:17.024Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

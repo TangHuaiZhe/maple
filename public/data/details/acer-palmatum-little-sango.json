@@ -16,15 +16,41 @@
   "images": {
     "count": 10,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/01-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062807.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/02-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062811.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/03-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062813.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/04-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062816.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/05-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062818.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/06-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062823.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/07-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062827.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/08-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062844.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/09-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062852.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/10-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062870.jpg",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/11-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062873.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/12-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062876.jpg"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/05-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062818.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/05-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062818.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/01-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062807.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/02-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062811.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/03-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062813.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/04-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062816.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/06-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062823.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/07-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062827.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/08-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062844.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/09-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062852.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/10-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062870.jpg",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/11-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062873.webp",
+      "/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/12-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062876.jpg"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -61,5 +87,199 @@
   "descriptions_zh": {
     "preferred": "小珊瑚是一款优秀的观枝品种，和 \"珊瑚阁（Sango Kaku）\"表现相似，是矮生紧凑型的珊瑚皮日本枫树。 春天新芽带有粉色，成熟叶是黄绿色的，夏季变成绿色，秋天叶色是亮黄色到橙色的。 落叶后会露出漂亮的珊瑚红的枝干，在冬季增添一抹靓丽的色彩，尤其和雪景搭配呈现出别样的景色。 小珊瑚抗性很好，比较耐晒，成年树高可达2米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/01-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062807.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/02-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062811.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/03-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062813.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/04-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062816.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/05-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062818.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/06-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062823.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/07-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062827.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/08-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062844.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/09-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062852.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/10-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062870.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/11-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062873.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/12-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062876.jpg"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/01-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062807.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Little Sango' Dwarf Coral Bark Japanese Maple",
+        "handle": "buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+        "description_text": "Acer palmatum 'Little Sango' Dwarf Coral Bark Japanese Maple Zones 6-9 'Little Sango' is an excellent dwarf coral bark Japanese maple. 'Little Sango' leafs out as a bright chartreuse green turning bright yellow to orange in the fall. 'Little Sango' provides great winter interest as the bark increases intensity of bright red in the fall. This Little Sango coral bark Japanese maple is a dwarf compact",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/01-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062807.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/02-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062811.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/03-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062813.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/04-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062816.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/05-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062818.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/06-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062823.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/07-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062827.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/08-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062844.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/09-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062852.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/10-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062870.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/11-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062873.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/12-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062876.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062807.jpg?v=1722576799",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/01-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062807.webp",
+              "content_type": "image/webp",
+              "bytes": 198674,
+              "downloaded_at": "2026-08-08T01:53:45.782Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062811.jpg?v=1722576805",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/02-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062811.webp",
+              "content_type": "image/webp",
+              "bytes": 80276,
+              "downloaded_at": "2026-08-08T01:53:46.360Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062813.jpg?v=1722576810",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/03-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062813.webp",
+              "content_type": "image/webp",
+              "bytes": 50886,
+              "downloaded_at": "2026-08-08T01:53:46.880Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062816.jpg?v=1722576815",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/04-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062816.webp",
+              "content_type": "image/webp",
+              "bytes": 78316,
+              "downloaded_at": "2026-08-08T01:53:47.437Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062818.jpg?v=1722576828",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/05-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062818.webp",
+              "content_type": "image/webp",
+              "bytes": 301180,
+              "downloaded_at": "2026-08-08T01:53:48.631Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062823.jpg?v=1722576837",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/06-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062823.webp",
+              "content_type": "image/webp",
+              "bytes": 165436,
+              "downloaded_at": "2026-08-08T01:53:49.624Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062827.jpg?v=1722576862",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/07-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062827.webp",
+              "content_type": "image/webp",
+              "bytes": 239768,
+              "downloaded_at": "2026-08-08T01:53:50.754Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062844.jpg?v=1722576872",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/08-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062844.webp",
+              "content_type": "image/webp",
+              "bytes": 218630,
+              "downloaded_at": "2026-08-08T01:53:51.764Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062852.jpg?v=1722576913",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/09-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062852.webp",
+              "content_type": "image/webp",
+              "bytes": 217248,
+              "downloaded_at": "2026-08-08T01:53:52.759Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062870.jpg?v=1722576920",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/10-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062870.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 154017,
+              "downloaded_at": "2026-08-08T01:53:53.423Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062873.jpg?v=1722576926",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/11-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062873.webp",
+              "content_type": "image/webp",
+              "bytes": 63986,
+              "downloaded_at": "2026-08-08T01:53:54.101Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062876.jpg?v=1722576931",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-little-sango-dwarf-coral-bark-japanese-maple/12-Acer_palmatum_Little_Sango_Dwarf_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2062876.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 194896,
+              "downloaded_at": "2026-08-08T01:53:54.559Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

@@ -16,15 +16,39 @@
   "images": {
     "count": 7,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/01-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069114.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/02-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069116.jpg",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/03-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069118.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/04-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069120.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/05-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069122.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/06-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069123.jpg",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/07-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069124.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/08-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069125.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/09-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069126.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/10-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069127.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/11-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069128.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/04-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069120.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/04-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069120.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/01-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069114.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/02-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069116.jpg",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/03-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069118.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/05-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069122.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/06-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069123.jpg",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/07-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069124.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/08-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069125.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/09-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069126.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/10-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069127.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/11-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069128.webp"
+    ],
+    "public_count": 11
   },
   "sources": [
     {
@@ -122,5 +146,185 @@
   "descriptions_zh": {
     "preferred": "鴫之星是由 日本的 田中丰于1993 年发现 并育种推广的，是非常经典的脉叶品种。 春叶是绿白色的，带有明显的绿色脉网，叶边缘 呈锯齿状 。 夏季是绿色的，秋天是明亮的金黄色。 长势较缓慢， 枝条茂密， 比较耐寒。 夏季需要及时遮阴，避免出现日灼现象。 成年树高约为 1. 5 米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/01-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069114.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/02-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069116.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/03-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069118.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/04-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069120.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/05-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069122.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/06-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069123.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/07-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069124.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/08-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069125.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/09-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069126.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/10-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069127.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/11-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069128.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/01-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069114.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Shigi no hoshi' Japanese Maple",
+        "handle": "buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+        "description_text": "Acer palmatum 'Shigi no hoshi' Rare Japanese Maple Tree Zones 5-9 'Shigi no hoshi' leafs out in the spring with white reticulated variegation and dark green veins. The leaves are 'Shigi no hoshi' are fairly serrated on the edges, especially on mature growth. In autumn, 'Shigi no hoshi' turns to a bright yellow. This gives 'Shigi no hoshi' quite a different look than other reticulated types. 'Shigi no hoshi' is perhaps one of the smallest selections of reticulated variegated uprights. After 10 years, 'Shigi no hoshi' may reach 4-5 ft in height and width. It was found and introduced by Yutaka Tanaka at Tsukasa Maple in Japan.",
+        "image_count": 11,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 11,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/01-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069114.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/02-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069116.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/03-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069118.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/04-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069120.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/05-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069122.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/06-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069123.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/07-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069124.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/08-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069125.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/09-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069126.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/10-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069127.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/11-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069128.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069114.jpg?v=1722598206",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/01-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069114.webp",
+              "content_type": "image/webp",
+              "bytes": 130602,
+              "downloaded_at": "2026-08-08T01:48:35.150Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069116.jpg?v=1722598212",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/02-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069116.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 161918,
+              "downloaded_at": "2026-08-08T01:48:35.924Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069118.jpg?v=1722598219",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/03-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069118.webp",
+              "content_type": "image/webp",
+              "bytes": 121996,
+              "downloaded_at": "2026-08-08T01:48:36.854Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069120.jpg?v=1722598225",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/04-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069120.webp",
+              "content_type": "image/webp",
+              "bytes": 348798,
+              "downloaded_at": "2026-08-08T01:48:38.425Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069122.jpg?v=1722598233",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/05-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069122.webp",
+              "content_type": "image/webp",
+              "bytes": 172764,
+              "downloaded_at": "2026-08-08T01:48:39.453Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069123.jpg?v=1722598244",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/06-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069123.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 206011,
+              "downloaded_at": "2026-08-08T01:48:40.248Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069124.jpg?v=1722598251",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/07-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069124.webp",
+              "content_type": "image/webp",
+              "bytes": 362412,
+              "downloaded_at": "2026-08-08T01:48:41.851Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069125.jpg?v=1722598256",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/08-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069125.webp",
+              "content_type": "image/webp",
+              "bytes": 85932,
+              "downloaded_at": "2026-08-08T01:48:42.487Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069126.jpg?v=1722598261",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/09-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069126.webp",
+              "content_type": "image/webp",
+              "bytes": 80674,
+              "downloaded_at": "2026-08-08T01:48:43.073Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069127.jpg?v=1722598266",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/10-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069127.webp",
+              "content_type": "image/webp",
+              "bytes": 79936,
+              "downloaded_at": "2026-08-08T01:48:43.657Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069128.jpg?v=1722598272",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigi-no-hoshi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigi-no-hoshi-japanese-maple/11-Acer_palmatum_Shigi_no_hoshi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069128.webp",
+              "content_type": "image/webp",
+              "bytes": 76372,
+              "downloaded_at": "2026-08-08T01:48:44.219Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

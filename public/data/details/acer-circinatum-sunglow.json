@@ -16,15 +16,41 @@
   "images": {
     "count": 6,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/01-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035313.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/02-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035318.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/03-Sunglow_-05152025-1.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/04-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035323.jpg",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/05-Sunglow_-05152025-2.jpg",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/06-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035329.jpg",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/07-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035335.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/08-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035339.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/09-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035343.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/10-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035348.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/11-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035354.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/12-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035358.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/05-Sunglow_-05152025-2.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/05-Sunglow_-05152025-2.jpg",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/01-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035313.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/02-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035318.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/03-Sunglow_-05152025-1.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/04-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035323.jpg",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/06-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035329.jpg",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/07-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035335.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/08-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035339.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/09-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035343.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/10-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035348.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/11-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035354.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/12-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035358.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -149,5 +175,199 @@
       "propagation": "可于冬末采用嫁接繁殖，或以软枝扦插繁殖。"
     }
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/01-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035313.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/02-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035318.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/03-Sunglow_-05152025-1.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/04-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035323.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/05-Sunglow_-05152025-2.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/06-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035329.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/07-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035335.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/08-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035339.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/09-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035343.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/10-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035348.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/11-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035354.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/12-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035358.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/01-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035313.webp",
+    "products": [
+      {
+        "title": "Acer circinatum 'Sunglow' Japanese Maple",
+        "handle": "buy-acer-circinatum-sunglow-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+        "description_text": "Acer circinatum 'Sunglow' Rare Vine Maple Japanese Maple Zones 6-9 Morning Sun to Afternoon Shade Acer circinatum 'Sunglow' is quite a unique hybrid vine maple. The smaller leaves appear in the spring with apricot to peach to orange color. These rich colors fade to golden yellow to chartreuse infused with orange throughout the veins of the leaf. This makes this plant especially showy. 'Sunglow' turns to bright red to deep purple red in the fall. 'Sunglow' may reach 6 ft in height and width in 10 years creating a dense ball-like shape. Make sure to give 'Sunglow' morning sun with protection from the hot afternoon sun for best growth and health of the plant. ‘Sunglow’ was introduced by Buchholz Nursery of Oregon.",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/01-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035313.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/02-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035318.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/03-Sunglow_-05152025-1.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/04-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035323.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/05-Sunglow_-05152025-2.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/06-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035329.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/07-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035335.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/08-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035339.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/09-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035343.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/10-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035348.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/11-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035354.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/12-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035358.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035313.jpg?v=1722537551",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/01-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035313.webp",
+              "content_type": "image/webp",
+              "bytes": 71558,
+              "downloaded_at": "2026-08-08T01:56:33.255Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035318.jpg?v=1722537557",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/02-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035318.webp",
+              "content_type": "image/webp",
+              "bytes": 131144,
+              "downloaded_at": "2026-08-08T01:56:34.697Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Sunglow_-05152025-1.jpg?v=1747316282",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/03-Sunglow_-05152025-1.webp",
+              "content_type": "image/webp",
+              "bytes": 219130,
+              "downloaded_at": "2026-08-08T01:56:36.673Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035323.jpg?v=1747316282",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/04-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035323.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 50800,
+              "downloaded_at": "2026-08-08T01:56:37.491Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Sunglow_-05152025-2.jpg?v=1747316282",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/05-Sunglow_-05152025-2.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 968408,
+              "downloaded_at": "2026-08-08T01:56:43.461Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035329.jpg?v=1747316282",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/06-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035329.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 113816,
+              "downloaded_at": "2026-08-08T01:56:44.192Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035335.jpg?v=1747316282",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/07-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035335.webp",
+              "content_type": "image/webp",
+              "bytes": 47364,
+              "downloaded_at": "2026-08-08T01:56:44.694Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035339.jpg?v=1747316282",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/08-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035339.webp",
+              "content_type": "image/webp",
+              "bytes": 26422,
+              "downloaded_at": "2026-08-08T01:56:45.194Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035343.jpg?v=1747316282",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/09-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035343.webp",
+              "content_type": "image/webp",
+              "bytes": 69246,
+              "downloaded_at": "2026-08-08T01:56:45.836Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035348.jpg?v=1747316282",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/10-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035348.webp",
+              "content_type": "image/webp",
+              "bytes": 53320,
+              "downloaded_at": "2026-08-08T01:56:46.475Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035354.jpg?v=1747316282",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/11-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035354.webp",
+              "content_type": "image/webp",
+              "bytes": 78938,
+              "downloaded_at": "2026-08-08T01:56:47.118Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035358.jpg?v=1747316282",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunglow-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunglow-japanese-maple/12-Acer_circinatum_Sunglow_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035358.webp",
+              "content_type": "image/webp",
+              "bytes": 78098,
+              "downloaded_at": "2026-08-08T01:56:47.787Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

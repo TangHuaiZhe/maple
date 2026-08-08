@@ -20,15 +20,41 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/01-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046754.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/02-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046756.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/03-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046759.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/04-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046762.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/05-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046765.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/06-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046768.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/07-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046771.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/08-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046774.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/09-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046776.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/10-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046779.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/11-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046782.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/12-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046784.jpg"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/03-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046759.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/03-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046759.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/01-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046754.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/02-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046756.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/04-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046762.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/05-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046765.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/06-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046768.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/07-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046771.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/08-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046774.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/09-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046776.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/10-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046779.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/11-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046782.jpg",
+      "/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/12-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046784.jpg"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -115,5 +141,199 @@
   "descriptions_zh": {
     "preferred": "这一可靠、强健、长势旺盛的大型树种，叶片大而深红，整个夏季都能较好保持叶色。 最终高度可达 20-26 英尺（6-8 米）。 大型五至七裂叶中等偏深裂，叶缘具大量尖锐细锯齿。 短而粗壮的叶柄也呈红色。 新叶萌发时为鲜亮的粉红红色，夏季转为深李紫红，随后逐渐变为带绿色底色的紫红色。 该树种对全日照耐受性很好。 其名称是为纪念引入该品种的苗圃所在地荷兰某城镇而命名。 ‘Brandt's Dwarf’属于 Dwarf Group，为红叶类型。 它是最著名、也最古老的丛枝变异品种之一，春季叶色鲜亮的李紫红，很快转为良好的深红色，之后在季中缓慢褪为带锈色的绿色；秋季通常转为亮丽的深猩红色。 小型叶片为灰绿色，深裂为五至七个裂片，裂片向外舒展。 每个裂片呈卵形，具长而渐尖的先端，叶缘细锯齿；中央裂片顶部常较短而圆钝。 成熟后形成致密圆头灌木，约高、宽各 3 英尺（1 米）。 ‘Burgundy Lace’属于 Dwarf Matsumurae Group，为红叶类型。 这个醒目的美国丛枝变异品种具有近乎带状的裂片，颜色为酒红色。 中等大小的叶片深裂为七个卵状披针形裂片，每个裂片渐尖成长而锐的先端，边缘具锐齿。 春季和初夏叶色为酒红色，后期转为古铜绿色；全日照下叶片会灼伤。 该品种开展生长，为小型乔木，可达约 20 英尺（6 米）高、宽，形成开张树冠。 其耐寒且美观，与其他直立型品种搭配可形成极佳对比。 ‘Butterfly’属于斑叶组。 这个出色的日本品种叶片小，着生于短叶柄上，叶形变化丰富，几乎没有两片完全相同。 细长裂片几乎裂至叶基。 叶片主要沿边缘呈奶油色或白色斑纹，底色为蓝绿色至浅绿色，常有部分裂片呈镰刀状。 秋季白色区域会转为醒目的洋红色。 该品种形成小型直立乔木，高 16-20 英尺（5-6 米），是斑叶类中最可靠、最具观赏价值的成员之一。 ‘Tiny Tim’/‘Corner’一类为红叶型，起源于新泽西的一株丛枝变异，是颇具吸引力的矮生品种，具极小的掌状叶，类似 ‘Sharp's Pygmy’。 叶片萌发时为鲜亮粉红红色，随后转为浓郁紫红，并能在整个夏季较好保持这种颜色，然后再转入秋色。 Acer palmatum。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/01-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046754.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/02-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046756.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/03-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046759.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/04-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046762.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/05-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046765.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/06-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046768.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/07-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046771.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/08-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046774.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/09-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046776.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/10-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046779.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/11-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046782.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/12-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046784.jpg"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/01-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046754.jpg",
+    "products": [
+      {
+        "title": "Acer palmatum 'Boskoop Glory' Red Japanese Maple Tree",
+        "handle": "buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+        "description_text": "Acer palmatum 'Boskoop Glory' Red Japanese Maple Zones 5-9 Acer palmatum 'Boskoop Glory' is considered by many to be one of the most beautiful upright red Japanese maples. ‘Boskoop Glory’ leafs out in the spring as bright red, turning to a darker maroon. The backside of the leaf does get an orange-like hue which can give ‘Boskoop Glory’ a glowing effect when sunlight hits the leaves. ‘Boskoop Glory’ typically gets some emerald colors to the leaves in late summer. The fall colors are typically brilliant shades of bright fire engine red. ‘Boskoop Glory’ may reach 10-12 ft in height in 10 years. It is believed by many that ‘Boskoop Glory’ did not originate in the Netherlands as the name suggests, but was introduced by Wright’s Nursery of Canby, Oregon, in the mid 1980’s.",
+        "image_count": 12,
+        "match_method": "search_html",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/01-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046754.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/02-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046756.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/03-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046759.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/04-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046762.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/05-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046765.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/06-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046768.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/07-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046771.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/08-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046774.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/09-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046776.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/10-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046779.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/11-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046782.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/12-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046784.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046754.jpg?v=1722551856",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/01-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046754.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 433059,
+              "downloaded_at": "2026-08-08T01:40:48.751Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046756.jpg?v=1722551861",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/02-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046756.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 144975,
+              "downloaded_at": "2026-08-08T01:40:49.188Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046759.jpg?v=1722551866",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/03-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046759.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 594745,
+              "downloaded_at": "2026-08-08T01:40:49.622Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046762.jpg?v=1722551870",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/04-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046762.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 396527,
+              "downloaded_at": "2026-08-08T01:40:50.052Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046765.jpg?v=1722551875",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/05-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046765.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 264540,
+              "downloaded_at": "2026-08-08T01:40:50.316Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046768.jpg?v=1722551880",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/06-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046768.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 200573,
+              "downloaded_at": "2026-08-08T01:40:50.746Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046771.jpg?v=1722551885",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/07-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046771.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 493956,
+              "downloaded_at": "2026-08-08T01:40:51.189Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046774.jpg?v=1722551890",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/08-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046774.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 195564,
+              "downloaded_at": "2026-08-08T01:40:51.487Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046776.jpg?v=1722551893",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/09-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046776.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 183057,
+              "downloaded_at": "2026-08-08T01:40:51.915Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046779.jpg?v=1722551898",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/10-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046779.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 560276,
+              "downloaded_at": "2026-08-08T01:40:52.345Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046782.jpg?v=1722551901",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/11-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046782.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 160860,
+              "downloaded_at": "2026-08-08T01:40:52.830Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046784.jpg?v=1722551906",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-boskoop-glory-red-japanese-maple-tree/12-Acer_palmatum_Boskoop_Glory_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046784.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 513944,
+              "downloaded_at": "2026-08-08T01:40:53.254Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

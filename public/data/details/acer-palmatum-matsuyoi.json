@@ -20,15 +20,33 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/01-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063819.webp",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/02-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063822.webp",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/03-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063825.jpg",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/04-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063827.jpg",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/05-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063830.webp",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/06-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063832.webp",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/07-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063835.jpg",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/08-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063838.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/07-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063835.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/07-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063835.jpg",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/01-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063819.webp",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/02-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063822.webp",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/03-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063825.jpg",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/04-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063827.jpg",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/05-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063830.webp",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/06-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063832.webp",
+      "/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/08-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063838.webp"
+    ],
+    "public_count": 8
   },
   "sources": [
     {
@@ -135,5 +153,143 @@
   "descriptions_zh": {
     "preferred": "这一中等大小的乔木具有不同寻常的叶姿。 叶片初展时为淡黄绿色，成熟后转为浅亮绿色。 与多数品种叶片形成较平展叶面的状态不同，本品种的裂片会略向上或向下弯曲，有些还会轻微扭转。 有的叶片下垂，有的平展，有的侧立，从而形成层次丰富的叶幕效果。 叶缘在裂刻之间具锯齿。 该品种树形较矮，通常横向开展较宽，直立性不强，高约 3-4 米。 整体叶幕外观较为轻盈、羽毛状。 该品种也曾以 ‘Machiyou’ 为名流通，并曾被误作 ‘Myoi’ 出售。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/01-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063819.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/02-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063822.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/03-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063825.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/04-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063827.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/05-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063830.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/06-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063832.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/07-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063835.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/08-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063838.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/01-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063819.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Matsuyoi' Japanese Maple",
+        "handle": "buy-acer-palmatum-matsuyoi-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-matsuyoi-japanese-maple",
+        "description_text": "Acer palmatum 'Matsuyoi' Matsuyoi Japanese Maple Zones 5-9 'Matsuyoi' Japanese maple leafs out in the early spring with light green twisted leaves that may cup upward or downward depending on the growing conditions. Together with its broad spreading habit, 'Matsuyoi' has a unique texture. This rare Japanese maple can reach up to 10-12 ft at maturity. Fall colors are bright oranges to deep oranges. The name 'Matsuyoi' translates as \"waiting for the early evening\".",
+        "image_count": 8,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 8,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/01-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063819.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/02-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063822.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/03-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063825.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/04-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063827.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/05-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063830.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/06-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063832.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/07-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063835.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/08-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063838.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063819.jpg?v=1722578700",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-matsuyoi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/01-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063819.webp",
+              "content_type": "image/webp",
+              "bytes": 405780,
+              "downloaded_at": "2026-08-08T01:54:10.169Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063822.jpg?v=1722578705",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-matsuyoi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/02-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063822.webp",
+              "content_type": "image/webp",
+              "bytes": 60844,
+              "downloaded_at": "2026-08-08T01:54:10.838Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063825.jpg?v=1722578710",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-matsuyoi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/03-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063825.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 293041,
+              "downloaded_at": "2026-08-08T01:54:12.037Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063827.jpg?v=1722578714",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-matsuyoi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/04-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063827.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 207338,
+              "downloaded_at": "2026-08-08T01:54:12.885Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063830.jpg?v=1722578718",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-matsuyoi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/05-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063830.webp",
+              "content_type": "image/webp",
+              "bytes": 156264,
+              "downloaded_at": "2026-08-08T01:54:13.731Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063832.jpg?v=1722578722",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-matsuyoi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/06-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063832.webp",
+              "content_type": "image/webp",
+              "bytes": 69180,
+              "downloaded_at": "2026-08-08T01:54:14.377Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063835.jpg?v=1722578728",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-matsuyoi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/07-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063835.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 822207,
+              "downloaded_at": "2026-08-08T01:54:16.443Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063838.jpg?v=1722578760",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-matsuyoi-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-matsuyoi-japanese-maple/08-Acer_palmatum_Matsuyoi_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063838.webp",
+              "content_type": "image/webp",
+              "bytes": 232140,
+              "downloaded_at": "2026-08-08T01:54:17.794Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

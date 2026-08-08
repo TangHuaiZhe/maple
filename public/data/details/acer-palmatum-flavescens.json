@@ -20,15 +20,29 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/01-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053781.webp",
+      "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/02-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053787.webp",
+      "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/03-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053791.jpg",
+      "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/04-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053795.webp",
+      "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/05-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053804.webp",
+      "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/06-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053810.jpg"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/01-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053781.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/01-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053781.webp",
+      "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/02-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053787.webp",
+      "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/03-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053791.jpg",
+      "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/04-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053795.webp",
+      "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/05-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053804.webp",
+      "/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/06-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053810.jpg"
+    ],
+    "public_count": 6
   },
   "sources": [
     {
@@ -168,5 +182,115 @@
   "descriptions_zh": {
     "preferred": "这一品种的独特黄绿色叶色使其颇具栽培价值。 随着夏季推进，大型叶片中的绿色调会逐渐加深。 秋色为黄色，偶尔带橙色晕染。 叶具 5 至 7 个深度分离的裂片，边缘具裂刻和锯齿，但不像多数 Dissectum 类型那样深切至中脉。 植株生长非常旺盛，成熟时高约 8 英尺（2. 5 米），幅约 10 英尺（3 米）。 “其名意为‘微黄’。 ”"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/01-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053781.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/02-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053787.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/03-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053791.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/04-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053795.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/05-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053804.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/06-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053810.jpg"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/01-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053781.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Flavescens’ Weeping Japanese Maple",
+        "handle": "buy-acer-palmatum-flavescens-weeping-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-flavescens-weeping-japanese-maple",
+        "description_text": "Acer palmatum dissectum 'Flavescens' Green Laceleaf Japanese Maple Zones 5-9 'Flavescens’ is a nice weeping laceleaf that has a bright yellow green color in the spring to early summer. Fall color is bright yellow to orange. ‘Flavescens’ may reach 4-5 ft in height by 5-6 ft in width in 10 years.",
+        "image_count": 6,
+        "match_method": "search_html",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 6,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/01-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053781.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/02-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053787.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/03-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053791.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/04-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053795.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/05-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053804.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/06-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053810.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053781.jpg?v=1755791130",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-flavescens-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/01-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053781.webp",
+              "content_type": "image/webp",
+              "bytes": 624856,
+              "downloaded_at": "2026-08-08T01:41:24.040Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053787.jpg?v=1755791130",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-flavescens-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/02-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053787.webp",
+              "content_type": "image/webp",
+              "bytes": 83514,
+              "downloaded_at": "2026-08-08T01:41:24.270Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053791.jpg?v=1755791130",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-flavescens-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/03-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053791.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 276947,
+              "downloaded_at": "2026-08-08T01:41:24.568Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053795.jpg?v=1755791130",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-flavescens-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/04-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053795.webp",
+              "content_type": "image/webp",
+              "bytes": 623512,
+              "downloaded_at": "2026-08-08T01:41:24.975Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053804.jpg?v=1755791130",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-flavescens-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/05-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053804.webp",
+              "content_type": "image/webp",
+              "bytes": 313382,
+              "downloaded_at": "2026-08-08T01:41:25.293Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053810.jpg?v=1755791130",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-flavescens-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-flavescens-weeping-japanese-maple/06-Acer_palmatum_Flavescens_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2053810.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 613625,
+              "downloaded_at": "2026-08-08T01:41:25.695Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

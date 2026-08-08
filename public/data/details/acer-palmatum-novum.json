@@ -20,15 +20,29 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/01-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065086.webp",
+      "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/02-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065087.webp",
+      "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/03-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065088.webp",
+      "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/04-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065089.webp",
+      "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/05-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065090.webp",
+      "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/06-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065091.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/03-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065088.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/03-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065088.webp",
+      "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/01-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065086.webp",
+      "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/02-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065087.webp",
+      "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/04-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065089.webp",
+      "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/05-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065090.webp",
+      "/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/06-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065091.webp"
+    ],
+    "public_count": 6
   },
   "sources": [
     {
@@ -104,7 +118,116 @@
   "descriptions_zh": {
     "preferred": "中大型叶片具 5 至 7 枚卵形裂片，裂片渐收为细长锐尖，分裂深度至少达叶基的一半。 春季与初夏叶色为浅紫红色，不如 'Bloodgood' 或 'Nuresagi' 那样深。 盛夏时叶片转为鲜亮、近橙红色，晚夏则变为带绿色调的红色。 秋色为强烈的猩红色。 该品种生长强健、姿态直立，高可超过 23 英尺（7 米），形成圆头状小乔木，耐寒且长势旺盛。 其名意为“新的”。 异名为 'Atropurpureum Novum'。 'Nuresagi' 属 Matsumurae Group—red。 该优良紫叶高大型品种具大型叶片，5 至 7 枚裂片明显向外放射。 各裂片长卵形，先端延伸为细长尖尾。 裂片分裂较深，因此叶姿显得相当轻巧细致。 叶柄坚挺，呈鲜红色。 浓郁而深暗的紫红叶色十分少见。 春季与初夏时，叶片在特定光线下会呈现一种带乳光感的红色，甚至带有淡蓝色调；至晚夏仍可保持深紫红色，偶尔会混有轻微的深绿色斑驳。 嫩枝与枝条为深栗红色，并带灰调，这是由细密的白色纵向条纹造成的，观赏性良好。 该品种耐寒、长势旺盛、姿态直立，生长后期需要一定展开空间，可高达 16 至 20 英尺（5 至 6 米）。 其名意为“湿鹭”。"
   },
-  "has_mrmaple": false,
+  "has_mrmaple": true,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/01-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065086.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/02-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065087.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/03-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065088.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/04-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065089.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/05-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065090.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/06-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065091.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/01-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065086.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Novum' Red Japanese Maple",
+        "handle": "buy-acer-palmatum-novum-red-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-novum-red-japanese-maple",
+        "description_text": "Acer palmatum 'Novum' Red Japanese Maple Zones 5-9 'Novum’ is a great upright Japanese maple with a nice brick red to maroon red spring color . As the leaves mature more in the spring, they get a bit lighter red to orange-red. In the fall, ‘Novum’ turns to a bright crimson red. Give ‘Novum’ morning or afternoon sun for this maple to shine and glow to its fullest effect. ‘Novum’ has a vigorous upright habit reaching 12-14 ft in height in 10 years.",
+        "image_count": 6,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 6,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/01-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065086.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/02-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065087.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/03-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065088.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/04-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065089.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/05-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065090.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/06-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065091.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065086.jpg?v=1722584051",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-novum-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/01-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065086.webp",
+              "content_type": "image/webp",
+              "bytes": 208630,
+              "downloaded_at": "2026-08-08T01:55:00.816Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065087.jpg?v=1722584058",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-novum-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/02-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065087.webp",
+              "content_type": "image/webp",
+              "bytes": 173738,
+              "downloaded_at": "2026-08-08T01:55:01.681Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065088.jpg?v=1722584085",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-novum-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/03-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065088.webp",
+              "content_type": "image/webp",
+              "bytes": 205682,
+              "downloaded_at": "2026-08-08T01:55:02.881Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065089.jpg?v=1722584092",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-novum-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/04-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065089.webp",
+              "content_type": "image/webp",
+              "bytes": 156318,
+              "downloaded_at": "2026-08-08T01:55:03.801Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065090.jpg?v=1722584126",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-novum-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/05-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065090.webp",
+              "content_type": "image/webp",
+              "bytes": 176550,
+              "downloaded_at": "2026-08-08T01:55:04.795Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065091.jpg?v=1722584162",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-novum-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-novum-red-japanese-maple/06-Acer_palmatum_Novum_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2065091.webp",
+              "content_type": "image/webp",
+              "bytes": 186754,
+              "downloaded_at": "2026-08-08T01:55:05.191Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

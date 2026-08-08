@@ -16,15 +16,37 @@
   "images": {
     "count": 8,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/01-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070314.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/02-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070313.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/03-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070315.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/04-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070316.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/05-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070317.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/06-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070318.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/07-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070319.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/08-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070320.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/09-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070321.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/10-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070322.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/01-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070314.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/01-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070314.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/02-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070313.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/03-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070315.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/04-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070316.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/05-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070317.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/06-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070318.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/07-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070319.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/08-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070320.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/09-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070321.webp",
+      "/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/10-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070322.webp"
+    ],
+    "public_count": 10
   },
   "sources": [
     {
@@ -122,5 +144,171 @@
   "descriptions_zh": {
     "preferred": "由日本 埼 玉县于 2000 年新栽培的点斑叶品种，春天 新叶为粉色，黄色和绿色的斑叶，夏季粉色黄色转 为奶白色，绿色不变，夏季新稍色彩与春季相同， 夏季色彩斑斓，秋季为橙黄色。 生长速度中等，植 株较为健壮，不喜强光，午后需要遮阴，成年株可 达 2. 5 米高度。 与羽前锦非常相似。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/01-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070314.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/02-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070313.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/03-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070315.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/04-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070316.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/05-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070317.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/06-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070318.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/07-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070319.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/08-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070320.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/09-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070321.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/10-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070322.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/01-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070314.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Tsuru no mai' Japanese Maple",
+        "handle": "buy-acer-palmatum-tsuru-no-mai-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsuru-no-mai-japanese-maple",
+        "description_text": "Acer palmatum 'Tsuru no mai' Rare Variegated Japanese Maple Zones 5-9 'Tsuru no mai' is a bright pink variegated Japanese maple with serrated edging. The pink variegation on 'Tsuru no mai' tursn to white as the leaves mature. Fall color is a bright orange and red in the fall. 'Tsuru no mai' may reach 8 ft in 10 years. We recommend giving 'Tsuru no mai' protection from the hot afternoon sun.",
+        "image_count": 10,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 10,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/01-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070314.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/02-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070313.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/03-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070315.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/04-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070316.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/05-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070317.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/06-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070318.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/07-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070319.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/08-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070320.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/09-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070321.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/10-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070322.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070314.jpg?v=1722604944",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsuru-no-mai-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/01-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070314.webp",
+              "content_type": "image/webp",
+              "bytes": 318614,
+              "downloaded_at": "2026-08-08T01:57:17.628Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070313.jpg?v=1722604935",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsuru-no-mai-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/02-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070313.webp",
+              "content_type": "image/webp",
+              "bytes": 198796,
+              "downloaded_at": "2026-08-08T01:57:18.810Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070315.jpg?v=1722604949",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsuru-no-mai-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/03-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070315.webp",
+              "content_type": "image/webp",
+              "bytes": 145822,
+              "downloaded_at": "2026-08-08T01:57:19.815Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070316.jpg?v=1722604957",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsuru-no-mai-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/04-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070316.webp",
+              "content_type": "image/webp",
+              "bytes": 171368,
+              "downloaded_at": "2026-08-08T01:57:20.933Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070317.jpg?v=1722604965",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsuru-no-mai-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/05-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070317.webp",
+              "content_type": "image/webp",
+              "bytes": 288560,
+              "downloaded_at": "2026-08-08T01:57:22.491Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070318.jpg?v=1722604970",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsuru-no-mai-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/06-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070318.webp",
+              "content_type": "image/webp",
+              "bytes": 93392,
+              "downloaded_at": "2026-08-08T01:57:23.435Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070319.jpg?v=1722604975",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsuru-no-mai-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/07-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070319.webp",
+              "content_type": "image/webp",
+              "bytes": 119436,
+              "downloaded_at": "2026-08-08T01:57:24.101Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070320.jpg?v=1722604980",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsuru-no-mai-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/08-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070320.webp",
+              "content_type": "image/webp",
+              "bytes": 89924,
+              "downloaded_at": "2026-08-08T01:57:24.876Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070321.jpg?v=1722604985",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsuru-no-mai-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/09-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070321.webp",
+              "content_type": "image/webp",
+              "bytes": 92030,
+              "downloaded_at": "2026-08-08T01:57:25.564Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070322.jpg?v=1722604990",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-tsuru-no-mai-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-tsuru-no-mai-japanese-maple/10-Acer_palmatum_Tsuru_no_mai_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070322.webp",
+              "content_type": "image/webp",
+              "bytes": 97758,
+              "downloaded_at": "2026-08-08T01:57:26.167Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

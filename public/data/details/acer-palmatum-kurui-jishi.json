@@ -16,15 +16,41 @@
   "images": {
     "count": 8,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/01-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061835.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/02-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061838.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/03-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061841.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/04-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061844.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/05-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061847.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/06-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061850.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/07-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061853.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/08-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061856.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/09-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061859.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/10-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061862.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/11-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061865.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/12-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061868.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/07-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061853.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/07-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061853.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/01-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061835.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/02-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061838.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/03-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061841.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/04-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061844.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/05-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061847.jpg",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/06-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061850.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/08-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061856.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/09-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061859.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/10-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061862.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/11-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061865.webp",
+      "/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/12-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061868.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -122,5 +148,199 @@
   "descriptions_zh": {
     "preferred": "狂狮子是一种叶型非常独特的品种，每个叶片的边缘向 内卷起与置霜相比更加小和密集，七叶裂，春夏季呈深 绿色，秋季是亮黄色。 成年树高约 2 米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/01-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061835.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/02-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061838.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/03-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061841.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/04-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061844.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/05-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061847.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/06-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061850.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/07-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061853.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/08-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061856.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/09-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061859.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/10-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061862.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/11-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061865.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/12-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061868.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/01-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061835.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Kurui jishi' Crazy Lion Japanese Maple",
+        "handle": "buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+        "description_text": "Acer palmatum 'Kurui jishi' Unique Crazy Lion Japanese Maple Zones 5-9 'Kurui jishi' is a unique Japanese maple with curled foliage, similar to that of 'Okushimo'. 'Kurui jishi', however is much smaller and denser, reaching 6-8 ft in height and width in 15 years. Fall color can range from golden yellow to a brilliant orange. The name 'Kurui jishi' translates as confused or crazy lion.",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/01-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061835.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/02-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061838.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/03-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061841.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/04-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061844.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/05-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061847.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/06-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061850.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/07-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061853.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/08-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061856.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/09-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061859.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/10-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061862.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/11-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061865.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/12-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061868.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061835.jpg?v=1722574646",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/01-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061835.webp",
+              "content_type": "image/webp",
+              "bytes": 197202,
+              "downloaded_at": "2026-08-08T01:53:21.468Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061838.jpg?v=1722574650",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/02-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061838.webp",
+              "content_type": "image/webp",
+              "bytes": 96366,
+              "downloaded_at": "2026-08-08T01:53:22.328Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061841.jpg?v=1722574656",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/03-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061841.webp",
+              "content_type": "image/webp",
+              "bytes": 162108,
+              "downloaded_at": "2026-08-08T01:53:23.458Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061844.jpg?v=1722574660",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/04-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061844.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 118357,
+              "downloaded_at": "2026-08-08T01:53:24.168Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061847.jpg?v=1722574666",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/05-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061847.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 228978,
+              "downloaded_at": "2026-08-08T01:53:24.976Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061850.jpg?v=1722574670",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/06-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061850.webp",
+              "content_type": "image/webp",
+              "bytes": 184012,
+              "downloaded_at": "2026-08-08T01:53:26.145Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061853.jpg?v=1722574675",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/07-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061853.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 649410,
+              "downloaded_at": "2026-08-08T01:53:28.609Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061856.jpg?v=1722574681",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/08-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061856.webp",
+              "content_type": "image/webp",
+              "bytes": 185542,
+              "downloaded_at": "2026-08-08T01:53:29.869Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061859.jpg?v=1722574685",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/09-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061859.webp",
+              "content_type": "image/webp",
+              "bytes": 127734,
+              "downloaded_at": "2026-08-08T01:53:30.704Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061862.jpg?v=1722574690",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/10-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061862.webp",
+              "content_type": "image/webp",
+              "bytes": 375858,
+              "downloaded_at": "2026-08-08T01:53:32.228Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061865.jpg?v=1722574695",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/11-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061865.webp",
+              "content_type": "image/webp",
+              "bytes": 185542,
+              "downloaded_at": "2026-08-08T01:53:33.395Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061868.jpg?v=1722574700",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kurui-jishi-crazy-lion-japanese-maple/12-Acer_palmatum_Kurui_jishi_Crazy_Lion_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061868.webp",
+              "content_type": "image/webp",
+              "bytes": 129720,
+              "downloaded_at": "2026-08-08T01:53:34.503Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

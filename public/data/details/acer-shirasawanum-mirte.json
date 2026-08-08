@@ -20,15 +20,41 @@
   "images": {
     "count": 7,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/01-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074488.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/02-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074489.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/03-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074490.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/04-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074491.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/05-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074492.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/06-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074493.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/07-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074494.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/08-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074495.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/09-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074496.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/10-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074497.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/11-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074498.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/12-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074499.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/09-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074496.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/09-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074496.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/01-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074488.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/02-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074489.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/03-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074490.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/04-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074491.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/05-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074492.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/06-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074493.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/07-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074494.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/08-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074495.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/10-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074497.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/11-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074498.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/12-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074499.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -158,5 +184,199 @@
     },
     "description": "高大、长势相对较快的落叶槭树，高约 6-8 米。 叶片大而深裂，初展时呈巧克力褐色，带浅绿色叶脉并覆有柔毛，随后转为深橄榄色，夏季呈古铜绿色，秋季转为橙黄色。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/01-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074488.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/02-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074489.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/03-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074490.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/04-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074491.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/05-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074492.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/06-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074493.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/07-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074494.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/08-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074495.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/09-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074496.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/10-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074497.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/11-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074498.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/12-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074499.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/01-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074488.webp",
+    "products": [
+      {
+        "title": "Acer shirasawanum 'Mirte' Full Moon Japanese Maple",
+        "handle": "buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+        "description_text": "Acer shirasawanum x 'Mirte' Mirte Full Moon Japanese Maple Zones 5-9 ‘Mirte’ is an interesting hybrid full moon Japanese maple selection that was introduced by Esveld Nursery of the Netherlands. In the spring, the leaves of ‘Mirte’ leaf out as a bronze red, turning to green. In the fall ‘Mirte’ turns yellow to orange. ‘Mirte’ may reach 10-12 ft in height in 10 years.",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/01-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074488.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/02-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074489.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/03-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074490.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/04-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074491.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/05-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074492.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/06-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074493.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/07-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074494.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/08-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074495.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/09-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074496.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/10-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074497.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/11-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074498.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/12-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074499.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074488.jpg?v=1722619068",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/01-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074488.webp",
+              "content_type": "image/webp",
+              "bytes": 129706,
+              "downloaded_at": "2026-08-08T01:54:37.977Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074489.jpg?v=1722619074",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/02-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074489.webp",
+              "content_type": "image/webp",
+              "bytes": 77184,
+              "downloaded_at": "2026-08-08T01:54:38.844Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074490.jpg?v=1722619080",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/03-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074490.webp",
+              "content_type": "image/webp",
+              "bytes": 124110,
+              "downloaded_at": "2026-08-08T01:54:39.645Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074491.jpg?v=1722619086",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/04-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074491.webp",
+              "content_type": "image/webp",
+              "bytes": 94556,
+              "downloaded_at": "2026-08-08T01:54:40.266Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074492.jpg?v=1722619091",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/05-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074492.webp",
+              "content_type": "image/webp",
+              "bytes": 82444,
+              "downloaded_at": "2026-08-08T01:54:40.817Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074493.jpg?v=1722619097",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/06-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074493.webp",
+              "content_type": "image/webp",
+              "bytes": 135740,
+              "downloaded_at": "2026-08-08T01:54:41.470Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074494.jpg?v=1722619102",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/07-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074494.webp",
+              "content_type": "image/webp",
+              "bytes": 80792,
+              "downloaded_at": "2026-08-08T01:54:42.074Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074495.jpg?v=1722619108",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/08-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074495.webp",
+              "content_type": "image/webp",
+              "bytes": 131832,
+              "downloaded_at": "2026-08-08T01:54:42.715Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074496.jpg?v=1722619116",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/09-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074496.webp",
+              "content_type": "image/webp",
+              "bytes": 164332,
+              "downloaded_at": "2026-08-08T01:54:43.428Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074497.jpg?v=1722619121",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/10-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074497.webp",
+              "content_type": "image/webp",
+              "bytes": 116650,
+              "downloaded_at": "2026-08-08T01:54:43.898Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074498.jpg?v=1722619127",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/11-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074498.webp",
+              "content_type": "image/webp",
+              "bytes": 121160,
+              "downloaded_at": "2026-08-08T01:54:44.711Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074499.jpg?v=1722619134",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-mirte-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-mirte-full-moon-japanese-maple/12-Acer_shirasawanum_Mirte_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074499.webp",
+              "content_type": "image/webp",
+              "bytes": 123456,
+              "downloaded_at": "2026-08-08T01:54:45.452Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

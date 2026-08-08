@@ -16,15 +16,23 @@
   "images": {
     "count": 7,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/01-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046819.webp",
+      "/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/02-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046822.webp",
+      "/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/03-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046825.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/02-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046822.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/02-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046822.webp",
+      "/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/01-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046819.webp",
+      "/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/03-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046825.webp"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -120,5 +128,73 @@
   "descriptions_zh": {
     "preferred": "小型矮生的日本枫树 ， 是 最早的一批女巫扫帚类枫树 ， 选育自'Atropurpureum' （ 紫黑枫 ）。 初春 叶片萌发时为明亮的红色，随即变为暗红色，然后缓慢地褪去红色，变为锈绿色 ， 秋季则转为深红色。 叶片 一般 5-7 裂，叶裂深， 叶裂 呈卵形，中部最宽，叶尖细长，叶缘锯齿细腻。 布兰迪小矮人刚 嫁接后的那段时间萌发的新枝十分强壮 ， 但是随着其树龄的增加，长势会趋于缓慢，每年仅生长几厘米。 其树体成熟后，枝条密集，树形圆润，呈灌木状，株高与冠幅仅有1m 。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/01-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046819.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/02-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046822.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/03-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046825.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/01-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046819.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Brandt's Dwarf' Small Red Japanese Maple Tree",
+        "handle": "buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree",
+        "description_text": "Acer palmatum 'Brandt's Dwarf' Red 'Brandt's Dwarf' Japanese Maple Zones 5-9 'Brandt's Dwarf' is an exceptional small growing Japanese maple. In the spring, 'Brandt's Dwarf' is a plum wine, turning to maroon for the summer. Fall color ranges from orange to red. At a young age, 'Brandt's Dwarf' is fairly vigorous, slowing down quite bit with age. 'Brandt's Dwarf' may reach 3-4 ft in height and width in 10 years.",
+        "image_count": 3,
+        "match_method": "search_html",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 3,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/01-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046819.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/02-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046822.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/03-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046825.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046819.jpg?v=1722551971",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/01-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046819.webp",
+              "content_type": "image/webp",
+              "bytes": 351414,
+              "downloaded_at": "2026-08-08T01:40:59.586Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046822.jpg?v=1722551978",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/02-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046822.webp",
+              "content_type": "image/webp",
+              "bytes": 516864,
+              "downloaded_at": "2026-08-08T01:41:00.082Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046825.jpg?v=1722551986",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-brandts-dwarf-small-red-japanese-maple-tree/03-Acer_palmatum_Brandt_s_Dwarf_Small_Red_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2046825.webp",
+              "content_type": "image/webp",
+              "bytes": 579202,
+              "downloaded_at": "2026-08-08T01:41:00.417Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

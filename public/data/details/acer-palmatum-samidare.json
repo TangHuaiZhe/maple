@@ -20,15 +20,33 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/01-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068377.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/02-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068378.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/03-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068380.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/04-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068382.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/05-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068383.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/06-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068385.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/07-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068386.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/08-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068388.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/06-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068385.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/06-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068385.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/01-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068377.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/02-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068378.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/03-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068380.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/04-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068382.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/05-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068383.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/07-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068386.webp",
+      "/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/08-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068388.webp"
+    ],
+    "public_count": 8
   },
   "sources": [
     {
@@ -115,5 +133,143 @@
   "descriptions_zh": {
     "preferred": "'Samidare' 的叶片较大，名称意为“初夏之雨”，叶质厚实，触感坚挺。 早春初展时，幼叶几乎呈粉色；不久即转为浓绿色，叶缘带浅红色调。 夏季深绿色保持良好，即使全日照下也不易灼伤。 秋季叶中心发展出金绿色，裂片则转为带紫色；不同叶片上还会交织出金色与深红色等其他色彩组合。 叶片通常七裂，偶为五裂，长 6-8 厘米、宽 8-12 厘米。 裂片明显向外辐射，呈强烈卵形，端部较钝；裂片连接处不到叶片长度的一半，因此形成宽大的掌状叶。 叶缘锯齿极细，近乎平滑，仅外侧三分之一处的锯齿略明显。 叶柄细长而坚实，长 3. 5-7 厘米。 该品种耐性好，嫩枝和幼枝粗壮而坚硬。 初期生长迅速且直立，随后生长放缓，逐渐形成矮而宽的小乔木，最终可达高宽各 6 米。 它是极为耐久的园艺品种，能为庭园提供良好的色彩表现。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/01-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068377.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/02-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068378.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/03-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068380.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/04-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068382.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/05-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068383.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/06-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068385.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/07-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068386.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/08-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068388.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/01-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068377.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Samidare' Japanese Maple",
+        "handle": "buy-acer-palmatum-samidare-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-samidare-japanese-maple",
+        "description_text": "Acer palmatum ' Samidare ' Exceptional Fall Color Japanese Maple Zones 5-9 'Samidare' is perhaps one of the closest selections to Acer amoenum in the wild in Japan. On my many trips to Japan in the fall, many of the larger leaf Japanese maples, which are primarily Acer amoenum, are a nice shade of green turning to yellow and orange in the fall. 'Samidare' does just that with grace and sophistication. This makes 'Samidare' a great tree for the garden, but also an excellent specimen for traditional Japanese gardening. It is often the green upright Japanese maples that give that nice summery fill in the landscape, that announce the changing of the seasons with phenomenal autumn color, that are used in traditional Japanese landscaping. 'Samidare' may reach 8-10 ft in 10 years making a great mid-size tree for any garden. It's durability and resilience make it an ideal selection for a variety of landscapes - from traditional Japanese gardening to modern gardens. Plus, it's easy to grow and provides outstanding autumn color, making it the perfect way to create a stunning seasonal backdrop.",
+        "image_count": 8,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 8,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/01-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068377.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/02-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068378.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/03-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068380.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/04-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068382.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/05-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068383.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/06-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068385.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/07-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068386.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/08-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068388.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068377.jpg?v=1722595919",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-samidare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/01-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068377.webp",
+              "content_type": "image/webp",
+              "bytes": 132508,
+              "downloaded_at": "2026-08-08T01:48:22.670Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068378.jpg?v=1722595925",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-samidare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/02-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068378.webp",
+              "content_type": "image/webp",
+              "bytes": 115440,
+              "downloaded_at": "2026-08-08T01:48:23.737Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068380.jpg?v=1722595931",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-samidare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/03-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068380.webp",
+              "content_type": "image/webp",
+              "bytes": 155040,
+              "downloaded_at": "2026-08-08T01:48:24.869Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068382.jpg?v=1722595936",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-samidare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/04-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068382.webp",
+              "content_type": "image/webp",
+              "bytes": 148574,
+              "downloaded_at": "2026-08-08T01:48:25.919Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068383.jpg?v=1722595941",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-samidare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/05-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068383.webp",
+              "content_type": "image/webp",
+              "bytes": 136840,
+              "downloaded_at": "2026-08-08T01:48:27.097Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068385.jpg?v=1722595948",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-samidare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/06-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068385.webp",
+              "content_type": "image/webp",
+              "bytes": 221874,
+              "downloaded_at": "2026-08-08T01:48:28.539Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068386.jpg?v=1722595953",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-samidare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/07-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068386.webp",
+              "content_type": "image/webp",
+              "bytes": 97402,
+              "downloaded_at": "2026-08-08T01:48:29.455Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068388.jpg?v=1722595959",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-samidare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-samidare-japanese-maple/08-Acer_palmatum_Samidare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068388.webp",
+              "content_type": "image/webp",
+              "bytes": 221858,
+              "downloaded_at": "2026-08-08T01:48:30.790Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

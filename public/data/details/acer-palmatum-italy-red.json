@@ -20,15 +20,19 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-italy-red-bright-red-japanese-maple/01-Acer_palmatum_Italy_Red_Bright_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058487.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-italy-red-bright-red-japanese-maple/01-Acer_palmatum_Italy_Red_Bright_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058487.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-italy-red-bright-red-japanese-maple/01-Acer_palmatum_Italy_Red_Bright_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058487.webp"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -56,5 +60,45 @@
   "descriptions_zh": {
     "preferred": "该品种在叶形和树姿上与 'Bloodgood' 非常相似，但生长较慢，最终体量仅为后者的一半。 'Italy Red' 树势非常健壮，耐风、耐晒，最终形成一株高约 3 米的小型直立乔木。 对于 'Bloodgood' 过于高大的花园环境来说，它是一个值得考虑的替代品。 原始母株生长于加利福尼亚州 Laytonville 的 Mountain Maples Nursery，该苗圃由 Don 和 Nancy Fiers 经营，他们是从 Maplewood Nursery 获得该品种的。 据推测，它最初来自意大利，因此得名。 该品种也曾被误拼为 'Haly Red'。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-italy-red-bright-red-japanese-maple/01-Acer_palmatum_Italy_Red_Bright_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058487.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-italy-red-bright-red-japanese-maple/01-Acer_palmatum_Italy_Red_Bright_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058487.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Italy Red' Bright Red Japanese Maple",
+        "handle": "buy-acer-palmatum-italy-red-bright-red-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-italy-red-bright-red-japanese-maple",
+        "description_text": "Acer palmatum 'Italy Red' Bright Red 'Italy Red' Japanese Maple Zones 5-9 'Italy Red' is an introduction from Fratelli Gilardelli Nursery in Milan, Italy. 'Italy Red' may reach 8-10 ft in 15 years in an upright fashion. The bright red leaves show off better on this tree than most Japanese maples, giving a glowing aspect to the leaves from underneath. This shows off extremely well in the morning or afternoon sun as the light highlights the orange-red hue on the leaves. Fall color is a bright crimson red.",
+        "image_count": 1,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 1,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-italy-red-bright-red-japanese-maple/01-Acer_palmatum_Italy_Red_Bright_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058487.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Italy_Red_Bright_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058487.jpg?v=1722568200",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-italy-red-bright-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-italy-red-bright-red-japanese-maple/01-Acer_palmatum_Italy_Red_Bright_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058487.webp",
+              "content_type": "image/webp",
+              "bytes": 270500,
+              "downloaded_at": "2026-08-08T01:53:14.756Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

@@ -5,7 +5,6 @@
 ## 功能
 
 - **品种目录（探索）** — 580 个品种随机浏览，有图优先，支持下拉刷新重新打乱，中英文搜索（含拼音）
-- **流行品种** — 51 个最受欢迎的经典品种，支持全品种搜索
 - **RHS 获奖** — 29 个英国皇家园艺学会推荐品种，分页加载
 - **收藏** — 浏览器 / 小程序本地收藏（无需登录）
 - **品种详情** — 养护信息、多源图片画廊（RHS / Mr Maple / Herter / NCSU / Conifer Kingdom / JMAC）
@@ -78,7 +77,44 @@ npm run image:thumbs:write -- --covers-only # 只为目录封面生成小程序/
 
 ## 部署
 
-腾讯云 CloudBase 静态托管：
+### Firebase Hosting（当前 Web 线上环境）
+
+本轮已将 Web 站点从腾讯云 CloudBase 迁移到 Firebase Hosting。
+
+- Firebase 项目：`Maple` / `maple-684e2`
+- 线上地址：[https://maple-684e2.web.app](https://maple-684e2.web.app)
+- 发布规模：约 1.5 GB、9,145 个文件
+- 图片策略：Firebase 专用构建会把 `data-source/Resource/园艺/raw/` 下的来源图片复制到 `dist/`，并将图片地址切换为当前站点根路径
+
+Firebase 部署必须使用 `build:firebase`，普通 `npm run build` 只生成 CloudBase/外部图片资源模式的产物：
+
+```bash
+npm run build:firebase       # 构建 Web、数据、缩略图和原图发布目录
+npm run deploy:firebase      # 构建并部署到 Maple Firebase 项目
+```
+
+首次在其他机器上部署：
+
+```bash
+npm run firebase:login
+npm run firebase:projects
+cp .firebaserc.example .firebaserc
+# 编辑 .firebaserc，将 default 改成 Firebase 项目 ID
+npm run deploy:firebase
+```
+
+线上快速验证：
+
+```bash
+curl -I -L 'https://maple-684e2.web.app/'
+curl -I -L 'https://maple-684e2.web.app/data/catalog.json'
+```
+
+Firebase 配置位于 [firebase.json](./firebase.json)，Firebase 模式环境变量位于 `.env.firebase`。原图复制由 `scripts/prepare-firebase-hosting.mjs` 完成；`.firebaserc` 仅保存在本地，不提交到仓库。
+
+### 腾讯云 CloudBase（历史/备用）
+
+原腾讯云 CloudBase 静态托管配置仍保留，主要用于历史环境或回滚参考。当前环境 `cloud1-d0gq8e1gidc917363` 已进入隔离，不作为当前 Web 发布目标。
 
 ```bash
 npm run build                            # 构建
@@ -99,7 +135,7 @@ npm run deploy:cloudbase:source-images # 首次或新增时上传全部原始图
 
 生产构建只携带 `data/` 和 `thumbs/`，不会再次复制约 1 GB 的原图目录。生成或更新缩略图后，先运行 `npm run build`，再用 `npm run deploy:cloudbase:image-thumbs` 上传 `dist/thumbs` 和 `dist/data/image-thumbs.json`。首次部署或新增原图时，再运行 `npm run deploy:cloudbase:source-images`。
 
-### 增量上传图片目录
+#### 增量上传图片目录
 
 只新增或修改 `user-images` 图片时，可单独上传该目录，避免重传整套图片资产：
 
@@ -107,7 +143,7 @@ npm run deploy:cloudbase:source-images # 首次或新增时上传全部原始图
 npm run deploy:cloudbase:user-images
 ```
 
-### 线上图片不显示排查流程
+#### 线上图片不显示排查流程
 
 如果本地图片正常、线上详情页不显示图片，按下面顺序排查：
 
@@ -163,7 +199,9 @@ npm run mini:dev     # 监听模式：修改源文件自动重编译，配合微
 
 小程序 Tab：流行 / 探索 / RHS 获奖 / 收藏
 
-数据源地址配置：`mini/.env.development` / `mini/.env.production`
+小程序端也已切换到 Firebase Hosting：`mini/.env.development` 和 `mini/.env.production` 的数据、图片地址均为 `https://maple-684e2.web.app`。Firebase 只提供小程序运行时读取的 JSON 和图片资源，小程序包仍通过微信开发者工具上传和发布。
+
+如果微信开发者工具开启了域名校验，需要将 `https://maple-684e2.web.app` 配置为小程序的合法 request 域名；本地开发可继续使用开发者工具的校验豁免。
 
 ### 小程序关键配置
 

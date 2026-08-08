@@ -16,15 +16,41 @@
   "images": {
     "count": 2,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/01-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047339.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/02-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047376.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/03-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047379.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/04-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047382.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/05-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047386.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/06-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047390.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/07-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047393.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/08-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047396.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/09-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047400.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/10-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047404.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/11-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047407.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/12-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047343.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/12-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047343.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/12-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047343.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/01-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047339.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/02-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047376.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/03-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047379.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/04-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047382.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/05-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047386.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/06-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047390.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/07-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047393.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/08-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047396.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/09-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047400.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/10-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047404.webp",
+      "/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/11-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047407.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -58,8 +84,202 @@
   "has_book": false,
   "has_rhs": false,
   "rhs": null,
-  "has_mrmaple": false,
+  "has_mrmaple": true,
   "descriptions_zh": {
     "preferred": "极矮生、致密的三河系品种，叶片细小而层层紧凑。 春季新叶常带黄橙色调，夏季转绿，秋季再现黄、橙到红色变化，适合盆景、容器和狭小空间。"
+  },
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/01-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047339.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/02-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047376.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/03-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047379.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/04-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047382.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/05-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047386.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/06-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047390.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/07-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047393.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/08-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047396.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/09-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047400.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/10-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047404.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/11-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047407.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/12-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047343.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/01-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047339.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Catalina yatsubusa' Dwarf Japanese Maple",
+        "handle": "buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+        "description_text": "Acer palmatum 'Catalina yatsubusa' Rare Dwarf Japanese Maple Tree Zones 5-9 Excellent for Bonsai 'Catalina yatsubusa' is a newer selection of variegated form of Mikawa yatsubusa. New growth has irregular variegation on thinner pointed leaves. Yellow to lime green variegation borders the new growth with irregular blotches of dark green. Older growth can display dark centers to the leaves with lighter green tips. These older growth have leaves shaped similar to",
+        "image_count": 12,
+        "match_method": "search_html",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/01-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047339.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/02-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047376.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/03-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047379.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/04-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047382.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/05-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047386.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/06-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047390.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/07-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047393.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/08-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047396.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/09-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047400.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/10-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047404.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/11-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047407.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/12-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047343.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047339.jpg?v=1753924215",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/01-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047339.webp",
+              "content_type": "image/webp",
+              "bytes": 267074,
+              "downloaded_at": "2026-08-08T01:41:06.140Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047376.jpg?v=1753924216",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/02-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047376.webp",
+              "content_type": "image/webp",
+              "bytes": 114312,
+              "downloaded_at": "2026-08-08T01:41:06.573Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047379.jpg?v=1753924216",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/03-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047379.webp",
+              "content_type": "image/webp",
+              "bytes": 89972,
+              "downloaded_at": "2026-08-08T01:41:07.012Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047382.jpg?v=1753924216",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/04-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047382.webp",
+              "content_type": "image/webp",
+              "bytes": 105104,
+              "downloaded_at": "2026-08-08T01:41:07.305Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047386.jpg?v=1753924216",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/05-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047386.webp",
+              "content_type": "image/webp",
+              "bytes": 150960,
+              "downloaded_at": "2026-08-08T01:41:07.623Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047390.jpg?v=1753924216",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/06-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047390.webp",
+              "content_type": "image/webp",
+              "bytes": 108100,
+              "downloaded_at": "2026-08-08T01:41:07.913Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047393.jpg?v=1753924217",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/07-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047393.webp",
+              "content_type": "image/webp",
+              "bytes": 91316,
+              "downloaded_at": "2026-08-08T01:41:08.343Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047396.jpg?v=1753924217",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/08-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047396.webp",
+              "content_type": "image/webp",
+              "bytes": 142416,
+              "downloaded_at": "2026-08-08T01:41:08.655Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047400.jpg?v=1753924217",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/09-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047400.webp",
+              "content_type": "image/webp",
+              "bytes": 110426,
+              "downloaded_at": "2026-08-08T01:41:09.137Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047404.jpg?v=1753924217",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/10-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047404.webp",
+              "content_type": "image/webp",
+              "bytes": 93402,
+              "downloaded_at": "2026-08-08T01:41:09.581Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047407.jpg?v=1753924217",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/11-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047407.webp",
+              "content_type": "image/webp",
+              "bytes": 132766,
+              "downloaded_at": "2026-08-08T01:41:09.903Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047343.jpg?v=1753924215",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-catalina-yatsubusa-dwarf-japanese-maple/12-Acer_palmatum_Catalina_yatsubusa_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2047343.webp",
+              "content_type": "image/webp",
+              "bytes": 453664,
+              "downloaded_at": "2026-08-08T01:41:10.410Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
   }
 }

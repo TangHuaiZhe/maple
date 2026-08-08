@@ -16,15 +16,31 @@
   "images": {
     "count": 8,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/01-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035392.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/02-SunnySister_-05142026-1.jpg",
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/03-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035397.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/04-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035402.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/05-IMG_1641.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/06-IMG_1648.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/07-SunnySister_-06012026-1.jpg"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/05-IMG_1641.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/05-IMG_1641.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/01-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035392.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/02-SunnySister_-05142026-1.jpg",
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/03-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035397.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/04-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035402.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/06-IMG_1648.webp",
+      "/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/07-SunnySister_-06012026-1.jpg"
+    ],
+    "public_count": 7
   },
   "sources": [
     {
@@ -141,5 +157,129 @@
       "propagation": "可于冬末采用嫁接繁殖，或于初夏进行软枝扦插繁殖。"
     }
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/01-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035392.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/02-SunnySister_-05142026-1.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/03-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035397.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/04-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035402.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/05-IMG_1641.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/06-IMG_1648.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/07-SunnySister_-06012026-1.jpg"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/01-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035392.webp",
+    "products": [
+      {
+        "title": "Acer circinatum 'Sunny Sister' Dwarf Japanese Maple",
+        "handle": "buy-acer-circinatum-sunny-sister-dwarf-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple",
+        "description_text": "Acer circinatum 'Sunny Sister' Rare Dwarf Vine Maple Japanese Maple Zones 6-8 Morning Sun to Afternoon Shade 'Sunny Sister' leafs out in the spring with some nice shades of apricot infused with yellow. As the apricot fades, the leaves begin to get more yellow-green to green. In the fall 'Sunny Sister' may turn yellow to orange. 'Sunny Sister' was found as sister seedling to",
+        "image_count": 7,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 7,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/01-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035392.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/02-SunnySister_-05142026-1.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/03-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035397.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/04-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035402.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/05-IMG_1641.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/06-IMG_1648.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/07-SunnySister_-06012026-1.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035392.jpg?v=1722537638",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/01-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035392.webp",
+              "content_type": "image/webp",
+              "bytes": 140974,
+              "downloaded_at": "2026-08-08T01:56:48.950Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/SunnySister_-05142026-1.jpg?v=1780328724",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/02-SunnySister_-05142026-1.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 1005292,
+              "downloaded_at": "2026-08-08T01:56:52.379Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035397.jpg?v=1722537644",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/03-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035397.webp",
+              "content_type": "image/webp",
+              "bytes": 143344,
+              "downloaded_at": "2026-08-08T01:56:53.412Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035402.jpg?v=1722537649",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/04-Acer_circinatum_Sunny_Sister_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2035402.webp",
+              "content_type": "image/webp",
+              "bytes": 253532,
+              "downloaded_at": "2026-08-08T01:56:54.742Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/IMG_1641.heic?v=1775492319",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/05-IMG_1641.webp",
+              "content_type": "image/webp",
+              "bytes": 5780396,
+              "downloaded_at": "2026-08-08T01:57:09.874Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/IMG_1648.heic?v=1775492321",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/06-IMG_1648.webp",
+              "content_type": "image/webp",
+              "bytes": 859972,
+              "downloaded_at": "2026-08-08T01:57:12.585Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/SunnySister_-06012026-1.jpg?v=1780328724",
+              "product_url": "https://mrmaple.com/products/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-circinatum-sunny-sister-dwarf-japanese-maple/07-SunnySister_-06012026-1.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 921480,
+              "downloaded_at": "2026-08-08T01:57:15.004Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

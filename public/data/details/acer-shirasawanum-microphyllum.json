@@ -16,15 +16,29 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/01-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074463.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/02-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074464.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/03-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074465.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/04-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074466.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/05-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074467.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/06-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074468.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/05-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074467.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/05-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074467.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/01-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074463.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/02-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074464.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/03-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074465.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/04-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074466.webp",
+      "/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/06-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074468.webp"
+    ],
+    "public_count": 6
   },
   "sources": [
     {
@@ -117,5 +131,115 @@
   "descriptions_zh": {
     "preferred": "小型圆叶在叶柄着生处呈杯状内凹。 基部裂片彼此重叠，再加上叶片上翘，形成浅浅的杯状。 红色叶柄结实有力。 叶色为深绿，秋季转为鲜艳的红黄综合色。 其长势似乎不如原种旺盛，但可形成一株高达 20 英尺（6 米）的小乔木。 看起来是一个强健且耐寒的类型。 其名称意为“小叶的”。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 2,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/01-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074463.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/02-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074464.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/03-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074465.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/04-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074466.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/05-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074467.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/06-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074468.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/01-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074463.webp",
+    "products": [
+      {
+        "title": "Acer shirasawanum 'Microphyllum' Full Moon Japanese Maple",
+        "handle": "buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple",
+        "description_text": "Acer shirasawanum 'Microphyllum' Rare Full Moon Japanese Maple Zones 5-9 'Microphyllum' is a great selection of Acer shirasawanum that was introduced by Esveld Nursery from a clone in the Coimbre Botanic Garden in Portugal. The rounded foliage cups slightly upward, creating that classic full moon leaf shape. The dark green foliage turns to a nice shade yellow infused with orange in the fall. 'Microphyllum' may reach 6-8 ft in height in 10 years. This hardy, versatile maple is a great choice for any landscape, withstanding temperatures as low as -30°F. It will quickly become an integral part of your garden with its reliable and stunning seasonal colors.",
+        "image_count": 6,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 6,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/01-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074463.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/02-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074464.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/03-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074465.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/04-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074466.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/05-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074467.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/06-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074468.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074463.jpg?v=1722618914",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/01-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074463.webp",
+              "content_type": "image/webp",
+              "bytes": 196832,
+              "downloaded_at": "2026-08-08T01:54:18.334Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074464.jpg?v=1722618920",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/02-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074464.webp",
+              "content_type": "image/webp",
+              "bytes": 142978,
+              "downloaded_at": "2026-08-08T01:54:19.360Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074465.jpg?v=1722618925",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/03-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074465.webp",
+              "content_type": "image/webp",
+              "bytes": 146736,
+              "downloaded_at": "2026-08-08T01:54:19.810Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074466.jpg?v=1722618931",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/04-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074466.webp",
+              "content_type": "image/webp",
+              "bytes": 209480,
+              "downloaded_at": "2026-08-08T01:54:21.025Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074467.jpg?v=1722618936",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/05-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074467.webp",
+              "content_type": "image/webp",
+              "bytes": 274880,
+              "downloaded_at": "2026-08-08T01:54:22.721Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074468.jpg?v=1722618941",
+              "product_url": "https://mrmaple.com/products/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-shirasawanum-microphyllum-full-moon-japanese-maple/06-Acer_shirasawanum_Microphyllum_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074468.webp",
+              "content_type": "image/webp",
+              "bytes": 171248,
+              "downloaded_at": "2026-08-08T01:54:23.858Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

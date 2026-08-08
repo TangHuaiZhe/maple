@@ -16,15 +16,41 @@
   "images": {
     "count": 7,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/01-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034490.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/02-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034494.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/03-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034499.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/04-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034504.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/05-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034509.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/06-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034515.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/07-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034524.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/08-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034530.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/09-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034536.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/10-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034541.jpg",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/11-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034546.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/12-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034550.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/10-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034541.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/10-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034541.jpg",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/01-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034490.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/02-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034494.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/03-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034499.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/04-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034504.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/05-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034509.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/06-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034515.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/07-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034524.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/08-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034530.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/09-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034536.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/11-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034546.webp",
+      "/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/12-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034550.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -124,5 +150,199 @@
   "descriptions_zh": {
     "preferred": "粉械是一种叶子带有大理石白色花纹的欧洲野枫，该树种主要分布在欧洲，西亚和北非，最早于1864年在穆斯考植物园栽培时被发现。 光滑的浅裂叶子具有很强的观赏性，在秋天会变成引人注目的黄色。 在半遮荫或全遮荫下效果最佳，不耐晒但是相对耐寒，成年树高约3米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/01-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034490.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/02-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034494.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/03-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034499.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/04-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034504.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/05-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034509.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/06-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034515.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/07-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034524.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/08-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034530.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/09-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034536.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/10-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034541.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/11-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034546.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/12-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034550.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/01-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034490.webp",
+    "products": [
+      {
+        "title": "Acer campestre 'Pulverulentum' White Variegated Maple",
+        "handle": "buy-acer-campestre-pulverulentum-white-variegated-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+        "description_text": "Acer campestre 'Pulverulentum' Rare White Variegated Hedge Maple Zones 5-9 'Pulverulentum’ is a white marbled variegated European field maple. The white variegation is a great way to brighten shadier spots in the garden. I recommend giving some morning sun for the densest habit. ‘Pulverulentum’ may reach 6-8 ft in height and width in 10 years with dense rounded habit.",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/01-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034490.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/02-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034494.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/03-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034499.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/04-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034504.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/05-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034509.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/06-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034515.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/07-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034524.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/08-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034530.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/09-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034536.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/10-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034541.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/11-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034546.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/12-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034550.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034490.jpg?v=1722536484",
+              "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/01-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034490.webp",
+              "content_type": "image/webp",
+              "bytes": 83296,
+              "downloaded_at": "2026-08-08T01:55:06.158Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034494.jpg?v=1722536492",
+              "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/02-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034494.webp",
+              "content_type": "image/webp",
+              "bytes": 259994,
+              "downloaded_at": "2026-08-08T01:55:07.244Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034499.jpg?v=1722536500",
+              "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/03-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034499.webp",
+              "content_type": "image/webp",
+              "bytes": 322032,
+              "downloaded_at": "2026-08-08T01:55:08.419Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034504.jpg?v=1722536507",
+              "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/04-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034504.webp",
+              "content_type": "image/webp",
+              "bytes": 81424,
+              "downloaded_at": "2026-08-08T01:55:09.056Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034509.jpg?v=1722536514",
+              "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/05-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034509.webp",
+              "content_type": "image/webp",
+              "bytes": 470746,
+              "downloaded_at": "2026-08-08T01:55:10.367Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034515.jpg?v=1722536523",
+              "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/06-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034515.webp",
+              "content_type": "image/webp",
+              "bytes": 241388,
+              "downloaded_at": "2026-08-08T01:55:11.628Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034524.jpg?v=1722536532",
+              "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/07-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034524.webp",
+              "content_type": "image/webp",
+              "bytes": 226006,
+              "downloaded_at": "2026-08-08T01:55:12.749Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034530.jpg?v=1722536539",
+              "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/08-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034530.webp",
+              "content_type": "image/webp",
+              "bytes": 282156,
+              "downloaded_at": "2026-08-08T01:55:13.966Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034536.jpg?v=1722536546",
+              "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/09-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034536.webp",
+              "content_type": "image/webp",
+              "bytes": 162514,
+              "downloaded_at": "2026-08-08T01:55:15.163Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034541.jpg?v=1722536554",
+              "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/10-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034541.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 1110632,
+              "downloaded_at": "2026-08-08T01:55:16.986Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034546.jpg?v=1722536560",
+              "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/11-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034546.webp",
+              "content_type": "image/webp",
+              "bytes": 64156,
+              "downloaded_at": "2026-08-08T01:55:17.502Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034550.jpg?v=1722536565",
+              "product_url": "https://mrmaple.com/products/buy-acer-campestre-pulverulentum-white-variegated-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-campestre-pulverulentum-white-variegated-maple/12-Acer_campestre_Pulverulentum_White_Variegated_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2034550.webp",
+              "content_type": "image/webp",
+              "bytes": 81530,
+              "downloaded_at": "2026-08-08T01:55:18.084Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

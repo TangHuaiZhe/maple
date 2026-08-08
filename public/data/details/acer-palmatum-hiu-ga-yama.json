@@ -20,15 +20,19 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-hinata-yama-japanese-maple/01-2C6F6357-3BAA-4296-B418-4ADE1937E48F.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-hinata-yama-japanese-maple/01-2C6F6357-3BAA-4296-B418-4ADE1937E48F.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-hinata-yama-japanese-maple/01-2C6F6357-3BAA-4296-B418-4ADE1937E48F.webp"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -124,5 +128,45 @@
   "descriptions_zh": {
     "preferred": "'Hiu\\ga yama' 据称是已知最古老品种之一 'Nomura' 的实生选种。 其叶裂片比 'Nomura' 更长、更狭。 生长季早期叶色为深紫红色，随后随季节推进而逐渐减淡；至夏末则转为带绿色调的青铜紫色。 叶片着生姿态较为直立。 该品种栽培并不广泛，可能因为与许多其他红叶品种相比，并无特别突出的差异特征。 其名称还曾有多种拼写形式，如 'Higugayama'、'Hiyu\\gayama' 和 'Hyugayama'，此外该品种也曾以 'Hinata yama' 之名流传。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-hinata-yama-japanese-maple/01-2C6F6357-3BAA-4296-B418-4ADE1937E48F.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-hinata-yama-japanese-maple/01-2C6F6357-3BAA-4296-B418-4ADE1937E48F.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Hinata yama' Japanese Maple",
+        "handle": "buy-acer-palmatum-hinata-yama-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-hinata-yama-japanese-maple",
+        "description_text": "ACER PALMATUM 'HINATA YAMA' Rare Japanese Maple Zones 5-9 'Hinata yama' was a tree introduced into the trade in 1923 by Tozuka Momiji En nursery in Japan. It earns its name \"sunny mountain\" from the first flush of spring, when its leaves emerge in deep crimson with a warm, coppery undertone. As the season progresses into summer, the foliage softens to rich green. Fall color showing a saturated crimson that rivals anything in the landscape. A member of the amoenum group, 'Hinata yama' carries the broader, deeply lobed leaves characteristic of its lineage. Reaching around 10 feet in 10 years, making it a well-suited specimen for smaller gardens. Best sited in partial shade, though it can handle some sun. Give it good drainage, keep it protected from harsh winds, and it will reward you with three seasons of genuine color.",
+        "image_count": 1,
+        "match_method": "collection_products_json",
+        "match_score": 1240,
+        "images": {
+          "downloaded_count": 1,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-hinata-yama-japanese-maple/01-2C6F6357-3BAA-4296-B418-4ADE1937E48F.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/2C6F6357-3BAA-4296-B418-4ADE1937E48F.jpg?v=1773267702",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-hinata-yama-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-hinata-yama-japanese-maple/01-2C6F6357-3BAA-4296-B418-4ADE1937E48F.webp",
+              "content_type": "image/webp",
+              "bytes": 127782,
+              "downloaded_at": "2026-08-08T01:53:13.644Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

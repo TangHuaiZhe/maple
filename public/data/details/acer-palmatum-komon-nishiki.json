@@ -20,15 +20,21 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-komon-nishiki-japanese-maple/01-Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061038.webp",
+      "/mrmaple-images/buy-acer-palmatum-komon-nishiki-japanese-maple/02-Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061042.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-komon-nishiki-japanese-maple/02-Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061042.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-komon-nishiki-japanese-maple/02-Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061042.webp",
+      "/mrmaple-images/buy-acer-palmatum-komon-nishiki-japanese-maple/01-Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061038.webp"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -117,5 +123,59 @@
   "descriptions_zh": {
     "preferred": "这一斑叶类型的叶片为五裂或七裂，长约 3-5 厘米，宽约 4-5 厘米。 着生于老枝上的叶片往往更小。 裂片在超过叶基三分之二处相连，呈卵状渐尖形，在下部三分之一处最宽，随后逐渐收尖。 叶缘具锯齿。 叶柄短、细、浅绿色，长 1-2 厘米。 叶片底色为明亮的浅绿色，但春季新叶边缘带玫瑰色晕染，并几乎渐晕至裂片中央；有时新叶色调几近粉色。 叶片展开后，会呈现与其名称“锦上的小纹样”相呼应的观赏效果。 秋季叶色转为鲜亮的深红色。 'Komon nishiki' 既不属于大型生长型，也不是极矮生型；若栽植于条件良好的岩石园中，可高达 3 米。 容器栽培时，它可形成叶片细致的小型植株，也适合盆景栽培。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-komon-nishiki-japanese-maple/01-Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061038.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-komon-nishiki-japanese-maple/02-Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061042.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-komon-nishiki-japanese-maple/01-Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061038.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Komon nishiki' Japanese Maple",
+        "handle": "buy-acer-palmatum-komon-nishiki-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-komon-nishiki-japanese-maple",
+        "description_text": "Acer palmatum 'Komon nishiki' Rare Variegated Komon nishiki Japanese Maple Zones 5-9 Not commonly found in the nursery trade, this selection was first mentioned in the 1882 Sekihin Binran list in Japan. In the spring, 'Komon nishiki' leafs out with pink and white sand dusting variegation across the chartreuse green leaves. By late spring the variegation is a creamy white on the darker green leafs. According to Yano's Book for Maples, fall color ranges from orange to red. 'Komon nishiki' may reach 8-10 ft in 15 years. Give morning sun with protection from the hot afternoon sun for best variegation.",
+        "image_count": 2,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 2,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-komon-nishiki-japanese-maple/01-Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061038.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-komon-nishiki-japanese-maple/02-Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061042.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061038.jpg?v=1722573190",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-komon-nishiki-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-komon-nishiki-japanese-maple/01-Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061038.webp",
+              "content_type": "image/webp",
+              "bytes": 48676,
+              "downloaded_at": "2026-08-08T01:53:19.033Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061042.jpg?v=1722573195",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-komon-nishiki-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-komon-nishiki-japanese-maple/02-Acer_palmatum_Komon_nishiki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2061042.webp",
+              "content_type": "image/webp",
+              "bytes": 188436,
+              "downloaded_at": "2026-08-08T01:53:20.098Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

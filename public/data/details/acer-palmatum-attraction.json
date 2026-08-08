@@ -20,15 +20,41 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/01-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043419.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/02-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043424.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/03-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043431.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/04-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043435.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/05-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043438.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/06-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043443.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/07-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043452.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/08-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043457.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/09-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043463.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/10-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043468.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/11-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043474.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/12-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043479.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/09-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043463.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/09-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043463.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/01-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043419.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/02-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043424.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/03-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043431.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/04-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043435.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/05-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043438.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/06-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043443.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/07-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043452.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/08-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043457.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/10-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043468.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/11-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043474.webp",
+      "/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/12-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043479.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -104,7 +130,200 @@
   "descriptions_zh": {
     "preferred": "该品种于 1970 年自日本引入荷兰，数年后又由 Maplewood Nursery 从荷兰引入美国，最初名称为 'Atropurpureum Superbum'。 由于拉丁文与英文混用，根据国际命名规则属于不合法名称，因此后改名为 'Attraction'。 该品种为实生选育品种。 其叶色比一般实生苗更深，且持色性更好。 叶片通常 7 裂，偶有 5 裂，裂片可分离至距叶基约 2 厘米处。 裂片为长卵形，外端渐尖成锐尖。 叶缘内侧约三分之一较平滑，外侧约三分之二则具尖锐且整齐的锯齿。 叶片长 6 至 9 厘米，宽可达 11 厘米。 叶柄坚挺，为红色，长 4-5 厘米。 叶色为深紫红或栗红色，新叶时期色泽最鲜明，入夏后颜色更深。 其叶色虽不及"
   },
-  "has_mrmaple": false,
+  "has_mrmaple": true,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/01-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043419.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/02-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043424.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/03-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043431.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/04-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043435.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/05-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043438.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/06-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043443.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/07-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043452.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/08-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043457.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/09-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043463.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/10-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043468.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/11-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043474.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/12-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043479.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/01-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043419.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Attraction' Superbum Japanese Maple Tree",
+        "handle": "buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+        "description_text": "Acer palmatum 'Attraction' Rare “Superbum” Japanese Maple Zones 5-9 ‘Attraction’ is a bright red Japanese maple in the spring, maturing to deep maroon, then to a scarlet red in the fall. The overall habit is upright with a nice irregular symmetric form. According to Vertrees 4th edition, ‘Attraction’ is said to have been imported from Japan to the Netherlands in the 1970’s, eventually making its way to the United States via J. D. Vertrees himself. Since the imported name of “Atropurpureum Superbum” seemed silly as it was Latin for “a fabulous red form”, some began calling this tree ‘Superbum’, while others chose the name ‘Attraction’. Today you may find this tree under either name. This tree will grow to 12-15 ft within 15 years.",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/01-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043419.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/02-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043424.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/03-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043431.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/04-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043435.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/05-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043438.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/06-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043443.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/07-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043452.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/08-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043457.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/09-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043463.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/10-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043468.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/11-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043474.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/12-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043479.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043419.jpg?v=1722547061",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/01-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043419.webp",
+              "content_type": "image/webp",
+              "bytes": 228430,
+              "downloaded_at": "2026-08-08T01:52:42.773Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043424.jpg?v=1722547069",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/02-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043424.webp",
+              "content_type": "image/webp",
+              "bytes": 307286,
+              "downloaded_at": "2026-08-08T01:52:43.274Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043431.jpg?v=1722547075",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/03-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043431.webp",
+              "content_type": "image/webp",
+              "bytes": 106706,
+              "downloaded_at": "2026-08-08T01:52:43.899Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043435.jpg?v=1722547081",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/04-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043435.webp",
+              "content_type": "image/webp",
+              "bytes": 208774,
+              "downloaded_at": "2026-08-08T01:52:44.940Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043438.jpg?v=1722547087",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/05-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043438.webp",
+              "content_type": "image/webp",
+              "bytes": 318620,
+              "downloaded_at": "2026-08-08T01:52:46.314Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043443.jpg?v=1722547095",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/06-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043443.webp",
+              "content_type": "image/webp",
+              "bytes": 105410,
+              "downloaded_at": "2026-08-08T01:52:47.359Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043452.jpg?v=1722547104",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/07-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043452.webp",
+              "content_type": "image/webp",
+              "bytes": 125752,
+              "downloaded_at": "2026-08-08T01:52:48.391Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043457.jpg?v=1722547113",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/08-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043457.webp",
+              "content_type": "image/webp",
+              "bytes": 126326,
+              "downloaded_at": "2026-08-08T01:52:49.274Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043463.jpg?v=1722547120",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/09-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043463.webp",
+              "content_type": "image/webp",
+              "bytes": 223448,
+              "downloaded_at": "2026-08-08T01:52:50.532Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043468.jpg?v=1722547126",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/10-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043468.webp",
+              "content_type": "image/webp",
+              "bytes": 89180,
+              "downloaded_at": "2026-08-08T01:52:51.283Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043474.jpg?v=1722547132",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/11-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043474.webp",
+              "content_type": "image/webp",
+              "bytes": 99320,
+              "downloaded_at": "2026-08-08T01:52:52.046Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043479.jpg?v=1722547139",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-superbum-attraction-japanese-maple-tree",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-superbum-attraction-japanese-maple-tree/12-Acer_palmatum_Attraction_Superbum_Japanese_Maple_Tree_-_Mr_Maple_Buy_Japanese_Maple_Trees-2043479.webp",
+              "content_type": "image/webp",
+              "bytes": 98366,
+              "downloaded_at": "2026-08-08T01:52:52.796Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

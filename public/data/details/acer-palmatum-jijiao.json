@@ -16,15 +16,41 @@
   "images": {
     "count": 6,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/01-JiJiao_-02262025-09.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/02-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058919.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/03-JiJao_-090424-1.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/04-JiJiao_-02262025-08.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/05-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058922.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/06-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058925.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/07-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058928.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/08-JiJao_-090424-3.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/09-JiJiao_-02262025-06.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/10-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058933.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/11-JiJiao_-02262025-07.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/12-JiJao_-090424-4.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/10-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058933.webp",
+    "public_paths": [
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/10-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058933.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/01-JiJiao_-02262025-09.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/02-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058919.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/03-JiJao_-090424-1.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/04-JiJiao_-02262025-08.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/05-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058922.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/06-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058925.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/07-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058928.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/08-JiJao_-090424-3.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/09-JiJiao_-02262025-06.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/11-JiJiao_-02262025-07.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/12-JiJao_-090424-4.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -61,5 +87,199 @@
   "descriptions_zh": {
     "preferred": "鸡脚是一款较新的 观枝品种， 叶子在阳光下呈深绿色，而树皮则呈亮橙色至黄橙色。 在遮阴的情况下，树皮颜色可能会更黄。 秋天树杆的颜色是橙色到深红色。 特殊的橙色树皮使得鸡脚成为冬季花园中一抹漂亮的景观，也是珊瑚树皮枫树的绝佳搭档。 鸡脚属于观枝品种中抗性表现最好的 ， 成年树高 约为 2 到 3 米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 2,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/01-JiJiao_-02262025-09.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/02-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058919.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/03-JiJao_-090424-1.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/04-JiJiao_-02262025-08.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/05-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058922.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/06-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058925.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/07-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058928.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/08-JiJao_-090424-3.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/09-JiJiao_-02262025-06.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/10-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058933.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/11-JiJiao_-02262025-07.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/12-JiJao_-090424-4.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/01-JiJiao_-02262025-09.webp",
+    "products": [
+      {
+        "title": "FOR PICKUP ONLY | Acer palmatum 'Ji jiao' Orange Coral Bark Japanese Maple | DOES NOT SHIP",
+        "handle": "for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+        "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+        "description_text": "Acer palmatum 'Ji jiao' Rare Orange Coral Bark Winter Interest Japanese Maple Zones 6-9 'Ji jiao' is a new orange bark selection of Japanese maple. The foliage is a dark green in the sun while the bark is a bright orange to yellow-orange. In shade conditions, the bark may be more yellow. The fall color is a bright orange to crimson red. 'Ji jiao' is said to be a newer introduction that is said to be recently imported from China. While 'Ji jiao' is fairly new, we expect it to reach 8-10 ft in 10 years.",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1332,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/01-JiJiao_-02262025-09.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/02-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058919.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/03-JiJao_-090424-1.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/04-JiJiao_-02262025-08.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/05-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058922.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/06-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058925.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/07-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058928.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/08-JiJao_-090424-3.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/09-JiJiao_-02262025-06.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/10-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058933.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/11-JiJiao_-02262025-07.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/12-JiJao_-090424-4.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/JiJiao_-02262025-09.jpg?v=1751937067",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/01-JiJiao_-02262025-09.webp",
+              "content_type": "image/webp",
+              "bytes": 120570,
+              "downloaded_at": "2026-08-08T01:47:46.934Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058919.jpg?v=1751937068",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/02-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058919.webp",
+              "content_type": "image/webp",
+              "bytes": 49492,
+              "downloaded_at": "2026-08-08T01:47:47.422Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/JiJao_-090424-1.jpg?v=1751937068",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/03-JiJao_-090424-1.webp",
+              "content_type": "image/webp",
+              "bytes": 152272,
+              "downloaded_at": "2026-08-08T01:47:48.412Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/JiJiao_-02262025-08.jpg?v=1751937068",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/04-JiJiao_-02262025-08.webp",
+              "content_type": "image/webp",
+              "bytes": 130540,
+              "downloaded_at": "2026-08-08T01:47:49.558Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058922.jpg?v=1751937068",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/05-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058922.webp",
+              "content_type": "image/webp",
+              "bytes": 93404,
+              "downloaded_at": "2026-08-08T01:47:50.132Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058925.jpg?v=1751937068",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/06-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058925.webp",
+              "content_type": "image/webp",
+              "bytes": 217958,
+              "downloaded_at": "2026-08-08T01:47:51.256Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058928.jpg?v=1751937068",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/07-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058928.webp",
+              "content_type": "image/webp",
+              "bytes": 68822,
+              "downloaded_at": "2026-08-08T01:47:51.751Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/JiJao_-090424-3.jpg?v=1751937068",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/08-JiJao_-090424-3.webp",
+              "content_type": "image/webp",
+              "bytes": 162476,
+              "downloaded_at": "2026-08-08T01:47:52.739Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/JiJiao_-02262025-06.jpg?v=1751937068",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/09-JiJiao_-02262025-06.webp",
+              "content_type": "image/webp",
+              "bytes": 188678,
+              "downloaded_at": "2026-08-08T01:47:53.830Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058933.jpg?v=1751937068",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/10-Acer_palmatum_Ji_jiao_Orange_Coral_Bark_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2058933.webp",
+              "content_type": "image/webp",
+              "bytes": 315832,
+              "downloaded_at": "2026-08-08T01:47:54.881Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/JiJiao_-02262025-07.jpg?v=1751937068",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/11-JiJiao_-02262025-07.webp",
+              "content_type": "image/webp",
+              "bytes": 123574,
+              "downloaded_at": "2026-08-08T01:47:55.941Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/JiJao_-090424-4.jpg?v=1751937067",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-ji-jiao-orange-coral-bark-japanese-maple-does-not-ship/12-JiJao_-090424-4.webp",
+              "content_type": "image/webp",
+              "bytes": 219084,
+              "downloaded_at": "2026-08-08T01:47:56.975Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

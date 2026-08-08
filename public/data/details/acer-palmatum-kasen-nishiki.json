@@ -20,15 +20,27 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/01-Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059764.webp",
+      "/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/02-kaisen3.webp",
+      "/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/03-kaisen4.webp",
+      "/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/04-Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059767.webp",
+      "/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/05-kaisen2.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/03-kaisen4.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/03-kaisen4.webp",
+      "/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/01-Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059764.webp",
+      "/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/02-kaisen3.webp",
+      "/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/04-Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059767.webp",
+      "/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/05-kaisen2.webp"
+    ],
+    "public_count": 5
   },
   "sources": [
     {
@@ -94,7 +106,102 @@
   "descriptions_zh": {
     "preferred": "春季新叶常呈令人惊喜的粉红偏红或浅橙红色，随后很快成熟为带斑锦的绿色。 其斑锦较为含蓄，不像 'Oridono nishiki' 那样鲜亮张扬。 许多叶片上分布着不规则且无固定模式的白色或奶油色区块，这些部位通常呈镰刀形。 大多数叶片带有很浅的、近粉彩感的色彩晕染。 白色、奶油色，偶尔略带白绿色的细点和斑驳共同构成其斑锦。 整体色调非常柔和，均匀过渡于整株叶丛之中，与大多数斑叶品种明显不同。 中等大小的叶片最长约 5 厘米、最宽约 6 厘米；偶尔在秋季强旺新梢上会抽生更大的叶片。 大多数叶片着生于较短枝条上。 该品种耐寒性好，很值得在园林景观中占有一席之地。 它也曾以 'Hana izumi nishiki' 之名流传。"
   },
-  "has_mrmaple": false,
+  "has_mrmaple": true,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/01-Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059764.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/02-kaisen3.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/03-kaisen4.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/04-Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059767.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/05-kaisen2.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/01-Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059764.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Kasen nishiki' Variegated Japanese Maple",
+        "handle": "buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple",
+        "description_text": "Acer palmatum 'Kasen nishiki' Rare Pink Variegated Kasen nishiki Japanese Maple Zones 5-9 Acer palmatum 'Kasen nishiki' is white streaks of variegation on green leaves with a milky white pastel variegation throughout the leaf. The variegation on 'Kasen nishiki' is one of the milkiest variegations of any Japanese maple. Each leaf is variegated differently and is quite unique. Fall color on 'Kasen nishiki' can range from yellow to red. 'Kasen nishiki' may reach 8-10 ft in height in 10 years.",
+        "image_count": 5,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 5,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/01-Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059764.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/02-kaisen3.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/03-kaisen4.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/04-Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059767.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/05-kaisen2.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059764.jpg?v=1722570615",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/01-Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059764.webp",
+              "content_type": "image/webp",
+              "bytes": 84522,
+              "downloaded_at": "2026-08-08T01:53:15.284Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/kaisen3.jpg?v=1758557884",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/02-kaisen3.webp",
+              "content_type": "image/webp",
+              "bytes": 67824,
+              "downloaded_at": "2026-08-08T01:53:15.787Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/kaisen4.jpg?v=1758557884",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/03-kaisen4.webp",
+              "content_type": "image/webp",
+              "bytes": 140254,
+              "downloaded_at": "2026-08-08T01:53:16.589Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059767.jpg?v=1758557884",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/04-Acer_palmatum_Kasen_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2059767.webp",
+              "content_type": "image/webp",
+              "bytes": 120260,
+              "downloaded_at": "2026-08-08T01:53:17.191Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/kaisen2.jpg?v=1758557884",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-kasen-nishiki-variegated-japanese-maple/05-kaisen2.webp",
+              "content_type": "image/webp",
+              "bytes": 79208,
+              "downloaded_at": "2026-08-08T01:53:17.703Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

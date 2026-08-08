@@ -20,15 +20,23 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/01-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064411.webp",
+      "/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/02-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064413.webp",
+      "/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/03-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064420.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/02-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064413.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/02-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064413.webp",
+      "/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/01-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064411.webp",
+      "/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/03-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064420.webp"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -89,7 +97,74 @@
   "descriptions_zh": {
     "preferred": "这个半矮生、小叶型的 Acer palmatum 源自一株偶然实生苗，由宾夕法尼亚州 Media 的 Red Maple Nursery 的 Richard P. Wolff 选育并命名。 他最初将其命名为 'Tiny Leaf'，多年后改名为 'Mini Mondo'，意为“小世界”。 改名可能是因为另有一个名为 'Tiny Leaf' 的不同品种，其叶形与 'Ogi nagashi' 较为相似，而这一后者的来源尚未查明。 该品种叶片微小，为绿色，五至七裂，长宽约 2 至 3 厘米，秋季转深红色。 叶形与矮生品种 'Hanami nishiki' 相似，但植株高度约为其两倍，10 年可长至 2 米，形成紧凑而直立的小型灌木。 后文另混入了其他品种信息：叶片至初夏转橄榄绿，晚夏至初秋呈古铜绿色，叶背较浅；秋色为橙黄色。 当年生枝夏季大部分时间覆有灰白色粉霜。 叶大，七至九裂，长 7 至 10 厘米、宽 7. 5 至 11 厘米；裂片深裂超过叶基的三分之二，呈卵形，先端具尾状尖头，叶缘具明显、尖锐且略呈钩状的锯齿。 两枚基部小裂片与叶柄几近成直角。 叶柄坚硬，长 3 至 4 厘米。 该品种生长势强，姿态直立，成熟时高可达 8 米，冠幅近似。 它于 1980 年代中期在荷兰 Boskoop 的 Firma C. Esveld 一批实生苗中被发现，并以 D. M. van Gelderen 的一位外孙女命名。"
   },
-  "has_mrmaple": false,
+  "has_mrmaple": true,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/01-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064411.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/02-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064413.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/03-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064420.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/01-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064411.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Mini Mondo' Dwarf Japanese Maple",
+        "handle": "buy-acer-palmatum-mini-mondo-dwarf-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple",
+        "description_text": "Acer palmatum 'Mini Mondo' 'Mini Mondo' Dwarf Japanese Maple Zones 5-9 'Mini Mondo' is a dwarf selection which has tiny leaves. According to Vertrees, 'Mini Mondo' was even originally named \"Tiny Leaf\" by Dick Wolff of Red Maple Nursery. 'Mini Mondo' may reach 4-5 ft in height by 5-6 ft in width in 10 years. Fall color is a bright orange to red. The name 'Mini Mondo' means \"small world\". Main photo by Ed Shinn. Used with permission.",
+        "image_count": 3,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 3,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/01-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064411.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/02-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064413.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/03-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064420.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064411.jpg?v=1722580311",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/01-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064411.webp",
+              "content_type": "image/webp",
+              "bytes": 177158,
+              "downloaded_at": "2026-08-08T01:54:34.130Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064413.jpg?v=1722580355",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/02-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064413.webp",
+              "content_type": "image/webp",
+              "bytes": 600068,
+              "downloaded_at": "2026-08-08T01:54:36.098Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064420.jpg?v=1722580362",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mini-mondo-dwarf-japanese-maple/03-Acer_palmatum_Mini_Mondo_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064420.webp",
+              "content_type": "image/webp",
+              "bytes": 267598,
+              "downloaded_at": "2026-08-08T01:54:37.270Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

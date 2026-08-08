@@ -16,15 +16,23 @@
   "images": {
     "count": 8,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/01-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072806.webp",
+      "/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/02-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072808.webp",
+      "/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/03-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072811.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/03-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072811.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/03-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072811.webp",
+      "/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/01-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072806.webp",
+      "/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/02-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072808.webp"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -123,5 +131,73 @@
   "descriptions_zh": {
     "preferred": "'Leopoldii' 是一款属于欧亚槭的锦叶枫树品种，可以耐寒零下30多度。 春天的新叶是奶油粉色，随着叶片成熟，会变成绿色带有黄色和粉红色的斑点。 后期会变成绿色混着奶油白，它的叶子非常独特，因为没有两片叶子看起来完全相同。 秋天的颜色从亮黄色到橙色。 成年树高可达8米多。 夏季需要及时遮阴。 它是以 Leopold 国王的名字命名，属于 RHS 获奖品种，叶色华丽。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/01-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072806.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/02-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072808.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/03-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072811.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/01-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072806.webp",
+    "products": [
+      {
+        "title": "Acer pseudoplatanus 'Leopoldii' Rare Variegated Sycamore Maple",
+        "handle": "buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple",
+        "description_text": "Acer pseudoplatanus 'Leopoldii' Rare Variegated Leopoldii Sycamore Maple Zones 5-8 'Leopoldii' is gorgeous large variegated upright Sycamore maple. It is one of the largest growing variegated Acer pseudoplatanus. It leafs out with bright pink variegation uniquely splotched over the green leaf. As this leaf matures, the variegation develops into a creamy yellow eventually to a white by mid-summer. 'Leopoldii' will reach 25ft tall by 25ft wide in 25 years. For best coloration give 'Leopoldii' protection from the hot afternoon sun. Fall colors bright yellows to oranges.",
+        "image_count": 3,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 3,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/01-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072806.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/02-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072808.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/03-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072811.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072806.jpg?v=1722612925",
+              "product_url": "https://mrmaple.com/products/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/01-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072806.webp",
+              "content_type": "image/webp",
+              "bytes": 172168,
+              "downloaded_at": "2026-08-08T01:53:43.315Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072808.jpg?v=1722612933",
+              "product_url": "https://mrmaple.com/products/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/02-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072808.webp",
+              "content_type": "image/webp",
+              "bytes": 139000,
+              "downloaded_at": "2026-08-08T01:53:44.123Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072811.jpg?v=1722612940",
+              "product_url": "https://mrmaple.com/products/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-pseudoplatanus-leopoldii-rare-variegated-sycamore-maple/03-Acer_pseudoplatanus_Leopoldii_Rare_Variegated_Sycamore_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072811.webp",
+              "content_type": "image/webp",
+              "bytes": 173276,
+              "downloaded_at": "2026-08-08T01:53:45.116Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

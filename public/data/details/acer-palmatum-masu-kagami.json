@@ -20,15 +20,41 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/01-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063767.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/02-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063770.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/03-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063775.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/04-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063778.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/05-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063781.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/06-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063784.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/07-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063787.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/08-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063789.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/09-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063792.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/10-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063796.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/11-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063798.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/12-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063800.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/07-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063787.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/07-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063787.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/01-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063767.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/02-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063770.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/03-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063775.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/04-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063778.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/05-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063781.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/06-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063784.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/08-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063789.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/09-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063792.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/10-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063796.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/11-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063798.webp",
+      "/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/12-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063800.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -140,5 +166,199 @@
   "descriptions_zh": {
     "preferred": "在细腻斑锦类槭树中，'Masu kagami' 是最有趣的品种之一。 其叶片较大，具五至七裂，裂片分离开张且较深。 每个裂片呈长卵形，先端延伸成极尖的尖头，叶缘具明显锯齿。 早春叶色为深红色，偶尔带有明显粉红调。 随后这些颜色会减淡，但至晚春叶缘仍保留红色调。 夏季叶片转绿，但常因白色与黄色极细密的斑点而显得近乎灰白绿色，这些细点常融合成较完整的浅色斑块。 该品种在有轻度遮阴保护的环境下表现最佳。 植株耐寒，生长势中等，最终形成高大灌木，高约 13 英尺（4 米）。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/01-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063767.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/02-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063770.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/03-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063775.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/04-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063778.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/05-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063781.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/06-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063784.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/07-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063787.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/08-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063789.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/09-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063792.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/10-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063796.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/11-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063798.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/12-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063800.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/01-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063767.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Masu kagami' Rare Japanese Maple",
+        "handle": "buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+        "description_text": "Acer palmatum 'Masu kagami' Rare Japanese Maple Zones 5-9 'Masu kagami' leafs out in the spring as a bright salmon to pink-red. The leaves of this Japanese maple are tightly layered on the branching creating a very full look. By early summer it fades chartreuse green before the secondary flush of new growth returns as a pink-red. Fall colors are bright crimsons to rich scarlets. This Japanese maple selection can reach 12 ft in height in 20 years. The name 'Masu kagami' translates as \"mirror of the drinking glass\".",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/01-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063767.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/02-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063770.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/03-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063775.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/04-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063778.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/05-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063781.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/06-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063784.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/07-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063787.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/08-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063789.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/09-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063792.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/10-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063796.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/11-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063798.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/12-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063800.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063767.jpg?v=1753924124",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/01-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063767.webp",
+              "content_type": "image/webp",
+              "bytes": 73732,
+              "downloaded_at": "2026-08-08T01:53:56.243Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063770.jpg?v=1753924124",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/02-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063770.webp",
+              "content_type": "image/webp",
+              "bytes": 62104,
+              "downloaded_at": "2026-08-08T01:53:56.758Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063775.jpg?v=1753924124",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/03-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063775.webp",
+              "content_type": "image/webp",
+              "bytes": 101762,
+              "downloaded_at": "2026-08-08T01:53:57.438Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063778.jpg?v=1753924124",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/04-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063778.webp",
+              "content_type": "image/webp",
+              "bytes": 100594,
+              "downloaded_at": "2026-08-08T01:53:58.228Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063781.jpg?v=1753924124",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/05-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063781.webp",
+              "content_type": "image/webp",
+              "bytes": 24944,
+              "downloaded_at": "2026-08-08T01:53:59.047Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063784.jpg?v=1753924124",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/06-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063784.webp",
+              "content_type": "image/webp",
+              "bytes": 60768,
+              "downloaded_at": "2026-08-08T01:54:00.327Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063787.jpg?v=1753924124",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/07-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063787.webp",
+              "content_type": "image/webp",
+              "bytes": 115862,
+              "downloaded_at": "2026-08-08T01:54:01.946Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063789.jpg?v=1753924124",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/08-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063789.webp",
+              "content_type": "image/webp",
+              "bytes": 115692,
+              "downloaded_at": "2026-08-08T01:54:03.133Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063792.jpg?v=1753924124",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/09-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063792.webp",
+              "content_type": "image/webp",
+              "bytes": 81464,
+              "downloaded_at": "2026-08-08T01:54:03.981Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063796.jpg?v=1753924124",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/10-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063796.webp",
+              "content_type": "image/webp",
+              "bytes": 87162,
+              "downloaded_at": "2026-08-08T01:54:04.940Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063798.jpg?v=1753924124",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/11-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063798.webp",
+              "content_type": "image/webp",
+              "bytes": 69666,
+              "downloaded_at": "2026-08-08T01:54:05.728Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063800.jpg?v=1753924124",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-kagami-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-kagami-rare-japanese-maple/12-Acer_palmatum_Masu_kagami_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063800.webp",
+              "content_type": "image/webp",
+              "bytes": 73960,
+              "downloaded_at": "2026-08-08T01:54:06.565Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

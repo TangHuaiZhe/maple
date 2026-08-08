@@ -20,15 +20,19 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-sanguineum-japanese-maple/01-Acer_palmatum_Sanguineum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068395.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-sanguineum-japanese-maple/01-Acer_palmatum_Sanguineum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068395.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-sanguineum-japanese-maple/01-Acer_palmatum_Sanguineum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068395.webp"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -115,5 +119,45 @@
   "descriptions_zh": {
     "preferred": "在命名史上，不同作者对这一名称的使用极为混乱，其正确用法已难以厘清。 它主要曾被用于指称 Acer palmatum f. purpureum 的一个选株，其春叶为血红色或橙红色，而非较深的暗红或栗红色调。 Charles Lemaire 于 1867 年将其描述为“血红色选株”后，一些商业苗圃显然繁殖了不同类型，因此在各收藏中可见以 'Sanguineum' 为名的不同变异。 故此名称现已不宜继续使用，尤其是在已有多个优良红叶掌状槭品种可供选择的情况下。 该品种还曾以 'Latifolium Purpureum'、'Rubro-latifolium' 和 'Septemlobum Sanguineum' 之名流通。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-sanguineum-japanese-maple/01-Acer_palmatum_Sanguineum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068395.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-sanguineum-japanese-maple/01-Acer_palmatum_Sanguineum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068395.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Sanguineum' Japanese Maple",
+        "handle": "buy-acer-palmatum-sanguineum-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-sanguineum-japanese-maple",
+        "description_text": "Acer palmatum 'Sanguineum' Sanguineum Japanese Maple Zones 5-9 'Sanguineum' leafs out in the early spring as a bright orange-red on medium-sized rounded leaves. This Japanese maple is quite different, as most upright reds leaf out as a deeper maroon. As the summer approaches shades of chartreuse green begin to show up through a deeper red leaf. Fall colors are bright oranges to intense reds.",
+        "image_count": 1,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 1,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-sanguineum-japanese-maple/01-Acer_palmatum_Sanguineum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068395.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Sanguineum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068395.jpg?v=1722595984",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-sanguineum-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-sanguineum-japanese-maple/01-Acer_palmatum_Sanguineum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068395.webp",
+              "content_type": "image/webp",
+              "bytes": 246170,
+              "downloaded_at": "2026-08-08T01:55:50.213Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

@@ -20,15 +20,25 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/01-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052698.webp",
+      "/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/02-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052702.webp",
+      "/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/03-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052707.webp",
+      "/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/04-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052712.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/04-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052712.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/04-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052712.webp",
+      "/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/01-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052698.webp",
+      "/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/02-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052702.webp",
+      "/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/03-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052707.webp"
+    ],
+    "public_count": 4
   },
   "sources": [
     {
@@ -118,5 +128,87 @@
   "descriptions_zh": {
     "preferred": "这个出色的红叶 Dissectum 类型有两个不寻常的特征。 第一，叶片会沿枝条间隔性簇生，使带黄色调的新叶看起来像刷子的尖端。 第二，7 裂的深裂红叶分为两种类型。 一种裂片在叶基附近收窄，宽度几乎只略宽于中脉，且裂片本身进一步深裂；另一种裂片较宽，次级裂刻浅得多，有时几乎只是较大的齿，裂片长 7-9 厘米、宽 1-1. 5 厘米。 叶缘具粗大而尖锐的重锯齿。 较宽裂片的叶片在季节后期形成。 黄色幼叶簇与较深的古铜绿色老叶形成宜人的综合色效果。 ‘Felice’ 成熟后形成浓密的圆丘状株形，估计高和幅均约 3 米。 它来源于一株偶然出现的实生苗，由荷兰 Boskoop 的 Firma C. Esveld 命名并引入。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/01-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052698.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/02-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052702.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/03-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052707.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/04-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052712.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/01-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052698.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Felice' Dwarf Weeping Japanese Maple",
+        "handle": "buy-acer-palmatum-felice-dwarf-weeping-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple",
+        "description_text": "Acer palmatum dissectum 'Felice' Fine Laceleaf Dwarf Weeping 'Felice' Japanese Maple Zones 5-9 'Felice' is a slow growing dwarf Japanese maple with deeply cut and wide-lobed leaves. This gives the most ornamental appeal to this rare weeping Japanese maple by Esveld Nursery. 'Felice' may reach 3-4 ft in 10 years.",
+        "image_count": 4,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 4,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/01-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052698.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/02-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052702.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/03-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052707.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/04-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052712.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052698.jpg?v=1722560104",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/01-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052698.webp",
+              "content_type": "image/webp",
+              "bytes": 122958,
+              "downloaded_at": "2026-08-08T01:53:05.196Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052702.jpg?v=1722560110",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/02-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052702.webp",
+              "content_type": "image/webp",
+              "bytes": 170956,
+              "downloaded_at": "2026-08-08T01:53:06.161Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052707.jpg?v=1722560116",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/03-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052707.webp",
+              "content_type": "image/webp",
+              "bytes": 225024,
+              "downloaded_at": "2026-08-08T01:53:07.321Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052712.jpg?v=1722560121",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-felice-dwarf-weeping-japanese-maple/04-Acer_palmatum_Felice_Dwarf_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2052712.webp",
+              "content_type": "image/webp",
+              "bytes": 306786,
+              "downloaded_at": "2026-08-08T01:53:08.833Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

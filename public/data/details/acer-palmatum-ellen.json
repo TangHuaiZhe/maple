@@ -20,15 +20,35 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/01-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050799.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/02-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050805.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/03-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050808.jpg",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/04-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050812.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/05-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050817.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/06-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050821.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/07-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050823.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/08-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050826.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/09-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050830.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/04-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050812.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/04-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050812.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/01-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050799.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/02-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050805.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/03-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050808.jpg",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/05-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050817.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/06-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050821.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/07-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050823.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/08-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050826.webp",
+      "/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/09-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050830.webp"
+    ],
+    "public_count": 9
   },
   "sources": [
     {
@@ -144,6 +164,157 @@
   "descriptions_zh": {
     "preferred": "‘Ellen’ 是一个生长强健、叶色清新的绿色线裂型品种，树形极矮而横向扩展。 10 年生时高约 3 英尺（1 米），冠幅可达 8 英尺（2. 5 米）。 新叶黄绿色，夏季转为中绿色，秋季则变为明亮的黄色。 大型叶片深裂，通常有 7 至 9 裂，裂片大小变化很大；每个裂片本身又具粗而深的锯齿。 叶柄坚挺，基部膨大并略呈钩状。 该品种名称是为荷兰苗圃家 D. M. van Gelderen 的一位儿媳而命名，他即为该品种的选育者。 ‘Emerald Lace’ Acer Gregory。 Dissectum Group—green。 这个有趣的品种比大多数绿色羽裂类日本枫叶色更深，叶姿细致如 lace，且生长迅速。 叶片 5 至 7 裂，春季为黄绿色，至盛夏逐渐加深，秋季转为鲜亮的酒红色。 绿色叶柄细长但坚挺。 ‘Emerald Lace’ 生长势强，形成不规则、半直立而开展的灌木状树形，枝条细长下垂。 最终高度和冠幅可达 10 至 13 英尺（3 至 4 米）。"
   },
-  "has_mrmaple": false,
-  "mrmaple": null
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/01-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050799.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/02-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050805.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/03-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050808.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/04-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050812.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/05-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050817.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/06-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050821.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/07-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050823.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/08-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050826.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/09-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050830.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/01-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050799.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Ellen' Japanese Maple",
+        "handle": "buy-acer-palmatum-dissectum-ellen-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-dissectum-ellen-japanese-maple",
+        "description_text": "Acer palmatum dissectum 'Ellen' Fine Laceleaf Weeping 'Ellen' Japanese Maple Zones 5-9 'Ellen' is a finely dissected green weeping selection with a dwarf spreading habit. The green laceleafs of 'Ellen' are some of the most dissected of any green laceleaf, making this Japanese maple extra showy. 'Ellen' may reach 3-4 ft in height by 7 ft wide in 10 years. Fall color on 'Ellen' is a bright golden yellow.",
+        "image_count": 9,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 9,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/01-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050799.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/02-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050805.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/03-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050808.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/04-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050812.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/05-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050817.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/06-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050821.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/07-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050823.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/08-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050826.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/09-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050830.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050799.jpg?v=1722557544",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-dissectum-ellen-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/01-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050799.webp",
+              "content_type": "image/webp",
+              "bytes": 266072,
+              "downloaded_at": "2026-08-08T01:52:59.656Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050805.jpg?v=1722557548",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-dissectum-ellen-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/02-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050805.webp",
+              "content_type": "image/webp",
+              "bytes": 84014,
+              "downloaded_at": "2026-08-08T01:53:00.048Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050808.jpg?v=1722557553",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-dissectum-ellen-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/03-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050808.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 212322,
+              "downloaded_at": "2026-08-08T01:53:00.416Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050812.jpg?v=1722557561",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-dissectum-ellen-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/04-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050812.webp",
+              "content_type": "image/webp",
+              "bytes": 458266,
+              "downloaded_at": "2026-08-08T01:53:01.601Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050817.jpg?v=1722557565",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-dissectum-ellen-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/05-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050817.webp",
+              "content_type": "image/webp",
+              "bytes": 103536,
+              "downloaded_at": "2026-08-08T01:53:02.327Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050821.jpg?v=1722557569",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-dissectum-ellen-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/06-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050821.webp",
+              "content_type": "image/webp",
+              "bytes": 87322,
+              "downloaded_at": "2026-08-08T01:53:03.040Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050823.jpg?v=1722557573",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-dissectum-ellen-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/07-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050823.webp",
+              "content_type": "image/webp",
+              "bytes": 104108,
+              "downloaded_at": "2026-08-08T01:53:03.695Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050826.jpg?v=1722557577",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-dissectum-ellen-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/08-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050826.webp",
+              "content_type": "image/webp",
+              "bytes": 115456,
+              "downloaded_at": "2026-08-08T01:53:04.233Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050830.jpg?v=1722557581",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-dissectum-ellen-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-ellen-japanese-maple/09-Acer_palmatum_Ellen_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2050830.webp",
+              "content_type": "image/webp",
+              "bytes": 102342,
+              "downloaded_at": "2026-08-08T01:53:04.809Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

@@ -20,15 +20,39 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/01-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069364.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/02-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069365.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/03-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069366.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/04-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069367.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/05-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069368.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/06-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069369.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/07-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069370.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/08-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069371.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/09-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069372.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/10-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069373.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/11-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069374.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/01-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069364.webp",
+    "public_paths": [
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/01-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069364.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/02-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069365.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/03-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069366.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/04-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069367.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/05-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069368.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/06-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069369.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/07-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069370.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/08-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069371.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/09-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069372.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/10-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069373.webp",
+      "/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/11-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069374.webp"
+    ],
+    "public_count": 11
   },
   "sources": [
     {
@@ -92,7 +116,186 @@
   "descriptions_zh": {
     "preferred": "该品种是叶幕浓密的优良矮生灌木之一。 5 枚裂片向外放射，分离至近截形叶基约一半处。 与某些其他相似矮生品种相比，其裂片放射状不那么强烈，不呈特别明显的星形展开。 叶色为良好的深绿色，整个生长季保持稳定，似乎也不太容易发生日灼。 秋色主要为黄色系。 ‘Shishi yatsubusa’ 生长强健但较短粗，随着树龄增长会形成棱角分明的枝干结构。 据称它很受盆景爱好者欢迎，且较易栽培。 不过，由于其年生长量有限，可供繁殖的枝条一直不多，这也在情理之中。 其名称意为“小狮子”或“幼狮”。 该品种还曾以 ‘Chishi yatsubusa’ 和 ‘Dwarf Shishi’ 的名称流传。"
   },
-  "has_mrmaple": false,
+  "has_mrmaple": true,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/01-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069364.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/02-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069365.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/03-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069366.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/04-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069367.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/05-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069368.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/06-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069369.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/07-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069370.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/08-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069371.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/09-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069372.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/10-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069373.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/11-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069374.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/01-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069364.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Shishi yatsubusa' Rare Japanese Maple",
+        "handle": "acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+        "product_url": "https://mrmaple.com/products/acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+        "description_text": "Acer palmatum 'Shishi yatsubusa' Rare Japanese Maple Zones 5 - 9 'Shishi yatsubusa’ is a unique compact dwarf Japanese in the famous Mikawa Family Collection. While this selection is extremely rare, it is heavily desired. The foliage is green and is simliar to 'Mikawa yatsubusa' but cups slightly upward adding a unique texture with the tightly layering and shingling habit that makes trees in the family so popular. Fall color on 'Shishi yatsubusa' can range from orange to red. 'Shishi yatsubusa' may reach 3-4 ft in height and width in 10 years. This small dwarf maple is sure to be an eye-catching addition to your landscape.",
+        "image_count": 11,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 11,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/01-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069364.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/02-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069365.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/03-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069366.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/04-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069367.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/05-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069368.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/06-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069369.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/07-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069370.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/08-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069371.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/09-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069372.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/10-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069373.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/11-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069374.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069364.jpg?v=1722599419",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/01-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069364.webp",
+              "content_type": "image/webp",
+              "bytes": 168616,
+              "downloaded_at": "2026-08-08T01:56:15.771Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069365.jpg?v=1722599425",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/02-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069365.webp",
+              "content_type": "image/webp",
+              "bytes": 87540,
+              "downloaded_at": "2026-08-08T01:56:16.717Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069366.jpg?v=1722599430",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/03-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069366.webp",
+              "content_type": "image/webp",
+              "bytes": 152408,
+              "downloaded_at": "2026-08-08T01:56:17.496Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069367.jpg?v=1722599436",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/04-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069367.webp",
+              "content_type": "image/webp",
+              "bytes": 72484,
+              "downloaded_at": "2026-08-08T01:56:18.363Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069368.jpg?v=1722599442",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/05-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069368.webp",
+              "content_type": "image/webp",
+              "bytes": 59120,
+              "downloaded_at": "2026-08-08T01:56:18.989Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069369.jpg?v=1722599448",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/06-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069369.webp",
+              "content_type": "image/webp",
+              "bytes": 77068,
+              "downloaded_at": "2026-08-08T01:56:19.736Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069370.jpg?v=1722599453",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/07-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069370.webp",
+              "content_type": "image/webp",
+              "bytes": 115636,
+              "downloaded_at": "2026-08-08T01:56:20.406Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069371.jpg?v=1722599458",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/08-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069371.webp",
+              "content_type": "image/webp",
+              "bytes": 73718,
+              "downloaded_at": "2026-08-08T01:56:20.986Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069372.jpg?v=1722599463",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/09-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069372.webp",
+              "content_type": "image/webp",
+              "bytes": 116320,
+              "downloaded_at": "2026-08-08T01:56:22.008Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069373.jpg?v=1722599467",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/10-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069373.webp",
+              "content_type": "image/webp",
+              "bytes": 116832,
+              "downloaded_at": "2026-08-08T01:56:22.723Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069374.jpg?v=1722599472",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shishi-yatsubusa-rare-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shishi-yatsubusa-rare-japanese-maple/11-Acer_palmatum_Shishi_yatsubusa_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069374.webp",
+              "content_type": "image/webp",
+              "bytes": 98630,
+              "downloaded_at": "2026-08-08T01:56:23.385Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

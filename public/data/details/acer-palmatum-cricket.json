@@ -16,15 +16,41 @@
   "images": {
     "count": 5,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/01-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048567.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/02-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048573.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/03-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048576.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/04-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048581.jpg",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/05-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048586.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/06-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048591.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/07-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048594.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/08-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048598.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/09-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048602.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/10-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048605.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/11-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048608.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/12-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048611.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/04-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048581.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/04-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048581.jpg",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/01-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048567.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/02-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048573.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/03-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048576.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/05-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048586.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/06-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048591.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/07-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048594.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/08-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048598.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/09-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048602.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/10-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048605.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/11-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048608.webp",
+      "/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/12-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048611.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -61,5 +87,199 @@
   "descriptions_zh": {
     "preferred": "Acer Palmatum 'Cricket'蝈蝈是一种窄冠幅直立生长的品种，它是由ElizabethMundy在Acer Palmatum'Fireglow'火焰发现的枝变品种。 在春天，叶子呈鲜红色，到了秋天变成明亮的红色。 成年树高大约在2. 5米-3米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/01-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048567.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/02-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048573.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/03-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048576.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/04-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048581.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/05-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048586.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/06-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048591.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/07-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048594.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/08-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048598.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/09-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048602.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/10-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048605.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/11-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048608.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/12-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048611.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/01-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048567.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Cricket' Narrow Growing Japanese Maple",
+        "handle": "buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+        "description_text": "Acer palmatum 'Cricket' Red Narrow Growing Cricket Japanese Maple Zones 5-9 'Cricket' is narrow growing Japanese maple that was found as a mutation off of the cultivar 'Fireglow' by our good friend, Elizabeth Mundy. This narrow growing Japanese maple has the color everyone loves of",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/01-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048567.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/02-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048573.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/03-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048576.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/04-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048581.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/05-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048586.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/06-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048591.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/07-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048594.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/08-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048598.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/09-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048602.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/10-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048605.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/11-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048608.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/12-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048611.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048567.jpg?v=1722554487",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/01-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048567.webp",
+              "content_type": "image/webp",
+              "bytes": 894748,
+              "downloaded_at": "2026-08-08T01:52:54.189Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048573.jpg?v=1722554492",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/02-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048573.webp",
+              "content_type": "image/webp",
+              "bytes": 204746,
+              "downloaded_at": "2026-08-08T01:52:54.588Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048576.jpg?v=1722554499",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/03-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048576.webp",
+              "content_type": "image/webp",
+              "bytes": 264708,
+              "downloaded_at": "2026-08-08T01:52:55.046Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048581.jpg?v=1722554507",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/04-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048581.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 1265874,
+              "downloaded_at": "2026-08-08T01:52:56.292Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048586.jpg?v=1722554515",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/05-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048586.webp",
+              "content_type": "image/webp",
+              "bytes": 416658,
+              "downloaded_at": "2026-08-08T01:52:56.818Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048591.jpg?v=1722554519",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/06-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048591.webp",
+              "content_type": "image/webp",
+              "bytes": 155970,
+              "downloaded_at": "2026-08-08T01:52:57.143Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048594.jpg?v=1722554524",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/07-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048594.webp",
+              "content_type": "image/webp",
+              "bytes": 313908,
+              "downloaded_at": "2026-08-08T01:52:57.587Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048598.jpg?v=1722554530",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/08-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048598.webp",
+              "content_type": "image/webp",
+              "bytes": 83836,
+              "downloaded_at": "2026-08-08T01:52:57.861Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048602.jpg?v=1722554535",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/09-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048602.webp",
+              "content_type": "image/webp",
+              "bytes": 100938,
+              "downloaded_at": "2026-08-08T01:52:58.375Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048605.jpg?v=1722554539",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/10-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048605.webp",
+              "content_type": "image/webp",
+              "bytes": 100436,
+              "downloaded_at": "2026-08-08T01:52:58.671Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048608.jpg?v=1722554544",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/11-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048608.webp",
+              "content_type": "image/webp",
+              "bytes": 80578,
+              "downloaded_at": "2026-08-08T01:52:58.938Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048611.jpg?v=1722554548",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-cricket-narrow-growing-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-cricket-narrow-growing-japanese-maple/12-Acer_palmatum_Cricket_Narrow_Growing_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2048611.webp",
+              "content_type": "image/webp",
+              "bytes": 90004,
+              "downloaded_at": "2026-08-08T01:52:59.217Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

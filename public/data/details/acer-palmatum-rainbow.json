@@ -16,15 +16,41 @@
   "images": {
     "count": 7,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/01-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066898.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/02-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066899.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/03-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066900.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/04-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066901.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/05-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066902.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/06-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066903.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/07-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066904.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/08-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066905.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/09-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066906.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/10-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066907.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/11-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066908.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/12-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066909.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/08-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066905.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/08-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066905.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/01-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066898.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/02-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066899.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/03-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066900.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/04-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066901.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/05-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066902.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/06-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066903.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/07-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066904.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/09-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066906.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/10-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066907.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/11-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066908.webp",
+      "/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/12-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066909.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -120,5 +146,199 @@
   "descriptions_zh": {
     "preferred": "彩虹 由美国俄勒冈州巴克霍兹苗圃的苗圃主泰隆 ·巴克霍 兹育种并推广 ，一经推出就引起了轰动。 春季明亮的粉红点缀在深红的叶面上，华丽的色彩效果使它成为 枫树 狂热者 的必备品 。 但它也会让无数新枫友伤心落泪，因为它的叶色会逆转，一般可以通过定期修剪没有出锦的枝条进行控制。 夏季温度升高，深红色会转成绿色，粉红色部分逐渐褪成奶白色，午后需要及时遮阴，避免晒焦叶。 秋季深红色。 成年株可达 2 米左右高度 。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/01-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066898.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/02-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066899.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/03-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066900.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/04-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066901.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/05-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066902.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/06-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066903.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/07-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066904.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/08-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066905.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/09-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066906.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/10-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066907.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/11-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066908.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/12-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066909.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/01-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066898.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Rainbow' Pink Variegated Red Japanese Maple",
+        "handle": "buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+        "description_text": "Acer palmatum 'Rainbow' Pink Variegated Red Japanese Maple Zones 5-9 I remember going to Buchholz Nursery for years lusting over this tree. The colors are out of this world! 'Rainbow' leafs out as a brighter red with a reddish pink variegation. The leaf on 'Rainbow' quickly becomes a black red with hot pink variegation. The deeply divided large leaves make an excellent pallet to enjoy such spectacular colors. Avoid fertilizer with this beauty. Any branches not showing pink variegation should be pruned. 'Rainbow' turns to a brighter red in the fall. We expect 'Rainbow' to reach 8 ft in 10 years. Give morning sun with protection from the hot afternoon sun for best display of color.",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/01-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066898.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/02-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066899.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/03-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066900.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/04-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066901.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/05-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066902.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/06-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066903.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/07-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066904.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/08-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066905.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/09-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066906.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/10-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066907.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/11-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066908.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/12-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066909.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066898.jpg?v=1743646752",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/01-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066898.webp",
+              "content_type": "image/webp",
+              "bytes": 78990,
+              "downloaded_at": "2026-08-08T01:55:27.552Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066899.jpg?v=1743646752",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/02-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066899.webp",
+              "content_type": "image/webp",
+              "bytes": 90650,
+              "downloaded_at": "2026-08-08T01:55:28.019Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066900.jpg?v=1743646752",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/03-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066900.webp",
+              "content_type": "image/webp",
+              "bytes": 119952,
+              "downloaded_at": "2026-08-08T01:55:28.987Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066901.jpg?v=1743646752",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/04-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066901.webp",
+              "content_type": "image/webp",
+              "bytes": 127716,
+              "downloaded_at": "2026-08-08T01:55:29.478Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066902.jpg?v=1743646752",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/05-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066902.webp",
+              "content_type": "image/webp",
+              "bytes": 178762,
+              "downloaded_at": "2026-08-08T01:55:30.046Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066903.jpg?v=1743646752",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/06-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066903.webp",
+              "content_type": "image/webp",
+              "bytes": 114062,
+              "downloaded_at": "2026-08-08T01:55:30.506Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066904.jpg?v=1743646752",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/07-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066904.webp",
+              "content_type": "image/webp",
+              "bytes": 245098,
+              "downloaded_at": "2026-08-08T01:55:31.124Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066905.jpg?v=1743646753",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/08-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066905.webp",
+              "content_type": "image/webp",
+              "bytes": 286866,
+              "downloaded_at": "2026-08-08T01:55:32.356Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066906.jpg?v=1743646753",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/09-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066906.webp",
+              "content_type": "image/webp",
+              "bytes": 231538,
+              "downloaded_at": "2026-08-08T01:55:32.894Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066907.jpg?v=1743646753",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/10-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066907.webp",
+              "content_type": "image/webp",
+              "bytes": 196882,
+              "downloaded_at": "2026-08-08T01:55:33.429Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066908.jpg?v=1743646753",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/11-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066908.webp",
+              "content_type": "image/webp",
+              "bytes": 218860,
+              "downloaded_at": "2026-08-08T01:55:34.603Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066909.jpg?v=1743646753",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-rainbow-pink-variegated-red-japanese-maple/12-Acer_palmatum_Rainbow_Pink_Variegated_Red_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2066909.webp",
+              "content_type": "image/webp",
+              "bytes": 249952,
+              "downloaded_at": "2026-08-08T01:55:35.191Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

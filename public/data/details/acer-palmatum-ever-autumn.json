@@ -20,15 +20,41 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/01-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072022.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/02-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072024.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/03-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072026.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/04-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072028.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/05-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072029.jpg",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/06-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072031.jpg",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/07-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072033.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/08-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072035.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/09-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072037.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/10-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072038.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/11-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072041.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/12-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072042.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/05-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072029.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/05-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072029.jpg",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/01-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072022.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/02-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072024.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/03-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072026.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/04-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072028.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/06-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072031.jpg",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/07-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072033.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/08-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072035.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/09-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072037.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/10-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072038.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/11-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072041.webp",
+      "/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/12-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072042.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -89,7 +115,200 @@
   "descriptions_zh": {
     "preferred": "这个强健直立品种最突出的特征，是其在整个生长季中原本浓绿色叶片上呈现出的秋色预演，从金黄色到橙红色，因此得名。 这种色彩最终在秋季发展为极其出色的叶色。 近圆形叶通常具 7 或 9 裂，长宽 8-10 厘米，自叶基向上约三分之二处分裂。 下部裂片平展向侧方伸出，使叶基近乎平直。 各裂片宽卵形，先端具短尾状尖，边缘具粗锯齿。 叶柄长 2-3 厘米。 ‘Ever Autumn’ 于 20 世纪 80 年代中期由俄勒冈州 Canby 的 Terra Nova Nurseries 的 Dan Heims 从自家庭院中的一株实生苗中选育并命名。 其亲本之一可能是 Acer palmatum 栽培品种中的 ‘Omure yama’。"
   },
-  "has_mrmaple": false,
+  "has_mrmaple": true,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/01-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072022.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/02-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072024.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/03-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072026.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/04-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072028.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/05-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072029.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/06-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072031.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/07-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072033.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/08-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072035.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/09-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072037.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/10-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072038.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/11-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072041.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/12-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072042.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/01-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072022.webp",
+    "products": [
+      {
+        "title": "Acer palmatum x circinatum 'Ever Autumn' Japanese Maple",
+        "handle": "buy-acer-palmatum-x-ever-autumn-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+        "description_text": "Acer palmatum x circinatum 'Ever Autumn' Rare Ever Autumn Maple Hybrid Japanese Maple Zones 5-9 Found as a chance seedling on 'Omureyama' by our good friend, Dan Heims of Taranova Nurseries, this 'Ever Autumn' Japanese maple hybrid has a red hue to the green foliage that gives the ever appearance of fall color. We believe this selection to be hybrid with Acer circinatum that is indigenous to the Pacific Northwest, even though 'Ever Autumn' handles full sun in Western North Carolina. We have a beautiful 'Ever Autumn' at our gardens at Maplewood Gardens that is always putting on a show. Fall color is a much brighter orange to red. We expect 'Ever Autumn' to reach 12-15 ft in 10 years. The 'Ever Autumn' available here were grafted directly from the original 'Ever Autumn' at the home of Dan Heims.",
+        "image_count": 12,
+        "match_method": "search_html",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/01-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072022.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/02-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072024.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/03-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072026.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/04-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072028.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/05-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072029.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/06-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072031.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/07-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072033.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/08-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072035.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/09-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072037.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/10-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072038.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/11-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072041.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/12-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072042.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072022.jpg?v=1722610618",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/01-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072022.webp",
+              "content_type": "image/webp",
+              "bytes": 410128,
+              "downloaded_at": "2026-08-08T01:41:16.294Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072024.jpg?v=1722610624",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/02-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072024.webp",
+              "content_type": "image/webp",
+              "bytes": 470694,
+              "downloaded_at": "2026-08-08T01:41:16.721Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072026.jpg?v=1722610628",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/03-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072026.webp",
+              "content_type": "image/webp",
+              "bytes": 43780,
+              "downloaded_at": "2026-08-08T01:41:17.123Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072028.jpg?v=1722610633",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/04-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072028.webp",
+              "content_type": "image/webp",
+              "bytes": 71578,
+              "downloaded_at": "2026-08-08T01:41:17.513Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072029.jpg?v=1722610640",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/05-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072029.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 922618,
+              "downloaded_at": "2026-08-08T01:41:17.916Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072031.jpg?v=1722610645",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/06-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072031.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 102172,
+              "downloaded_at": "2026-08-08T01:41:18.303Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072033.jpg?v=1722610649",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/07-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072033.webp",
+              "content_type": "image/webp",
+              "bytes": 53634,
+              "downloaded_at": "2026-08-08T01:41:18.689Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072035.jpg?v=1722610654",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/08-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072035.webp",
+              "content_type": "image/webp",
+              "bytes": 254460,
+              "downloaded_at": "2026-08-08T01:41:19.081Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072037.jpg?v=1722610659",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/09-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072037.webp",
+              "content_type": "image/webp",
+              "bytes": 73326,
+              "downloaded_at": "2026-08-08T01:41:19.477Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072038.jpg?v=1722610665",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/10-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072038.webp",
+              "content_type": "image/webp",
+              "bytes": 640588,
+              "downloaded_at": "2026-08-08T01:41:19.822Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072041.jpg?v=1722610671",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/11-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072041.webp",
+              "content_type": "image/webp",
+              "bytes": 574682,
+              "downloaded_at": "2026-08-08T01:41:20.211Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072042.jpg?v=1722610675",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-x-ever-autumn-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-x-ever-autumn-japanese-maple/12-Acer_palmatum_x_circinatum_Ever_Autumn_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2072042.webp",
+              "content_type": "image/webp",
+              "bytes": 78638,
+              "downloaded_at": "2026-08-08T01:41:20.438Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

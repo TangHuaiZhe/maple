@@ -20,15 +20,25 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/acer-palmatum-rugose-japanese-maple/01-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068125.webp",
+      "/mrmaple-images/acer-palmatum-rugose-japanese-maple/02-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068127.webp",
+      "/mrmaple-images/acer-palmatum-rugose-japanese-maple/03-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068128.webp",
+      "/mrmaple-images/acer-palmatum-rugose-japanese-maple/04-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068130.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/acer-palmatum-rugose-japanese-maple/01-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068125.webp",
+    "public_paths": [
+      "/mrmaple-images/acer-palmatum-rugose-japanese-maple/01-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068125.webp",
+      "/mrmaple-images/acer-palmatum-rugose-japanese-maple/02-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068127.webp",
+      "/mrmaple-images/acer-palmatum-rugose-japanese-maple/03-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068128.webp",
+      "/mrmaple-images/acer-palmatum-rugose-japanese-maple/04-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068130.webp"
+    ],
+    "public_count": 4
   },
   "sources": [
     {
@@ -56,5 +66,87 @@
   "descriptions_zh": {
     "preferred": "这个颇为特别的大叶型品种，虽不能算作优美，却因其罕见性以及从夏季“丑小鸭”到秋季近乎“美丽公主”的戏剧性转变而颇具观赏价值。 整个夏季叶片多为暗淡的青铜军绿色，叶面略粗糙并带皱缩感（rugose），但主脉和叶柄则呈对比鲜明的甜菜红色。 秋季叶色转为惊艳的李子红至鲜亮的深红色。 新梢和枝条近乎黑色。 叶片中大型，长 8 至 10. 5 厘米，宽 10 至 15 厘米，叶形及其粗大而不规则的锯齿叶缘都较为独特。 裂片甚至在同一片叶上也会呈不规则深裂，大多几乎裂至叶基，但离叶基的距离变化很大，可从 4 至 20 毫米，甚至更远。 粗壮叶柄长 3. 5 至 6 厘米。 与叶片相似，枝梢也会扭曲，呈现出一些奇特形态。 株形为灌木状且直立，生长过程中主干和枝条都会产生有趣的扭转，虽不足以称为“tortuosa”，但已相当明显。 该品种由 Maplewood Nursery 选出并命名。 原始实生苗现约 20 年生，生长于美国加利福尼亚州 Laytonville 的 Mountain Maples Nursery；其一生都栽培于容器中，目前高约 2 米。 'Rugose' 曾被误拼为"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/01-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068125.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/02-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068127.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/03-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068128.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/04-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068130.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/01-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068125.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Rugose' Japanese Maple",
+        "handle": "acer-palmatum-rugose-japanese-maple",
+        "product_url": "https://mrmaple.com/products/acer-palmatum-rugose-japanese-maple",
+        "description_text": "Acer palmatum 'Rugose' Rare Japanese Maple Zones 5-9 'Rugose' is a unique Japanese maple that has extraordinary thick leathery leaves, thicker stems, and habit that makes many believe this Japanese maple has more chromosomes than your typical Acer palmatum. 'Rugose' is a selection that was found and introduced by the late great J. D. Vertrees, author of Japanese Maples. This selection has blue-green foliage in the spring, turning to orange and red in the fall. 'Rugose' is slower growing reach 6 ft in height in 10 years with a nice upright form. Add this unique beauty to your garden!",
+        "image_count": 4,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 4,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/01-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068125.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/02-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068127.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/03-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068128.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/04-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068130.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068125.jpg?v=1722595143",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-rugose-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/01-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068125.webp",
+              "content_type": "image/webp",
+              "bytes": 98818,
+              "downloaded_at": "2026-08-08T01:55:46.121Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068127.jpg?v=1722595148",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-rugose-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/02-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068127.webp",
+              "content_type": "image/webp",
+              "bytes": 98450,
+              "downloaded_at": "2026-08-08T01:55:47.116Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068128.jpg?v=1722595154",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-rugose-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/03-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068128.webp",
+              "content_type": "image/webp",
+              "bytes": 84888,
+              "downloaded_at": "2026-08-08T01:55:47.914Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068130.jpg?v=1722595160",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-rugose-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-rugose-japanese-maple/04-Acer_palmatum_Rugose_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068130.webp",
+              "content_type": "image/webp",
+              "bytes": 78920,
+              "downloaded_at": "2026-08-08T01:55:48.652Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

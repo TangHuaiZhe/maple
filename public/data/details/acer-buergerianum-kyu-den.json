@@ -16,15 +16,39 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/01-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033349.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/02-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033354.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/03-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033358.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/04-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033363.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/05-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033369.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/06-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033375.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/07-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033379.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/08-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033385.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/09-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033389.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/10-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033393.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/11-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033398.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/03-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033358.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/03-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033358.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/01-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033349.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/02-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033354.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/04-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033363.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/05-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033369.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/06-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033375.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/07-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033379.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/08-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033385.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/09-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033389.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/10-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033393.webp",
+      "/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/11-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033398.webp"
+    ],
+    "public_count": 11
   },
   "sources": [
     {
@@ -120,5 +144,185 @@
   "descriptions_zh": {
     "preferred": "这株矮性致密灌木具小型、极厚、具光泽的常绿叶。 裂片短、圆钝，先端不尖。 新叶呈迷人的红褐色，夏季转绿，秋季再转为黄色至橙色。 其名称意为“宫殿”。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/01-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033349.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/02-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033354.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/03-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033358.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/04-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033363.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/05-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033369.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/06-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033375.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/07-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033379.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/08-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033385.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/09-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033389.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/10-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033393.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/11-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033398.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/01-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033349.webp",
+    "products": [
+      {
+        "title": "Acer buergerianum 'Miyadono' Dwarf Trident Maple",
+        "handle": "buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+        "description_text": "Acer buergerianum ssp. formosanum 'Miyadono' Rare Dwarf Miyadono Trident Maple Zones 5-9 'Miyadono' is one of my favorite trident maples. This rare gem is dense, dwarf, and compact with an attractive rounded leaf. Fall color is typically golden yellow. 'Miyadono' may reach 6 ft in height by 3 ft in width in 10 years.",
+        "image_count": 11,
+        "match_method": "collection_products_json",
+        "match_score": 1240,
+        "images": {
+          "downloaded_count": 11,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/01-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033349.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/02-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033354.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/03-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033358.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/04-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033363.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/05-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033369.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/06-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033375.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/07-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033379.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/08-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033385.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/09-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033389.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/10-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033393.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/11-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033398.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033349.jpg?v=1722534911",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/01-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033349.webp",
+              "content_type": "image/webp",
+              "bytes": 69952,
+              "downloaded_at": "2026-08-08T01:53:35.159Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033354.jpg?v=1722534919",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/02-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033354.webp",
+              "content_type": "image/webp",
+              "bytes": 103186,
+              "downloaded_at": "2026-08-08T01:53:36.308Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033358.jpg?v=1722534926",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/03-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033358.webp",
+              "content_type": "image/webp",
+              "bytes": 107860,
+              "downloaded_at": "2026-08-08T01:53:37.156Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033363.jpg?v=1722534934",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/04-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033363.webp",
+              "content_type": "image/webp",
+              "bytes": 89550,
+              "downloaded_at": "2026-08-08T01:53:37.963Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033369.jpg?v=1722534942",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/05-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033369.webp",
+              "content_type": "image/webp",
+              "bytes": 103568,
+              "downloaded_at": "2026-08-08T01:53:38.926Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033375.jpg?v=1722534948",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/06-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033375.webp",
+              "content_type": "image/webp",
+              "bytes": 59400,
+              "downloaded_at": "2026-08-08T01:53:39.517Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033379.jpg?v=1722534955",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/07-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033379.webp",
+              "content_type": "image/webp",
+              "bytes": 50982,
+              "downloaded_at": "2026-08-08T01:53:40.060Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033385.jpg?v=1722534961",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/08-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033385.webp",
+              "content_type": "image/webp",
+              "bytes": 42480,
+              "downloaded_at": "2026-08-08T01:53:40.598Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033389.jpg?v=1722534967",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/09-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033389.webp",
+              "content_type": "image/webp",
+              "bytes": 51978,
+              "downloaded_at": "2026-08-08T01:53:41.193Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033393.jpg?v=1722534972",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/10-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033393.webp",
+              "content_type": "image/webp",
+              "bytes": 47588,
+              "downloaded_at": "2026-08-08T01:53:41.763Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033398.jpg?v=1722534977",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-miyadono-dwarf-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-miyadono-dwarf-trident-maple/11-Acer_buergerianum_Miyadono_Dwarf_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033398.webp",
+              "content_type": "image/webp",
+              "bytes": 42844,
+              "downloaded_at": "2026-08-08T01:53:42.329Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

@@ -21,15 +21,21 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/acer-palmatum-yugure-pink-japanese-maple/01-Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071886.webp",
+      "/mrmaple-images/acer-palmatum-yugure-pink-japanese-maple/02-Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071888.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/acer-palmatum-yugure-pink-japanese-maple/02-Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071888.webp",
+    "public_paths": [
+      "/mrmaple-images/acer-palmatum-yugure-pink-japanese-maple/02-Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071888.webp",
+      "/mrmaple-images/acer-palmatum-yugure-pink-japanese-maple/01-Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071886.webp"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -96,7 +102,60 @@
   "descriptions_zh": {
     "preferred": "裂片先端渐尖。 叶缘略具不规则锯齿。 叶色为浓重而鲜明的栗红至深红色，在全日照条件下颜色最深。 斑锦表现为较浅的粉红红色斑块与色团。 即使没有出现斑锦，其叶姿也依然悦目而富有观赏性。 这一优良、稳定的红叶品种可形成健壮的中型树，树高可达 16–20 英尺（5–6 米）。 其名意为“晚霞”。 'Yu¯gure'：这是一个非常古老的品种，春季叶色为深红，夏季转为带明显绿色调的锈红色，秋季又变为红绯色。 中等大小的叶片通常深裂为 7 枚卵形裂片。 每个裂片先端锐尖，边缘具轻微锯齿。 这一耐寒品种树形直立，树冠圆整，树高约 16 英尺（5 米），枝条非常纤细。 其名意为“黄昏”。"
   },
-  "has_mrmaple": false,
+  "has_mrmaple": true,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-yugure-pink-japanese-maple/01-Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071886.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-yugure-pink-japanese-maple/02-Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071888.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-yugure-pink-japanese-maple/01-Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071886.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Yugure' Pink Japanese Maple",
+        "handle": "acer-palmatum-yugure-pink-japanese-maple",
+        "product_url": "https://mrmaple.com/products/acer-palmatum-yugure-pink-japanese-maple",
+        "description_text": "Acer palmatum 'Yugure' Pink Japanese Maple Zones 5-9 'Yugure' is a well-established tree with references dating back over 200 years. This hardy tree's upright form proudly displays deeply lobed medium to large leaves that display its magnificent colors. 'Yugure's' new foliage features crimson to rusty tones with green tones surfacing into the reddish leaves in the summer. In autumn, 'Yugure' turns to a bright gold color of yellow infused with orange. 'Yugure' may reach 10-12 ft in height in 10 years. 'Yugure' is often used as a specimen tree to enhance its vibrant foliage, but it can also be integrated as part of a multi-species landscape that accentuates its beauty.",
+        "image_count": 2,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 2,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-yugure-pink-japanese-maple/01-Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071886.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-yugure-pink-japanese-maple/02-Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071888.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071886.jpg?v=1722610198",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-yugure-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-yugure-pink-japanese-maple/01-Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071886.webp",
+              "content_type": "image/webp",
+              "bytes": 180070,
+              "downloaded_at": "2026-08-08T01:57:27.050Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071888.jpg?v=1722610204",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-yugure-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-yugure-pink-japanese-maple/02-Acer_palmatum_Yugure_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2071888.webp",
+              "content_type": "image/webp",
+              "bytes": 298056,
+              "downloaded_at": "2026-08-08T01:57:28.398Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

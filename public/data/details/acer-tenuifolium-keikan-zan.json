@@ -16,15 +16,41 @@
   "images": {
     "count": 6,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/01-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075231.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/02-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075232.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/03-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075233.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/04-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075234.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/05-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075235.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/06-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075236.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/07-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075237.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/08-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075238.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/09-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075239.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/10-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075240.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/11-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075241.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/12-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075242.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/02-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075232.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/02-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075232.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/01-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075231.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/03-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075233.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/04-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075234.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/05-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075235.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/06-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075236.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/07-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075237.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/08-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075238.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/09-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075239.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/10-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075240.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/11-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075241.webp",
+      "/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/12-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075242.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -61,5 +87,199 @@
   "descriptions_zh": {
     "preferred": "鸡冠山是一款日系品种， 1998 年被发现并于日本东京进行销售的一个品种， 属于超小叶羽团扇，春天是嫩绿色，夏天绿色会加深，秋天叶色是明亮的黄色、橙色和红色。 叶裂一般为 9-11裂，叶形偏圆。 较耐寒，成年树高大约2米左右。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/01-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075231.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/02-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075232.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/03-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075233.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/04-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075234.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/05-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075235.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/06-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075236.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/07-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075237.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/08-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075238.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/09-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075239.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/10-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075240.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/11-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075241.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/12-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075242.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/01-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075231.webp",
+    "products": [
+      {
+        "title": "Acer tenuifolium 'Keikan zan' Full Moon Japanese Maple",
+        "handle": "buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+        "description_text": "Acer tenuifolium 'Keiken zan' Rare 'Keikan zan' Full Moon Japanese Maple Zones 5-9 Acer tenuifolium 'Keikan zan' - Found in the wild of Japan at Mt. Keikan zan, this selection has more divided lobes than the species, with beautiful overall rounded full moon type look to the leaf. Fall color is bright yellows, oranges, to reds. For years, Acer tenuifolium had been grouped with sieboldianum and shirasawanum but is now recognized as a distinctive species. About 8 ft in 15 years.",
+        "image_count": 12,
+        "match_method": "search_html",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/01-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075231.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/02-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075232.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/03-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075233.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/04-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075234.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/05-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075235.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/06-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075236.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/07-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075237.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/08-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075238.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/09-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075239.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/10-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075240.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/11-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075241.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/12-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075242.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075231.jpg?v=1722623334",
+              "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/01-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075231.webp",
+              "content_type": "image/webp",
+              "bytes": 91706,
+              "downloaded_at": "2026-08-08T01:41:54.009Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075232.jpg?v=1722623342",
+              "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/02-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075232.webp",
+              "content_type": "image/webp",
+              "bytes": 314332,
+              "downloaded_at": "2026-08-08T01:41:54.719Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075233.jpg?v=1722623349",
+              "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/03-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075233.webp",
+              "content_type": "image/webp",
+              "bytes": 372142,
+              "downloaded_at": "2026-08-08T01:41:55.103Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075234.jpg?v=1722623357",
+              "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/04-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075234.webp",
+              "content_type": "image/webp",
+              "bytes": 191884,
+              "downloaded_at": "2026-08-08T01:41:55.538Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075235.jpg?v=1722623364",
+              "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/05-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075235.webp",
+              "content_type": "image/webp",
+              "bytes": 184868,
+              "downloaded_at": "2026-08-08T01:41:55.982Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075236.jpg?v=1722623369",
+              "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/06-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075236.webp",
+              "content_type": "image/webp",
+              "bytes": 115260,
+              "downloaded_at": "2026-08-08T01:41:56.248Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075237.jpg?v=1722623374",
+              "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/07-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075237.webp",
+              "content_type": "image/webp",
+              "bytes": 96430,
+              "downloaded_at": "2026-08-08T01:41:56.519Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075238.jpg?v=1722623380",
+              "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/08-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075238.webp",
+              "content_type": "image/webp",
+              "bytes": 94146,
+              "downloaded_at": "2026-08-08T01:41:56.984Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075239.jpg?v=1722623386",
+              "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/09-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075239.webp",
+              "content_type": "image/webp",
+              "bytes": 85284,
+              "downloaded_at": "2026-08-08T01:41:57.250Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075240.jpg?v=1722623391",
+              "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/10-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075240.webp",
+              "content_type": "image/webp",
+              "bytes": 63836,
+              "downloaded_at": "2026-08-08T01:41:57.541Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075241.jpg?v=1722623396",
+              "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/11-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075241.webp",
+              "content_type": "image/webp",
+              "bytes": 84304,
+              "downloaded_at": "2026-08-08T01:41:57.796Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075242.jpg?v=1722623400",
+              "product_url": "https://mrmaple.com/products/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-tenuifolium-keikan-zan-full-moon-japanese-maple/12-Acer_tenuifolium_Keikan_zan_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2075242.webp",
+              "content_type": "image/webp",
+              "bytes": 65362,
+              "downloaded_at": "2026-08-08T01:41:58.047Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

@@ -20,15 +20,19 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-masu-murasaki-japanese-maple/01-Acer_palmatum_Masu_murasaki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063816.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-masu-murasaki-japanese-maple/01-Acer_palmatum_Masu_murasaki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063816.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-masu-murasaki-japanese-maple/01-Acer_palmatum_Masu_murasaki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063816.webp"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -92,7 +96,46 @@
   "descriptions_zh": {
     "preferred": "这个红色极为浓烈的栽培品种，在全日照条件下表现最佳。 它的红色不像许多相似品种那样带绿色底调，而是更偏向紫色。 这种色彩很难准确描述；若与近似品种并植，其独特色泽便十分明显。 全阴环境下，叶片几乎呈黑红色，裂片中央带深绿色阴影。 叶柄和叶脉也为鲜红色。 叶片具七裂，裂深达叶基约三分之二。 叶长 5-7 厘米，宽 6-8 厘米。 各裂片为渐尖卵形，但先端更为延长。 叶缘为重锯齿。 叶柄长 1-2 厘米。 该品种生长健旺、株形直立，最终可长至约 7 米高。 其名称有时被误写为 'Matsumurae saki' 或 'Musa murasaki'。"
   },
-  "has_mrmaple": false,
+  "has_mrmaple": true,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-murasaki-japanese-maple/01-Acer_palmatum_Masu_murasaki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063816.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-murasaki-japanese-maple/01-Acer_palmatum_Masu_murasaki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063816.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Masu murasaki' Japanese Maple",
+        "handle": "buy-acer-palmatum-masu-murasaki-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-murasaki-japanese-maple",
+        "description_text": "Acer palmatum 'Masu murasaki' Bright Red 'Masu murasaki' Japanese Maple Zones 5-9 'Masu murasaki' leafs out as a bright red Japanese maple from years of old. 'Masu murasaki' is an old Japanese literature dating back to 1704. During the summer 'Masu murasaki' matures to almost black- purple red. 'Masu murasaki' shows best color in full sun. 'Masu murasaki' turns to a bright fiery red in the fall. 'Masu murasaki' may reach about 20 ft in height in 15 years.",
+        "image_count": 1,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 1,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-murasaki-japanese-maple/01-Acer_palmatum_Masu_murasaki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063816.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Masu_murasaki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063816.jpg?v=1722578695",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-masu-murasaki-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-masu-murasaki-japanese-maple/01-Acer_palmatum_Masu_murasaki_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063816.webp",
+              "content_type": "image/webp",
+              "bytes": 455472,
+              "downloaded_at": "2026-08-08T01:54:08.444Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

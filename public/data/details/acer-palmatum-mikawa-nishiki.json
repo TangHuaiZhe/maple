@@ -16,15 +16,41 @@
   "images": {
     "count": 7,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/01-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063980.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/02-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063983.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/03-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063994.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/04-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063997.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/05-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064000.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/06-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064003.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/07-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064006.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/08-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064007.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/09-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064011.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/10-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064013.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/11-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064015.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/12-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064018.jpg"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/07-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064006.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/07-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064006.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/01-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063980.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/02-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063983.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/03-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063994.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/04-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063997.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/05-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064000.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/06-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064003.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/08-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064007.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/09-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064011.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/10-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064013.webp",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/11-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064015.jpg",
+      "/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/12-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064018.jpg"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -61,5 +87,199 @@
   "descriptions_zh": {
     "preferred": "由日本爱知县于 1990 年培育的品种，具体育种人不详， 非常独特的一款悬浮脉叶品种。 外文资料显示为矮生品 种，但是浙江本地嫁接当年可达 1. 5 米，并有明显冠幅， 生长较强健，春叶为黄绿色的基色调，叶边为淡红色， 特征叶有明显的绿色脉纹，粉红色的斑悬浮于绿色脉纹 两边，特征一般位于叶面中部区域，叶尖为常规色，偶 有整叶特征，随着季节推移，粉色逐渐变为奶白色，绿 色部分逐渐加深，秋季为橙色或者红色。 可全日照度夏， 午后适当遮阴为佳，成年株可达 3 米左右高度。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/01-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063980.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/02-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063983.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/03-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063994.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/04-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063997.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/05-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064000.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/06-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064003.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/07-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064006.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/08-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064007.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/09-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064011.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/10-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064013.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/11-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064015.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/12-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064018.jpg"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/01-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063980.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Mikawa nishiki' Variegated Japanese Maple",
+        "handle": "buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+        "description_text": "Acer palmatum 'Mikawa nishiki' Pink Reticulated Variegated Japanese Maple Zones 5-9 'Mikawa nishiki' is a special dwarf reticulated Japanese maple with bright red to deep maroon variegation with bright chartreuse green veins. 'Mikawa nishiki' has leaves that are long and shaped like that of",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/01-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063980.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/02-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063983.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/03-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063994.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/04-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063997.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/05-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064000.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/06-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064003.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/07-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064006.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/08-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064007.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/09-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064011.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/10-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064013.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/11-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064015.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/12-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064018.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063980.jpg?v=1740446261",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/01-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063980.webp",
+              "content_type": "image/webp",
+              "bytes": 117284,
+              "downloaded_at": "2026-08-08T01:54:24.594Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063983.jpg?v=1740446262",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/02-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063983.webp",
+              "content_type": "image/webp",
+              "bytes": 74236,
+              "downloaded_at": "2026-08-08T01:54:25.293Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063994.jpg?v=1740446262",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/03-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063994.webp",
+              "content_type": "image/webp",
+              "bytes": 70642,
+              "downloaded_at": "2026-08-08T01:54:25.830Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063997.jpg?v=1740446262",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/04-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063997.webp",
+              "content_type": "image/webp",
+              "bytes": 147494,
+              "downloaded_at": "2026-08-08T01:54:26.568Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064000.jpg?v=1740446262",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/05-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064000.webp",
+              "content_type": "image/webp",
+              "bytes": 120328,
+              "downloaded_at": "2026-08-08T01:54:27.385Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064003.jpg?v=1740446262",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/06-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064003.webp",
+              "content_type": "image/webp",
+              "bytes": 96780,
+              "downloaded_at": "2026-08-08T01:54:28.296Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064006.jpg?v=1740446262",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/07-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064006.webp",
+              "content_type": "image/webp",
+              "bytes": 112684,
+              "downloaded_at": "2026-08-08T01:54:29.282Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064007.jpg?v=1740446262",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/08-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064007.webp",
+              "content_type": "image/webp",
+              "bytes": 86418,
+              "downloaded_at": "2026-08-08T01:54:30.095Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064011.jpg?v=1740446262",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/09-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064011.webp",
+              "content_type": "image/webp",
+              "bytes": 93832,
+              "downloaded_at": "2026-08-08T01:54:30.850Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064013.jpg?v=1740446262",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/10-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064013.webp",
+              "content_type": "image/webp",
+              "bytes": 119486,
+              "downloaded_at": "2026-08-08T01:54:31.644Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064015.jpg?v=1740446262",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/11-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064015.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 65549,
+              "downloaded_at": "2026-08-08T01:54:32.231Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064018.jpg?v=1740446262",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mikawa-nishiki-variegated-japanese-maple/12-Acer_palmatum_Mikawa_nishiki_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064018.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 56595,
+              "downloaded_at": "2026-08-08T01:54:32.831Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

@@ -16,15 +16,37 @@
   "images": {
     "count": 8,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/01-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032967.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/02-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032972.jpg",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/03-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032977.jpg",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/04-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032982.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/05-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032987.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/06-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032993.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/07-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032997.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/08-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033001.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/09-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033006.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/10-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033011.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/05-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032987.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/05-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032987.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/01-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032967.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/02-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032972.jpg",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/03-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032977.jpg",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/04-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032982.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/06-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032993.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/07-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032997.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/08-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033001.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/09-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033006.webp",
+      "/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/10-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033011.webp"
+    ],
+    "public_count": 10
   },
   "sources": [
     {
@@ -121,5 +143,171 @@
   "descriptions_zh": {
     "preferred": "花散里是一款比较少见的三角槭品种，叶型似三叉戟。 叶子在早春呈明亮的白色，远远看去会像白雪一样发光， 并带有深绿色的脉络。 随着夏天的临近，叶子会逐渐返 绿。 秋季，叶色是鲜红色到深栗色的过渡。 成年树高 可达 3-4 米，午后建议及时遮荫。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/01-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032967.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/02-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032972.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/03-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032977.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/04-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032982.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/05-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032987.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/06-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032993.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/07-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032997.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/08-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033001.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/09-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033006.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/10-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033011.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/01-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032967.webp",
+    "products": [
+      {
+        "title": "Acer buergerianum 'Hana chiru sato' Trident Maple",
+        "handle": "buy-acer-buergerianum-hana-chiru-sato-trident-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-hana-chiru-sato-trident-maple",
+        "description_text": "Acer buergerianum 'Hana chiru sato' Rare White Variegated Trident Maple Zones 5-9 'Hana chiru sato' leafs out in the early spring as a bright white trident maple that will light up like snow in the landscape. The leaf itself is a bright white with deep green veining. This gives it a ghost-like appearance for a trident maple. As the summer approaches, the green begins to fill the leaf as most new growth during the second flush is more orange. In the fall, 'Hana chiru sato' continues to put on a dynamic display of colors as it turns from bright reds to deep maroons. Hana chiru sato will reach about 10-15 ft in 15 years. Protection from the hot afternoon sun is recommended to retain this white reticulated variegation the longest. This name translates as \"Village of Falling Flowers\". This recent selection to the United States is rare in cultivation. The typical size of the 2 one gallons available:",
+        "image_count": 10,
+        "match_method": "search_html",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 10,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/01-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032967.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/02-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032972.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/03-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032977.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/04-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032982.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/05-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032987.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/06-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032993.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/07-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032997.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/08-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033001.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/09-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033006.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/10-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033011.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032967.jpg?v=1722534392",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-hana-chiru-sato-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/01-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032967.webp",
+              "content_type": "image/webp",
+              "bytes": 55360,
+              "downloaded_at": "2026-08-08T01:41:29.247Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032972.jpg?v=1722534398",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-hana-chiru-sato-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/02-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032972.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 56216,
+              "downloaded_at": "2026-08-08T01:41:29.467Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032977.jpg?v=1722534404",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-hana-chiru-sato-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/03-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032977.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 359725,
+              "downloaded_at": "2026-08-08T01:41:29.788Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032982.jpg?v=1722534410",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-hana-chiru-sato-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/04-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032982.webp",
+              "content_type": "image/webp",
+              "bytes": 111174,
+              "downloaded_at": "2026-08-08T01:41:30.029Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032987.jpg?v=1722534418",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-hana-chiru-sato-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/05-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032987.webp",
+              "content_type": "image/webp",
+              "bytes": 316660,
+              "downloaded_at": "2026-08-08T01:41:30.429Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032993.jpg?v=1722534426",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-hana-chiru-sato-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/06-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032993.webp",
+              "content_type": "image/webp",
+              "bytes": 144744,
+              "downloaded_at": "2026-08-08T01:41:30.677Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032997.jpg?v=1722534433",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-hana-chiru-sato-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/07-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2032997.webp",
+              "content_type": "image/webp",
+              "bytes": 121778,
+              "downloaded_at": "2026-08-08T01:41:31.068Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033001.jpg?v=1722534445",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-hana-chiru-sato-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/08-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033001.webp",
+              "content_type": "image/webp",
+              "bytes": 50652,
+              "downloaded_at": "2026-08-08T01:41:31.284Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033006.jpg?v=1722534452",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-hana-chiru-sato-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/09-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033006.webp",
+              "content_type": "image/webp",
+              "bytes": 52512,
+              "downloaded_at": "2026-08-08T01:41:31.505Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033011.jpg?v=1722534459",
+              "product_url": "https://mrmaple.com/products/buy-acer-buergerianum-hana-chiru-sato-trident-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-buergerianum-hana-chiru-sato-trident-maple/10-Acer_buergerianum_Hana_chiru_sato_Trident_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2033011.webp",
+              "content_type": "image/webp",
+              "bytes": 56814,
+              "downloaded_at": "2026-08-08T01:41:31.719Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

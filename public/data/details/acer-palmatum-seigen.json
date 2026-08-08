@@ -20,15 +20,27 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/01-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068556.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/02-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068558.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/03-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068561.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/04-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068564.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/05-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068566.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/02-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068558.webp",
+    "public_paths": [
+      "/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/02-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068558.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/01-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068556.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/03-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068561.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/04-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068564.webp",
+      "/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/05-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068566.webp"
+    ],
+    "public_count": 5
   },
   "sources": [
     {
@@ -144,6 +156,101 @@
   "descriptions_zh": {
     "preferred": "'Seigen' 是这一类春季抽生鲜亮深红叶品种中最受欢迎的品种之一。 新叶可呈鲜明的火红色调，并持续数周，使人联想到广受欢迎的 'Corallinum'；随后夏季转为浅绿色，秋季变为黄色至柿子色。 本品种在 'Corallinum' 类群中萌叶较早，因此容易受冷风和春霜危害。 叶片较小、5 裂，秀致轻盈，长宽约 3-5 厘米，密生于短枝上。 裂片深达叶基一半以上，叶缘轻微具齿，裂片尖端不特别锐利。 叶柄硬挺，长 2-3 厘米。 该矮生品种与 'Tama hime' 和 'Kiyohime' 相似，可形成高约 2 米的小型圆头灌丛。 'Seigen' 在日本很受盆景爱好者欢迎。 另有一类直立生长的绿色羽裂型品种，在 Dissectum Group 中较为少见；绝大多数其他 dissectum 品种多为下垂或垂枝形。 此绿色细裂叶枫与其他更典型的垂枝 dissectum 品种混植时，可形成悦目的对比。 叶色为清新的亮绿色，春季展开时每片叶轻带红色尖端，随后很快转为均匀浅绿色；夏季后期，受光较强的叶缘又会重新出现红晕。 秋色颇为壮观，从鲜金色到浅黄色，并在大多数叶片上带有绯红晕染。 叶片略小于大多数其他绿色 dissectum 品种，长约 4-5 厘米，宽略大于长度。 7 个裂片呈羽状深裂形成次裂片，其精细程度不如典型 dissectum 那样纤细，但又比"
   },
-  "has_mrmaple": false,
-  "mrmaple": null
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/01-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068556.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/02-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068558.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/03-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068561.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/04-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068564.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/05-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068566.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/01-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068556.webp",
+    "products": [
+      {
+        "title": "FOR PICKUP ONLY | Acer palmatum 'Seigen' Rare Japanese Maple | DOES NOT SHIP",
+        "handle": "for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship",
+        "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship",
+        "description_text": "Acer palmatum 'Seigen' Rare Japanese Maple Zones 5-9 'Seigen' is an upright Japanese Maple characterized by its small leaves. In spring, its foliage displays a bright pink or pink-orange hue, transitioning to green with rose highlights in summer. Come fall, the leaves turn a vibrant orange-yellow. This tree can grow up to 6 ft in height in 10 years.",
+        "image_count": 5,
+        "match_method": "collection_products_json",
+        "match_score": 1332,
+        "images": {
+          "downloaded_count": 5,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/01-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068556.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/02-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068558.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/03-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068561.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/04-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068564.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/05-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068566.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068556.jpg?v=1722596487",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/01-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068556.webp",
+              "content_type": "image/webp",
+              "bytes": 71488,
+              "downloaded_at": "2026-08-08T01:48:31.243Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068558.jpg?v=1722596496",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/02-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068558.webp",
+              "content_type": "image/webp",
+              "bytes": 126844,
+              "downloaded_at": "2026-08-08T01:48:32.045Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068561.jpg?v=1722596508",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/03-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068561.webp",
+              "content_type": "image/webp",
+              "bytes": 76504,
+              "downloaded_at": "2026-08-08T01:48:32.815Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068564.jpg?v=1722596517",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/04-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068564.webp",
+              "content_type": "image/webp",
+              "bytes": 102260,
+              "downloaded_at": "2026-08-08T01:48:33.614Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068566.jpg?v=1722596528",
+              "product_url": "https://mrmaple.com/products/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/for-pickup-only-acer-palmatum-seigen-rare-japanese-maple-does-not-ship/05-Acer_palmatum_Seigen_Rare_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2068566.webp",
+              "content_type": "image/webp",
+              "bytes": 76526,
+              "downloaded_at": "2026-08-08T01:48:34.553Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

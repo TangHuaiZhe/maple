@@ -20,15 +20,21 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-mure-hibari-japanese-maple/01-Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064861.webp",
+      "/mrmaple-images/buy-acer-palmatum-mure-hibari-japanese-maple/02-Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064862.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-mure-hibari-japanese-maple/02-Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064862.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-mure-hibari-japanese-maple/02-Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064862.webp",
+      "/mrmaple-images/buy-acer-palmatum-mure-hibari-japanese-maple/01-Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064861.webp"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -117,5 +123,59 @@
   "descriptions_zh": {
     "preferred": "该品种的叶片深裂为 7 裂，裂片狭长，呈长披针形，先端渐尖成细长尖头。 叶片约长 4-5 厘米、宽 5-6 厘米。 裂片几乎分离至叶基，并明显向外放射展开。 各裂片边缘略向上卷起或呈浅槽状，且具明显重锯齿。 红色叶柄长 2-3 厘米。 叶片基础色为浅绿色，新叶叶缘带鲜亮的砖红色。 秋季叶色呈黄色至深红色的综合色彩。 该品种长势中等偏强，树形直立，高可达 5 米，生长旺盛且耐寒性好。 日本有作者将其叶形形容为“如雪之结晶”，十分独特。 较少见的 'Mure hibari'，意为“云雀群”，确是一款优美的品种。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mure-hibari-japanese-maple/01-Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064861.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mure-hibari-japanese-maple/02-Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064862.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mure-hibari-japanese-maple/01-Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064861.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Mure hibari' Japanese Maple",
+        "handle": "buy-acer-palmatum-mure-hibari-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mure-hibari-japanese-maple",
+        "description_text": "ACER PALMATUM 'MURE HIBARI' FLOCK OF SKYLARKS 'MURE HIBARI' JAPANESE MAPLE ZONES 5-9 'Mure hibari' is an old cultivar of Japanese maple listing in Japanese literature as early as 1882. The leaves are deeply cut for an upright tree with a strong growth habit. 'Mure hibari' leafs out in the spring with a red to bronze edging on the deeply cut green leaves. During the summer the leaves are green, turning to a bright red in the fall. 'Mure hibari' may reach 15 ft in 10 years. 'Mure hibari' is a fairly heat tolerant selection handling full sun easily in Zone 8. 'Mure hibari' is sometimes spelled",
+        "image_count": 2,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 2,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mure-hibari-japanese-maple/01-Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064861.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mure-hibari-japanese-maple/02-Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064862.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064861.jpg?v=1722582360",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mure-hibari-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mure-hibari-japanese-maple/01-Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064861.webp",
+              "content_type": "image/webp",
+              "bytes": 85202,
+              "downloaded_at": "2026-08-08T01:54:46.374Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064862.jpg?v=1722582368",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-mure-hibari-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-mure-hibari-japanese-maple/02-Acer_palmatum_Mure_hibari_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064862.webp",
+              "content_type": "image/webp",
+              "bytes": 205958,
+              "downloaded_at": "2026-08-08T01:54:47.571Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

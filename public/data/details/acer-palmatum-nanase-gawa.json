@@ -20,15 +20,39 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/01-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064896.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/02-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064897.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/03-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064898.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/04-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064899.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/05-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064900.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/06-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064901.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/07-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064902.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/08-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064903.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/09-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064904.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/10-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064905.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/11-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064906.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/11-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064906.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/11-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064906.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/01-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064896.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/02-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064897.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/03-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064898.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/04-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064899.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/05-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064900.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/06-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064901.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/07-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064902.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/08-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064903.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/09-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064904.webp",
+      "/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/10-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064905.webp"
+    ],
+    "public_count": 11
   },
   "sources": [
     {
@@ -117,5 +141,185 @@
   "descriptions_zh": {
     "preferred": "叶片分为七裂，偶有五裂，裂片分离至距叶基约三分之二至四分之三处。 幼叶时裂得很深，随着叶片发育会逐渐展开丰满。 叶长 5-7 厘米，宽约 8 厘米。 裂片为卵形，先端延伸成细长锐尖。 基部裂片向外伸展，使叶基呈截形。 叶缘具细密的重锯齿。 叶柄长约 2 厘米。 该品种成熟时高可达 4 米，冠幅也几乎相当，生长成高大而开展的灌木状。 春季新叶展开时为深红色，随后很快转为紫红色。 初夏开始出现绿色调时，叶脉会转为对比鲜明的绿色。 至仲夏，整叶趋于绿化。 秋季则转为鲜艳的深红色。 据认为其名称源于 Nanase River，但其具体所在仍不明确。 Corvallis 记载其掌状叶初展时为浅绿色，叶片成熟后会出现淡淡的乳白色晕染或斑锦。 该品种生长直立，但速度不快，倾向形成圆头状小乔木或灌木，高可达 3 米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/01-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064896.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/02-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064897.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/03-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064898.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/04-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064899.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/05-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064900.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/06-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064901.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/07-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064902.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/08-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064903.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/09-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064904.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/10-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064905.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/11-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064906.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/01-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064896.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Nanase gawa' Japanese Maple",
+        "handle": "buy-acer-palmatum-nanase-gawa-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-nanase-gawa-japanese-maple",
+        "description_text": "Acer palmatum 'Nanase gawa' Exceptional Fall Color Semi-Pendulous Japanese Maple Zones 5-9 'Nanase gawa' is a classic Japanese maple fr om the Sekihin Binran list from the 1800's. This maple is extremely rare to find in the nursery trade, and even more rare to find correct. According to the book Japanese maples, and the original Japanese listing from the 1800's, this a green amoenum, however the book Japanese maples shows a photo of a red Japanese maple. This red Japanese maple got mixed up with 'Nanase gawa' in the nursery trade and is likely",
+        "image_count": 11,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 11,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/01-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064896.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/02-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064897.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/03-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064898.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/04-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064899.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/05-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064900.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/06-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064901.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/07-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064902.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/08-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064903.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/09-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064904.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/10-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064905.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/11-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064906.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064896.jpg?v=1722582589",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-nanase-gawa-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/01-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064896.webp",
+              "content_type": "image/webp",
+              "bytes": 178658,
+              "downloaded_at": "2026-08-08T01:54:48.157Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064897.jpg?v=1722582614",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-nanase-gawa-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/02-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064897.webp",
+              "content_type": "image/webp",
+              "bytes": 327998,
+              "downloaded_at": "2026-08-08T01:54:49.458Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064898.jpg?v=1722582621",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-nanase-gawa-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/03-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064898.webp",
+              "content_type": "image/webp",
+              "bytes": 182758,
+              "downloaded_at": "2026-08-08T01:54:50.495Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064899.jpg?v=1722582629",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-nanase-gawa-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/04-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064899.webp",
+              "content_type": "image/webp",
+              "bytes": 221042,
+              "downloaded_at": "2026-08-08T01:54:51.645Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064900.jpg?v=1722582639",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-nanase-gawa-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/05-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064900.webp",
+              "content_type": "image/webp",
+              "bytes": 293090,
+              "downloaded_at": "2026-08-08T01:54:52.925Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064901.jpg?v=1722582646",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-nanase-gawa-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/06-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064901.webp",
+              "content_type": "image/webp",
+              "bytes": 277412,
+              "downloaded_at": "2026-08-08T01:54:54.177Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064902.jpg?v=1722582652",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-nanase-gawa-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/07-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064902.webp",
+              "content_type": "image/webp",
+              "bytes": 309534,
+              "downloaded_at": "2026-08-08T01:54:55.293Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064903.jpg?v=1722582659",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-nanase-gawa-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/08-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064903.webp",
+              "content_type": "image/webp",
+              "bytes": 313250,
+              "downloaded_at": "2026-08-08T01:54:56.329Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064904.jpg?v=1722582665",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-nanase-gawa-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/09-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064904.webp",
+              "content_type": "image/webp",
+              "bytes": 314638,
+              "downloaded_at": "2026-08-08T01:54:57.432Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064905.jpg?v=1722582672",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-nanase-gawa-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/10-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064905.webp",
+              "content_type": "image/webp",
+              "bytes": 361396,
+              "downloaded_at": "2026-08-08T01:54:58.602Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064906.jpg?v=1722582678",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-nanase-gawa-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-nanase-gawa-japanese-maple/11-Acer_palmatum_Nanase_gawa_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2064906.webp",
+              "content_type": "image/webp",
+              "bytes": 381152,
+              "downloaded_at": "2026-08-08T01:54:59.733Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

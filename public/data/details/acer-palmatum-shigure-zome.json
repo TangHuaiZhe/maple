@@ -20,15 +20,23 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/01-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069158.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/02-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069159.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/03-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069160.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/03-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069160.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/03-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069160.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/01-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069158.webp",
+      "/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/02-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069159.webp"
+    ],
+    "public_count": 3
   },
   "sources": [
     {
@@ -117,5 +125,73 @@
   "descriptions_zh": {
     "preferred": "该品种自 18 世纪早期起即有记载，但并不广为人知。 不过，它在日本仍有繁殖栽培。 它也曾以 'Shigure zono' 这一名称流传。 叶片中等大小，7 裂，裂片深达距叶基 1 厘米以内，叶长 4-5 厘米、宽 6 厘米。 每个裂片均为明显卵形，并渐尖成细长锐尖。 叶缘……Corvallis 的植株形态为直立小乔木，成熟时可达 4 米高。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/01-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069158.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/02-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069159.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/03-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069160.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/01-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069158.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Shigure zome' Japanese maple",
+        "handle": "buy-acer-palmatum-shigure-zome-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigure-zome-japanese-maple",
+        "description_text": "Acer palmatum 'Shigure zome' 'Shigure zome' Autumn Rain in the Garden Japanese Maple Zones 5-9 'Shigure zome' leafs out as a bright cherry red, fading to a bronze red. Fall color on 'Shigure zome' turns to a bright orange to red. 'Shigure zome' may reach 10-12 ft in height in 15 years. 'Shigure zome' is a Japanese selection that dates back as far as 1719 in Japanese literature. It has also been known under the name",
+        "image_count": 3,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 3,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/01-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069158.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/02-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069159.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/03-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069160.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069158.jpg?v=1722598454",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigure-zome-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/01-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069158.webp",
+              "content_type": "image/webp",
+              "bytes": 261852,
+              "downloaded_at": "2026-08-08T01:55:51.653Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069159.jpg?v=1722598461",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigure-zome-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/02-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069159.webp",
+              "content_type": "image/webp",
+              "bytes": 244850,
+              "downloaded_at": "2026-08-08T01:55:52.975Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069160.jpg?v=1722598467",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-shigure-zome-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-shigure-zome-japanese-maple/03-Acer_palmatum_Shigure_zome_Japanese_maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069160.webp",
+              "content_type": "image/webp",
+              "bytes": 313740,
+              "downloaded_at": "2026-08-08T01:55:54.420Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

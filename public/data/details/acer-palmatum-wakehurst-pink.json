@@ -20,15 +20,48 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/01-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070867.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/02-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070886.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/03-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070888.jpg",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/04-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070889.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/05-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070891.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/06-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070893.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/07-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070895.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/08-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070897.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/09-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070900.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/10-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070902.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/11-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070904.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/12-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070869.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
-    "public_conifer_paths": [],
+    "public_conifer_paths": [
+      "/coniferkingdom-images/acer-palmatum-wakehurst-pink/01-Acer-palmatum-Wakehurst-Pinkr.jpg",
+      "/coniferkingdom-images/acer-palmatum-wakehurst-pink/02-Acer-palmatum-Wakehurst-Pink.jpg",
+      "/coniferkingdom-images/acer-palmatum-wakehurst-pink/03-Acer-palmatum-Wakehurst-Pink-2.jpg"
+    ],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/coniferkingdom-images/acer-palmatum-wakehurst-pink/03-Acer-palmatum-Wakehurst-Pink-2.jpg",
+    "public_paths": [
+      "/coniferkingdom-images/acer-palmatum-wakehurst-pink/03-Acer-palmatum-Wakehurst-Pink-2.jpg",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/01-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070867.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/02-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070886.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/03-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070888.jpg",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/04-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070889.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/05-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070891.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/06-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070893.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/07-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070895.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/08-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070897.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/09-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070900.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/10-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070902.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/11-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070904.webp",
+      "/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/12-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070869.webp",
+      "/coniferkingdom-images/acer-palmatum-wakehurst-pink/01-Acer-palmatum-Wakehurst-Pinkr.jpg",
+      "/coniferkingdom-images/acer-palmatum-wakehurst-pink/02-Acer-palmatum-Wakehurst-Pink.jpg"
+    ],
+    "public_count": 15
   },
   "sources": [
     {
@@ -53,6 +86,15 @@
       "group": "matsumurae",
       "color_group": "variegated",
       "description": ""
+    },
+    {
+      "source": "conifer_kingdom",
+      "name": "Acer palmatum ‘Wakehurst Pink’ Japanese Maple",
+      "botanical_name": "Acer palmatum 'Wakehurst Pink'",
+      "detail_url": "https://www.coniferkingdom.com/acer-palmatum-wakehurst-pink-wakehurst-pink-japanese-maple/",
+      "image_count": 3,
+      "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution.",
+      "description": ""
     }
   ],
   "aliases": [
@@ -65,7 +107,7 @@
     "Acer palmatum 'Wakehurst Pink' (M/v)",
     "Wakehurst Pink"
   ],
-  "source_count": 3,
+  "source_count": 4,
   "has_web": false,
   "has_book": true,
   "has_rhs": true,
@@ -90,7 +132,270 @@
   "descriptions_zh": {
     "preferred": "这一大叶、深裂的栽培品种，春季叶片为带粉色晕染的绿色，随后转为带古铜感的绿叶，并带有粉色点斑和不规则锦斑。 不过，与许多斑叶槭树一样，栽培条件越肥沃，斑纹越不明显，直至完全消失。 'Wakehurst Pink' 的一个有趣特征是：有时在完全展开的叶片上，外侧裂片会深裂至距叶基仅 5 毫米处，而中央裂片的裂片连接处则距叶基 1. 5 至 2 厘米。 大裂片叶长 8. 5 至 9. 5 厘米，宽 10. 5 至 12 厘米。 裂片为长卵形，先端具尾状尖头，叶缘具规则的锐尖钩状锯齿。 基部裂片常近直角伸向叶柄两侧。 紫红色叶柄长 3 至 4. 5 厘米，基部膨大。 其直立生长习性与"
   },
-  "has_mrmaple": false,
+  "has_mrmaple": true,
   "rhs_zh": null,
-  "mrmaple": null
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/01-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070867.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/02-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070886.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/03-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070888.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/04-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070889.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/05-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070891.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/06-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070893.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/07-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070895.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/08-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070897.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/09-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070900.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/10-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070902.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/11-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070904.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/12-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070869.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/01-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070867.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Wakehurst Pink' Japanese Maple",
+        "handle": "buy-acer-palmatum-wakehurst-pink-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+        "description_text": "Acer palmatum 'Wakehurst Pink' 'Wakehurst Pink' Japanese Maple Zones 5-9 'Wakehurst Pink' is a bright pink flushing upright Japanese maple from Wakehurst Place Gardens in England. The tree was so beautiful, it was grafted and introduced by Esveld Nursery in the Netherlands. After the spring flush of pink, the large leaves become olive green with bronze highlights. 'Wakehurst Pink' is quite attractive and very showy. Fall color is a bright fiery red. 'Wakehurst Pink' will typically get 8-10 ft in height in width in 15 years.",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/01-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070867.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/02-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070886.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/03-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070888.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/04-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070889.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/05-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070891.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/06-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070893.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/07-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070895.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/08-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070897.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/09-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070900.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/10-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070902.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/11-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070904.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/12-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070869.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070867.jpg?v=1756344044",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/01-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070867.webp",
+              "content_type": "image/webp",
+              "bytes": 87006,
+              "downloaded_at": "2026-08-08T01:48:44.655Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070886.jpg?v=1756344044",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/02-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070886.webp",
+              "content_type": "image/webp",
+              "bytes": 265628,
+              "downloaded_at": "2026-08-08T01:48:46.119Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070888.jpg?v=1756344044",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/03-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070888.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 379354,
+              "downloaded_at": "2026-08-08T01:48:47.101Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070889.jpg?v=1756344044",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/04-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070889.webp",
+              "content_type": "image/webp",
+              "bytes": 66528,
+              "downloaded_at": "2026-08-08T01:48:47.699Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070891.jpg?v=1756344044",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/05-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070891.webp",
+              "content_type": "image/webp",
+              "bytes": 257426,
+              "downloaded_at": "2026-08-08T01:48:48.456Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070893.jpg?v=1756344044",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/06-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070893.webp",
+              "content_type": "image/webp",
+              "bytes": 180090,
+              "downloaded_at": "2026-08-08T01:48:49.188Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070895.jpg?v=1756344044",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/07-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070895.webp",
+              "content_type": "image/webp",
+              "bytes": 182982,
+              "downloaded_at": "2026-08-08T01:48:50.333Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070897.jpg?v=1756344044",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/08-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070897.webp",
+              "content_type": "image/webp",
+              "bytes": 57028,
+              "downloaded_at": "2026-08-08T01:48:51.088Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070900.jpg?v=1756344044",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/09-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070900.webp",
+              "content_type": "image/webp",
+              "bytes": 66958,
+              "downloaded_at": "2026-08-08T01:48:51.951Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070902.jpg?v=1756344044",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/10-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070902.webp",
+              "content_type": "image/webp",
+              "bytes": 45700,
+              "downloaded_at": "2026-08-08T01:48:52.536Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070904.jpg?v=1756344045",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/11-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070904.webp",
+              "content_type": "image/webp",
+              "bytes": 70268,
+              "downloaded_at": "2026-08-08T01:48:53.121Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070869.jpg?v=1756344044",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-wakehurst-pink-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-wakehurst-pink-japanese-maple/12-Acer_palmatum_Wakehurst_Pink_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2070869.webp",
+              "content_type": "image/webp",
+              "bytes": 275166,
+              "downloaded_at": "2026-08-08T01:48:54.476Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "conifer_kingdom": {
+    "source_name": "Conifer Kingdom",
+    "detail_url": "https://www.coniferkingdom.com/acer-palmatum-wakehurst-pink-wakehurst-pink-japanese-maple/",
+    "matched_product_count": 1,
+    "local_file_count": 3,
+    "cover_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-wakehurst-pink/01-Acer-palmatum-Wakehurst-Pinkr.jpg",
+    "local_files": [
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-wakehurst-pink/01-Acer-palmatum-Wakehurst-Pinkr.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-wakehurst-pink/02-Acer-palmatum-Wakehurst-Pink.jpg",
+      "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-wakehurst-pink/03-Acer-palmatum-Wakehurst-Pink-2.jpg"
+    ],
+    "products": [
+      {
+        "name": "Acer palmatum ‘Wakehurst Pink’ Japanese Maple",
+        "product_url": "https://www.coniferkingdom.com/acer-palmatum-wakehurst-pink-wakehurst-pink-japanese-maple/",
+        "botanical_name": "Acer palmatum 'Wakehurst Pink'",
+        "common_name": "Wakehurst Pink",
+        "description_text": "Wakehurst Pink Japanese maple is a bright, pink upright maple that gets its name from Wakehurst Place – a beautiful garden in England.",
+        "match_method": "product_sitemap_slug",
+        "match_candidate": "acer palmatum wakehurst pink",
+        "match_score": 265
+      }
+    ],
+    "images": {
+      "download_items": [
+        {
+          "index": 1,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/02/Acer-palmatum-Wakehurst-Pinkr.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-wakehurst-pink-wakehurst-pink-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-wakehurst-pink/01-Acer-palmatum-Wakehurst-Pinkr.jpg",
+          "bytes": 225530,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-08-08T01:33:19.909Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 2,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/02/Acer-palmatum-Wakehurst-Pink.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-wakehurst-pink-wakehurst-pink-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-wakehurst-pink/02-Acer-palmatum-Wakehurst-Pink.jpg",
+          "bytes": 123905,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-08-08T01:33:20.445Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        },
+        {
+          "index": 3,
+          "source_url": "https://cdn.coniferkingdom.com/wp-content/uploads/2021/02/Acer-palmatum-Wakehurst-Pink-2.jpg",
+          "source_page_url": "https://www.coniferkingdom.com/acer-palmatum-wakehurst-pink-wakehurst-pink-japanese-maple/",
+          "local_path": "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-wakehurst-pink/03-Acer-palmatum-Wakehurst-Pink-2.jpg",
+          "bytes": 140103,
+          "content_type": "image/jpeg",
+          "downloaded_at": "2026-08-08T01:33:20.973Z",
+          "status": "downloaded",
+          "source_name": "Conifer Kingdom",
+          "usage_note": "Source-hosted product imagery from Conifer Kingdom. Confirm reuse rights before redistribution."
+        }
+      ],
+      "downloaded_count": 3,
+      "local_files": [
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-wakehurst-pink/01-Acer-palmatum-Wakehurst-Pinkr.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-wakehurst-pink/02-Acer-palmatum-Wakehurst-Pink.jpg",
+        "data-source/Resource/园艺/raw/coniferkingdom-images/acer-palmatum-wakehurst-pink/03-Acer-palmatum-Wakehurst-Pink-2.jpg"
+      ]
+    }
+  }
 }

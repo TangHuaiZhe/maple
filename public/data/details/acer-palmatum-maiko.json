@@ -20,15 +20,21 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-maiko-dwarf-japanese-maple/01-Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063319.webp",
+      "/mrmaple-images/buy-acer-palmatum-maiko-dwarf-japanese-maple/02-Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063323.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-maiko-dwarf-japanese-maple/02-Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063323.webp",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-maiko-dwarf-japanese-maple/02-Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063323.webp",
+      "/mrmaple-images/buy-acer-palmatum-maiko-dwarf-japanese-maple/01-Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063319.webp"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -115,5 +121,59 @@
   "descriptions_zh": {
     "preferred": "这一有趣的小型品种，叶色从黄绿色到鲜绿色不等。 秋季呈现不同深浅层次的黄色，观赏效果佳。 叶片小到中等，5 裂，但形态明显不整齐。 有些裂片狭长，叶缘深且不规则具锯齿，甚至呈浅裂状；也有少数叶片接近典型掌状，但叶缘具极深锯齿。 这些极端形态及其中间过渡类型，常可同时出现在同一株植株上。 红色叶柄短而硬挺。 'Maiko' 生长为直立灌木，高可达 10 英尺（3 米）。 幼年生长较旺，成熟后逐渐开展。 其名称意为“舞姬”或“舞动的人偶”。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-maiko-dwarf-japanese-maple/01-Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063319.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-maiko-dwarf-japanese-maple/02-Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063323.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-maiko-dwarf-japanese-maple/01-Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063319.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Maiko' Dwarf Japanese Maple",
+        "handle": "buy-acer-palmatum-maiko-dwarf-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-maiko-dwarf-japanese-maple",
+        "description_text": "Acer palmatum 'Maiko' Dwarf Japanese Maple Zones 5-9 In traditional Japanese culture, \"maiko\" were young apprentices to geisha girls. Their main jobs consisted of singing songs, performing dances, and serving drinks. Being this Japanese maple is extremely beautiful and dwarf in nature, this name is quite fitting. 'Maiko' forms a mid-size dwarf tree reaching 6-8ft in 15 years. In the early training of \"maiko\" they are taught to how to gracefully serve green tea. In the early spring, Acer palmatum 'Maiko' gracefully serves a spring display of bright green palmate leaves. Some leaves may appear non-uniform and twisted in habit, giving the appearance that the leaves are dancing. You will be dancing too when you see the amazing fall colors of yellow and orange. Choose this 'Maiko' Japanese maple to entertain you and all those who visit your garden.",
+        "image_count": 2,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 2,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-maiko-dwarf-japanese-maple/01-Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063319.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-maiko-dwarf-japanese-maple/02-Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063323.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063319.jpg?v=1722577739",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-maiko-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-maiko-dwarf-japanese-maple/01-Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063319.webp",
+              "content_type": "image/webp",
+              "bytes": 52288,
+              "downloaded_at": "2026-08-08T01:53:54.947Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063323.jpg?v=1722577744",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-maiko-dwarf-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-maiko-dwarf-japanese-maple/02-Acer_palmatum_Maiko_Dwarf_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2063323.webp",
+              "content_type": "image/webp",
+              "bytes": 81362,
+              "downloaded_at": "2026-08-08T01:53:55.625Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

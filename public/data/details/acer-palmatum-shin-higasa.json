@@ -16,15 +16,41 @@
   "images": {
     "count": 7,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/01-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069230.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/02-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069233.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/03-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069235.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/04-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069236.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/05-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069237.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/06-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069238.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/07-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069239.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/08-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069240.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/09-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069241.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/10-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069242.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/11-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069243.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/12-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069244.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/05-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069237.webp",
+    "public_paths": [
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/05-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069237.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/01-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069230.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/02-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069233.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/03-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069235.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/04-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069236.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/06-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069238.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/07-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069239.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/08-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069240.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/09-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069241.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/10-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069242.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/11-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069243.webp",
+      "/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/12-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069244.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -122,5 +148,199 @@
   "descriptions_zh": {
     "preferred": "新日笠是 1984 年在日本埼玉县发现的一个品种，是不可替代的悬浮脉斑叶日本枫树，生长习性上和三河八房比较相似，叶色上和日笠山比较相似。 叶型非常小，只有硬币大小，略有皱纹，在早春长出叶子，上面有明亮的粉红色斑点，覆盖着绿色网状叶脉。 夏季呈绿色和白色，秋季变黄。 节间 紧凑 ， 成年树苗高度约为 1. 5m 。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/01-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069230.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/02-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069233.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/03-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069235.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/04-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069236.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/05-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069237.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/06-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069238.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/07-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069239.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/08-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069240.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/09-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069241.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/10-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069242.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/11-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069243.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/12-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069244.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/01-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069230.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Shin hikasa' Dwarf Variegated Japanese Maple",
+        "handle": "acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+        "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+        "description_text": "Acer palmatum 'Shin hikasa' Dwarf Reticulated Variegated Japanese Maple Zones 5-9 Think of a tightly layered Japanese maple with shingle-like leaves that are variegated like 'Higasayama'. That crazy dwarf Japanese maple exists. It is 'Shin hikasa'. Like all \"Higasayama-types\", they do not variegate well for us in the cold frame or greenhouse. When you plant the Shin hikasa tree outside, you will see the variegation come through, more than likely the following spring. 'Shin hikasa' leafs out in the early spring with bright pink variegation overtop of green reticulated veins. As the summer approaches, the leaves of Shin hikasa turn to cream, and then to white. Fall colors are oranges to reds. 'Shin hikasa' will get 4 to 5 ft in 15 years in a dense tightly layered habit.",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1240,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/01-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069230.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/02-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069233.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/03-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069235.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/04-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069236.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/05-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069237.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/06-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069238.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/07-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069239.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/08-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069240.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/09-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069241.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/10-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069242.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/11-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069243.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/12-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069244.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069230.jpg?v=1722598781",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/01-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069230.webp",
+              "content_type": "image/webp",
+              "bytes": 53322,
+              "downloaded_at": "2026-08-08T01:56:04.855Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069233.jpg?v=1722598787",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/02-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069233.webp",
+              "content_type": "image/webp",
+              "bytes": 51640,
+              "downloaded_at": "2026-08-08T01:56:05.417Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069235.jpg?v=1722598794",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/03-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069235.webp",
+              "content_type": "image/webp",
+              "bytes": 60020,
+              "downloaded_at": "2026-08-08T01:56:05.756Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069236.jpg?v=1722598800",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/04-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069236.webp",
+              "content_type": "image/webp",
+              "bytes": 64188,
+              "downloaded_at": "2026-08-08T01:56:06.413Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069237.jpg?v=1722598808",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/05-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069237.webp",
+              "content_type": "image/webp",
+              "bytes": 133026,
+              "downloaded_at": "2026-08-08T01:56:06.871Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069238.jpg?v=1722598814",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/06-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069238.webp",
+              "content_type": "image/webp",
+              "bytes": 79222,
+              "downloaded_at": "2026-08-08T01:56:07.247Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069239.jpg?v=1722598820",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/07-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069239.webp",
+              "content_type": "image/webp",
+              "bytes": 80744,
+              "downloaded_at": "2026-08-08T01:56:07.606Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069240.jpg?v=1722598825",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/08-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069240.webp",
+              "content_type": "image/webp",
+              "bytes": 104596,
+              "downloaded_at": "2026-08-08T01:56:08.092Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069241.jpg?v=1722598830",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/09-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069241.webp",
+              "content_type": "image/webp",
+              "bytes": 85392,
+              "downloaded_at": "2026-08-08T01:56:08.471Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069242.jpg?v=1722598836",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/10-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069242.webp",
+              "content_type": "image/webp",
+              "bytes": 102442,
+              "downloaded_at": "2026-08-08T01:56:09.014Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069243.jpg?v=1722598841",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/11-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069243.webp",
+              "content_type": "image/webp",
+              "bytes": 60950,
+              "downloaded_at": "2026-08-08T01:56:09.455Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069244.jpg?v=1722598847",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-shin-hikasa-dwarf-variegated-japanese-maple/12-Acer_palmatum_Shin_hikasa_Dwarf_Variegated_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2069244.webp",
+              "content_type": "image/webp",
+              "bytes": 91184,
+              "downloaded_at": "2026-08-08T01:56:09.942Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

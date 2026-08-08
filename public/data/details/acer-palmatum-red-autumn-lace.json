@@ -20,15 +20,21 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/acer-palmatum-red-autumn-lace-japanese-maple/01-redautumnlace1.webp",
+      "/mrmaple-images/acer-palmatum-red-autumn-lace-japanese-maple/02-redautumnlace2.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/acer-palmatum-red-autumn-lace-japanese-maple/02-redautumnlace2.webp",
+    "public_paths": [
+      "/mrmaple-images/acer-palmatum-red-autumn-lace-japanese-maple/02-redautumnlace2.webp",
+      "/mrmaple-images/acer-palmatum-red-autumn-lace-japanese-maple/01-redautumnlace1.webp"
+    ],
+    "public_count": 2
   },
   "sources": [
     {
@@ -118,5 +124,59 @@
   "descriptions_zh": {
     "preferred": "这是意大利米兰附近 Fratelli Gilardelli 苗圃选育的一款极出色的 dissectum 类型品种，其特点是夏季叶色呈现深浅不一的绿色，而枝梢顶端的新叶则带铜色与红色晕染。 新叶在叶基部裂至距基部约 1 毫米处。 绿色叶柄长 3. 5 至 4 厘米。 该品种形成宽广、下垂堆丘状树形，高约 3 至 4 米，冠幅可达 4 至 5 米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-red-autumn-lace-japanese-maple/01-redautumnlace1.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-red-autumn-lace-japanese-maple/02-redautumnlace2.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-red-autumn-lace-japanese-maple/01-redautumnlace1.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Red Autumn Lace' Japanese Maple",
+        "handle": "acer-palmatum-red-autumn-lace-japanese-maple",
+        "product_url": "https://mrmaple.com/products/acer-palmatum-red-autumn-lace-japanese-maple",
+        "description_text": "Acer palmatum 'Red Autumn Lace' Japanese Maple Zones 5-9 'Red Autumn Lace' is a compact deciduous shrub with a dense, mounded shape. Its bright green, finely dissected leaves transition to vibrant orange and red hues in the fall. Grows to 4 ft tall and 5 ft wide in 10 years.",
+        "image_count": 2,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 2,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-red-autumn-lace-japanese-maple/01-redautumnlace1.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-red-autumn-lace-japanese-maple/02-redautumnlace2.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/redautumnlace1.jpg?v=1747703149",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-red-autumn-lace-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-red-autumn-lace-japanese-maple/01-redautumnlace1.webp",
+              "content_type": "image/webp",
+              "bytes": 76282,
+              "downloaded_at": "2026-08-08T01:55:35.909Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/redautumnlace2.jpg?v=1747703149",
+              "product_url": "https://mrmaple.com/products/acer-palmatum-red-autumn-lace-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-palmatum-red-autumn-lace-japanese-maple/02-redautumnlace2.webp",
+              "content_type": "image/webp",
+              "bytes": 125782,
+              "downloaded_at": "2026-08-08T01:55:36.725Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

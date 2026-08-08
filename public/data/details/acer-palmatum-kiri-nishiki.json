@@ -20,15 +20,19 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-dissectum-kiri-nishiki-weeping-japanese-maple/01-Acer_palmatum_Kiri_nishiki_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2060741.jpg"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-dissectum-kiri-nishiki-weeping-japanese-maple/01-Acer_palmatum_Kiri_nishiki_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2060741.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-dissectum-kiri-nishiki-weeping-japanese-maple/01-Acer_palmatum_Kiri_nishiki_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2060741.jpg"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -146,6 +150,45 @@
   "descriptions_zh": {
     "preferred": "多数裂叶型日本枫的叶片看起来较为纤细，但 'Kiri nishiki' 显得更有质感而不过于粗重。 其叶通常为九裂，不像多数裂叶型那样呈明显的二次深裂。 每个裂片更规则地作羽状深裂，而每个小裂片的再裂又较不细碎。 叶长 5-8 厘米，宽 6-9 厘米；叶柄长 2-3 厘米。 叶色底色为明亮的浅绿色，这种较强的色泽在全日照下表现也相当不错。 秋季叶色为浓艳的金黄色，叶尖有时会染上深红与猩红色。 这一丰满、枝条下垂的品种生长较健壮，耐寒性也较好。 与其他近似类型如 'Sekimori' 一样，宜栽植于坡地，或高接嫁接，才能充分展现其枝条优美下垂的观赏效果。 植株高、幅均可达 3 米。 'Kiri nishiki' 在槭树参考书中最早可追溯至 18 世纪初；"
   },
-  "has_mrmaple": false,
-  "mrmaple": null
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 2,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-kiri-nishiki-weeping-japanese-maple/01-Acer_palmatum_Kiri_nishiki_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2060741.jpg"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-kiri-nishiki-weeping-japanese-maple/01-Acer_palmatum_Kiri_nishiki_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2060741.jpg",
+    "products": [
+      {
+        "title": "Acer palmatum 'Kiri nishiki' Weeping Japanese Maple",
+        "handle": "buy-acer-palmatum-dissectum-kiri-nishiki-weeping-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-dissectum-kiri-nishiki-weeping-japanese-maple",
+        "description_text": "Acer palmatum dissectum 'Kiri nishiki' Rare Kiri nishiki Weeping Japanese Maple Zones 5-9 'Kiri nishiki' is a dwarf cascading green laceleaf Japanese maple that has been recorded in early Japanese maple literature. This maple leafs out as a bright chartreuse green, turning orange to red in the fall. The delicut lacey leafs cascade gently on braches that have a heavy pendulous habit. 'Kiri nishiki' may reach up to 5ft by 6ft wide in 10 years.",
+        "image_count": 1,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 1,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-kiri-nishiki-weeping-japanese-maple/01-Acer_palmatum_Kiri_nishiki_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2060741.jpg"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Kiri_nishiki_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2060741.jpg?v=1722572623",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-dissectum-kiri-nishiki-weeping-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-dissectum-kiri-nishiki-weeping-japanese-maple/01-Acer_palmatum_Kiri_nishiki_Weeping_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2060741.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 121027,
+              "downloaded_at": "2026-08-08T01:53:18.494Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

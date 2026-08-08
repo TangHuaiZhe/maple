@@ -18,7 +18,9 @@ import {
 } from "./fetch-image-common.mjs";
 
 const MRMAPLE_COLLECTION_URL = "https://mrmaple.com/collections/buy-japanese-maples";
+const MRMAPLE_PRODUCTS_API_URL = "https://mrmaple.com/products.json";
 const MRMAPLE_POLICY_URL = "https://mrmaple.com/pages/image-and-description-use-policy";
+const MRMAPLE_PRODUCTS_PAGE_SIZE = 250;
 const MAX_IMAGES_PER_PRODUCT = 12;
 const BOTANICAL_STOPWORDS = new Set([
   "acer",
@@ -85,6 +87,66 @@ function getDistinctiveTokens(record) {
   return uniqueValues(tokens);
 }
 
+function normalizeWords(value) {
+  return String(value || "")
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^A-Za-z0-9]+/g, " ")
+    .toLowerCase()
+    .trim();
+}
+
+function extractQuotedPhrases(value) {
+  return [...String(value || "").matchAll(/[\u0027\u2018\u2019\"]([^\u0027\u2018\u2019\"]{2,80})[\u0027\u2018\u2019\"]/g)]
+    .map((match) => match[1]);
+}
+
+function stripCultivarPrefix(value) {
+  return String(value || "")
+    .replace(/^acer\s+[a-z]+(?:\s+x)?(?:\s+(?:subsp|var)\.?\s+[a-z-]+)?\s*/i, "")
+    .replace(/^japanese\s+maple\s+/i, "")
+    .replace(/\s+\([^)]*\)\s*$/g, "")
+    .trim();
+}
+
+function getExactCultivarPhraseEntries(record) {
+  const primaryValues = [
+    record.display_name,
+    record.canonical_name,
+    ...extractQuotedPhrases(record.scientific_name),
+  ];
+  const secondaryValues = [
+    ...(record.aliases || []),
+    ...(record.search_terms || []),
+  ];
+  const entries = [];
+  const seen = new Set();
+
+  for (const [values, priority] of [[primaryValues, 3], [secondaryValues, 2]]) {
+    for (const value of values) {
+      if (!value || /[\u4e00-\u9fff]/.test(String(value))) continue;
+      const phrase = stripCultivarPrefix(value);
+      const words = normalizeWords(phrase).split(/\s+/).filter(Boolean);
+      const compact = normalizeText(phrase);
+      const distinctiveWords = words.filter((word) => (
+        word.length >= 3 && !BOTANICAL_STOPWORDS.has(word)
+      ));
+
+      if (!compact || compact.length < 4 || !distinctiveWords.length) continue;
+      if (seen.has(compact)) continue;
+      seen.add(compact);
+      entries.push({ compact, priority, words });
+    }
+  }
+
+  return entries;
+}
+
+function getSpeciesToken(record) {
+  const speciesWords = normalizeWords(record.species || record.scientific_name || "").split(/\s+/).filter(Boolean);
+  return speciesWords[0] === "acer" ? speciesWords[1] || "" : "";
+}
+
 function hasMultiWordCultivarName(record) {
   return getLatinSearchTerms(record).some((value) => (
     value
@@ -116,38 +178,28 @@ async function searchMrMapleProductUrls(term) {
 function buildMrMapleScore(record, product) {
   const title = normalizeText(product.title);
   const handle = normalizeText(product.handle);
-  const phraseTokens = getLatinSearchTerms(record)
-    .map(normalizeText)
-    .filter((value) => value && !BOTANICAL_STOPWORDS.has(value));
-  const wordTokens = getDistinctiveTokens(record).map(normalizeText).filter(Boolean);
-  let score = 0;
-  let matched = 0;
-
-  for (const token of phraseTokens) {
-    if (title.includes(token)) {
-      score += 18;
-      matched += 1;
-    }
-    if (handle.includes(token)) {
-      score += 14;
-      matched += 1;
-    }
-  }
-
-  for (const token of wordTokens) {
-    if (title.includes(token)) {
-      score += 7;
-      matched += 1;
-    }
-    if (handle.includes(token)) {
-      score += 5;
-      matched += 1;
-    }
-  }
-
-  if (!matched) {
+  const speciesToken = getSpeciesToken(record);
+  if (speciesToken && !title.includes(speciesToken) && !handle.includes(speciesToken)) {
     return 0;
   }
+
+  const quotedProductPhrases = extractQuotedPhrases(product.title).map(normalizeText);
+  const exactPhrase = getExactCultivarPhraseEntries(record)
+    .find((entry) => {
+      const quotedMatch = quotedProductPhrases.find((quoted) => quoted === entry.compact);
+      if (quotedMatch) return true;
+
+      const containedInQuotedPhrase = quotedProductPhrases.some((quoted) => quoted.includes(entry.compact));
+      if (containedInQuotedPhrase) return false;
+
+      return title.includes(entry.compact) || handle.includes(entry.compact);
+    });
+
+  if (!exactPhrase) return 0;
+
+  let score = 1000 + exactPhrase.priority * 100;
+  if (title.includes(exactPhrase.compact)) score += 20;
+  if (handle.includes(exactPhrase.compact)) score += 20;
 
   if (handle.includes("forpickuponly") || handle.includes("doesnotship")) {
     score -= 8;
@@ -169,13 +221,59 @@ async function fetchMrMapleProduct(productUrl) {
   };
 }
 
-async function resolveMrMapleProducts(record) {
+async function fetchAllMrMapleProducts() {
+  const products = [];
+
+  for (let page = 1; page <= 20; page += 1) {
+    const response = await fetchJson(`${MRMAPLE_PRODUCTS_API_URL}?limit=${MRMAPLE_PRODUCTS_PAGE_SIZE}&page=${page}`);
+    const pageProducts = response.products || [];
+    if (!pageProducts.length) break;
+
+    products.push(...pageProducts.map((product) => ({
+      ...product,
+      product_url: `https://mrmaple.com/products/${product.handle}`,
+    })));
+
+    if (pageProducts.length < MRMAPLE_PRODUCTS_PAGE_SIZE) break;
+  }
+
+  return uniqueValues(products.map((product) => product.handle))
+    .map((handle) => products.find((product) => product.handle === handle))
+    .filter(Boolean);
+}
+
+function getProductImageUrls(product) {
+  return uniqueValues([
+    ...(product.media || [])
+      .filter((item) => item?.media_type === "image")
+      .map((item) => typeof item === "string" ? item : item.src),
+    ...(product.images || [])
+      .map((item) => typeof item === "string" ? item : item?.src),
+  ]).slice(0, MAX_IMAGES_PER_PRODUCT);
+}
+
+async function resolveMrMapleProducts(record, productIndex) {
   const directUrls = uniqueValues((record.mrmaple?.products || []).map((product) => product.product_url).filter(Boolean));
   const discoveredUrls = [...directUrls];
   const distinctiveTokens = getDistinctiveTokens(record);
+  const hasStrongExactPhrase = getExactCultivarPhraseEntries(record)
+    .some((entry) => entry.priority === 3 && entry.compact.length >= 5);
 
-  if (!discoveredUrls.length && (distinctiveTokens.length >= 2 || hasMultiWordCultivarName(record))) {
-    for (const term of getLatinSearchTerms(record)) {
+  if (!discoveredUrls.length && productIndex?.length) {
+    return productIndex
+      .map((product) => ({
+        ...product,
+        match_score: buildMrMapleScore(record, product),
+      }))
+      .filter((product) => product.match_score > 0 && getProductImageUrls(product).length)
+      .sort((a, b) => b.match_score - a.match_score);
+  }
+
+  if (!discoveredUrls.length && (distinctiveTokens.length >= 2 || hasMultiWordCultivarName(record) || hasStrongExactPhrase)) {
+    // Prefer the display/canonical/scientific names. Searching every alias is
+    // both slow and more likely to surface an unrelated product with a shared
+    // short token; the exact-match gate below is the final authority.
+    for (const term of getLatinSearchTerms(record).slice(0, 3)) {
       try {
         const urls = await searchMrMapleProductUrls(term);
         discoveredUrls.push(...urls);
@@ -200,21 +298,16 @@ async function resolveMrMapleProducts(record) {
   return products.sort((a, b) => b.match_score - a.match_score);
 }
 
-async function downloadMrMapleImages(record, dryRun) {
-  const products = await resolveMrMapleProducts(record);
+async function downloadMrMapleImages(record, dryRun, productIndex) {
+  const products = await resolveMrMapleProducts(record, productIndex);
   if (!products.length) {
     return { downloaded: 0, matched: 0, selectedHandle: null };
   }
 
   const selectedProduct = products[0];
-  const images = uniqueValues(
-    [
-      ...(selectedProduct.media || []).filter((item) => item.media_type === "image").map((item) => item.src),
-      ...(selectedProduct.images || []),
-    ]
-      .map((value) => (value || "").replace(/^\/\//, "https://"))
-      .filter(Boolean),
-  ).slice(0, MAX_IMAGES_PER_PRODUCT);
+  const images = getProductImageUrls(selectedProduct)
+    .map((value) => (value || "").replace(/^\/\//, "https://"))
+    .filter(Boolean);
 
   if (!images.length) {
     return { downloaded: 0, matched: products.length, selectedHandle: selectedProduct.handle };
@@ -271,9 +364,11 @@ async function downloadMrMapleImages(record, dryRun) {
         title: selectedProduct.title,
         handle: selectedProduct.handle,
         product_url: selectedProduct.product_url,
-        description_text: stripHtml(selectedProduct.description),
+        description_text: stripHtml(selectedProduct.description || selectedProduct.body_html),
         image_count: images.length,
-        match_method: directProductUrlExists(record) ? "existing_product_url" : "search_html",
+        match_method: directProductUrlExists(record)
+          ? "existing_product_url"
+          : (productIndex?.length ? "collection_products_json" : "search_html"),
         match_score: selectedProduct.match_score,
         images: {
           downloaded_count: downloadItems.length,
@@ -307,15 +402,16 @@ async function main() {
   const limit = parseLimit(20);
   const records = await loadRecords();
   const candidates = buildCandidates(records, idsFilter, force).slice(0, limit);
+  const productIndex = await fetchAllMrMapleProducts();
 
-  console.log(`Mr Maple candidates: ${candidates.length}`);
+  console.log(`Mr Maple candidates: ${candidates.length}, products: ${productIndex.length}`);
 
   let downloadedRecords = 0;
   let downloadedImages = 0;
 
   for (const record of candidates) {
     try {
-      const result = await downloadMrMapleImages(record, dryRun);
+      const result = await downloadMrMapleImages(record, dryRun, productIndex);
       if (result.downloaded > 0) {
         downloadedRecords += 1;
         downloadedImages += result.downloaded;

@@ -16,15 +16,41 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/01-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074967.webp",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/02-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074968.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/03-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074969.webp",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/04-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074970.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/05-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074971.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/06-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074972.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/07-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074973.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/08-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074974.webp",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/09-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074975.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/10-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074976.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/11-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074977.webp",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/12-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074978.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/10-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074976.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/10-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074976.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/01-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074967.webp",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/02-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074968.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/03-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074969.webp",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/04-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074970.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/05-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074971.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/06-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074972.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/07-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074973.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/08-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074974.webp",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/09-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074975.jpg",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/11-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074977.webp",
+      "/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/12-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074978.webp"
+    ],
+    "public_count": 12
   },
   "sources": [
     {
@@ -52,5 +78,199 @@
   "descriptions_zh": {
     "preferred": "秋季丰富的橙色与猩红色交织出的绚丽色彩，使其成为备受喜爱的中型槭树。 春叶浅黄绿色，随后转绿，并因覆盖极细茸毛而带有银灰色雾感；这些茸毛在盛夏时消失。 'Ogura yama' 在外观和叶片上与 'Microphyllum' 相似，但生长较慢，高约 4 米。 其植株健壮、耐寒。 名称意为“Mount Ogura”。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/01-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074967.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/02-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074968.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/03-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074969.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/04-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074970.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/05-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074971.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/06-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074972.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/07-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074973.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/08-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074974.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/09-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074975.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/10-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074976.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/11-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074977.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/12-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074978.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/01-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074967.webp",
+    "products": [
+      {
+        "title": "Acer sieboldianum 'Ogurayama' Full Moon Japanese Maple",
+        "handle": "buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+        "description_text": "Acer sieboldianum 'Ogurayama' Great Fall Color - Cold Tolerant Japanese Maple Zones 4b-9 Acer sieboldianum 'Ogurayama’ is an extremely cold tolerant Japanese maple that is a strong grower and has a great fall color. ’Ogurayama’ leafs out in the spring with medium-sizes olive green foliage that are heavily pubescent. The shape of the tree is upright, reaching 10-12 ft in height in 15 years. Fall color is fairly reliable and can range from yellow to orange to red. No matter which color, it is always incredible! ‘Ogurayama’ is sometimes listed as Acer shirasawanum or Acer japonicum, but we believe is Acer sieboldianum when you pay attention to many of the little details. Sometimes this tree is labeled ‘Ogure yama’.",
+        "image_count": 12,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 12,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/01-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074967.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/02-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074968.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/03-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074969.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/04-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074970.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/05-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074971.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/06-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074972.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/07-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074973.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/08-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074974.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/09-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074975.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/10-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074976.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/11-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074977.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/12-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074978.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074967.jpg?v=1722621973",
+              "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/01-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074967.webp",
+              "content_type": "image/webp",
+              "bytes": 204778,
+              "downloaded_at": "2026-08-08T01:48:07.342Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074968.jpg?v=1722621979",
+              "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/02-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074968.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 104944,
+              "downloaded_at": "2026-08-08T01:48:08.113Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074969.jpg?v=1722621984",
+              "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/03-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074969.webp",
+              "content_type": "image/webp",
+              "bytes": 116368,
+              "downloaded_at": "2026-08-08T01:48:08.872Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074970.jpg?v=1722621991",
+              "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/04-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074970.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 798091,
+              "downloaded_at": "2026-08-08T01:48:11.762Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074971.jpg?v=1722621997",
+              "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/05-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074971.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 415967,
+              "downloaded_at": "2026-08-08T01:48:13.264Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074972.jpg?v=1722622002",
+              "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/06-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074972.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 326111,
+              "downloaded_at": "2026-08-08T01:48:14.362Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 7,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074973.jpg?v=1722622007",
+              "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/07-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074973.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 284513,
+              "downloaded_at": "2026-08-08T01:48:15.252Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 8,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074974.jpg?v=1722622012",
+              "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/08-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074974.webp",
+              "content_type": "image/webp",
+              "bytes": 162692,
+              "downloaded_at": "2026-08-08T01:48:16.137Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 9,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074975.jpg?v=1722622017",
+              "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/09-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074975.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 50705,
+              "downloaded_at": "2026-08-08T01:48:16.817Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 10,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074976.jpg?v=1722622022",
+              "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/10-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074976.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 1068924,
+              "downloaded_at": "2026-08-08T01:48:19.698Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 11,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074977.jpg?v=1722622028",
+              "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/11-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074977.webp",
+              "content_type": "image/webp",
+              "bytes": 143580,
+              "downloaded_at": "2026-08-08T01:48:20.595Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 12,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074978.jpg?v=1722622034",
+              "product_url": "https://mrmaple.com/products/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-sieboldianum-ogurayama-full-moon-japanese-maple/12-Acer_sieboldianum_Ogurayama_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074978.webp",
+              "content_type": "image/webp",
+              "bytes": 128814,
+              "downloaded_at": "2026-08-08T01:48:21.626Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

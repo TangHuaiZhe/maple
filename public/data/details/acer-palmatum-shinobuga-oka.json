@@ -20,15 +20,29 @@
   "images": {
     "count": 0,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/01-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042333.webp",
+      "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/02-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042339.webp",
+      "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/03-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042346.webp",
+      "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/04-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042352.jpg",
+      "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/05-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042359.webp",
+      "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/06-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042363.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/04-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042352.jpg",
+    "public_paths": [
+      "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/04-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042352.jpg",
+      "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/01-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042333.webp",
+      "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/02-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042339.webp",
+      "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/03-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042346.webp",
+      "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/05-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042359.webp",
+      "/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/06-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042363.webp"
+    ],
+    "public_count": 6
   },
   "sources": [
     {
@@ -178,6 +192,115 @@
   "descriptions_zh": {
     "preferred": "叶片呈 Linearilobum Group 特有的细长狭带状外形。 多为 5 裂，有时为 3 裂或 7 裂，长 6-9 厘米，宽可达 8 厘米。 每个裂片呈带状，宽不超过 5-10 毫米。 裂片常下垂，整体呈现下泻感。 叶缘可为全缘，或略具细齿。 幼年叶则为深裂 matsumurae 型，裂片较宽，呈卵形并具齿。 叶柄长 2-4 厘米。 叶色鲜明而较深的绿色，整个生长季持色性良好。 随着秋季临近，State University Archives, Corvallis 也将其用于盆景栽培。 其同物异名、别名、不同拼写及误拼很多，包括 'Fingerlobe'、'Lineare'、"
   },
-  "has_mrmaple": false,
-  "mrmaple": null
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 2,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/01-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042333.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/02-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042339.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/03-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042346.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/04-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042352.jpg",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/05-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042359.webp",
+      "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/06-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042363.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/01-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042333.webp",
+    "products": [
+      {
+        "title": "Acer palmatum 'Ao shime-no-uchi shidare' Green Linearilobum Japanese Maple",
+        "handle": "buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple",
+        "product_url": "https://mrmaple.com/products/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple",
+        "description_text": "Acer palmatum 'Ao shime-no-uchi shidare' Rare Green Linearilobum Japanese Maple Zones 5-9 ‘Ao shime-no-uchi shidare' is a shorter more multi-stemmed linearilobum. While \"shidare\" often translates as weeping, it appears that it means refers to the spreading habit of this green strapleaf Japanese maple. While other similar selections have a taller and narrow habit, 'Ao shime-no-uchi shidare' has a shorter and wider habit, which is quite unique. 'Ao shime-no-uchi shidare' may reach 6-8 ft tall and equally as wide in 10 years. Fall color on this selection ranges from yellow to orange.",
+        "image_count": 6,
+        "match_method": "collection_products_json",
+        "match_score": 1240,
+        "images": {
+          "downloaded_count": 6,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/01-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042333.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/02-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042339.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/03-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042346.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/04-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042352.jpg",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/05-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042359.webp",
+            "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/06-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042363.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042333.jpg?v=1722545825",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/01-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042333.webp",
+              "content_type": "image/webp",
+              "bytes": 531692,
+              "downloaded_at": "2026-08-08T01:56:10.830Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 2,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042339.jpg?v=1722545832",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/02-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042339.webp",
+              "content_type": "image/webp",
+              "bytes": 414428,
+              "downloaded_at": "2026-08-08T01:56:11.572Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 3,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042346.jpg?v=1722545839",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/03-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042346.webp",
+              "content_type": "image/webp",
+              "bytes": 266830,
+              "downloaded_at": "2026-08-08T01:56:12.149Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 4,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042352.jpg?v=1722545846",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/04-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042352.jpg",
+              "content_type": "image/jpeg",
+              "bytes": 1221920,
+              "downloaded_at": "2026-08-08T01:56:13.637Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 5,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042359.jpg?v=1722545853",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/05-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042359.webp",
+              "content_type": "image/webp",
+              "bytes": 286844,
+              "downloaded_at": "2026-08-08T01:56:14.141Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            },
+            {
+              "index": 6,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042363.jpg?v=1722545861",
+              "product_url": "https://mrmaple.com/products/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/buy-acer-palmatum-ao-shime-no-uchi-shidare-green-linearilobum-japanese-maple/06-Acer_palmatum_Ao_shime-no-uchi_shidare_Green_Linearilobum_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2042363.webp",
+              "content_type": "image/webp",
+              "bytes": 493120,
+              "downloaded_at": "2026-08-08T01:56:14.874Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

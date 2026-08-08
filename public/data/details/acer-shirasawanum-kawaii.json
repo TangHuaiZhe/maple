@@ -16,15 +16,19 @@
   "images": {
     "count": 7,
     "public_rhs_paths": [],
-    "public_mrmaple_paths": [],
+    "public_mrmaple_paths": [
+      "/mrmaple-images/acer-shirasawanum-kawaii/01-Acer_shirasawanum_Kawaii_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074392.webp"
+    ],
     "public_herter_paths": [],
     "public_ncsu_paths": [],
     "public_conifer_paths": [],
     "public_jmac_paths": [],
     "public_user_paths": [],
-    "public_cover_path": null,
-    "public_paths": [],
-    "public_count": 0
+    "public_cover_path": "/mrmaple-images/acer-shirasawanum-kawaii/01-Acer_shirasawanum_Kawaii_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074392.webp",
+    "public_paths": [
+      "/mrmaple-images/acer-shirasawanum-kawaii/01-Acer_shirasawanum_Kawaii_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074392.webp"
+    ],
+    "public_count": 1
   },
   "sources": [
     {
@@ -120,5 +124,45 @@
   "descriptions_zh": {
     "preferred": "卡哇伊耐寒性绝佳，是一种矮生型枫树。 叶色深橙色至 深红色，由俄勒冈的 Jim Baggett 发现 Talon Buchholz 命 名。 其叶片小至中型，叶裂深至基部，且裂叶亦分裂为 小裂叶，小裂叶边缘呈粗糙的钩状锯齿。 这个品种的名 字因其可爱的外观而得名，成年树高约 1 米。"
   },
-  "has_mrmaple": false
+  "has_mrmaple": true,
+  "mrmaple": {
+    "collection_url": "https://mrmaple.com/collections/buy-japanese-maples",
+    "policy_url": "https://mrmaple.com/pages/image-and-description-use-policy",
+    "matched_product_count": 1,
+    "local_files": [
+      "data-source/Resource/园艺/raw/mrmaple-images/acer-shirasawanum-kawaii/01-Acer_shirasawanum_Kawaii_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074392.webp"
+    ],
+    "cover_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-shirasawanum-kawaii/01-Acer_shirasawanum_Kawaii_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074392.webp",
+    "products": [
+      {
+        "title": "Acer shirasawanum 'Kawaii' Full Moon Japanese Maple",
+        "handle": "acer-shirasawanum-kawaii",
+        "product_url": "https://mrmaple.com/products/acer-shirasawanum-kawaii",
+        "description_text": "Acer shirasawanum 'Kawaii' Full Moon Maple Zone 5 Acer shirasawanum 'Kawaii' is an attractive deciduous dwarf shrub with a low-mounding habit. Its spring and summer foliage is a beautiful orange-plum-red color and is more delicate than most dissectums. This maple is sure to draw attention with its dramatic fall colors of brilliant red and deep orange. Hardy to -20 degrees and preferring sun or partial shade in well-drained soil, the",
+        "image_count": 1,
+        "match_method": "collection_products_json",
+        "match_score": 1340,
+        "images": {
+          "downloaded_count": 1,
+          "local_files": [
+            "data-source/Resource/园艺/raw/mrmaple-images/acer-shirasawanum-kawaii/01-Acer_shirasawanum_Kawaii_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074392.webp"
+          ],
+          "download_items": [
+            {
+              "index": 1,
+              "source_url": "https://cdn.shopify.com/s/files/1/1920/9319/files/Acer_shirasawanum_Kawaii_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074392.png?v=1722618607",
+              "product_url": "https://mrmaple.com/products/acer-shirasawanum-kawaii",
+              "local_path": "data-source/Resource/园艺/raw/mrmaple-images/acer-shirasawanum-kawaii/01-Acer_shirasawanum_Kawaii_Full_Moon_Japanese_Maple_-_Mr_Maple_Buy_Japanese_Maple_Trees-2074392.webp",
+              "content_type": "image/webp",
+              "bytes": 141082,
+              "downloaded_at": "2026-08-08T01:53:18.103Z",
+              "status": "downloaded",
+              "source_name": "Mr Maple",
+              "usage_note": "Copyrighted by MrMaple.com. Not authorized for use without expressed written consent."
+            }
+          ]
+        }
+      }
+    ]
+  }
 }
