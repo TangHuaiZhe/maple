@@ -1,4 +1,5 @@
-import { hasContent, normalizeCultivarToken, uniqueValues } from "./dataUtils.mjs";
+import { hasContent, normalizeCultivarToken, uniqueValues } from "./dataUtils";
+import type { CultivarRecord, Locale } from "./types";
 
 const latinCollator = new Intl.Collator("en", { numeric: true, sensitivity: "base" });
 const chineseCollator = new Intl.Collator("zh-Hans-CN", { numeric: true, sensitivity: "base" });
@@ -12,15 +13,15 @@ const DESCRIPTION_NOISE_MARKERS = [
   /This chapter presents/i,
 ];
 
-export function normalizeSearchText(text) {
+export function normalizeSearchText(text: string | null | undefined) {
   return (text || "").toLowerCase().trim();
 }
 
-export function isDiscoveryHiddenRecord(record) {
+export function isDiscoveryHiddenRecord(record: CultivarRecord | null | undefined) {
   return Boolean(record?.discovery_hidden);
 }
 
-export function getKnownCultivarTokens(item) {
+export function getKnownCultivarTokens(item: CultivarRecord) {
   return new Set(
     [
       item.display_name,
@@ -33,7 +34,7 @@ export function getKnownCultivarTokens(item) {
   );
 }
 
-export function cleanDescriptionText(text, item) {
+export function cleanDescriptionText(text: string | null | undefined, item?: CultivarRecord) {
   if (!hasContent(text)) return "";
 
   let cleaned = String(text)
@@ -84,7 +85,7 @@ export function cleanDescriptionText(text, item) {
   return cleaned.replace(/\s+/g, " ").trim();
 }
 
-export function getDescriptionPenalty(text) {
+export function getDescriptionPenalty(text: string | null | undefined) {
   if (!hasContent(text)) {
     return 100;
   }
@@ -114,7 +115,7 @@ export function getDescriptionPenalty(text) {
   return penalty;
 }
 
-export function buildDescriptionPreview(text, locale = "zh", maxChars) {
+export function buildDescriptionPreview(text: string | null | undefined, locale: Locale = "zh", maxChars?: number) {
   if (!hasContent(text)) {
     return "";
   }
@@ -145,10 +146,10 @@ export function buildDescriptionPreview(text, locale = "zh", maxChars) {
   return result.length < normalized.length ? `${result}...` : result;
 }
 
-export function getPreferredDescription(item, locale = "zh") {
+export function getPreferredDescription(item: CultivarRecord, locale: Locale = "zh") {
   const descriptions = locale === "en" ? (item.descriptions_en || item.descriptions) : item.descriptions;
   const rhs = locale === "en" ? (item.rhs_en || item.rhs) : item.rhs;
-  const sourceDescriptions = (item.sources || []).map((source) => source.description).filter(hasContent);
+  const sourceDescriptions = (item.sources || []).map((source) => source.description).filter((value): value is string => typeof value === "string" && hasContent(value));
   const localizedSourceDescriptions = locale === "en"
     ? [
         ...sourceDescriptions.filter((value) => !/[\u4e00-\u9fff]/.test(value)),
@@ -180,7 +181,7 @@ export function getPreferredDescription(item, locale = "zh") {
   return candidates[0]?.text || "";
 }
 
-export function getEditorialCover(item) {
+export function getEditorialCover(item: CultivarRecord) {
   if (item.cover_path) {
     return item.cover_path;
   }
@@ -196,11 +197,11 @@ export function getEditorialCover(item) {
   ])[0] || null;
 }
 
-export function getDetailCover(item) {
+export function getDetailCover(item: CultivarRecord) {
   return item.images?.public_cover_path || getEditorialCover(item);
 }
 
-export function getVisibleImagePaths(item) {
+export function getVisibleImagePaths(item: CultivarRecord | null | undefined): string[] {
   return uniqueValues([
     ...(item?.images?.public_rhs_paths || []),
     ...(item?.images?.public_mrmaple_paths || []),
@@ -212,7 +213,7 @@ export function getVisibleImagePaths(item) {
   ]);
 }
 
-export function getVisibleCover(item, { prioritizeEditorial = false } = {}) {
+export function getVisibleCover(item: CultivarRecord | null | undefined, { prioritizeEditorial = false }: { prioritizeEditorial?: boolean } = {}) {
   const visibleImages = getVisibleImagePaths(item);
 
   if (prioritizeEditorial) {
@@ -241,7 +242,7 @@ export function getVisibleCover(item, { prioritizeEditorial = false } = {}) {
   return null;
 }
 
-export function getCoverSourceKey(item, cover) {
+export function getCoverSourceKey(item: CultivarRecord, cover: string | null | undefined) {
   if (!cover) return "none";
   if (item.cover_source && (!item.images || item.cover_path === cover)) {
     const normalizedSource = String(item.cover_source).toLowerCase();
@@ -264,7 +265,7 @@ export function getCoverSourceKey(item, cover) {
   return "none";
 }
 
-export function summarizeText(text, locale = "zh", limit) {
+export function summarizeText(text: string | null | undefined, locale: Locale = "zh", limit?: number) {
   if (!text) return locale === "en" ? "No summary available." : "暂无简介";
 
   const normalized = String(text).replace(/\s+/g, " ").trim();
@@ -293,7 +294,7 @@ export function summarizeText(text, locale = "zh", limit) {
   return result.length < normalized.length ? `${result}...` : result;
 }
 
-export function getLatinSortLabel(item) {
+export function getLatinSortLabel(item: CultivarRecord) {
   const candidates = [
     item.display_name,
     item.canonical_name,
@@ -301,20 +302,20 @@ export function getLatinSortLabel(item) {
     ...(item.aliases || []),
   ];
 
-  return candidates.find((value) => hasContent(value) && /[A-Za-z]/.test(value)) || "";
+  return candidates.find((value): value is string => typeof value === "string" && hasContent(value) && /[A-Za-z]/.test(value)) || "";
 }
 
-export function getChineseSortLabel(item) {
+export function getChineseSortLabel(item: CultivarRecord) {
   return item.chinese_name || item.display_name || item.canonical_name || item.scientific_name || "";
 }
 
-export function getAlphaGroup(item) {
+export function getAlphaGroup(item: CultivarRecord) {
   const label = getLatinSortLabel(item);
   const match = label.match(/[A-Za-z]/);
   return match ? match[0].toUpperCase() : "#";
 }
 
-export function compareCultivars(a, b) {
+export function compareCultivars(a: CultivarRecord, b: CultivarRecord) {
   const aGroup = getAlphaGroup(a);
   const bGroup = getAlphaGroup(b);
 
@@ -330,15 +331,15 @@ export function compareCultivars(a, b) {
   return chineseCollator.compare(getChineseSortLabel(a), getChineseSortLabel(b));
 }
 
-export function matchesQuery(item, query) {
+export function matchesQuery(item: CultivarRecord, query: string) {
   if (!query) return true;
 
   return (item.search_index || "").includes(query);
 }
 
-export function getAlphabetSections(records) {
+export function getAlphabetSections(records: CultivarRecord[]): Array<[string, CultivarRecord[]]> {
   const sorted = [...records].sort(compareCultivars);
-  const map = new Map();
+  const map = new Map<string, CultivarRecord[]>();
 
   sorted.forEach((item) => {
     const group = getAlphaGroup(item);

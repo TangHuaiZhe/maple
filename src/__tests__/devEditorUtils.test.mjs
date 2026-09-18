@@ -5,7 +5,7 @@ import {
   assertEditableRecordShape,
   mergeEditableRecord,
   pickEditableRecord,
-} from "../devEditorUtils.mjs";
+} from "../devEditorUtils.ts";
 
 test("pickEditableRecord exposes only editable cultivar fields with safe defaults", () => {
   const editable = pickEditableRecord({

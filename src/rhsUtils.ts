@@ -1,6 +1,7 @@
-import { hasContent, uniqueValues } from "./dataUtils.mjs";
+import { hasContent, uniqueValues } from "./dataUtils";
+import type { CultivarRecord, Locale, RhsRecord } from "./types";
 
-export function getSizeSummary(rhs, rhsEnglish, locale = "zh") {
+export function getSizeSummary(rhs: RhsRecord | undefined, rhsEnglish: RhsRecord | undefined, locale: Locale = "zh") {
   if (!rhs) return "";
 
   const height = getLocalizedRhsValue(locale, rhs.dimensions?.height, rhsEnglish?.dimensions?.height, { measurement: true });
@@ -23,7 +24,7 @@ export function getSizeSummary(rhs, rhsEnglish, locale = "zh") {
   return parts.join(" · ");
 }
 
-export function getDetailTraits(item, locale = "zh", rhsLabels = RHS_FIELD_LABELS[locale] || RHS_FIELD_LABELS.zh) {
+export function getDetailTraits(item: CultivarRecord, locale: Locale = "zh", rhsLabels = RHS_FIELD_LABELS[locale] || RHS_FIELD_LABELS.zh) {
   const rhs = item?.rhs;
   const rhsEnglish = item?.rhs_en || item?.rhs;
 
@@ -37,7 +38,7 @@ export function getDetailTraits(item, locale = "zh", rhsLabels = RHS_FIELD_LABEL
   ]);
 }
 
-export function getChineseAliases(item) {
+export function getChineseAliases(item: CultivarRecord) {
   return uniqueValues(
     [...(item.aliases || []), ...(item.search_terms || [])]
       .map((value) => (typeof value === "string" ? value.replace(/\s+/g, "").trim() : ""))
@@ -46,7 +47,7 @@ export function getChineseAliases(item) {
   );
 }
 
-export const RHS_VALUE_TRANSLATIONS = {
+export const RHS_VALUE_TRANSLATIONS: Record<string, string> = {
   Architectural: "造型性强",
   Acid: "酸性",
   Bushy: "丛生型",
@@ -137,7 +138,7 @@ export const RHS_FIELD_LABELS = {
   },
 };
 
-export function translateRhsValue(value) {
+export function translateRhsValue(value: unknown) {
   if (!hasContent(value) || typeof value !== "string") {
     return value;
   }
@@ -154,7 +155,7 @@ export function translateRhsValue(value) {
     .join("、");
 }
 
-export function translateRhsMeasurement(value) {
+export function translateRhsMeasurement(value: unknown) {
   if (!hasContent(value) || typeof value !== "string") {
     return value;
   }
@@ -170,7 +171,7 @@ export function translateRhsMeasurement(value) {
     .trim();
 }
 
-export function getLocalizedRhsValue(locale, localizedValue, englishValue, { measurement = false } = {}) {
+export function getLocalizedRhsValue(locale: Locale, localizedValue: unknown, englishValue: unknown, { measurement = false }: { measurement?: boolean } = {}) {
   const fallbackValue = hasContent(englishValue) ? englishValue : localizedValue;
 
   if (locale === "en") {

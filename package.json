@@ -12,9 +12,10 @@
     "fetch-conifer-images": "node ./scripts/fetch-conifer-images.mjs",
     "fetch-jmac-images": "node ./scripts/fetch-jmac-images.mjs",
     "build-info:web": "node ./scripts/write-web-build-info.mjs",
-    "test": "node --test src/__tests__/*.test.mjs scripts/__tests__/*.test.mjs",
+    "test": "tsx --test src/__tests__/*.test.mjs scripts/__tests__/*.test.mjs",
+    "typecheck": "tsc --noEmit",
     "check:data": "node ./scripts/check-data.mjs",
-    "check:build": "npm run check:data && npm test && npm run build",
+    "check:build": "npm run check:data && npm run typecheck && npm test && npm run build",
     "image:audit": "node ./scripts/image-audit.mjs",
     "image:thumbs": "node ./scripts/image-thumbs.mjs",
     "image:thumbs:write": "node ./scripts/image-thumbs.mjs --write",
@@ -59,8 +60,12 @@
     "react-router-dom": "^7.14.0"
   },
   "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
     "@vitejs/plugin-react": "^6.0.1",
     "sharp": "^0.34.5",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2",
     "vite": "^8.0.8"
   }
 }

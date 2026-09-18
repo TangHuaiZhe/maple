@@ -2,18 +2,24 @@ const DEFAULT_MAX_IMAGE_EDGE = 1600;
 const DEFAULT_JPEG_QUALITY = 0.82;
 const COMPRESSIBLE_IMAGE_TYPES = new Set(["image/jpeg", "image/png", "image/webp"]);
 
-export function shouldAttemptImageCompression(file) {
+interface ImageCompressionOptions {
+  compress?: boolean;
+  maxEdge?: number;
+  quality?: number;
+}
+
+export function shouldAttemptImageCompression(file?: File | null) {
   return Boolean(file && COMPRESSIBLE_IMAGE_TYPES.has(file.type));
 }
 
-export function getCompressedImageFileName(fileName) {
+export function getCompressedImageFileName(fileName?: string | null) {
   const cleanName = String(fileName || "image");
   const dotIndex = cleanName.lastIndexOf(".");
   const baseName = dotIndex > 0 ? cleanName.slice(0, dotIndex) : cleanName;
   return `${baseName || "image"}.jpg`;
 }
 
-function readImage(file) {
+function readImage(file: File): Promise<HTMLImageElement> {
   return new Promise((resolve, reject) => {
     const image = new Image();
     const url = URL.createObjectURL(file);
@@ -30,7 +36,7 @@ function readImage(file) {
   });
 }
 
-function getScaledSize(width, height, maxEdge) {
+function getScaledSize(width: number, height: number, maxEdge: number) {
   const longestEdge = Math.max(width, height);
 
   if (!longestEdge || longestEdge <= maxEdge) {
@@ -44,7 +50,7 @@ function getScaledSize(width, height, maxEdge) {
   };
 }
 
-function canvasToBlob(canvas, type, quality) {
+function canvasToBlob(canvas: HTMLCanvasElement, type: string, quality: number): Promise<Blob> {
   return new Promise((resolve, reject) => {
     canvas.toBlob((blob) => {
       if (blob) {
@@ -57,7 +63,7 @@ function canvasToBlob(canvas, type, quality) {
   });
 }
 
-export async function compressImageFile(file, options = {}) {
+export async function compressImageFile(file: File, options: ImageCompressionOptions = {}): Promise<File> {
   const {
     maxEdge = DEFAULT_MAX_IMAGE_EDGE,
     quality = DEFAULT_JPEG_QUALITY,
@@ -74,6 +80,9 @@ export async function compressImageFile(file, options = {}) {
   canvas.height = size.height;
 
   const context = canvas.getContext("2d");
+  if (!context) {
+    return file;
+  }
   context.fillStyle = "#ffffff";
   context.fillRect(0, 0, size.width, size.height);
   context.drawImage(image, 0, 0, size.width, size.height);
@@ -90,7 +99,10 @@ export async function compressImageFile(file, options = {}) {
   });
 }
 
-export async function prepareImageFilesForUpload(files, options = {}) {
+export async function prepareImageFilesForUpload(
+  files?: Iterable<File> | null,
+  options: ImageCompressionOptions = {},
+): Promise<File[]> {
   const fileList = Array.from(files || []);
 
   if (!options.compress) {

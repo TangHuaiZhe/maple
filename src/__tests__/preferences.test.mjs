@@ -5,7 +5,7 @@ import {
   DISCOVERY_VISIBILITY_STORAGE_KEY,
   readDiscoveryVisibility,
   writeDiscoveryVisibility,
-} from "../preferences.mjs";
+} from "../preferences.ts";
 
 function memoryStorage(initialValue = null) {
   let value = initialValue;

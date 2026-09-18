@@ -11,7 +11,7 @@ import {
   matchesQuery,
   normalizeSearchText,
   summarizeText,
-} from "../cultivarViewUtils.mjs";
+} from "../cultivarViewUtils.ts";
 
 test("normalizeSearchText trims and lowercases user input", () => {
   assert.equal(normalizeSearchText("  BloodGood  "), "bloodgood");

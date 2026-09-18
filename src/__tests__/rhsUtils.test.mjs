@@ -9,7 +9,7 @@ import {
   getSizeSummary,
   translateRhsMeasurement,
   translateRhsValue,
-} from "../rhsUtils.mjs";
+} from "../rhsUtils.ts";
 
 test("translateRhsValue translates comma separated RHS values for Chinese UI", () => {
   assert.equal(translateRhsValue("Full Sun, Partial Shade"), "全日照、半阴");

@@ -13,7 +13,7 @@ export function readDiscoveryVisibility(storage = globalThis.window?.localStorag
   }
 }
 
-export function writeDiscoveryVisibility(enabled, storage = globalThis.window?.localStorage) {
+export function writeDiscoveryVisibility(enabled: boolean, storage = globalThis.window?.localStorage) {
   if (!storage) {
     return;
   }

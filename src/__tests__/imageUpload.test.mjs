@@ -4,7 +4,7 @@ import assert from "node:assert/strict";
 import {
   getCompressedImageFileName,
   shouldAttemptImageCompression,
-} from "../imageUpload.mjs";
+} from "../imageUpload.ts";
 
 test("shouldAttemptImageCompression only selects compressible image types", () => {
   assert.equal(shouldAttemptImageCompression({ type: "image/jpeg", size: 500_000 }), true);

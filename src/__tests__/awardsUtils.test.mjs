@@ -1,7 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 
-import { resolveAwardSelections } from "../awardsUtils.mjs";
+import { resolveAwardSelections } from "../awardsUtils.ts";
 
 test("resolveAwardSelections overlays award data onto matching catalog records", () => {
   const records = [

@@ -12,7 +12,7 @@ import {
   resolveThumbnailUrl,
   setRecordPrimaryCover,
   writeFavoriteIds,
-} from "../dataUtils.mjs";
+} from "../dataUtils.ts";
 
 function memoryStorage(initialValue = null) {
   let value = initialValue;

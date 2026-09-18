@@ -1,4 +1,6 @@
-export function pickEditableRecord(record) {
+import type { CultivarRecord } from "./types";
+
+export function pickEditableRecord(record: CultivarRecord) {
   return {
     canonical_name: record.canonical_name ?? "",
     display_name: record.display_name ?? "",
@@ -18,24 +20,26 @@ export function pickEditableRecord(record) {
   };
 }
 
-export function assertEditableRecordShape(record) {
+export function assertEditableRecordShape(record: unknown): asserts record is Partial<CultivarRecord> {
   if (!record || typeof record !== "object" || Array.isArray(record)) {
     throw new Error("编辑内容必须是 JSON 对象");
   }
 
+  const editableRecord = record as Record<string, unknown>;
+
   ["book_groups", "color_groups", "aliases", "search_terms", "sources"].forEach((key) => {
-    if (Object.prototype.hasOwnProperty.call(record, key) && !Array.isArray(record[key])) {
+    if (Object.prototype.hasOwnProperty.call(editableRecord, key) && !Array.isArray(editableRecord[key])) {
       throw new Error(`${key} 必须是数组`);
     }
   });
 
   ["descriptions", "descriptions_zh"].forEach((key) => {
     if (
-      Object.prototype.hasOwnProperty.call(record, key)
+      Object.prototype.hasOwnProperty.call(editableRecord, key)
       && (
-        !record[key]
-        || typeof record[key] !== "object"
-        || Array.isArray(record[key])
+        !editableRecord[key]
+        || typeof editableRecord[key] !== "object"
+        || Array.isArray(editableRecord[key])
       )
     ) {
       throw new Error(`${key} 必须是对象`);
@@ -43,7 +47,7 @@ export function assertEditableRecordShape(record) {
   });
 }
 
-export function mergeEditableRecord(baseRecord, editedRecord) {
+export function mergeEditableRecord(baseRecord: CultivarRecord, editedRecord: Partial<CultivarRecord>): CultivarRecord {
   const nextRecord = { ...baseRecord };
 
   [

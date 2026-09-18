@@ -1,4 +1,5 @@
 import { useDeferredValue, useEffect, useMemo, useRef, useState } from "react";
+import type { ChangeEvent, KeyboardEvent, MouseEvent } from "react";
 import {
   Link,
   Navigate,
@@ -25,14 +26,14 @@ import {
   setRecordPrimaryCover,
   uniqueValues,
   writeFavoriteIds,
-} from "./dataUtils.mjs";
-import { prepareImageFilesForUpload } from "./imageUpload.mjs";
-import { UI_STRINGS } from "./i18n.mjs";
+} from "./dataUtils";
+import { prepareImageFilesForUpload } from "./imageUpload";
+import { UI_STRINGS } from "./i18n";
 import {
   assertEditableRecordShape,
   mergeEditableRecord,
   pickEditableRecord,
-} from "./devEditorUtils.mjs";
+} from "./devEditorUtils";
 import {
   compareCultivars,
   getAlphabetSections,
@@ -45,32 +46,46 @@ import {
   matchesQuery,
   normalizeSearchText,
   summarizeText,
-} from "./cultivarViewUtils.mjs";
+} from "./cultivarViewUtils";
 import {
   RHS_FIELD_LABELS,
   getChineseAliases,
   getDetailTraits,
   getSizeSummary,
-} from "./rhsUtils.mjs";
-import { resolveAwardSelections } from "./awardsUtils.mjs";
+} from "./rhsUtils";
+import { resolveAwardSelections } from "./awardsUtils";
 import {
   DISCOVERY_VISIBILITY_STORAGE_KEY,
   readDiscoveryVisibility,
   writeDiscoveryVisibility,
-} from "./preferences.mjs";
+} from "./preferences";
 import { BUILD_INFO } from "./buildInfo.generated.mjs";
+import type { AwardSelection, CultivarRecord, Locale, ThumbnailManifest } from "./types";
 
 const PAGE_SIZE = 96;
 const DETAIL_GALLERY_PAGE_SIZE = 10;
 const SEARCH_ALL_VALUE = "__all__";
 const DEV_EDITOR_ENABLED = import.meta.env.DEV;
 const FAVORITES_STORAGE_KEY = "maple-favorites";
+type Strings = typeof UI_STRINGS.zh;
+type CatalogSection = [string, CultivarRecord[]];
+type ToggleFavorite = (id: string) => void;
 
-function getCoverSourceLabel(sourceKey, locale = "zh") {
-  return UI_STRINGS[locale]?.coverSource?.[sourceKey] || UI_STRINGS.zh.coverSource[sourceKey] || sourceKey;
+function getErrorMessage(error: unknown): string {
+  return error instanceof Error ? error.message : "未知错误";
 }
 
-function FavoriteToggleButton({ active, onClick, strings, className = "" }) {
+function getCoverSourceLabel(sourceKey: string, locale: Locale = "zh") {
+  const labels: Record<string, string> = UI_STRINGS[locale].coverSource;
+  return labels[sourceKey] || UI_STRINGS.zh.coverSource.none;
+}
+
+function FavoriteToggleButton({ active, onClick, strings, className = "" }: {
+  active: boolean;
+  onClick: () => void;
+  strings: Strings;
+  className?: string;
+}) {
   return (
     <button
       type="button"
@@ -85,7 +100,7 @@ function FavoriteToggleButton({ active, onClick, strings, className = "" }) {
   );
 }
 
-function DefinitionList({ items }) {
+function DefinitionList({ items }: { items: Array<[string, string | null | undefined]> }) {
   return (
     <dl className="detail-list">
       {items.filter(([, value]) => value).map(([label, value]) => (
@@ -98,7 +113,15 @@ function DefinitionList({ items }) {
   );
 }
 
-function ImageLightbox({ images, activeIndex, title, subtitle, onClose, onStep, strings }) {
+function ImageLightbox({ images, activeIndex, title, subtitle, onClose, onStep, strings }: {
+  images: string[];
+  activeIndex: number;
+  title: string;
+  subtitle?: string | null;
+  onClose: () => void;
+  onStep: (step: number) => void;
+  strings: Strings;
+}) {
   const currentImage = images[activeIndex];
 
   if (!currentImage) {
@@ -164,7 +187,15 @@ function ImageLightbox({ images, activeIndex, title, subtitle, onClose, onStep, 
   );
 }
 
-function CultivarCard({ item, prioritizeEditorialImage = false, strings, locale, isFavorite, onToggleFavorite, thumbnailManifest }) {
+function CultivarCard({ item, prioritizeEditorialImage = false, strings, locale, isFavorite, onToggleFavorite, thumbnailManifest }: {
+  item: CultivarRecord;
+  prioritizeEditorialImage?: boolean;
+  strings: Strings;
+  locale: Locale;
+  isFavorite: boolean;
+  onToggleFavorite: ToggleFavorite;
+  thumbnailManifest: ThumbnailManifest;
+}) {
   const description = getPreferredDescription(item, locale);
   const cover = getVisibleCover(item, { prioritizeEditorial: prioritizeEditorialImage });
   const coverSrc = resolveThumbnailUrl(cover, thumbnailManifest, 480);
@@ -181,7 +212,7 @@ function CultivarCard({ item, prioritizeEditorialImage = false, strings, locale,
       />
       <Link className="cultivar-visual" to={`/cultivar/${item.id}`}>
         {cover ? (
-          <img src={coverSrc} alt={item.display_name || item.canonical_name} loading="lazy" />
+          <img src={coverSrc || undefined} alt={item.display_name || item.canonical_name || "Maple cultivar"} loading="lazy" />
         ) : (
           <div className="image-fallback">{strings.common.noImage}</div>
         )}
@@ -204,7 +235,7 @@ function CultivarCard({ item, prioritizeEditorialImage = false, strings, locale,
   );
 }
 
-function AlphabetToolbar({ letters, onSelect, strings }) {
+function AlphabetToolbar({ letters, onSelect, strings }: { letters: string[]; onSelect: (letter: string) => void; strings: Strings }) {
   return (
     <nav className="alpha-toolbar" aria-label={strings.catalog.alphaLabel}>
       {letters.map((letter) => (
@@ -221,7 +252,15 @@ function AlphabetToolbar({ letters, onSelect, strings }) {
   );
 }
 
-function CatalogSections({ sections, prioritizeEditorialImage, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }) {
+function CatalogSections({ sections, prioritizeEditorialImage, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }: {
+  sections: CatalogSection[];
+  prioritizeEditorialImage?: boolean;
+  strings: Strings;
+  locale: Locale;
+  favoriteSet: Set<string>;
+  onToggleFavorite: ToggleFavorite;
+  thumbnailManifest: ThumbnailManifest;
+}) {
   if (!sections.length) {
     return <div className="empty-state">{strings.common.noResults}</div>;
   }
@@ -254,8 +293,15 @@ function CatalogSections({ sections, prioritizeEditorialImage, strings, locale, 
   );
 }
 
-function RHSAwardPage({ records, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }) {
-  const [awardRecords, setAwardRecords] = useState([]);
+function RHSAwardPage({ records, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }: {
+  records: CultivarRecord[];
+  strings: Strings;
+  locale: Locale;
+  favoriteSet: Set<string>;
+  onToggleFavorite: ToggleFavorite;
+  thumbnailManifest: ThumbnailManifest;
+}) {
+  const [awardRecords, setAwardRecords] = useState<AwardSelection[]>([]);
   const resolvedSelections = resolveAwardSelections({ records, awardRecords });
 
   useEffect(() => {
@@ -310,10 +356,18 @@ function RHSAwardPage({ records, strings, locale, favoriteSet, onToggleFavorite,
   );
 }
 
-function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }) {
+function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }: {
+  records: CultivarRecord[];
+  prioritizeEditorialImage?: boolean;
+  strings: Strings;
+  locale: Locale;
+  favoriteSet: Set<string>;
+  onToggleFavorite: ToggleFavorite;
+  thumbnailManifest: ThumbnailManifest;
+}) {
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [pendingLetter, setPendingLetter] = useState("");
-  const sentinelRef = useRef(null);
+  const sentinelRef = useRef<HTMLDivElement>(null);
   const firstRecordId = records[0]?.id || "";
   const lastRecordId = records[records.length - 1]?.id || "";
   const allSections = getAlphabetSections(records);
@@ -371,7 +425,7 @@ function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, 
   const sections = getAlphabetSections(visibleRecords);
   const letters = allSections.map(([letter]) => letter);
 
-  function handleLetterSelect(letter) {
+  function handleLetterSelect(letter: string) {
     const target = document.getElementById(`section-${letter}`);
 
     if (target) {
@@ -414,7 +468,14 @@ function PaginatedCatalog({ records, prioritizeEditorialImage = false, strings, 
   );
 }
 
-function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }) {
+function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }: {
+  records: CultivarRecord[];
+  strings: Strings;
+  locale: Locale;
+  favoriteSet: Set<string>;
+  onToggleFavorite: ToggleFavorite;
+  thumbnailManifest: ThumbnailManifest;
+}) {
   const location = useLocation();
   const navigate = useNavigate();
   const initialQuery = new URLSearchParams(location.search).get("q") || "";
@@ -423,7 +484,7 @@ function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite, thu
   const [category, setCategory] = useState(initialCategory);
   const [showMissingImagesOnly, setShowMissingImagesOnly] = useState(false);
   const deferredQuery = useDeferredValue(query);
-  const categories = [{ value: SEARCH_ALL_VALUE, label: strings.home.allCategories }, ...new Set(records.map((item) => item.top_category).filter(Boolean)).values().map((item) => ({ value: item, label: item }))];
+  const categories = [{ value: SEARCH_ALL_VALUE, label: strings.home.allCategories }, ...Array.from(new Set(records.map((item) => item.top_category).filter((item): item is string => Boolean(item))), (item) => ({ value: item, label: item }))];
 
   useEffect(() => {
     const params = new URLSearchParams();
@@ -489,7 +550,13 @@ function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite, thu
   );
 }
 
-function FavoritesPage({ records, strings, locale, onToggleFavorite, thumbnailManifest }) {
+function FavoritesPage({ records, strings, locale, onToggleFavorite, thumbnailManifest }: {
+  records: CultivarRecord[];
+  strings: Strings;
+  locale: Locale;
+  onToggleFavorite: ToggleFavorite;
+  thumbnailManifest: ThumbnailManifest;
+}) {
   if (!records.length) {
     return (
       <div className="page-shell">
@@ -534,18 +601,25 @@ function LegacySearchRedirect() {
   return <Navigate to={{ pathname: "/", search: location.search }} replace />;
 }
 
-function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, thumbnailManifest }) {
+function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, thumbnailManifest }: {
+  records: CultivarRecord[];
+  locale: Locale;
+  strings: Strings;
+  favoriteSet: Set<string>;
+  onToggleFavorite: ToggleFavorite;
+  thumbnailManifest: ThumbnailManifest;
+}) {
   const { id } = useParams();
-  const [item, setItem] = useState(null);
-  const [status, setStatus] = useState("loading");
+  const [item, setItem] = useState<CultivarRecord | null>(null);
+  const [status, setStatus] = useState<"loading" | "ready" | "error">("loading");
   const [error, setError] = useState("");
-  const [previewIndex, setPreviewIndex] = useState(null);
+  const [previewIndex, setPreviewIndex] = useState<number | null>(null);
   const [visibleImageCount, setVisibleImageCount] = useState(DETAIL_GALLERY_PAGE_SIZE);
   const [searchQuery, setSearchQuery] = useState("");
   const [editorOpen, setEditorOpen] = useState(false);
-  const [editorBaseRecord, setEditorBaseRecord] = useState(null);
+  const [editorBaseRecord, setEditorBaseRecord] = useState<CultivarRecord | null>(null);
   const [editorDraft, setEditorDraft] = useState("");
-  const [editorState, setEditorState] = useState("idle");
+  const [editorState, setEditorState] = useState<"idle" | "loading" | "saving" | "saved" | "error">("idle");
   const [editorMessage, setEditorMessage] = useState("");
   const [uploadState, setUploadState] = useState("idle");
   const [uploadMessage, setUploadMessage] = useState("");
@@ -603,19 +677,25 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
     setEditorState("idle");
     setEditorMessage("");
 
+    if (!id) {
+      setItem(null);
+      setStatus("ready");
+      return;
+    }
+
     loadCultivar(id)
       .then((data) => {
         setItem(data);
         setStatus("ready");
       })
-      .catch((err) => {
-        if (err && err.code === "NOT_FOUND") {
+      .catch((err: unknown) => {
+        if (typeof err === "object" && err && "code" in err && err.code === "NOT_FOUND") {
           setItem(null);
           setStatus("ready");
           return;
         }
         setItem(null);
-        setError(err.message);
+        setError(getErrorMessage(err));
         setStatus("error");
       });
   }, [id]);
@@ -628,7 +708,7 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
     const previousOverflow = document.body.style.overflow;
     document.body.style.overflow = "hidden";
 
-    function handleKeyDown(event) {
+    function handleKeyDown(event: globalThis.KeyboardEvent) {
       if (event.key === "Escape") {
         setPreviewIndex(null);
       }
@@ -705,12 +785,12 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
         .slice(0, 8)
     : [];
 
-  function openPreview(imagePath) {
+  function openPreview(imagePath: string) {
     const index = previewImages.indexOf(imagePath);
     setPreviewIndex(index >= 0 ? index : 0);
   }
 
-  function stepPreview(step) {
+  function stepPreview(step: number) {
     setPreviewIndex((current) => {
       if (current == null || !previewImages.length) return current;
       return (current + step + previewImages.length) % previewImages.length;
@@ -728,13 +808,15 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
     setEditorMessage("");
 
     try {
+      if (!id) throw new Error("缺少品种 ID");
       const record = await loadDevRecord(id);
+      if (!record) throw new Error("无法加载开发编辑数据");
       setEditorBaseRecord(record);
       setEditorDraft(JSON.stringify(pickEditableRecord(record), null, 2));
       setEditorState("idle");
-    } catch (err) {
+    } catch (err: unknown) {
       setEditorState("error");
-      setEditorMessage(err.message);
+      setEditorMessage(getErrorMessage(err));
     }
   }
 
@@ -760,7 +842,9 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
       const parsed = JSON.parse(editorDraft);
       assertEditableRecordShape(parsed);
       const nextRecord = mergeEditableRecord(editorBaseRecord, parsed);
+      if (!id) throw new Error("缺少品种 ID");
       const savedRecord = await saveDevRecord(id, nextRecord);
+      if (!savedRecord) throw new Error("保存后未返回记录");
       const nextItem = await loadCultivar(id);
 
       setEditorBaseRecord(savedRecord);
@@ -768,13 +852,13 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
       setItem(nextItem);
       setEditorState("saved");
       setEditorMessage(devEditorText.saved);
-    } catch (err) {
+    } catch (err: unknown) {
       setEditorState("error");
-      setEditorMessage(err.message);
+      setEditorMessage(getErrorMessage(err));
     }
   }
 
-  async function handleImageUpload(event) {
+  async function handleImageUpload(event: ChangeEvent<HTMLInputElement>) {
     const files = event.target.files;
     if (!files || !files.length) return;
 
@@ -790,12 +874,13 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
         formData.append("images", file, file.name);
       }
 
+      if (!id) throw new Error("缺少品种 ID");
       const res = await fetch(`/__dev/upload-image/${encodeURIComponent(id)}`, {
         method: "POST",
         body: formData,
       });
 
-      const data = await res.json();
+      const data = await res.json() as { error?: string };
       if (!res.ok) throw new Error(data.error || "Upload failed");
 
       const nextItem = await loadCultivar(id);
@@ -803,13 +888,13 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
       setUploadState("done");
       setUploadMessage(`已上传 ${uploadFiles.length} 张图片`);
       event.target.value = "";
-    } catch (err) {
+    } catch (err: unknown) {
       setUploadState("error");
-      setUploadMessage(err.message);
+      setUploadMessage(getErrorMessage(err));
     }
   }
 
-  async function handleSetPrimaryCover(imagePath) {
+  async function handleSetPrimaryCover(imagePath: string) {
     const previousItem = item;
     const previousEditorBaseRecord = editorBaseRecord;
 
@@ -819,9 +904,12 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
     setEditorBaseRecord((current) => (current ? setRecordPrimaryCover(current, imagePath) : current));
 
     try {
+      if (!id) throw new Error("缺少品种 ID");
       const baseRecord = editorBaseRecord || await loadDevRecord(id);
+      if (!baseRecord) throw new Error("无法加载开发编辑数据");
       const nextRecord = setRecordPrimaryCover(baseRecord, imagePath);
       const savedRecord = await saveDevRecord(id, nextRecord);
+      if (!savedRecord) throw new Error("保存后未返回记录");
       const nextItem = await loadCultivar(id);
 
       setEditorBaseRecord(savedRecord);
@@ -829,17 +917,17 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
       setItem(nextItem);
       setEditorState("saved");
       setEditorMessage(locale === "en" ? "Cover image updated" : "主图已更新");
-    } catch (err) {
+    } catch (err: unknown) {
       setItem(previousItem);
       setEditorBaseRecord(previousEditorBaseRecord);
       setEditorState("error");
-      setEditorMessage(err.message);
+      setEditorMessage(getErrorMessage(err));
     } finally {
       setCoverSavePath("");
     }
   }
 
-  async function handleImageAction(imagePath, action) {
+  async function handleImageAction(imagePath: string, action: "delete" | "hide") {
     const actionLabel = action === "delete" ? strings.common.deleteImage : strings.common.hideImage;
     const confirmText = locale === "en"
       ? `Confirm ${actionLabel.toLowerCase()} this image?`
@@ -856,19 +944,21 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
     setItem((current) => removeImageFromDetailRecord(current, imagePath));
 
     try {
+      if (!id) throw new Error("缺少品种 ID");
       await mutateDevImage(id, imagePath, action);
       const nextRecord = await loadDevRecord(id);
+      if (!nextRecord) throw new Error("无法加载开发编辑数据");
       const nextItem = await loadCultivar(id);
       setEditorBaseRecord(nextRecord);
       setEditorDraft(JSON.stringify(pickEditableRecord(nextRecord), null, 2));
       setItem(nextItem);
       setEditorState("saved");
       setEditorMessage(locale === "en" ? `${actionLabel} succeeded` : `${actionLabel}成功`);
-    } catch (err) {
+    } catch (err: unknown) {
       setItem(previousItem);
       setEditorBaseRecord(previousEditorBaseRecord);
       setEditorState("error");
-      setEditorMessage(err.message);
+      setEditorMessage(getErrorMessage(err));
     } finally {
       setImageActionPath("");
     }
@@ -961,7 +1051,7 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
                 onClick={() => openPreview(cover)}
                 aria-label={`${strings.common.imagePreviewHint}: ${item.display_name}`}
               >
-                <img src={coverSrc} alt={item.display_name} />
+                <img src={coverSrc || undefined} alt={item.display_name || undefined} />
                 <span className="image-preview-hint">{strings.common.imagePreviewHint}</span>
               </button>
             ) : (
@@ -984,7 +1074,7 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
                 [strings.detail.topCategory, item.top_category || "—"],
                 [strings.detail.webGroup, item.web_group || "—"],
                 [strings.detail.size, sizeSummary || "—"],
-                [strings.detail.imageCount, galleryImages.length],
+                [strings.detail.imageCount, String(galleryImages.length)],
               ]}
             />
           </article>
@@ -1102,8 +1192,8 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
                     aria-label={`${strings.common.imagePreviewHint}: ${item.display_name} ${index + 1}`}
                   >
                     <img
-                      src={resolveThumbnailUrl(imagePath, thumbnailManifest, index === 0 ? 960 : 480)}
-                      alt={item.display_name}
+                      src={resolveThumbnailUrl(imagePath, thumbnailManifest, index === 0 ? 960 : 480) || undefined}
+                      alt={item.display_name || undefined}
                       loading="lazy"
                     />
                     <span className="image-preview-hint">{strings.common.imagePreviewHint}</span>
@@ -1166,7 +1256,7 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
         <ImageLightbox
           images={previewImages}
           activeIndex={previewIndex}
-          title={item.display_name || item.canonical_name}
+          title={item.display_name || item.canonical_name || "Maple cultivar"}
           subtitle={item.chinese_name}
           onClose={() => setPreviewIndex(null)}
           onStep={stepPreview}
@@ -1178,11 +1268,11 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
 }
 
 export default function App() {
-  const [records, setRecords] = useState([]);
-  const [thumbnailManifest, setThumbnailManifest] = useState({});
-  const [status, setStatus] = useState("loading");
+  const [records, setRecords] = useState<CultivarRecord[]>([]);
+  const [thumbnailManifest, setThumbnailManifest] = useState<ThumbnailManifest>({});
+  const [status, setStatus] = useState<"loading" | "ready" | "error">("loading");
   const [error, setError] = useState("");
-  const [locale, setLocale] = useState("zh");
+  const [locale, setLocale] = useState<Locale>("zh");
   const [favoriteIds, setFavoriteIds] = useState(() => readFavoriteIds());
   const [showDiscoveryCultivars, setShowDiscoveryCultivars] = useState(() => readDiscoveryVisibility());
   const favoriteSet = useMemo(() => new Set(favoriteIds), [favoriteIds]);
@@ -1196,7 +1286,7 @@ export default function App() {
   }, [showDiscoveryCultivars]);
 
   useEffect(() => {
-    function handleStorage(event) {
+    function handleStorage(event: StorageEvent) {
       if (event.key === FAVORITES_STORAGE_KEY) {
         setFavoriteIds(readFavoriteIds());
         return;
@@ -1211,7 +1301,7 @@ export default function App() {
     return () => window.removeEventListener("storage", handleStorage);
   }, []);
 
-  function toggleFavorite(id) {
+  function toggleFavorite(id: string) {
     setFavoriteIds((current) => (
       current.includes(id)
         ? current.filter((item) => item !== id)
@@ -1226,8 +1316,8 @@ export default function App() {
         setThumbnailManifest(manifest);
         setStatus("ready");
       })
-      .catch((err) => {
-        setError(err.message);
+      .catch((err: unknown) => {
+        setError(getErrorMessage(err));
         setStatus("error");
       });
   }, []);
@@ -1245,7 +1335,7 @@ export default function App() {
     ? records
     : records.filter((record) => !isDiscoveryHiddenRecord(record));
   const recordMap = new Map(visibleRecords.map((record) => [record.id, record]));
-  const favoriteRecords = favoriteIds.map((id) => recordMap.get(id)).filter(Boolean);
+  const favoriteRecords = favoriteIds.map((id) => recordMap.get(id)).filter((record): record is CultivarRecord => Boolean(record));
 
   return (
     <div className="app-shell">

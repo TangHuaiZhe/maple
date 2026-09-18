@@ -1,7 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 
-import { UI_STRINGS } from "../i18n.mjs";
+import { UI_STRINGS } from "../i18n.ts";
 
 test("UI_STRINGS exposes Chinese and English navigation labels", () => {
   assert.equal(UI_STRINGS.zh.nav.catalog, "品种目录");
