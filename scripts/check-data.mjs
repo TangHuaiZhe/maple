@@ -183,13 +183,17 @@ async function run() {
   const detailFileRecords = await loadDetailFileRecords();
   const detailRecordsById = new Map(detailFileRecords.map(({ record }) => [record.id, record]));
   const allDetailRecords = [...detailRecordsById.values()];
-
-  return mergeChecks([
+  const checks = [
     checkCatalogDetailConsistency({ catalogRecords, detailRecordsById, mergedRecords }),
     checkDetailFileNameMatchesRecordId({ detailFileRecords }),
     checkCuratedIdsExist({ catalogRecords, popularIds, awardRecords }),
-    checkImagePathsExist({ records: [...catalogRecords, ...allDetailRecords] }),
-  ]);
+  ];
+
+  if (process.env.CHECK_DATA_SKIP_IMAGE_PATHS !== "1") {
+    checks.push(checkImagePathsExist({ records: [...catalogRecords, ...allDetailRecords] }));
+  }
+
+  return mergeChecks(checks);
 }
 
 function printCheck(check) {

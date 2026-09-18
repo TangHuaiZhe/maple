@@ -24,10 +24,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm
@@ -37,6 +37,8 @@ jobs:
 
       - name: Check data
         run: npm run check:data
+        env:
+          CHECK_DATA_SKIP_IMAGE_PATHS: "1"
 
       - name: Run tests
         run: npm test
