@@ -59,7 +59,6 @@ import {
   writeDiscoveryVisibility,
 } from "./preferences.mjs";
 import { BUILD_INFO } from "./buildInfo.generated.mjs";
-import POPULAR_IDS from "../public/data/popular-ids.json";
 
 const PAGE_SIZE = 96;
 const DETAIL_GALLERY_PAGE_SIZE = 10;
@@ -486,58 +485,6 @@ function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite, thu
         onToggleFavorite={onToggleFavorite}
         thumbnailManifest={thumbnailManifest}
       />
-    </div>
-  );
-}
-
-function PopularPage({ records, strings, locale, favoriteSet, onToggleFavorite, thumbnailManifest }) {
-  const [query, setQuery] = useState("");
-  const deferredQuery = useDeferredValue(query);
-  const recordMap = new Map(records.map((r) => [r.id, r]));
-  const popularItems = POPULAR_IDS
-    .map((id) => recordMap.get(id))
-    .filter(Boolean);
-  const normalizedQuery = normalizeSearchText(deferredQuery);
-  const filteredItems = popularItems.filter((item) => matchesQuery(item, normalizedQuery));
-
-  return (
-    <div className="page-shell">
-      <section className="search-panel">
-        <div className="section-head">
-          <h1>{strings.popular.title}</h1>
-          <p>{strings.popular.subtitle}</p>
-        </div>
-        <div className="search-controls" style={{ gridTemplateColumns: "1fr", marginTop: "14px" }}>
-          <label className="field">
-            <span>{strings.home.searchLabel}</span>
-            <input
-              value={query}
-              onChange={(event) => setQuery(event.target.value)}
-              placeholder={strings.home.searchPlaceholder}
-            />
-          </label>
-        </div>
-        <div className="result-summary">{strings.popular.count(filteredItems.length)}</div>
-      </section>
-
-      <div className="catalog-sections">
-        <section className="catalog-section">
-          <div className="catalog-grid">
-            {filteredItems.map((item) => (
-              <CultivarCard
-                key={item.id}
-                item={item}
-                prioritizeEditorialImage
-                strings={strings}
-                locale={locale}
-                isFavorite={favoriteSet.has(item.id)}
-                onToggleFavorite={onToggleFavorite}
-                thumbnailManifest={thumbnailManifest}
-              />
-            ))}
-          </div>
-        </section>
-      </div>
     </div>
   );
 }
@@ -1306,8 +1253,7 @@ export default function App() {
         <Link className="brand" to="/">Maple Atlas</Link>
         <div className="header-tools">
           <nav className="site-nav">
-            <NavLink to="/" end>{strings.nav.popular}</NavLink>
-            <NavLink to="/catalog">{strings.nav.catalog}</NavLink>
+            <NavLink to="/" end>{strings.nav.catalog}</NavLink>
             <NavLink to="/rhs-awards">{strings.nav.awards}</NavLink>
             <NavLink to="/favorites">{strings.nav.favorites}</NavLink>
           </nav>
@@ -1342,7 +1288,7 @@ export default function App() {
         <Route
           path="/"
           element={(
-            <PopularPage
+            <HomePage
               records={visibleRecords}
               strings={strings}
               locale={locale}

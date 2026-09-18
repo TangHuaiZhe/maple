@@ -40,7 +40,6 @@ scripts/             数据同步与图片抓取脚本（仅在需要从源数�
 
 - Web 列表页：运行时请求 `/data/catalog.json`（`src/dataUtils.mjs` -> `loadCatalog()`）
 - Web 详情页：运行时请求 `/data/details/{id}.json`（`src/dataUtils.mjs` -> `loadCultivar()`）
-- Web 流行品种：构建时导入 `public/data/popular-ids.json`（`src/App.jsx`）
 - Web RHS 获奖页：当前使用 `src/App.jsx` 的 `RHS_AWARD_SELECTIONS` 常量（不读 `awards.json`）
 - 小程序列表页：运行时请求 `/data/catalog.json`（`mini/src/services/catalog.ts`）
 - 小程序详情页：运行时请求 `/data/details/{id}.json`（`mini/src/services/cultivar.ts`）

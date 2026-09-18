@@ -3,7 +3,6 @@ export const UI_STRINGS = {
     localeName: "中",
     nav: {
       catalog: "品种目录",
-      popular: "流行品种",
       awards: "RHS 获奖",
       favorites: "收藏",
     },
@@ -69,11 +68,6 @@ export const UI_STRINGS = {
       all: "全部",
       result: (count) => `结果：${count} 条`,
     },
-    popular: {
-      title: "流行品种",
-      subtitle: "最受欢迎和广泛种植的日本枫树品种，涵盖春色、秋色与冬枝观赏。",
-      count: (count) => `共 ${count} 个流行品种`,
-    },
     awards: {
       title: "RHS 获奖品种",
       subtitle: "按你整理的获奖清单单独展示，便于集中浏览经典品种与常见园艺名。",
@@ -132,7 +126,6 @@ export const UI_STRINGS = {
     localeName: "EN",
     nav: {
       catalog: "Catalog",
-      popular: "Popular",
       awards: "RHS Awards",
       favorites: "Favorites",
     },
@@ -197,11 +190,6 @@ export const UI_STRINGS = {
       category: "Top Category",
       all: "All",
       result: (count) => `Results: ${count}`,
-    },
-    popular: {
-      title: "Popular Cultivars",
-      subtitle: "The most popular and widely cultivated Japanese maples, covering spring color, fall color, and winter bark.",
-      count: (count) => `${count} popular cultivars`,
     },
     awards: {
       title: "RHS Award Winners",
