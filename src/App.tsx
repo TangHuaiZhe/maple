@@ -67,12 +67,57 @@ const DETAIL_GALLERY_PAGE_SIZE = 10;
 const SEARCH_ALL_VALUE = "__all__";
 const DEV_EDITOR_ENABLED = import.meta.env.DEV;
 const FAVORITES_STORAGE_KEY = "maple-favorites";
+const SEO_SITE_URL = (import.meta.env.VITE_SITE_URL || "https://maple-684e2.web.app").replace(/\/$/, "");
 type Strings = typeof UI_STRINGS.zh;
 type CatalogSection = [string, CultivarRecord[]];
 type ToggleFavorite = (id: string) => void;
 
 function getErrorMessage(error: unknown): string {
   return error instanceof Error ? error.message : "未知错误";
+}
+
+function setHeadMeta(attribute: "name" | "property", key: string, value: string) {
+  let element = document.head.querySelector(`meta[${attribute}="${key}"]`) as HTMLMetaElement | null;
+  if (!element) {
+    element = document.createElement("meta");
+    element.setAttribute(attribute, key);
+    document.head.appendChild(element);
+  }
+  element.content = value;
+}
+
+function usePageMetadata({ title, description, image, type = "website" }: {
+  title: string;
+  description: string;
+  image?: string | null;
+  type?: "article" | "website";
+}) {
+  const location = useLocation();
+
+  useEffect(() => {
+    const basePath = import.meta.env.BASE_URL.replace(/\/$/, "");
+    const pathname = location.pathname.startsWith(basePath)
+      ? location.pathname.slice(basePath.length) || "/"
+      : location.pathname;
+    const canonical = new URL(pathname, `${SEO_SITE_URL}/`).toString();
+    document.title = title;
+    setHeadMeta("name", "description", description);
+    setHeadMeta("property", "og:type", type);
+    setHeadMeta("property", "og:locale", "zh_CN");
+    setHeadMeta("property", "og:title", title);
+    setHeadMeta("property", "og:description", description);
+    setHeadMeta("property", "og:url", canonical);
+    setHeadMeta("name", "twitter:card", image ? "summary_large_image" : "summary");
+    if (image) setHeadMeta("property", "og:image", new URL(image, `${SEO_SITE_URL}/`).toString());
+
+    let link = document.head.querySelector('link[rel="canonical"]') as HTMLLinkElement | null;
+    if (!link) {
+      link = document.createElement("link");
+      link.rel = "canonical";
+      document.head.appendChild(link);
+    }
+    link.href = canonical;
+  }, [description, image, location.pathname, title, type]);
 }
 
 function getCoverSourceLabel(sourceKey: string, locale: Locale = "zh") {
@@ -301,6 +346,10 @@ function RHSAwardPage({ records, strings, locale, favoriteSet, onToggleFavorite,
   onToggleFavorite: ToggleFavorite;
   thumbnailManifest: ThumbnailManifest;
 }) {
+  usePageMetadata({
+    title: "RHS 获奖日本枫树品种｜皇家园艺学会推荐",
+    description: "浏览英国皇家园艺学会推荐的日本枫树品种及其图片和养护信息。",
+  });
   const [awardRecords, setAwardRecords] = useState<AwardSelection[]>([]);
   const resolvedSelections = resolveAwardSelections({ records, awardRecords });
 
@@ -477,6 +526,13 @@ function HomePage({ records, strings, locale, favoriteSet, onToggleFavorite, thu
   thumbnailManifest: ThumbnailManifest;
 }) {
   const location = useLocation();
+  const isCatalogRoute = location.pathname.endsWith("/catalog");
+  usePageMetadata({
+    title: isCatalogRoute ? "日本枫树品种目录｜按名称、叶色与株形浏览" : "日本枫树品种百科｜580+ 品种、养护与图片",
+    description: isCatalogRoute
+      ? "浏览日本枫树与槭树品种目录，支持中英文及拼音搜索。"
+      : "收录 580+ 日本枫树与槭树品种，提供中英文名称、叶色、株形、养护信息、图片与来源。",
+  });
   const navigate = useNavigate();
   const initialQuery = new URLSearchParams(location.search).get("q") || "";
   const initialCategory = new URLSearchParams(location.search).get("category") || SEARCH_ALL_VALUE;
@@ -557,6 +613,10 @@ function FavoritesPage({ records, strings, locale, onToggleFavorite, thumbnailMa
   onToggleFavorite: ToggleFavorite;
   thumbnailManifest: ThumbnailManifest;
 }) {
+  usePageMetadata({
+    title: "我的收藏｜日本枫树品种百科",
+    description: "查看本设备收藏的日本枫树品种。",
+  });
   if (!records.length) {
     return (
       <div className="page-shell">
@@ -626,6 +686,16 @@ function DetailPage({ records, locale, strings, favoriteSet, onToggleFavorite, t
   const [compressUploads, setCompressUploads] = useState(true);
   const [coverSavePath, setCoverSavePath] = useState("");
   const [imageActionPath, setImageActionPath] = useState("");
+  const seoName = item?.display_name || item?.canonical_name || "日本枫树品种";
+  const seoChineseName = item?.chinese_name ? `（${item.chinese_name}）` : "";
+  const seoDescription = summarizeText(item ? getPreferredDescription(item, "zh") : "", "zh")
+    || `${seoName}${seoChineseName}的叶色、株形、图片与养护信息。`;
+  usePageMetadata({
+    title: `${seoName}${seoChineseName}｜日本枫树品种百科`,
+    description: seoDescription,
+    image: item ? getVisibleCover(item) : null,
+    type: "article",
+  });
   const deferredSearchQuery = useDeferredValue(searchQuery);
   const previewImages = item ? uniqueValues([getVisibleCover(item), ...getVisibleImagePaths(item)]) : [];
   const galleryImages = item ? getVisibleImagePaths(item) : [];
