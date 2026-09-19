@@ -5,7 +5,7 @@ import {
   collectReferencedImagePaths,
   createImageAuditReport,
   summarizeImageFiles,
-} from "../image-audit.mjs";
+} from "../image-audit";
 
 test("collectReferencedImagePaths gathers public image paths from catalog and detail records", () => {
   const refs = collectReferencedImagePaths([

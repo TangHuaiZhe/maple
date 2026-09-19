@@ -2,6 +2,27 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
+import type { CultivarRecord } from "../src/types";
+
+export interface ImageFile {
+  filePath?: string;
+  publicPath: string;
+  size: number;
+}
+
+interface ImageDirectorySummary {
+  directory: string;
+  files: number;
+  bytes: number;
+}
+
+interface ImageAuditReport {
+  directories: ImageDirectorySummary[];
+  total: Omit<ImageDirectorySummary, "directory">;
+  oversizedFiles: ImageFile[];
+  unreferencedFiles: ImageFile[];
+}
+
 const appRoot = process.cwd();
 const publicRoot = path.join(appRoot, "public");
 const dataRoot = path.join(publicRoot, "data");
@@ -16,7 +37,7 @@ const defaultImageDirs = [
   "user-images",
 ];
 const imageExtensions = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif", ".avif"]);
-const imagePathKeys = [
+const imagePathKeys: Array<Exclude<keyof NonNullable<CultivarRecord["images"]>, "public_count">> = [
   "public_cover_path",
   "public_paths",
   "public_rhs_paths",
@@ -28,11 +49,11 @@ const imagePathKeys = [
   "public_user_paths",
 ];
 
-function isPublicImagePath(value) {
+function isPublicImagePath(value: unknown): boolean {
   return /^\/[^/]/.test(String(value || ""));
 }
 
-function normalizePublicPath(value) {
+function normalizePublicPath(value: unknown): string {
   const pathname = String(value || "").split("?")[0];
   try {
     const decoded = decodeURIComponent(pathname);
@@ -42,7 +63,7 @@ function normalizePublicPath(value) {
   }
 }
 
-function collectRecordImagePaths(record) {
+function collectRecordImagePaths(record: CultivarRecord): string[] {
   const values = [
     record.cover_path,
     record.images?.public_cover_path,
@@ -60,12 +81,12 @@ function collectRecordImagePaths(record) {
   return values.filter(isPublicImagePath).map(normalizePublicPath);
 }
 
-export function collectReferencedImagePaths(records) {
+export function collectReferencedImagePaths(records: CultivarRecord[] = []): Set<string> {
   return new Set((records || []).flatMap(collectRecordImagePaths));
 }
 
-export function summarizeImageFiles(imageFiles) {
-  const byDirectory = new Map();
+export function summarizeImageFiles(imageFiles: ImageFile[] = []): Pick<ImageAuditReport, "directories" | "total"> {
+  const byDirectory = new Map<string, ImageDirectorySummary>();
   const total = { files: 0, bytes: 0 };
 
   for (const file of imageFiles || []) {
@@ -91,7 +112,12 @@ export function createImageAuditReport({
   referencedPaths,
   oversizedThresholdBytes,
   limit = 20,
-}) {
+}: {
+  imageFiles: ImageFile[];
+  referencedPaths: Set<string>;
+  oversizedThresholdBytes: number;
+  limit?: number;
+}): ImageAuditReport {
   const summary = summarizeImageFiles(imageFiles);
   const sortedBySize = [...imageFiles].sort((a, b) => b.size - a.size || a.publicPath.localeCompare(b.publicPath));
 
@@ -106,27 +132,27 @@ export function createImageAuditReport({
   };
 }
 
-async function readJson(filePath) {
-  return JSON.parse(await fs.readFile(filePath, "utf8"));
+async function readJson<T>(filePath: string): Promise<T> {
+  return JSON.parse(await fs.readFile(filePath, "utf8")) as T;
 }
 
-export async function loadRecords() {
-  const catalogRecords = await readJson(path.join(dataRoot, "catalog.json"));
+export async function loadRecords(): Promise<CultivarRecord[]> {
+  const catalogRecords = await readJson<CultivarRecord[]>(path.join(dataRoot, "catalog.json"));
   const detailEntries = await fs.readdir(detailsRoot);
   const detailRecords = [];
 
   for (const entry of detailEntries.filter((item) => item.endsWith(".json")).sort()) {
-    detailRecords.push(await readJson(path.join(detailsRoot, entry)));
+    detailRecords.push(await readJson<CultivarRecord>(path.join(detailsRoot, entry)));
   }
 
   return [...catalogRecords, ...detailRecords];
 }
 
-async function scanImageDir(dirName) {
+async function scanImageDir(dirName: string): Promise<ImageFile[]> {
   const dirPath = path.join(publicRoot, dirName);
-  const files = [];
+  const files: ImageFile[] = [];
 
-  async function walk(currentDir) {
+  async function walk(currentDir: string): Promise<void> {
     let entries;
     try {
       entries = await fs.readdir(currentDir, { withFileTypes: true });
@@ -159,19 +185,19 @@ async function scanImageDir(dirName) {
   return files;
 }
 
-export async function scanImageFiles(imageDirs = defaultImageDirs) {
+export async function scanImageFiles(imageDirs: string[] = defaultImageDirs): Promise<ImageFile[]> {
   const nested = await Promise.all(imageDirs.map(scanImageDir));
   return nested.flat();
 }
 
-export function formatBytes(bytes) {
+export function formatBytes(bytes: number): string {
   if (bytes >= 1024 * 1024 * 1024) return `${(bytes / 1024 / 1024 / 1024).toFixed(2)} GB`;
   if (bytes >= 1024 * 1024) return `${(bytes / 1024 / 1024).toFixed(1)} MB`;
   if (bytes >= 1024) return `${(bytes / 1024).toFixed(1)} KB`;
   return `${bytes} B`;
 }
 
-function printReport(report, { oversizedThresholdBytes }) {
+function printReport(report: ImageAuditReport, { oversizedThresholdBytes }: { oversizedThresholdBytes: number }): void {
   console.log(`Image audit: ${report.total.files} files, ${formatBytes(report.total.bytes)}`);
   console.log("");
   console.log("By directory:");
@@ -221,8 +247,8 @@ async function run() {
 const currentFile = fileURLToPath(import.meta.url);
 
 if (process.argv[1] === currentFile) {
-  run().catch((error) => {
-    console.error(error.message || error);
+  run().catch((error: unknown) => {
+    console.error(error instanceof Error ? error.message : error);
     process.exitCode = 1;
   });
 }

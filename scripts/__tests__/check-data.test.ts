@@ -6,7 +6,7 @@ import {
   checkCuratedIdsExist,
   checkDetailFileNameMatchesRecordId,
   checkImagePathsExist,
-} from "../check-data.mjs";
+} from "../check-data";
 
 test("checkCatalogDetailConsistency reports catalog ids without detail files", () => {
   const result = checkCatalogDetailConsistency({

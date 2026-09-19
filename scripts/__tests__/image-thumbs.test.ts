@@ -5,7 +5,7 @@ import {
   createThumbnailManifest,
   createThumbnailPublicPath,
   planThumbnailJobs,
-} from "../image-thumbs.mjs";
+} from "../image-thumbs";
 
 test("createThumbnailPublicPath maps public images into width-specific webp thumbnails", () => {
   assert.equal(

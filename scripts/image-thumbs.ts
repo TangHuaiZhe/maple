@@ -7,7 +7,40 @@ import {
   formatBytes,
   loadRecords,
   scanImageFiles,
-} from "./image-audit.mjs";
+} from "./image-audit";
+import type { CultivarRecord } from "../src/types";
+import type { ImageFile } from "./image-audit";
+
+interface ThumbnailOptions {
+  coversOnly: boolean;
+  help: boolean;
+  includeAll: boolean;
+  limit: number;
+  minSourceBytes: number;
+  publicRoot: string;
+  sizes: number[];
+  sourceDir: string;
+  write: boolean;
+}
+
+interface ThumbnailJob {
+  sourceFilePath: string;
+  sourcePublicPath: string;
+  thumbFilePath: string;
+  thumbPublicPath: string;
+  width: number;
+}
+
+type ThumbnailManifest = Record<string, Partial<Record<number, string>>>;
+
+interface SharpPipeline {
+  rotate(): SharpPipeline;
+  resize(options: { width: number; withoutEnlargement: boolean }): SharpPipeline;
+  webp(options: { quality: number }): SharpPipeline;
+  toFile(filePath: string): Promise<unknown>;
+}
+
+type SharpFactory = (sourceFilePath: string) => SharpPipeline;
 
 const appRoot = process.cwd();
 const publicRoot = path.join(appRoot, "public");
@@ -15,7 +48,7 @@ const manifestPath = path.join(publicRoot, "data", "image-thumbs.json");
 const defaultSizes = [480, 960];
 const defaultMinSourceBytes = 250 * 1024;
 
-function normalizePublicPath(value) {
+function normalizePublicPath(value: unknown): string {
   const pathname = String(value || "").split("?")[0];
   try {
     const decoded = decodeURIComponent(pathname);
@@ -25,13 +58,14 @@ function normalizePublicPath(value) {
   }
 }
 
-function getTopLevelDirectory(publicPath) {
+function getTopLevelDirectory(publicPath: string): string {
   return normalizePublicPath(publicPath).replace(/^\/+/, "").split("/")[0] || "";
 }
 
-function parseArgs(argv) {
+function parseArgs(argv: string[]): ThumbnailOptions {
   const options = {
     coversOnly: false,
+    help: false,
     includeAll: false,
     limit: Number.POSITIVE_INFINITY,
     minSourceBytes: Number(process.env.THUMB_MIN_SOURCE_BYTES || defaultMinSourceBytes),
@@ -68,7 +102,7 @@ function parseArgs(argv) {
   return options;
 }
 
-function collectCoverImagePaths(records) {
+function collectCoverImagePaths(records: CultivarRecord[] = []): Set<string> {
   return new Set((records || [])
     .flatMap((record) => [
       record.cover_path,
@@ -96,7 +130,7 @@ Options:
 `);
 }
 
-export function createThumbnailPublicPath(sourcePublicPath, width) {
+export function createThumbnailPublicPath(sourcePublicPath: string, width: number): string {
   const normalized = normalizePublicPath(sourcePublicPath);
   const parsed = path.posix.parse(normalized);
   return path.posix.join(
@@ -117,7 +151,18 @@ export function planThumbnailJobs({
   referencedPaths,
   sizes = defaultSizes,
   sourceDir = "",
-}) {
+}: {
+  coverPaths?: Set<string>;
+  existingThumbPaths?: Set<string>;
+  imageFiles: ImageFile[];
+  includeAll?: boolean;
+  coversOnly?: boolean;
+  minSourceBytes?: number;
+  publicRoot?: string;
+  referencedPaths?: Set<string>;
+  sizes?: number[];
+  sourceDir?: string;
+}): ThumbnailJob[] {
   const jobs = [];
   const normalizedCoverPaths = new Set([...coverPaths].map(normalizePublicPath));
   const normalizedReferencedPaths = referencedPaths
@@ -161,7 +206,7 @@ export function planThumbnailJobs({
       }
 
       jobs.push({
-        sourceFilePath: file.filePath,
+        sourceFilePath: file.filePath || path.join(root, sourcePublicPath.replace(/^\/+/, "")),
         sourcePublicPath,
         thumbFilePath: path.join(root, thumbPublicPath.replace(/^\/+/, "")),
         thumbPublicPath,
@@ -178,12 +223,17 @@ export function createThumbnailManifest({
   generatedJobs = [],
   imageFiles,
   sizes = defaultSizes,
-}) {
+}: {
+  existingThumbPaths?: Set<string>;
+  generatedJobs?: ThumbnailJob[];
+  imageFiles: ImageFile[];
+  sizes?: number[];
+}): ThumbnailManifest {
   const availableThumbPaths = new Set([
     ...existingThumbPaths,
     ...generatedJobs.map((job) => job.thumbPublicPath),
   ]);
-  const manifest = {};
+  const manifest: ThumbnailManifest = {};
 
   for (const file of imageFiles || []) {
     const sourcePublicPath = normalizePublicPath(file.publicPath);
@@ -207,7 +257,17 @@ export function createThumbnailManifest({
   return manifest;
 }
 
-async function writeThumbnailManifest({ existingThumbPaths, generatedJobs, imageFiles, sizes }) {
+async function writeThumbnailManifest({
+  existingThumbPaths,
+  generatedJobs,
+  imageFiles,
+  sizes,
+}: {
+  existingThumbPaths: Set<string>;
+  generatedJobs: ThumbnailJob[];
+  imageFiles: ImageFile[];
+  sizes: number[];
+}): Promise<ThumbnailManifest> {
   const manifest = createThumbnailManifest({
     existingThumbPaths,
     generatedJobs,
@@ -218,7 +278,7 @@ async function writeThumbnailManifest({ existingThumbPaths, generatedJobs, image
   return manifest;
 }
 
-async function generateThumbnail(job, sharp) {
+async function generateThumbnail(job: ThumbnailJob, sharp: SharpFactory): Promise<void> {
   await fs.mkdir(path.dirname(job.thumbFilePath), { recursive: true });
   await sharp(job.sourceFilePath)
     .rotate()
@@ -227,7 +287,17 @@ async function generateThumbnail(job, sharp) {
     .toFile(job.thumbFilePath);
 }
 
-function printPlan({ jobs, options, totalImageFiles, totalExistingThumbs }) {
+function printPlan({
+  jobs,
+  options,
+  totalImageFiles,
+  totalExistingThumbs,
+}: {
+  jobs: ThumbnailJob[];
+  options: ThumbnailOptions;
+  totalImageFiles: number;
+  totalExistingThumbs: number;
+}): void {
   const mode = options.write ? "write" : "dry-run";
   const sourceScope = options.sourceDir || "all image directories";
 
@@ -285,15 +355,15 @@ async function run() {
     return;
   }
 
-  let sharp;
+  let sharp: SharpFactory;
   try {
-    sharp = (await import("sharp")).default;
+    sharp = (await import("sharp")).default as unknown as SharpFactory;
   } catch {
     throw new Error("Missing dependency: run `npm install` before generating thumbnails.");
   }
 
   let generated = 0;
-  const generatedJobs = [];
+  const generatedJobs: ThumbnailJob[] = [];
   for (const job of jobs) {
     await generateThumbnail(job, sharp);
     existingThumbPaths.add(job.thumbPublicPath);
@@ -314,8 +384,8 @@ async function run() {
 const currentFile = fileURLToPath(import.meta.url);
 
 if (process.argv[1] === currentFile) {
-  run().catch((error) => {
-    console.error(error.message || error);
+  run().catch((error: unknown) => {
+    console.error(error instanceof Error ? error.message : error);
     process.exitCode = 1;
   });
 }
