@@ -5,19 +5,31 @@ import { fileURLToPath } from "node:url";
 
 export const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
+export interface BuildInfo {
+  version: string;
+  branch: string;
+  commit: string;
+  commitFull: string;
+  commitDate: string;
+  commitSubject: string;
+  buildTime: string;
+}
+
+export type GitExecutor = (command: string) => string;
+
 export function readPackageVersion(packagePath = path.join(repoRoot, "package.json")) {
   const pkg = JSON.parse(fs.readFileSync(packagePath, "utf8"));
   return pkg.version || "0.0.0";
 }
 
-function execGit(command) {
+function execGit(command: string): string {
   return execFileSync("git", ["-C", repoRoot, ...command.split(" ")], {
     encoding: "utf8",
     stdio: ["ignore", "pipe", "ignore"],
   }).trim();
 }
 
-function readGitValue(command, executor) {
+function readGitValue(command: string, executor: GitExecutor): string {
   try {
     return executor(command);
   } catch {
@@ -25,7 +37,7 @@ function readGitValue(command, executor) {
   }
 }
 
-function readGitLatestTag(executor) {
+function readGitLatestTag(executor: GitExecutor): string {
   try {
     return executor("describe --tags --abbrev=0");
   } catch {
@@ -34,10 +46,10 @@ function readGitLatestTag(executor) {
 }
 
 export function createBuildInfo({
-  version = undefined,
+  version,
   execGit: gitExecutor = execGit,
   now = () => new Date(),
-} = {}) {
+}: { version?: string; execGit?: GitExecutor; now?: () => Date } = {}): BuildInfo {
   const resolvedVersion = version ?? readGitLatestTag(gitExecutor);
   return {
     version: resolvedVersion,
@@ -50,6 +62,6 @@ export function createBuildInfo({
   };
 }
 
-export function createWebBuildInfoModule(buildInfo) {
+export function createWebBuildInfoModule(buildInfo: BuildInfo): string {
   return `export const BUILD_INFO = ${JSON.stringify(buildInfo, null, 2)};\n`;
 }

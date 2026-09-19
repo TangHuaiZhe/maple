@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { createBuildInfo, createWebBuildInfoModule } from "../build-info.mjs";
+import { createBuildInfo, createWebBuildInfoModule } from "../build-info";
 
 test("createBuildInfo reads version from latest git tag", () => {
   const info = createBuildInfo({

@@ -5,7 +5,7 @@ import { execFile } from "node:child_process";
 import { promisify } from "node:util";
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
-import { createBuildInfo, createWebBuildInfoModule, repoRoot } from "./scripts/build-info.mjs";
+import { createBuildInfo, createWebBuildInfoModule, repoRoot } from "./scripts/build-info";
 
 const execFileAsync = promisify(execFile);
 const appRoot = process.cwd();

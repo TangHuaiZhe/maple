@@ -6,7 +6,7 @@ deploy-static/
 .firebase/
 firebase-debug.log
 mini/src/buildInfo.ts
-src/buildInfo.generated.mjs
+src/buildInfo.generated.*
 
 # Generated public image links from sync-data.mjs
 public/rhs-images

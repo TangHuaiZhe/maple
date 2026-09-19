@@ -1,7 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 
-import { syncMiniPopularIds } from "../sync-mini-popular-ids.mjs";
+import { syncMiniPopularIds } from "../sync-mini-popular-ids";
 
 test("syncMiniPopularIds copies public popular ids into the mini program", async () => {
   const writes = [];

@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { createMiniBuildInfo } from "../mini-build-info.mjs";
+import { createMiniBuildInfo } from "../mini-build-info";
 
 test("createMiniBuildInfo returns package version and git metadata", () => {
   const info = createMiniBuildInfo({

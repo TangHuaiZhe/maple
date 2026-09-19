@@ -59,7 +59,7 @@ import {
   readDiscoveryVisibility,
   writeDiscoveryVisibility,
 } from "./preferences";
-import { BUILD_INFO } from "./buildInfo.generated.mjs";
+import { BUILD_INFO } from "./buildInfo.generated";
 import type { AwardSelection, CultivarRecord, Locale, ThumbnailManifest } from "./types";
 
 const PAGE_SIZE = 96;

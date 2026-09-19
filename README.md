@@ -109,7 +109,7 @@ curl -I -L 'https://maple-684e2.web.app/'
 curl -I -L 'https://maple-684e2.web.app/data/catalog.json'
 ```
 
-Firebase 配置位于 [firebase.json](./firebase.json)，Firebase 模式环境变量位于 `.env.firebase`。原图复制由 `scripts/prepare-firebase-hosting.mjs` 完成；`.firebaserc` 仅保存在本地，不提交到仓库。
+Firebase 配置位于 [firebase.json](./firebase.json)，Firebase 模式环境变量位于 `.env.firebase`。原图复制由 `scripts/prepare-firebase-hosting.ts` 完成；`.firebaserc` 仅保存在本地，不提交到仓库。
 
 ### 腾讯云 CloudBase（历史/备用）
 

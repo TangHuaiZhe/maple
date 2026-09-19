@@ -8,7 +8,27 @@ const catalogPath = path.join(repoRoot, "public", "data", "catalog.json");
 const siteUrl = (process.env.VITE_SITE_URL || "https://maple-684e2.web.app").replace(/\/$/, "");
 let activeSiteUrl = siteUrl;
 
-function escapeHtml(value) {
+interface SeoRecord {
+  id: string;
+  canonical_name?: string;
+  display_name?: string;
+  chinese_name?: string;
+  scientific_name?: string;
+  top_category?: string;
+  web_group?: string;
+  preferred_description?: string;
+  cover_path?: string;
+}
+
+interface SeoMetadata {
+  title: string;
+  description: string;
+  pathname: string;
+  image?: string;
+  type?: "article" | "website";
+}
+
+function escapeHtml(value: unknown): string {
   return String(value || "")
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
@@ -17,18 +37,18 @@ function escapeHtml(value) {
     .replace(/'/g, "&#39;");
 }
 
-function summarize(value, maxLength = 170) {
+function summarize(value: unknown, maxLength = 170): string {
   const normalized = String(value || "").replace(/\s+/g, " ").trim();
   if (normalized.length <= maxLength) return normalized;
   return `${normalized.slice(0, maxLength - 1).trimEnd()}…`;
 }
 
-function absoluteUrl(value) {
+function absoluteUrl(value: string | undefined): string {
   if (!value) return "";
   return new URL(value, `${activeSiteUrl}/`).toString();
 }
 
-function pageHead({ title, description, pathname, image = "", type = "website" }) {
+function pageHead({ title, description, pathname, image = "", type = "website" }: SeoMetadata): string {
   const canonical = absoluteUrl(pathname);
   const imageTag = image ? `\n    <meta property="og:image" content="${escapeHtml(absoluteUrl(image))}" />` : "";
   return `    <link rel="canonical" href="${escapeHtml(canonical)}" />
@@ -40,7 +60,7 @@ function pageHead({ title, description, pathname, image = "", type = "website" }
     <meta name="twitter:card" content="summary_large_image" />`;
 }
 
-function replaceSeoTags(html, metadata) {
+function replaceSeoTags(html: string, metadata: SeoMetadata): string {
   const head = pageHead(metadata);
   return html
     .replace(/<title>[^<]*<\/title>/, `<title>${escapeHtml(metadata.title)}</title>`)
@@ -48,7 +68,7 @@ function replaceSeoTags(html, metadata) {
     .replace("<!-- seo:generated -->", head);
 }
 
-function fallbackMarkup(record) {
+function fallbackMarkup(record: SeoRecord): string {
   const name = record.display_name || record.canonical_name || record.id;
   const scientificName = record.scientific_name || record.canonical_name || "";
   const description = summarize(record.preferred_description, 420);
@@ -65,26 +85,30 @@ function fallbackMarkup(record) {
     </main>`;
 }
 
-function staticPageMarkup({ title, description, heading, body }) {
+function staticPageMarkup({ title, description, heading, body }: SeoMetadata & { heading: string; body?: string }): string {
   return `<main class="seo-fallback"><article><h1>${escapeHtml(heading)}</h1><p>${escapeHtml(body || description)}</p></article></main>`;
 }
 
-async function writePage(html, relativeDirectory, metadata, markup) {
+async function writePage(html: string, relativeDirectory: string, metadata: SeoMetadata, markup: string): Promise<void> {
   const output = replaceSeoTags(html, metadata).replace('<div id="root"></div>', `<div id="root">${markup}</div>`);
   const target = path.join(distRoot, relativeDirectory, "index.html");
   await fs.mkdir(path.dirname(target), { recursive: true });
   await fs.writeFile(target, output, "utf8");
 }
 
-function xmlEscape(value) {
+function xmlEscape(value: unknown): string {
   return escapeHtml(value);
 }
 
-export async function generateSeoFiles({ root = repoRoot, output = distRoot, baseUrl = siteUrl } = {}) {
+export async function generateSeoFiles({
+  root = repoRoot,
+  output = distRoot,
+  baseUrl = siteUrl,
+}: { root?: string; output?: string; baseUrl?: string } = {}): Promise<{ cultivarCount: number; sitemapCount: number }> {
   const indexPath = path.join(output, "index.html");
   const catalogFile = path.join(root, "public", "data", "catalog.json");
   const [indexHtml, catalogRaw] = await Promise.all([fs.readFile(indexPath, "utf8"), fs.readFile(catalogFile, "utf8")]);
-  const catalog = JSON.parse(catalogRaw);
+  const catalog = JSON.parse(catalogRaw) as SeoRecord[];
   const normalizedBaseUrl = baseUrl.replace(/\/$/, "");
   const originalSiteUrl = activeSiteUrl;
   activeSiteUrl = normalizedBaseUrl;
@@ -144,8 +168,8 @@ if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.me
     .then(({ cultivarCount, sitemapCount }) => {
       console.log(`Generated SEO files for ${cultivarCount} cultivars (${sitemapCount} sitemap URLs).`);
     })
-    .catch((error) => {
-      console.error(error.message || error);
+    .catch((error: unknown) => {
+      console.error(error instanceof Error ? error.message : error);
       process.exitCode = 1;
     });
 }

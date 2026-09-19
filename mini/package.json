@@ -13,10 +13,10 @@
     "css": "sass"
   },
   "scripts": {
-    "prebuild:weapp": "node ../scripts/write-mini-build-info.mjs",
+    "prebuild:weapp": "node ../node_modules/tsx/dist/cli.mjs ../scripts/write-mini-build-info.ts",
     "build:weapp": "NODE_ENV=production taro build --type weapp",
     "typecheck": "tsc --noEmit",
-    "prebuild:weapp:dev": "node ../scripts/write-mini-build-info.mjs",
+    "prebuild:weapp:dev": "node ../node_modules/tsx/dist/cli.mjs ../scripts/write-mini-build-info.ts",
     "build:weapp:dev": "NODE_ENV=development taro build --type weapp",
     "build:h5": "taro build --type h5",
     "dev:weapp": "npm run build:weapp:dev -- --watch",
